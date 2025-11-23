@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-23T09:15:15.498649Z",
+    "lastUpdatedAt": "2025-11-23T10:15:15.487130Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Golden Guitars to review stance on AI after 2026 awards",
+            "url": "https://www.abc.net.au/news/2025-11-23/golden-guitar-awards-generative-ai-country-music/106023832",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d083713429f1950bc7f4c877664558bd?impolicy=wcms_watermark_news&cropH=642&cropW=1142&xPos=0&yPos=135&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-11-22T21:39:14Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -3537,18 +3549,6 @@
             "url": "https://www.ibtimes.com/google-gemini-3-takes-major-leap-reasoning-aiming-fix-ais-biggest-flaw-3790831",
             "urlToImage": "https://d.ibtimes.com/en/full/4632626/apple-turns-google-gemini-ai-help.jpg",
             "publishedAt": "2025-11-20T17:18:58Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Intelligent Cybersecurity Platforms Elevating Digital Resilience and Trust",
-            "url": "https://techbullion.com/intelligent-cybersecurity-platforms-elevating-digital-resilience-and-trust/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/RESILIENCE-742x470-1.jpg",
-            "publishedAt": "2025-11-20T17:15:05Z"
         }
     ]
 }
