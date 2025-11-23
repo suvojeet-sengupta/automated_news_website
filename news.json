@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-11-23T11:12:19.534473Z",
+    "lastUpdatedAt": "2025-11-23T12:28:09.086658Z",
     "articles": [
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "Trump’s big problem is not Epstein - it’s the AI bubble",
+            "url": "https://www.thetimes.com/us/american-politics/article/trump-ai-bubble-us-economy-impact-gmzfn8fv8",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F3ec84425-218d-4f23-9067-84c67f6796a5.jpg?crop=4861%2C2734%2C0%2C157&resize=1200",
+            "publishedAt": "2025-11-23T00:01:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "SSEA AI Reshapes Digital Asset Returns: Integrating",
+            "url": "https://www.globenewswire.com/news-release/2025/11/23/3193135/0/en/SSEA-AI-Reshapes-Digital-Asset-Returns-Integrating-Artificial-Intelligence-to-Help-Global-Enthusiasts-Efficiently-Acquire-XRP.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/e0575d89-6167-4359-b3c3-ab5bdbdc14d4",
+            "publishedAt": "2025-11-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Zero debt, 100% growth: The 2 cybersecurity gems in Vijay Kedia’s portfolio",
+            "url": "https://www.financialexpress.com/market/stock-insights/zero-debt-100-growth-the-2-cybersecurity-gems-in-vijay-kedias-portfolio/4052780/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/11/Untitled-design114.jpg?quality=100",
+            "publishedAt": "2025-11-23T00:00:00Z"
+        },
         {
             "source": {
                 "id": "28bc60a23a7bf89e60f893506992a3fe",
@@ -564,6 +600,15 @@
             "url": "https://www.bloomberg.com/news/articles/2025-11-22/carlyle-backed-defense-contractor-pulls-2-3-billion-loan-sale",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBiomS3A9B.M/v0/1200x800.jpg",
             "publishedAt": "2025-11-22T00:08:44Z"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Lean4: How the theorem prover works and why it's the new competitive edge in AI",
+            "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/5oGpH06YuPc5Tx7StjhEDT/acc27ce389aae3c647a2df8f5b3d576b/Lean_4.png?q=30&w=300",
+            "publishedAt": "2025-11-22 23:36:57"
         },
         {
             "source": {
@@ -3501,54 +3546,6 @@
             "url": "https://phys.org/news/2025-11-ai-wont-redefine-valuable.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
             "publishedAt": "2025-11-20T17:50:04Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Numerai Raises $30 Million Series C Led by Top University Endowments, at $500 Million Valuation",
-            "url": "https://markets.businessinsider.com/news/currencies/numerai-raises-30-million-series-c-led-by-top-university-endowments-at-500-million-valuation-1035582902",
-            "urlToImage": "https://app.chainwire.org/storage/uploads/users/chainwire_1763660305SjPVxw6nzn.jpg",
-            "publishedAt": "2025-11-20T17:47:07Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Amazon to Build $3B Ai Data Center in Mississippi",
-            "url": "https://www.marketscreener.com/news/amazon-to-build-3b-ai-data-center-in-mississippi-ce7d5ededc8ff324",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-20T17:35:26Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Palo Alto Networks Called A 'Buy' On The Dip, Analysts Bet On Its AI Security Lead",
-            "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/25/11/48983482/palo-alto-networks-called-a-buy-on-the-dip-analysts-bet-on-its-ai-security-lead",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/11/20/Palo-Alto-Networks.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-11-20T17:34:20Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Israel business ties deepen as industry leaders highlight cooperation, investment and growing opportunities",
-            "url": "https://www.tribuneindia.com/news/business/india-israel-business-ties-deepen-as-industry-leaders-highlight-cooperation-investment-and-growing-opportunities/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMzMTRlOGEwLWM2MzUtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-11-20T17:20:19Z"
         }
     ]
 }
