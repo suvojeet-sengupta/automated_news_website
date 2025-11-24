@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-24T12:34:02.404634Z",
+    "lastUpdatedAt": "2025-11-24T13:30:12.264675Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "YTL explores IPP, data centre and AI prospects in South Africa",
+            "url": "https://www.thestar.com.my/business/business-news/2025/11/24/ytl-explores-ipp-data-centre-and-ai-prospects-in-south-africa",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/24/3636848.jpg",
+            "publishedAt": "2025-11-24T01:21:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI momentum is real: But what’s in it for investors?",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/ai-momentum-is-real-but-whats-in-it-for-investors/articleshow/125499438.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-119412,resizemode-75,msid-125499438/wealth/invest/ai-momentum-is-real-but-whats-in-it-for-investors.jpg",
+            "publishedAt": "2025-11-24T01:00:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -71,6 +95,18 @@
             "title": "Sophos Accelerates Growth and Leadership in Latin America",
             "url": "https://www.globenewswire.com/news-release/2025/11/24/3193356/0/en/Sophos-Accelerates-Growth-and-Leadership-in-Latin-America-with-Strong-Regional-Momentum.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/35db908a-b7b8-4ce0-b920-69875da346ba",
+            "publishedAt": "2025-11-24T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Ramsey Theory Group CEO Dan Herbatschek Identifies the",
+            "url": "https://www.globenewswire.com/news-release/2025/11/24/3193477/0/en/Ramsey-Theory-Group-CEO-Dan-Herbatschek-Identifies-the-Three-Most-Significant-Cybersecurity-Threats-for-Businesses-Coming-in-December-2025.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/79124e1c-a1a7-4bae-b33e-64f26d040e3b",
             "publishedAt": "2025-11-24T00:00:00Z"
         },
         {
@@ -3528,42 +3564,6 @@
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-future-of-consulting-how-ai-is-creating-a-new-frontier-of-data-driven-decision-making/articleshow/125475936.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-128224,resizemode-75,msid-125475936/tech/artificial-intelligence/the-future-of-consulting-how-ai-is-creating-a-new-frontier-of-data-driven-decision-making.jpg",
             "publishedAt": "2025-11-21T03:02:10Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Lingyi iTech (Guangdong) Submits Hong Kong IPO Application",
-            "url": "https://www.marketscreener.com/news/lingyi-itech-guangdong-submits-hong-kong-ipo-application-ce7d5eded18cf524",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-21T02:58:11Z"
-        },
-        {
-            "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
-                "country": "gb"
-            },
-            "title": "PwC graduate roles under threat from AI, accountancy firm boss says",
-            "url": "https://www.bbc.com/news/articles/cm272510e6jo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/55ee/live/7e1dda70-c67e-11f0-8ab6-759444998531.jpg",
-            "publishedAt": "2025-11-21T02:34:57Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "Experts warn of espionage, infra sabotage, hybrid warfare",
-            "url": "https://manilastandard.net/news/314670997/experts-warn-of-espionage-infra-sabotage-hybrid-warfare.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/11/professor-victor-andres-manhit.jpg",
-            "publishedAt": "2025-11-21T02:22:50Z"
         }
     ]
 }
