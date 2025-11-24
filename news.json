@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-11-24T10:18:43.320108Z",
+    "lastUpdatedAt": "2025-11-24T11:14:27.840832Z",
     "articles": [
+        {
+            "source": {
+                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+                "name": "The Dallas Morning News",
+                "url": "https://www.dallasnews.com",
+                "country": "us"
+            },
+            "title": "The Motley Fool: Meta and artificial intelligence",
+            "url": "https://www.dallasnews.com/business/2025/11/23/the-motley-fool-meta-and-artificial-intelligence/",
+            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/OGZZW6EKDBALHA5VZ5DGTKX4RA.jpg?auth=96ea77d5f4425b4491ab04babe5690ccf5d2de482bcd5ffbdb258c646ef41724&quality=80&width=1200&height=630&smart=true",
+            "publishedAt": "2025-11-23T23:00:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Need global compact on AI to prevent its misuse: PM Modi at G20",
+            "url": "https://indianexpress.com/article/india/need-global-compact-on-ai-to-prevent-its-misuse-pm-modi-at-g20-10382394/",
+            "urlToImage": "https://images.indianexpress.com/2025/11/g2000_20251123223208.jpg",
+            "publishedAt": "2025-11-23T22:35:36Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Managing ISO certifications critical for companies to fend off growing cybersecurity threat",
+            "url": "https://www.afr.com/technology/managing-iso-certifications-critical-for-companies-to-fend-off-growing-cybersecurity-threat-20251107-p5n8nt",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2537%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/3a51c5f8feda230d286b0be2ce97f1b7bed7c117be038fd7d98c0d8e821a547e",
+            "publishedAt": "2025-11-23T22:19:30Z"
+        },
         {
             "source": {
                 "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
@@ -3528,42 +3564,6 @@
             "url": "https://wtop.com/national/2025/11/what-to-know-about-trumps-draft-proposal-to-curtail-state-ai-regulations/",
             "urlToImage": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
             "publishedAt": "2025-11-21T00:49:59Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "What to know about Trump's draft proposal to curtail state AI regulations",
-            "url": "https://apnews.com/article/trump-executive-order-artificial-intelligence-ai-regulation-646de06404ba543dd7244d225fb27250",
-            "urlToImage": "https://dims.apnews.com/dims4/default/169a179/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2F22%2F011b35251b35c412c53e10abc3f9%2F94c90c7e323648878a1e1228eb4ed551",
-            "publishedAt": "2025-11-21T00:48:01Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "What to Know About Trump's Draft Proposal to Curtail State AI Regulations",
-            "url": "https://www.usnews.com/news/us/articles/2025-11-20/what-to-know-about-trumps-draft-proposal-to-curtail-state-ai-regulations",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/45a82a4/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fec%2F3f4140c09462795165680bfa7d5e9f%2F94c90c7e323648878a1e1228eb4ed551Trump_Saudi_Arabia_45178.jpg",
-            "publishedAt": "2025-11-21T00:48:00Z"
-        },
-        {
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
-            },
-            "title": "Internet Providers Can Monitor Their Own Cybersecurity Standards, Says Trump’s FCC",
-            "url": "https://www.cnet.com/home/internet/internet-providers-can-monitor-their-own-cybersecurity-standards-says-trumps-fcc/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/ed3a8170cc5a795de780a23c99b724fc2ab23946/hub/2025/01/24/a55253cb-c160-4c2d-ab5f-13563be7867f/gettyimages-1222449903-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-11-21T00:35:00Z"
         }
     ]
 }
