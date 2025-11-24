@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-11-24T01:19:22.777496Z",
+    "lastUpdatedAt": "2025-11-24T03:20:33.392158Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Companies are shifting workers to passwordless authentication",
+            "url": "https://www.cnbc.com/2025/11/23/passwords-corporate-cybersecurity-employee-authentication.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108013603-1722352863152-gettyimages-1774781438-dsc09661.jpeg?v=1722352956&w=1920&h=1080",
+            "publishedAt": "2025-11-23T15:05:24Z"
+        },
+        {
+            "source": {
+                "id": "bff0cd3b8c64dceaada8841bea814f65",
+                "name": "The Telegraph",
+                "url": "https://www.telegraph.co.uk",
+                "country": "gb"
+            },
+            "title": "Whitehall delegates to AI bots like Humphrey",
+            "url": "https://www.telegraph.co.uk/business/2025/11/23/whitehall-left-drowning-in-work-slop-as-civil-servants-turn/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/briefs/2025/11/21/TELEMMGLPICT000407950226_17637291514860_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=OG-Standard",
+            "publishedAt": "2025-11-23T15:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "If Your Data EQ Is Low, Your AI Strategy Will Blow",
+            "url": "https://www.forbes.com/sites/ronshevlin/2025/11/23/if-your-data-eq-is-low-your-ai-strategy-will-blow/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6920e1a1495e8ae1c28cd0b4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-11-23T14:02:58Z"
+        },
+        {
+            "source": {
+                "id": "ca35c66a2b26e8274365e937357cf9c5",
+                "name": "SlashGear",
+                "url": "https://www.slashgear.com",
+                "country": "us"
+            },
+            "title": "This Controversial AI Feature Is Back With iOS 26",
+            "url": "https://www.slashgear.com/2030380/this-controversial-ai-feature-back-with-ios-26/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/this-controversial-ai-feature-is-back-with-ios-26/l-intro-1763164629.jpg",
+            "publishedAt": "2025-11-23T14:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Shifting Gears: The Federal Cybersecurity Agency's Waning Influence on Election Security",
+            "url": "https://www.devdiscourse.com/article/law-order/3707222-shifting-gears-the-federal-cybersecurity-agencys-waning-influence-on-election-security",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_04_52_2445844.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-11-23T13:36:34Z"
+        },
         {
             "source": {
                 "id": "8749653ef849c3df2e467a8e0f0c6672",
@@ -504,6 +564,15 @@
             "url": "https://www.financialexpress.com/market/stock-insights/zero-debt-100-growth-the-2-cybersecurity-gems-in-vijay-kedias-portfolio/4052780/",
             "urlToImage": "https://images.financialexpressdigital.com/2025/11/Untitled-design114.jpg?quality=100",
             "publishedAt": "2025-11-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "Did an AI war just get one step closer? Putin confirms Russia is planning its own national AI taskforce",
+            "url": "https://www.techradar.com/pro/did-the-ai-war-just-get-one-step-closer-putin-confirms-russia-is-planning-its-own-national-ai-taskforce",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pPZeDNAjDG5KieaZ9q3D5a.png",
+            "publishedAt": "2025-11-23 14:04:00"
         },
         {
             "source": {
@@ -3453,78 +3522,6 @@
             "url": "https://www.marketscreener.com/news/tss-investor-presentation-tssi-investor-presentation-nov-2025-11-20-22-final-ce7d5edede8ef626",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
             "publishedAt": "2025-11-20T23:54:07Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "North Korean operatives running fake job portal targeting US AI firms",
-            "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2025/11/20/north-korean-operatives-running-fake-job-portal-targeting-us-ai-firms/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2025/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWk3ejQ4cXUwMDAxM2I2bmphNWR0aHNk-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaTd5OGR6dTAwMXoyNXFnMmhrMGFkam4-860x575.jpg",
-            "publishedAt": "2025-11-20T23:18:12Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "North Korean operatives running fake job portal targeting US AI firms",
-            "url": "https://edition.cnn.com/2025/11/20/politics/north-korea-operatives-fake-job-portal-ai-firms",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181383176.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-11-20T23:18:12Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Study finds AI recommendations improve emergency care decisions, but acceptance varies",
-            "url": "https://medicalxpress.com/news/2025-11-ai-emergency-decisions-varies.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ambulance-1.jpg",
-            "publishedAt": "2025-11-20T23:10:02Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Foxconn, OpenAI partner on AI hardware manufacturing",
-            "url": "https://www.reuters.com/world/china/foxconn-openai-partner-ai-hardware-manufacturing-2025-11-20/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/DYJX5MEMHRLZ7PHLWCRA542FJM.jpg?auth=69731fbdf5d1feaba4c39a81652361ea50b820df461080f2fe944b505a0457f0&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-11-20T23:08:08Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Foxconn, OpenAI partner on AI hardware manufacturing",
-            "url": "https://www.marketscreener.com/news/foxconn-openai-partner-on-ai-hardware-manufacturing-ce7d5edede8dfe25",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-20T23:02:16Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Fox News Poll: How do voters feel about AI? It’s complicated",
-            "url": "https://www.foxnews.com/politics/fox-news-poll-how-do-voters-feel-about-ai-its-complicated",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/ai-training-keyboard.jpg",
-            "publishedAt": "2025-11-20T23:02:13Z"
         }
     ]
 }
