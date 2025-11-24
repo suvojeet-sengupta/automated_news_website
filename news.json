@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-24T06:25:41.130277Z",
+    "lastUpdatedAt": "2025-11-24T07:16:36.371625Z",
     "articles": [
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Trump Administration Ponders Over Allowing Nvidia To Trade H200 AI Chips With China",
+            "url": "https://www.benzinga.com/news/politics/25/11/49022638/trump-administration-ponders-allowing-nvidia-to-trade-h200-ai-chips-with-china",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/11/23/Nvidia-Employees-See-Massive-Wealth.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-11-23T18:51:44Z"
+        },
+        {
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com",
+                "country": "us"
+            },
+            "title": "Big changes to the agency charged with securing elections lead to midterm worries",
+            "url": "https://www.chicagotribune.com/2025/11/23/changes-agency-charged-with-securing-elections/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/11/Election_Security_33701-1.jpg?w=1024&h=683",
+            "publishedAt": "2025-11-23T18:39:55Z"
+        },
         {
             "source": {
                 "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
@@ -708,6 +732,15 @@
             "url": "https://www.financialexpress.com/market/stock-insights/zero-debt-100-growth-the-2-cybersecurity-gems-in-vijay-kedias-portfolio/4052780/",
             "urlToImage": "https://images.financialexpressdigital.com/2025/11/Untitled-design114.jpg?quality=100",
             "publishedAt": "2025-11-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "AI's Trillion-Dollar Infrastructure Bet: What Leaders Need to Know",
+            "url": "https://hackernoon.com/ais-trillion-dollar-infrastructure-bet-what-leaders-need-to-know",
+            "urlToImage": "https://hackernoon.imgix.net/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-tx03b1g.png",
+            "publishedAt": "2025-11-23 19:00:04"
         },
         {
             "source": {
@@ -3528,33 +3561,6 @@
             "url": "https://www.webpronews.com/2025-ai-advancements-revolutionizing-industries-with-sustainability-and-efficiency/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2104-1763767328.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-11-21 23:22:12"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "Internet users top 6 billion, with 2 in 3 people on social media and 1 billion using AI",
-            "url": "https://www.wvnews.com/news/around_the_web/lifestyles/internet-users-top-6-billion-with-2-in-3-people-on-social-media-and-1/article_b2217d19-f703-5194-812a-4f7e2a8e8e9a.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/e/7d/e7d1a8dd-accf-536d-ba3d-8e3d351fd59f/6920b73b71bad.image.jpg?resize=300%2C169",
-            "publishedAt": "2025-11-21 18:20:06"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "From Generative To Agentic: The New Era Of AI Autonomy In 2026",
-            "url": "https://www.forbes.com/sites/chuckbrooks/2025/11/21/from-generative-to-agentic-the-new-era-of-ai-autonomy-in-2026/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6911f7bf55db3f905cde4790/0x0.jpg?width=960",
-            "publishedAt": "2025-11-21 17:52:27"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Meta Enters Wholesale Electricity Trading for AI Data Centers",
-            "url": "https://www.webpronews.com/meta-enters-wholesale-electricity-trading-for-ai-data-centers/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2050-1763745369.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-21 17:16:13"
         }
     ]
 }
