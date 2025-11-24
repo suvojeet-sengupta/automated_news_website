@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-24T08:23:21.270443Z",
+    "lastUpdatedAt": "2025-11-24T09:20:11.448169Z",
     "articles": [
+        {
+            "source": {
+                "id": "49a7f1ba9210f605feb836064eb8351e",
+                "name": "Euro Weekly News",
+                "url": "https://euroweeklynews.com",
+                "country": "es"
+            },
+            "title": "Greek secondary school teachers to receive AI training",
+            "url": "https://euroweeklynews.com/2025/11/23/greek-secondary-school-teachers-to-receive-ai-training/",
+            "urlToImage": "https://cdn.euroweeklynews.com/wp-content/uploads/2025/11/shutterstock_2590933017-scaled.jpg",
+            "publishedAt": "2025-11-23T21:01:44Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -3552,18 +3564,6 @@
             "url": "https://www.reuters.com/legal/transactional/bankruptcy-judge-skips-sanctioning-law-firm-over-ai-errors-reprimands-lawyer-2025-11-21/",
             "urlToImage": "https://www.reuters.com/resizer/v2/6ETTQKTP2ZKMTBFT2IKEGOH2JA.jpg?auth=3dded593c0e95ce720c138da9b4f3a35d2d13d3ba724c898dab0bff6398eaeeb&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-11-21T00:16:40Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Experts call for AI integration in plant disease management at symposium",
-            "url": "https://timesofindia.indiatimes.com/city/ludhiana/experts-call-for-ai-integration-in-plant-disease-management-at-symposium/articleshow/125469848.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125469847,width-1070,height-580,imgsize-34878,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2025-11-21T00:08:00Z"
         }
     ]
 }
