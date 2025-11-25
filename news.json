@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2025-11-25T07:16:44.142429Z",
+    "lastUpdatedAt": "2025-11-25T08:22:50.863900Z",
     "articles": [
+        {
+            "source": {
+                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+                "name": "The Verge",
+                "url": "https://www.theverge.com",
+                "country": "us"
+            },
+            "title": "Anthropic’s new Claude Opus 4.5 model is focused on improving AI agents but still faces cybersecurity concerns",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/828003/anthropics-new-claude-opus-4-5-model-ai-agents-cybersecurity",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD_CLAUDE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-11-24T20:20:17Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "Trump weighing whether to allow Nvidia to sell advanced AI chips to China: Report",
+            "url": "https://www.channelnewsasia.com/world/trump-weighing-whether-allow-nvidia-sell-advanced-ai-chips-china-report-5487936",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--eWpRvabM--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-11-24T152212Z_1_LYNXMPELAN0QX_RTROPTP_3_NVIDIA-CHINA-AI.JPG?itok=Mf9u137A",
+            "publishedAt": "2025-11-24T20:01:02Z"
+        },
+        {
+            "source": {
+                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
+                "name": "OilPrice",
+                "url": "https://oilprice.com",
+                "country": "us"
+            },
+            "title": "Armenia Secures Key U.S. Approval for $500 Million AI Supercomputer Hub",
+            "url": "https://oilprice.com/Geopolitics/International/Armenia-Secures-Key-US-Approval-for-500-Million-AI-Supercomputer-Hub.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-11-24_4euam1cpfk.jpg",
+            "publishedAt": "2025-11-24T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "15e838c11ec107f2fad197ea48c6cc48",
+                "name": "Windows Central",
+                "url": "https://www.windowscentral.com",
+                "country": "gb"
+            },
+            "title": "Epic CEO: \"RAM price increases will be a real problem\" — as OpenAI et al. blow up RAM prices, threatening affordability of everything from Xbox to TVs and laptops",
+            "url": "https://www.windowscentral.com/gaming/epic-games-ceo-ram-price-increases-will-be-a-real-problem-for-high-end-gaming",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hDDkPGxDDhKLQWCkM3iFFU-2048-80.jpg",
+            "publishedAt": "2025-11-24T19:58:01Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Alphabet races toward US$4 trillion valuation",
+            "url": "https://www.bnnbloomberg.ca/business/technology/2025/11/24/alphabet-races-toward-us4-trillion-valuation-as-ai-fueled-gains-accelerate/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/4TQJWAXJEIM3TCLV4Q2SOX4ECU.jpg?smart=true&auth=a10ca10cf6fcdc38004c348d53381da1b8f36341d1339db087780f71aa6a453a&width=1200&height=630",
+            "publishedAt": "2025-11-24T19:56:12Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Alphabet races toward US$4 trillion valuation",
+            "url": "https://www.cp24.com/news/money/2025/11/24/alphabet-races-toward-us4-trillion-valuation-as-ai-fueled-gains-accelerate/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/4TQJWAXJEIM3TCLV4Q2SOX4ECU.jpg?smart=true&auth=a10ca10cf6fcdc38004c348d53381da1b8f36341d1339db087780f71aa6a453a&width=1200&height=630",
+            "publishedAt": "2025-11-24T19:56:12Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Man from Assam held for circulating AI-morphed photos of Gurgaon woman on social media",
+            "url": "https://timesofindia.indiatimes.com/city/gurgaon/man-from-assam-held-for-circulating-ai-morphed-photos-of-gurgaon-woman-on-social-media/articleshow/125549673.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-117516393,width-1070,height-580,imgsize-97786,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-11-24T19:54:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Surgent CPE Launches First-of-Its-Kind Agentic AI CPE Series for Accounting and Finance Professionals",
+            "url": "https://www.manilatimes.net/2025/11/25/tmt-newswire/globenewswire/surgent-cpe-launches-first-of-its-kind-agentic-ai-cpe-series-for-accounting-and-finance-professionals/2230715",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/25/841419.jpg",
+            "publishedAt": "2025-11-24T19:48:15Z"
+        },
+        {
+            "source": {
+                "id": "c24832368cd2d9132598ad4bef08e0ab",
+                "name": "Investopedia",
+                "url": "https://www.investopedia.com",
+                "country": "us"
+            },
+            "title": "Investors Rally Behind Alphabet Stock as Mark Benioff Endorses Gemini 3",
+            "url": "https://www.investopedia.com/investors-rally-behind-alphabet-stock-as-mark-benioff-endorses-gemini-3-googl-goog-11855574",
+            "urlToImage": "https://www.investopedia.com/thmb/rKV5EymToRkhxoSQUalSR2S7M5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2247406412-54b145d59aa34267ab3eeff53cd6af78.jpg",
+            "publishedAt": "2025-11-24T19:47:06Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "India, Canada can deepen ties in AI, critical minerals, nuclear energy: Piyush Goyal",
+            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-canada-can-deepen-ties-in-ai-critical-minerals-nuclear-energy-piyush-goyal/articleshow/125549495.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125549541,width-1200,height-630,imgsize-67388,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-11-24T19:43:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -1731,6 +1851,15 @@
         },
         {
             "source": {
+                "name": "aboutamazon"
+            },
+            "title": "Amazon plans to invest $15 billion in Northern Indiana to build new data center campuses and advance AI innovation",
+            "url": "https://www.aboutamazon.com/news/company-news/amazon-15-billion-indiana-data-centers",
+            "urlToImage": "https://assets.aboutamazon.com/ff/74/8bb710ca45f4998e9d892b939f19/bht-1129f.jpg",
+            "publishedAt": "2025-11-24 20:00:01"
+        },
+        {
+            "source": {
                 "name": "webpronews"
             },
             "title": "Google to Retire Assistant, Launch Gemini AI Replacement by 2026",
@@ -3354,138 +3483,6 @@
             "url": "https://japantoday.com/category/crime/man-referred-to-prosecutors-for-alleged-copyright-infringement-of-ai-image",
             "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
             "publishedAt": "2025-11-22T07:22:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Breaking Cybersecurity Threats Targeting the Construction Industry: November 2025 Update",
-            "url": "https://techbullion.com/breaking-cybersecurity-threats-targeting-the-construction-industry-november-2025-update/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/unnamed-2025-11-21T214044.627.jpg",
-            "publishedAt": "2025-11-22T05:42:09Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "White House pauses executive order that would seek to preempt state laws on AI",
-            "url": "https://www.thehindu.com/sci-tech/technology/white-house-pauses-executive-order-that-would-seek-to-preempt-state-laws-on-ai/article70310349.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/thosu5/article70310420.ece/alternates/LANDSCAPE_1200/2025-11-21T110051Z_2119360766_RC28X4AIJESL_RTRMADP_3_USA-BONDS-AI.JPG",
-            "publishedAt": "2025-11-22T05:03:32Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "U.S. considering letting Nvidia sell H200 chips to China",
-            "url": "https://www.thehindu.com/sci-tech/technology/us-considering-letting-nvidia-sell-h200-chips-to-china/article70310347.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/o45ptf/article70310400.ece/alternates/LANDSCAPE_1200/2025-11-19T121759Z_705665479_RC2NZHAT250U_RTRMADP_3_TECH-CHIPS.JPG",
-            "publishedAt": "2025-11-22T04:52:04Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "Google’s new Gemini 3 version rekindles AI race",
-            "url": "https://www.nation.com.pk/22-Nov-2025/google-s-new-gemini-3-version-rekindles-ai-race",
-            "urlToImage": "https://www.nation.com.pk/digital_images/large/2025-11-22/google-s-new-gemini-3-version-rekindles-ai-race-1763786656-4139.jpg",
-            "publishedAt": "2025-11-22T04:44:34Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "The Science Behind Hyper-Realistic Face Swaps: Why Today’s AI Looks So Convincing",
-            "url": "https://techbullion.com/the-science-behind-hyper-realistic-face-swaps-why-todays-ai-looks-so-convincing/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/Screenshot-2025-11-21-zzzz.png",
-            "publishedAt": "2025-11-22T04:26:30Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Bubble Trouble: AI rally shows cracks as investors question risks",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/bubble-trouble-ai-rally-shows-cracks-as-investors-question-risks/articleshow/125498891.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125498899,width-1200,height-630,imgsize-120674,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2025-11-22T03:54:00Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Capillary Technologies India's Shares End 5% Higher Against Issue Price Of ₹577 After A Muted Market Debut",
-            "url": "https://www.freepressjournal.in/business/capillary-technologies-indias-shares-end-5-higher-against-issue-price-of-577-after-a-muted-market-debut",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-22/a0s497px/Capillary-TecH-0.jpg",
-            "publishedAt": "2025-11-22T02:52:58Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Weekly Market Review & Top Stocks In Focus For The Week Ended November 21, 2025",
-            "url": "https://www.freepressjournal.in/business/weekly-market-review-top-stocks-in-focus-for-the-week-ended-november-21-2025",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-22/zj6w1pjd/Market-outlook.jpg",
-            "publishedAt": "2025-11-22T02:20:48Z"
-        },
-        {
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            },
-            "title": "AI cameras to prevent drownings along Australian coast",
-            "url": "https://www.canberratimes.com.au/story/9117551/ai-cameras-to-prevent-drownings-along-australian-coast/",
-            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/0203970e-969d-49ec-86e0-9d81efe08c24.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2025-11-22T01:23:48Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Artificial intelligence helps patients better comprehend medical findings",
-            "url": "https://www.news-medical.net/news/20251121/Artificial-intelligence-helps-patients-better-comprehend-medical-findings.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-            "publishedAt": "2025-11-22T01:17:00Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Don't Let AI Do Your Homework, Pope Leo Tells US Youth",
-            "url": "https://www.ndtv.com/world-news/dont-let-ai-do-your-homework-pope-leo-tells-us-youth-9679939",
-            "urlToImage": "https://c.ndtvimg.com/2025-11/88ke5opg_pope-leo_625x300_18_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-11-22T01:11:25Z"
         }
     ]
 }
