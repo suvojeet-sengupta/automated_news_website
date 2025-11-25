@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-11-25T08:22:50.863900Z",
+    "lastUpdatedAt": "2025-11-25T09:19:35.294160Z",
     "articles": [
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "New Hampshire county targeted in ‘cybersecurity incident'",
+            "url": "https://www.bostonglobe.com/2025/11/24/metro/cybersecurity-incident-hillsborough-county/",
+            "urlToImage": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=601",
+            "publishedAt": "2025-11-24T21:00:26Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "AI stock gains boost California revenue by $11 billion",
+            "url": "https://www.latimes.com/business/story/2025-11-24/ai-stock-gains-boost-california-revenue-by-11-billion",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/fdd247b/2147483647/strip/true/crop/3803x1997+0+269/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe8%2Feb%2F9bcc748d4076b691e87694866eec%2Fopenai-95475.jpg",
+            "publishedAt": "2025-11-24T20:45:19Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Amazon to Invest $15 Billion in New Indiana Data-Center Campuses",
+            "url": "https://www.marketscreener.com/news/amazon-to-invest-15-billion-in-new-indiana-data-center-campuses-ce7d5eddd98df622",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-11-24T20:41:24Z"
+        },
+        {
+            "source": {
+                "id": "5e6bd4c944df27891bc90557bfcd116f",
+                "name": "Successful Farming",
+                "url": "https://www.agriculture.com",
+                "country": "us"
+            },
+            "title": "North Dakota’s Grand Farm Earns Another $7 Million in State Funding",
+            "url": "https://www.agriculture.com/partners-north-dakota-s-grand-farm-earns-another-usd7-million-in-state-funding-11856042",
+            "urlToImage": "https://www.agriculture.com/thmb/IVoFLtGkVOyJU4YNBWPw1R0AR7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/49035871198_32f490cc96_o-2dbf8dbc3ee749898c1ad90bb6214cb3.jpg",
+            "publishedAt": "2025-11-24T20:40:35Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Amazon to invest $15 billion in Indiana to boost data center infrastructure",
+            "url": "https://www.reuters.com/business/retail-consumer/amazon-invest-15-billion-indiana-boost-data-center-infrastructure-2025-11-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/IG4KKMSMB5J6JFECFOTDA4KKXE.jpg?auth=25a566169993ee6f50597aa2e4391dd61485bc4d41bea15b1f9c54fc8ca55d03&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-24T20:33:19Z"
+        },
         {
             "source": {
                 "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
@@ -3423,66 +3483,6 @@
             "url": "https://www.onmanorama.com/food/features/2025/11/22/air-india-new-global-menu.html",
             "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/food/features/images/2025/11/22/air-india-new-menu.jpg",
             "publishedAt": "2025-11-22T08:51:09Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "UAE cements global AI leadership with focus on human capital, training",
-            "url": "https://www.tribuneindia.com/news/world/uae-cements-global-ai-leadership-with-focus-on-human-capital-training/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ2NDA1ZDUwLWM3ODAtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-11-22T08:50:12Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "IEO Crypto Whale Launches Six Cutting-Edge Projects to Reshape the Web3 Landscape",
-            "url": "https://techbullion.com/ieo-crypto-whale-launches-six-cutting-edge-projects-to-reshape-the-web3-landscape/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/Screenshot-2025-11-22-131931-1000x581.png",
-            "publishedAt": "2025-11-22T08:23:11Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Password change email from ‘rnicrosoft.com’ is a phishing scam, Cybersecurity expert shares how to protect yourself",
-            "url": "https://economictimes.indiatimes.com/wealth/save/password-change-email-from-rnicrosoft-com-is-a-phishing-scam-cybersecurity-expert-shares-how-to-protect-yourself/articleshow/125501383.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-39566,resizemode-75,msid-125501383/wealth/save/password-change-email-from-rnicrosoft-com-is-a-phishing-scam-cybersecurity-expert-shares-how-to-protect-yourself.jpg",
-            "publishedAt": "2025-11-22T07:36:55Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Bernie Sanders Asks Whether AI Will Really Serve Workers Or 'What Mr Musk And Mr Bezos Have In Mind' As Geoffrey Hinton Reveals The Real Risk",
-            "url": "https://www.benzinga.com/markets/tech/25/11/49020085/bernie-sanders-asks-whether-ai-will-really-serve-workers-or-what-mr-musk-and-mr-bezos-have-in-mind-as-geoffrey-hinton-reveals-the-real-risk",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/11/22/shutterstock-1453864013.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-11-22T07:26:44Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Man referred to prosecutors for alleged copyright infringement of AI image",
-            "url": "https://japantoday.com/category/crime/man-referred-to-prosecutors-for-alleged-copyright-infringement-of-ai-image",
-            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
-            "publishedAt": "2025-11-22T07:22:00Z"
         }
     ]
 }
