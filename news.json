@@ -1,6 +1,174 @@
 {
-    "lastUpdatedAt": "2025-11-25T03:11:28.289608Z",
+    "lastUpdatedAt": "2025-11-25T04:22:24.861323Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "We're buying more shares of this cybersecurity giant after a tough post-earnings stretch",
+            "url": "https://www.cnbc.com/2025/11/24/were-buying-more-shares-of-this-cybersecurity-giant-after-a-tough-post-earnings-stretch.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108225091-17629848922025-06-11t142240z_328980464_rc2e0fa4wopj_rtrmadp_0_france-tech.jpeg?v=1762984960&w=1920&h=1080",
+            "publishedAt": "2025-11-24T16:22:02Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Alphabet races toward $4 trillion valuation as AI-fueled gains accelerate",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/25/alphabet-races-toward-4-trillion-valuation-as-ai-fueled-gains-accelerate",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/25/3638330.jpg",
+            "publishedAt": "2025-11-24T16:19:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Amazon pledges up to $50 billion to expand AI, supercomputing for US government",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/25/amazon-to-invest-up-to-50-billion-in-ai-supercomputing-for-us-government-clients",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/25/3638331.jpg",
+            "publishedAt": "2025-11-24T16:19:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Trump Considers Letting Nvidia Sell Advanced Chips to China, Lutnick Says",
+            "url": "https://www.marketscreener.com/news/trump-considers-letting-nvidia-sell-advanced-chips-to-china-lutnick-says-ce7d5edcd089f124",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-24T16:16:10Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Amazon to invest up to $50 billion in AI, supercomputing for US government clients",
+            "url": "https://www.marketscreener.com/news/amazon-to-invest-up-to-50-billion-in-ai-supercomputing-for-us-government-clients-ce7d5edcd089f226",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-11-24T16:15:44Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Amazon pledges up to $50 billion to expand AI, supercomputing for US government",
+            "url": "https://www.reuters.com/business/retail-consumer/amazon-invest-up-50-billion-ai-supercomputing-us-government-customers-2025-11-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/OL6H3PDYY5NTTPWHJAPGPNT4AM.jpg?auth=e17e7df9784a72423c87641bf6dc11ed403e714c33d2d4451022c9dec10e90d2&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-24T16:10:04Z"
+        },
+        {
+            "source": {
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
+                "country": "us"
+            },
+            "title": "AWS announces up to $50B AI investment for US government starting in 2026",
+            "url": "https://www.foxbusiness.com/markets/amazon-invest-up-50b-build-ai-infrastructure-us-government-agencies",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/amazon-ai.jpg?ve=1&tl=1",
+            "publishedAt": "2025-11-24T16:00:39Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "One university boosted gender diversity in advanced math by more than 30% in five years-here's how",
+            "url": "https://phys.org/news/2025-11-university-boosted-gender-diversity-advanced.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/one-university-boosted.jpg",
+            "publishedAt": "2025-11-24T15:51:04Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Trump weighing advanced Nvidia chip sales to China: Report",
+            "url": "https://economictimes.indiatimes.com/tech/technology/trump-weighing-advanced-nvidia-chip-sales-to-china-report/articleshow/125544701.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-81212,resizemode-75,msid-125544701/tech/technology/trump-weighing-advanced-nvidia-chip-sales-to-china-report.jpg",
+            "publishedAt": "2025-11-24T15:48:12Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "DeepKeep recognized as a 'Progressive Company' in the latest MarketsandMarkets' 360Quadrant for the Generative AI Cybersecurity Market",
+            "url": "https://www.prnewswire.co.uk/news-releases/deepkeep-recognized-as-a-progressive-company-in-the-latest-marketsandmarkets-360quadrant-for-the-generative-ai-cybersecurity-market-302624391.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1868219/MarketsandMarkets_Logo.jpg?p=facebook",
+            "publishedAt": "2025-11-24T15:45:00Z"
+        },
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "Alphabet races toward $4 trillion valuation",
+            "url": "https://www.rte.ie/news/business/2025/1124/1545607-alphabet-races-toward-4-trillion-valuation/",
+            "urlToImage": "https://www.rte.ie/images/0018263d-1600.jpg",
+            "publishedAt": "2025-11-24T15:42:47Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Alphabet races toward $4 trillion valuation as AI-fueled gains accelerate",
+            "url": "https://www.reuters.com/business/alphabet-races-toward-4-trillion-valuation-ai-fueled-gains-accelerate-2025-11-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/S6EHIBGW2JPUJMOI7BQ5VZSPSE.jpg?auth=7eb9aa21614b9b2b571682fddc47d2f80f118ff1bca7df4bf690b2dde3a4ab19&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-24T15:42:36Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "US’ Cybersecurity and Infrastructure Security Agency is seeing big changes. Here’s why experts are worried",
+            "url": "https://www.firstpost.com/explainers/cisa-big-changes-why-experts-worried-13953714-13953714.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2025/11/AP25326029433701-2025-11-583fd46421b63fab52e06cbc9bbb0c59.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-11-24T15:29:48Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "Agentic AI Is Coming-But Is Your Cybersecurity Really Ready For It?",
+            "url": "https://www.forbes.com/sites/larryenglish/2025/11/24/agentic-ai-is-coming-but-is-your-cybersecurity-really-ready-for-it/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6924748b526511d28bd55d30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-11-24T15:14:56Z"
+        },
         {
             "source": {
                 "id": "15e838c11ec107f2fad197ea48c6cc48",
@@ -3327,174 +3495,6 @@
             "url": "https://www.tcpalm.com/story/news/local/state/2025/11/21/legislature-desantis-major-issues/87317061007/",
             "urlToImage": "https://www.tcpalm.com/gcdn/authoring/authoring-images/2025/02/13/PTAL/78543477007-de-santis-signs-immigration-legislation-186.JPG?crop=4807,2704,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
             "publishedAt": "2025-11-21T19:45:50Z"
-        },
-        {
-            "source": {
-                "id": "70ea7ca43d9c7a76ddf570720d3e35c6",
-                "name": "News-Press",
-                "url": "https://eu.news-press.com",
-                "country": "us"
-            },
-            "title": "One year before he goes home, DeSantis’ agenda stays big",
-            "url": "https://eu.news-press.com/story/news/local/state/2025/11/21/legislature-desantis-major-issues/87317061007/",
-            "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2025/02/13/PTAL/78543477007-de-santis-signs-immigration-legislation-186.JPG?auto=webp&crop=4807,2704,x0,y0&format=pjpg&width=1200",
-            "publishedAt": "2025-11-21T19:45:50Z"
-        },
-        {
-            "source": {
-                "id": "2c9e28a1c622c0b9acedb9bf0ffa9c7c",
-                "name": "Gainesville Sun",
-                "url": "https://www.gainesville.com",
-                "country": "us"
-            },
-            "title": "One year before he goes home, DeSantis’ agenda stays big",
-            "url": "https://www.gainesville.com/story/news/local/state/2025/11/21/legislature-desantis-major-issues/87317061007/",
-            "urlToImage": "https://www.gainesville.com/gcdn/authoring/authoring-images/2025/02/13/PTAL/78543477007-de-santis-signs-immigration-legislation-186.JPG?crop=4807,2704,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2025-11-21T19:45:50Z"
-        },
-        {
-            "source": {
-                "id": "962276c759d367f4a07ff10d6ae9dc40",
-                "name": "Naples Daily News",
-                "url": "https://www.naplesnews.com",
-                "country": "us"
-            },
-            "title": "One year before he goes home, DeSantis’ agenda stays big",
-            "url": "https://www.naplesnews.com/story/news/local/state/2025/11/21/legislature-desantis-major-issues/87317061007/",
-            "urlToImage": "https://www.naplesnews.com/gcdn/authoring/authoring-images/2025/02/13/PTAL/78543477007-de-santis-signs-immigration-legislation-186.JPG?crop=4807,2704,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2025-11-21T19:45:50Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "White House pauses executive order that would seek to preempt state laws on AI, sources say",
-            "url": "https://www.reuters.com/world/white-house-pauses-executive-order-that-would-seek-preempt-state-laws-ai-sources-2025-11-21/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/Y7BVLVDHK5L4LLG6BWYLTH5LWM.jpg?auth=62ccbf2ac8fa67dbaaaf726ea570843d7a5c73878f124d8bc6c20aba27692597&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-11-21T19:32:21Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Fox News AI Newsletter: Fears of AI bubble ease",
-            "url": "https://www.foxnews.com/tech/ai-newsletter-fears-ai-bubble-ease",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/nvidia-ceo-elon-musk-donald-trump-saudi-investment-forum.jpg",
-            "publishedAt": "2025-11-21T19:14:03Z"
-        },
-        {
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            },
-            "title": "Nvidia Seesaws As AI Stock Trade Stumbles",
-            "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-seesaws-ai-stock-trade-stumbles/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/11/stock-Nvidia-GB300-NVL72-company.jpg",
-            "publishedAt": "2025-11-21T19:09:00Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "U.S. officials in talks on Nvidia selling H200 chips in China, Bloomberg says",
-            "url": "https://markets.businessinsider.com/news/stocks/u-s-officials-in-talks-on-nvidia-selling-h200-chips-in-china-bloomberg-says-1035587638",
-            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
-            "publishedAt": "2025-11-21T19:00:22Z"
-        },
-        {
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
-            },
-            "title": "CrowdStrike fires 'suspicious insider' who passed information to hackers",
-            "url": "https://techcrunch.com/2025/11/21/crowdstrike-fires-suspicious-insider-who-passed-information-to-hackers/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/crowdstrike-windows-glitch-v2.jpg?resize=1200,675",
-            "publishedAt": "2025-11-21T18:55:53Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Trump Team Internally Floats Idea of Selling Nvidia H200 Chips to China",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-21/trump-team-internally-floats-idea-of-selling-nvidia-h200-chips-to-china",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7XFqfL_eHfo/v1/1200x800.jpg",
-            "publishedAt": "2025-11-21T18:49:08Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Robots, Conspiracies and Our Health Care Dystopia: The Week in Review",
-            "url": "https://www.usnews.com/news/u-s-news-decision-points/articles/2025-11-21/robots-conspiracies-and-our-health-care-dystopia-the-week-in-review",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/95bd9ab/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F54%2Fe8%2Fa2c92f594ad3b9897fd3cf6ac7c2%2Fgettyimages-2246809464.jpg",
-            "publishedAt": "2025-11-21T18:46:00Z"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Does the world really want what Sam-AI-am Altman is selling?",
-            "url": "https://www.thetimes.com/comment/columnists/article/does-the-world-really-want-what-sam-ai-am-is-selling-hrxx9x8vz",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F1486e1e1-fcde-4916-a829-7d73b77663e7.jpg?crop=3072%2C1728%2C0%2C282&resize=1200",
-            "publishedAt": "2025-11-21T18:45:20Z"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Does the world really want what Sam Altman is selling?",
-            "url": "https://www.thetimes.com/comment/columnists/article/sam-altman-artificial-intelligence-hrxx9x8vz",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F1486e1e1-fcde-4916-a829-7d73b77663e7.jpg?crop=3072%2C1728%2C0%2C282&resize=1200",
-            "publishedAt": "2025-11-21T18:45:00Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "AI Daily: Foxconn-Nvidia supercomputing center ready by first half of 2026",
-            "url": "https://markets.businessinsider.com/news/stocks/ai-daily-foxconn-nvidia-supercomputing-center-ready-by-first-half-of-2026-1035587611",
-            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
-            "publishedAt": "2025-11-21T18:30:34Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "AI in neurological care could widen health inequities, new report warns",
-            "url": "https://www.news-medical.net/news/20251121/AI-in-neurological-care-could-widen-health-inequities-new-report-warns.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2025-11-21T18:22:00Z"
         }
     ]
 }
