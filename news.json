@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-11-26T05:15:59.939835Z",
+    "lastUpdatedAt": "2025-11-26T06:25:16.928794Z",
     "articles": [
+        {
+            "source": {
+                "id": "9290338c23f31e3f547a2dbfa1c52c03",
+                "name": "Scientific American",
+                "url": "https://www.scientificamerican.com",
+                "country": "us"
+            },
+            "title": "Trump Orders Genesis Mission to Advance AI Breakthroughs",
+            "url": "https://www.scientificamerican.com/article/trump-orders-genesis-mission-to-advance-ai-breakthroughs/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/5b2cd6d284700d39/original/AI-exec-order.jpg?m=1764093818.662&w=1200",
+            "publishedAt": "2025-11-25T18:10:00Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Firms crack down on job candidates using ChatGPT",
+            "url": "https://www.afr.com/technology/wall-street-wants-everyone-using-ai-except-its-job-applicants-20251121-p5nhfl",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3311%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/9c12c5f720dd02bf2cb5bde7c24abb4c92069ce8",
+            "publishedAt": "2025-11-25T18:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "How CBC News will use AI responsibly to benefit our journalism - and keep your trust",
+            "url": "https://www.cbc.ca/news/editorsblog/cbc-news-artificial-intelligence-guidelines-9.6990760",
+            "urlToImage": "https://i.cbc.ca/ais/004e5ce0-908a-4972-831d-a80e59565ffd,1764017733556/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D620",
+            "publishedAt": "2025-11-25T18:00:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Central bank body BIS appoints new head of digital currency hub",
+            "url": "https://www.reuters.com/business/finance/central-bank-body-bis-appoints-new-head-digital-currency-hub-2025-11-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-25T17:52:25Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity threats and data breaches",
+            "url": "https://abc17news.com/stacker-money/2025/11/25/cybersecurity-threats-and-data-breaches/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2025/11/comerica-cybersecurity-1.jpg",
+            "publishedAt": "2025-11-25T17:39:02Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Google, The Sleeping Giant In Global AI Race, Now 'Fully Awake'",
+            "url": "https://www.ndtvprofit.com/technology/google-the-sleeping-giant-in-global-ai-race-now-fully-awake",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-27%2Fbzdkzgxq%2FGoogle.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-11-25T17:34:37Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "The Hindu Best Places to Work Awards 2026, powered by WorkL",
+            "url": "https://www.thehindu.com/business/the-hindu-best-places-to-work-awards-2026-powered-by-workl/article70323324.ece",
+            "urlToImage": "https://th-i.thgim.com/public/business/2k4c63/article70323323.ece/alternates/LANDSCAPE_1200/workL.jpg",
+            "publishedAt": "2025-11-25T17:28:47Z"
+        },
         {
             "source": {
                 "id": "17d7c2645f485578130862e0c8dd9480",
@@ -3423,90 +3507,6 @@
             "url": "https://www.manilatimes.net/2025/11/24/tmt-newswire/pr-newswire/cigna-healthcare-international-health-study-shows-physical-health-remains-a-top-priority-despite-rising-stress-in-hong-kong/2230066",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/24/840148.jpg",
             "publishedAt": "2025-11-24T04:45:07Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Ant's Vibe Coding Software Reaches 1 Million Download Mark in Four Days",
-            "url": "https://www.marketscreener.com/news/ant-s-vibe-coding-software-reaches-1-million-download-mark-in-four-days-ce7d5edcdb81ff27",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-24T04:33:14Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Blue Owl Is the Sum of All Investor Fears",
-            "url": "https://www.bloomberg.com/opinion/articles/2025-11-24/ai-private-credit-blue-owl-is-the-sum-of-all-investor-fears",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itd9FaiwGwX8/v1/1200x800.jpg",
-            "publishedAt": "2025-11-24T04:30:33Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Figma sued for allegedly misusing customer data for AI training",
-            "url": "https://www.thehindu.com/sci-tech/technology/figma-sued-for-allegedly-misusing-customer-data-for-ai-training/article70316188.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/88zlka/article70316192.ece/alternates/LANDSCAPE_1200/2025-11-21T110051Z_2119360766_RC28X4AIJESL_RTRMADP_3_USA-BONDS-AI.JPG",
-            "publishedAt": "2025-11-24T04:17:43Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "day visit to South Africa",
-            "url": "https://www.tribuneindia.com/news/india/pm-modi-returns-from-3-day-visit-to-south-africa/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVkOGM3MDkwLWM4ZTctMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-11-24T03:44:38Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI is driver of economic growth, grand national transformation: S. Korea's PM",
-            "url": "https://www.lokmattimes.com/business/ai-is-driver-of-economic-growth-grand-national-transformation-s-koreas-pm/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202511243584987_202511.jpg",
-            "publishedAt": "2025-11-24T03:43:01Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI is driver of economic growth, grand national transformation: S. Korea's PM",
-            "url": "https://www.lokmattimes.com/technology/ai-is-driver-of-economic-growth-grand-national-transformation-s-koreas-pm-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202511243584987_202511.jpg",
-            "publishedAt": "2025-11-24T03:43:01Z"
-        },
-        {
-            "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
-                "country": "in"
-            },
-            "title": "Modi returns from a 3-day visit to South Africa",
-            "url": "https://www.newindianexpress.com/nation/2025/Nov/24/modi-returns-from-a-3-day-visit-to-south-africa-2",
-            "urlToImage": "https://media.newindianexpress.com/newindianexpress%2F2025-11-24%2Fu8cif3dh%2FModiPTI.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2025-11-24T03:40:05Z"
         }
     ]
 }
