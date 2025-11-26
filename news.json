@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-26T10:18:42.348944Z",
+    "lastUpdatedAt": "2025-11-26T11:14:46.248011Z",
     "articles": [
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "HP to cut about 6,000 jobs by 2028, ramps up AI efforts",
+            "url": "https://edition.cnn.com/2025/11/25/tech/hp-layoffs-ai-efforts",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1179053341.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-11-25T22:28:46Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "From data to defence: Rethinking cybersecurity in cloud environments",
+            "url": "https://itwire.com/itwire-magazine/from-data-to-defence-rethinking-cybersecurity-in-cloud-environments.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/26b33693938b3408e9fc0c70b485426d_XS.jpg",
+            "publishedAt": "2025-11-25T22:28:09Z"
+        },
         {
             "source": {
                 "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
@@ -3468,30 +3492,6 @@
             "url": "https://www.thestar.com.my/news/nation/2025/11/24/anwar-challenges-malaysia-kenya-to-build-proper-ai-ecosystem",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/24/3637964.jpg",
             "publishedAt": "2025-11-24T10:59:00Z"
-        },
-        {
-            "source": {
-                "id": "e743cde6ee986921721e83d3957862dc",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com",
-                "country": "in"
-            },
-            "title": "Gen AI Can Significantly Reduce Cost Of Auto Finance Industry: Report",
-            "url": "https://zeenews.india.com/mobility/gen-ai-can-significantly-reduce-cost-of-auto-finance-industry-report-2988731.html",
-            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2025/11/24/1867700-car-ani.jpg",
-            "publishedAt": "2025-11-24T10:55:26Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "India-Israel FTA push should focus on strategic sectors, not merchandise trade: GTRI",
-            "url": "https://www.dailyexcelsior.com/india-israel-fta-push-should-focus-on-strategic-sectors-not-merchandise-trade-gtri/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/Indai.jpg",
-            "publishedAt": "2025-11-24T10:33:47Z"
         }
     ]
 }
