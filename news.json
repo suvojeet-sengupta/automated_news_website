@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-11-26T18:19:57.145629Z",
+    "lastUpdatedAt": "2025-11-26T19:13:04.669903Z",
     "articles": [
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "Vast trove of medieval Jewish records opened up by AI",
+            "url": "https://www.straitstimes.com/world/middle-east/vast-trove-of-medieval-jewish-records-opened-up-by-ai",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/a1c6c0831c7e2c0968e46225bbeb5ecad051159eb874fa6387ec34c1ae2705ee",
+            "publishedAt": "2025-11-26T07:08:48Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Dassault Systemes and Mistral AI Deepen Their Partnership",
+            "url": "https://www.marketscreener.com/news/dassault-systemes-and-mistral-ai-deepen-their-partnership-ce7d5ed2dc8fff21",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-11-26T07:05:47Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Vast trove of medieval Jewish records opened up by AI",
+            "url": "https://www.reuters.com/business/media-telecom/vast-trove-medieval-jewish-records-opened-up-by-ai-2025-11-26/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-26T07:04:07Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI music platform Suno unveils deal with Warner to compensate artists",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/26/ai-music-platform-suno-unveils-deal-with-warner-to-compensate-artists",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/26/3641020.jpg",
+            "publishedAt": "2025-11-26T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "2b5db686603d0197d748f18d2dc01aec",
+                "name": "Bloomberg Tax News",
+                "url": "https://news.bloombergtax.com",
+                "country": "us"
+            },
+            "title": "McKinsey Cuts About 200 Tech Jobs, Shifts More Roles to AI",
+            "url": "https://news.bloombergtax.com/daily-tax-report/mckinsey-cuts-about-200-tech-jobs-shifts-more-roles-to-ai",
+            "urlToImage": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+            "publishedAt": "2025-11-26T06:45:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Jean Baudrillard: The Prophet of AI and Hyperreality",
+            "url": "https://www.devdiscourse.com/article/entertainment/3710228-jean-baudrillard-the-prophet-of-ai-and-hyperreality",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_29_06_9517358.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-11-26T06:39:34Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "26/11 Mumbai Attack: How Indian AI Startups Are Reshaping Counterterrorism Efforts",
+            "url": "https://www.freepressjournal.in/tech/2611-mumbai-attack-how-indian-ai-startups-are-reshaping-counterterrorism-efforts",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-26/g843k1z1/image.jpg",
+            "publishedAt": "2025-11-26T06:39:26Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -372,6 +456,18 @@
             "url": "https://www.marketscreener.com/news/tech-up-but-not-by-much-as-nvidia-slips-alphabet-gains-tech-roundup-ce7d5ed2da81ff22",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
             "publishedAt": "2025-11-26T00:10:14Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "Evaluating algorithmic fairness of machine learning models in predicting underweight, overweight, and adiposity across socioeconomic and caste groups in India: evidence from the longitudinal ageing st",
+            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000951",
+            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0000951.g004&size=inline",
+            "publishedAt": "2025-11-26T00:00:00Z"
         },
         {
             "source": {
@@ -3360,102 +3456,6 @@
             "url": "https://medicalxpress.com/news/2025-11-decision-tree-distinguishes-psychotic-disorders.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/better-diagnosis-of-me.jpg",
             "publishedAt": "2025-11-24T18:12:02Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Tech companies tap debt markets to fund AI and cloud expansion",
-            "url": "https://www.reuters.com/business/media-telecom/tech-companies-tap-debt-markets-fund-ai-cloud-expansion-2025-11-24/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/R3YOBXVSBZMWVKTZLPIFQ476WY.jpg?auth=5eaecffdf6a993970cc4556cf59a643722efa536f9631fe3b449f2966597136e&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-11-24T18:08:09Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "OpenAI Debuts ChatGPT Shopping Research Tool Ahead of the Holidays",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-24/openai-debuts-chatgpt-shopping-research-tool-ahead-of-the-holidays",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inMygObYVyzc/v0/1200x799.jpg",
-            "publishedAt": "2025-11-24T18:00:33Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Trump Weighing Advanced Nvidia Chip Sales To China, Lutnick Says",
-            "url": "https://www.ndtvprofit.com/world/trump-weighing-advanced-nvidia-chip-sales-to-china-lutnick-says",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-24%2F8d0n2h1i%2F444924198.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-11-24T17:42:18Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Meet Indian-origin leader Nikesh Arora, world’s 2nd highest-paid CEO, steering Palo Alto Networks",
-            "url": "https://www.financialexpress.com/trending/meet-indian-origin-leader-nikesh-arora-worlds-2nd-highest-paid-ceo-steering-palo-alto-networks/4054798/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/11/Copy-of-.-75.png?quality=100",
-            "publishedAt": "2025-11-24T17:27:22Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Scale AI Loses to Smaller Startup in Bid for US Intel Work",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-24/scale-ai-loses-to-smaller-upstart-in-bid-for-us-intel-work",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPeUzn76CuCk/v1/1200x773.jpg",
-            "publishedAt": "2025-11-24T17:22:37Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "DGCA warns of Ethiopian volcanic ash plumes; airlines cancel multiple services",
-            "url": "https://www.onmanorama.com/news/india/2025/11/24/volcanic-ash-aviation-disruption.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/news/world/images/2025/6/22/airline-iran-israel-war.jpg",
-            "publishedAt": "2025-11-24T17:05:59Z"
-        },
-        {
-            "source": {
-                "id": "e7b4d14003cc89c64a689f1c38723ef5",
-                "name": "Live 5 News WCSC",
-                "url": "https://www.live5news.com",
-                "country": "us"
-            },
-            "title": "AI technology could transform the grocery shopping experience",
-            "url": "https://www.live5news.com/2025/11/24/ai-grocery-stores-what-shoppers-need-know-about-pricing-privacy-data/",
-            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/JDXRWDCJ55H5BEPTMT3FWVEZFM.png?auth=6f1adbfad793a0bd0185661633283cc23b3b327c72eeba2e9456acdbfa95b5cb&width=1200&height=600&smart=false&focal=246%2C641",
-            "publishedAt": "2025-11-24T17:00:57Z"
-        },
-        {
-            "source": {
-                "id": "04c17c43a7507fac95fd9ba5d47715b5",
-                "name": "WIS10",
-                "url": "https://www.wistv.com",
-                "country": "us"
-            },
-            "title": "AI technology could transform the grocery shopping experience",
-            "url": "https://www.wistv.com/2025/11/24/ai-grocery-stores-what-shoppers-need-know-about-pricing-privacy-data/",
-            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/JDXRWDCJ55H5BEPTMT3FWVEZFM.png?auth=6f1adbfad793a0bd0185661633283cc23b3b327c72eeba2e9456acdbfa95b5cb&width=1200&height=600&smart=false&focal=246%2C641",
-            "publishedAt": "2025-11-24T17:00:57Z"
         }
     ]
 }
