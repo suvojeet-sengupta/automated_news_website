@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-11-26T06:25:16.928794Z",
+    "lastUpdatedAt": "2025-11-26T07:16:11.358886Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Dozens of state attorneys general urge US Congress not to block AI laws",
+            "url": "https://www.reuters.com/legal/litigation/dozens-state-attorneys-general-urge-us-congress-not-block-ai-laws-2025-11-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/LACQ4WKY3JIH3ERQYQEP7GPWDI.jpg?auth=63e26f03407922339e20a2dcc6554a6cb591de250feed3fa25a9b02d6a45cfea&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-25T19:10:45Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "How AI and Smart Tech Are Powering the Next Generation of Energy Plants",
+            "url": "https://techbullion.com/how-ai-and-smart-tech-are-powering-the-next-generation-of-energy-plants/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/Energy-Plants-1000x504.png",
+            "publishedAt": "2025-11-25T19:09:58Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Dozens of state attorneys general urge US Congress not to block AI laws",
+            "url": "https://www.marketscreener.com/news/dozens-of-state-attorneys-general-urge-us-congress-not-to-block-ai-laws-ce7d5ed2d88ef52c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-11-25T19:06:30Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Gemini 3 - and the custom chips that power it - is a wake up call for AI investors",
+            "url": "https://www.cnbc.com/2025/11/25/gemini-3-and-the-custom-chips-that-train-it-is-a-wake-up-call-for-ai-investors.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228520-1763578109696-gettyimages-2247406411-vcg111604763434.jpeg?v=1763578124&w=1920&h=1080",
+            "publishedAt": "2025-11-25T18:59:57Z"
+        },
+        {
+            "source": {
+                "id": "a2e577ba2489a893201ce3c6c670f6de",
+                "name": "The Atlantic",
+                "url": "https://www.theatlantic.com",
+                "country": "us"
+            },
+            "title": "Chatbots Are Becoming Really, Really Good Criminals",
+            "url": "https://www.theatlantic.com/technology/2025/11/anthropic-hack-ai-cybersecurity/685061/",
+            "urlToImage": "https://cdn.theatlantic.com/thumbor/aMFAOz8Rx989POPW-76PdjjyWjw=/0x32:1498x812/1200x625/media/img/mt/2025/11/2025_11_20_chatbot_mpg_1/original.gif",
+            "publishedAt": "2025-11-25T18:49:50Z"
+        },
+        {
+            "source": {
+                "id": "494f687bd1dfaa9f7b4a705c860671d0",
+                "name": "Hartford Courant",
+                "url": "https://www.courant.com",
+                "country": "us"
+            },
+            "title": "Clair Obscur leads the AP's list of 2025's top video games",
+            "url": "https://www.courant.com/2025/11/25/best-video-games-2025/",
+            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/11/YE-Top_Ten_Video_Games_31609-1.jpg?w=1024&h=576",
+            "publishedAt": "2025-11-25T18:41:12Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Bihar cabinet’s first meeting sets five-day special session, approves AI mission and new investment panels",
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/bihar-cabinets-first-meeting-sets-five-day-special-session-approves-ai-mission-and-new-investment-panels/articleshow/125572010.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125572269,width-1200,height-630,imgsize-67158,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-11-25T18:40:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "‘AI will have a transformative impact on how research is carried out in future’",
+            "url": "https://timesofindia.indiatimes.com/city/goa/ai-will-have-a-transformative-impact-on-how-research-is-carried-out-in-future/articleshow/125571816.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125571816,width-1070,height-580,imgsize-12472,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-11-25T18:35:00Z"
+        },
         {
             "source": {
                 "id": "9290338c23f31e3f547a2dbfa1c52c03",
@@ -3411,102 +3507,6 @@
             "url": "https://www.newindianexpress.com/nation/2025/Nov/24/parliamentary-panel-reviews-coaching-centres-ai-impact-higher-education-reforms-amid-student-stress",
             "urlToImage": "https://media.newindianexpress.com/TNIE%2Fimport%2F2023%2F4%2F8%2Foriginal%2FPrivate_schools.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
             "publishedAt": "2025-11-24T06:12:06Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Japan firms turn to satellites, AI to find abandoned houses for sale",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/24/japan-firms-turn-to-satellites-ai-to-find-abandoned-houses-for-sale",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/24/3637218.jpg",
-            "publishedAt": "2025-11-24T05:50:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Mushrooming coaching centres: Parliamentary panel to examine trend, existing legislations in the competitive exam space",
-            "url": "https://economictimes.indiatimes.com/news/india/mushrooming-coaching-centres-parliamentary-panel-to-examine-trend-existing-legislations-in-the-competitive-exam-space/articleshow/125532933.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125533296,width-1200,height-630,imgsize-1422948,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-11-24T05:39:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "LG to supply HVAC, AI home systems for Dubai smart city",
-            "url": "https://www.tribuneindia.com/news/business/lg-to-supply-hvac-ai-home-systems-for-dubai-smart-city/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWFkNGNkOGQwLWM4ZjYtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-11-24T05:30:18Z"
-        },
-        {
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "The Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            },
-            "title": "2 artificial intelligence (AI) stocks to buy before the end of 2025",
-            "url": "https://www.fool.com.au/2025/11/24/2-artificial-intelligence-ai-stocks-to-buy-before-the-end-of-2025-usfeed/",
-            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2024/12/more-AI-1-16.9-1200x675.jpg",
-            "publishedAt": "2025-11-24T05:30:00Z"
-        },
-        {
-            "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
-                "country": "in"
-            },
-            "title": "V-P tells probationary civil servants to prioritise team excellence, embrace tech",
-            "url": "https://www.newindianexpress.com/states/andhra-pradesh/2025/Nov/24/v-p-tells-probationary-civil-servants-to-prioritise-team-excellence-embrace-tech",
-            "urlToImage": "https://media.newindianexpress.com/newindianexpress%2F2025-11-24%2Fybrfw7dj%2FVice-Prez.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2025-11-24T05:13:43Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "Japan firms turn to satellites, AI to find abandoned houses for sale",
-            "url": "https://manilastandard.net/news/world/314672108/japan-firms-turn-to-satellites-ai-to-find-abandoned-houses-for-sale.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/11/marked-areas-japan-abandoned-homes.jpg",
-            "publishedAt": "2025-11-24T05:00:12Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Modi Returns From A 3-Day Visit To South Africa",
-            "url": "https://www.dailyexcelsior.com/modi-returns-from-a-3-day-visit-to-south-africa/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/10/PTI10_14_2025_000182A-scaled.jpg",
-            "publishedAt": "2025-11-24T04:46:40Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Cigna Healthcare International Health Study Shows Physical Health Remains a Top Priority Despite Rising Stress in Hong Kong",
-            "url": "https://www.manilatimes.net/2025/11/24/tmt-newswire/pr-newswire/cigna-healthcare-international-health-study-shows-physical-health-remains-a-top-priority-despite-rising-stress-in-hong-kong/2230066",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/24/840148.jpg",
-            "publishedAt": "2025-11-24T04:45:07Z"
         }
     ]
 }
