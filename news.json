@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-11-27T18:22:36.128923Z",
+    "lastUpdatedAt": "2025-11-27T19:12:48.145865Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI can do more of your shopping this holiday season",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/27/ai-can-do-more-of-your-shopping-this-holiday-season",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/27/3642807.jpg",
+            "publishedAt": "2025-11-27T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "Sebi Penalises Reliance Securities For Cybersecurity, Stock Broker Rules Violations",
+            "url": "https://www.outlookbusiness.com/news/sebi-penalises-reliance-securities-for-cybersecurity-stock-broker-rules-violations",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2025-10-28/7qnimxi4/Sustainable-Finance.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2025-11-27T06:54:26Z"
+        },
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "Japan’s Asahi admits cybersecurity ‘weakness’, says hackers stole info of 2 million people",
+            "url": "https://www.scmp.com/news/asia/east-asia/article/3334328/japans-asahi-admits-cybersecurity-weakness-says-hackers-stole-info-2-million-people",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/27/11d07045-a5e1-4415-81aa-6d54fe936477_2da03266.jpg?itok=Hwc5ThMw&v=1764226063",
+            "publishedAt": "2025-11-27T06:47:45Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Driven Security Measures for a Safer Digital Future: Preparing for the Growth of Web3 and Stablecoin Adoption",
+            "url": "https://www.tribuneindia.com/news/business/ai-driven-security-measures-for-a-safer-digital-future-preparing-for-the-growth-of-web3-and-stablecoin-adoption/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZlNWM3NTIwLWNiNWItMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
+            "publishedAt": "2025-11-27T06:40:36Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Can Asia’s AI ‘losers’ reshuffle the leaderboard?",
+            "url": "https://www.reuters.com/default/can-asias-ai-losers-reshuffle-leaderboard-2025-11-27/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/DKQ762WNSRLMPNPSA6WCS7W5XQ.jpg?auth=f175d288425f6e9c360beaa27b03c3677e2114984202af16acd8d940095dc8e9&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-27T06:37:20Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Rockwell Automation's SecureOT: A Leap Forward in Industrial Cybersecurity",
+            "url": "https://www.devdiscourse.com/article/technology/3711507-rockwell-automations-secureot-a-leap-forward-in-industrial-cybersecurity",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_56_2660097.png?width=920&format=jpeg",
+            "publishedAt": "2025-11-27T06:35:55Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Rockwell Automation Introduces SecureOT Solution Suite to Strengthen Industrial Cybersecurity Resilience",
+            "url": "https://www.tribuneindia.com/news/business/rockwell-automation-introduces-secureot-solution-suite-to-strengthen-industrial-cybersecurity-resilience/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJiNTQ5MzcwLWNiNWItMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
+            "publishedAt": "2025-11-27T06:33:49Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -372,6 +456,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/27/3195750/28124/en/Managed-Security-Services-MSS-Market-Review-and-Opportunities-Assessment-2021-2030-Cyber-Threats-Fuel-Double-Digit-Growth.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-11-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Lexar Unveils Industry’s First AI Storage Core for Next‐Generation Edge AI Devices",
+            "url": "https://www.thehindu.com/brandhub/pr-release/lexar-unveils-industrys-first-ai-storage-core-for-next%E2%80%90generation-edge-ai-devices/article70329141.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/2e9vbm/article70329144.ece/alternates/LANDSCAPE_1200/Lexar.jpg",
+            "publishedAt": "2025-11-27 06:54:59"
         },
         {
             "source": {
@@ -3357,102 +3450,6 @@
             "url": "https://www.cnbc.com/2025/11/25/nvidia-shares-hit-by-report-on-new-ai-chip-competition-how-worried-should-investors-be.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108065473-1732069401467-gettyimages-2153608271-INDIA_YOTTA_NVIDIA.jpeg?v=1745607489&w=1920&h=1080",
             "publishedAt": "2025-11-25T19:46:40Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Warner Music Settles Lawsuit with AI Music Startup Suno",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-25/warner-music-settles-lawsuit-with-ai-music-startup-suno",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioBU0ML3mzoE/v1/1200x800.jpg",
-            "publishedAt": "2025-11-25T19:38:11Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Robinhood CEO's math-focused AI startup Harmonic valued at $1.45 billion in latest fundraising",
-            "url": "https://www.reuters.com/business/robinhood-ceos-math-focused-ai-startup-harmonic-valued-145-billion-latest-2025-11-25/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-11-25T19:27:22Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Dozens of state attorneys general urge US Congress not to block AI laws",
-            "url": "https://www.reuters.com/legal/litigation/dozens-state-attorneys-general-urge-us-congress-not-block-ai-laws-2025-11-25/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/LACQ4WKY3JIH3ERQYQEP7GPWDI.jpg?auth=63e26f03407922339e20a2dcc6554a6cb591de250feed3fa25a9b02d6a45cfea&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-11-25T19:10:45Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How AI and Smart Tech Are Powering the Next Generation of Energy Plants",
-            "url": "https://techbullion.com/how-ai-and-smart-tech-are-powering-the-next-generation-of-energy-plants/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/Energy-Plants-1000x504.png",
-            "publishedAt": "2025-11-25T19:09:58Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Dozens of state attorneys general urge US Congress not to block AI laws",
-            "url": "https://www.marketscreener.com/news/dozens-of-state-attorneys-general-urge-us-congress-not-to-block-ai-laws-ce7d5ed2d88ef52c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-25T19:06:30Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Gemini 3 - and the custom chips that power it - is a wake up call for AI investors",
-            "url": "https://www.cnbc.com/2025/11/25/gemini-3-and-the-custom-chips-that-train-it-is-a-wake-up-call-for-ai-investors.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228520-1763578109696-gettyimages-2247406411-vcg111604763434.jpeg?v=1763578124&w=1920&h=1080",
-            "publishedAt": "2025-11-25T18:59:57Z"
-        },
-        {
-            "source": {
-                "id": "a2e577ba2489a893201ce3c6c670f6de",
-                "name": "The Atlantic",
-                "url": "https://www.theatlantic.com",
-                "country": "us"
-            },
-            "title": "Chatbots Are Becoming Really, Really Good Criminals",
-            "url": "https://www.theatlantic.com/technology/2025/11/anthropic-hack-ai-cybersecurity/685061/",
-            "urlToImage": "https://cdn.theatlantic.com/thumbor/aMFAOz8Rx989POPW-76PdjjyWjw=/0x32:1498x812/1200x625/media/img/mt/2025/11/2025_11_20_chatbot_mpg_1/original.gif",
-            "publishedAt": "2025-11-25T18:49:50Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "Clair Obscur leads the AP's list of 2025's top video games",
-            "url": "https://www.courant.com/2025/11/25/best-video-games-2025/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/11/YE-Top_Ten_Video_Games_31609-1.jpg?w=1024&h=576",
-            "publishedAt": "2025-11-25T18:41:12Z"
         }
     ]
 }
