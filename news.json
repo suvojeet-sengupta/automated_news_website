@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-11-27T06:26:18.439079Z",
+    "lastUpdatedAt": "2025-11-27T07:17:12.005586Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "US cybersecurity firm Deepwatch opens GCC in Bengaluru",
+            "url": "https://www.thehindu.com/news/national/karnataka/us-cybersecurity-firm-deepwatch-opens-gcc-in-bengaluru/article70327177.ece",
+            "urlToImage": "https://www.thehindu.com/theme/images/og-image.png",
+            "publishedAt": "2025-11-26T19:17:02Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "How Elon Musk’s xAI Plans to Power Its Colossus Data Center",
+            "url": "https://markets.businessinsider.com/news/stocks/how-elon-musk-s-xai-plans-to-power-its-colossus-data-center-1035598881",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/image-2917-1024x768.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-11-26T19:14:30Z"
+        },
+        {
+            "source": {
+                "id": "b683218c3952d77a76b7bda7512f2f6e",
+                "name": "WIRED",
+                "url": "https://www.wired.com",
+                "country": "us"
+            },
+            "title": "Amazon Workers Issue Warning About Company’s ‘All-Costs-Justified’ Approach to AI Development",
+            "url": "https://www.wired.com/story/amazon-employees-open-letter-artificial-intelligence-layoffs/",
+            "urlToImage": "https://media.wired.com/photos/692633a52a28299e7369f58a/191:100/w_1280,c_limit/Amazon-Employees-Sign-Letter-Objecting-to-Company-Use-of-AI-Business-2243392135.jpg",
+            "publishedAt": "2025-11-26T19:04:54Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Semiconductor Sector Deep Dive Finds AI Growth Driving ETFs and Chip Stocks Higher",
+            "url": "https://markets.businessinsider.com/news/stocks/semiconductor-sector-deep-dive-finds-ai-growth-driving-etfs-and-chip-stocks-higher-1035598876",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/image-2772-1024x290.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-11-26T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "AI music platform Suno unveils deal with Warner to compensate artists",
+            "url": "https://www.nation.com.pk/27-Nov-2025/ai-music-platform-suno-unveils-deal-warner-compensate-artists",
+            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "publishedAt": "2025-11-26T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Baxter Warns Of Potential Device Tampering In Life2000 Ventilator Recall",
+            "url": "https://www.benzinga.com/news/fda/25/11/49093277/baxter-warns-of-potential-device-tampering-in-life2000-ventilator-recall",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/11/26/Stuttgart--Germany---03-31-2023-Person-H.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-11-26T18:59:39Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "“Could Set Microsoft Back”: Microsoft Stock (NASDAQ:MSFT) Gains Despite Roster Loss",
+            "url": "https://markets.businessinsider.com/news/stocks/could-set-microsoft-back-microsoft-stock-nasdaq-msft-gains-despite-roster-loss-1035598851",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/Screenshot-2025-11-26-at-13-29-49-Microsoft-MSFT-Stock-Forecast-Price-Targets-and-Analysts-Predictions-1024x758.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-11-26T18:32:31Z"
+        },
+        {
+            "source": {
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
+                "country": "in"
+            },
+            "title": "Ice-Cream Trip to 17-Year Disappearance: Facial Recognition & AI Reunite Pakistani Woman With Family After 17 Years",
+            "url": "https://www.newsx.com/world/ice-cream-trip-to-17-year-disappearance-facial-recognition-ai-reunite-pakistani-woman-with-family-after-17-years-115959/",
+            "urlToImage": "https://www.newsx.com/wp-content/uploads/2025/11/gold-and-silver-rate-today-43_2.jpg",
+            "publishedAt": "2025-11-26T18:29:27Z"
+        },
         {
             "source": {
                 "id": "ca35c66a2b26e8274365e937357cf9c5",
@@ -1668,6 +1764,15 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000951",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0000951.g004&size=inline",
             "publishedAt": "2025-11-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The Atom and the Algorithm: Britain’s High-Stakes Nuclear Gamble to Feed the AI Beast",
+            "url": "https://www.webpronews.com/the-atom-and-the-algorithm-britains-high-stakes-nuclear-gamble-to-feed-the-ai-beast/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2531-1764134811.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-11-26 18:30:09"
         },
         {
             "source": {
@@ -3360,114 +3465,6 @@
             "url": "https://economictimes.indiatimes.com/tech/technology/israel-teams-up-with-google-to-bring-ai-into-traditional-manufacturing/articleshow/125562317.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-97786,resizemode-75,msid-125562317/tech/technology/israel-teams-up-with-google-to-bring-ai-into-traditional-manufacturing.jpg",
             "publishedAt": "2025-11-25T10:20:00Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "If they try to touch Bengal, we will shake the entire country",
-            "url": "https://www.moneycontrol.com/news/india/if-they-try-to-touch-bengal-we-will-shake-the-entire-country-mamata-banerjee-s-warning-for-bjp-amid-sir-row-13695382.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/07/20250721123637_Mamata-Banerjee-martyrs-day.jpg",
-            "publishedAt": "2025-11-25T10:19:07Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Copperstone Lending Inc. Stands with PNP-ACG to Strengthen Cybersecurity Awareness",
-            "url": "https://www.manilatimes.net/2025/11/25/tmt-newswire/pr-newswire/copperstone-lending-inc-stands-with-pnp-acg-to-strengthen-cybersecurity-awareness/2231068",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/25/842054.jpg",
-            "publishedAt": "2025-11-25T10:12:32Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
-            "url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/11/25/multimedia/00trav-agenticai-mjcb/00trav-agenticai-mjcb-facebookJumbo.jpg",
-            "publishedAt": "2025-11-25T10:02:34Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "A.I. Can Do More of Your Shopping This Holiday Season",
-            "url": "https://www.nytimes.com/2025/11/25/technology/chatgpt-holiday-shopping.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/11/24/business/00ai-shopping/00ai-shopping-facebookJumbo.jpg",
-            "publishedAt": "2025-11-25T10:01:58Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Amazon to Invest $50 Billion in AI Infrastructure for U.S. Government",
-            "url": "https://www.breitbart.com/tech/2025/11/25/amazon-to-invest-50-billion-in-ai-infrastructure-for-u-s-government/",
-            "urlToImage": "https://media.breitbart.com/media/2025/11/Jeff-Bezos-is-pleased-with-Amazons-success-640x335.jpg",
-            "publishedAt": "2025-11-25T10:01:32Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "AI companions, E-bikes and more",
-            "url": "https://www.courant.com/2025/11/25/dangerous-holiday-toys-ai-companions-e-bikes-and-many-more-see-the-entire-list/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/11/AI_Toys_77016.jpg?w=1024&h=768",
-            "publishedAt": "2025-11-25T10:00:43Z"
-        },
-        {
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Leaked Microsoft Organizational Chart Shows Top 16 Execs Under Nadella",
-            "url": "https://www.businessinsider.com/leaked-microsoft-organizational-chart-shows-top-16-execs-under-nadella-2025-11",
-            "urlToImage": "https://i.insider.com/691e295fe1a9cbb014de8cd7?width=1200&format=jpeg",
-            "publishedAt": "2025-11-25T10:00:02Z"
-        },
-        {
-            "source": {
-                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
-                "name": "The Philadelphia Inquirer",
-                "url": "https://www.inquirer.com",
-                "country": "us"
-            },
-            "title": "Why your small business needs an AI policy",
-            "url": "https://www.inquirer.com/business/small-business/artificial-intelligence-workplace-policies-business-law-20251125.html",
-            "urlToImage": "https://www.inquirer.com/resizer/v2/Y47IDCXJFKROWQF5A3UYN7GDTY.jpg?auth=362f7871f226aeb7b30647887bb8fa1eeddcf575d187492d3a7b1e10c15063e7&width=760&height=507&smart=true",
-            "publishedAt": "2025-11-25T10:00:01Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "FITUR 2026 Expands Its Travel Technology Area by 50%, Strengthening Its Role as the Leading Hub for Innovation-Tourism Dialogue",
-            "url": "https://www.prnewswire.co.uk/news-releases/fitur-2026-expands-its-travel-technology-area-by-50-strengthening-its-role-as-the-leading-hub-for-innovation-tourism-dialogue-302623299.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2829705/FITUR.jpg?p=facebook",
-            "publishedAt": "2025-11-25T10:00:00Z"
         }
     ]
 }
