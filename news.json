@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-11-27T07:17:12.005586Z",
+    "lastUpdatedAt": "2025-11-27T08:23:19.745593Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Tech Firms From Dell to HP Warn of Memory Chip Squeeze From AI",
+            "url": "https://www.bloomberg.com/news/articles/2025-11-26/tech-firms-from-dell-to-hp-warn-of-memory-chip-squeeze-from-ai",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iC2PpviqNo6k/v0/1200x823.jpg",
+            "publishedAt": "2025-11-26T20:14:33Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Dell’s (DELL) AI Revenue Could Double, Says Bank of America",
+            "url": "https://markets.businessinsider.com/news/stocks/dell-s-dell-ai-revenue-could-double-says-bank-of-america-1035598904",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/image-2931-1024x811.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-11-26T20:10:31Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Not up to code: security flaws, bias in foreign AI tool",
+            "url": "https://www.perthnow.com.au/news/technology/not-up-to-code-security-flaws-bias-in-foreign-ai-tool-c-20808115",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-20808115/156ddbe64a9bc4e9ea8d251e9489c0f5979906c5-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-11-26T20:01:33Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "Not up to code: security flaws, bias in foreign AI tool",
+            "url": "https://www.canberratimes.com.au/story/9121026/not-up-to-code-security-flaws-bias-in-foreign-ai-tool/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/97bd9797-656c-4c37-9854-50f908b13d77.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2025-11-26T20:00:01Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Tech tip: Do's and don'ts of using AI to help with schoolwork",
+            "url": "https://japantoday.com/category/tech/one-tech-tip-do's-and-don'ts-of-using-ai-to-help-with-schoolwork",
+            "urlToImage": "https://media.japantoday.com/img/store/34/b3/e7e22ead156356ae1d6d8d36143902b1a9bc/download/_w1700.jpeg",
+            "publishedAt": "2025-11-26T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Tech tip: Do's and don'ts of using AI to help with schoolwork",
+            "url": "https://japantoday.com/category/tech/one-tech-tip-do%27s-and-don%27ts-of-using-ai-to-help-with-schoolwork",
+            "urlToImage": "https://media.japantoday.com/img/store/34/b3/e7e22ead156356ae1d6d8d36143902b1a9bc/download/_w1700.jpeg",
+            "publishedAt": "2025-11-26T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "31177620c1e6e610b5d2b67916ed3615",
+                "name": "PBS News",
+                "url": "https://www.pbs.org",
+                "country": "us"
+            },
+            "title": "Judge’s note on immigration agents using AI raises accuracy and privacy concerns",
+            "url": "https://www.pbs.org/newshour/nation/judges-note-on-immigration-agents-using-ai-raises-accuracy-and-privacy-concerns",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/immigrationcrackdown-1-1024x683.jpg",
+            "publishedAt": "2025-11-26T19:43:39Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "IT dept reviews 26 startups for seed funding",
+            "url": "https://timesofindia.indiatimes.com/city/goa/it-dept-reviews-26-startups-for-seed-funding/articleshow/125598656.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125598656,width-1070,height-580,imgsize-null,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-11-26T19:27:00Z"
+        },
+        {
+            "source": {
+                "id": "d4773b92da0613b8ffc2fc9c46229534",
+                "name": "Business Wire",
+                "url": "https://www.businesswire.com",
+                "country": "us"
+            },
+            "title": "Growth Opportunities in Saudi Arabia's Cybersecurity Market, 2025-2034 - Ranked Second Globally in Cybersecurity, Investments in Resilience Soar - ResearchAndMarkets.com",
+            "url": "https://www.businesswire.com/news/home/20251126016084/en/Growth-Opportunities-in-Saudi-Arabias-Cybersecurity-Market-2025-2034---Ranked-Second-Globally-in-Cybersecurity-Investments-in-Resilience-Soar---ResearchAndMarkets.com",
+            "urlToImage": "https://mms.businesswire.com/media/20251126016084/en/2655013/22/logo.jpg",
+            "publishedAt": "2025-11-26T19:23:00Z"
+        },
         {
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -1767,6 +1875,15 @@
         },
         {
             "source": {
+                "name": "techcrunch"
+            },
+            "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+            "url": "https://techcrunch.com/2025/11/26/chatgpt-everything-to-know-about-the-ai-chatbot/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+            "publishedAt": "2025-11-26 19:33:39"
+        },
+        {
+            "source": {
                 "name": "webpronews"
             },
             "title": "The Atom and the Algorithm: Britain’s High-Stakes Nuclear Gamble to Feed the AI Beast",
@@ -3345,126 +3462,6 @@
             "url": "https://www.marketscreener.com/news/veon-s-qazcode-meetkai-collaborate-on-regional-ai-services-deal-ce7d5eddde88f42c",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
             "publishedAt": "2025-11-25T11:48:30Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Sebi Joins Forces with NFSU to Bolster Digital Forensic Prowess",
-            "url": "https://www.devdiscourse.com/article/law-order/3709311-sebi-joins-forces-with-nfsu-to-bolster-digital-forensic-prowess",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/19_06_2024_17_07_22_5266872.png?width=920&format=jpeg",
-            "publishedAt": "2025-11-25T11:27:25Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Amazon Web Services, HCLTech Partner Over Financial Services Industry Modernization",
-            "url": "https://www.marketscreener.com/news/amazon-web-services-hcltech-partner-over-financial-services-industry-modernization-ce7d5edddf81f323",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-25T11:21:31Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Nvidia Shares Fall on Report Meta Mulling Use of Google-Designed AI Chips",
-            "url": "https://www.marketscreener.com/news/nvidia-shares-fall-on-report-meta-mulling-use-of-google-designed-ai-chips-ce7d5edddf8efe22",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-25T11:14:14Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Alphabet on pace to hit $4 trillion market value as AI gains momentum",
-            "url": "https://www.marketscreener.com/news/alphabet-on-pace-to-hit-4-trillion-market-value-as-ai-gains-momentum-ce7d5edddf8cff23",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-25T105746Z_1_LYNXMPELAO0I3_RTROPTP_4_ALPHABET-RESULTS.JPG",
-            "publishedAt": "2025-11-25T10:58:20Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "OpenAI Debuts ChatGPT Shopping Research Tool Ahead Of The Holidays",
-            "url": "https://www.ndtv.com/world-news/openai-debuts-chatgpt-shopping-research-tool-ahead-of-the-holidays-9697227",
-            "urlToImage": "https://c.ndtvimg.com/2025-11/ud4vt8f8_chatgpt_625x300_07_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-11-25T10:49:58Z"
-        },
-        {
-            "source": {
-                "id": "ac6fd93468b9b567c414c756aa23d0bc",
-                "name": "Jackson Clarion-Ledger",
-                "url": "https://eu.clarionledger.com",
-                "country": "us"
-            },
-            "title": "Belhaven University STEM secures historic grants in Jackson MS",
-            "url": "https://eu.clarionledger.com/story/news/education/2025/11/25/belhaven-university-stem-grants-over-500000-dollars-in-jackson-mississippi/87319645007/",
-            "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2025/11/17/PJAM/87319901007-stem-press-photo-2.jpg?auto=webp&crop=1499,843,x0,y77&format=pjpg&width=1200",
-            "publishedAt": "2025-11-25T10:45:30Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "India shouldn’t build AI models: The prize lies in using what exists to innovate and generate value",
-            "url": "https://www.livemint.com/opinion/online-views/india-ai-models-artificial-intelligence-innovation-value-chain-upstream-downstream-technology-11763975777445.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/24/1600x900/logo/Screenshot_2024-01-19_150414_1705656837081_1763990409242.png",
-            "publishedAt": "2025-11-25T10:30:13Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Stock Traders’ AI Wariness Threatens Seasonality Tailwinds",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-25/us-stocks-strong-december-history-seen-tested-by-ai-malaise",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijEoIs.YdNb0/v1/1200x800.jpg",
-            "publishedAt": "2025-11-25T10:30:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Amazon Recommends Workers Use Kiro Over Third-Party AI Coding Tools",
-            "url": "https://www.marketscreener.com/news/amazon-recommends-workers-use-kiro-over-third-party-ai-coding-tools-ce7d5edddf8bf220",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-25T10:26:11Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Israel teams up with Google to bring AI into traditional manufacturing",
-            "url": "https://economictimes.indiatimes.com/tech/technology/israel-teams-up-with-google-to-bring-ai-into-traditional-manufacturing/articleshow/125562317.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-97786,resizemode-75,msid-125562317/tech/technology/israel-teams-up-with-google-to-bring-ai-into-traditional-manufacturing.jpg",
-            "publishedAt": "2025-11-25T10:20:00Z"
         }
     ]
 }
