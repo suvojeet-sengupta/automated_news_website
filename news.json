@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-27T08:23:19.745593Z",
+    "lastUpdatedAt": "2025-11-27T09:18:20.580641Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases",
+            "url": "https://phys.org/news/2025-11-scientists-debut-generative-ai-molecules.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/scientists-debut-a-gen-1.jpg",
+            "publishedAt": "2025-11-26T21:10:01Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "AI Opens Faster Path to Trump Shipbuilding Goal, HD Hyundai Says",
+            "url": "https://www.bloomberg.com/news/articles/2025-11-26/ai-opens-faster-path-to-trump-shipbuilding-goal-hd-hyundai-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if0ZgFXxRC_s/v1/1200x800.jpg",
+            "publishedAt": "2025-11-26T21:00:00Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -1875,6 +1899,15 @@
         },
         {
             "source": {
+                "name": "startupnews"
+            },
+            "title": "KServe Joins CNCF To Standardize AI Model Serving on Kubernetes",
+            "url": "https://startupnews.fyi/2025/11/27/kserve-joins-cncf-to-standardize-ai-model-serving-on-kubernetes/",
+            "urlToImage": "https://i2.wp.com/cdn.thenewstack.io/media/2025/11/62a45454-kubecon-kserve.png?resize=1920%2C0&ssl=1&w=1920",
+            "publishedAt": "2025-11-26 20:37:58"
+        },
+        {
+            "source": {
                 "name": "techcrunch"
             },
             "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
@@ -3426,42 +3459,6 @@
             "url": "https://www.tribuneindia.com/news/business/infopercept-releases-threat-predictions-report-for-2026-attacks-on-ai-and-attacks-using-ai/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJmZGM1YjQwLWM5ZjctMTFmMC1iNzJjLWZkN2FlZWZlZTEwYy5qcGc=",
             "publishedAt": "2025-11-25T12:10:29Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Silicon Valley Entrepreneur Raju Chekuri Makes a Bold Play on Volleyball and Goa's Sporting Future",
-            "url": "https://www.tribuneindia.com/news/business/silicon-valley-entrepreneur-raju-chekuri-makes-a-bold-play-on-volleyball-and-goas-sporting-future/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA1OTc2YjgwLWM5ZjctMTFmMC1iNzJjLWZkN2FlZWZlZTEwYy5qcGc=",
-            "publishedAt": "2025-11-25T12:05:18Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Silicon Valley Entrepreneur Raju Chekuri Makes a Bold Play on Volleyball and Goa's Sporting Future",
-            "url": "https://www.lokmattimes.com/business/silicon-valley-entrepreneur-raju-chekuri-makes-a-bold-play-on-volleyball-and-goas-sporting-future/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251125120217_202511.jpg",
-            "publishedAt": "2025-11-25T12:02:38Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Veon's QazCode, MeetKai Collaborate on Regional AI Services Deal",
-            "url": "https://www.marketscreener.com/news/veon-s-qazcode-meetkai-collaborate-on-regional-ai-services-deal-ce7d5eddde88f42c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-25T11:48:30Z"
         }
     ]
 }
