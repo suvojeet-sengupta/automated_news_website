@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-11-28T07:16:24.956346Z",
+    "lastUpdatedAt": "2025-11-28T08:22:51.418050Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Morgan Stanley warns Oracle credit protection nearing record high",
+            "url": "https://www.latimes.com/business/story/2025-11-27/morgan-stanley-warns-oracle-credit-protection-nearing-record-high",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/8293d9a/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9a%2F7e%2F3d4a7ad64a98d1cae7de27f0f722%2F1x-1.jpg",
+            "publishedAt": "2025-11-27T20:12:51Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "BI DeFi Launches New AI and Web3 Mobile App, Allowing Anyone to Earn BTC and XRP.",
+            "url": "https://www.manilatimes.net/2025/11/28/tmt-newswire/globenewswire/bi-defi-launches-new-ai-and-web3-mobile-app-allowing-anyone-to-earn-btc-and-xrp/2232944",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/28/846134.png",
+            "publishedAt": "2025-11-27T20:09:43Z"
+        },
+        {
+            "source": {
+                "id": "6956007add5fc13a6721202ec906b1c4",
+                "name": "Decrypt",
+                "url": "https://decrypt.co",
+                "country": "us"
+            },
+            "title": "Malware Chrome Extension Secretly Siphoned Fees From Solana Traders for Months",
+            "url": "https://decrypt.co/350240/malware-chrome-extension-secretly-siphoned-fees-from-solana-traders-for-months",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
+            "publishedAt": "2025-11-27T20:01:02Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "'Zero-click' searches on rise due to AI summaries: Japan survey",
+            "url": "https://japantoday.com/category/tech/zero-click-searches-on-rise-due-to-ai-summaries-japan-survey",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2025-11-27T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "The three biggest myths about being hacked, debunked",
+            "url": "https://www.thetimes.com/uk/technology-uk/article/the-three-biggest-myths-about-being-hacked-debunked-7wgc6b008",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Fa58bf97e-cefb-44b9-a69e-32364cddcb12.jpg?crop=4117%2C2316%2C0%2C516&resize=1200",
+            "publishedAt": "2025-11-27T19:40:16Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Cybersecurity experts raise concerns about Snapchat's age",
+            "url": "https://www.abc.net.au/news/2025-11-28/snapchat-age-verification-concerns-social-media-ban-children-16/106047210",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/49ca4c884c07a4b492465ae4cafa4a70?impolicy=wcms_watermark_news&cropH=2316&cropW=4118&xPos=0&yPos=112&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-11-27T19:30:09Z"
+        },
         {
             "source": {
                 "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
@@ -1176,6 +1248,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/27/3195750/28124/en/Managed-Security-Services-MSS-Market-Review-and-Opportunities-Assessment-2021-2030-Cyber-Threats-Fuel-Double-Digit-Growth.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-11-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Beyond the Circle: Google’s Quiet Revolution to Make AI the Operating System’s Eye",
+            "url": "https://www.webpronews.com/beyond-the-circle-googles-quiet-revolution-to-make-ai-the-operating-systems-eye/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2640-1764263949.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-11-27 19:40:08"
         },
         {
             "source": {
@@ -3450,69 +3531,6 @@
             "url": "https://en.prnasia.com/story/513707-0.shtml",
             "urlToImage": "https://mma.prnasia.com/media2/2832955/Lexar.jpg?p=medium600",
             "publishedAt": "2025-11-26 15:54:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Lexar Unveils Industry's First AI Storage Core for Next‐Generation Edge AI Devices",
-            "url": "https://www.prnewswire.com/news-releases/lexar-unveils-industrys-first-ai-storage-core-for-nextgeneration-edge-ai-devices-302626882.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2832901/Lexar.jpg?p=original",
-            "publishedAt": "2025-11-26 15:50:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "The AI Race Is Becoming A Sprint For Power",
-            "url": "https://www.forbes.com/sites/michaelashley/2025/11/26/the-ai-race-is-becoming-a-sprint-for-power/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/692411d590a1bec31a5e332a/0x0.jpg?width=960",
-            "publishedAt": "2025-11-26 15:30:00"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "EU Moves To Ease AI Regulations To Narrow US-China Tech Lead",
-            "url": "https://www.benzinga.com/news/25/11/49086024/eu-moves-to-ease-ai-regulations-to-narrow-us-china-tech-lead",
-            "urlToImage": "https://substackcdn.com/image/fetch/$s_!PYUY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https:%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2d45dc0-5313-4e0c-9697-44f20de9b8b0_1112x620.png?auto=webp&dpr=2&optimize=medium&width=3840",
-            "publishedAt": "2025-11-26 15:24:51"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Industrial Internet: How BaRupOn Is Powering the Future of AI Infrastructure",
-            "url": "https://hackernoon.com/the-industrial-internet-how-barupon-is-powering-the-future-of-ai-infrastructure",
-            "urlToImage": "https://hackernoon.imgix.net/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-1g03bmy.png",
-            "publishedAt": "2025-11-26 15:14:59"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "Amplify ETFs Highlights Key Solutions as AI Transforms Holiday Shopping",
-            "url": "https://www.postregister.com/businessreport/technology/amplify-etfs-highlights-key-solutions-as-ai-transforms-holiday-shopping/article_498b35e3-6398-533c-9564-1e471754f89f.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-11-26 14:01:05"
-        },
-        {
-            "source": {
-                "name": "inc42"
-            },
-            "title": "Reliance-Backed Digital Connexion To Build $11 Bn Vizag Data Centre",
-            "url": "https://inc42.com/buzz/reliance-backed-digital-connexion-to-build-11-bn-vizag-data-centre/",
-            "urlToImage": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2020/01/Untitled-design-2020-01-24T202007.204.jpg",
-            "publishedAt": "2025-11-26 13:47:44"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google’s Ironwood TPU Delivers 4x AI Performance, Challenges Nvidia",
-            "url": "https://www.webpronews.com/googles-ironwood-tpu-delivers-4x-ai-performance-challenges-nvidia/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2495-1764124110.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-11-26 12:30:06"
         }
     ]
 }
