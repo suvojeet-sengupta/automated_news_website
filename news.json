@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-28T06:25:43.663804Z",
+    "lastUpdatedAt": "2025-11-28T07:16:24.956346Z",
     "articles": [
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "Yale Student AI Cheating Suit Sees Discovery Halt as Judge Weighs Dismissal",
+            "url": "https://usaherald.com/yale-student-ai-cheating-suit-sees-discovery-halt-as-judge-weighs-dismissal/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2025-11-27T18:59:40Z"
+        },
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk",
+                "country": "gb"
+            },
+            "title": "Was a simple web edit responsible for leaking OBR's Budget analysis? Rattled forecaster calls in cyber security expert over budget leak as sources tell The Mail it was a blunder rather than a conspira",
+            "url": "https://www.dailymail.co.uk/news/article-15332867/Was-simple-web-edit-responsible-leaking-OBRs-Budget-analysis-Rattled-forecaster-calls-cyber-security-expert-budget-leak-sources-tell-Mail-blunder-conspiracy.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2025/11/27/18/104248377-0-image-a-19_1764269773603.jpg",
+            "publishedAt": "2025-11-27T18:57:01Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Mumbai Couple Arrested For Using AI To Create Fake Local Railway Pass",
+            "url": "https://www.ndtv.com/india-news/mumbai-couple-arrested-for-using-ai-to-create-fake-local-railway-pass-9712917",
+            "urlToImage": "https://c.ndtvimg.com/2025-11/fbn4r3gc_mumbai-rail_625x300_27_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-11-27T18:44:12Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "MIT Study Suggests that AI Can Already Replace $1.2 Trillion in U.S. Wages",
+            "url": "https://markets.businessinsider.com/news/stocks/mit-study-suggests-that-ai-can-already-replace-1-2-trillion-in-u-s-wages-1035601157",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/image-3031-1024x555.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-11-27T18:30:00Z"
+        },
         {
             "source": {
                 "id": "0d429ea54fdbe8e34c582aa31bc81aba",
@@ -1128,6 +1176,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/27/3195750/28124/en/Managed-Security-Services-MSS-Market-Review-and-Opportunities-Assessment-2021-2030-Cyber-Threats-Fuel-Double-Digit-Growth.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-11-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The Deterministic Bet: How Groq’s LPU is Rewriting the Rules of AI Inference Speed",
+            "url": "https://www.webpronews.com/the-deterministic-bet-how-groqs-lpu-is-rewriting-the-rules-of-ai-inference-speed/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2635-1764263640.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-11-27 18:40:07"
         },
         {
             "source": {
@@ -3456,51 +3513,6 @@
             "url": "https://www.webpronews.com/googles-ironwood-tpu-delivers-4x-ai-performance-challenges-nvidia/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2495-1764124110.jpeg?fit=1024%2C768&ssl=1",
             "publishedAt": "2025-11-26 12:30:06"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Tech Job Postings Plunge 56% as AI Demand Surges",
-            "url": "https://www.webpronews.com/tech-job-postings-plunge-56-as-ai-demand-surges/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2494-1764121502.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-11-26 12:20:06"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "Nvidia vs Google: Why Jensen Huang is attacking ‘inflexible’ TPUs",
-            "url": "https://www.digit.in/features/general/nvidia-vs-google-why-jensen-huang-is-attacking-inflexible-tpus.html",
-            "urlToImage": "https://static.digit.in/Nvidia-vs-Google.png",
-            "publishedAt": "2025-11-26 11:35:41"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Washington’s New Manhattan Project: Trump Orders Federal Science to Run on AI",
-            "url": "https://www.webpronews.com/washingtons-new-manhattan-project-trump-orders-federal-science-to-run-on-ai/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2568-1764154848.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-11-26 11:00:55"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "Google Went After OpenAI But Ended up Rattling NVIDIA",
-            "url": "https://analyticsindiamag.com/global-tech/google-went-after-openai-but-ended-up-rattling-nvidia/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/11/Why-Google-Suddenly-Looks-Stronger-Than-OpenAI.jpg",
-            "publishedAt": "2025-11-26 11:00:33"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "Nvidia says it’s ‘a generation ahead’ amid early signs of AI chip rivalry with Google. How this could unfold",
-            "url": "https://indianexpress.com/article/explained/explained-sci-tech/nvidia-ai-chip-google-10387194/",
-            "urlToImage": "https://images.indianexpress.com/2025/11/nvidia_c9cc3f.jpg",
-            "publishedAt": "2025-11-26 10:36:34"
         }
     ]
 }
