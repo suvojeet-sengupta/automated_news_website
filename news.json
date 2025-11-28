@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-11-28T14:16:20.787722Z",
+    "lastUpdatedAt": "2025-11-28T15:16:24.454299Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "What is agentic AI, and would you trust it to book a flight?",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/28/what-is-agentic-ai-and-would-you-trust-it-to-book-a-flight",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/27/3643371.jpg",
+            "publishedAt": "2025-11-28T03:00:00Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "House ICT panel consolidating multiple cybersecurity measures",
+            "url": "https://manilastandard.net/news/314673908/house-ict-panel-consolidating-multiple-cybersecurity-measures.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/10/house-plenary-session.jpg",
+            "publishedAt": "2025-11-28T02:35:59Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Sridhar Vembu gets startup founder’s acquisition email leaking confidential rival price, then an AI agent’s apology",
+            "url": "https://www.hindustantimes.com/trending/sridhar-vembu-gets-startup-founder-s-acquisition-email-leaking-confidential-rival-price-then-an-ai-agent-s-apology-101764296917090.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/11/28/1600x900/logo/Sridhar_Vembu_Startup_Founder_AI_Rival_1764296965118_1764296965241.jpeg",
+            "publishedAt": "2025-11-28T02:33:46Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Telecom Department Snatches Back Cybersecurity's Republished Rules, Published In The Gazette By Error",
+            "url": "https://www.freepressjournal.in/business/telecom-department-snatches-back-cybersecuritys-republished-rules-published-in-the-gazette-by-error",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-28/ctocx41r/Telecom-Deprt.jpg",
+            "publishedAt": "2025-11-28T02:33:38Z"
+        },
+        {
+            "source": {
+                "id": "19d1f502a5658ccbfaaa50f77b89993f",
+                "name": "The Motley Fool Canada",
+                "url": "https://www.fool.ca",
+                "country": "ca"
+            },
+            "title": "Top Canadian AI Stocks to Watch in 2026",
+            "url": "https://www.fool.ca/2025/11/27/top-canadian-ai-stocks-to-watch-in-2026/",
+            "urlToImage": "https://www.fool.ca/wp-content/uploads/2024/09/the-virtual-button-with-the-letters-ai-in-a-circle-hovering-above-a-keyboard-about-to-be-clicked-by-a-cursor-1200x646.jpg",
+            "publishedAt": "2025-11-28T02:30:00Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -3516,54 +3576,6 @@
             "url": "https://www.marketscreener.com/news/tech-up-but-not-by-much-as-nvidia-slips-alphabet-gains-tech-roundup-ce7d5ed2da81ff22",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
             "publishedAt": "2025-11-26T00:10:14Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Evaluating algorithmic fairness of machine learning models in predicting underweight, overweight, and adiposity across socioeconomic and caste groups in India: evidence from the longitudinal ageing st",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000951",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0000951.g004&size=inline",
-            "publishedAt": "2025-11-26T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Google, the sleeping giant in global AI race, now ‘fully awake’",
-            "url": "https://us.headtopics.com/news/google-the-sleeping-giant-in-global-ai-race-now-fully-76386610",
-            "urlToImage": "https://i.headtopics.com/images/2025/11/26/latimes/google-the-sleeping-giant-in-global-ai-race-now-fu-google-the-sleeping-giant-in-global-ai-race-now-fu-646BB0EBB7E9A0C83D86557DA461EB58.webp",
-            "publishedAt": "2025-11-26 22:10:15"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "KServe Joins CNCF To Standardize AI Model Serving on Kubernetes",
-            "url": "https://startupnews.fyi/2025/11/27/kserve-joins-cncf-to-standardize-ai-model-serving-on-kubernetes/",
-            "urlToImage": "https://i2.wp.com/cdn.thenewstack.io/media/2025/11/62a45454-kubecon-kserve.png?resize=1920%2C0&ssl=1&w=1920",
-            "publishedAt": "2025-11-26 20:37:58"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-            "url": "https://techcrunch.com/2025/11/26/chatgpt-everything-to-know-about-the-ai-chatbot/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
-            "publishedAt": "2025-11-26 19:33:39"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "The Atom and the Algorithm: Britain’s High-Stakes Nuclear Gamble to Feed the AI Beast",
-            "url": "https://www.webpronews.com/the-atom-and-the-algorithm-britains-high-stakes-nuclear-gamble-to-feed-the-ai-beast/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2531-1764134811.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-11-26 18:30:09"
         }
     ]
 }
