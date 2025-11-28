@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-11-28T05:17:05.289325Z",
+    "lastUpdatedAt": "2025-11-28T06:25:43.663804Z",
     "articles": [
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "Sorry, mom. The shopping bots suggested a bathrobe for Christmas.",
+            "url": "https://www.bostonglobe.com/2025/11/27/business/ai-shopping-tools-holiday-gifts/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/YGHAWVT3W62ZE2STC3QL3E3OQM.jpg?auth=9b087dc0cba3b37efa386f738e4b7d30cf123fc903a0e290a9ab73a4ab3f506b&width=1440",
+            "publishedAt": "2025-11-27T18:21:03Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "AI An 'Add-On': Anil Agarwal Calls Artificial Intelligence A Supplement To Human DNA",
+            "url": "https://www.ndtvprofit.com/technology/ai-an-add-on-anil-agarwal-calls-artificial-intelligence-a-supplement-to-human-dna",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-27%2Frm5n0upr%2Figor-omilaev-gVQLAbGVB6Q-unsplash.jpg?rect=0%2C195%2C7680%2C4032&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-11-27T18:12:59Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Indian Army Partners with IIT Kanpur To Boost Cyber Resilience Amid Rising Digital Threats",
+            "url": "https://www.ndtv.com/education/indian-army-partners-with-iit-kanpur-to-boost-cyber-resilience-amid-rising-digital-threats-9712816",
+            "urlToImage": "https://c.ndtvimg.com/2024-08/bu4j84i_iit-kanpur_625x300_30_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-11-27T18:08:29Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "7 Pillars of Performance That Power the Best AI Computers",
+            "url": "https://techbullion.com/7-pillars-of-performance-that-power-the-best-ai-computers/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/Screenshot_2025-11-27-22-47-03-63_a1b1bbe5f63d5b96c1a0f87c197ebfae.jpg",
+            "publishedAt": "2025-11-27T17:51:08Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "Tijori raises $5 million from Zerodha, to expand into enterprise segment",
+            "url": "https://www.cnbctv18.com/business/companies/tijori-raises-5-million-from-zerodha-to-expand-into-enterprise-segment-19774709.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2024/09/shutterstock-1396494521-2024-09-3164ee0b1d8fb6330bbfdcbbb7badcbc-scaled.jpg?im=FitAndFill,width=500,height=300",
+            "publishedAt": "2025-11-27T17:31:50Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Fastest Audio to Text Converter: Turn MP3, MP4 & WAV Files Into Text",
+            "url": "https://techbullion.com/fastest-audio-to-text-converter-turn-mp3-mp4-wav-files-into-text/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/Screenshot-2025-11-27-222005.png",
+            "publishedAt": "2025-11-27T17:21:01Z"
+        },
         {
             "source": {
                 "id": "a7cfbea87bc15750b7c5fd439a1ccb08",
@@ -3429,60 +3501,6 @@
             "url": "https://indianexpress.com/article/explained/explained-sci-tech/nvidia-ai-chip-google-10387194/",
             "urlToImage": "https://images.indianexpress.com/2025/11/nvidia_c9cc3f.jpg",
             "publishedAt": "2025-11-26 10:36:34"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "OpenAI’s Invisible Interface: How ChatGPT’s Background Voice Mode Redefines the AI Arms Race",
-            "url": "https://www.webpronews.com/openais-invisible-interface-how-chatgpts-background-voice-mode-redefines-the-ai-arms-race/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2559-1764152809.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-11-26 10:26:55"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "The Algorithmic Seduction: How the AI Companion Economy is Monetizing Male Loneliness",
-            "url": "https://www.webpronews.com/the-algorithmic-seduction-how-the-ai-companion-economy-is-monetizing-male-loneliness/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2550-1764151783.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-11-26 10:09:50"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "The AI Revolution Stalls on the Farm: Why Rural Wisconsin Is Rejecting Microsoft’s Infrastructure Push",
-            "url": "https://www.webpronews.com/the-ai-revolution-stalls-on-the-farm-why-rural-wisconsin-is-rejecting-microsofts-infrastructure-push/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2543-1764151262.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-11-26 10:01:08"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How Big Tech Built the Modern AI Supply Chain",
-            "url": "https://hackernoon.com/how-big-tech-built-the-modern-ai-supply-chain",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-zd03bf8.png",
-            "publishedAt": "2025-11-26 10:00:05"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Nvidia’s Shadow Campaign: Inside the Secret Memo Battling the AI Bubble Narrative",
-            "url": "https://www.webpronews.com/nvidias-shadow-campaign-inside-the-secret-memo-battling-the-ai-bubble-narrative/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2537-1764150717.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-11-26 09:52:03"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Powering intelligence: How AI training and inferencing are reshaping data center demands",
-            "url": "https://www.expresscomputer.in/guest-blogs/powering-intelligence-how-ai-training-and-inferencing-are-reshaping-data-center-demands/130107/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2019/12/24101603/Venkatraman-Swaminathan-Schneider-Electric.jpg",
-            "publishedAt": "2025-11-26 09:12:21"
         }
     ]
 }
