@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-29T11:12:22.007488Z",
+    "lastUpdatedAt": "2025-11-29T12:30:43.211575Z",
     "articles": [
+        {
+            "source": {
+                "id": "68e8a9c1e60db86af8601f08c15463a0",
+                "name": "Altoona Mirror",
+                "url": "https://www.altoonamirror.com",
+                "country": "us"
+            },
+            "title": "‘Clair Obscur’ tops best game list",
+            "url": "https://www.altoonamirror.com/life/area-life/2025/11/clair-obscur-tops-best-game-list/",
+            "urlToImage": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2025/11/28161452/AP25328672731609-800x450.jpg",
+            "publishedAt": "2025-11-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+                "name": "Rappler",
+                "url": "https://www.rappler.com",
+                "country": "ph"
+            },
+            "title": "PH’s 2025 in tech: Top 6 in ChatGPT use, highest scam rate, internet initiatives",
+            "url": "https://www.rappler.com/technology/features/top-developments-philippines-ai-chatgpt-scam-2025/",
+            "urlToImage": "https://www.rappler.com/tachyon/2025/11/PHs-2025-in-digital.jpg",
+            "publishedAt": "2025-11-29T00:00:00Z"
+        },
         {
             "source": {
                 "id": "2492bcb79914b2ce3d9867453dae22ac",
@@ -1272,6 +1296,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/28/3196069/0/en/Chinese-smart-manufacturing-hub-Qiantang-District-leverages-AI-to-drive-pharmaceutical-innovation.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/63f4489c-6fc8-4132-a045-b544412a79d0",
             "publishedAt": "2025-11-28T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The Irony of Automation: Why Nvidia’s Jensen Huang Bets AI Will Make You Work Harder, Not Less",
+            "url": "https://www.webpronews.com/the-irony-of-automation-why-nvidias-jensen-huang-bets-ai-will-make-you-work-harder-not-less/",
+            "urlToImage": "https://www.webpronews.com/the-irony-of-automation-why-nvidias-jensen-huang-bets-ai-will-make-you-work-harder-not-less/",
+            "publishedAt": "2025-11-28 23:15:01"
         },
         {
             "source": {
@@ -3477,42 +3510,6 @@
             "url": "https://www.marketscreener.com/news/zscaler-tops-fiscal-q1-estimates-lifts-full-year-outlook-on-strong-ai-security-demand-wedbush-says-ce7d5ed3db88f725",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
             "publishedAt": "2025-11-26T16:16:13Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Alibaba's cloud business revenue soars 34% driven by AI boom",
-            "url": "https://www.manilatimes.net/2025/11/27/business/foreign-business/alibabas-cloud-business-revenue-soars-34-driven-by-ai-boom/2231983",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/26/844235.jpg",
-            "publishedAt": "2025-11-26T16:10:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "HP to cut thousands of jobs",
-            "url": "https://www.manilatimes.net/2025/11/27/business/foreign-business/hp-to-cut-thousands-of-jobs/2231975",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/26/844223.jpg",
-            "publishedAt": "2025-11-26T16:09:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Nvidia Remains Clear Leader in AI Race Despite Rising Competition, Wedbush Says",
-            "url": "https://www.marketscreener.com/news/nvidia-remains-clear-leader-in-ai-race-despite-rising-competition-wedbush-says-ce7d5ed3db89f225",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-26T16:07:34Z"
         }
     ]
 }
