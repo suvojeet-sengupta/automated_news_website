@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-29T05:15:36.370169Z",
+    "lastUpdatedAt": "2025-11-29T06:22:52.400675Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Late Rally Pushes Stocks Back Near Record High",
+            "url": "https://www.nytimes.com/2025/11/28/business/stock-markets-november-sp500.html",
+            "urlToImage": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+            "publishedAt": "2025-11-28T18:07:31Z"
+        },
         {
             "source": {
                 "id": "17d7c2645f485578130862e0c8dd9480",
@@ -1128,6 +1140,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/28/3196069/0/en/Chinese-smart-manufacturing-hub-Qiantang-District-leverages-AI-to-drive-pharmaceutical-innovation.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/63f4489c-6fc8-4132-a045-b544412a79d0",
             "publishedAt": "2025-11-28T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Tired of AI slop? This tool rewinds the internet to pre-ChatGPT era",
+            "url": "https://www.digitaltrends.com/computing/tired-of-ai-slop-this-tool-rewinds-the-internet-to-pre-chatgpt-era/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/11/slop-evader-browser-extension.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-11-28 18:06:40"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The Algorithmic Office: How Google’s Latest Workspace Overhaul Redefines Corporate Productivity",
+            "url": "https://www.webpronews.com/the-algorithmic-office-how-googles-latest-workspace-overhaul-redefines-corporate-productivity/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2697-1764350170.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-11-28 17:50:07"
         },
         {
             "source": {
@@ -3486,42 +3516,6 @@
             "url": "https://www.prnewswire.co.uk/news-releases/crypto4a-unveils-qxvault-secrets-simplified-a-fully-integrated-secrets-management-vault-with-built-in-hardware-security-module-302626815.html",
             "urlToImage": "https://mma.prnewswire.com/media/2832825/Crypto4A_Technologies_Inc__Crypto4A_Unveils_QxVault___Secrets__S.jpg?p=facebook",
             "publishedAt": "2025-11-26T14:39:00Z"
-        },
-        {
-            "source": {
-                "id": "9962a9b594044b42e892f4760e2dfd7e",
-                "name": "Sputnik News",
-                "url": "https://sputnikglobe.com",
-                "country": "ru"
-            },
-            "title": "IDF to Start Monitoring Soldiers' Social Media for Sensitive Information - Reports",
-            "url": "https://sputnikglobe.com/20251126/idf-to-start-monitoring-soldiers-social-media-for-sensitive-information---reports-1123176513.html",
-            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1123176513.jpg?11201309541764167279",
-            "publishedAt": "2025-11-26T14:27:00Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Shilpa Shetty Moves Bombay HC Against Deepfake Misuse, Seeks Protection Of Publicity & Personality Rights",
-            "url": "https://www.freepressjournal.in/mumbai/shilpa-shetty-moves-bombay-hc-against-deepfake-misuse-seeks-protection-of-publicity-personality-rights",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-26/49a9m4zt/FotoJet-2025-11-26T194205.818.jpg",
-            "publishedAt": "2025-11-26T14:12:43Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "MongoDB Likely to Report 'Solid' Fiscal Q3 Results, Wedbush Says",
-            "url": "https://www.marketscreener.com/news/mongodb-likely-to-report-solid-fiscal-q3-results-wedbush-says-ce7d5ed3d888f225",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-26T14:10:27Z"
         }
     ]
 }
