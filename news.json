@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-11-29T01:13:13.609576Z",
+    "lastUpdatedAt": "2025-11-29T03:08:15.789394Z",
     "articles": [
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "heat a key challenge for data centres",
+            "url": "https://www.rte.ie/news/business/2025/1128/1546368-keeping-data-centres-cool/",
+            "urlToImage": "https://www.rte.ie/images/0022d5d6-1600.jpg",
+            "publishedAt": "2025-11-28T14:59:02Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "When Markets Go Dark: The Story of Major Exchange Outages",
+            "url": "https://www.devdiscourse.com/article/headlines/3713248-when-markets-go-dark-the-story-of-major-exchange-outages",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/17_06_2025_21_15_18_1156696.png?width=920&format=jpeg",
+            "publishedAt": "2025-11-28T14:53:41Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "9 more newspapers sue OpenAI, Microsoft, alleging stolen content used in AI apps",
+            "url": "https://www.spokesman.com/stories/2025/nov/28/9-more-newspapers-sue-openai-microsoft-alleging-st/",
+            "urlToImage": "https://thumb.spokesman.com/F3uBWAi_OgUCwNuF4D3EpGW7n78=/1200x630/smart/media.spokesman.com/photos/2025/11/28/692a3f4042448.hires.jpg",
+            "publishedAt": "2025-11-28T14:00:00Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "SoftBank, ORCL, CRWV Take On $100B Debt to Fuel OpenAI’s Growth - Is It Worth the Risk?",
+            "url": "https://markets.businessinsider.com/news/stocks/softbank-orcl-crwv-take-on-100b-debt-to-fuel-openai-s-growth-is-it-worth-the-risk-1035603529",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/image-3082.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-11-28T13:36:06Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI can already replace nearly 12% of jobs in the US: Why the first impact is showing up in entry",
+            "url": "https://timesofindia.indiatimes.com/education/careers/news/ai-can-already-replace-nearly-12-of-jobs-in-the-us-why-the-first-impact-is-showing-up-in-entry-level-roles/articleshow/125635571.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125635575,width-1070,height-580,imgsize-61412,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-11-28T13:30:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Explainer-Keeping cool: heat a key challenge for data centers and AI",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/28/explainer-keeping-cool-heat-a-key-challenge-for-data-centers-and-ai",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/28/3645932.jpg",
+            "publishedAt": "2025-11-28T13:22:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Tesda chief hails LGU-led AI institute in Albay",
+            "url": "https://www.manilatimes.net/2025/11/28/regions/tesda-chief-hails-lgu-led-ai-institute-in-albay/2233259",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/28/846810.jpg",
+            "publishedAt": "2025-11-28T13:17:00Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "IIMs Revise Curriculum To Integrate Artificial Intelligence, Explains IIM Kozhikode Director",
+            "url": "https://www.ndtv.com/education/iims-revise-curriculum-to-integrate-artificial-intelligence-explains-iim-kozhikode-director-9716814",
+            "urlToImage": "https://c.ndtvimg.com/2025-09/u8fcmdos_artificial-intelligence_625x300_07_September_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-11-28T13:14:53Z"
+        },
         {
             "source": {
                 "id": "757fbdd82c8f9334e4004c82ac6fb28a",
@@ -828,6 +924,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/28/3196069/0/en/Chinese-smart-manufacturing-hub-Qiantang-District-leverages-AI-to-drive-pharmaceutical-innovation.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/63f4489c-6fc8-4132-a045-b544412a79d0",
             "publishedAt": "2025-11-28T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "The end of apps? Imagining software’s agentic future",
+            "url": "https://siliconangle.com/2025/11/28/end-apps-imagining-softwares-agentic-future/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Software-composed-of-agents.jpg",
+            "publishedAt": "2025-11-28 14:00:19"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI Breakthrough Enhances Medical Predictions and Patient Care",
+            "url": "https://www.webpronews.com/ai-breakthrough-enhances-medical-predictions-and-patient-care/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2654-1764336668.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-11-28 13:31:14"
         },
         {
             "source": {
@@ -3432,126 +3546,6 @@
             "url": "https://www.tribuneindia.com/news/business/iit-delhi-opens-admissions-for-the-seventh-batch-of-its-certification-in-quantum-computing-machine-learning/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWEwOWJiMGMwLWNhYjMtMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
             "publishedAt": "2025-11-26T10:35:24Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "IIT Delhi opens admissions for the seventh batch of its Certification in Quantum Computing & Machine Learning",
-            "url": "https://www.lokmattimes.com/business/iit-delhi-opens-admissions-for-the-seventh-batch-of-its-certification-in-quantum-computing-machine-learning/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251126103059_202511.jpg",
-            "publishedAt": "2025-11-26T10:31:16Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Hedge Funds Pile Into Health Stocks Leading Market in Rotation",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-26/hedge-funds-pile-into-health-stocks-leading-market-in-rotation",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icep4W7.TmLo/v1/1200x800.jpg",
-            "publishedAt": "2025-11-26T10:30:00Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "What Is Agentic AI, and would you trust It to book a flight?",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-agentic-ai-and-would-you-trust-it-to-book-a-flight-10387284/",
-            "urlToImage": "https://images.indianexpress.com/2025/11/IE-2025-11-26T155322.947.jpg",
-            "publishedAt": "2025-11-26T10:25:30Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "European Midday Briefing : Market Bets On A Fed Rate Cut -2-",
-            "url": "https://www.marketscreener.com/news/european-midday-briefing-market-bets-on-a-fed-rate-cut-2-ce7d5ed2d18cf527",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-26T10:24:31Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Telkom Indonesia (Persero) establishes strategic partnership with Fortinet",
-            "url": "https://www.marketscreener.com/news/telkom-indonesia-persero-establishes-strategic-partnership-with-fortinet-ce7d5ed2d18cf524",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-26T10:24:17Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "G20 summit: PM Modi calls for a global AI compact to curb misuse and safeguard the future",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/g20-summit-pm-modi-calls-for-a-global-ai-compact-to-curb-misuse-and-safeguard-the-future/articleshow/125586636.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125586707,width-1200,height-630,imgsize-30352,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-11-26T10:17:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Wipro announces strategic alliance with IISc on AI",
-            "url": "https://www.marketscreener.com/news/wipro-announces-strategic-alliance-with-iisc-on-ai-ce7d5ed2d18df623",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-26T10:14:53Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "TAC InfoSec's Significant Rise in Nifty SME Emerge Index",
-            "url": "https://www.devdiscourse.com/article/technology/3710428-tac-infosecs-significant-rise-in-nifty-sme-emerge-index",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/04_05_2025_07_48_06_9381318.png?width=920&format=jpeg",
-            "publishedAt": "2025-11-26T10:10:00Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Opinion | A.I. Is Marketing Itself as the Anti-A.I.",
-            "url": "https://www.nytimes.com/2025/11/26/opinion/ais-anti-ai-marketing-strategy.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/11/26/arts/01/01-facebookJumbo.jpg",
-            "publishedAt": "2025-11-26T10:01:50Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Pesticides and other common chemical pollutants are toxic to 'good' gut bacteria, lab-based screening indicates",
-            "url": "https://medicalxpress.com/news/2025-11-pesticides-common-chemical-pollutants-toxic.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/pesticides-and-other-c-1.jpg",
-            "publishedAt": "2025-11-26T10:00:12Z"
         }
     ]
 }
