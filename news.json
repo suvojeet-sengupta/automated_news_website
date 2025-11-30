@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-30T15:14:28.343241Z",
+    "lastUpdatedAt": "2025-11-30T16:18:18.702567Z",
     "articles": [
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "History Today: When OpenAI launched ChatGPT, revolutionising the way we see AI",
+            "url": "https://www.firstpost.com/explainers/history-today-november-30-openai-chatgpt-launch-ai-13954576.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2025/08/Untitled-design-2025-08-13T165350.437-2025-08-dfcb6d2675c52b9e4c6ece4428790260.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-11-30T04:00:15Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Govt Orders WhatsApp, Telegram, Other Apps To Block Access Without Active SIM",
+            "url": "https://www.dailyexcelsior.com/govt-orders-whatsapp-telegram-other-apps-to-block-access-without-active-sim/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/Apps.jpg",
+            "publishedAt": "2025-11-30T03:27:07Z"
+        },
         {
             "source": {
                 "id": "c792dadf7373fad5b316a63a77688de1",
@@ -12,6 +36,18 @@
             "url": "https://abcnews.go.com/Technology/wireStory/ai-assisted-shopping-talk-holiday-shopping-season-127976859",
             "urlToImage": "https://i.abcnewsfe.com/a/1b595f64-f4ca-43c6-b715-bb7d1bde3c41/wirestory_0722dce44b4a479ec4ce476bbd15dfa9_16x9.jpg?w=1600",
             "publishedAt": "2025-11-30T03:02:12Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Why a career in Data Science needs more than just technical skills",
+            "url": "https://www.thehindu.com/education/careers/why-a-career-in-data-science-needs-more-than-just-technical-skills/article70311801.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/f49y6f/article70321641.ece/alternates/LANDSCAPE_1200/data%20science.jpg",
+            "publishedAt": "2025-11-30T02:30:00Z"
         },
         {
             "source": {
@@ -3477,36 +3513,6 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/27/3195755/28124/en/Artificial-Intelligence-of-Things-AIoT-Market-Trends-Investment-Opportunities-2025-2034-Featuring-Strategic-Analysis-of-Google-IBM-Microsoft-Oracle-AWS-and-More.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-11-27T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Managed Security Services (MSS) Market Review and",
-            "url": "https://www.globenewswire.com/news-release/2025/11/27/3195750/28124/en/Managed-Security-Services-MSS-Market-Review-and-Opportunities-Assessment-2021-2030-Cyber-Threats-Fuel-Double-Digit-Growth.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-            "publishedAt": "2025-11-27T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Newspapers Sue OpenAI and Microsoft Over Copyright Infringement",
-            "url": "https://us.headtopics.com/news/newspapers-sue-openai-and-microsoft-over-copyright-76433257",
-            "urlToImage": "https://i.headtopics.com/images/2025/11/27/denverpost/newspapers-sue-openai-and-microsoft-over-copyright-newspapers-sue-openai-and-microsoft-over-copyright-C2598F21E6CB1BE80CC309E2840677DE.webp",
-            "publishedAt": "2025-11-27 21:10:20"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Beyond the Circle: Google’s Quiet Revolution to Make AI the Operating System’s Eye",
-            "url": "https://www.webpronews.com/beyond-the-circle-googles-quiet-revolution-to-make-ai-the-operating-systems-eye/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2640-1764263949.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-11-27 19:40:08"
         }
     ]
 }
