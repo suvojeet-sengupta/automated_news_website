@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-30T14:14:09.030482Z",
+    "lastUpdatedAt": "2025-11-30T15:14:28.343241Z",
     "articles": [
+        {
+            "source": {
+                "id": "c792dadf7373fad5b316a63a77688de1",
+                "name": "ABC News",
+                "url": "https://abcnews.go.com",
+                "country": "us"
+            },
+            "title": "AI-assisted shopping is the talk of the holiday shopping season",
+            "url": "https://abcnews.go.com/Technology/wireStory/ai-assisted-shopping-talk-holiday-shopping-season-127976859",
+            "urlToImage": "https://i.abcnewsfe.com/a/1b595f64-f4ca-43c6-b715-bb7d1bde3c41/wirestory_0722dce44b4a479ec4ce476bbd15dfa9_16x9.jpg?w=1600",
+            "publishedAt": "2025-11-30T03:02:12Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -3495,15 +3507,6 @@
             "url": "https://www.webpronews.com/beyond-the-circle-googles-quiet-revolution-to-make-ai-the-operating-systems-eye/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2640-1764263949.jpeg?fit=1024%2C768&ssl=1",
             "publishedAt": "2025-11-27 19:40:08"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "The Deterministic Bet: How Groq’s LPU is Rewriting the Rules of AI Inference Speed",
-            "url": "https://www.webpronews.com/the-deterministic-bet-how-groqs-lpu-is-rewriting-the-rules-of-ai-inference-speed/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2635-1764263640.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-11-27 18:40:07"
         }
     ]
 }
