@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-12-01T19:17:52.323668Z",
+    "lastUpdatedAt": "2025-12-01T20:16:45.560083Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "India's New Cybersecurity Mandate: Controversy and Compliance",
+            "url": "https://www.devdiscourse.com/article/technology/3715168-indias-new-cybersecurity-mandate-controversy-and-compliance",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/07_04_2025_09_03_16_7667649.png?width=920&format=jpeg",
+            "publishedAt": "2025-12-01T08:13:58Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "What Is SIM Binding; How It Impacts WhatsApp, Telegram, Arattai, Other Apps",
+            "url": "https://www.outlookbusiness.com/corporate/what-is-sim-binding-how-it-impacts-whatsapp-telegram-arattai-other-apps",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2025-12-01/sjlsbgm5/171570-OWW5Q2-125.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2025-12-01T08:13:35Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "ByteDance rolls out AI voice assistant for Chinese smartphones",
+            "url": "https://www.reuters.com/world/china/bytedance-rolls-out-ai-voice-assistant-chinese-smartphones-2025-12-01/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/3LSP36EFOJPRDCON4BKCJMOPNI.jpg?auth=1f33e748ece469f8203911bc706de52d707a61beb9d54c4676bfaef4b70d65ee&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-12-01T08:06:12Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "India orders mandatory govt cybersecurity app on new phones: What it means for users and manufacturers?",
+            "url": "https://www.livemint.com/technology/tech-news/india-orders-mandatory-govt-cybersecurity-app-on-new-phones-what-it-means-for-users-and-manufacturers-11764575252277.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/01/1600x900/logo/INDIA-SMARTPHONES-SECURITY-0_1764575631080_1764575649355.JPG",
+            "publishedAt": "2025-12-01T08:01:15Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Meet William Chen and Guan Wang: Two Gen Z founders who rejected Elon Musk’s offer to build OpenAI-beating HRM AI",
+            "url": "https://www.financialexpress.com/life/technology-meet-william-chen-and-guan-wang-two-gen-z-founders-who-rejected-elon-musks-offer-to-build-openai-beating-hrm-ai-4061586/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/12/Sapient-Inc-founders.jpg?quality=100",
+            "publishedAt": "2025-12-01T07:34:29Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Where curiosity meets code: Post Graduate Program in AI and Machine Learning by Berkeley Executive Education",
+            "url": "https://timesofindia.indiatimes.com/education/where-curiosity-meets-code-post-graduate-program-in-ai-and-machine-learning-by-berkeley-executive-education/articleshow/125688635.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125688706,width-1070,height-580,imgsize-93148,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-12-01T07:34:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "James Cameron 'Horrified' that Artificial Intelligence can 'Make Up an Actor' with just a 'Text Prompt'",
+            "url": "https://www.breitbart.com/entertainment/2025/12/01/james-cameron-horrified-that-artificial-intelligence-can-make-up-an-actor-with-just-a-text-prompt/",
+            "urlToImage": "https://media.breitbart.com/media/2025/11/jamescameron-640x335.jpg",
+            "publishedAt": "2025-12-01T07:31:42Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -423,6 +507,15 @@
         },
         {
             "source": {
+                "name": "hindustantimes"
+            },
+            "title": "Google and OpenAI tighten free access: Here are the new limits for Gemini 3 Pro and Sora 2",
+            "url": "https://www.hindustantimes.com/technology/google-and-openai-tighten-free-access-here-are-the-new-limits-for-gemini-3-pro-and-sora-2-101764576022301.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/12/01/1600x900/logo/Sora_2_1764576271004_1764576271284.jpg",
+            "publishedAt": "2025-12-01 08:05:16"
+        },
+        {
+            "source": {
                 "name": "thehansindia"
             },
             "title": "Prajna.AI to debut on Ugadi",
@@ -518,6 +611,15 @@
             "title": "The Symbiotic Revolution: How Software-Hardware Co-Design Unlocks the Next Generation of AI Chips",
             "url": "https://www.financialcontent.com/article/tokenring-2025-12-1-the-symbiotic-revolution-how-software-hardware-co-design-unlocks-the-next-generation-of-ai-chips",
             "urlToImage": "https://cdn.newsrpm.com/image/230799?maxWidth=1200",
+            "publishedAt": "2025-12-01 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Sealsq (NASDAQ: LAES) Soars on Strategic AI Leadership Appointment, Signaling Market Confidence in Dedicated AI Vision",
+            "url": "https://www.financialcontent.com/article/tokenring-2025-12-1-sealsq-nasdaq-laes-soars-on-strategic-ai-leadership-appointment-signaling-market-confidence-in-dedicated-ai-vision",
+            "urlToImage": "https://cdn.newsrpm.com/image/230850?maxWidth=1200",
             "publishedAt": "2025-12-01 00:00:00"
         },
         {
@@ -3360,90 +3462,6 @@
             "url": "https://www.webpronews.com/ai-breakthrough-enhances-medical-predictions-and-patient-care/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2654-1764336668.jpeg?fit=1024%2C768&ssl=1",
             "publishedAt": "2025-11-28 13:31:14"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "2025's Biggest Tech Surprises: What Nobody Predicted",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/2025s-biggest-tech-surprises-what-nobody-predicted",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-28%2Fdxs8d1yk%2F2025s-Biggest-Tech-Surprises-What-Nobody-Predicted.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-28 12:35:00"
-        },
-        {
-            "source": {
-                "name": "etvbharat"
-            },
-            "title": "IIT Madras' XTIC leads India's XR Revolution For Global South Nations",
-            "url": "https://www.etvbharat.com/en/bharat/iit-madras-xtic-leads-india-xr-revolution-for-global-south-nations-enn25112803198",
-            "urlToImage": "https://imgs.etvbharat.com/etvbharat/prod-images/28-11-2025/1200-675-25488753-784-25488753-1764325107794.jpg",
-            "publishedAt": "2025-11-28 11:50:59"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Why is the AI industry scared of this Palantir alum running for congress?",
-            "url": "https://www.fastcompany.com/91447425/alex-bores-congress-palantir-superpac-ai?partner=rss",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/11/p-1-91447425-qa-with-alex-bores.jpg",
-            "publishedAt": "2025-11-28 11:30:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "How Instagram’s Cofounder-Turned-Anthropic Product Chief Is Cracking The Enterprise AI Code",
-            "url": "https://www.forbes.com/sites/richardnieva/2025/11/28/anthropic-enterprise-claude/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67e34a4822312f8ce23577df/0x0.jpg?width=960",
-            "publishedAt": "2025-11-28 11:30:00"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Stay Ahead of the Curve with the Latest Generative AI News and Breakthroughs",
-            "url": "https://techannouncer.com/stay-ahead-of-the-curve-with-the-latest-generative-ai-news-and-breakthroughs/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/dc7cb14fthumbnail-332x187.jpeg",
-            "publishedAt": "2025-11-28 09:07:07"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "AWS has a chance to show its mettle at re:Invent 2025",
-            "url": "https://www.itpro.com/cloud/cloud-computing/aws-has-chance-to-show-its-mettle-re-invent-2025",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mowtWz9eSjhpniciEmRdpi-1280-80.jpg",
-            "publishedAt": "2025-11-28 08:00:00"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "Good, bad in the AI wonderland... is everything artificial?",
-            "url": "https://www.thehansindia.com/hans/young-hans/good-bad-in-the-ai-wonderland-is-everything-artificial-1026865",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/11/28/1604913-ai.webp",
-            "publishedAt": "2025-11-28 04:18:52"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Tech Titans Ignite Market Rally: Google, Nvidia, and Tesla Drive Unprecedented Gains",
-            "url": "https://www.financialcontent.com/article/marketminute-2025-11-28-tech-titans-ignite-market-rally-google-nvidia-and-tesla-drive-unprecedented-gains",
-            "urlToImage": "https://cdn.newsrpm.com/image/229313?maxWidth=1200",
-            "publishedAt": "2025-11-28 00:00:00"
-        },
-        {
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
-                "country": "us"
-            },
-            "title": "ServiceNow could reportedly acquire cybersecurity startup Veza for $1B+",
-            "url": "https://siliconangle.com/2025/11/27/servicenow-reportedly-acquire-cybersecurity-startup-veza-1b/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/SN-office-1.jpeg",
-            "publishedAt": "2025-11-27T23:14:44Z"
         }
     ]
 }
