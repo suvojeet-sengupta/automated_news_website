@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-12-01T20:16:45.560083Z",
+    "lastUpdatedAt": "2025-12-01T21:13:41.237443Z",
     "articles": [
+        {
+            "source": {
+                "id": "bc002b453215c04fa081a97f2c6679b9",
+                "name": "The Hacker News",
+                "url": "https://thehackernews.com",
+                "country": "us"
+            },
+            "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control",
+            "url": "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6xz7mWkJclIA4imdNn5zjZkxiRArjemiRQSUONKAKk1aC52C-R6DMyKI09PjF6iBtWNy0Ov_YZjOqovn3RTGYpPyiIlQtKp292GbxH8dfCDSt9HU3m37iItXGp7mgkrCw2i9VWbDKoR6hS_sFPLL-msoj6G1ggeJX2H1llAg4MVjDmqVzBejGwH_4qjHC/s790-rw-e365/android-malware-1.jpg",
+            "publishedAt": "2025-12-01T08:45:00Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "Tsinghua University Releases the First University-Wide Framework Governing AI in Teaching and Research",
+            "url": "https://www.prnewswire.co.uk/news-releases/tsinghua-university-releases-the-first-university-wide-framework-governing-ai-in-teaching-and-research-302628954.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2834965/The_three_layer_decoupled_architecture_AI_Education_Tsinghua_University.jpg?p=facebook",
+            "publishedAt": "2025-12-01T08:37:00Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Why you might get logged out of WhatsApp Web every 6 hours in India",
+            "url": "https://www.firstpost.com/explainers/whatsapp-web-login-cybersecurity-sim-binding-13955482.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2025/12/whatsapp-2025-12-36407463ec1dad2867293215f221a11f.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-12-01T08:22:34Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Tsinghua University Releases the First University-Wide Framework Governing AI in Teaching and Research",
+            "url": "https://www.manilatimes.net/2025/12/01/tmt-newswire/pr-newswire/tsinghua-university-releases-the-first-university-wide-framework-governing-ai-in-teaching-and-research/2234087",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/01/848909.jpg",
+            "publishedAt": "2025-12-01T08:21:24Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -3426,42 +3474,6 @@
             "url": "https://www.webpronews.com/majestic-labs-raises-100m-for-1000x-memory-ai-servers-to-cut-energy-use/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2676-1764345242.jpeg?fit=1024%2C768&ssl=1",
             "publishedAt": "2025-11-28 15:54:07"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "The Federal Pivot: CISA Accelerates Artificial Intelligence Integration to Counteract Hyper-Speed Cyber Threats",
-            "url": "https://www.webpronews.com/the-federal-pivot-cisa-accelerates-artificial-intelligence-integration-to-counteract-hyper-speed-cyber-threats/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2671-1764344821.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-11-28 15:47:09"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "“Our GPUs Are Melting” Warns Sora Boss As New Limits Are Imposed",
-            "url": "https://www.forbes.com/sites/barrycollins/2025/11/28/our-gpus-are-melting-warns-sora-boss-as-new-limits-are-imposed/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6929c2aaefcd38dae5386adc/0x0.jpg?width=960",
-            "publishedAt": "2025-11-28 15:45:41"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "The end of apps? Imagining software’s agentic future",
-            "url": "https://siliconangle.com/2025/11/28/end-apps-imagining-softwares-agentic-future/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Software-composed-of-agents.jpg",
-            "publishedAt": "2025-11-28 14:00:19"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Breakthrough Enhances Medical Predictions and Patient Care",
-            "url": "https://www.webpronews.com/ai-breakthrough-enhances-medical-predictions-and-patient-care/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-2654-1764336668.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-11-28 13:31:14"
         }
     ]
 }
