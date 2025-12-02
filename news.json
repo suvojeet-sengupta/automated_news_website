@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-12-02T10:18:47.592505Z",
+    "lastUpdatedAt": "2025-12-02T11:16:02.293045Z",
     "articles": [
+        {
+            "source": {
+                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
+                "name": "7NEWS Australia",
+                "url": "https://7news.com.au",
+                "country": "au"
+            },
+            "title": "Federal government announces $30 million AI safety crackdown",
+            "url": "https://7news.com.au/news/federal-government-announces-30-million-ai-safety-crackdown-c-20861284",
+            "urlToImage": "https://images.7news.com.au/publication/C-20861284/b3eebdfd7d784dd0e72715ebf2a6528f0c2ed2b7-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-12-01T23:09:36Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "DoT directs firms to pre-install cybersecurity app on phones",
+            "url": "https://www.hindustantimes.com/india-news/dot-directs-firms-to-pre-install-cybersecurity-app-on-phones-101764614751344.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/ht-generic_india1_1751287243850_1751287256749.jpg",
+            "publishedAt": "2025-12-01T23:08:15Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "OpenAI takes stake in Thrive Holdings in latest enterprise AI push",
+            "url": "https://www.marketscreener.com/news/openai-takes-stake-in-thrive-holdings-in-latest-enterprise-ai-push-ce7d51d8df80f323",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-14T180131Z_1_LYNXMPEL3D0UM_RTROPTP_4_OPENAI-CHATGPT.JPG",
+            "publishedAt": "2025-12-01T23:07:14Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "National AI plan set to attract global investors",
+            "url": "https://www.canberratimes.com.au/story/9124478/national-ai-plan-set-to-attract-global-investors/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/5a450edd-9074-4a51-8369-e6e9b3641ff2.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2025-12-01T22:50:17Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Apple's Senior Vice President John Giannandrea to Step Down",
+            "url": "https://www.marketscreener.com/news/apple-s-senior-vice-president-john-giannandrea-to-step-down-ce7d51d8df81ff21",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-12-01T22:46:22Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "AI Data Center Firm Iren Seeks $2 Billion in Convertible Bonds",
+            "url": "https://www.livemint.com/companies/news/ai-data-center-firm-iren-seeks-2-billion-in-convertible-bonds-11764629162642.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+            "publishedAt": "2025-12-01T22:46:02Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "AI's impact could worsen gaps between world's rich and poor, a UN report says",
+            "url": "https://www.breitbart.com/news/ais-impact-could-worsen-gaps-between-worlds-rich-and-poor-a-un-report-says/",
+            "urlToImage": "https://media.breitbart.com/media/2025/12/wi/ap/asia-ai-impact-03036-asia-ai-impact-an-usher-directs-an-attendee-seat-seminar-at-convention-titled-640x335.jpg",
+            "publishedAt": "2025-12-01T22:26:44Z"
+        },
         {
             "source": {
                 "id": "92f73865e835e33ed68c11447777c939",
@@ -3384,90 +3468,6 @@
             "url": "https://www.nytimes.com/2025/11/29/nyregion/personalized-surveillance-pricing-ai-new-york.html",
             "urlToImage": "https://static01.nyt.com/images/2025/11/28/multimedia/00met-ai-pricing-mzhf/00met-ai-pricing-mzhf-facebookJumbo.jpg",
             "publishedAt": "2025-11-29T08:00:17Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Is Viral Elon Musk-Nikhil Kamath Podcast Teaser AI-Generated? Here’s What Grok Says",
-            "url": "https://www.freepressjournal.in/tech/is-viral-elon-musknikhil-kamath-podcast-teaser-ai-generated-heres-what-grok-says",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-29/cxnwxasc/Screenshot-2025-11-29-124425.png",
-            "publishedAt": "2025-11-29T07:15:23Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Breaking Cybersecurity Threats Targeting the Construction Industry: November 2025 Update",
-            "url": "https://techbullion.com/breaking-cybersecurity-threats-targeting-the-construction-industry-november-2025-update-2/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/Screenshot-2025-11-29-115944.png",
-            "publishedAt": "2025-11-29T07:00:26Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI can improve wildfire detection, but domain gaps threaten reliability",
-            "url": "https://www.devdiscourse.com/article/technology/3705813-ai-can-improve-wildfire-detection-but-domain-gaps-threaten-reliability",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_11_2025_16_03_05_9177301.png?width=920&format=jpeg",
-            "publishedAt": "2025-11-29T05:00:59Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "New health gateway solves one of healthcare’s biggest digital problems",
-            "url": "https://www.devdiscourse.com/article/technology/3705976-new-health-gateway-solves-one-of-healthcares-biggest-digital-problems",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_11_2025_18_54_34_7075533.png?width=920&format=jpeg",
-            "publishedAt": "2025-11-29T04:59:49Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Why do all the new shopping bots recommend the same gift for mom?",
-            "url": "https://www.latimes.com/business/story/2025-11-28/why-do-all-new-shopping-bots-recommend-same-gift-for-mom",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/ab7e039/2147483647/strip/true/crop/5000x2625+0+354/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fab%2F67%2F39cf0d9c4bdc83b838b514eb3a6c%2Fadobestock-85207729.jpeg",
-            "publishedAt": "2025-11-29T04:27:40Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "Adani plans up to $5 bn investment in high capacity data centres as Google launches its $15 bn AI hub",
-            "url": "https://www.businesstoday.in/latest/corporate/story/adani-plans-up-to-5-bn-investment-in-high-capacity-data-centres-as-google-launches-its-15-bn-ai-hub-504217-2025-11-29",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202511/692a5b379a328-googles-15-bn-india-push-adani-eyes-up-to-5-bn-bet-on-massive-ai-data-centre-buildout-29321874-16x9.jpg",
-            "publishedAt": "2025-11-29T02:33:21Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "How AI May Be Undermining Your Investments",
-            "url": "https://www.forbes.com/sites/eriksherman/2025/11/28/how-ai-may-be-undermining-your-investments/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/692a3f11ebf640b743bf923f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-11-29T00:33:59Z"
         }
     ]
 }
