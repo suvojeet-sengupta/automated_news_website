@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-12-02T07:18:56.199346Z",
+    "lastUpdatedAt": "2025-12-02T08:24:02.499897Z",
     "articles": [
+        {
+            "source": {
+                "id": "e9ebd5ddfec64ee80f9cbd6ec0b9fdb0",
+                "name": "Futurity: Research News",
+                "url": "https://www.futurity.org",
+                "country": "us"
+            },
+            "title": "AI could train the next generation of surgeons",
+            "url": "https://www.futurity.org/artificial-intelligence-surgeon-teaching-training-3308402-2/",
+            "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2025/12/surgery-education-ai-1600.jpg",
+            "publishedAt": "2025-12-01T20:19:50Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Data center planned for Bay Area office building site leased by Nvidia",
+            "url": "https://www.mercurynews.com/2025/12/01/economy-tech-nvidia-build-property-office-real-estate-ai-internet-data/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/04/SJM-L-NVIDIASJN-05.jpg?w=1024&h=691",
+            "publishedAt": "2025-12-01T20:15:51Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "New magnetic sensor material discovered using high-throughput experimental method",
+            "url": "https://phys.org/news/2025-12-magnetic-sensor-material-high-throughput.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/discovery-of-a-new-mag.jpg",
+            "publishedAt": "2025-12-01T20:11:30Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nvidia releases open-source software for self-driving car development",
+            "url": "https://www.marketscreener.com/news/nvidia-releases-open-source-software-for-self-driving-car-development-ce7d51d8dc81f22c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-12-01T20:00:40Z"
+        },
+        {
+            "source": {
+                "id": "c6075ba0dc9d123bb327faaa419d3d07",
+                "name": "The Motley Fool Australia",
+                "url": "https://www.fool.com.au",
+                "country": "au"
+            },
+            "title": "Want to invest in AI? These ASX ETFs give you instant exposure",
+            "url": "https://www.fool.com.au/2025/12/02/want-to-invest-in-ai-these-asx-etfs-give-you-instant-exposure/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2025/05/AI-16.9.png",
+            "publishedAt": "2025-12-01T20:00:35Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Apple AI chief to retire as former Microsoft exec takes over",
+            "url": "https://www.breitbart.com/news/apple-ai-chief-to-retire-as-former-microsoft-exec-takes-over/",
+            "urlToImage": "https://media.breitbart.com/media/2025/12/wi/upi/apple-ai-chief-retire-microsoft-exec-takes-apple-ai-chief-retire-microsoft-exec-takes-ove.jpg",
+            "publishedAt": "2025-12-01T19:56:30Z"
+        },
+        {
+            "source": {
+                "id": "549a7a859b2345bbe231b00e7244ef99",
+                "name": "Engadget",
+                "url": "https://www.engadget.com",
+                "country": "us"
+            },
+            "title": "India will require a state-owned cybersecurity app to be installed on all smartphones",
+            "url": "https://www.engadget.com/cybersecurity/india-will-require-a-state-owned-cybersecurity-app-to-be-installed-on-all-smartphones-192305599.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/W.J91ApqpO7MOqFYPsJAOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzE-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3dad1320-cee9-11f0-abf7-7718d05573c9",
+            "publishedAt": "2025-12-01T19:23:05Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -1596,6 +1680,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/12/01/3197345/0/en/Darthmouth-College-Data-Breach-Claims-Investigated-by-Lynch-Carpenter.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
             "publishedAt": "2025-12-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "New Agentic Capabilities in AWS Transform Enable Rapid Modernization of Any Code or Application",
+            "url": "https://www.postregister.com/businessreport/technology/new-agentic-capabilities-in-aws-transform-enable-rapid-modernization-of-any-code-or-application/article_b486fd6b-725e-5def-a53c-7d7f834f8675.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-12-01 20:06:40"
         },
         {
             "source": {
@@ -3363,102 +3456,6 @@
             "url": "https://nypost.com/2025/11/28/tech/americas-most-used-password-in-2025-is-one-word/",
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/hand-tying-labtop-computer-password-116343824.jpg?quality=75&strip=all&w=1200",
             "publishedAt": "2025-11-28T19:51:37Z"
-        },
-        {
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "The Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            },
-            "title": "Warren Buffett is buying artificial intelligence (AI) stocks while Michael Burry is shorting them — Who's right?",
-            "url": "https://www.fool.com.au/2025/11/29/warren-buffett-is-buying-artificial-intelligence-ai-stocks-while-michael-burry-is-shorting-them-whos-right-usfeed/",
-            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2023/09/GettyImages-1414921475-1-1200x675.jpg",
-            "publishedAt": "2025-11-28T19:30:00Z"
-        },
-        {
-            "source": {
-                "id": "4300aa22a5f803b09a37ff0632b44685",
-                "name": "The daily Star",
-                "url": "https://www.dailystar.co.uk",
-                "country": "gb"
-            },
-            "title": "Alex Jones 'cooks turkey with Sydney Sweeney' as AI Thanksgiving dinner photos spread online",
-            "url": "https://www.dailystar.co.uk/news/world-news/alex-jones-cooks-turkey-sydney-36325223",
-            "urlToImage": "https://i2-prod.dailystar.co.uk/article36325233.ece/ALTERNATES/s1200/0_G6wRl0mWYAAvCqz.jpg",
-            "publishedAt": "2025-11-28T19:29:14Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Maris-Tech Ltd. Secures $2 Million Financing to Strengthen its Capital Structure and Support Commercial and U.S. Market Initiatives",
-            "url": "https://www.manilatimes.net/2025/11/29/tmt-newswire/globenewswire/maris-tech-ltd-secures-2-million-financing-to-strengthen-its-capital-structure-and-support-commercial-and-us-market-initiatives/2233483",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/29/847246.png",
-            "publishedAt": "2025-11-28T19:02:08Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Maris-Tech Ltd. Secures $2 Million Financing to Strengthen its Capital Structure and Support Commercial and U.S. Market Initiatives",
-            "url": "https://www.marketscreener.com/news/maris-tech-ltd-secures-2-million-financing-to-strengthen-its-capital-structure-and-support-commerc-ce7d51dbdb88f125",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-28T18:50:08Z"
-        },
-        {
-            "source": {
-                "id": "e98c4d2585c4c5661ffe60fed4d51930",
-                "name": "BOL News",
-                "url": "https://www.bolnews.com",
-                "country": "pk"
-            },
-            "title": "When technology becomes an Artist: Tokyo show surprises the world",
-            "url": "https://www.bolnews.com/technology/when-technology-becomes-an-artist-tokyo-show-surprises-the-world/",
-            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2025/11/Tokyo-art-show.webp",
-            "publishedAt": "2025-11-28T18:45:26Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Late Rally Pushes Stocks Back Near Record High",
-            "url": "https://www.nytimes.com/2025/11/28/business/stock-markets-november-sp500.html",
-            "urlToImage": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-            "publishedAt": "2025-11-28T18:07:31Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Google’s AI progress drives MediaTek to best week since 2002",
-            "url": "https://www.mercurynews.com/2025/11/28/googles-ai-progress-drives-mediatek-to-best-week-since-2002/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2016/08/20091029__mediatek1.jpg?w=400&h=267",
-            "publishedAt": "2025-11-28T17:03:05Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "PLTR Stock: 3 Bull vs. Bear Cases for Palantir Technologies Stock",
-            "url": "https://markets.businessinsider.com/news/stocks/pltr-stock-3-bull-vs-bear-cases-for-palantir-technologies-stock-1035603749",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/image-3075.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-11-28T17:01:00Z"
         }
     ]
 }
