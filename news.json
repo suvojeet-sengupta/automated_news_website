@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-12-03T06:26:26.271103Z",
+    "lastUpdatedAt": "2025-12-03T07:18:01.458583Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "This is how holiday shoppers are trying AI for better choices and prices",
+            "url": "https://www.latimes.com/business/story/2025-12-02/this-is-how-holiday-shoppers-are-trying-ai-for-better-choices-prices",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/0f70c5e/2147483647/strip/true/crop/2910x1528+0+206/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F40%2Fe1%2F6f9cddf04d66ada8c93a1e1b85cb%2F16a354b951004bbbb41acb33725a0d19.jpg",
+            "publishedAt": "2025-12-02T19:08:49Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Apple shakes up AI team as exec John Giannandrea steps down",
+            "url": "https://nypost.com/2025/12/02/business/apple-shakes-up-ai-team-as-exec-john-giannandrea-steps-down/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116584867.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2025-12-02T19:06:42Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "NetApp Collaborates With AWS to Streamline Operations for Enterprises",
+            "url": "https://www.marketscreener.com/news/netapp-collaborates-with-aws-to-streamline-operations-for-enterprises-ce7d51d9de8af226",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-12-02T19:04:25Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Anthropic acquires developer tool startup Bun to scale AI coding",
+            "url": "https://www.reuters.com/business/media-telecom/anthropic-acquires-developer-tool-startup-bun-scale-ai-coding-2025-12-02/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/CCWRQCGNJZK3HJYI7LLNQLPF5Q.jpg?auth=c8e80be0019af6ad0b73be6a2d8e949b6e87568fdc9459c0f07dd370f4452e60&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-12-02T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "Fashion House Valentino criticised over ‘disturbing’ AI handbag ads",
+            "url": "https://www.nation.com.pk/03-Dec-2025/fashion-house-valentino-criticised-disturbing-ai-handbag-ads",
+            "urlToImage": "https://www.nation.com.pk/print_images/large/2025-12-03/fashion-house-valentino-criticised-disturbing-ai-handbag-ads-1764723350-8402.jpg",
+            "publishedAt": "2025-12-02T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "AI-assisted ultrasounds greatly improve detection of congenital heart defects",
+            "url": "https://www.news-medical.net/news/20251202/AI-assisted-ultrasounds-greatly-improve-detection-of-congenital-heart-defects.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg",
+            "publishedAt": "2025-12-02T18:59:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Anthropic acquires developer tool startup Bun to scale AI coding",
+            "url": "https://www.marketscreener.com/news/anthropic-acquires-developer-tool-startup-bun-to-scale-ai-coding-ce7d51d9de8af424",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-30T200202Z_1_LYNXNPEL4T10W_RTROPTP_4_ANTHROPIC-AI.JPG",
+            "publishedAt": "2025-12-02T18:58:17Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence a powerful equaliser if women actively shape & adopt it: Experts",
+            "url": "https://timesofindia.indiatimes.com/city/bengaluru/artificial-intelligence-a-powerful-equaliser-if-women-actively-shape-adopt-it-experts/articleshow/125726447.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125726446,width-1070,height-580,imgsize-94778,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-12-02T18:54:00Z"
+        },
+        {
+            "source": {
+                "id": "c6075ba0dc9d123bb327faaa419d3d07",
+                "name": "The Motley Fool Australia",
+                "url": "https://www.fool.com.au",
+                "country": "au"
+            },
+            "title": "How to target China's AI rush through ASX investing",
+            "url": "https://www.fool.com.au/2025/12/03/how-to-target-chinas-ai-rush-through-asx-investing/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2025/05/tariff-16.9.png",
+            "publishedAt": "2025-12-02T18:52:48Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -2237,6 +2345,96 @@
             "source": {
                 "name": "webpronews"
             },
+            "title": "Raspberry Pi Prices Rise 20% Amid AI-Driven RAM Surge",
+            "url": "https://www.webpronews.com/raspberry-pi-prices-rise-20-amid-ai-driven-ram-surge/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/12/article-3013-1764703006.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-12-02 19:16:51"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple AI Chief John Giannandrea to Retire in 2026, Successor Announced",
+            "url": "https://www.webpronews.com/apple-ai-chief-john-giannandrea-to-retire-in-2026-successor-announced/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/12/article-3011-1764702662.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-12-02 19:11:07"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Nvidia Unveils Open-Source Physical AI Models for Robotics and Autonomous Driving",
+            "url": "https://www.webpronews.com/nvidia-unveils-open-source-physical-ai-models-for-robotics-and-autonomous-driving/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/12/article-3003-1764701773.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-12-02 18:56:17"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "CLOUDVICE Unveils CORX Agentic Platform for Real-World Autonomy",
+            "url": "https://www.postregister.com/businessreport/technology/cloudvice-unveils-corx-agentic-platform-for-real-world-autonomy/article_1da78b7c-3bc5-510e-8960-6ef145e6cea2.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-12-02 18:45:20"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google Challenges Nvidia with Expanded TPUs for AI Efficiency",
+            "url": "https://www.webpronews.com/google-challenges-nvidia-with-expanded-tpus-for-ai-efficiency/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/12/article-2990-1764700335.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-12-02 18:32:20"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Amazon Introduces Four New Frontier Nova Models, a Pioneering Nova Forge Service for Organizations to Build Their Own Models, and Nova Act for Building Reliable Browser Agents",
+            "url": "https://www.postregister.com/businessreport/technology/amazon-introduces-four-new-frontier-nova-models-a-pioneering-nova-forge-service-for-organizations-to/article_485f5e4f-9fd6-58aa-aaa4-0511a9c9ed18.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-12-02 18:31:14"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "New AWS AI Factories Transform Customers’ Existing Infrastructure Into High Performance AI Environments",
+            "url": "https://www.postregister.com/businessreport/technology/new-aws-ai-factories-transform-customers-existing-infrastructure-into-high-performance-ai-environments/article_2897bc91-437f-5b73-8f8d-3d690d94472d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-12-02 18:31:13"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "AWS Unveils Frontier Agents, a New Class of AI Agents That Work as an Extension of Your Software Development Team",
+            "url": "https://www.postregister.com/businessreport/technology/aws-unveils-frontier-agents-a-new-class-of-ai-agents-that-work-as-an-extension/article_57d15c61-650c-5c71-99d9-6205b5ffde6d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-12-02 18:31:12"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Trainium3 UltraServers Now Available: Enabling Customers to Train and Deploy AI Models Faster at Lower Cost",
+            "url": "https://www.postregister.com/businessreport/technology/trainium3-ultraservers-now-available-enabling-customers-to-train-and-deploy-ai-models-faster-at-lower/article_023b20c8-ef9c-5db6-98a8-9d63e6bcbdf4.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-12-02 18:31:12"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "New Amazon Bedrock AgentCore Capabilities Power the Next Wave of Agentic AI Development",
+            "url": "https://www.postregister.com/businessreport/technology/new-amazon-bedrock-agentcore-capabilities-power-the-next-wave-of-agentic-ai-development/article_8ef68a53-bd8f-5ded-96a5-b4c6f03b1b41.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-12-02 18:31:11"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
             "title": "Amazon Exec Torben Severson Joins OpenAI in AI Talent Surge",
             "url": "https://www.webpronews.com/amazon-exec-torben-severson-joins-openai-in-ai-talent-surge/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/12/article-2984-1764699670.jpeg?fit=1024%2C768&ssl=1",
@@ -3276,234 +3474,6 @@
             "url": "https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html",
             "urlToImage": "https://static01.nyt.com/images/2025/11/28/business/00ai-majors/00ai-majors-facebookJumbo.jpg",
             "publishedAt": "2025-12-01T15:25:58Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Opera Releases New AI Features in Browsers Through Partnership With Google",
-            "url": "https://www.marketscreener.com/news/opera-releases-new-ai-features-in-browsers-through-partnership-with-google-ce7d51d8dd8af326",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-12-01T15:14:31Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "installation of Sanchar Saathi app in new phones for cybersecurity",
-            "url": "https://www.tribuneindia.com/news/india/centre-directs-pre-installation-of-sanchar-saathi-app-in-new-phones-for-cybersecurity/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg4Mjk3ZjAwLWNlYzctMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
-            "publishedAt": "2025-12-01T15:07:42Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Why .NET Is a Smart Choice for AI-Driven Software Application Development",
-            "url": "https://techbullion.com/why-net-is-a-smart-choice-for-ai-driven-software-application-development/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/growtika-FQ3lFA4Zi58-unsplash-1000x600.jpg",
-            "publishedAt": "2025-12-01T14:43:06Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Accenture, OpenAI Launch AI Collaboration for Enterprise Clients",
-            "url": "https://www.marketscreener.com/news/accenture-openai-launch-ai-collaboration-for-enterprise-clients-ce7d51d8dd89f720",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-12-01T14:39:15Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Nvidia invests US$2 billion in software provider Synopsys",
-            "url": "https://www.cp24.com/news/money/2025/12/01/nvidia-invests-us2-billion-in-chip-design-software-provider-synopsys/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/RTBH57G75YGY3YGK2ILDZIFEF4.jpg?smart=true&auth=e1321402e57e8933a1d918708d70587ad240be95d6faf81db6096f6779b300ef&width=1200&height=630",
-            "publishedAt": "2025-12-01T14:07:04Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Nvidia invests US$2 billion in software provider Synopsys",
-            "url": "https://www.bnnbloomberg.ca/business/2025/12/01/nvidia-invests-us2-billion-in-chip-design-software-provider-synopsys/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/RTBH57G75YGY3YGK2ILDZIFEF4.jpg?smart=true&auth=e1321402e57e8933a1d918708d70587ad240be95d6faf81db6096f6779b300ef&width=1200&height=630",
-            "publishedAt": "2025-12-01T14:07:04Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Thales, CEA partner on post-quantum cybersecurity",
-            "url": "https://www.marketscreener.com/news/thales-cea-partner-on-post-quantum-cybersecurity-ce7d51d8da8df225",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-12-01T13:54:25Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Aramark correctional services partners with Alabama DOC to reduce recidivism using AI",
-            "url": "https://www.marketscreener.com/news/aramark-correctional-services-partners-with-alabama-doc-to-reduce-recidivism-using-ai-ce7d51d8da8df322",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-12-01T13:53:55Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Morgan Stanley Sees 41% Upside For Nvidia, Boosts Broadcom Target on TPU Dominance",
-            "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/25/12/49134139/nvidia-just-earned-a-massive-41-price-target-boost-from-morgan-stanley-broadcom-also-raised-as-ai-frenzy-accelerates",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/12/01/Nvidia-Corporation.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-12-01T13:33:46Z"
-        },
-        {
-            "source": {
-                "id": "6bc94426ae0cbbdb312f14c0f86b4708",
-                "name": "Ubergizmo",
-                "url": "https://www.ubergizmo.com",
-                "country": "us"
-            },
-            "title": "Meet Huawei’s Smart Hanhan, The Emotional AI Plush",
-            "url": "https://www.ubergizmo.com/2025/12/huaweis-smart-hanhan/",
-            "urlToImage": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2025/12/huawei-ai-plush.webp",
-            "publishedAt": "2025-12-01T13:21:33Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Elon Musk predicts AI evolution will force money as concept to disappear, working to be optional in less than 20 years",
-            "url": "https://www.moneycontrol.com/news/business/personal-finance/elon-musk-predicts-ai-evolution-will-force-money-as-concept-to-disappear-working-to-be-optional-in-less-than-20-years-13705073.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/02/BeFunky-collage-2024-02-19T175936.187.jpg",
-            "publishedAt": "2025-12-01T13:11:19Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Ramsey Theory Group CEO Dan Herbatschek Warns New Customer Survey Shows Cybersecurity’s AI Paradox and Offers 5 Risk Management Tips",
-            "url": "https://www.manilatimes.net/2025/12/01/tmt-newswire/globenewswire/ramsey-theory-group-ceo-dan-herbatschek-warns-new-customer-survey-shows-cybersecuritys-ai-paradox-and-offers-5-risk-management-tips/2234314",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/01/849294.png",
-            "publishedAt": "2025-12-01T13:03:52Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "Cybersecurity in the public sector is ultimately a data problem",
-            "url": "https://www.cnbctv18.com/technology/cybersecurity-in-the-public-sector-is-ultimately-a-data-problem-ws-l-19777733.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2025/12/copy-of-security-labs-images-34-2025-12-d2abead57d11ea0b5936b3a88ca1ad64.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2025-12-01T13:03:44Z"
-        },
-        {
-            "source": {
-                "id": "4fb6c3338f91da7f3748e0764d095541",
-                "name": "The Denver Post",
-                "url": "https://www.denverpost.com",
-                "country": "us"
-            },
-            "title": "CSU Global offers artificial intelligence, machine learning degree",
-            "url": "https://www.denverpost.com/2025/12/01/ai-artificial-intelligence-csu-graduate-program/",
-            "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/05/TDP-L-AIpolicereport052225-cha-205.jpg?w=1024&h=683",
-            "publishedAt": "2025-12-01T13:00:41Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "OpenAI Takes Stake in Thrive Holdings, a Buyer of Services Firms",
-            "url": "https://www.nytimes.com/2025/12/01/business/dealbook/openai-thrive-holdings-ai.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/12/01/multimedia/01db-thriveopenai1-wlvc/30db-thriveopenai1-wlvc-facebookJumbo.jpg",
-            "publishedAt": "2025-12-01T13:00:04Z"
-        },
-        {
-            "source": {
-                "id": "b29eaeaa36b9be93ac681e263151f897",
-                "name": "India.com",
-                "url": "https://www.india.com",
-                "country": "in"
-            },
-            "title": "Sanchar Saathi becomes compulsory on new phones: Users, privacy & industry-What changes now?",
-            "url": "https://www.india.com/technology/sanchar-saathi-becomes-compulsory-on-new-phones-users-privacy-industry-what-changes-now-8209250/",
-            "urlToImage": "https://static.india.com/wp-content/uploads/2025/12/Icom-thumbs-47.png",
-            "publishedAt": "2025-12-01T12:54:40Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "After SIM-locking WhatsApp, Signal, DoT now asks smartphone makers to preinstall cybersecurity app on phones",
-            "url": "https://www.moneycontrol.com/news/telecom/after-sim-locking-whatsapp-signal-dot-now-asks-smartphone-makers-to-preinstall-cybersecurity-app-on-phones-13705094.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/06/20250615172307_social-media-phone-usage.png",
-            "publishedAt": "2025-12-01T12:50:40Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "New AI could teach the next generation of surgeons",
-            "url": "https://medicalxpress.com/news/2025-12-ai-generation-surgeons.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/new-ai-could-teach-the.jpg",
-            "publishedAt": "2025-12-01T12:44:33Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Govt asks smartphone makers to preinstall Sanchar Saathi on all phones: What is this app",
-            "url": "https://indianexpress.com/shorts/explained/explained-sci-tech/govt-smartphone-preinstall-sanchar-saathi-what-is-it-10396227/",
-            "urlToImage": "https://images.indianexpress.com/2025/12/cybersecurity-1600.jpg",
-            "publishedAt": "2025-12-01T12:40:28Z"
         }
     ]
 }
