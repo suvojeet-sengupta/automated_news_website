@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-12-03T16:23:04.091545Z",
+    "lastUpdatedAt": "2025-12-03T17:19:42.428892Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Apple woes undercut India's opening-up drive",
+            "url": "https://www.reuters.com/commentary/breakingviews/apple-woes-undercut-indias-opening-up-drive-2025-12-03/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/34YFLL5SLBLD7KUOLGGRPMUOBA.jpg?auth=1b9e44abebd361f1a602e6d984f46168fe3c6b7ca5dfaa8d5425fc97e24081f2&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-12-03T05:15:57Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "India mandates pre-installation of government cyber safety app on all smartphones",
+            "url": "https://www.nbcnews.com/world/asia/india-mandates-pre-installation-government-cyber-safety-app-smartphone-rcna247118",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251202-Sanchar-Saathi-aa-1143-aeeae5.jpg",
+            "publishedAt": "2025-12-03T05:11:55Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Pudu Robotics Unveils PUDU D5 Series: Industry-Grade Autonomous Quadruped Robots Designed for Complex, Real-World Operations",
+            "url": "https://www.devdiscourse.com/article/technology/3717575-pudu-robotics-unveils-pudu-d5-series-industry-grade-autonomous-quadruped-robots-designed-for-complex-real-world-operations",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=920&format=jpeg",
+            "publishedAt": "2025-12-03T05:11:37Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "India rolls back order to preinstall cybersecurity app on smartphones",
+            "url": "https://www.breitbart.com/news/india-rolls-back-order-to-preinstall-cybersecurity-app-on-smartphones/",
+            "urlToImage": "https://media.breitbart.com/media/2025/12/wi/ap/india-cyber-safety-app-12611-india-cyber-safety-app-an-indian-government-cybersecurity-app-sanchar-640x335.jpg",
+            "publishedAt": "2025-12-03T04:56:40Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "AMZN, NVDA: Amazon Taps Nvidia’s NVLink Fusion for Trainium4 Servers",
+            "url": "https://markets.businessinsider.com/news/stocks/amzn-nvda-amazon-taps-nvidia-s-nvlink-fusion-for-trainium4-servers-1035613659",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/12/image-285.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-12-03T04:46:12Z"
+        },
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "Edmonton Police Service partners with U.S. company to test use of facial-recognition bodycams",
+            "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-police-facial-recognition-cameras-9.7000389",
+            "urlToImage": "https://i.cbc.ca/ais/1.7316555,1764735461632/full/max/0/default.jpg?im=Crop%2Crect%3D%28349%2C349%2C2283%2C1284%29%3BResize%3D620",
+            "publishedAt": "2025-12-03T04:37:58Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -312,6 +384,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/12/03/3198867/0/en/HashStaking-Examines-AI-s-Rapid-Expansion-as-Crypto-Market-Rebounds-Above-3-Trillion.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/46e90499-8f49-4918-9710-bc2641745dfa",
             "publishedAt": "2025-12-03T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "AI has redefined the talent game. Here’s how leaders are responding.",
+            "url": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/70RwDaBcQY2hKd6dMB8G9/a908ac82fd1f03cc7328ab01348d62e8/AdobeStock_1532812121.jpeg?q=75&w=800",
+            "publishedAt": "2025-12-03 05:00:00"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "AWS CEO Garmin pitches ‘billions of agents’ as enterprise AI future",
+            "url": "https://www.computerweekly.com/news/366635460/AWS-CEO-Garmin-pitches-billions-of-agents-as-enterprise-AI-future",
+            "urlToImage": "https://www.computerweekly.com/rms/computerweekly/AWS-Garman-Keynote-2025_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-12-03 04:45:00"
         },
         {
             "source": {
@@ -3393,78 +3483,6 @@
             "url": "https://siliconangle.com/2025/12/02/identity-verification-startup-incode-launches-deepsight-detect-deepfake-video-calls/",
             "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Screenshot-from-2025-11-28-06-33-40.png",
             "publishedAt": "2025-12-02 14:00:08"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Latest AWS data management features target cost control",
-            "url": "https://www.techtarget.com/searchdatamanagement/news/366635663/Latest-AWS-data-management-features-target-cost-control",
-            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineImages/avidon_eric.jpg",
-            "publishedAt": "2025-12-02 13:53:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "AI Content Expert, Amazon",
-            "url": "https://www.analyticsinsight.net/job-openings/ai-content-expert-amazon",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-12-02%2Fqx7rxzlm%2FAmazon-3.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-12-02 13:28:39"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Data Analytics and Applied AI Engineer- DFT Methodology, NVIDIA",
-            "url": "https://www.analyticsinsight.net/job-openings/data-analytics-and-applied-ai-engineer-dft-methodology-nvidia",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-12-02%2Fclpp2brd%2FNVIDIA.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-12-02 12:54:26"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "No AI bubble? Cathie Wood says the real danger is a 2026 rate-hike shock and market pullback",
-            "url": "https://economictimes.indiatimes.com/news/international/us/no-ai-bubble-cathie-wood-says-the-real-danger-is-a-2026-rate-hike-shock-and-market-pullback/articleshow/125723707.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125723786,width-300,height-225,imgsize-43852,resizemode-75/no-ai-bubble-cathie-wood-says-the-real-danger-is-a-2026-rate-hike-shock-and-market-pullback.jpg",
-            "publishedAt": "2025-12-02 12:45:29"
-        },
-        {
-            "source": {
-                "name": "nbcbayarea"
-            },
-            "title": "OpenAI CEO Sam Altman declares ‘code red' to improve ChatGPT amid rising competition",
-            "url": "https://www.nbcbayarea.com/news/local/openai-ceo-sam-altman-code-red/3989902/",
-            "urlToImage": "https://media.nbcbayarea.com/2025/10/GettyImages-2197366908.jpg?quality=85&resize=320%2C180&strip=all",
-            "publishedAt": "2025-12-02 11:33:52"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top 50 Free AI Tools and Platforms for Professionals (Based on their Job Roles)",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/top-50-free-ai-tools-and-platforms-for-professionals-based-on-their-job-roles",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-12-02%2Fo5zktlpi%2FTop-50-Free-AI-Tools-and-Platforms-for-Professionals-Based-on-their-Job-Roles.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-12-02 05:40:02"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "AP Technology SummaryBrief at 12:32 a.m. EST",
-            "url": "https://www.hastingstribune.com/ap/business/ap-technology-summarybrief-at-12-32-a-m-est/article_489795db-9ae2-539b-99f3-209d5ea52a29.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2025-12-02 05:32:05"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Deepfakes Surge in 2025, Driving $50B Scam Losses",
-            "url": "https://www.webpronews.com/ai-deepfakes-surge-in-2025-driving-50b-scam-losses/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/12/article-2907-1764574273.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-12-02 01:50:05"
         }
     ]
 }
