@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-12-03T07:18:01.458583Z",
+    "lastUpdatedAt": "2025-12-03T08:23:21.013210Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "AI Melania: First lady rolls out audiobook of first memoir in Spanish",
+            "url": "https://www.foxnews.com/politics/melania-trump-rolls-out-ai-audiobook-memoir-spanish-amazing-journey",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/melania-trump-displaced-children-russia-ukraine.jpg",
+            "publishedAt": "2025-12-02T20:19:16Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Amazon unveils new AI chip in battle against Nvidia",
+            "url": "https://japantoday.com/category/tech/amazon-unveils-new-ai-chip-in-battle-against-nvidia",
+            "urlToImage": "https://media.japantoday.com/img/store/a0/55/296f3ae02cc803f6b17a398d5da258c7a178/48d3d00ea790c4bc7b53a424e03e6f9415b44b99/_w1700.jpeg",
+            "publishedAt": "2025-12-02T20:03:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Vultr to invest $1 billion in Ohio AI cluster using AMD chips",
+            "url": "https://www.reuters.com/business/vultr-invest-1-billion-ohio-ai-cluster-using-amd-chips-2025-12-02/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/AUMJPLFKRFI2RHUOP4FOJAXYGY.jpg?auth=1f785a50c1944a6215f102584671d1b3509a9791f2e506c2eaf17943b3737ec8&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-12-02T19:55:30Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Vultr to invest $1 billion in Ohio AI cluster using AMD chips",
+            "url": "https://www.marketscreener.com/news/vultr-to-invest-1-billion-in-ohio-ai-cluster-using-amd-chips-ce7d51d9de8fff2d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-12-02T19:54:15Z"
+        },
+        {
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com",
+                "country": "us"
+            },
+            "title": "Zion D6 schools closed two days by cybersecurity breach",
+            "url": "https://www.chicagotribune.com/2025/12/02/zion-elementary-school-district-6/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/migration/2023/01/26/KCRDDSOZBBC6DACJ3LXCJMLQHI.jpg?w=1024&h=670",
+            "publishedAt": "2025-12-02T19:46:15Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Mistral launches a new generation of AI models to take on the world's giants",
+            "url": "https://www.marketscreener.com/news/mistral-launches-a-new-generation-of-ai-models-to-take-on-the-world-s-giants-ce7d51d9de8ff420",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3131267_800.jpg",
+            "publishedAt": "2025-12-02T19:39:13Z"
+        },
+        {
+            "source": {
+                "id": "eaeed30dacd1269c1893de860c94a7e7",
+                "name": "USA TODAY",
+                "url": "https://www.usatoday.com",
+                "country": "us"
+            },
+            "title": "Is college worth the cost? A majority of Americans say no",
+            "url": "https://www.usatoday.com/story/news/nation/2025/12/02/college-degree-worth-cost-poll/87567664007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/02/USAT/87567895007-usatsi-27088269.jpg?crop=3199,1800,x0,y189&width=3199&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2025-12-02T19:22:37Z"
+        },
+        {
+            "source": {
+                "id": "027234d3c0a6aefa3d7ab81380e63d86",
+                "name": "LBC",
+                "url": "https://www.lbc.co.uk",
+                "country": "gb"
+            },
+            "title": "Apple's AI chief to step down as critics say the company is falling behind",
+            "url": "https://www.lbc.co.uk/article/apples-ai-chief-to-step-down-as-critics-say-the-company-is-falling-behind-5HjdNn5_2/",
+            "urlToImage": "https://images.globalplayer.com/images/703932?crop=16_9&width=1200&signature=rSi82L2Q1zd4WD9g0JUgEk0QlZE=",
+            "publishedAt": "2025-12-02T19:21:37Z"
+        },
         {
             "source": {
                 "id": "492abf277b7277432148b61b21ddc836",
@@ -1575,6 +1671,18 @@
         },
         {
             "source": {
+                "id": "6536182115f7e8188f38d864bab0e1c6",
+                "name": "DAWN.com",
+                "url": "https://www.dawn.com",
+                "country": "pk"
+            },
+            "title": "Apple AI chief leaving as iPhone maker plays catch-up",
+            "url": "https://www.dawn.com/news/1958738/apple-ai-chief-leaving-as-iphone-maker-plays-catch-up",
+            "urlToImage": "https://i.dawn.com/large/2025/12/02111857c147d8c.webp",
+            "publishedAt": "2025-12-02T06:29:26Z"
+        },
+        {
+            "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
                 "name": "Benzinga",
                 "url": "https://www.benzinga.com",
@@ -2340,6 +2448,33 @@
             "url": "https://www.globenewswire.com/news-release/2025/12/02/3198127/0/en/SANS-CDI-2025-TO-FEATURE-EXCLUSIVE-FIRESIDE-CHAT-WITH-DEPUTY-ASSISTANT-SECRETARY-OF-STATE-GHARUN-LACY.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/127786cc-a575-4035-a3ea-796d09117f68",
             "publishedAt": "2025-12-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple’s STARFlow-V: Open-Source Text-to-Video Model Beats Diffusion",
+            "url": "https://www.webpronews.com/apples-starflow-v-open-source-text-to-video-model-beats-diffusion/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/12/article-3037-1764705646.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-12-02 20:00:51"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Cloudflare Acquires Replicate to Enhance AI Deployment for Developers",
+            "url": "https://www.webpronews.com/cloudflare-acquires-replicate-to-enhance-ai-deployment-for-developers/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/12/article-3036-1764705480.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-12-02 19:58:05"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "AWS CEO Matt Garman says AI agents are going to have 'as much impact on your business as the internet or cloud'",
+            "url": "https://www.itpro.com/technology/artificial-intelligence/aws-ceo-matt-garman-says-ai-agents-are-going-to-have-as-much-impact-on-your-business-as-the-internet-or-cloud",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9Upr8RZH2LFc5iFSgJeUtm-1280-80.jpg",
+            "publishedAt": "2025-12-02 19:50:38"
         },
         {
             "source": {
@@ -3330,150 +3465,6 @@
             "url": "https://www.barchart.com/story/news/36389815/how-chinas-drive-to-win-the-ai-race-is-opening-opportunities-for-business-leaders",
             "urlToImage": "https://assets.barchart.com/img/barchart-og.png",
             "publishedAt": "2025-12-01T16:38:31Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "How China’s Drive to Win the AI Race is Opening Opportunities for Business Leaders",
-            "url": "https://www.barchart.com/story/news/36389816/how-chinas-drive-to-win-the-ai-race-is-opening-opportunities-for-business-leaders",
-            "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/China/Beijing%2C%20China%20financial%20district%20skyline%20by%20SeanPavonePhoto%20via%20iStock.jpg",
-            "publishedAt": "2025-12-01T16:38:31Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Climb Announces United States Partnership with Fortinet",
-            "url": "https://www.manilatimes.net/2025/12/02/tmt-newswire/globenewswire/climb-announces-united-states-partnership-with-fortinet/2234606",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/02/849891.png",
-            "publishedAt": "2025-12-01T16:32:38Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Runway outperforms Google and OpenAI with its new Gen 4.5 video model",
-            "url": "https://www.marketscreener.com/news/runway-outperforms-google-and-openai-with-its-new-gen-4-5-video-model-ce7d51d8dd81f526",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_7279_800.jpg",
-            "publishedAt": "2025-12-01T16:21:49Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Covasant Technologies' Hyderabad AI Hub to Spark a Talent Revolution",
-            "url": "https://www.devdiscourse.com/article/technology/3716001-covasant-technologies-hyderabad-ai-hub-to-spark-a-talent-revolution",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-12-01T16:20:39Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Cyberfraud on rise: Fraudsters shift focus towards small business accounts; exploit PANs and fake Udhyam certificates",
-            "url": "https://timesofindia.indiatimes.com/business/cybersecurity/cyberfraud-on-rise-fraudsters-shift-focus-towards-small-business-accounts-exploit-pans-and-fake-udhyam-certificates/articleshow/125698695.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125698689,width-1070,height-580,imgsize-559539,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2025-12-01T16:14:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Broadcom Set for Boost From Google AI Processor Ramp Into 2026, BofA Says",
-            "url": "https://www.marketscreener.com/news/broadcom-set-for-boost-from-google-ai-processor-ramp-into-2026-bofa-says-ce7d51d8dd8ef027",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-12-01T16:12:13Z"
-        },
-        {
-            "source": {
-                "id": "4300aa22a5f803b09a37ff0632b44685",
-                "name": "The daily Star",
-                "url": "https://www.dailystar.co.uk",
-                "country": "gb"
-            },
-            "title": "Terminator director James Cameron says the idea of AI replacing actors is 'terrifying'",
-            "url": "https://www.dailystar.co.uk/news/weird-news/terminator-director-james-cameron-says-36334098",
-            "urlToImage": "https://i2-prod.dailystar.co.uk/article30162970.ece/ALTERNATES/s1200/3_Terminator-2-Judgment-Day.jpg",
-            "publishedAt": "2025-12-01T15:59:31Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Nvidia takes $2 billion stake in Synopsys as AI deal spree accelerates",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-takes-2-billion-stake-in-synopsys-as-ai-deal-spree-accelerates/articleshow/125698009.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-8338,resizemode-75,msid-125698009/tech/artificial-intelligence/nvidia-takes-2-billion-stake-in-synopsys-as-ai-deal-spree-accelerates.jpg",
-            "publishedAt": "2025-12-01T15:34:16Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Mandatory cybersecurity app: Global smartphone brands brace for clash over DoT directive",
-            "url": "https://www.moneycontrol.com/news/telecom/mandatory-cybersecurity-app-global-smartphone-brands-brace-for-clash-over-dot-directive-13705274.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2017/11/RTX3A35P-1.jpg",
-            "publishedAt": "2025-12-01T15:32:30Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Accenture ties up with OpenAI to equip thousands of its employees with ChatGPT",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/accenture-ties-up-with-openai-to-equip-thousands-of-its-employees-with-chatgpt/articleshow/125697963.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-33112,resizemode-75,msid-125697963/tech/information-tech/accenture-ties-up-with-openai-to-equip-thousands-of-its-employees-with-chatgpt.jpg",
-            "publishedAt": "2025-12-01T15:29:47Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Mixx Technologies Raises $33M Series-A to Redefine AI Infrastructure through Full-Stack Optical Integration",
-            "url": "https://www.manilatimes.net/2025/12/01/tmt-newswire/pr-newswire/mixx-technologies-raises-33m-series-a-to-redefine-ai-infrastructure-through-full-stack-optical-integration/2234554",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/01/849766.jpg",
-            "publishedAt": "2025-12-01T15:26:45Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "College Students Choosing A.I. Majors Over Computer Science",
-            "url": "https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/11/28/business/00ai-majors/00ai-majors-facebookJumbo.jpg",
-            "publishedAt": "2025-12-01T15:25:58Z"
         }
     ]
 }
