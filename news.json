@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-12-04T13:33:17.306568Z",
+    "lastUpdatedAt": "2025-12-04T14:17:31.029432Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "South Korean shares slip as AI concerns weigh on chipmakers",
+            "url": "https://www.marketscreener.com/news/south-korean-shares-slip-as-ai-concerns-weigh-on-chipmakers-ce7d51dfd98bf523",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-12-04T02:09:16Z"
+        },
+        {
+            "source": {
+                "id": "3271eb2093cfa66b030a37cf84a8df5e",
+                "name": "Baltimore Sun",
+                "url": "https://www.baltimoresun.com",
+                "country": "us"
+            },
+            "title": "One-for-all culture distinguishes IntelliGenesis",
+            "url": "https://www.baltimoresun.com/2025/12/03/top-workplaces-2025-intelligenesis/",
+            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/10/TBS-L-TW-INTELLIGENESIS-p1.jpg?w=1024&h=681",
+            "publishedAt": "2025-12-04T02:00:53Z"
+        },
+        {
+            "source": {
+                "id": "869aa6d4178b4cc8a4cd0af3276979c5",
+                "name": "TMZ",
+                "url": "https://www.tmz.com",
+                "country": "us"
+            },
+            "title": "Lawyer Suing Fat Joe Called Out For Blaming Legal Mistakes On AI",
+            "url": "https://www.tmz.com/2025/12/03/lawyer-suing-fat-joe-called-out-artificial-intelligence-legal-mistake/",
+            "urlToImage": "https://imagez.tmz.com/image/52/16by9/2025/12/04/5234af59851c40bf9120546d5ad6edb9_xl.jpg",
+            "publishedAt": "2025-12-04T01:50:30Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "University of Toronto to create AI role named after tech pioneer Geoffrey Hinton",
+            "url": "https://www.bnnbloomberg.ca/business/technology/2025/12/04/university-of-toronto-to-create-ai-role-named-after-tech-pioneer-geoffrey-hinton/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/2QIG5OPSX34FQSTJKXR6VRF4SQ.jpg?smart=true&auth=d43536906bc24b5457ff2331aba8f6146a7c88e055b2cad90ae99bb0dba01bae&width=1200&height=630",
+            "publishedAt": "2025-12-04T01:35:21Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "University of Toronto to create AI role named after tech pioneer Geoffrey Hinton",
+            "url": "https://www.cp24.com/local/toronto/2025/12/04/university-of-toronto-to-create-ai-role-named-after-tech-pioneer-geoffrey-hinton/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/2QIG5OPSX34FQSTJKXR6VRF4SQ.jpg?smart=true&auth=d43536906bc24b5457ff2331aba8f6146a7c88e055b2cad90ae99bb0dba01bae&width=1200&height=630",
+            "publishedAt": "2025-12-04T01:35:21Z"
+        },
         {
             "source": {
                 "id": "5ef93dac613cd24454e0d42ebc372612",
@@ -36,6 +96,18 @@
             "url": "https://www.bnnbloomberg.ca/business/company-news/2025/12/04/nvidia-ceo-jensen-huang-visits-republicans-as-debate-over-intensifying-ai-race-rages/",
             "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/DCZPD2TYRZ3OY22UHL6ODLLUHA.jpg?smart=true&auth=f1d3433e4132e546a2e743f711d6d46dcf545cd39b6b5ed4087043a0d4636484&width=1200&height=630",
             "publishedAt": "2025-12-04T00:55:46Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Salesforce CEO vies to overcome investors’ AI skepticism while touting company’s quarterly numbers",
+            "url": "https://wtop.com/business-finance/2025/12/salesforce-ceo-vies-to-overcome-investors-ai-skepticism-while-touting-companys-quarterly-numbers/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2025/12/Salesforce_AI_Skepticism_84348-scaled.jpg",
+            "publishedAt": "2025-12-04T00:51:57Z"
         },
         {
             "source": {
@@ -84,6 +156,15 @@
             "url": "https://www.ndtv.com/world-news/citadel-debuts-new-ai-tool-for-equities-investors-9747408",
             "urlToImage": "https://c.ndtvimg.com/2025-12/ojcap3r_citadel_625x300_04_December_25.jpeg",
             "publishedAt": "2025-12-04T00:14:29Z"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "Revolutionary AWS re:Invent 2025 Unveils Autonomous AI Agents and Next-Gen Trainium3 Chips",
+            "url": "https://bitcoinworld.co.in/aws-reinvent-2025-ai-agents-trainium3/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/aws-reinvent-2025-ai-agents-trainium3.jpg",
+            "publishedAt": "2025-12-04 02:15:10"
         },
         {
             "source": {
@@ -3435,90 +3516,6 @@
             "url": "https://japantoday.com/category/tech/apple-ai-chief-leaving-as-iphone-maker-plays-catch-up",
             "urlToImage": "https://media.japantoday.com/img/store/0c/41/a712c8280914fd051ea9777b363b54d2affc/04e1b7765b05fb609549d137755da9de6f815921/_w1700.jpeg",
             "publishedAt": "2025-12-02T18:22:00Z"
-        },
-        {
-            "source": {
-                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
-                "name": "USA Herald",
-                "url": "https://usaherald.com",
-                "country": "us"
-            },
-            "title": "Quantum Computing Holds The Missing Key To The Future of Artificial Intelligence",
-            "url": "https://usaherald.com/quantum-computing-holds-the-missing-key-to-the-future-of-artificial-intelligence/",
-            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-            "publishedAt": "2025-12-02T18:21:48Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "Amazon delves deeper into AI with launch of AI Factories, new Nova models and agent-building tools",
-            "url": "https://seekingalpha.com/news/4527763-amazon-delves-deeper-into-ai-with-launch-of-ai-factories-new-nova-models-and-agent-building-tools",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187566975/image_2187566975.jpg?io=getty-c-w630",
-            "publishedAt": "2025-12-02T18:13:31Z"
-        },
-        {
-            "source": {
-                "id": "839b9d172147498877bab641815b0631",
-                "name": "Entrepreneur",
-                "url": "https://www.entrepreneur.com",
-                "country": "us"
-            },
-            "title": "Is AI Overshadowing Your Own Intelligence? Here's the Shift You Need to Make.",
-            "url": "https://www.entrepreneur.com/leadership/is-ai-overshadowing-your-own-intelligence-heres-the-shift/499417",
-            "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2025/11/1764098349-ai-overshadowing-our-own-intelligence-1125-g2231289296.jpg?resize=1024,682",
-            "publishedAt": "2025-12-02T18:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Case of more SIMmed against than sinning",
-            "url": "https://economictimes.indiatimes.com/opinion/et-editorial/case-of-more-simmed-against-than-sinning/articleshow/125724619.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-12762,resizemode-75,msid-125724619/opinion/et-editorial/case-of-more-simmed-against-than-sinning.jpg",
-            "publishedAt": "2025-12-02T17:45:37Z"
-        },
-        {
-            "source": {
-                "id": "e743cde6ee986921721e83d3957862dc",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com",
-                "country": "in"
-            },
-            "title": "Sanchar Saathi App Crosses 1.4 Crore Downloads, Helps Block 42 Lakh Mobile Devices",
-            "url": "https://zeenews.india.com/technology/sanchar-saathi-app-crosses-1-4-crore-downloads-helps-block-42-lakh-mobile-devices-2991273.html",
-            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2025/12/02/1871201-sanchar-main.jpg",
-            "publishedAt": "2025-12-02T17:44:15Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Model N Launches Data nSights: Real-Time Analytics to Drive Action and Optimize Net Revenue",
-            "url": "https://www.marketscreener.com/news/model-n-launches-data-nsights-real-time-analytics-to-drive-action-and-optimize-net-revenue-ce7d51d9df8ef520",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-12-02T17:35:43Z"
-        },
-        {
-            "source": {
-                "id": "47366bd85d81b2b5e4b719ca55c65955",
-                "name": "St. Louis Post-Dispatch",
-                "url": "https://www.stltoday.com",
-                "country": "us"
-            },
-            "title": "Missouri lawmakers take aim at 'dangerous' uses of AI",
-            "url": "https://www.stltoday.com/news/local/government-politics/article_2fbe8f8c-db8e-4a8a-9e5f-707acaa816fa.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/8a/18aabe56-4a8b-5edb-ab8c-ef08db658987/68936bbe256da.image.jpg?crop=1762%2C925%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2025-12-02T17:30:00Z"
         }
     ]
 }
