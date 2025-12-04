@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-12-04T09:20:28.174997Z",
+    "lastUpdatedAt": "2025-12-04T10:19:30.090218Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "OpenAI Strives for Tata Hand to Grow Footprint in India",
+            "url": "https://economictimes.indiatimes.com/et-front/openai-strives-for-tata-hand-to-grow-footprint-in-india/articleshow/125753178.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125753178,width-1200,height-630,imgsize-50664,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-12-03T21:46:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "OpenAI Strives for Tata Hand to Grow Footprint in India",
+            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/dec/04/et-front/openai-strives-for-tata-hand-to-grow-footprint-in-india/articleshow/125753178.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125753178,width-1200,height-630,imgsize-50664,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-12-03T21:46:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Snowflake beats revenue estimates, signs $200 million AI deal with Anthropic",
+            "url": "https://www.marketscreener.com/news/snowflake-beats-revenue-estimates-signs-200-million-ai-deal-with-anthropic-ce7d51ded181f026",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-12/2025-12-03T211441Z_1_LYNXMPELB2191_RTROPTP_4_SNOWFLAKE-IPO.JPG",
+            "publishedAt": "2025-12-03T21:39:31Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -2343,6 +2379,24 @@
         },
         {
             "source": {
+                "name": "futurism"
+            },
+            "title": "Microsoft’s Attempts to Sell AI Agents Are Turning Into a Disaster",
+            "url": "https://futurism.com/artificial-intelligence/microsoft-sell-ai-agents-disaster",
+            "urlToImage": "https://futurism.com/wp-content/uploads/2025/12/microsoft-sell-ai-agents-disaster.jpg?quality=85",
+            "publishedAt": "2025-12-03 22:01:55"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "F1’s Williams Racing Puts Atlassian Under The Stopwatch",
+            "url": "https://www.forbes.com/sites/stevemcdowell/2025/12/03/f1s-williams-racing-puts-atlassian-under-the-stopwatch/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6930a4ab55d543e08025877a/0x0.jpg?width=960",
+            "publishedAt": "2025-12-03 21:27:48"
+        },
+        {
+            "source": {
                 "name": "postregister"
             },
             "title": "AWS Simplifies Model Customization to Help Customers Build Faster, More Efficient AI Agents",
@@ -3477,66 +3531,6 @@
             "url": "https://www.indy100.com/science-tech/gta-6-ai-rockstar-games-dan-houser",
             "urlToImage": "https://www.indy100.com/media-library/a-screenshot-of-dan-houser-speaking-on-the-chris-evans-breakfast-show-on-virgin-radio-uk.png?id=62264016&width=1200&height=600&coordinates=0%2C0%2C0%2C172",
             "publishedAt": "2025-12-02T15:03:18Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "SANS CDI 2025 TO FEATURE EXCLUSIVE FIRESIDE CHAT WITH DEPUTY ASSISTANT SECRETARY OF STATE GHARUN LACY",
-            "url": "https://www.manilatimes.net/2025/12/02/tmt-newswire/globenewswire/sans-cdi-2025-to-feature-exclusive-fireside-chat-with-deputy-assistant-secretary-of-state-gharun-lacy/2235523",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/02/851543.png",
-            "publishedAt": "2025-12-02T14:54:58Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Silicon valley builds Amazon and Gmail copycats to train AI agents",
-            "url": "https://indianexpress.com/article/technology/tech-news-technology/silicon-valley-builds-amazon-and-gmail-copycats-to-train-ai-agents-10398586/",
-            "urlToImage": "https://images.indianexpress.com/2025/12/US-13.jpg",
-            "publishedAt": "2025-12-02T14:43:47Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "Zafran Security, a cybersecurity startup founded by former cyber spy, raises $60M to fight AI threats",
-            "url": "https://techstartups.com/2025/12/02/zafran-security-a-cybersecurity-startup-founded-by-former-cyber-spy-raises-60m-to-fight-ai-threats/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/12/Zafran-Security-Founders.jpg",
-            "publishedAt": "2025-12-02T14:33:54Z"
-        },
-        {
-            "source": {
-                "id": "549a7a859b2345bbe231b00e7244ef99",
-                "name": "Engadget",
-                "url": "https://www.engadget.com",
-                "country": "us"
-            },
-            "title": "Apple will reportedly refuse to pre-install India's state-mandated security app",
-            "url": "https://www.engadget.com/big-tech/apple-will-reportedly-refuse-to-pre-install-indias-state-mandated-security-app-143050110.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zs9LFxHKNvzGMdezH3AdOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/b9a38080-756d-11ef-9fbd-6b990c391cf6",
-            "publishedAt": "2025-12-02T14:30:50Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "Will Your Next Phone Come With Govt's Cybersecurity App? Sanchar Saathi Saga Explained",
-            "url": "https://www.outlookbusiness.com/technology/will-your-next-phone-come-with-govts-cybersecurity-app-sanchar-saathi-saga-explained",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2025-12-02/abixzxid/ss-app-banner-en.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2025-12-02T14:24:55Z"
         }
     ]
 }
