@@ -1,6 +1,198 @@
 {
-    "lastUpdatedAt": "2025-12-04T01:16:33.662357Z",
+    "lastUpdatedAt": "2025-12-04T03:15:57.628390Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "The next chapter in breast cancer screening: What women need to know about MRI & AI",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/the-next-chapter-in-breast-cancer-screening-what-women-need-to-know-about-mri-ai/articleshow/125745924.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125745911,width-1070,height-580,imgsize-27366,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-12-03T15:00:00Z"
+        },
+        {
+            "source": {
+                "id": "602d1de710d66397a00201d8efdd36ee",
+                "name": "Inc. Magazine",
+                "url": "https://www.inc.com",
+                "country": "us"
+            },
+            "title": "Microsoft’s CEO Calls Emotional Intelligence the Key to Success in the AI Age",
+            "url": "https://www.inc.com/kit-eaton/microsofts-ceo-calls-emotional-intelligence-the-key-to-success-in-the-ai-age/91273119",
+            "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/12/satya-nadella-microsoft-inc-2219304780.jpg",
+            "publishedAt": "2025-12-03T14:57:48Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Nebius leverages Microsoft, Meta contracts for AI expansion",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
+            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
+            "publishedAt": "2025-12-03T14:57:47Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Microsoft lowers AI software sales quota as customers resist new products, The Information reports",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/03/microsoft-lowers-ai-software-sales-quota-as-customers-resist-new-products-the-information-reports",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/03/3653869.jpg",
+            "publishedAt": "2025-12-03T14:47:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "B visa sponsorship triggers buzz at IIT",
+            "url": "https://economictimes.indiatimes.com/nri/latest-updates/viral-post-on-h1-b-visa-sponsorship-triggers-buzz-at-iit-delhi-amid-placement-season/articleshow/125746039.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-58742,resizemode-75,msid-125746039/nri/latest-updates/viral-post-on-h1-b-visa-sponsorship-triggers-buzz-at-iit-delhi-amid-placement-season.jpg",
+            "publishedAt": "2025-12-03T14:43:41Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US stocks open lower as investors assess data, Microsoft falls",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-open-lower-as-investors-assess-data-microsoft-falls/articleshow/125745938.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125745970,width-1200,height-630,imgsize-209396,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2025-12-03T14:39:00Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "White House to laser in on robotics in '26; see top rated robotics ETFs",
+            "url": "https://seekingalpha.com/news/4528078-white-house-to-laser-in-on-robotics-in-26-see-top-rated-robotics-etfs",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2192265344/image_2192265344.jpg?io=getty-c-w630",
+            "publishedAt": "2025-12-03T14:37:06Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "Government withdraws mandatory pre-installation of Sanchar Saathi app",
+            "url": "https://www.thehindubusinessline.com/news/government-withdraws-mandatory-pre-installation-of-sanchar-saathi-app/article70353858.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/fuhogc/article70354224.ece/alternates/LANDSCAPE_1200/PTI07_30_2025_000070A.jpg",
+            "publishedAt": "2025-12-03T14:29:28Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Hedge funds double down using near-record leverage in quest to boost returns",
+            "url": "https://www.reuters.com/business/finance/hedge-funds-double-down-using-near-record-leverage-quest-boost-returns-2025-12-03/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/DBXUFTPRL5I4NOZRGICRYNHMAE.jpg?auth=db3759c227117f717374156612d6103c342ef31c8f9b8f879ba3868c3bdce9bc&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-12-03T14:26:27Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Microsoft lowers AI software sales quota as customers resist new products, The Information reports",
+            "url": "https://www.marketscreener.com/news/microsoft-lowers-ai-software-sales-quota-as-customers-resist-new-products-the-information-reports-ce7d51dedf88ff25",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-05/2025-05-13T143740Z_1_LYNXMPEL4C0QX_RTROPTP_4_TECH-CONFERENCE-MWC.JPG",
+            "publishedAt": "2025-12-03T14:22:09Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Centre pushing tech democratisation, says Union minister Ashwini Vaishnaw",
+            "url": "https://economictimes.indiatimes.com/tech/technology/centre-pushing-tech-democratisation-says-union-minister-ashwini-vaishnaw/articleshow/125745667.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-150344,resizemode-75,msid-125745667/tech/technology/centre-pushing-tech-democratisation-says-union-minister-ashwini-vaishnaw.jpg",
+            "publishedAt": "2025-12-03T14:21:35Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "DoT Revokes Mandatory Sanchar Saathi Preload on Phones Amid Privacy Backlash",
+            "url": "https://www.outlookbusiness.com/technology/dot-revokes-mandatory-sanchar-saathi-preload-on-phones-amid-privacy-backlash",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2025-12-03/2i65t0o1/parliament_11_20210319_402_602.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2025-12-03T13:42:43Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Cyber security initiative most effective without mandatory obligations: ICEA on Sanchar Saathi",
+            "url": "https://www.devdiscourse.com/article/technology/3718258-cyber-security-initiative-most-effective-without-mandatory-obligations-icea-on-sanchar-saathi",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=920&format=jpeg",
+            "publishedAt": "2025-12-03T13:41:15Z"
+        },
+        {
+            "source": {
+                "id": "8ed6c6b6dec4f35a4963354fb78b9754",
+                "name": "Al Jazeera",
+                "url": "https://www.aljazeera.com",
+                "country": "qa"
+            },
+            "title": "Why did India order smartphone makers to install a government app?",
+            "url": "https://www.aljazeera.com/news/2025/12/3/why-did-india-order-smartphone-makers-to-install-a-government-app",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/reuters_692ffc57-1764752471.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-12-03T13:36:17Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "Top Tech News Today, December 3, 2025",
+            "url": "https://techstartups.com/2025/12/03/top-tech-news-today-december-3-2025/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2023/01/amazonnn.jpg",
+            "publishedAt": "2025-12-03T13:28:26Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Acronis #TeamUp Program Brings Agilitec IT to Resorts World Las Vegas for First-of-Its-Kind Cybersecurity Partnership",
+            "url": "https://www.manilatimes.net/2025/12/03/tmt-newswire/globenewswire/acronis-teamup-program-brings-agilitec-it-to-resorts-world-las-vegas-for-first-of-its-kind-cybersecurity-partnership/2236191",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/03/852977.jpg",
+            "publishedAt": "2025-12-03T13:18:14Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -1392,6 +1584,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/12/03/3198867/0/en/HashStaking-Examines-AI-s-Rapid-Expansion-as-Crypto-Market-Rebounds-Above-3-Trillion.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/46e90499-8f49-4918-9710-bc2641745dfa",
             "publishedAt": "2025-12-03T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Why Binary Feedback May Be Enough to Train Better Media-Bias Classifiers",
+            "url": "https://hackernoon.com/why-binary-feedback-may-be-enough-to-train-better-media-bias-classifiers",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5o03bdm.png",
+            "publishedAt": "2025-12-03 14:30:07"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AWS Unveils Nvidia NVLink Integration in Trainium4 at re:Invent 2025",
+            "url": "https://www.webpronews.com/aws-unveils-nvidia-nvlink-integration-in-trainium4-at-reinvent-2025/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/12/article-3063-1764730698.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-12-03 13:20:15"
         },
         {
             "source": {
@@ -3330,222 +3540,6 @@
             "url": "https://www.walesonline.co.uk/news/uk-news/parents-turning-tendendo-help-childrens-32980029",
             "urlToImage": "https://i2-prod.walesonline.co.uk/article32980028.ece/ALTERNATES/s1200/1_Artificial-Intelligence-icons-internet-AI-app-application.jpg",
             "publishedAt": "2025-12-02T07:47:12Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "AI could widen global inequality without investment and safeguards, UN report says",
-            "url": "https://www.cnbctv18.com/world/ai-could-widen-global-inequality-without-investment-and-safeguards-un-report-says-19778497.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2025/12/ap25335613186197-2025-12-6d186baabcd18fa980cb288a9913528f.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2025-12-02T07:31:01Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Sanchar Saathi cybersecurity app is optional; users may delete if they want: Jyotiraditya Scindia",
-            "url": "https://indianexpress.com/article/india/sanchar-saathi-app-optional-users-may-delete-jyotiraditya-scindia-10397537/",
-            "urlToImage": "https://images.indianexpress.com/2025/12/Tech-feature-images98_20251202071824.jpg",
-            "publishedAt": "2025-12-02T07:27:03Z"
-        },
-        {
-            "source": {
-                "id": "bc002b453215c04fa081a97f2c6679b9",
-                "name": "The Hacker News",
-                "url": "https://thehackernews.com",
-                "country": "us"
-            },
-            "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild",
-            "url": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-2eGLpT-dW3-PbjBoWaQtkVc-dEwO5RtxY532IOybzHPHQWo4lkSaf6fkpNyD_hWyoWtlmgfweLMyDEkBGEyr160z2_8tTVHoo6hRKfUh4yywZ9yMKq5hWSKEIz7OzngxWGy57CIOdHRSn6hHtKqy2R6qAFfDPQ7rEnMUzU236-TbAhwqEjlApSBLLIz/s790-rw-e365/android-update.jpg",
-            "publishedAt": "2025-12-02T07:17:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Fearing AI job losses, some young workers in Britain shift towards skilled trades",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/02/fearing-ai-job-losses-some-young-workers-in-britain-shift-towards-skilled-trades",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/02/3651383.jpg",
-            "publishedAt": "2025-12-02T07:12:00Z"
-        },
-        {
-            "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
-                "country": "in"
-            },
-            "title": "‘AI has no soul’: Jenna Ortega, Bong Joon Ho, and Celine Song warn against tech’s creeping grip on cinema",
-            "url": "https://www.newindianexpress.com/entertainment/english/2025/Dec/02/ai-has-no-soul-jenna-ortega-bong-joon-ho-and-celine-song-warn-against-techs-creeping-grip-on-cinema",
-            "urlToImage": "https://media.newindianexpress.com/newindianexpress%2F2025-11-29%2Fzky7yrj3%2FANI_20251129054858.jpg?rect=0%2C72%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2025-12-02T07:08:31Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "ATPI Philippines to boost marine travel with AI investment",
-            "url": "https://manilastandard.net/business/314675503/atpi-philippines-to-boost-marine-travel-with-ai-investment.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/12/ATPI.png",
-            "publishedAt": "2025-12-02T07:06:42Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "Hey Subbu, Save Siri: Why Did Apple Hire Former Microsoft & Google Employee Amar Subramanya?",
-            "url": "https://www.timesnownews.com/business-economy/companies/hey-subbu-save-siri-why-did-apple-hire-former-microsoft-google-employee-amar-subramanya-article-153234143",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153234143,width-1280,height-720,resizemode-3/153234143.jpg",
-            "publishedAt": "2025-12-02T07:06:12Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Fearing AI job losses, some young workers in Britain shift towards skilled trades",
-            "url": "https://www.marketscreener.com/news/fearing-ai-job-losses-some-young-workers-in-britain-shift-towards-skilled-trades-ce7d51d8d18efe24",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-12/2025-12-02T070657Z_1_LYNXMPELB109G_RTROPTP_4_TECH-AI-BRITAIN-TRADES.JPG",
-            "publishedAt": "2025-12-02T07:04:04Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Fearing AI job losses, some young workers in Britain shift towards skilled trades",
-            "url": "https://www.reuters.com/business/world-at-work/fearing-ai-job-losses-some-young-workers-britain-shift-towards-skilled-trades-2025-12-02/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ZNVF36O5CFIBXL43P7IGJWJCKQ.jpg?auth=b5daaa7810201913e2e5a7870b936c6864ae644a79556f6a94bbd427ffeadb39&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-12-02T07:03:57Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Fearing AI job losses, some young workers in Britain shift towards skilled trades",
-            "url": "https://www.devdiscourse.com/article/education/3716412-fearing-ai-job-losses-some-young-workers-in-britain-shift-towards-skilled-trades",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_16_07_03_0698587.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-12-02T07:03:11Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Frankenstein made by humans for humans Guillermo del Toro slams AI at Gotham Awards",
-            "url": "https://www.indiatoday.in/movies/hollywood/story/frankenstein-made-by-humans-for-humans-guillermo-del-toro-slams-ai-at-gotham-awards-2829233-2025-12-02",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/guillermo-del-toro-025740501-16x9_0.jpg?VersionId=_IalZ8ZaZtphNhLtMy1.DqLBvL5_j3IT",
-            "publishedAt": "2025-12-02T06:58:23Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Modernise education with AI tools, says Sultan Nazrin",
-            "url": "https://www.thestar.com.my/news/nation/2025/12/02/modernise-education-with-ai-tools-says-sultan-nazrin",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/02/3651340.JPG",
-            "publishedAt": "2025-12-02T06:43:00Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "Concern as India orders phone manufacturers to preload government app",
-            "url": "https://www.channelnewsasia.com/asia/concern-india-orders-phone-manufacturers-preload-government-app-5522181",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--1StoAa_e--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-02T065325Z_3_LYNXMPELB1089_RTROPTP_3_APPLE-INDIA-ANTITRUST.JPG?itok=C1BgVxKS",
-            "publishedAt": "2025-12-02T06:43:00Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "Digitalisation, new financial products call for timely global tax info exchange: Sitharaman",
-            "url": "https://www.cnbctv18.com/economy/digitalisation-new-financial-products-call-for-timely-global-tax-info-exchange-sitharaman-ws-l-19778412.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2025/09/pti09-03-2025-000483b-2025-09-aaed1974b7eef916d0dba00de20e39e7.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2025-12-02T06:40:41Z"
-        },
-        {
-            "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
-                "country": "in"
-            },
-            "title": "Cybersecurity or snooping? What is the Sanchar Saathi app controversy and why Opposition is raising alarm",
-            "url": "https://www.indiatvnews.com/explainers/cybersecurity-or-snooping-what-is-the-sanchar-saathi-app-controversy-and-why-opposition-is-raising-alarm-2025-12-02-1019890",
-            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/12/sanchar-saathi-mobile-app-controversy-1764656812.jpg",
-            "publishedAt": "2025-12-02T06:35:20Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Digitalisation, new financial products call for timely global tax info exchange: Sitharaman",
-            "url": "https://www.dailyexcelsior.com/digitalisation-new-financial-products-call-for-timely-global-tax-info-exchange-sitharaman/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/12/Sita.jpg",
-            "publishedAt": "2025-12-02T06:30:05Z"
-        },
-        {
-            "source": {
-                "id": "6536182115f7e8188f38d864bab0e1c6",
-                "name": "DAWN.com",
-                "url": "https://www.dawn.com",
-                "country": "pk"
-            },
-            "title": "Apple AI chief leaving as iPhone maker plays catch-up",
-            "url": "https://www.dawn.com/news/1958738/apple-ai-chief-leaving-as-iphone-maker-plays-catch-up",
-            "urlToImage": "https://i.dawn.com/large/2025/12/02111857c147d8c.webp",
-            "publishedAt": "2025-12-02T06:29:26Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Dan Ives Sees 1 Trillion Future For Palantir Over 2 To 3 Years, Says Alex Karp-Led Company 'Playing A Different Game'",
-            "url": "https://www.benzinga.com/markets/tech/25/12/49153127/dan-ives-sees-1-trillion-future-for-palantir-over-2-to-3-years-says-alex-karp-led-company-playing-a-different-game",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/12/02/Denver--Colorado---June-18-2025-Polymark.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-12-02T06:25:08Z"
         }
     ]
 }
