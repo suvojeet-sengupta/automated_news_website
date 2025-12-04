@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-12-04T07:18:19.515174Z",
+    "lastUpdatedAt": "2025-12-04T08:23:45.586104Z",
     "articles": [
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "Clarington councillor charged with uttering threats",
+            "url": "https://www.cbc.ca/news/canada/toronto/corinna-traill-councillor-charged-9.7001797",
+            "urlToImage": "https://i.cbc.ca/ais/ee1b1863-60ae-469d-bc4b-06b8235dabbc,1764788987154/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3BResize%3D620",
+            "publishedAt": "2025-12-03T20:10:32Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "India revokes order to preload govt app after outcry",
+            "url": "https://www.perthnow.com.au/news/politics/india-revokes-order-to-preload-govt-app-after-outcry-c-20884947",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-20884947/5a34629f6b5bc704cf8a54669c180f7375f75eb8-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-12-03T20:03:25Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "India revokes order to preload govt app after outcry",
+            "url": "https://www.canberratimes.com.au/story/9126441/india-revokes-order-to-preload-govt-app-after-outcry/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/447a60ed-01ef-4351-9c65-8390a9fc2eec.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2025-12-03T20:02:45Z"
+        },
+        {
+            "source": {
+                "id": "391302f06b19835f4e0d9f8b4aa57091",
+                "name": "Breaking Defense",
+                "url": "https://breakingdefense.com",
+                "country": "us"
+            },
+            "title": "GDIT chief Gilliland bets her humans will master artificial intelligence",
+            "url": "https://breakingdefense.com/2025/12/gdit-chief-gilliland-bets-her-humans-will-master-artificial-intelligence/",
+            "urlToImage": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/06/Amy-Gilliland-scaled.jpg",
+            "publishedAt": "2025-12-03T20:01:00Z"
+        },
+        {
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            },
+            "title": "Artificial intelligence enters the real",
+            "url": "https://siliconangle.com/2025/12/03/real-time-ai-hits-new-performance-threshold-awsreinvent/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Scott-Stephenson-CEO-of-Deepgram-AWS-reInvent-2025.png",
+            "publishedAt": "2025-12-03T19:58:13Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Anthropic CEO Says Some Tech Firms Too Risky With AI Spending",
+            "url": "https://www.bloomberg.com/news/articles/2025-12-03/anthropic-ceo-says-some-tech-firms-too-risky-with-ai-spending",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijCe1p.k0Z2I/v1/1200x800.jpg",
+            "publishedAt": "2025-12-03T19:45:48Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "REUTERS NEXT-Notable quotes from finance and markets speakers at the Reuters NEXT conference",
+            "url": "https://www.devdiscourse.com/article/technology/3718721-reuters-next-notable-quotes-from-finance-and-markets-speakers-at-the-reuters-next-conference",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_56_2660097.png?width=920&format=jpeg",
+            "publishedAt": "2025-12-03T19:38:19Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -336,6 +420,18 @@
             "url": "https://wjla.com/news/nation-world/can-real-books-rescue-gen-alpha-from-a-tech-dominated-future-this-doctor-thinks-so-dr-zachary-marschall-reading-writing-learning-education-school-homeschooling-parents-teachers-students-artificial-intelligence-ai",
             "urlToImage": "https://wjla.com/resources/media2/16x9/3000/1320/0x134/90/35724bdd-eebf-44a9-a54e-777b9385992a-GettyImages98678002.jpg",
             "publishedAt": "2025-12-03T17:02:04Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Graduate salaries: 5 courses that will launch you into a $75,000+ early-career paycheck",
+            "url": "https://www.financialexpress.com/world-news/us-news/graduate-salaries-5-courses-that-will-launch-you-into-a-75000-early-career-paycheck/4064713/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/12/Copy-of-.-1.jpg?quality=100",
+            "publishedAt": "2025-12-03T16:59:24Z"
         },
         {
             "source": {
@@ -3441,102 +3537,6 @@
             "url": "https://www.newsmax.com/newsfront/ai-intelligence-technology-inequality/2025/12/02/id/1236685/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=3671b25e-3466-4f11-afb0-d1d3dae0dc0a&SiteName=Newsmax",
             "publishedAt": "2025-12-02T12:49:32Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Government mandates pre-installation",
-            "url": "https://www.cp24.com/news/world/2025/12/02/india-mandates-pre-installation-of-government-cyber-safety-app-on-all-smartphones/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/T4NDTLSGYIPDHN4TEGD45BBLPA.jpg?smart=true&auth=2143b90671b57c44834006944a13d6516750fafed295ff050738b58bae09cb70&width=1200&height=630",
-            "publishedAt": "2025-12-02T12:39:56Z"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie",
-                "country": "ie"
-            },
-            "title": "Tariffs, AI boom could test global growth's resilience",
-            "url": "https://www.rte.ie/news/business/2025/1202/1546886-tariffs-ai-boom-could-test-global-growths-resilience/",
-            "urlToImage": "https://www.rte.ie/images/00184e95-1600.jpg",
-            "publishedAt": "2025-12-02T12:39:03Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "VIT & The DataTech Labs Join Hands to Advance AI Research Across Key Sectors",
-            "url": "https://www.tribuneindia.com/news/business/vit-the-datatech-labs-join-hands-to-advance-ai-research-across-key-sectors/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVlNGMyNGUwLWNmN2ItMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
-            "publishedAt": "2025-12-02T12:35:55Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Scindia clarifies Sanchar Saathi is voluntary, privacy-safe tool for citizens’ digital safety",
-            "url": "https://www.devdiscourse.com/article/law-order/3716703-scindia-clarifies-sanchar-saathi-is-voluntary-privacy-safe-tool-for-citizens-digital-safety",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_11_2025_19_20_48_3114154.jfif?width=920&format=jpeg",
-            "publishedAt": "2025-12-02T12:17:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Mandatory Sanchar Saathi: Can the cybersecurity app become a surveillance tool?",
-            "url": "https://www.indiatoday.in/india-today-insight/story/mandatory-sanchar-saathi-can-the-cybersecurity-app-become-a-surveillance-tool-2829505-2025-12-02",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/mandatory-sanchar-saathi-can-the-cybersecurity-app-become-a-surveillance-tool-020915378-16x9_0.png?VersionId=cQlP3ty9F95lmEB3S2XxZsygH.iYmE2Z",
-            "publishedAt": "2025-12-02T12:11:42Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Economy And AI Push Make Shorting US Stocks Dangerous, 22V Says",
-            "url": "https://www.ndtvprofit.com/markets/economy-and-ai-push-make-shorting-us-stocks-dangerous-22v-says",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-02%2Fc0q75tsq%2F445297539.jpg?rect=0%2C230%2C2200%2C1155&w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-12-02T12:06:25Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "India pitches for coordinated action to deal with challenges in digitalisation, timely tax info exchange",
-            "url": "https://www.devdiscourse.com/article/technology/3716803-india-pitches-for-coordinated-action-to-deal-with-challenges-in-digitalisation-timely-tax-info-exchange",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_20_7172535.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-12-02T12:01:25Z"
-        },
-        {
-            "source": {
-                "id": "6f68e6d7cd20b33baacb487a0e911008",
-                "name": "Santa Rosa Press Democrat",
-                "url": "https://www.pressdemocrat.com",
-                "country": "us"
-            },
-            "title": "Napa hotel plans to use AI to customize Wine Country experiences",
-            "url": "https://www.pressdemocrat.com/2025/12/02/napa-valley-marriott-preferabli-ai-concierge-wine-spirits-pairing/",
-            "urlToImage": "https://www.pressdemocrat.com/wp-content/uploads/2025/12/NBJ-L-PREFERABLI-120825-01.jpg?w=1024&h=683",
-            "publishedAt": "2025-12-02T12:00:13Z"
         }
     ]
 }
