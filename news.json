@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-12-04T15:19:01.123933Z",
+    "lastUpdatedAt": "2025-12-04T16:22:30.749976Z",
     "articles": [
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Macquarie Telecom expands Fortinet partnership to launch unified secure networking solution",
+            "url": "https://itwire.com/it-industry-news/strategy/macquarie-telecom-expands-fortinet-partnership-to-launch-unified-secure-networking-solution-202512040327.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/7c2e656e207343d738d74ce664102da9_XS.jpg",
+            "publishedAt": "2025-12-04T03:21:12Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Google CEO Sundar Pichai on AI job impact: Why rapid worker adaptation is now essential to survive the tech shift",
+            "url": "https://www.financialexpress.com/life/technology-google-ceo-sundar-pichai-on-ai-job-impact-why-rapid-worker-adaptation-is-now-essential-to-survive-the-tech-shift-4065131/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/09/sundar-pichai-2.jpg?quality=100",
+            "publishedAt": "2025-12-04T03:20:58Z"
+        },
         {
             "source": {
                 "id": "7eeaf9a839918543cc708f2d331c3be4",
@@ -248,6 +272,15 @@
             "title": "2 Top AI Stocks to Buy in December",
             "url": "https://www.fool.com/investing/2025/12/04/2-top-ai-stocks-to-buy-in-december/",
             "urlToImage": "https://g.foolcdn.com/image/?op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844919%2Fgettyimages-1296463085.jpg&w=1200",
+            "publishedAt": "2025-12-04 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Meta's AI Ascent: A Strategic Pivot Reshapes the Tech Landscape",
+            "url": "https://www.financialcontent.com/article/marketminute-2025-12-4-metas-ai-ascent-a-strategic-pivot-reshapes-the-tech-landscape",
+            "urlToImage": "https://cdn.newsrpm.com/image/234825?maxWidth=1200",
             "publishedAt": "2025-12-04 00:00:00"
         },
         {
@@ -3480,42 +3513,6 @@
             "url": "https://www.reuters.com/business/media-telecom/anthropic-acquires-developer-tool-startup-bun-scale-ai-coding-2025-12-02/",
             "urlToImage": "https://www.reuters.com/resizer/v2/CCWRQCGNJZK3HJYI7LLNQLPF5Q.jpg?auth=c8e80be0019af6ad0b73be6a2d8e949b6e87568fdc9459c0f07dd370f4452e60&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-12-02T19:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "Fashion House Valentino criticised over ‘disturbing’ AI handbag ads",
-            "url": "https://www.nation.com.pk/03-Dec-2025/fashion-house-valentino-criticised-disturbing-ai-handbag-ads",
-            "urlToImage": "https://www.nation.com.pk/print_images/large/2025-12-03/fashion-house-valentino-criticised-disturbing-ai-handbag-ads-1764723350-8402.jpg",
-            "publishedAt": "2025-12-02T19:00:00Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "AI-assisted ultrasounds greatly improve detection of congenital heart defects",
-            "url": "https://www.news-medical.net/news/20251202/AI-assisted-ultrasounds-greatly-improve-detection-of-congenital-heart-defects.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg",
-            "publishedAt": "2025-12-02T18:59:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Anthropic acquires developer tool startup Bun to scale AI coding",
-            "url": "https://www.marketscreener.com/news/anthropic-acquires-developer-tool-startup-bun-to-scale-ai-coding-ce7d51d9de8af424",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-30T200202Z_1_LYNXNPEL4T10W_RTROPTP_4_ANTHROPIC-AI.JPG",
-            "publishedAt": "2025-12-02T18:58:17Z"
         }
     ]
 }
