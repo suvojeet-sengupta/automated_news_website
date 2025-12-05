@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-12-05T12:34:25.780812Z",
+    "lastUpdatedAt": "2025-12-05T13:29:27.459080Z",
     "articles": [
+        {
+            "source": {
+                "id": "3fac65098bad206a4847f7fdbac9f170",
+                "name": "New York Daily News",
+                "url": "https://www.nydailynews.com",
+                "country": "us"
+            },
+            "title": "Fake rape victim admits to AI hoax prompted by TikTok challenge",
+            "url": "https://www.nydailynews.com/2025/12/04/florida-rape-hoax-ai-homeless-man-tiktok-challenge/",
+            "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2025/12/5rdgheh.jpg?w=1024&h=633",
+            "publishedAt": "2025-12-05T01:06:08Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -60,6 +72,15 @@
             "url": "https://www.morningstar.com/company-reports/1369731-sentinelone-remains-a-strong-competitor-in-cybersecurity",
             "urlToImage": "https://www.morningstar.com/company-reports/:/[object Object]",
             "publishedAt": "2025-12-05T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "It's Time to Save Silicon Valley From Itself",
+            "url": "https://www.wired.com/story/big-interview-event-techdirt-mike-masnick-common-tools-alex-komoroske/",
+            "urlToImage": "https://media.wired.com/photos/693229638e64c4cf6b012ad9/master/w_120,c_limit/Save-Silicon-Valley-from-Itself-Big-Interview-2025-1.jpg",
+            "publishedAt": "2025-12-05 00:42:40"
         },
         {
             "source": {
@@ -3459,30 +3480,6 @@
             "url": "https://www.financialexpress.com/business/industry-crowdstrike-deepens-india-presence-with-tech-tie-ups-4064756/",
             "urlToImage": "https://images.financialexpressdigital.com/2025/12/Copy-of-Gallery-2025-12-03T222130.798.jpg?quality=100",
             "publishedAt": "2025-12-03T16:56:09Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Steve Bannon, Top Conservatives Demand Trump Crackdown On Big Tech's 'Un-American And Absurd' AI Copyright Tactics",
-            "url": "https://www.benzinga.com/markets/tech/25/12/49189378/steve-bannon-top-conservatives-demand-trump-crackdown-on-big-techs-un-american-and-absurd-ai-copyright-tactics",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/12/03/Steve-Bannon-Speaks-On-The-2nd-Day-Of-Cp.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-12-03T16:55:09Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Comedians tap AI to punch up performances",
-            "url": "https://www.latimes.com/business/story/2025-12-03/comedians-tap-ai-to-punch-up-performances",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/9ef0b22/2147483647/strip/true/crop/5270x2767+0+374/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc4%2Fa9%2F36e6d1044196a7ee4a60a3797715%2F89d2b58e7d04488e9aa27cf3570069b0.jpg",
-            "publishedAt": "2025-12-03T16:53:29Z"
         }
     ]
 }
