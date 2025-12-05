@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-12-05T11:15:56.898700Z",
+    "lastUpdatedAt": "2025-12-05T12:34:25.780812Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI 'bust' will be followed by huge bounce back: NTT CEO Abhijit Dubey",
+            "url": "https://economictimes.indiatimes.com/tech/technology/ai-bust-will-be-followed-by-huge-bounce-back-ntt-ceo-abhijit-dubey/articleshow/125774282.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-151694,resizemode-75,msid-125774282/tech/technology/ai-bust-will-be-followed-by-huge-bounce-back-ntt-ceo-abhijit-dubey.jpg",
+            "publishedAt": "2025-12-05T00:30:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "UPDATE 1-US senators unveil bill to prevent easing of curbs on Nvidia chip sales to China",
+            "url": "https://www.devdiscourse.com/article/law-order/3720127-update-1-us-senators-unveil-bill-to-prevent-easing-of-curbs-on-nvidia-chip-sales-to-china",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_04_32_3060217.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-12-05T00:28:22Z"
+        },
+        {
+            "source": {
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
+                "country": "us"
+            },
+            "title": "Sam Altman eyes rocket company to take on Elon Musk in space race",
+            "url": "https://www.foxbusiness.com/fox-news-air-space/sam-altman-eyes-rocket-company-take-elon-musk-space-race",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/0/0/musk_altman-split.jpg?ve=1&tl=1",
+            "publishedAt": "2025-12-05T00:23:10Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI's rise stirs excitement, sparks job worries",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/05/ai039s-rise-stirs-excitement-sparks-job-worries-",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/05/3656126.jpg",
+            "publishedAt": "2025-12-05T00:02:00Z"
+        },
+        {
+            "source": {
+                "id": "d889fcdc98f3dab0a934bbe252002562",
+                "name": "Morningstar",
+                "url": "https://www.morningstar.com",
+                "country": "us"
+            },
+            "title": "SentinelOne Remains a Strong Competitor in Cybersecurity",
+            "url": "https://www.morningstar.com/company-reports/1369731-sentinelone-remains-a-strong-competitor-in-cybersecurity",
+            "urlToImage": "https://www.morningstar.com/company-reports/:/[object Object]",
+            "publishedAt": "2025-12-05T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "LG visits RVS iGlobal Corporate Office, highlights Jammu’s rise as emerging IT hub",
+            "url": "https://www.dailyexcelsior.com/lg-visits-rvs-iglobal-corporate-office-highlights-jammus-rise-as-emerging-it-hub/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/12/page7-3-1.jpg",
+            "publishedAt": "2025-12-04T23:30:40Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "Top Startup and Tech Funding News - December 4, 2025",
+            "url": "https://techstartups.com/2025/12/04/top-startup-and-tech-funding-news-december-4-2025/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/12/imperi-AI.jpg",
+            "publishedAt": "2025-12-04T23:19:37Z"
+        },
         {
             "source": {
                 "id": "21468bec836de1ebb209ff6f78fbfe3e",
@@ -2277,6 +2361,15 @@
         },
         {
             "source": {
+                "name": "newsminer"
+            },
+            "title": "Zilliz Selects AWS as its Strategic Cloud Provider to Power Global Vector Database Solutions",
+            "url": "https://www.newsminer.com/online_features/press_releases/zilliz-selects-aws-as-its-strategic-cloud-provider-to-power-global-vector-database-solutions/article_e86f68dc-f4b8-579f-87fe-146ec086031c.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/2/a5/2a5280c3-78f3-5ffd-881c-5dd162b429e9/68f8b3d6b5a37.image.jpg?resize=300%2C53",
+            "publishedAt": "2025-12-04 20:04:00"
+        },
+        {
+            "source": {
                 "name": "economictimes_indiatimes"
             },
             "title": "Anthropic CEO Dario Amodei acknowledges risks of huge spending on AI",
@@ -3390,102 +3483,6 @@
             "url": "https://www.latimes.com/business/story/2025-12-03/comedians-tap-ai-to-punch-up-performances",
             "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/9ef0b22/2147483647/strip/true/crop/5270x2767+0+374/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc4%2Fa9%2F36e6d1044196a7ee4a60a3797715%2F89d2b58e7d04488e9aa27cf3570069b0.jpg",
             "publishedAt": "2025-12-03T16:53:29Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Reuters Next - Blackstone CTO stays thinking about cybersecurity platforms to buy or leverage keeps him \"up at night\"",
-            "url": "https://www.marketscreener.com/news/reuters-next-blackstone-cto-stays-thinking-about-cybersecurity-platforms-to-buy-or-leverage-keeps-ce7d51dede8cf624",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-12-03T16:51:18Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Cognizant and Merchants Fleet Set New Standard for Fleet Management Efficiency",
-            "url": "https://www.marketscreener.com/news/cognizant-and-merchants-fleet-set-new-standard-for-fleet-management-efficiency-ce7d51dede8dfe2d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-12-03T16:50:30Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "CrowdStrike reports solid ARR growth and boosts full-year outlook",
-            "url": "https://www.bnnbloomberg.ca/investing/investor-outlook/2025/12/03/investor-outlook-crowdstrike-revenue-climbs-on-expanding-cybersecurity-demand/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/KBORIVXERIDXYYY5MC7W5K7PDE.jpg?smart=true&auth=96097db69d18fdd807c5ebdac34d9766569722e925cad0aed54793c82fac1290&width=1200&height=630",
-            "publishedAt": "2025-12-03T16:40:17Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "AI frenzy is causing a worldwide supply chain crisis, prices soar",
-            "url": "https://nypost.com/2025/12/03/tech/ai-frenzy-is-causing-a-worldwide-supply-chain-crisis-prices-soar/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116647607.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2025-12-03T16:37:34Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "GoDaddy Well-Equipped to Address Needs of Businesses Through AI, RBC Says",
-            "url": "https://www.marketscreener.com/news/godaddy-well-equipped-to-address-needs-of-businesses-through-ai-rbc-says-ce7d51dede8aff27",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-12-03T16:36:21Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Microsoft Shares Slide on Report of Lower AI Demand",
-            "url": "https://www.marketscreener.com/news/microsoft-shares-slide-on-report-of-lower-ai-demand-ce7d51dede8bf227",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3516854.png",
-            "publishedAt": "2025-12-03T16:17:50Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "AI financial advice has risks, top-ranked advisor says",
-            "url": "https://www.cnbc.com/2025/12/03/ai-financial-advice-risks.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106830937-1611768428083-gettyimages-1208371262-morsais-balcouple0816.jpeg?v=1764616933&w=1920&h=1080",
-            "publishedAt": "2025-12-03T16:07:32Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Microsoft Shares Slide On Report Of Lower Demand For AI Software",
-            "url": "https://www.ndtvprofit.com/markets/microsoft-shares-slide-on-report-of-lower-demand-for-ai-software",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-03%2F6ewlb9p3%2F445385213.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-12-03T16:06:08Z"
         }
     ]
 }
