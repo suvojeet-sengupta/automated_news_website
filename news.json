@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-12-05T16:21:08.628874Z",
+    "lastUpdatedAt": "2025-12-05T17:15:30.600943Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "AI guru warns AI could kill 80 per cent of jobs soon, replacing surgeons, coders and even CEOs",
+            "url": "https://www.indiatoday.in/technology/news/story/ai-guru-warns-ai-could-kill-80-per-cent-of-jobs-soon-replacing-surgeons-coders-and-even-ceos-2831093-2025-12-05",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/stuart-russell-on-the-diary-of-a-ceo-podcast-050043815-16x9_0.png?VersionId=SRNgrylHKlni24BqguiveofPqSdCG7oO",
+            "publishedAt": "2025-12-05T05:01:08Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Anthropic Chief Scientist Jared Kaplan warns AI could replace most white-collar jobs within 3 years: Here’s why",
+            "url": "https://www.financialexpress.com/life/technology-anthropic-chief-scientist-jared-kaplan-warns-ai-could-replace-most-white-collar-jobs-within-3-years-heres-why-4066504/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/12/Untitled-design-2025-12-05T095828.152.jpg?quality=100",
+            "publishedAt": "2025-12-05T04:46:52Z"
+        },
         {
             "source": {
                 "id": "c73686fdf0e30639d57eddaf7a77236e",
@@ -180,6 +204,15 @@
             "url": "https://www.morningstar.com/company-reports/1369731-sentinelone-remains-a-strong-competitor-in-cybersecurity",
             "urlToImage": "https://www.morningstar.com/company-reports/:/[object Object]",
             "publishedAt": "2025-12-05T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "mit"
+            },
+            "title": "Robots that spare warehouse workers the heavy lifting",
+            "url": "https://news.mit.edu/2025/robots-spare-warehouse-workers-heavy-lifting-1205",
+            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-Pickle-Robot-01-press.jpg?itok=GDuDSRPk",
+            "publishedAt": "2025-12-05 05:00:00"
         },
         {
             "source": {
@@ -3438,42 +3471,6 @@
             "url": "https://www.bloomberg.com/news/articles/2025-12-03/nvidia-scores-lobbying-win-as-congress-rejects-chip-export-bill",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuVcfQwtzjbs/v1/1200x800.jpg",
             "publishedAt": "2025-12-03T17:50:39Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Micron to Wind Down Crucial Brand to Focus on AI, Data-Center Market",
-            "url": "https://www.marketscreener.com/news/micron-to-wind-down-crucial-brand-to-focus-on-ai-data-center-market-ce7d51dede81ff21",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-12-03T17:47:20Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Practical Ways Businesses Can Protect Their Online Operations in 2026",
-            "url": "https://techbullion.com/practical-ways-businesses-can-protect-their-online-operations-in-2026/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/tp.jpg",
-            "publishedAt": "2025-12-03T17:36:20Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Nvidia servers speed up AI models from China's Moonshoot AI and others tenfold",
-            "url": "https://www.reuters.com/world/china/nvidia-servers-speed-up-ai-models-chinas-moonshoot-ai-others-tenfold-2025-12-03/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/GGE5ILN4FRPZHMMZ27MFAYJDGM.jpg?auth=7b2405ecd06f8278d7a0cbe09a30b8abf441451bb0389065f0daa29aec83f7e3&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-12-03T17:33:45Z"
         }
     ]
 }
