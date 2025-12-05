@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-12-05T17:15:30.600943Z",
+    "lastUpdatedAt": "2025-12-05T18:21:47.512343Z",
     "articles": [
+        {
+            "source": {
+                "id": "109f2b4a20da4fe1c2fd502b03c07243",
+                "name": "BBC News",
+                "url": "https://www.bbc.com",
+                "country": "gb"
+            },
+            "title": "England World Cup draw: Could AI help Thomas Tuchel win 2026 tournament?",
+            "url": "https://www.bbc.com/sport/football/articles/cj0e7y754zpo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7acb/live/712184c0-ca4d-11f0-8c06-f5d460985095.jpg",
+            "publishedAt": "2025-12-05T06:17:48Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "India's longevity and wellness sector gathers momentum with new founder",
+            "url": "https://www.cnbctv18.com/business/biopeak-india-longevity-and-wellness-sector-gathers-momentum-with-new-founder-led-bets-19769789.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2025/12/biopeak-2025-12-d15d69d47b82700a3d8dde54822bc987.jpg?im=FitAndFill,width=500,height=300",
+            "publishedAt": "2025-12-05T06:14:25Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "U.S. senators unveil bill to prevent easing of curbs on Nvidia chip sales to China",
+            "url": "https://www.thehindu.com/sci-tech/technology/us-senators-unveil-bill-to-prevent-easing-of-curbs-on-nvidia-chip-sales-to-china/article70360306.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/4xf6e3/article70360313.ece/alternates/LANDSCAPE_1200/2025-12-03T193019Z_1273628631_RC2SZHATE9Z2_RTRMADP_3_NVIDIA-HUANG.JPG",
+            "publishedAt": "2025-12-05T05:58:27Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Young shoppers fuel growth as brands turn to AI amid tariff pressures",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/young-shoppers-fuel-growth-as-brands-turn-to-ai-amid-tariff-pressures/articleshow/125781830.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125781848,width-1200,height-630,imgsize-236446,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2025-12-05T05:44:00Z"
+        },
+        {
+            "source": {
+                "id": "ead461b236347a41a0e3561761126583",
+                "name": "Independent.ie",
+                "url": "https://www.independent.ie",
+                "country": "ie"
+            },
+            "title": "EU regulators probe Meta move to block AI rivals from WhatsApp",
+            "url": "https://www.independent.ie/business/world/eu-regulators-probe-meta-move-to-block-ai-rivals-from-whatsapp/a94821215.html",
+            "urlToImage": "https://focus.independent.ie/thumbor/G79XaiDQMX-YpwCnUIVFb3yt3xw=/629x460/smart/prod-mh-ireland/3038835c-b858-4d1b-b714-372462db20dc/e61d5e2e-a4d5-4568-afe3-ba3e6a02fb4c/IB%20Teresa%20Ribera.jpg",
+            "publishedAt": "2025-12-05T05:30:00Z"
+        },
         {
             "source": {
                 "id": "c73686fdf0e30639d57eddaf7a77236e",
@@ -204,6 +264,24 @@
             "url": "https://www.morningstar.com/company-reports/1369731-sentinelone-remains-a-strong-competitor-in-cybersecurity",
             "urlToImage": "https://www.morningstar.com/company-reports/:/[object Object]",
             "publishedAt": "2025-12-05T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The AI-Energy Nexus: How Energy Availability Will Define AI Competitive Advantage",
+            "url": "https://hackernoon.com/the-ai-energy-nexus-how-energy-availability-will-define-ai-competitive-advantage",
+            "urlToImage": "https://hackernoon.imgix.net/images/6crfCRY6zKVAgXzQTHAaOukiifq2-fl03hk4.png",
+            "publishedAt": "2025-12-05 06:20:11"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Eau de AI: Amazon gives techies a whiff of software-driven perfume",
+            "url": "https://www.thehindu.com/sci-tech/technology/eau-de-ai-amazon-gives-techies-a-whiff-of-software-driven-perfume/article70360595.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/dpc9tq/article70360641.ece/alternates/LANDSCAPE_1200/2025-12-04T002036Z_198739905_RC2AHBA1MDBS_RTRMADP_3_TECH-AI-AMAZON-PERFUME.JPG",
+            "publishedAt": "2025-12-05 05:35:12"
         },
         {
             "source": {
@@ -3387,90 +3465,6 @@
             "url": "https://seekingalpha.com/article/4849862-wall-street-lunch-trump-administration-weighs-boosting-us-robotics-to-compete-with-china",
             "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2248198604/image_2248198604.jpg?io=getty-c-w1536",
             "publishedAt": "2025-12-03T18:38:13Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "AI porn charges laid against Calgary teen",
-            "url": "https://www.cp24.com/news/canada/2025/12/03/calgary-teen-charged-after-allegedly-creating-ai-generated-sexual-content/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/XW4YTIRXB5HJPH3CXI62T4BX6I.png?smart=true&auth=85612e8a7af7c61b5ae69ff67340eb5a9fc9010ce3addd4eb93a4503b4c12644&width=1200&height=630",
-            "publishedAt": "2025-12-03T18:27:40Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Microsoft slips on report of lower demand for some AI tools",
-            "url": "https://www.mercurynews.com/2025/12/03/microsoft-slips-on-report-of-lower-demand-for-some-ai-tools/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2024/07/Worldwide_Internet_Outage_52208.jpg?w=1024&h=682",
-            "publishedAt": "2025-12-03T18:06:51Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "OpenAI’s Foundation To Donate $40.5 Million In Grants to US Nonprofits",
-            "url": "https://www.ndtvprofit.com/business/openais-foundation-to-donate-405-million-in-grants-to-us-nonprofits",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-03%2F96aa7fy6%2F445390649.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-12-03T17:55:21Z"
-        },
-        {
-            "source": {
-                "id": "f1bf32bc7d2c9750240a24442fde5232",
-                "name": "Calgary Herald",
-                "url": "https://calgaryherald.com",
-                "country": "ca"
-            },
-            "title": "Teen charged with making AI sex abuse materials of high school girls",
-            "url": "https://calgaryherald.com/news/crime/teen-makes-ai-abuse-material-of-calgary-high-school-girls",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2025/10/es_alert-1.jpg",
-            "publishedAt": "2025-12-03T17:52:58Z"
-        },
-        {
-            "source": {
-                "id": "f1bf32bc7d2c9750240a24442fde5232",
-                "name": "Calgary Herald",
-                "url": "https://calgaryherald.com",
-                "country": "ca"
-            },
-            "title": "Teen charged with making AI sex abuse materials of high school girls",
-            "url": "https://calgaryherald.com/news/crime/teen-makes-ai-abuse-material-of-calar",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2025/10/es_alert-1.jpg",
-            "publishedAt": "2025-12-03T17:52:58Z"
-        },
-        {
-            "source": {
-                "id": "f1bf32bc7d2c9750240a24442fde5232",
-                "name": "Calgary Herald",
-                "url": "https://calgaryherald.com",
-                "country": "ca"
-            },
-            "title": "Teen charged with making AI sex abuse materials of high school girls",
-            "url": "https://calgaryherald.com/news/teen-makes-ai-abuse-material-of-calgary-high-school-girls",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2025/12/ai-sex-exploitation-staff-sgt.-mark-auger.jpg",
-            "publishedAt": "2025-12-03T17:52:58Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Nvidia Scores Lobbying Win as Congress Rejects Chip Export Bill",
-            "url": "https://www.bloomberg.com/news/articles/2025-12-03/nvidia-scores-lobbying-win-as-congress-rejects-chip-export-bill",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuVcfQwtzjbs/v1/1200x800.jpg",
-            "publishedAt": "2025-12-03T17:50:39Z"
         }
     ]
 }
