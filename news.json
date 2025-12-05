@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2025-12-05T06:26:31.086075Z",
+    "lastUpdatedAt": "2025-12-05T07:17:55.871880Z",
     "articles": [
+        {
+            "source": {
+                "id": "494f687bd1dfaa9f7b4a705c860671d0",
+                "name": "Hartford Courant",
+                "url": "https://www.courant.com",
+                "country": "us"
+            },
+            "title": "Can AI be funny? Some comedians embrace AI tools but run own shows",
+            "url": "https://www.courant.com/2025/12/04/comedians-artificial-intelligence/",
+            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/12/AI_Comedy_27141-1.jpg?w=1024&h=682",
+            "publishedAt": "2025-12-04T19:13:28Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Lawyers to face regulators after AI was used to prepare legal document",
+            "url": "https://www.abc.net.au/news/2025-12-05/artificial-intelligence-used-to-prepare-legal-document/106086724",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/c9f80511753143689153e11e357b260e?impolicy=wcms_watermark_news&cropH=3942&cropW=7008&xPos=0&yPos=365&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-12-04T19:06:53Z"
+        },
+        {
+            "source": {
+                "id": "962276c759d367f4a07ff10d6ae9dc40",
+                "name": "Naples Daily News",
+                "url": "https://www.naplesnews.com",
+                "country": "us"
+            },
+            "title": "DeSantis calls for strict oversight of AI in Florida",
+            "url": "https://www.naplesnews.com/story/news/local/state/2025/12/04/desantis-ai-proposal-florida/87603402007/",
+            "urlToImage": "https://www.naplesnews.com/gcdn/authoring/authoring-images/2025/10/09/PTAL/86605050007-speaker-of-the-house-ceremony-769.JPG?crop=5999,3375,x0,y312&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2025-12-04T19:03:18Z"
+        },
+        {
+            "source": {
+                "id": "2f8537c09d2342edda5b9b6bd4c02b75",
+                "name": "TCPalm",
+                "url": "https://www.tcpalm.com",
+                "country": "us"
+            },
+            "title": "DeSantis calls for strict oversight of AI in Florida",
+            "url": "https://www.tcpalm.com/story/news/local/state/2025/12/04/desantis-ai-proposal-florida/87603402007/",
+            "urlToImage": "https://www.tcpalm.com/gcdn/authoring/authoring-images/2025/10/09/PTAL/86605050007-speaker-of-the-house-ceremony-769.JPG?crop=5999,3375,x0,y312&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2025-12-04T19:03:18Z"
+        },
+        {
+            "source": {
+                "id": "4a8966ab09903fecadfd9645c3ce0951",
+                "name": "Herald-Tribune",
+                "url": "https://www.heraldtribune.com",
+                "country": "us"
+            },
+            "title": "DeSantis calls for strict oversight of AI in Florida",
+            "url": "https://www.heraldtribune.com/story/news/local/state/2025/12/04/desantis-ai-proposal-florida/87603402007/",
+            "urlToImage": "https://www.heraldtribune.com/gcdn/authoring/authoring-images/2025/10/09/PTAL/86605050007-speaker-of-the-house-ceremony-769.JPG?crop=5999,3375,x0,y312&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2025-12-04T19:03:18Z"
+        },
+        {
+            "source": {
+                "id": "2c9e28a1c622c0b9acedb9bf0ffa9c7c",
+                "name": "Gainesville Sun",
+                "url": "https://www.gainesville.com",
+                "country": "us"
+            },
+            "title": "DeSantis calls for strict oversight of AI in Florida",
+            "url": "https://www.gainesville.com/story/news/local/state/2025/12/04/desantis-ai-proposal-florida/87603402007/",
+            "urlToImage": "https://www.gainesville.com/gcdn/authoring/authoring-images/2025/10/09/PTAL/86605050007-speaker-of-the-house-ceremony-769.JPG?crop=5999,3375,x0,y312&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2025-12-04T19:03:18Z"
+        },
+        {
+            "source": {
+                "id": "70ea7ca43d9c7a76ddf570720d3e35c6",
+                "name": "News-Press",
+                "url": "https://eu.news-press.com",
+                "country": "us"
+            },
+            "title": "DeSantis calls for strict oversight of AI in Florida",
+            "url": "https://eu.news-press.com/story/news/local/state/2025/12/04/desantis-ai-proposal-florida/87603402007/",
+            "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2025/10/09/PTAL/86605050007-speaker-of-the-house-ceremony-769.JPG?auto=webp&crop=5999,3375,x0,y312&format=pjpg&width=1200",
+            "publishedAt": "2025-12-04T19:03:18Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Authors’ lawyers in $1.5 billion Anthropic settlement seek $300 million",
+            "url": "https://www.reuters.com/legal/litigation/authors-lawyers-15-billion-anthropic-settlement-seek-300-million-2025-12-04/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-12-04T18:54:29Z"
+        },
+        {
+            "source": {
+                "id": "736870a2b1a320473f05d8f8015bf089",
+                "name": "Mash Viral",
+                "url": "https://mashviral.com",
+                "country": "us"
+            },
+            "title": "Copper Mining Surges to Fuel AI Revolution",
+            "url": "https://mashviral.com/copper-mining-surges-to-fuel-ai-revolution/",
+            "urlToImage": "https://mashviral.com/wp-content/uploads/2025/12/igor-omilaev-hibWw5mk1UY-unsplash-scaled.jpg",
+            "publishedAt": "2025-12-04T18:50:27Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Cristiano Ronaldo invests in Perplexity AI",
+            "url": "https://www.thenews.com.pk/latest/1383688-cristiano-ronaldo-invests-in-perplexity-ai",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-12-04/1383688_105108_updates.jpg",
+            "publishedAt": "2025-12-04T18:42:00Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -3384,126 +3504,6 @@
             "url": "https://www.ndtvprofit.com/technology/artificial-intelligence-ai-hyundai-four-wheeled-platform-robot-will-go-on-sale-next-year",
             "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-03%2Fbidwnf7d%2F445363008.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
             "publishedAt": "2025-12-03T12:29:42Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "AI companies’ safety practices fail to meet standards",
-            "url": "https://www.cp24.com/news/money/2025/12/03/ai-companies-safety-practices-fail-to-meet-global-standards-study-shows/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/KWYXACMODX4GGTRJV7252CBDY4.jpg?smart=true&auth=2b691f00e54f6b7b5fcc9d13632fcc0513f5b6d5de4cc50de623466fea6c4b79&width=1200&height=630",
-            "publishedAt": "2025-12-03T12:23:34Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "AI companies’ safety practices fail to meet standards",
-            "url": "https://www.bnnbloomberg.ca/business/2025/12/03/ai-companies-safety-practices-fail-to-meet-global-standards-study-shows/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/KWYXACMODX4GGTRJV7252CBDY4.jpg?smart=true&auth=2b691f00e54f6b7b5fcc9d13632fcc0513f5b6d5de4cc50de623466fea6c4b79&width=1200&height=630",
-            "publishedAt": "2025-12-03T12:23:34Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "Rashmika Mandanna Raises Alarm Against Use Of AI To 'Create Vulgarity, Target Women': Strict, Unforgiving Punishment...",
-            "url": "https://www.timesnownews.com/entertainment-news/telugu/rashmika-mandanna-raises-alarm-against-use-of-ai-to-create-vulgarity-target-women-strict-unforgiving-punishment-article-153241017",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153241017,width-1280,height-720,resizemode-3/153241017.jpg",
-            "publishedAt": "2025-12-03T12:17:09Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "India revokes order to preload cybersecurity app on smartphones after outcry",
-            "url": "https://indianexpress.com/shorts/technology/india-revokes-order-to-preload-cybersecurity-app-on-smartphones-after-outcry-10400307/",
-            "urlToImage": "https://images.indianexpress.com/2025/12/Sanchar-Saathi-app.png",
-            "publishedAt": "2025-12-03T12:12:41Z"
-        },
-        {
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
-            },
-            "title": "After intense backlash, India pulls mandate to pre-install government app on smartphones",
-            "url": "https://techcrunch.com/2025/12/03/after-intense-backlash-india-pulls-mandate-to-pre-install-government-app-on-smartphones/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/12/sanchar-sathi-app.jpg?resize=1200,800",
-            "publishedAt": "2025-12-03T12:11:44Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Scaling Your Tech Startup With Offshore AI Talent: KineticStaff Insights",
-            "url": "https://techbullion.com/scaling-your-tech-startup-with-offshore-ai-talent-kineticstaff-insights/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/KineticStaff-Insights-1000x504.png",
-            "publishedAt": "2025-12-03T12:04:45Z"
-        },
-        {
-            "source": {
-                "id": "1d8030dfae0e614f9c9b475b8c5d08e3",
-                "name": "The Arizona Republic",
-                "url": "https://www.azcentral.com",
-                "country": "us"
-            },
-            "title": "Arizona State University, Michael Crow are investing in AI",
-            "url": "https://www.azcentral.com/story/news/local/arizona-education/2025/12/03/arizona-state-university-investing-in-ai/87574164007/",
-            "urlToImage": "https://www.azcentral.com/gcdn/authoring/authoring-images/2025/02/14/PPHX/78651997007-202502131212124420-asu-board-regents-edited.jpg?crop=2999,1687,x0,y156&width=2999&height=1687&format=pjpg&auto=webp",
-            "publishedAt": "2025-12-03T12:03:48Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "AI companies’ safety practices fail to meet global standards, study shows",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/ai-companies-safety-practices-fail-to-meet-global-standards-study-shows-10400249/",
-            "urlToImage": "https://images.indianexpress.com/2025/12/IE-2025-12-03T172236.305.jpg",
-            "publishedAt": "2025-12-03T11:58:24Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI companies' safety practices fail to meet global standards, study shows",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/03/ai-companies039-safety-practices-fail-to-meet-global-standards-study-shows",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/03/3653590.jpg",
-            "publishedAt": "2025-12-03T11:55:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Adani Electricity champions customer interests with machine learning tech for fair power",
-            "url": "https://www.lokmattimes.com/technology/adani-electricity-champions-customer-interests-with-machine-learning-tech-for-fair-power-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202512033595453_202512.jpg",
-            "publishedAt": "2025-12-03T11:51:36Z"
         }
     ]
 }
