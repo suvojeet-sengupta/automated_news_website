@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-12-05T05:16:22.268219Z",
+    "lastUpdatedAt": "2025-12-05T06:26:31.086075Z",
     "articles": [
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "The Rise of AI Reasoning Models Comes With a Big Energy Tradeoff",
+            "url": "https://www.livemint.com/technology/tech-news/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff-11764872756438.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
+            "publishedAt": "2025-12-04T18:25:56Z"
+        },
+        {
+            "source": {
+                "id": "143b993b193f72147f3de29ebcfbf505",
+                "name": "India TV News",
+                "url": "https://www.indiatvnews.com",
+                "country": "in"
+            },
+            "title": "Google Gemini beats ChatGPT in India's AI search chart, along with Grok and Perplexity",
+            "url": "https://www.indiatvnews.com/technology/news/google-gemini-beats-chatgpt-in-indias-ai-search-chart-along-with-grok-and-perplexity-2025-12-04-1020331",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/12/gemini-1764871074.jpg",
+            "publishedAt": "2025-12-04T18:19:06Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "AI will make a list but shoppers should check it twice",
+            "url": "https://www.perthnow.com.au/news/technology/ai-will-make-a-list-but-shoppers-should-check-it-twice-c-20895174",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-20895174/ba4ccbd92b4c5b2569bb4290522869a39e6499f4-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-12-04T18:02:35Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "The Rise of AI Reasoning Models Comes With A Big Energy Tradeoff",
+            "url": "https://www.bloomberg.com/news/articles/2025-12-04/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikgu7gUTgwkM/v1/1200x800.jpg",
+            "publishedAt": "2025-12-04T18:01:42Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "AI will make a list but shoppers should check it twice",
+            "url": "https://www.canberratimes.com.au/story/9127244/ai-will-make-a-list-but-shoppers-should-check-it-twice/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/bb6537ec-431f-4c03-8afe-d261cb9dab39.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2025-12-04T18:00:33Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "ATRAM launches Philippines' first global AI fund",
+            "url": "https://manilastandard.net/business/banking-report/314676463/atram-launches-philippines-first-global-ai-fund.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2022/01/atram-1.jpg",
+            "publishedAt": "2025-12-04T18:00:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Meta shares jump on report company slashing VR spending",
+            "url": "https://economictimes.indiatimes.com/tech/technology/meta-shares-jump-on-report-company-slashing-vr-spending/articleshow/125771598.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-173444,resizemode-75,msid-125771598/tech/technology/meta-shares-jump-on-report-company-slashing-vr-spending.jpg",
+            "publishedAt": "2025-12-04T17:32:10Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "AI accurately predicts location of mineral deposits",
+            "url": "https://www.tribuneindia.com/news/world/ai-accurately-predicts-location-of-mineral-deposits/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU2ZjIxN2IwLWQxMzYtMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
+            "publishedAt": "2025-12-04T17:30:12Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Law firms seek AI edge with new executive hires",
+            "url": "https://www.reuters.com/legal/legalindustry/law-firms-seek-ai-edge-with-new-executive-hires-2025-12-04/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/C24LFCQN3FPIPM7JQ2F3WDUUKQ.jpg?auth=d68d87199fceaec38a8608e690a55b1a9e7fc07de70ec8fd883bac949d6e3d5d&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-12-04T17:28:14Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -1644,6 +1752,15 @@
             "url": "https://www.ndtv.com/world-news/citadel-debuts-new-ai-tool-for-equities-investors-9747408",
             "urlToImage": "https://c.ndtvimg.com/2025-12/ojcap3r_citadel_625x300_04_December_25.jpeg",
             "publishedAt": "2025-12-04T00:14:29Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Anthropic CEO Dario Amodei acknowledges risks of huge spending on AI",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-dario-amodei-acknowledges-risks-of-huge-spending-on-ai/articleshow/125771943.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-89744,resizemode-75,msid-125771943/tech/artificial-intelligence/anthropic-ceo-dario-amodei-acknowledges-risks-of-huge-spending-on-ai.jpg",
+            "publishedAt": "2025-12-04 17:49:33"
         },
         {
             "source": {
@@ -3387,126 +3504,6 @@
             "url": "https://www.lokmattimes.com/technology/adani-electricity-champions-customer-interests-with-machine-learning-tech-for-fair-power-1/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202512033595453_202512.jpg",
             "publishedAt": "2025-12-03T11:51:36Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Adani Electricity champions customer interests with machine learning tech for fair power",
-            "url": "https://www.lokmattimes.com/business/adani-electricity-champions-customer-interests-with-machine-learning-tech-for-fair-power/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202512033595453_202512.jpg",
-            "publishedAt": "2025-12-03T11:51:36Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Master the AI-driven future of marketing with this online digital marketing and analytics programme!",
-            "url": "https://economictimes.indiatimes.com/jobs/mid-career/master-the-ai-driven-future-of-marketing-with-this-online-digital-marketing-and-analytics-programme/articleshow/125742418.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125742499,width-1200,height-630,imgsize-2079233,overlay-etcareers/articleshow.jpg",
-            "publishedAt": "2025-12-03T11:43:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "AI companies' safety practices fail to meet global standards, study shows",
-            "url": "https://www.marketscreener.com/news/ai-companies-safety-practices-fail-to-meet-global-standards-study-shows-ce7d51deda8ef020",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-02T113640Z_1_LYNXNPEL510IX_RTROPTP_4_META-PLATFORMS-MESSAGING-WHATSAPP.JPG",
-            "publishedAt": "2025-12-03T11:03:10Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "AI companies' safety practices fail to meet global standards, study shows",
-            "url": "https://www.reuters.com/business/ai-companies-safety-practices-fail-meet-global-standards-study-shows-2025-12-03/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/6C2PXOW66VK5RIM4C73WX6FEBU.jpg?auth=f98680b527debd818168bbca2f70b46f8406c17d629ab8b291d93d8c54f41171&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-12-03T11:02:46Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "The best hurricane forecasts of 2025 came from an AI model",
-            "url": "https://edition.cnn.com/2025/12/03/climate/hurricane-forecast-melissa-ai-prediction-rapid-intensification",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2025-10-30t224439z-1244265990-rc2bmha6yf62-rtrmadp-3-storm-melissa-jamaica.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-12-03T11:01:00Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Can AI ever be funny? Some comedians embrace AI tools but they're still running the show",
-            "url": "https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08",
-            "urlToImage": "https://dims.apnews.com/dims4/default/55f8297/2147483647/strip/true/crop/5270x2964+0+275/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F93%2F39%2F89a0345968d7e33f8a0e1424fb80%2F89d2b58e7d04488e9aa27cf3570069b0",
-            "publishedAt": "2025-12-03T11:00:37Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "Allison Schrager: AI is more likely to cause a labor shortage. Here’s why.",
-            "url": "https://triblive.com/opinion/allison-schrager-ai-is-more-likely-to-cause-a-labor-shortage-heres-why/",
-            "urlToImage": "https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/favicon-16x16.png",
-            "publishedAt": "2025-12-03T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "b76d069607ae6330d5f65a02c543a320",
-                "name": "Outlook India",
-                "url": "https://www.outlookindia.com",
-                "country": "in"
-            },
-            "title": "After Massive Pushback, Govt Withdraws Mandatory Sanchar Saathi Order",
-            "url": "https://www.outlookindia.com/national/after-massive-pushback-govt-withdraws-mandatory-sanchar-saathi-order",
-            "urlToImage": "https://media.assettype.com/outlookindia/2025-12-02/pec5wgcq/day220251202.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2025-12-03T10:43:58Z"
-        },
-        {
-            "source": {
-                "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
-                "name": "indy100",
-                "url": "https://www.indy100.com",
-                "country": "gb"
-            },
-            "title": "Joe Rogan shares the wildest Ai theory yet - and it's really out-there",
-            "url": "https://www.indy100.com/science-tech/rogan-wild-ai-theory-jesus",
-            "urlToImage": "https://www.indy100.com/media-library/image.jpg?id=62266621&width=1200&height=600&coordinates=0%2C166%2C0%2C667",
-            "publishedAt": "2025-12-03T10:43:11Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "India revokes state-run security app order for smartphones after outcry",
-            "url": "https://www.channelnewsasia.com/asia/india-revoke-state-run-security-app-sanchar-saathi-smartphones-5531521",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--w3jP_ITK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-02T084056Z_1_LYNXMPELB10CQ_RTROPTP_3_APPLE-INDIA-RETAIL-STORE.JPG?itok=I6pxsBYn",
-            "publishedAt": "2025-12-03T10:37:35Z"
         }
     ]
 }
