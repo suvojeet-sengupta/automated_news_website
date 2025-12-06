@@ -1,6 +1,51 @@
 {
-    "lastUpdatedAt": "2025-12-06T11:12:42.685730Z",
+    "lastUpdatedAt": "2025-12-06T12:30:46.151409Z",
     "articles": [
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "Merry Maga can’t buy taste with patriotic Christmas gifts",
+            "url": "https://www.thetimes.com/uk/politics/article/merry-maga-patriotic-christmas-gifts-320rn3k0b",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Fd91814a3-7239-4425-8e0d-c045276abdfb.jpg?crop=1775%2C998%2C0%2C0&resize=1200",
+            "publishedAt": "2025-12-06T00:01:00Z"
+        },
+        {
+            "source": {
+                "id": "68e8a9c1e60db86af8601f08c15463a0",
+                "name": "Altoona Mirror",
+                "url": "https://www.altoonamirror.com",
+                "country": "us"
+            },
+            "title": "Automated Christmas: AI brings new ways to shop for holiday gifts",
+            "url": "https://www.altoonamirror.com/news/local-news/2025/12/automated-christmas-ai-brings-new-ways-to-shop-for-holiday-gifts/",
+            "urlToImage": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2025/12/05232857/AI-Shopping-750x500.jpeg",
+            "publishedAt": "2025-12-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "68e8a9c1e60db86af8601f08c15463a0",
+                "name": "Altoona Mirror",
+                "url": "https://www.altoonamirror.com",
+                "country": "us"
+            },
+            "title": "Automated Christmas: AI brings new ways to shop for holiday gifts",
+            "url": "https://www.altoonamirror.com/news/national-news-apwire/2025/12/automated-christmas-ai-brings-new-ways-to-shop-for-holiday-gifts/",
+            "urlToImage": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2025/12/05232857/AI-Shopping-750x500.jpeg",
+            "publishedAt": "2025-12-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top 10 Enterprise AI Companies in 2025",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/top-10-enterprise-ai-companies-in-2025",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-12-05%2F6b04qcow%2FTop-10-Enterprise-AI-Companies-in-2025-1.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-12-06 00:30:00"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -1632,6 +1677,15 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013777",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013777.g006&size=inline",
             "publishedAt": "2025-12-05T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AWS re:Invent 2025 Unveils AI Innovations Amid Customer Adoption Hurdles",
+            "url": "https://www.webpronews.com/aws-reinvent-2025-unveils-ai-innovations-amid-customer-adoption-hurdles/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/12/article-3317-1764976375.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-12-05 23:12:59"
         },
         {
             "source": {
@@ -3501,66 +3555,6 @@
             "url": "https://www.devdiscourse.com/article/education/3719007-isbf-organises-finlyt-summit-2025-engages-200-students-in-experiential-learning-across-finance-data-science-and-management",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_16_07_03_0698587.jpg?width=920&format=jpeg",
             "publishedAt": "2025-12-04T06:27:50Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Now, Apple Watch can send you hypertension alerts",
-            "url": "https://indianexpress.com/shorts/technology/now-apple-watch-can-send-you-hypertension-alerts-10401292/",
-            "urlToImage": "https://images.indianexpress.com/2025/12/AWS_6edbe2.jpg",
-            "publishedAt": "2025-12-04T06:27:32Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "ISBF Organises FinLyt Summit 2025, Engages 200+ Students in Experiential Learning Across Finance, Data Science and Management",
-            "url": "https://www.tribuneindia.com/news/business/isbf-organises-finlyt-summit-2025-engages-200-students-in-experiential-learning-across-finance-data-science-and-management-2-2/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdlZTM1MTQwLWQwZGEtMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
-            "publishedAt": "2025-12-04T06:25:54Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "UPDATE 3-EU to launch antitrust probe into Meta over use of AI in WhatsApp, FT reports",
-            "url": "https://www.devdiscourse.com/article/technology/3718988-update-3-eu-to-launch-antitrust-probe-into-meta-over-use-of-ai-in-whatsapp-ft-reports",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_02_16_4468374.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-12-04T06:14:56Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "ISBF Organises FinLyt Summit 2025, Engages 200+ Students in Experiential Learning Across Finance, Data Science and Management",
-            "url": "https://www.tribuneindia.com/news/business/isbf-organises-finlyt-summit-2025-engages-200-students-in-experiential-learning-across-finance-data-science-and-management/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA1OWI5MTAwLWQwZDgtMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
-            "publishedAt": "2025-12-04T06:11:01Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "ISBF Organises FinLyt Summit 2025, Engages 200+ Students in Experiential Learning Across Finance, Data Science and Management",
-            "url": "https://www.lokmattimes.com/business/isbf-organises-finlyt-summit-2025-engages-200-students-in-experiential-learning-across-finance-data-science-and-management/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251204060728_202512.jpg",
-            "publishedAt": "2025-12-04T06:07:40Z"
         }
     ]
 }
