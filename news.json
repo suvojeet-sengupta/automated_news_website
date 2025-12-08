@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-12-08T08:25:45.108463Z",
+    "lastUpdatedAt": "2025-12-08T09:24:05.157810Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "OpenAI strikes deal on $4.6 bil AI center in Australia",
+            "url": "https://japantoday.com/category/tech/openai-strikes-deal-on-us-4.6-bn-ai-centre-in-australia",
+            "urlToImage": "https://media.japantoday.com/img/store/29/6e/22e1f61e9cc37b499006fbcb264696d982cc/c95f4b31c178a1c7c518568d06038f2050179166-1/_w1700.jpeg",
+            "publishedAt": "2025-12-07T21:00:00Z"
+        },
         {
             "source": {
                 "id": "76684855c5d801b81fd06490668d04fe",
@@ -3504,18 +3516,6 @@
             "url": "https://www.bloomberg.com/news/articles/2025-12-04/jane-street-s-trading-haul-juiced-by-surging-bet-on-anthropic",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAeVt209Erlk/v0/1200x800.jpg",
             "publishedAt": "2025-12-04T19:53:47Z"
-        },
-        {
-            "source": {
-                "id": "5784855bc642514502eec4806fd222d1",
-                "name": "The Times of Israel",
-                "url": "https://www.timesofisrael.com",
-                "country": "is"
-            },
-            "title": "Anti-Israel activists disrupt Israeli consulate event at LA synagogue; two arrested",
-            "url": "https://www.timesofisrael.com/anti-israel-activists-disrupt-israeli-consulate-event-at-la-synagogue-two-arrested/",
-            "urlToImage": "https://static-cdn.toi-media.com/www/uploads/2025/12/AP513966377030.jpg",
-            "publishedAt": "2025-12-04T19:51:39Z"
         }
     ]
 }
