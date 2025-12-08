@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-12-08T22:16:05.068637Z",
+    "lastUpdatedAt": "2025-12-08T23:15:47.512671Z",
     "articles": [
+        {
+            "source": {
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
+                "country": "us"
+            },
+            "title": "Could AI replace seasonal workers?",
+            "url": "https://www.foxbusiness.com/lifestyle/could-ai-replace-seasonal-workers",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/amazon-factory-employee.jpg?ve=1&tl=1",
+            "publishedAt": "2025-12-08T11:00:21Z"
+        },
+        {
+            "source": {
+                "id": "e95f61df83ec26b9d965123c7b4cb57d",
+                "name": "Middle East Monitor",
+                "url": "https://www.middleeastmonitor.com",
+                "country": "gb"
+            },
+            "title": "Global warning over cyber-attacks targeting users’ phones in over 150 countries",
+            "url": "https://www.middleeastmonitor.com/20251208-global-warning-over-cyber-attacks-targeting-users-phones-in-over-150-countries/",
+            "urlToImage": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2023/11/AA-20231114-32874448-32874444-APPLE_AND_US_FLAG.jpg?fit=920%2C613&ssl=1",
+            "publishedAt": "2025-12-08T10:42:02Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Optimizing the Unseen: How Data-Driven Rigor Secures Trillion-Parameter AI Performance",
+            "url": "https://techbullion.com/optimizing-the-unseen-how-data-driven-rigor-secures-trillion-parameter-ai-performance/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/Deepak-Musuwathi-Ekanath-798x600.jpg",
+            "publishedAt": "2025-12-08T10:27:58Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Montreal hosts G7 ministers to talk about AI",
+            "url": "https://www.cp24.com/news/canada/2025/12/08/montreal-hosts-g7-ministers-to-talk-about-artificial-intelligence-quantum/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/OMGNWFW7LO2G4NQVMM6FSZH7JA.jpg?smart=true&auth=da9a0c929114e80e7e657b059945636b2bc8e66c4572faf4f0e78cb36096ca4d&width=1200&height=630",
+            "publishedAt": "2025-12-08T10:17:34Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Montreal hosts G7 ministers to talk about AI",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/12/08/montreal-hosts-g7-ministers-to-talk-about-artificial-intelligence-quantum/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/OMGNWFW7LO2G4NQVMM6FSZH7JA.jpg?smart=true&auth=da9a0c929114e80e7e657b059945636b2bc8e66c4572faf4f0e78cb36096ca4d&width=1200&height=630",
+            "publishedAt": "2025-12-08T10:17:34Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -600,6 +660,27 @@
             "url": "https://www.thehitavada.com//Encyc/2025/12/8/right-time-to-position-nagpur-as-global-hub-for-emerging-technology-cyber-security-dr-ahmed.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2025/12/8/Right-time-to-position-Nagpur-as-global-hub-for-emerging-technology_202512081410319940_H@@IGHT_284_W@@IDTH_426.jpg",
             "publishedAt": "2025-12-08T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "Learning structured population models from data with WSINDy",
+            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013742",
+            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013742.g011&size=inline",
+            "publishedAt": "2025-12-08T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techgenyz"
+            },
+            "title": "Apple M4 vs Qualcomm X Elite vs Intel Core Ultra: The Laptop Chip War of 2025",
+            "url": "https://techgenyz.com/apple-m4-vs-qualcomm-x-elite-vs-intel-core-ultra/",
+            "urlToImage": "https://techgenyz.com/wp-content/uploads/2025/12/apple-m4-vs-qualcomm-x-elite-vs-intel-core-ultra.webp",
+            "publishedAt": "2025-12-08 11:00:00"
         },
         {
             "source": {
@@ -3432,90 +3513,6 @@
             "url": "https://www.lawfaremedia.org/article/when-do-cyber-campaigns-cross-a-line",
             "urlToImage": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/contributor-images/cybersecurity.jpg?sfvrsn=1dd78eda_4",
             "publishedAt": "2025-12-05T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie",
-                "country": "ie"
-            },
-            "title": "Softbank's Son says super AI could win Nobel Prize",
-            "url": "https://www.rte.ie/news/business/2025/1205/1547397-softbanks-son-says-super-ai-could-win-nobel-prize/",
-            "urlToImage": "https://www.rte.ie/images/002394f4-1600.jpg",
-            "publishedAt": "2025-12-05T07:45:57Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "SoftBank's Arm plans to set up chip design facility in South Korea",
-            "url": "https://www.marketscreener.com/news/softbank-s-arm-plans-to-set-up-chip-design-facility-in-south-korea-ce7d51dcdb81f223",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-20T130201Z_1_LYNXMPEL9J0J6_RTROPTP_4_ARM-IPO-SOFTBANK-GROUP.JPG",
-            "publishedAt": "2025-12-05T07:25:05Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "SC declines PIL on regulating AI use in judiciary, allows petitioner to submit suggestions to it",
-            "url": "https://www.devdiscourse.com/article/law-order/3720380-sc-declines-pil-on-regulating-ai-use-in-judiciary-allows-petitioner-to-submit-suggestions-to-it",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_17_12_02_6631371.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-12-05T07:23:02Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "SoftBank's Arm plans to set up chip design facility in South Korea",
-            "url": "https://www.reuters.com/business/media-telecom/softbanks-arm-plans-set-up-chip-design-facility-south-korea-2025-12-05/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/3HZH7IVC4FNNDEPZJAKPJH4EGU.jpg?auth=23fe27786af525aa2091446f76df945021c793e1039f82eceb4efe91b83f5814&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-12-05T07:22:46Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Hiral Raval: Pioneering Scalable AI Data Infrastructure for Autonomous and Humanoid Systems",
-            "url": "https://techbullion.com/hiral-raval-pioneering-scalable-ai-data-infrastructure-for-autonomous-and-humanoid-systems/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/unnamed-87.jpg",
-            "publishedAt": "2025-12-05T07:21:58Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Cornell study warns AI chatbots could sway elections, even persuading opposing voters more easily",
-            "url": "https://www.indiatoday.in/technology/news/story/study-warns-ai-chatbots-could-sway-elections-even-persuading-opposing-voters-more-easily-2831176-2025-12-05",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/representational-image-made-with-ai-051301290-16x9_0.png?VersionId=o1zjzd1sOcpW51pA9.LOfhN1DIwnGBtR",
-            "publishedAt": "2025-12-05T07:14:30Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Meta partners with news outlets to expand AI content",
-            "url": "https://www.breitbart.com/news/meta-partners-with-news-outlets-to-expand-ai-content/",
-            "urlToImage": "https://media.breitbart.com/media/2025/12/wi/afp/meta-ai-offer-breaking-news-entertainment-lifestyle-stories-users-news-questions-drawing-640x335.jpg",
-            "publishedAt": "2025-12-05T06:41:25Z"
         }
     ]
 }
