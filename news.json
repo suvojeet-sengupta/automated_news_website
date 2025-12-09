@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-12-09T04:25:34.344743Z",
+    "lastUpdatedAt": "2025-12-09T05:16:39.894132Z",
     "articles": [
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Machine Learning Course for Software Engineers: Interview",
+            "url": "https://www.globenewswire.com/news-release/2025/12/08/3201826/0/en/Machine-Learning-Course-for-Software-Engineers-Interview-Kickstart-Launches-Structured-8-Month-ML-Program-for-Career-Transition.html",
+            "urlToImage": "https://i.ibb.co/twBbxqND/Machine-Learning-Interview-Prep-Course-Interview-Kickstart-11-24-2025-02-09-PM.png",
+            "publishedAt": "2025-12-08T17:03:09Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Pinterest Facing 'Heightened' AI Risk, Could Lose Market Share, Wedbush Says",
+            "url": "https://www.marketscreener.com/news/pinterest-facing-heightened-ai-risk-could-lose-market-share-wedbush-says-ce7d51d2d98af62d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-12-08T17:00:32Z"
+        },
+        {
+            "source": {
+                "id": "00c6ccd3af71b81a3028aaaf8dab27fa",
+                "name": "The Herald",
+                "url": "https://www.heraldscotland.com",
+                "country": "gb"
+            },
+            "title": "Dunoon Argyll AI data centre complex plans take step forward",
+            "url": "https://www.heraldscotland.com/news/25682082.dunoon-argyll-ai-data-centre-complex-plans-take-step-forward/",
+            "urlToImage": "https://www.heraldscotland.com/resources/images/20293819.jpg?type=og-image",
+            "publishedAt": "2025-12-08T16:50:52Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "INE Earns G2 Winter 2026 Badges Across Global Markets",
+            "url": "https://techbullion.com/ine-earns-g2-winter-2026-badges-across-global-markets/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/Blog___December_2025___INE_Earns_7_G2_Winter_Badge_1764797523pLmOEXCSvc-1000x512.jpg",
+            "publishedAt": "2025-12-08T16:45:09Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "FBI warns about AI scammers at top of naughty list this holiday",
+            "url": "https://www.breitbart.com/news/fbi-warns-about-ai-scammers-at-top-of-naughty-list-this-holiday/",
+            "urlToImage": "https://media.breitbart.com/media/2025/11/wi/upi/record-11-8b-online-black-friday-sales-exceed-store-shopping-record-11-8b-online-black-friday-sales.jpg",
+            "publishedAt": "2025-12-08T16:41:28Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "Montreal hosts G7 ministers to talk about artificial intelligence, quantum computing",
+            "url": "https://www.baytoday.ca/national-news/montreal-hosts-g7-ministers-to-talk-about-artificial-intelligence-quantum-computing-11592657",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/12/e02339e415a3b979eb6eed44b976d4747542139e89859d354bfe8f9faf85d601.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-12-08T16:32:53Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "Montreal hosts G7 ministers to talk about artificial intelligence, quantum computing",
+            "url": "https://www.sootoday.com/national-news/montreal-hosts-g7-ministers-to-talk-about-artificial-intelligence-quantum-computing-11592657",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/12/e02339e415a3b979eb6eed44b976d4747542139e89859d354bfe8f9faf85d601.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-12-08T16:32:53Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -1200,6 +1284,24 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013742",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013742.g011&size=inline",
             "publishedAt": "2025-12-08T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple’s Johny Srouji Stays, Securing Future in Custom Chips and AI",
+            "url": "https://www.webpronews.com/apples-johny-srouji-stays-securing-future-in-custom-chips-and-ai/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/12/article-3435-1765211744.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-12-08 16:35:48"
+        },
+        {
+            "source": {
+                "name": "technologyreview"
+            },
+            "title": "The State of AI: A vision of the world in 2030",
+            "url": "https://www.technologyreview.com/2025/12/08/1128922/the-state-of-ai-a-vision-of-the-world-in-2030/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/10/FT_TR_Newsletter-Episode-06.jpg",
+            "publishedAt": "2025-12-08 16:30:00"
         },
         {
             "source": {
@@ -3378,114 +3480,6 @@
             "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
             "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
             "publishedAt": "2025-12-05T16:02:29Z"
-        },
-        {
-            "source": {
-                "id": "e7b4d14003cc89c64a689f1c38723ef5",
-                "name": "Live 5 News WCSC",
-                "url": "https://www.live5news.com",
-                "country": "us"
-            },
-            "title": "US health department unveils strategy to expand its adoption of AI technology",
-            "url": "https://www.live5news.com/2025/12/05/us-health-department-unveils-strategy-expand-its-adoption-ai-technology/",
-            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/RLY2HF2XCFHNBMNUDJNHWWGQKA.jpg?auth=c5fbdb40ae1dcde246793f670d1bb5699ba7b15b5f40f2a6378b4d9275e9af4f&width=1200&height=600&smart=true",
-            "publishedAt": "2025-12-05T15:46:42Z"
-        },
-        {
-            "source": {
-                "id": "3f09ae62ee37a33ab191a698fec83f4b",
-                "name": "WEAU",
-                "url": "https://www.weau.com",
-                "country": "us"
-            },
-            "title": "US health department unveils strategy to expand its adoption of AI technology",
-            "url": "https://www.weau.com/2025/12/05/us-health-department-unveils-strategy-expand-its-adoption-ai-technology/",
-            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/RLY2HF2XCFHNBMNUDJNHWWGQKA.jpg?auth=c5fbdb40ae1dcde246793f670d1bb5699ba7b15b5f40f2a6378b4d9275e9af4f&width=1200&height=600&smart=true",
-            "publishedAt": "2025-12-05T15:46:42Z"
-        },
-        {
-            "source": {
-                "id": "04c17c43a7507fac95fd9ba5d47715b5",
-                "name": "WIS10",
-                "url": "https://www.wistv.com",
-                "country": "us"
-            },
-            "title": "US health department unveils strategy to expand its adoption of AI technology",
-            "url": "https://www.wistv.com/2025/12/05/us-health-department-unveils-strategy-expand-its-adoption-ai-technology/",
-            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/RLY2HF2XCFHNBMNUDJNHWWGQKA.jpg?auth=c5fbdb40ae1dcde246793f670d1bb5699ba7b15b5f40f2a6378b4d9275e9af4f&width=1200&height=600&smart=true",
-            "publishedAt": "2025-12-05T15:46:42Z"
-        },
-        {
-            "source": {
-                "id": "c7b3fd167c575deb5133f19df6ed778f",
-                "name": "The Gateway Pundit",
-                "url": "https://www.thegatewaypundit.com",
-                "country": "us"
-            },
-            "title": "China’s AI-Driven Civil-Military Fusion - A Significant Advantage, but Not the End of the War",
-            "url": "https://www.thegatewaypundit.com/2025/12/chinas-ai-driven-civil-military-fusion-significant-advantage/",
-            "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2025/12/sacks-2.jpg",
-            "publishedAt": "2025-12-05T15:45:07Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How Artificial Intelligence is Reshaping the Education Sector",
-            "url": "https://techbullion.com/how-artificial-intelligence-is-reshaping-the-education-sector/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/artficial.png",
-            "publishedAt": "2025-12-05T15:32:34Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "CEO Matthew Prince In Focus As Cloudflare Recovers From Global Disruption",
-            "url": "https://www.ndtv.com/feature/ceo-matthew-prince-in-focus-as-cloudflare-recovers-from-global-disruption-9758774",
-            "urlToImage": "https://c.ndtvimg.com/2025-12/jcs1d8d_matthew-prince-ceo-of-cloudflare_625x300_05_December_25.jpeg",
-            "publishedAt": "2025-12-05T15:27:21Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "NYT, Chicago Tribune Sue Perplexity AI Amid Copyright Fight",
-            "url": "https://www.bloomberg.com/news/articles/2025-12-05/nyt-chicago-tribune-sue-perplexity-ai-as-copyright-war-rages-on",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyL_VZvll1Ts/v1/1200x800.jpg",
-            "publishedAt": "2025-12-05T15:01:38Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Beyond the Hype Cycle: Why America’s National Security Depends on Broad Technology Ecosystems, Not Single Breakthroughs",
-            "url": "https://techbullion.com/beyond-the-hype-cycle-why-americas-national-security-depends-on-broad-technology-ecosystems-not-single-breakthroughs/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2022/08/Bitcoin-Truths.jpg",
-            "publishedAt": "2025-12-05T14:58:47Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "Indian Railways Deploys AI Intrusion Detection System To Prevent Elephant Collisions",
-            "url": "https://www.republicworld.com/tech/indian-railways-deploys-ai-intrusion-detection-system-to-prevent-elephant-collisions",
-            "urlToImage": "https://img.republicworld.com/all_images/indian-railways-to-take-action-against-social-media-handles-sharing-misleading-videos-1760803887376-16_9.webp",
-            "publishedAt": "2025-12-05T14:53:19Z"
         }
     ]
 }
