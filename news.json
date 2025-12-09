@@ -1,6 +1,210 @@
 {
-    "lastUpdatedAt": "2025-12-08T23:15:47.512671Z",
+    "lastUpdatedAt": "2025-12-09T01:16:41.085579Z",
     "articles": [
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Trump plans executive order to block state AI regulations",
+            "url": "https://www.breitbart.com/news/trump-plans-executive-order-to-block-state-ai-regulations/",
+            "urlToImage": "https://media.breitbart.com/media/2025/12/wi/upi/trump-renames-institute-of-peace-trump-renames-institute-of-peace.jpg",
+            "publishedAt": "2025-12-08T13:11:25Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "NextEra Raises Bet on AI With Google, Meta and Gas Deals",
+            "url": "https://www.bloomberg.com/news/articles/2025-12-08/google-and-nextera-to-develop-data-centers-with-power-plants",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isD72.BsXgug/v1/1200x800.jpg",
+            "publishedAt": "2025-12-08T13:10:08Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "AI Saves Workers Nearly An Hour A Day On Average: OpenAI Survey Finds",
+            "url": "https://www.ndtvprofit.com/technology/artificial-intelligence-saves-workers-nearly-an-hour-a-day-on-average-openai-survey-finds-chatgpt",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-08%2F2eavgdh8%2F445534579-1.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-12-08T13:09:59Z"
+        },
+        {
+            "source": {
+                "id": "030c5dba023e9d86baf723c66c9de9f4",
+                "name": "stiripesurse.ro",
+                "url": "https://www.stiripesurse.ro",
+                "country": "ro"
+            },
+            "title": "Romanian employees lag behind in AI adoption at work (report)",
+            "url": "https://www.stiripesurse.ro/romanian-employees-lag-behind-in-ai-adoption-at-work-report_3838311",
+            "urlToImage": "https://www.stiripesurse.ro/media/images/202508/media-175612693109522200.webp",
+            "publishedAt": "2025-12-08T13:09:07Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Is Artificial Intelligence the Game-Changer in Companion",
+            "url": "https://www.globenewswire.com/news-release/2025/12/08/3201508/28124/en/Is-Artificial-Intelligence-the-Game-Changer-in-Companion-Diagnostics.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2025-12-08T13:03:39Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "Autocrypt Announces Product Release of Post-Quantum PKI Product, Pioneering PQC-enabled Solutions for Automotive OEMs",
+            "url": "https://www.prnewswire.co.uk/news-releases/autocrypt-announces-product-release-of-post-quantum-pki-product-pioneering-pqc-enabled-solutions-for-automotive-oems-302635038.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2732284/PRN_AUTOCRYPT_Logo_250716_Logo.jpg?p=facebook",
+            "publishedAt": "2025-12-08T13:00:00Z"
+        },
+        {
+            "source": {
+                "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
+                "name": "cleveland.com",
+                "url": "https://www.cleveland.com",
+                "country": "us"
+            },
+            "title": "Parma Heights following state mandate for municipal cybersecurity policies",
+            "url": "https://www.cleveland.com/community/2025/12/parma-heights-following-state-mandate-for-municipal-cybersecurity-policies.html",
+            "urlToImage": "https://www.cleveland.com/resizer/v2/GPDG4PWSHZHFZDCOXCX4R5EFMA.JPG?auth=5326f53ca8ce1ac57d5191900e985a1efc8c961066a8fae37708ca3ef022d0f0&width=1280&smart=true&quality=90",
+            "publishedAt": "2025-12-08T12:54:48Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "UNSW Sydney to set up India campus in Bengaluru by August 2026",
+            "url": "https://indianexpress.com/shorts/education/university-of-new-south-wales-unsw-sydney-set-up-india-campus-in-bengaluru-by-august-2026-dharmendra-pradhan-list-of-courses-10409361/",
+            "urlToImage": "https://images.indianexpress.com/2025/12/L-R-Australian-Minister-of-Education-Union-Minister-of-Education-Dharmendra-Pradhan-VC-UNSW-Sydney-during-the-LOI-handover-Photo-via-MoE.png",
+            "publishedAt": "2025-12-08T12:53:33Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "These 4 smart gadgets could be weakening your home security, experts warn about hidden risks",
+            "url": "https://www.livemint.com/gadgets-and-appliances/these-4-smart-gadgets-could-be-weakening-your-home-security-experts-warn-about-hidden-risks-11765193341222.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/08/1600x900/logo/smart_home_safety_1765193494401_1765193494561.jpg",
+            "publishedAt": "2025-12-08T12:45:11Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Integrating AI into colon cancer diagnosis improves the speed and accuracy of detection",
+            "url": "https://www.news-medical.net/news/20251208/Integrating-AI-into-colon-cancer-diagnosis-improves-the-speed-and-accuracy-of-detection.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2016/3/Colon_cancer_-_Sebastian_Kaulitzki_277dbee2959349bbbd2680e383db4864-620x480.jpg",
+            "publishedAt": "2025-12-08T12:38:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Recursion Pharma's AI-powered therapy reduces colon growth in a rare disease trial",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/recursion-pharmas-ai-powered-therapy-reduces-colon-growth-rare-disease-trial-2025-12-08/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-12-08T12:32:15Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI and Machine Learning Revolutionizing India's Credit Landscape",
+            "url": "https://www.devdiscourse.com/article/headlines/3723383-ai-and-machine-learning-revolutionizing-indias-credit-landscape",
+            "urlToImage": "https://www.devdiscourse.com/images/newstheme.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-12-08T12:12:36Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "More Indians Getting Access to Credit as ML Improves Lending Decisions: Experian Report",
+            "url": "https://www.tribuneindia.com/news/business/more-indians-getting-access-to-credit-as-ml-improves-lending-decisions-experian-report/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZiNGEyY2EwLWQ0MmYtMTFmMC05MjU0LTk5MGM4YWQ1MGZlOS5qcGc=",
+            "publishedAt": "2025-12-08T12:10:24Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Australia and Telangana activate the first joint Centre of Excellence in Applied Artificial Intelligence",
+            "url": "https://www.tribuneindia.com/news/business/australia-and-telangana-activate-the-first-joint-centre-of-excellence-in-applied-artificial-intelligence/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg3MjI2MzQwLWQ0MmQtMTFmMC05MjU0LTk5MGM4YWQ1MGZlOS5qcGc=",
+            "publishedAt": "2025-12-08T12:00:39Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "OpenAI Finds AI Saves Workers Nearly an Hour a Day on Average",
+            "url": "https://www.bloomberg.com/news/articles/2025-12-08/openai-finds-ai-saves-workers-nearly-an-hour-a-day-on-average",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEaq.nzRKi2g/v1/1200x792.jpg",
+            "publishedAt": "2025-12-08T12:00:02Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "gen fishing harbours to position Gujarat as global maritime hub",
+            "url": "https://www.lokmattimes.com/national/ai-5g-sustainability-powered-next-gen-fishing-harbours-to-position-gujarat-as-global-maritime-hub/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202512083600800_202512.jpeg",
+            "publishedAt": "2025-12-08T11:51:56Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Castellum Announces the Award of Multiple Missile Defense Agency SHIELD IDIQ Contracts",
+            "url": "https://www.marketscreener.com/news/castellum-announces-the-award-of-multiple-missile-defense-agency-shield-idiq-contracts-ce7d51ddde8bf024",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-12-08T11:45:12Z"
+        },
         {
             "source": {
                 "id": "1b97b25c0ec482f85326378f82f7f815",
@@ -672,6 +876,51 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013742",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013742.g011&size=inline",
             "publishedAt": "2025-12-08T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "IBM to Acquire Confluent to Create Smart Data Platform for Enterprise Generative AI",
+            "url": "https://en.prnasia.com/story/515158-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2319830/IBM_LOGO_1.jpg?p=medium600",
+            "publishedAt": "2025-12-08 13:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "IBM to Acquire Confluent to Create Smart Data Platform for Enterprise Generative AI",
+            "url": "https://www.prnewswire.com/news-releases/ibm-to-acquire-confluent-to-create-smart-data-platform-for-enterprise-generative-ai-302635317.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2319830/IBM_LOGO_1.jpg?p=original",
+            "publishedAt": "2025-12-08 13:00:00"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "IBM to Acquire Confluent to Create Smart Data Platform for Enterprise Generative AI",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/industry/computer_electronics/ibm-to-acquire-confluent-to-create-smart-data-platform-for-enterprise-generative-ai/article_183b8341-d09a-5971-8168-3608c22c71ee.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/9/2d/92d525f7-7e59-5987-8a60-0a0ca10f1814/6852ae5054ccc.image.jpg?resize=300%2C157",
+            "publishedAt": "2025-12-08 13:00:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Altair HyperWorks 2026 Delivers Design and Simulation at Scale with AI",
+            "url": "https://en.prnasia.com/story/515147-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2840086/altair_hyperworks_2025_.jpg?p=medium600",
+            "publishedAt": "2025-12-08 12:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Altair HyperWorks 2026 Delivers Design and Simulation at Scale with AI",
+            "url": "https://www.prnewswire.com/news-releases/altair-hyperworks-2026-delivers-design-and-simulation-at-scale-with-ai-302634806.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2840086/altair_hyperworks_2025_.jpg?p=original",
+            "publishedAt": "2025-12-08 12:00:00"
         },
         {
             "source": {
@@ -3249,270 +3498,6 @@
             "url": "https://7news.com.au/news/ai-will-make-a-list-but-shoppers-should-check-it-twice-c-20904838",
             "urlToImage": "https://images.7news.com.au/publication/C-20904838/ba4ccbd92b4c5b2569bb4290522869a39e6499f4-16x9-x0y0w1280h720.jpg?imwidth=1200",
             "publishedAt": "2025-12-05T10:35:40Z"
-        },
-        {
-            "source": {
-                "id": "9962a9b594044b42e892f4760e2dfd7e",
-                "name": "Sputnik News",
-                "url": "https://sputnikglobe.com",
-                "country": "ru"
-            },
-            "title": "AI Boom Masking US Economic Weakness - Academic",
-            "url": "https://sputnikglobe.com/20251205/ai-boom-masking-us-economic-weakness---academic-1123237844.html",
-            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1123237844.jpg?11102052371764930756",
-            "publishedAt": "2025-12-05T10:32:00Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Disease surveillance programme using AI tools to detect early warning signals: Govt",
-            "url": "https://www.dailyexcelsior.com/disease-surveillance-programme-using-ai-tools-to-detect-early-warning-signals-govt/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/12/AI.jpg",
-            "publishedAt": "2025-12-05T10:23:01Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "SoftBank's Arm plans to set up chip training facility in South Korea",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/05/softbank039s-arm-plans-to-set-up-chip-training-facility-in-south-korea",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/05/3657103.jpg",
-            "publishedAt": "2025-12-05T10:18:00Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "3 software stocks investors may be overlooking",
-            "url": "https://www.bnnbloomberg.ca/ticker-take/2025/12/05/3-software-stocks-investors-may-be-overlooking-jon-erlichman/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/JO4WJOCGJSZD6MKSOLCHIGONXQ.jpg?smart=true&auth=c720d15f921ee20d5faf97f3ece459e372bd8c3f9f9f8b2bd59a5ceb918e3a5a&width=1200&height=630",
-            "publishedAt": "2025-12-05T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "SoftBank's Son Says 'Super' AI Is Coming, It's Just a Matter of When",
-            "url": "https://www.marketscreener.com/news/softbank-s-son-says-super-ai-is-coming-it-s-just-a-matter-of-when-ce7d51dcda81fe2d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-12-05T09:56:26Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "No formal policy for adopting AI tools in judicial processes yet: Law Minister",
-            "url": "https://www.lokmattimes.com/national/no-formal-policy-for-adopting-ai-tools-in-judicial-processes-yet-law-minister/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202512053597546_202512.jpg",
-            "publishedAt": "2025-12-05T09:44:58Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Hour Workday Is The Wrong Kind Of Capitalism",
-            "url": "https://www.ndtv.com/opinion/opinion-indias-12-hour-workday-is-the-wrong-kind-of-capitalism-9756289",
-            "urlToImage": "https://c.ndtvimg.com/2025-12/hjsuqptc_indian-work-force_625x300_05_December_25.jpeg",
-            "publishedAt": "2025-12-05T09:35:41Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "US health department unveils strategy to expand its adoption of AI technology",
-            "url": "https://medicalxpress.com/news/2025-12-health-department-unveils-strategy-ai.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/us-health-department-u.jpg",
-            "publishedAt": "2025-12-05T09:18:23Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "AI bubble to be short-lived, rebound stronger, NTT DATA chief says",
-            "url": "https://www.reuters.com/world/asia-pacific/ai-bubble-be-short-lived-rebound-stronger-ntt-data-chief-says-2025-12-05/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ZCIVJGSP4JNXVPEVRUSLTFZ74A.jpg?auth=3e186fc049b9e84a0e6b451069bbda9d0c849624bfbd33926f44e66b00026091&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-12-05T09:15:35Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "AI bubble to be short-lived, rebound stronger, NTT DATA chief says",
-            "url": "https://www.marketscreener.com/news/ai-bubble-to-be-short-lived-rebound-stronger-ntt-data-chief-says-ce7d51dcda8ff521",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-12/2025-12-05T091512Z_1_LYNXMPELB40FN_RTROPTP_4_TECH-AI-NTT.JPG",
-            "publishedAt": "2025-12-05T09:10:14Z"
-        },
-        {
-            "source": {
-                "id": "57f726ae1c2926b0eba0b6cd65467921",
-                "name": "CryptoSlate",
-                "url": "https://cryptoslate.com",
-                "country": "us"
-            },
-            "title": "DeepNode Secures $5 Million Across Seed & Strategic Rounds to Build Open Intelligence Network",
-            "url": "https://cryptoslate.com/press-releases/deepnode-secures-5-million-across-seed-strategic-rounds-to-build-open-intelligence-network/",
-            "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/12/deepnode-pr.jpg",
-            "publishedAt": "2025-12-05T08:58:02Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Taiwan bans Chinese social media app RedNote over fraud concerns",
-            "url": "https://www.firstpost.com/world/taiwan-bans-chinese-social-media-app-rednote-over-fraud-concerns-ws-e-13956891.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/12/image-2025-12-6429a1e4e9796dc291e7a757d727f7d0-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2025-12-05T08:55:32Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "South Pacific Group, MidasVault, and HuiLink Unveil Next-Generation Fintech Solutions at 2025 Global Artificial Intelligence Machines and Electronics Expo",
-            "url": "https://www.manilatimes.net/2025/12/05/tmt-newswire/pr-newswire/south-pacific-group-midasvault-and-huilink-unveil-next-generation-fintech-solutions-at-2025-global-artificial-intelligence-machines-and-electronics-expo/2237727",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-12-05T08:54:22Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI industry not in a bubble, but stocks could see correction, SK chief says",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/05/ai-industry-not-in-a-bubble-but-stocks-could-see-correction-sk-chief-says",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/05/3656861.jpg",
-            "publishedAt": "2025-12-05T08:39:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "AI industry not in a bubble, but stocks could see correction, SK chief says",
-            "url": "https://www.reuters.com/world/asia-pacific/ai-industry-not-bubble-stocks-could-see-correction-sk-chief-says-2025-12-05/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/5UVUXGCNFNNAVGYM547I3JNLCU.jpg?auth=4a79510555ef734ebc179de5a0d51d43401730c19f6ff1a998b457c04578294d&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-12-05T08:35:11Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "2026 Evolution of AI Math Solver Online Free Tools",
-            "url": "https://techbullion.com/2026-evolution-of-ai-math-solver-online-free-tools/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/math-ai-tools-1000x600.jpg",
-            "publishedAt": "2025-12-05T08:33:31Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "OpenAI's Stargate Project moves ahead with Samsung and SK in South Korea",
-            "url": "https://www.tribuneindia.com/news/business/openais-stargate-project-moves-ahead-with-samsung-and-sk-in-south-korea/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZjOTBiYWUwLWQxYjMtMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
-            "publishedAt": "2025-12-05T08:25:36Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Philanthropy Meets Innovation: Alessio Vinassa on Building a Better Future Through BlockTech and the Golden Circle of Giving",
-            "url": "https://techbullion.com/philanthropy-meets-innovation-alessio-vinassa-on-building-a-better-future-through-blocktech-and-the-golden-circle-of-giving/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/Philanthropy-Meets-Innovation-Alessio-Vinassa-on-Building-a-Better-Future-Through-BlockTech-and-the-Golden-Circle-of-Giving.png",
-            "publishedAt": "2025-12-05T08:09:31Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Cristiano Ronaldo invests in Indian-origin billionaire Aravind Srinivas’s Perplexity",
-            "url": "https://indianexpress.com/shorts/trending/trending-globally/cristiano-ronaldo-invests-in-aravind-srinivas-perplexity-ai-collaboration-cr7-hub-launch-10403705/",
-            "urlToImage": "https://images.indianexpress.com/2025/12/Cristiano-Ronaldo-invests-in-Perplexity.jpg",
-            "publishedAt": "2025-12-05T08:08:32Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Google’s A to Z list places Gemini at #2 in India’s 2025 searches, with Nano Banana, DeepSeek and ChatGPT trending",
-            "url": "https://www.livemint.com/technology/tech-news/googles-a-to-z-report-ranks-gemini-as-the-2-search-in-india-for-2025-with-nano-banana-deepseek-chatgpt-in-the-11764919630711.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/05/1600x900/logo/ftvtvvvv_1764920277106_1764920306839.webp",
-            "publishedAt": "2025-12-05T08:06:06Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "The rise of AI reasoning models comes with a big energy tradeoff",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/05/the-rise-ofai-reasoning-models-comes-with-a-big-energy-tradeoff",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/05/3656684.jpg",
-            "publishedAt": "2025-12-05T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "614a4b10b69af6cc657068ec6a59eaff",
-                "name": "Lawfare",
-                "url": "https://www.lawfaremedia.org",
-                "country": "us"
-            },
-            "title": "When Do Cyber Campaigns Cross a Line?",
-            "url": "https://www.lawfaremedia.org/article/when-do-cyber-campaigns-cross-a-line",
-            "urlToImage": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/contributor-images/cybersecurity.jpg?sfvrsn=1dd78eda_4",
-            "publishedAt": "2025-12-05T08:00:00Z"
         }
     ]
 }
