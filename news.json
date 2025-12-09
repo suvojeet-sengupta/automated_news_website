@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-12-09T15:19:09.328600Z",
+    "lastUpdatedAt": "2025-12-09T16:22:21.037630Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "US Approves Nvidia's Sale of Second-Best AI Chips to China In Exchange for Additional 25% Levy",
+            "url": "https://www.marketscreener.com/news/us-approves-nvidia-s-sale-of-second-best-ai-chips-to-china-in-exchange-for-additional-25-levy-ce7d51d2db80f426",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-12-09T04:15:16Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Google says first AI glasses with Gemini will arrive in 2026",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/09/google-says-first-ai-glasses-with-gemini-will-arrive-in-2026",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/09/3661941.jpg",
+            "publishedAt": "2025-12-09T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Nvidia Wins Trump’s Approval To Sell H200 AI Chips In China",
+            "url": "https://www.ndtvprofit.com/markets/nvidia-wins-trumps-approval-to-sell-h200-ai-chips-in-china",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-09%2Frm0pkav4%2F445610626.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-12-09T03:54:49Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -12,6 +48,18 @@
             "url": "https://www.tribuneindia.com/news/business/trump-to-issue-executive-order-for-one-rulebook-on-ai-across-us/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdlZjRlYmUwLWQ0YTgtMTFmMC05MjU0LTk5MGM4YWQ1MGZlOS5qcGc=",
             "publishedAt": "2025-12-09T02:40:53Z"
+        },
+        {
+            "source": {
+                "id": "4bff0292330df9581a5e2014068ca2d2",
+                "name": "FOX 4 News",
+                "url": "https://www.fox4news.com",
+                "country": "us"
+            },
+            "title": "Feds say Houston-linked ‘Operation Gatekeeper’ broke $160M A.I. chip smuggling pipeline to China",
+            "url": "https://www.fox4news.com/news/feds-say-houston-linked-operation-gatekeeper-broke-160m-ai-chip-smuggling-pipeline-china",
+            "urlToImage": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/ue768wvganb8w4v0/1280/720/jrw79rlysj5b7y11.jpg?ve=1&tl=1",
+            "publishedAt": "2025-12-09T02:34:58Z"
         },
         {
             "source": {
@@ -216,6 +264,15 @@
             "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-qualifies-first-ai-tool-help-speed-liver-disease-drug-development-2025-12-09/",
             "urlToImage": "https://www.reuters.com/resizer/v2/BAJYE3RP5FOP5O6CWIAF4VFH7Y.jpg?auth=5f215de7e2eb5ab46888a16cc2792a99fc4bf040a5769df010d206c6f3329b67&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-12-09T00:07:09Z"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "Agentic AI, Quantum Tech and Cybersecurity take centre-stage at ISB Summit",
+            "url": "https://www.thehansindia.com/news/cities/hyderabad/agentic-ai-quantum-tech-and-cybersecurity-take-centre-stage-at-isb-summit-1029686",
+            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/12/09/1607758-isb-summit.webp",
+            "publishedAt": "2025-12-09 03:27:07"
         },
         {
             "source": {
@@ -3417,66 +3474,6 @@
             "url": "https://www.freepressjournal.in/education/beyond-algorithms-sahaj-tushar-gandhis-journey-through-ai-evolution",
             "urlToImage": "https://media.assettype.com/freepressjournal/2025-12-06/r3h194jv/Untitled-design-68.png",
             "publishedAt": "2025-12-06T10:08:17Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Don’t Call It a Pivot. These Executives Are ‘Refounding’ Their Start-Ups.",
-            "url": "https://www.nytimes.com/2025/12/06/business/refounding-startups-ai.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/12/07/business/07shoptalk-refounding-illo/07shoptalk-refounding-illo-facebookJumbo.jpg",
-            "publishedAt": "2025-12-06T10:01:42Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "GOP split deepens as Senate blocks AI moratorium Trump and Cruz both wanted",
-            "url": "https://www.foxnews.com/politics/state-level-ai-rules-survive-now-senate-sinks-moratorium-despite-white-house-pressure",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/senator-josh-hawley-snap.jpg",
-            "publishedAt": "2025-12-06T10:00:52Z"
-        },
-        {
-            "source": {
-                "id": "72ea416416ab0eec8fe687d6262961e8",
-                "name": "Finbold",
-                "url": "https://finbold.com",
-                "country": "bg"
-            },
-            "title": "AI predicts Palantir (PLTR) stock price for December 31, 2025",
-            "url": "https://finbold.com/ai-predicts-palantir-pltr-stock-price-for-december-31-2025/",
-            "urlToImage": "https://assets.finbold.com/uploads/2025/12/AI-predicts-Palantir-stock-price-for-December-31-2025-.jpg",
-            "publishedAt": "2025-12-06T09:27:26Z"
-        },
-        {
-            "source": {
-                "id": "dcb757ba5480d7edec9ca152d58b7d3d",
-                "name": "Swissinfo (EN)",
-                "url": "https://www.swissinfo.ch",
-                "country": "ch"
-            },
-            "title": "EU backslides on AI rules - what does it mean for Switzerland?",
-            "url": "https://www.swissinfo.ch/eng/swiss-ai/eu-backslides-on-ai-rules-what-does-it-mean-for-switzerland/90588011",
-            "urlToImage": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/12/GettyImages-2246856471.jpg?ver=abafe8f3&fit=1200,800",
-            "publishedAt": "2025-12-06T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "Study AI & Data Science in Australia: Top Universities with Tuition from Rs 25 Lakh/Year",
-            "url": "https://www.timesnownews.com/education/study-ai-data-science-in-australia-top-universities-with-tuition-from-rs-25-lakh-per-year-study-abroad-destination-pr-indians-article-153254296",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153254296,width-1280,height-720,resizemode-75/153254296.jpg",
-            "publishedAt": "2025-12-06T08:38:54Z"
         }
     ]
 }
