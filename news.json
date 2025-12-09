@@ -1,6 +1,75 @@
 {
-    "lastUpdatedAt": "2025-12-09T11:15:45.222442Z",
+    "lastUpdatedAt": "2025-12-09T12:35:55.578922Z",
     "articles": [
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Trump gives green light to Nvidia to ship powerful AI chips to China",
+            "url": "https://nypost.com/2025/12/08/business/trump-gives-green-light-to-nvidia-to-ship-powerful-ai-chips-to-china/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/nvidia-jensen-huang-trump-china.jpg?quality=75&strip=all&1765219713&w=1200",
+            "publishedAt": "2025-12-09T00:29:40Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Making AI work in cyber defence through governance, visibility, and execution",
+            "url": "https://itwire.com/guest-articles/guest-opinion/making-ai-work-in-cyber-defence-through-governance,-visibility,-and-execution.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/7a2cb2363d667c03bd8a97fdeff86c0d_XS.jpg",
+            "publishedAt": "2025-12-09T00:28:27Z"
+        },
+        {
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            },
+            "title": "Cursor internal AI Help Desk handles 80% of employees' support tickets",
+            "url": "https://fortune.com/2025/12/08/cursor-developed-an-internal-ai-help-desk-that-handles-80-of-its-employees-support-tickets-says-the-29-billion-startups-ceo/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/54972338504_408a35a05c_o-e1765238780304.jpg?resize=1200,600",
+            "publishedAt": "2025-12-09T00:16:23Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US FDA qualifies first AI tool to help speed liver disease drug development",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-qualifies-first-ai-tool-help-speed-liver-disease-drug-development-2025-12-09/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/BAJYE3RP5FOP5O6CWIAF4VFH7Y.jpg?auth=5f215de7e2eb5ab46888a16cc2792a99fc4bf040a5769df010d206c6f3329b67&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-12-09T00:07:09Z"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "This Is the Quantum Computing Stock Billionaires Want to Own for 2026 (Even Warren Buffett) -- and It's Not IonQ, Rigetti Computing, or D-Wave Quantum",
+            "url": "https://www.fool.com/investing/2025/12/09/quantum-computing-stock-billionaires-want-own-2026/",
+            "urlToImage": "https://g.foolcdn.com/image/?op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845930%2Fquantum-computer-digital-data-calculations-artificial-intelligence-getty.jpg&w=1200",
+            "publishedAt": "2025-12-09 00:00:00"
+        },
+        {
+            "source": {
+                "id": "10216cb8fabd0accd5eb967c97fc37ab",
+                "name": "MacRumors",
+                "url": "https://www.macrumors.com",
+                "country": "us"
+            },
+            "title": "Google's First AI Smart Glasses Coming in 2026",
+            "url": "https://www.macrumors.com/2025/12/08/google-ai-smart-glasses-2026/",
+            "urlToImage": "https://images.macrumors.com/t/MO4NM2z_92XS3nwpgNPkjPj0Nt4=/1600x/article-new/2025/12/google-android-glasses.jpg",
+            "publishedAt": "2025-12-08T23:53:58Z"
+        },
         {
             "source": {
                 "id": "e382ce4dfbd3358e338d63782000b7df",
@@ -1851,6 +1920,15 @@
         },
         {
             "source": {
+                "name": "headtopics"
+            },
+            "title": "Sugar Land man pleads guilty to smuggling AI computer chips to China, first case of its kind",
+            "url": "https://us.headtopics.com/news/sugar-land-man-pleads-guilty-to-smuggling-ai-computer-chips-76919460",
+            "urlToImage": "https://i.headtopics.com/images/2025/12/8/kprc2/sugar-land-man-pleads-guilty-to-smuggling-ai-compu-sugar-land-man-pleads-guilty-to-smuggling-ai-compu-C41A10885A1435AF4903996225FFBD61.webp",
+            "publishedAt": "2025-12-08 23:39:04"
+        },
+        {
+            "source": {
                 "name": "click2houston"
             },
             "title": "Sugar Land man pleads guilty to smuggling AI computer chips to China, first case of its kind",
@@ -3405,90 +3483,6 @@
             "url": "https://www.thehindu.com/sci-tech/technology/meta-partners-with-news-outlets-to-expand-ai-content/article70364566.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/7bi54l/article70364567.ece/alternates/LANDSCAPE_1200/2025-12-04T142430Z_1709368493_RC2P9IAFMKIB_RTRMADP_3_META-PLATFORMS-AI.JPG",
             "publishedAt": "2025-12-06T06:00:18Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Bernie Sanders Echoes Pope Leo's Warning On AI, Says Technology Must Serve The Common Good- Not Concentrate Wealth And Power In Big Tech",
-            "url": "https://www.benzinga.com/markets/tech/25/12/49245484/bernie-sanders-echoes-pope-leos-warning-on-ai-says-technology-must-serve-the-common-good-not-concentrate-wealth-and-power-in-big-tech",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/12/06/Rome--Italy---May-11--2025-Pope-Leo-Xiv-.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-12-06T05:31:47Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "The final frontier for computing: Google’s cosmic gambit for AI",
-            "url": "https://www.naturalnews.com/2025-12-06-final-frontier-computing-googles-cosmic-gambit-ai.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Editorial-Use-Google-Office.jpg",
-            "publishedAt": "2025-12-06T05:21:22Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "'Changing every sector of society'",
-            "url": "https://www.europesays.com/2615659/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2025/12/AI-environmental-impactimage-recgrQtgJ7bTXL2Ee.jpg",
-            "publishedAt": "2025-12-06T05:18:18Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "Amazon Expects Its $12.7 bn AI Investment to Benefit 15 mn Small Biz in India by 2030",
-            "url": "https://www.outlookbusiness.com/corporate/amazon-expects-its-127-bn-ai-investment-to-benefit-15-mn-small-biz-in-india-by-2030",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/import/imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Amazon__1642430162.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2025-12-06T04:58:10Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Govt deploys AI tools to improve crop productivity, farmer livelihoods",
-            "url": "https://www.lokmattimes.com/national/govt-deploys-ai-tools-to-improve-crop-productivity-farmer-livelihoods/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20251202249f_202512.jpg",
-            "publishedAt": "2025-12-06T04:12:47Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Govt deploys AI tools to improve crop productivity, farmer livelihoods",
-            "url": "https://www.lokmattimes.com/business/govt-deploys-ai-tools-to-improve-crop-productivity-farmer-livelihoods-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20251202249f_202512.jpg",
-            "publishedAt": "2025-12-06T04:12:47Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Govt deploys AI tools to improve crop productivity, farmer livelihoods",
-            "url": "https://www.lokmattimes.com/technology/govt-deploys-ai-tools-to-improve-crop-productivity-farmer-livelihoods-2/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20251202249f_202512.jpg",
-            "publishedAt": "2025-12-06T04:12:47Z"
         }
     ]
 }
