@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-12-10T15:20:10.584335Z",
+    "lastUpdatedAt": "2025-12-10T16:23:00.113458Z",
     "articles": [
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "IIT Ropar’s AI-Data Engineering records highest jump: Most opted courses in 2025",
+            "url": "https://indianexpress.com/article/education/iit-ropar-most-opted-courses-in-2025-jee-main-2026-jee-advanced-10398009/",
+            "urlToImage": "https://images.indianexpress.com/2025/12/gate-2026-new-courses.jpeg",
+            "publishedAt": "2025-12-10T04:19:25Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Chris Pratt gets into a deadly showdown with an AI Justice System in new trailer of 'Mercy', releases in 3D on January 23, 2026",
+            "url": "https://www.firstpost.com/entertainment/chris-pratt-gets-into-a-deadly-showdown-with-an-ai-justice-system-in-new-trailer-of-mercy-releases-in-3d-on-january-23-2026-13958320.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2025/12/mercy-1-2025-12-31b860f5ea9e40d0f647cbbcef80e3cc.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-12-10T04:15:44Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Google’s Big AI Advantage Over ChatGPT Is Impossible to Justify",
+            "url": "https://www.bloomberg.com/opinion/articles/2025-12-10/ai-google-gemini-search-advantage-over-chatgpt-is-impossible-to-justify",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQOiBKpgJSuU/v1/1200x800.jpg",
+            "publishedAt": "2025-12-10T04:00:22Z"
+        },
+        {
+            "source": {
+                "id": "34cc62608b4607dc3a776802caadb7bd",
+                "name": "ThePrint",
+                "url": "https://theprint.in",
+                "country": "in"
+            },
+            "title": "Polish foreign minister likely to visit India next month. Cybersecurity, AI, digital infra on agenda",
+            "url": "https://theprint.in/world/polish-foreign-minister-likely-to-visit-india-next-month-cybersecurity-ai-digital-infra-on-agenda/2801975/",
+            "urlToImage": "https://static.theprint.in/wp-content/uploads/2025/12/Untitled-design-7-2.png",
+            "publishedAt": "2025-12-10T04:00:14Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "ChatGPT logs biggest user growth rate among smartphone apps in S. Korea",
+            "url": "https://www.lokmattimes.com/technology/chatgpt-logs-biggest-user-growth-rate-among-smartphone-apps-in-s-korea-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202512103602339_202512.jpg",
+            "publishedAt": "2025-12-10T03:45:32Z"
+        },
+        {
+            "source": {
+                "id": "c837db3560dbe304554f10dddd97c3c8",
+                "name": "People.com",
+                "url": "https://people.com",
+                "country": "us"
+            },
+            "title": "Matt Barnes Shuts Down ‘Internet Lie’ That He Was Extorted $61,000 by an AI Model on Dating App",
+            "url": "https://people.com/matt-barnes-shuts-down-internet-lie-that-he-was-extorted-61000-by-an-ai-model-dating-app-11865686",
+            "urlToImage": "https://people.com/thmb/8LrmP-x2trzjH1d5TbKV4LqrIgc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(738x282:740x284)/matt-barnes-2-120925-6c43bb1bcbb344829634d37008a2fda4.jpg",
+            "publishedAt": "2025-12-10T03:40:12Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Edtech Firm Physicswallah To Report Profit In FY27, Buoyed By Cost Efficiencies, Mass-Market Segments Of State Boards & Vernacular-Language Categories",
+            "url": "https://www.freepressjournal.in/business/edtech-firm-physicswallah-to-report-profit-in-fy27-buoyed-by-cost-efficiencies-mass-market-segments-of-state-boards-vernacular-language-categories",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-12-10/spazjntr/Physics-Wallah.jpg",
+            "publishedAt": "2025-12-10T03:33:53Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -192,6 +276,24 @@
             "url": "https://www.dailypioneer.com/2025/page1/modi-nadella-meet-sparks-asia-s-biggest-technology-investment-wave.html",
             "urlToImage": "https://www.dailypioneer.com/uploads/2025/story/images/big/modi-nadella-meet-sparks-asia---s-biggest-technology-investment-wave-2025-12-10.jpg",
             "publishedAt": "2025-12-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "OpenAI names Slack CEO Dresser as first chief of revenue as ChatGPT maker aims to make a profit",
+            "url": "https://www.thehindu.com/sci-tech/technology/openai-names-slack-ceo-dresser-as-first-chief-of-revenue-as-chatgpt-maker-aims-to-make-a-profit/article70378864.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/vgg7p9/article70378865.ece/alternates/LANDSCAPE_1200/OpenAI-Chief_Revenue_Officer_83141.jpg",
+            "publishedAt": "2025-12-10 04:16:27"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Oracle's OpenAI reliance faces scrutiny as debt-fueled AI buildout raises worries",
+            "url": "https://www.thehindu.com/sci-tech/technology/oracles-openai-reliance-faces-scrutiny-as-debt-fueled-ai-buildout-raises-worries/article70378866.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/hmvelr/article70378869.ece/alternates/LANDSCAPE_1200/2025-12-04T235047Z_276170228_RC2LU7AUAT4W_RTRMADP_3_NEXTDC-DATA-CENTRE-OPENAI.JPG",
+            "publishedAt": "2025-12-10 03:31:19"
         },
         {
             "source": {
@@ -3387,114 +3489,6 @@
             "url": "https://www.financialexpress.com/trending/how-an-indian-origin-techie-flipped-his-career-like-a-hot-dosa-from-customer-success-to/4070076/",
             "urlToImage": "https://images.financialexpressdigital.com/2025/12/Copy-of-.-13.png?quality=100",
             "publishedAt": "2025-12-08T16:15:22Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "President Trump teases executive order to limit state regulations on AI",
-            "url": "https://nypost.com/2025/12/08/us-news/president-trump-teases-executive-order-to-limit-state-regulations-on-ai/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116986255.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2025-12-08T16:14:22Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Trump approves sale of more advanced Nvidia computer chips used in AI to China",
-            "url": "https://www.breitbart.com/news/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china/",
-            "urlToImage": "https://media.breitbart.com/media/2025/11/wi/ap/trump-saudi-arabia-94426-trump-saudi-arabia-president-donald-trump-speaks-elon-musk-nvidia-ceo-jensen-640x335.jpg",
-            "publishedAt": "2025-12-08T16:11:40Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI tools help choose best embryos for IVF",
-            "url": "https://medicalxpress.com/news/2025-12-ai-tools-embryos-ivf.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/the-american-hospital.jpg",
-            "publishedAt": "2025-12-08T16:05:42Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Aisuru botnet fuels global surge in hyper-volumetric DDoS attacks - Cloudflare",
-            "url": "https://www.manilatimes.net/2025/12/09/business/sunday-business-it/aisuru-botnet-fuels-global-surge-in-hyper-volumetric-ddos-attacks-cloudflare/2239203",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/08/859064.jpg",
-            "publishedAt": "2025-12-08T16:01:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Tesla’s Sky High Valuation Prompts Morgan Stanley to Cut Rating",
-            "url": "https://www.bloomberg.com/news/articles/2025-12-08/tesla-s-sky-high-valuation-prompts-morgan-stanley-to-cut-rating",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ise3zrYnneR8/v1/1200x800.jpg",
-            "publishedAt": "2025-12-08T16:00:32Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Quote of the day by Alan Turing: 'A computer would deserve to be called intelligent if it could...'",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-alan-turing-a-computer-would-deserve-to-be-called-intelligent-if-it-could-/articleshow/125839265.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125839356,width-1200,height-630,imgsize-25916,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2025-12-08T15:52:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Trump's Executive Order: A Single AI Rule Sparks Bipartisan Controversy",
-            "url": "https://www.devdiscourse.com/article/politics/3723751-trumps-executive-order-a-single-ai-rule-sparks-bipartisan-controversy",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_03_2025_23_06_24_078219.png?width=920&format=jpeg",
-            "publishedAt": "2025-12-08T15:51:35Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "Trump says he will sign executive order curbing state AI rules",
-            "url": "https://www.straitstimes.com/world/united-states/trump-says-he-will-sign-executive-order-curbing-state-ai-rules",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/d6fa4e6c5a2dfaeb5fe41b4505b3cfc3ec39ce8968e4696f2c19196e70604c9f",
-            "publishedAt": "2025-12-08T15:44:41Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Study explores AI-enhanced wearable devices for Type 2 diabetes and prediabetes care",
-            "url": "https://medicalxpress.com/news/2025-12-explores-ai-wearable-devices-diabetes.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/11-diabetes.jpg",
-            "publishedAt": "2025-12-08T15:35:54Z"
         }
     ]
 }
