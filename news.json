@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-12-10T06:27:00.183507Z",
+    "lastUpdatedAt": "2025-12-10T07:19:50.059554Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Timbaland’s Latest Protégée Is an A.I. Pop Singer",
+            "url": "https://www.nytimes.com/2025/12/09/arts/music/timbaland-ai-music-tata-taktumi-suno.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/12/05/arts/DO-NOT-USE/CUL-TIMBALAND-facebookJumbo-v3.jpg",
+            "publishedAt": "2025-12-09T19:03:24Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "Trump approves export of advanced Nvidia AI chip to China",
+            "url": "https://www.nation.com.pk/10-Dec-2025/trump-approves-export-advanced-nvidia-ai-chip-china",
+            "urlToImage": "https://www.nation.com.pk/print_images/large/2025-12-10/trump-approves-export-advanced-nvidia-ai-chip-china-1765338503-9288.jpg",
+            "publishedAt": "2025-12-09T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "European Union probes Google for possible 'anticompetitive' use of copyrighted material for AI-generated summaries",
+            "url": "https://nypost.com/2025/12/09/business/european-union-probes-google-for-possible-anticompetitive-use-of-copyrighted-material-for-ai-generated-summaries/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/117041306.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2025-12-09T18:52:53Z"
+        },
+        {
+            "source": {
+                "id": "98150e04c55a140a5ed9c214b3184d4c",
+                "name": "Baton Rouge Advocate",
+                "url": "https://www.theadvocate.com",
+                "country": "us"
+            },
+            "title": "LSU students present AI solutions for local industry",
+            "url": "https://www.theadvocate.com/baton_rouge/news/education/lsu-students-present-ai-solutions-for-local-industry/article_519d3cce-b3dd-4b36-89b7-95d6698c65bc.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/4/6a/46af8489-1f19-5a90-b9dc-397105fa0bf6/6937a00a8d466.image.jpg?crop=1585%2C832%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2025-12-09T18:36:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Microsoft investing $17.5 billion in India for AI and cloud infrastructure",
+            "url": "https://japantoday.com/category/tech/microsoft-investing-17.5-billion-in-india-for-ai-and-cloud-infrastructure",
+            "urlToImage": "https://media.japantoday.com/img/store/ab/8e/8d59460b066a8819a0faf752cfabdae20aef/download/_w1700.jpeg",
+            "publishedAt": "2025-12-09T18:35:00Z"
+        },
+        {
+            "source": {
+                "id": "602d1de710d66397a00201d8efdd36ee",
+                "name": "Inc. Magazine",
+                "url": "https://www.inc.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity Experts Share One Big Warning for Your Business Ahead of Holiday Break",
+            "url": "https://www.inc.com/ava-levinson/cybersecurity-advice-for-holiday-break/91276369",
+            "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/12/cybersecurity-tips.jpg",
+            "publishedAt": "2025-12-09T18:30:16Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -3450,78 +3522,6 @@
             "url": "https://www.cnet.com/tech/services-and-software/cybersecurity-checklist-passwords-credit-fraud/",
             "urlToImage": "https://www.cnet.com/a/img/resize/1ea2c3ff84be107297244495c9b59e15dec869d6/hub/2025/06/11/c488c3ae-5927-41eb-a2c2-8c48c78523ec/password-survey-featured-image.png?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-12-08T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Trust Is The New HR Currency In India’s AI-Driven Workplaces",
-            "url": "https://www.ndtvprofit.com/technology/trust-is-the-new-hr-currency-in-indias-ai-driven-workplaces",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-05%2F5k0u748x%2FAi-HR.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-12-08T07:52:23Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "European Commission selects Capgemini for its EU",
-            "url": "https://www.globenewswire.com/news-release/2025/12/08/3201235/0/en/European-Commission-selects-Capgemini-for-its-EU-cybersecurity-framework-contract.html",
-            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/2bd353d1-968f-4357-a8e7-379888d802f4",
-            "publishedAt": "2025-12-08T07:30:00Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "Thirsty AI technology could strain Aussie water supply",
-            "url": "https://www.perthnow.com.au/news/environment/thirsty-ai-technology-could-strain-aussie-water-supply-c-20932454",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-20932454/2dff907c9b0f18046e1b0bd268bc9889cea285a7-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2025-12-08T07:12:19Z"
-        },
-        {
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            },
-            "title": "Thirsty AI technology could strain Aussie water supply",
-            "url": "https://www.canberratimes.com.au/story/9129474/thirsty-ai-technology-could-strain-aussie-water-supply/",
-            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/f9f62951-86e1-4f91-baf5-428c411e4236.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2025-12-08T07:09:55Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "'You Are Just Exploited': India vs Singapore Work Culture Revealed by Employee, Sparks Online Debate",
-            "url": "https://www.lokmattimes.com/social-viral/you-are-just-exploited-india-vs-singapore-work-culture-revealed-by-employee-sparks-online-debate-a517/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/ml-engineer-aman_2025121053573.jpg",
-            "publishedAt": "2025-12-08T07:00:59Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Blue Cloud Softech Solutions Secures Key Approval for M/s AIS Anywhere Acquisition, Bolstering AI and Cybersecurity Prowess",
-            "url": "https://www.lokmattimes.com/business/blue-cloud-softech-solutions-secures-key-approval-for-ms-ais-anywhere-acquisition-bolstering-ai-and-cybersecurity-prowess/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/primeximages/1200x900/bluecloud_202512.jpg",
-            "publishedAt": "2025-12-08T06:25:57Z"
         }
     ]
 }
