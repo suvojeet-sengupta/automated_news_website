@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-12-11T19:17:04.235862Z",
+    "lastUpdatedAt": "2025-12-11T20:19:17.693176Z",
     "articles": [
+        {
+            "source": {
+                "id": "63fec970d50112ee9b8bc1418d9c5872",
+                "name": "Scientific Computing World",
+                "url": "https://www.scientific-computing.com",
+                "country": "us"
+            },
+            "title": "US DOE announces $320 million investment in AI for Science",
+            "url": "https://www.scientific-computing.com/article/us-doe-announces-320-million-investment-ai-science",
+            "urlToImage": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
+            "publishedAt": "2025-12-11T08:18:21Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI-based tool predicts future cardiovascular events in patients with angina",
+            "url": "https://medicalxpress.com/news/2025-12-ai-based-tool-future-cardiovascular.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/cardiovascular-disease.jpg",
+            "publishedAt": "2025-12-11T08:10:02Z"
+        },
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "Why Big Tech is doubling down on investing in India",
+            "url": "https://www.europesays.com/2626702/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2025/12/108221495-1762298690773-gettyimages-2236984488-chatterjee-notitle250925_npHwu.jpeg",
+            "publishedAt": "2025-12-11T07:59:19Z"
+        },
         {
             "source": {
                 "id": "fd3677545b80d5db7541de8e111d27ba",
@@ -3438,42 +3474,6 @@
             "url": "https://www.bloomberg.com/news/articles/2025-12-09/trump-s-reprieve-for-nvidia-s-h200-spurred-by-huawei-s-ai-gains",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYx.DZfBla4I/v0/1200x800.jpg",
             "publishedAt": "2025-12-09T20:17:57Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Limitations of AI-based material prediction: Crystallographic disorder represents a stumbling block",
-            "url": "https://phys.org/news/2025-12-limitations-ai-based-material-crystallographic.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-study-reveals-limi.jpg",
-            "publishedAt": "2025-12-09T20:07:19Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "28% of U.S. teens say they use AI chatbots daily, poll says",
-            "url": "https://www.nbcnews.com/tech/social-media/28-us-teens-say-use-ai-chatbots-daily-poll-says-rcna248133",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251208-teen-phone-voice-mn-2300-d248f1.jpg",
-            "publishedAt": "2025-12-09T20:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Could Time crown AI? Polymarket bets point to a non-human Person of the Year for the first time since 1982",
-            "url": "https://economictimes.indiatimes.com/news/international/us/could-time-crown-ai-polymarket-bets-point-to-a-non-human-person-of-the-year-for-the-first-time-since-1982/articleshow/125876816.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125877029,width-1200,height-630,imgsize-842558,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-12-09T19:45:00Z"
         }
     ]
 }
