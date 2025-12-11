@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-12-11T21:18:08.071465Z",
+    "lastUpdatedAt": "2025-12-11T22:16:47.119986Z",
     "articles": [
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "India draws $52 billion from Amazon, Microsoft in tech expansion",
+            "url": "https://www.spokesman.com/stories/2025/dec/11/india-draws-52-billion-from-amazon-microsoft-in-te/",
+            "urlToImage": "https://thumb.spokesman.com/EW6KCZ1qDisllQxSkksJFckEku0=/1200x630/smart/media.spokesman.com/photos/2025/12/11/693b1cd79db90.hires.jpg",
+            "publishedAt": "2025-12-11T10:10:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "‘Never trust a machine’: YouTuber gets AI-powered robot to shoot him in the chest, action sparks concerns",
+            "url": "https://indianexpress.com/article/trending/trending-globally/youtuber-gets-ai-powered-robot-to-shoot-him-in-the-chest-action-sparks-concerns-10414801/",
+            "urlToImage": "https://images.indianexpress.com/2025/12/AI-powered-robot-shoots-YouTuber-in-the-chest.jpg",
+            "publishedAt": "2025-12-11T09:51:45Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "CBSE Releases Sample Question Paper For Class 12 Artificial Intelligence Exam",
+            "url": "https://www.ndtv.com/education/cbse-unveils-class-12-ai-sample-paper-for-2026-boards-emphasising-practical-skills-and-exam-readiness-9791233",
+            "urlToImage": "https://c.ndtvimg.com/2025-09/hv0u0fb_cbse-releases-tentative-date-sheet_625x300_24_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-12-11T09:51:04Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "first tools, say global South experts at Carnegie Tech Summit.",
+            "url": "https://www.tribuneindia.com/news/business/future-of-ai-lies-in-practical-public-first-tools-say-global-south-experts-at-carnegie-tech-summit/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ0OWJhMzIwLWQ2NzYtMTFmMC05MjU0LTk5MGM4YWQ1MGZlOS5qcGc=",
+            "publishedAt": "2025-12-11T09:50:26Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Global Markets Fall as Oracle Selloff Drags Tech Stocks",
+            "url": "https://www.marketscreener.com/news/global-markets-fall-as-oracle-selloff-drags-tech-stocks-ce7d50dad181f022",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-12-11T09:32:41Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Meet Devi Parikh: Former Meta executive of Mark Zuckerberg’s team explains how to build a career in AI without a PhD",
+            "url": "https://www.financialexpress.com/life/technology-meet-devi-parikh-former-meta-executive-of-mark-zuckerbergs-team-explains-how-to-build-a-career-in-ai-without-a-phd-4073394/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/12/Untitled-design-2025-12-09T135556.329-1.jpg?quality=100",
+            "publishedAt": "2025-12-11T09:25:32Z"
+        },
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "Bitcoin price falls below $90,000 amid AI jitters after Oracle results",
+            "url": "https://www.thetimes.com/business/companies-markets/article/bitcoin-price-ai-uncertainty-oracle-results-ls80rmc9d",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F049db376-0db7-4628-bf20-a9fd4ecdaabd.jpg?crop=3000%2C1688%2C0%2C156&resize=1200",
+            "publishedAt": "2025-12-11T09:23:31Z"
+        },
         {
             "source": {
                 "id": "8e9ab8327c5f7903cc1b50470411d165",
@@ -696,6 +780,15 @@
             "url": "https://www.hospimedica.com/artificial-intelligence/articles/294807502/machine-learning-model-cuts-canceled-liver-transplants-by-60.html",
             "urlToImage": "https://www.hospimedica.com/images/stories/articles/article_images/2025-12-11/AdobeStock_512282100_2.jpeg",
             "publishedAt": "2025-12-11T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Navigating the Future: Your Essential Guide to the Latest Technology Radar Insights",
+            "url": "https://techannouncer.com/navigating-the-future-your-essential-guide-to-the-latest-technology-radar-insights/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/12/de89f491thumbnail-332x187.jpeg",
+            "publishedAt": "2025-12-11 09:32:12"
         },
         {
             "source": {
@@ -3375,102 +3468,6 @@
             "url": "https://gizmodo.com/pete-hegseth-chooses-google-gemini-to-lead-the-first-front-in-the-future-of-american-warfare-2000697458",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/06/geminigooglegetty-1200x675.jpg",
             "publishedAt": "2025-12-09T22:30:02Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Intel trims more South Bay jobs as chip maker seeks to steady the ship",
-            "url": "https://www.mercurynews.com/2025/12/09/intel-santa-clara-tech-jobs-economy-layoff-chip-south-bay-work-ai/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/SJM-L-INTEL-1-1.jpg?w=1024&h=701",
-            "publishedAt": "2025-12-09T22:22:52Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "White House Plans Executive Order to Rein in State AI Rules",
-            "url": "https://www.europesays.com/2623727/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2025/12/urlhttp3A2F2Ferepublic-brightspot.s3.us-west-2.amazonaws.com2F8b2F4c2Ff4f42d1b4567810a80204a.jpeg",
-            "publishedAt": "2025-12-09T22:09:22Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Shining a torch on Australia’s AI blind spots",
-            "url": "https://www.afr.com/companies/financial-services/shining-a-torch-on-australia-s-ai-blind-spots-20251205-p5nl39",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.8514%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_204%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/7717bf20e1caece936d89a8e9b93a9d836ceb3176220b2d509c98783aaeba77f",
-            "publishedAt": "2025-12-09T22:01:11Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Machine learning models could help diagnose ALS earlier through blood biomarkers",
-            "url": "https://medicalxpress.com/news/2025-12-machine-als-earlier-blood-biomarkers.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-develop-mo-5.jpg",
-            "publishedAt": "2025-12-09T22:00:30Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Howard Marks Says AI Is ‘Terrifying’ for Jobs",
-            "url": "https://www.livemint.com/companies/news/howard-marks-says-ai-is-terrifying-for-jobs-11765316975541.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
-            "publishedAt": "2025-12-09T21:49:35Z"
-        },
-        {
-            "source": {
-                "id": "3f09ae62ee37a33ab191a698fec83f4b",
-                "name": "WEAU",
-                "url": "https://www.weau.com",
-                "country": "us"
-            },
-            "title": "TikTok content creator accused of using AI to create videos that panicked strangers",
-            "url": "https://www.weau.com/2025/12/09/tiktok-content-creator-accused-using-ai-create-videos-that-panicked-strangers/",
-            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/5WZKNWVPHVBEZCX5OIO5RHVQKU.jpg?auth=7cbd9537aef2e602583ef11732bf505f261f3f24ef4bef38c9ef487c1a34c21c&width=1200&height=600&smart=true",
-            "publishedAt": "2025-12-09T21:47:32Z"
-        },
-        {
-            "source": {
-                "id": "04c17c43a7507fac95fd9ba5d47715b5",
-                "name": "WIS10",
-                "url": "https://www.wistv.com",
-                "country": "us"
-            },
-            "title": "TikTok content creator accused of using AI to create videos that panicked strangers",
-            "url": "https://www.wistv.com/2025/12/09/tiktok-content-creator-accused-using-ai-create-videos-that-panicked-strangers/",
-            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/5WZKNWVPHVBEZCX5OIO5RHVQKU.jpg?auth=7cbd9537aef2e602583ef11732bf505f261f3f24ef4bef38c9ef487c1a34c21c&width=1200&height=600&smart=true",
-            "publishedAt": "2025-12-09T21:47:32Z"
-        },
-        {
-            "source": {
-                "id": "e7b4d14003cc89c64a689f1c38723ef5",
-                "name": "Live 5 News WCSC",
-                "url": "https://www.live5news.com",
-                "country": "us"
-            },
-            "title": "TikTok content creator accused of using AI to create videos that panicked strangers",
-            "url": "https://www.live5news.com/2025/12/09/tiktok-content-creator-accused-using-ai-create-videos-that-panicked-strangers/",
-            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/5WZKNWVPHVBEZCX5OIO5RHVQKU.jpg?auth=7cbd9537aef2e602583ef11732bf505f261f3f24ef4bef38c9ef487c1a34c21c&width=1200&height=600&smart=true",
-            "publishedAt": "2025-12-09T21:47:32Z"
         }
     ]
 }
