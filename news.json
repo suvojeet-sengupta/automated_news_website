@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2025-12-12T14:16:26.244905Z",
+    "lastUpdatedAt": "2025-12-12T15:18:30.829948Z",
     "articles": [
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "OpenAI flags high cyber risk from advanced ChatGPT models as it accelerates development to outpace Google Gemini",
+            "url": "https://www.financialexpress.com/life/technology-openai-flags-high-cyber-risk-from-advanced-chatgpt-models-as-it-accelerates-development-to-outpace-google-gemini-4074299/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/11/diya-0001-2025-10-13T062651.222-80.jpg?quality=100",
+            "publishedAt": "2025-12-12T03:14:35Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Meta’s new AI superstars are chafing against the rest of the company",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/12/metas-new-ai-superstars-are-chafing-against-the-rest-of-the-company",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/11/3666789.jpg",
+            "publishedAt": "2025-12-12T03:00:00Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Trump Signs Order Seeking To Limit State-Level AI Regulation",
+            "url": "https://www.ndtvprofit.com/business/trump-signs-order-seeking-to-limit-state-level-ai-regulation",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-02%2Fggibmm52%2FTRUMP-4.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-12-12T02:56:14Z"
+        },
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "Trump signs executive order to curb state AI laws",
+            "url": "https://www.europesays.com/2628308/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2025/12/Trump_05228.jpg",
+            "publishedAt": "2025-12-12T02:45:20Z"
+        },
+        {
+            "source": {
+                "id": "e7b4d14003cc89c64a689f1c38723ef5",
+                "name": "Live 5 News WCSC",
+                "url": "https://www.live5news.com",
+                "country": "us"
+            },
+            "title": "Trump signs executive order to block state AI regulations",
+            "url": "https://www.live5news.com/2025/12/12/trump-signs-executive-order-block-state-ai-regulations/",
+            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/XO2O32JIJJB5DIRVAS2H6O7F3I.jpg?auth=bcb4e50e459ef473ce599a8b12ecb71ea77ab9051317fe8df3b3341afcf9160a&width=1200&height=600&smart=true",
+            "publishedAt": "2025-12-12T02:41:53Z"
+        },
+        {
+            "source": {
+                "id": "04c17c43a7507fac95fd9ba5d47715b5",
+                "name": "WIS10",
+                "url": "https://www.wistv.com",
+                "country": "us"
+            },
+            "title": "Trump signs executive order to block state AI regulations",
+            "url": "https://www.wistv.com/2025/12/12/trump-signs-executive-order-block-state-ai-regulations/",
+            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/XO2O32JIJJB5DIRVAS2H6O7F3I.jpg?auth=bcb4e50e459ef473ce599a8b12ecb71ea77ab9051317fe8df3b3341afcf9160a&width=1200&height=600&smart=true",
+            "publishedAt": "2025-12-12T02:41:53Z"
+        },
+        {
+            "source": {
+                "id": "3f09ae62ee37a33ab191a698fec83f4b",
+                "name": "WEAU",
+                "url": "https://www.weau.com",
+                "country": "us"
+            },
+            "title": "Trump signs executive order to block state AI regulations",
+            "url": "https://www.weau.com/2025/12/12/trump-signs-executive-order-block-state-ai-regulations/",
+            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/XO2O32JIJJB5DIRVAS2H6O7F3I.jpg?auth=bcb4e50e459ef473ce599a8b12ecb71ea77ab9051317fe8df3b3341afcf9160a&width=1200&height=600&smart=true",
+            "publishedAt": "2025-12-12T02:41:53Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "Trump signs executive order blocking state AI laws",
+            "url": "https://www.bostonglobe.com/2025/12/11/business/trump-executive-order-state-ai-restrictions/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/XUGPUX2C4XTNQZMG66T6B3V6ZE.jpg?auth=89257b2557a22d48b5b30961b014bb5d5c9470fe495975fa996cec2e4c3eccd4&width=1440",
+            "publishedAt": "2025-12-12T02:34:34Z"
+        },
+        {
+            "source": {
+                "id": "549a7a859b2345bbe231b00e7244ef99",
+                "name": "Engadget",
+                "url": "https://www.engadget.com",
+                "country": "us"
+            },
+            "title": "Trump orders creation of litigation task force to challenge state AI laws",
+            "url": "https://www.engadget.com/ai/trump-orders-creation-of-litigation-task-force-to-challenge-state-ai-laws-022657022.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8031Yg9u9.LYzDzeXfF2zw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjg-/https://d29szjachogqwa.cloudfront.net/images/2025-12/688e7aaf-f8b9-4786-a6c8-4178fb6195a8",
+            "publishedAt": "2025-12-12T02:26:57Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "Donald Trump inks executive order to try and limit state",
+            "url": "https://www.cnbctv18.com/world/donald-trump-inks-executive-order-to-try-and-limit-state-level-ai-regulation-19789085.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2025/12/ap25346055572763-2025-12-4f46fe5abc88a65340006c9387c083e1.jpg?im=FitAndFill,width=500,height=300",
+            "publishedAt": "2025-12-12T02:23:18Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "KnowBe4 research reveals 96% of organisations ‘struggle to secure the human element ’ as AI transforms the nexgen workforce",
+            "url": "https://itwire.com/it-industry-news/strategy/knowbe4-research-reveals-96-of-organisations-%e2%80%98struggle-to-secure-the-human-element-%e2%80%99-as-ai-transforms-the-nexgen-workforce.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/3be6e69ec6837f469d9395f36c3385fe_XS.jpg",
+            "publishedAt": "2025-12-12T02:17:47Z"
+        },
         {
             "source": {
                 "id": "3a3847d645a619320aa3b3484581e395",
@@ -3354,138 +3486,6 @@
             "url": "https://timesofindia.indiatimes.com/education/news/who-is-carina-hong-a-24-year-old-stanford-dropout-who-attracted-metas-top-ai-researchers-to-her-startup/articleshow/125887238.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-125888235,width-1070,height-580,imgsize-30634,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
             "publishedAt": "2025-12-10T19:30:00Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "AI model improves recurrence risk stratification in HR-positive, HER2-negative breast cancer",
-            "url": "https://www.news-medical.net/news/20251210/AI-model-improves-recurrence-risk-stratification-in-HR-positive-HER2-negative-breast-cancer.aspx",
-            "urlToImage": "https://www.news-medical.net/images/tags/TagImage-1039-45840826385648151818-620x480.jpg",
-            "publishedAt": "2025-12-10T19:30:00Z"
-        },
-        {
-            "source": {
-                "id": "549a7a859b2345bbe231b00e7244ef99",
-                "name": "Engadget",
-                "url": "https://www.engadget.com",
-                "country": "us"
-            },
-            "title": "12 steps you can take right now to be safer online",
-            "url": "https://www.engadget.com/cybersecurity/12-steps-you-can-take-right-now-to-be-safer-online-130008335.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/41LRHdIQ87e2ehuuwMGyIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/13b86a10-6e4f-11f0-af79-3c5dc90e43f0",
-            "publishedAt": "2025-12-10T19:08:43Z"
-        },
-        {
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Navy Says AI Cut 160-Hour Submarine-Planning Job to 10 Minutes",
-            "url": "https://www.businessinsider.com/navy-ai-cut-hourslong-submarine-planning-job-to-minutes-2025-12",
-            "urlToImage": "https://i.insider.com/6939afa67ecd1d1da6634afc?width=1200&format=jpeg",
-            "publishedAt": "2025-12-10T19:04:30Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI identifies key mpox protein for new vaccine and antibody therapies",
-            "url": "https://medicalxpress.com/news/2025-12-ai-key-mpox-protein-vaccine.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-tips-off-scientists.jpg",
-            "publishedAt": "2025-12-10T19:00:01Z"
-        },
-        {
-            "source": {
-                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
-                "name": "OilPrice",
-                "url": "https://oilprice.com",
-                "country": "us"
-            },
-            "title": "Can Small Modular Reactors Solve Britain's AI Energy Crunch?",
-            "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Can-Small-Modular-Reactors-Solve-Britains-AI-Energy-Crunch.html",
-            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-10_t5qspcd2z6.jpg",
-            "publishedAt": "2025-12-10T19:00:00Z"
-        },
-        {
-            "source": {
-                "id": "046a50607901bb9bca25f6624dc87f76",
-                "name": "NBC 5 Chicago",
-                "url": "https://www.nbcchicago.com",
-                "country": "us"
-            },
-            "title": "New Illinois laws for workers’ rights limit use of AI in hiring",
-            "url": "https://www.nbcchicago.com/news/local/chicago-politics/new-illinois-laws-aimed-at-workers-limit-the-use-of-ai-in-hiring-processes/3861252/",
-            "urlToImage": "https://media.nbcchicago.com/2025/06/108166082-1751327278829-gettyimages-2218811671-05.jpeg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2025-12-10T18:51:50Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Criddle Partners with a $165MIL, 12MW Dallas Datacenter, Bringing 17,600 GPUs to DOMINAIT.ai, and a Co-Working Hub to AI and Tech Brands",
-            "url": "https://techbullion.com/criddle-partners-with-a-165mil-12mw-dallas-datacenter-bringing-17600-gpus-to-dominait-ai-and-a-co-working-hub-to-ai-and-tech-brands/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/IMG_3230-1.png",
-            "publishedAt": "2025-12-10T18:49:04Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "CJI Surya Kant reconstitutes AI committee of SC",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cji-surya-kant-reconstitutes-ai-committee-of-sc/articleshow/125896017.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-26722,resizemode-75,msid-125896017/tech/artificial-intelligence/cji-surya-kant-reconstitutes-ai-committee-of-sc.jpg",
-            "publishedAt": "2025-12-10T18:23:59Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "CJI Kant reconstitutes SC’s Artificial Intelligence Committee",
-            "url": "https://www.lokmattimes.com/technology/cji-kant-reconstitutes-scs-artificial-intelligence-committee-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202512103603487_202512.jpg",
-            "publishedAt": "2025-12-10T18:23:36Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "CJI Kant reconstitutes SC’s Artificial Intelligence Committee",
-            "url": "https://www.lokmattimes.com/national/cji-kant-reconstitutes-scs-artificial-intelligence-committee/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202512103603487_202512.jpg",
-            "publishedAt": "2025-12-10T18:23:36Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Jeff Bezos, Elon Musk race to build AI data centers in space: report",
-            "url": "https://nypost.com/2025/12/10/business/jeff-bezos-elon-musk-race-to-build-ai-data-centers-in-space-report/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/bezos-musk-space-ai-data-centers.jpg?quality=75&strip=all&1765371956&w=1200",
-            "publishedAt": "2025-12-10T18:15:43Z"
         }
     ]
 }
