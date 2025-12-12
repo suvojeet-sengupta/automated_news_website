@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-12-12T10:18:45.304562Z",
+    "lastUpdatedAt": "2025-12-12T11:16:02.330184Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Dow, S&P 500 mark record closes, Oracle drags on Nasdaq",
+            "url": "https://www.thestar.com.my/business/2025/12/12/dow-sp-500-mark-record-closes-oracle-drags-on-nasdaq",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/12/3668219.JPG",
+            "publishedAt": "2025-12-11T22:54:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Disney Sends Google Cease-and-Desist Letter Over Alleged Copyright Infringement Using AI",
+            "url": "https://www.marketscreener.com/news/disney-sends-google-cease-and-desist-letter-over-alleged-copyright-infringement-using-ai-ce7d50dbdc8af424",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-12-11T22:47:45Z"
+        },
+        {
+            "source": {
+                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+                "name": "Crypto News",
+                "url": "https://crypto.news",
+                "country": "lt"
+            },
+            "title": "AI firms MiniMax, Zhipu target Hong Kong IPOs in 2026",
+            "url": "https://crypto.news/china-ai-firms-minimax-zhipu-hong-kong-ipos-2026/",
+            "urlToImage": "https://media.crypto.news/2025/12/generated-1765483968785.webp",
+            "publishedAt": "2025-12-11T22:38:33Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "GOP Sen. McCormick Disputes Trump's AI Chip Sale to China",
+            "url": "https://www.newsmax.com/newsfront/dave-mccormick-donald-trump-ai-chips/2025/12/11/id/1237991/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b9c7bdb0-71da-4aec-be4a-bf6dceb90afb&SiteName=Newsmax",
+            "publishedAt": "2025-12-11T22:37:18Z"
+        },
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "Trump signs executive order to block state AI regulations",
+            "url": "https://triblive.com/business/technology/trump-signs-executive-order-to-block-state-ai-regulations/",
+            "urlToImage": "https://assets-varnish.triblive.com/2025/12/9122932_web1_9122932-36a2b25ff7c647c7aa33166ba24507c1.jpg",
+            "publishedAt": "2025-12-11T22:36:26Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "India on track to become largest GitHub community by 2030: Satya Nadella",
+            "url": "https://www.dailyexcelsior.com/india-on-track-to-become-largest-github-community-by-2030-satya-nadella/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/01/Satya-Nadella.jpg",
+            "publishedAt": "2025-12-11T22:31:51Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -2103,6 +2175,24 @@
         },
         {
             "source": {
+                "name": "webpronews"
+            },
+            "title": "Google Chrome Unveils Layered AI Defenses Against Prompt Injection Attacks",
+            "url": "https://www.webpronews.com/google-chrome-unveils-layered-ai-defenses-against-prompt-injection-attacks/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-3717-1765448082.jpeg",
+            "publishedAt": "2025-12-11 22:50:11"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple’s 2026 AR Smart Glasses: AI, Siri Upgrades, and iPhone Integration",
+            "url": "https://www.webpronews.com/apples-2026-ar-smart-glasses-ai-siri-upgrades-and-iphone-integration/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-3716-1765447858.jpeg",
+            "publishedAt": "2025-12-11 22:40:06"
+        },
+        {
+            "source": {
                 "name": "hackernoon"
             },
             "title": "Pioneering AI-Driven Digital Transformation by Rahamath Mohamed Razikh Ulla",
@@ -3402,102 +3492,6 @@
             "url": "https://www.tribuneindia.com/news/business/ai-native-autonomous-networks-to-transform-global-connectivity-vishnu-ram-of-itu-t/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMyYTg5MTYwLWQ1Y2YtMTFmMC05MjU0LTk5MGM4YWQ1MGZlOS5qcGc=",
             "publishedAt": "2025-12-10T13:50:27Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "native autonomous networks to transform global connectivity: Vishnu Ram of ITU",
-            "url": "https://www.lokmattimes.com/business/ai-native-autonomous-networks-to-transform-global-connectivity-vishnu-ram-of-itu-t/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251210134511_202512.jpg",
-            "publishedAt": "2025-12-10T13:45:36Z"
-        },
-        {
-            "source": {
-                "id": "d86acd5a472cad336b1f19dca3331ef5",
-                "name": "M Live Michigan ",
-                "url": "https://www.mlive.com",
-                "country": "us"
-            },
-            "title": "A Trump proposal could limit Michigan, other states’ AI laws",
-            "url": "https://www.mlive.com/politics/2025/12/a-trump-proposal-could-limit-michigan-other-states-ai-laws.html",
-            "urlToImage": "https://www.mlive.com/resizer/v2/OZA5EHQPVNAHZJ3TEG3CXIIV5M.jpg?auth=bb36e09b7328c0ffe4f73d3ebed8ec27ef4a773b1f2672c5758eda93e2ba639e&width=1280&smart=true&quality=90",
-            "publishedAt": "2025-12-10T13:20:00Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Netwrix Research: Over One-Third of Organizations Adjust Security Strategies in Response to AI-Driven Threats",
-            "url": "https://www.prnewswire.co.uk/news-releases/netwrix-research-over-one-third-of-organizations-adjust-security-strategies-in-response-to-ai-driven-threats-302637355.html",
-            "urlToImage": "https://mma.prnewswire.com/media/631922/Netwrix_Corporation_Logo.jpg?p=facebook",
-            "publishedAt": "2025-12-10T13:04:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India, Sweden partner to kick-start 7 breakthrough decarbonisation projects in steel & cement sectors",
-            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/indiasweden-partner-to-kick-start-7-breakthrough-decarbonisation-projects-in-steel-cement-sectors/articleshow/125891423.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125891421,width-1200,height-630,imgsize-88432,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-12-10T12:54:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Marking 30 years, Makino India’s next move in precision manufacturing for EVs, aerospace and semiconductors",
-            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/marking-30-years-makino-indias-next-move-in-precision-manufacturing-for-evs-aerospace-and-semiconductors/articleshow/125890867.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125890870,width-1200,height-630,imgsize-166112,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-12-10T12:31:00Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "With eyes on Balochistan’s critical minerals, US commits to $1.25 bn Pakistan Exim Bank financing",
-            "url": "https://www.firstpost.com/world/with-eyes-on-balochistans-critical-minerals-us-commits-to-1-25-bn-pakistan-exim-bank-financing-13958546.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/11/Firstpost-2025-11-14T123256.656-2025-11-7339012c8beef29203ebc91bd2848116.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2025-12-10T12:28:09Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Socura officially accredited as a Great Place To Work certified company",
-            "url": "https://www.prnewswire.co.uk/news-releases/socura-officially-accredited-as-a-great-place-to-work-certified-company-302637881.html",
-            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-            "publishedAt": "2025-12-10T12:27:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "China’s DeepSeek Uses Banned Nvidia Chips for AI Model, Report Says",
-            "url": "https://www.bloomberg.com/news/articles/2025-12-10/china-s-deepseek-uses-banned-nvidia-chips-for-ai-model-the-information-says",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izOXpmfbZxSQ/v0/1200x802.jpg",
-            "publishedAt": "2025-12-10T12:24:37Z"
         }
     ]
 }
