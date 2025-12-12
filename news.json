@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2025-12-12T12:35:44.942944Z",
+    "lastUpdatedAt": "2025-12-12T13:31:50.976621Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "US to mandate AI vendors measure political bias for federal sales",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/12/us-to-mandate-ai-vendors-measure-political-bias-for-federal-sales",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/12/3668298.jpg",
+            "publishedAt": "2025-12-12T01:27:00Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "BYT Capital announces ₹180 crore early-stage fund focused on deep-tech and frontier engineering",
+            "url": "https://www.thehindubusinessline.com/companies/byt-capital-announces-180-crore-early-stage-fund-focused-on-deep-tech-and-frontier-engineering/article70384854.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/7y5hdn/article70380629.ece/alternates/LANDSCAPE_1200/IMG_IMG_bl22_Startups_2__1_1_MCF7N0C6.jpg",
+            "publishedAt": "2025-12-12T01:25:48Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Copyright Act may be updated for AI royalty",
+            "url": "https://economictimes.indiatimes.com/news/economy/policy/copyright-act-may-be-updated-for-ai-royalty/articleshow/125923787.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125923798,width-1200,height-630,imgsize-9328,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-12-12T01:20:00Z"
+        },
+        {
+            "source": {
+                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+                "name": "The Dallas Morning News",
+                "url": "https://www.dallasnews.com",
+                "country": "us"
+            },
+            "title": "Time magazine names its ‘person’ of the year. Here’s who the editors chose",
+            "url": "https://www.dallasnews.com/business/technology/2025/12/11/time-magazine-names-its-person-of-the-year-heres-who-the-editors-chose/",
+            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/JDEB77SRVVEPFABFUC3WFBTDJE.jpg?auth=3aac8597fd2f72fc3cbc447a31cc56b4e182fb8731e1a79463ac1736d932b764&quality=80&width=1200&height=630&smart=true",
+            "publishedAt": "2025-12-12T01:05:11Z"
+        },
+        {
+            "source": {
+                "id": "8500efae8310099b1bcee1ef95a0434e",
+                "name": "KABC-TV",
+                "url": "https://abc7.com",
+                "country": "us"
+            },
+            "title": "Trump signs executive order blocking states from enforcing their own regulations around AI",
+            "url": "https://abc7.com/post/trump-signs-executive-order-blocking-states-enforcing-own-regulations-around-ai/18277390/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/18277364_121125-WLS-TRUMP-RAW-AI-AP-RAW-vid.jpg?w=1600",
+            "publishedAt": "2025-12-12T01:02:59Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Trump signs order to block state AI regulations",
+            "url": "https://apnews.com/article/trump-ai-regulation-executive-order-state-laws-9cb4dd1bc249e404260b3dc233217388",
+            "urlToImage": "https://dims.apnews.com/dims4/default/0714def/2147483647/strip/true/crop/5879x3307+0+307/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdc%2F29%2F8492447e6b3f9cbc763fc0b97acf%2F36a2b25ff7c647c7aa33166ba24507c1",
+            "publishedAt": "2025-12-12T00:55:34Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Trump signs executive order to block state AI regulations",
+            "url": "https://www.clickondetroit.com/news/politics/2025/12/12/trump-signs-executive-order-to-block-state-ai-regulations/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VTIKTKUYYBE7DBS5ZISXZXFAZY.jpg?_a=DATAg1eAZAA0",
+            "publishedAt": "2025-12-12T00:55:33Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Trump Signs Executive Order to Block State AI Regulations",
+            "url": "https://www.usnews.com/news/politics/articles/2025-12-11/trump-signs-executive-order-to-block-state-ai-regulations",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/79ab1cb/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F76%2F72e38bf43df0d3ba4d949973cfa65e%2F36a2b25ff7c647c7aa33166ba24507c1Trump_05228.jpg",
+            "publishedAt": "2025-12-12T00:55:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Broadcom forecasts upbeat quarterly revenue on AI chip demand",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/12/broadcom-forecasts-upbeat-quarterly-revenue-on-strong-ai-chip-demand",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/12/3668280.jpg",
+            "publishedAt": "2025-12-12T00:53:00Z"
+        },
+        {
+            "source": {
+                "id": "8b41f671a9a237f65861978dca3609d0",
+                "name": "Nikkei Asia",
+                "url": "https://asia.nikkei.com",
+                "country": "jp"
+            },
+            "title": "Trump signs order aimed at curbing state AI regulations",
+            "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/trump-signs-order-aimed-at-curbing-state-ai-regulations",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F0%2F7%2F5%2F11815700-2-eng-GB%2F72e263882cf3-2025-12-11T234413Z_838016420_RC2NEIA0782I_RTRMADP_3_USA-TRUMP.JPG?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+            "publishedAt": "2025-12-12T00:43:10Z"
+        },
         {
             "source": {
                 "id": "42600681ae4c3d6a7f1e7a6f213bce84",
@@ -3366,126 +3486,6 @@
             "url": "https://www.lokmattimes.com/business/experts-highlight-ais-expanding-role-in-agriculture-public-services/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251210150941_202512.jpg",
             "publishedAt": "2025-12-10T17:11:45Z"
-        },
-        {
-            "source": {
-                "id": "1a6c3258d04827f52d40713ad8166b1b",
-                "name": "Interesting Engineering",
-                "url": "https://interestingengineering.com",
-                "country": "us"
-            },
-            "title": "based power grid to challenge China’s data center push",
-            "url": "https://interestingengineering.com/space/us-space-based-power-grid-challenge-china",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Aetherflux.jpg",
-            "publishedAt": "2025-12-10T17:01:31Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "QuantGate : Announces Research Initiative into Bittensor to Enhance Algorithmic Trading Platform",
-            "url": "https://www.marketscreener.com/news/quantgate-announces-research-initiative-into-bittensor-to-enhance-algorithmic-trading-platform-ce7d50dadb89f722",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-12-10T16:50:27Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Former NIA DG Dinkar Gupta joins IIT Ropar as Professor of Practice",
-            "url": "https://www.tribuneindia.com/news/punjab/former-nia-dg-dinkar-gupta-joins-iit-ropar-as-professor-of-practice/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTRkN2MwMzYwLWQ1ZTctMTFmMC05MjU0LTk5MGM4YWQ1MGZlOS5qcGc=",
-            "publishedAt": "2025-12-10T16:42:48Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Inside Meta’s pivot from open source to money-making AI model",
-            "url": "https://www.mercurynews.com/2025/12/10/inside-metas-pivot-from-open-source-to-money-making-ai-model/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/10/Meta_AI_Teens_60816_9f895a.jpg?w=1024&h=682",
-            "publishedAt": "2025-12-10T16:33:18Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Machine learning models can help diagnose ALS earlier from a blood sample",
-            "url": "https://www.news-medical.net/news/20251210/Machine-learning-models-can-help-diagnose-ALS-earlier-from-a-blood-sample.aspx",
-            "urlToImage": "https://www.news-medical.net/images/tags/TagImage-1039-45840826385648151818-620x480.jpg",
-            "publishedAt": "2025-12-10T16:31:00Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "AI leaders warn of “catastrophic outcomes” as artificial general intelligence looms",
-            "url": "https://www.naturalnews.com/2025-12-10-ai-leaders-warn-catastrophic-outcomes-agi-looms.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/AI-Artificial-Intelligence-Angry-Emotion.jpg",
-            "publishedAt": "2025-12-10T16:30:58Z"
-        },
-        {
-            "source": {
-                "id": "75ca59dd354694befc1cf6038cf9ca33",
-                "name": "CoinDesk",
-                "url": "https://www.coindesk.com",
-                "country": "us"
-            },
-            "title": "Expansion Beyond Crypto Into AI Accelerates with QVAC Health App",
-            "url": "https://www.coindesk.com/business/2025/12/10/tether-rolls-out-privacy-focused-health-app-as-expansion-into-ai-accelerates",
-            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/c6e18e4f3535d7b28d4c087f965f15b807ffecf8-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-            "publishedAt": "2025-12-10T16:24:06Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "ChatGPT tops Apple's iPhone app downloads for 2025",
-            "url": "https://www.breitbart.com/news/chatgpt-tops-apples-iphone-app-downloads-for-2025/",
-            "urlToImage": "https://media.breitbart.com/media/2025/12/wi/upi/apple-ai-chief-retire-microsoft-exec-takes-apple-ai-chief-retire-microsoft-exec-takes-ove.jpg",
-            "publishedAt": "2025-12-10T16:11:23Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Amazon to invest over $35 billion in India on AI, exports",
-            "url": "https://www.manilatimes.net/2025/12/11/business/foreign-business/amazon-to-invest-over-35-billion-in-india-on-ai-exports/2240678",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/10/861879.jpg",
-            "publishedAt": "2025-12-10T16:10:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "How AI is speeding up drug discovery faster than any scientist ever could",
-            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/how-ai-is-speeding-up-drug-discovery-faster-than-any-scientist-ever-could/articleshow/125890548.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125890607,width-1070,height-580,imgsize-78682,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2025-12-10T16:00:00Z"
         }
     ]
 }
