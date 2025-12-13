@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-12-13T07:16:25.484059Z",
+    "lastUpdatedAt": "2025-12-13T08:20:18.920937Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Trump's order targeting state AI laws faces political and legal hurdles",
+            "url": "https://www.marketscreener.com/news/trump-s-order-targeting-state-ai-laws-faces-political-and-legal-hurdles-ce7d50d8da8ff420",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-12/2025-12-12T183346Z_1_LYNXMPELBB11W_RTROPTP_4_USA-TRUMP-AI-LEGAL.JPG",
+            "publishedAt": "2025-12-12T20:09:28Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Oracle Bonds Trade Like Junk as Spreads Widen, Debt Risk Flares",
+            "url": "https://www.bloomberg.com/news/articles/2025-12-12/oracle-bonds-trade-like-junk-as-spreads-widen-debt-risk-flares",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.4itJ9fVpG4/v0/1200x800.jpg",
+            "publishedAt": "2025-12-12T20:03:32Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Fox News AI Newsletter: Hegseth moves to revolutionize American warfighting",
+            "url": "https://www.foxnews.com/tech/ai-newsletter-hegseth-moves-revolutionize-american-warfighting",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/secretary-of-war-pete-hegseth.jpg",
+            "publishedAt": "2025-12-12T19:49:07Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Oracle-Broadcom one-two punch hits AI trade, but investor optimism persists",
+            "url": "https://www.marketscreener.com/news/oracle-broadcom-one-two-punch-hits-ai-trade-but-investor-optimism-persists-ce7d50d8da8cf12c",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-12/2025-12-12T111303Z_1_LYNXMPELBB0IM_RTROPTP_4_USA-ORACLE-CEO.JPG",
+            "publishedAt": "2025-12-12T19:46:20Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Rivian Stock Hits 52-Week High: What's Driving The Action?",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/12/49372223/rivian-stock-hits-52-week-high-whats-driving-the-action",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/12/12/Rivian_1.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-12-12T19:28:23Z"
+        },
         {
             "source": {
                 "id": "a3391c15eb1d3136f9b9dd080940d0e8",
@@ -2055,6 +2115,24 @@
         },
         {
             "source": {
+                "name": "hastingstribune"
+            },
+            "title": "What’s at stake in Trump’s executive order aiming to curb state-level AI regulation",
+            "url": "https://www.hastingstribune.com/ap/health/what-s-at-stake-in-trump-s-executive-order-aiming-to-curb-state-level-ai/article_aa3eb302-fd87-5cb0-a7b2-f3b958f52eaa.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
+            "publishedAt": "2025-12-12 20:02:21"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "AMD CEO Lisa Su Isn’t Afraid of the Competition",
+            "url": "https://www.wired.com/story/uncanny-valley-podcast-amd-ceo-lisa-su-isnt-afraid-of-the-competition/",
+            "urlToImage": "https://media.wired.com/photos/693a07b2584a0ef96634d76e/master/w_120,c_limit/business_uncanny_valley_lisa_su.jpg",
+            "publishedAt": "2025-12-12 20:01:14"
+        },
+        {
+            "source": {
                 "name": "webpronews"
             },
             "title": "Google Expands Gemini AI Deep Research to Developers via APIs",
@@ -3456,90 +3534,6 @@
             "url": "https://www.foxnews.com/politics/kristi-noem-faces-first-major-homeland-security-grilling-lawmakers-press-her-terror-threats",
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/01/kristi-noem.png",
             "publishedAt": "2025-12-11T13:01:09Z"
-        },
-        {
-            "source": {
-                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
-                "name": "NewsBreak",
-                "url": "https://www.newsbreak.com",
-                "country": "us"
-            },
-            "title": "Kristi Noem faces first major Homeland Security grilling as lawmakers press her on terror threats",
-            "url": "https://www.newsbreak.com/fox-news-510075/4391948847230-kristi-noem-faces-first-major-homeland-security-grilling-as-lawmakers-press-her-on-terror-threats",
-            "urlToImage": "https://img.particlenews.com/img/id/3uo1j7_17FQUGeZ00",
-            "publishedAt": "2025-12-11T13:01:09Z"
-        },
-        {
-            "source": {
-                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-                "name": "The Verge",
-                "url": "https://www.theverge.com",
-                "country": "us"
-            },
-            "title": "Opera’s AI browser Neon is now available to everyone.",
-            "url": "https://www.theverge.com/news/842257/operas-ai-browser-neon-is-now-available-to-everyone",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/opera-neon-do-screenshot.png?quality=90&strip=all&crop=0%2C5.4610238510762%2C100%2C89.077952297848&w=1200",
-            "publishedAt": "2025-12-11T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "df8898b40ea58da32bb50978f1d85cb3",
-                "name": "The Sun U.S Edition",
-                "url": "https://www.the-sun.com",
-                "country": "gb"
-            },
-            "title": "as Gaza peacemaker Trump & murdered Charlie Kirk are snubbed",
-            "url": "https://www.the-sun.com/news/15619478/ai-time-person-year-donald-trump-charlie-kirk-snubbed/",
-            "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/12/newspress-collage-jbays20qt-1765457466661.jpg?quality=90&strip=all&1765439480&w=1920&h=1080&crop=1",
-            "publishedAt": "2025-12-11T12:51:33Z"
-        },
-        {
-            "source": {
-                "id": "8749653ef849c3df2e467a8e0f0c6672",
-                "name": "NBC10 Boston",
-                "url": "https://www.nbcboston.com",
-                "country": "us"
-            },
-            "title": "Time magazine person of the year 2025: The architects of AI",
-            "url": "https://www.nbcboston.com/news/national-international/time-2025-person-of-the-year-architects-of-ai/3858994/",
-            "urlToImage": "https://media.nbcboston.com/2025/12/Blur-time-person-of-the-year-2025-jason-seiler-bc-251211-b011d012-11-2025-07-43-09.png?resize=1200%2C675&quality=85&strip=all",
-            "publishedAt": "2025-12-11T12:47:24Z"
-        },
-        {
-            "source": {
-                "id": "046a50607901bb9bca25f6624dc87f76",
-                "name": "NBC 5 Chicago",
-                "url": "https://www.nbcchicago.com",
-                "country": "us"
-            },
-            "title": "Time magazine person of the year 2025: The architects of AI",
-            "url": "https://www.nbcchicago.com/news/national-international/time-2025-person-of-the-year-architects-of-ai/3861615/",
-            "urlToImage": "https://media.nbcchicago.com/2025/12/Blur-time-person-of-the-year-2025-jason-seiler-bc-251211-b011d012-11-2025-07-43-09.png?resize=1200%2C675&quality=85&strip=all",
-            "publishedAt": "2025-12-11T12:47:24Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "Turning AI From Hype To Habit In Mid-Market Private Equity",
-            "url": "https://www.forbes.com/councils/forbesfinancecouncil/2025/12/11/turning-ai-from-hype-to-habit-in-mid-market-private-equity/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6852e53d1c2d17a58ed23f73/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-12-11T12:45:00Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Medicare's new AI experiment sparks alarm among doctors, lawmakers",
-            "url": "https://medicalxpress.com/news/2025-12-medicare-ai-alarm-doctors-lawmakers.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/medicare.jpg",
-            "publishedAt": "2025-12-11T12:40:02Z"
         }
     ]
 }
