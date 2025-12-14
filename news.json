@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-12-14T05:16:28.965421Z",
+    "lastUpdatedAt": "2025-12-14T06:24:24.793702Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Apple's next big iPhone update, iOS 27, may bring these new features",
+            "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/apples-next-big-iphone-update-ios-27-may-bring-these-new-features/articleshow/125952801.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125952801,width-1070,height-580,imgsize-20432,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-12-13T18:15:00Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Slop for dinner: How AI recipes took over the internet",
+            "url": "https://www.afr.com/life-and-luxury/food-and-wine/slop-for-dinner-how-ai-recipes-took-over-the-internet-20251127-p5nixl",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/df5d3a72d7ec89280910f740eadccb3eb39d83b2",
+            "publishedAt": "2025-12-13T18:00:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -672,6 +696,15 @@
             "url": "https://www.altoonamirror.com/news/national-news-apwire/2025/12/wallstreet-three-week-low-tech-tumbling/",
             "urlToImage": "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg",
             "publishedAt": "2025-12-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI Revolutionizes Scientific Research with Ethical Safeguards",
+            "url": "https://www.webpronews.com/ai-revolutionizes-scientific-research-with-ethical-safeguards/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-3783-1765649431.jpeg",
+            "publishedAt": "2025-12-13 18:10:37"
         },
         {
             "source": {
@@ -3486,42 +3519,6 @@
             "url": "https://www.manilatimes.net/2025/12/12/tmt-newswire/globenewswire/arteris-to-expand-portfolio-with-acquisition-of-cycuity-a-leader-in-semiconductor-cybersecurity-assurance/2242063",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/12/864527.png",
             "publishedAt": "2025-12-11T21:23:05Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "The US stock market hits record highs, even as worries about an AI bubble continue",
-            "url": "https://www.barchart.com/story/news/36564140/the-us-stock-market-hits-record-highs-even-as-worries-about-an-ai-bubble-continue",
-            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/62b57388b0c34a1fa92940aa5e6e2ee7/62b57388b0c34a1fa92940aa5e6e2ee7_main_financial_markets_wall_street_82084.jpg",
-            "publishedAt": "2025-12-11T21:20:57Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Broadcom forecasts upbeat quarterly revenue on strong AI chip demand",
-            "url": "https://www.reuters.com/business/broadcom-forecasts-upbeat-quarterly-revenue-strong-ai-chip-demand-2025-12-11/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/K3GIGG2ZPNOZZEBFYN7YGEKFPU.jpg?auth=71555b71c2c94b9b359323ac083199b3b3c824ccfcaad764dfbbd5e46a25c966&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-12-11T21:19:39Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Broadcom forecasts upbeat quarterly revenue on strong AI chip demand",
-            "url": "https://www.marketscreener.com/news/broadcom-forecasts-upbeat-quarterly-revenue-on-strong-ai-chip-demand--ce7d50dbdd8ef125",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-14T131221Z_1_LYNXNPEL9D0OU_RTROPTP_4_TECH-BROADCOM-CHIPS.JPG",
-            "publishedAt": "2025-12-11T21:19:01Z"
         }
     ]
 }
