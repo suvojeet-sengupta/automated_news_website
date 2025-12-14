@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-12-14T07:15:22.269459Z",
+    "lastUpdatedAt": "2025-12-14T08:20:37.171403Z",
     "articles": [
+        {
+            "source": {
+                "id": "aaa6f2928e430ec2ed450ed89cc822f5",
+                "name": "Salt Lake City Deseret News",
+                "url": "https://www.deseret.com",
+                "country": "us"
+            },
+            "title": "The future of work, according to Anthropic",
+            "url": "https://www.deseret.com/opinion/2025/12/13/future-of-work-ai-anthropic-study/",
+            "urlToImage": "https://www.deseret.com/resizer/v2/EA3CRQJ4WNHCLAJGECP4QF72PM.JPG?focal=1493%2C1005&auth=0bc3e7b7023901c9f3ded366041ad7e13a76777e8ca67b113ac675ce6c0346a5&width=630",
+            "publishedAt": "2025-12-13T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c97ef3cad273a1993c998ca7ddcc5212",
+                "name": "Daily Express",
+                "url": "https://www.express.co.uk",
+                "country": "gb"
+            },
+            "title": "Artificial Intelligence lies fuel conflict and endanger UK freedoms",
+            "url": "https://www.express.co.uk/news/politics/2145939/artificial-intelligence-lies-fuel-conflict",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/139/1200x630/6611984.jpg",
+            "publishedAt": "2025-12-13T19:52:00Z"
+        },
         {
             "source": {
                 "id": "5784855bc642514502eec4806fd222d1",
@@ -708,6 +732,15 @@
             "url": "https://www.altoonamirror.com/news/national-news-apwire/2025/12/wallstreet-three-week-low-tech-tumbling/",
             "urlToImage": "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg",
             "publishedAt": "2025-12-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "iOS 26 Leak Exposes Upcoming Features for iOS 26.4, 27, and 28",
+            "url": "https://www.webpronews.com/ios-26-leak-exposes-upcoming-features-for-ios-26-4-27-and-28/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-3796-1765655834.jpeg",
+            "publishedAt": "2025-12-13 19:57:18"
         },
         {
             "source": {
@@ -3483,42 +3516,6 @@
             "url": "https://www.latimes.com/business/story/2025-12-11/stock-market-hits-record-highs-even-as-worries-about-ai-bubble-continue",
             "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/9b6d76c/2147483647/strip/true/crop/4366x2292+0+309/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4b%2F49%2Ff988c7084fd39130ddad99b1a4b5%2Fae14aeabadce461194c7cecb201888ce.jpg",
             "publishedAt": "2025-12-11T21:33:31Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "OpenAI unveils more advanced model as race with Google heats up",
-            "url": "https://www.mercurynews.com/2025/12/11/openai-unveils-more-advanced-model-as-race-with-google-heats-up/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/06/Education-Artificial_Intelligence_04728-1.jpg?w=1024&h=682",
-            "publishedAt": "2025-12-11T21:27:18Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "OpenAI launches GPT-5.2 after 'code red' push to counter Google's Gemini 3",
-            "url": "https://www.marketscreener.com/news/openai-launches-gpt-5-2-after-code-red-push-to-counter-google-s-gemini-3-ce7d50dbdd81f621",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2024-08/2024-08-16T201746Z_3_LYNXMPEK7F0M0_RTROPTP_3_TECH-ANTITRUST-GOOGLE-AI.JPG",
-            "publishedAt": "2025-12-11T21:25:17Z"
-        },
-        {
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            },
-            "title": "Netskope Reports Smaller-Than-Expected Loss, Guidance Edges By Views",
-            "url": "https://www.investors.com/news/technology/netskope-stock-netskope-earnings-q32025/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/03/Stock-cybersecuritylock-blue-genAI-01-adobe.jpg",
-            "publishedAt": "2025-12-11T21:25:06Z"
         }
     ]
 }
