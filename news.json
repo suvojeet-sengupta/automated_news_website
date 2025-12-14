@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-12-14T08:20:37.171403Z",
+    "lastUpdatedAt": "2025-12-14T09:16:10.112028Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Goldman Sachs expects the S&P 500 to reach 7,600 in 2026 thanks to AI",
+            "url": "https://www.marketscreener.com/news/goldman-sachs-expects-the-s-p-500-to-reach-7-600-in-2026-thanks-to-ai-ce7d50d8de88f42c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-12-13T21:01:06Z"
+        },
         {
             "source": {
                 "id": "aaa6f2928e430ec2ed450ed89cc822f5",
@@ -732,6 +744,15 @@
             "url": "https://www.altoonamirror.com/news/national-news-apwire/2025/12/wallstreet-three-week-low-tech-tumbling/",
             "urlToImage": "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg",
             "publishedAt": "2025-12-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Nvidia Eyes RTX 50 Super Reveal at CES 2026 Amid Supply Hurdles",
+            "url": "https://www.webpronews.com/nvidia-eyes-rtx-50-super-reveal-at-ces-2026-amid-supply-hurdles/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-3799-1765657508.jpeg",
+            "publishedAt": "2025-12-13 20:25:13"
         },
         {
             "source": {
@@ -3492,30 +3513,6 @@
             "url": "https://www.newsmax.com/finance/streettalk/ai-toys-safety/2025/12/11/id/1237981/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=043c9c45-e9d9-4c75-a5c0-ba1693fb6def&SiteName=Newsmax",
             "publishedAt": "2025-12-11T21:53:42Z"
-        },
-        {
-            "source": {
-                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-                "name": "Anchorage Daily News",
-                "url": "https://www.adn.com",
-                "country": "us"
-            },
-            "title": "‘Uncharted territory’: State weighs major AI overhaul for myAlaska",
-            "url": "https://www.adn.com/alaska-news/2025/12/11/uncharted-territory-state-weighs-major-ai-overhaul-for-myalaska/",
-            "urlToImage": "https://www.adn.com/resizer/v2/BGM47RWIEFGAVLJ7ENH3PM3FRQ.jpg?smart=true&auth=05bd382d515632dec00d474c870f08d95a07c29549c66e0d649cabf042e05fa2&width=1200&height=630",
-            "publishedAt": "2025-12-11T21:47:34Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Stock market hits record highs, even as worries about an AI bubble continue",
-            "url": "https://www.latimes.com/business/story/2025-12-11/stock-market-hits-record-highs-even-as-worries-about-ai-bubble-continue",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/9b6d76c/2147483647/strip/true/crop/4366x2292+0+309/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4b%2F49%2Ff988c7084fd39130ddad99b1a4b5%2Fae14aeabadce461194c7cecb201888ce.jpg",
-            "publishedAt": "2025-12-11T21:33:31Z"
         }
     ]
 }
