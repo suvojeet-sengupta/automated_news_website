@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-12-15T01:21:06.285773Z",
+    "lastUpdatedAt": "2025-12-15T03:26:43.181290Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "ServiceNow reportedly in talks to acquire cybersecurity startup Armis",
+            "url": "https://www.cnbc.com/2025/12/14/servicenow-reportedly-in-talks-to-acquire-cybersecurity-startup-armis.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194579-1757019770569-gettyimages-2233043798-SERVICENOW_HQ.jpeg?v=1757019790&w=1920&h=1080",
+            "publishedAt": "2025-12-14T15:07:12Z"
+        },
+        {
+            "source": {
+                "id": "f1bf32bc7d2c9750240a24442fde5232",
+                "name": "Calgary Herald",
+                "url": "https://calgaryherald.com",
+                "country": "ca"
+            },
+            "title": "Wall Street sees an AI bubble forming and is gaming what pops it",
+            "url": "https://calgaryherald.com/pmn/business-pmn/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it/wcm/dff9b5d1-8a6a-4ba3-aa8e-387679dccd84",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2025/12/nasdaq-100-has-more-than-doubled-since-chatgpt.jpg",
+            "publishedAt": "2025-12-14T14:23:37Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Wall Street Sees AI Bubble Coming and Is Betting on What Pops It",
+            "url": "https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijt8j35wEhRU/v1/1200x800.jpg",
+            "publishedAt": "2025-12-14T14:00:00Z"
+        },
+        {
+            "source": {
+                "id": "bff0cd3b8c64dceaada8841bea814f65",
+                "name": "The Telegraph",
+                "url": "https://www.telegraph.co.uk",
+                "country": "gb"
+            },
+            "title": "Power-hungry tech giants harness jet engines to fire up AI",
+            "url": "https://www.telegraph.co.uk/business/2025/12/14/silicon-valley-turns-to-supersonic-jet-engines-to-power-ai/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/briefs/2025/12/11/TELEMMGLPICT000452964786_17654582845290_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
+            "publishedAt": "2025-12-14T14:00:00Z"
+        },
         {
             "source": {
                 "id": "e3cad7a35669a0f5933fa172f5aa2e41",
@@ -315,6 +363,18 @@
         },
         {
             "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "ServiceNow near deal to buy cybersecurity startup Armis for up to $7 billion, Bloomberg News reports",
+            "url": "https://www.reuters.com/business/servicenow-near-deal-buy-cybersecurity-startup-armis-up-7-billion-bloomberg-news-2025-12-14/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-12-14T00:36:35Z"
+        },
+        {
+            "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
                 "name": "MarketScreener",
                 "url": "https://www.marketscreener.com",
@@ -324,6 +384,15 @@
             "url": "https://www.marketscreener.com/news/servicenow-near-deal-to-buy-cybersecurity-startup-armis-for-up-to-7-billion-bloomberg-news-reports-ce7d50d8de8bf72d",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
             "publishedAt": "2025-12-14T00:31:17Z"
+        },
+        {
+            "source": {
+                "name": "therobotreport"
+            },
+            "title": "With AI, MIT researchers teach a robot to build furniture by just asking",
+            "url": "https://www.therobotreport.com/mit-researchers-use-ai-teach-a-robot-build-furniture-just-asking/",
+            "urlToImage": "https://www.therobotreport.com/wp-content/uploads/2025/12/MIT-MAD_Figure1a-featured.jpg",
+            "publishedAt": "2025-12-14 13:30:05"
         },
         {
             "source": {
@@ -3498,60 +3567,6 @@
             "url": "https://theconversation.com/can-scientists-detect-life-without-knowing-what-it-looks-like-research-using-machine-learning-offers-a-new-way-271066",
             "urlToImage": "https://images.theconversation.com/files/707492/original/file-20251209-56-sy1vo9.jpg?ixlib=rb-4.1.0&rect=22%2C0%2C2004%2C1001&q=45&auto=format&w=1356&h=668&fit=crop",
             "publishedAt": "2025-12-12T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "What’s at stake in Trump’s executive order aiming to curb state-level AI regulation",
-            "url": "https://www.hastingstribune.com/ap/health/what-s-at-stake-in-trump-s-executive-order-aiming-to-curb-state-level-ai/article_aa3eb302-fd87-5cb0-a7b2-f3b958f52eaa.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2025-12-12 20:02:21"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "AMD CEO Lisa Su Isn’t Afraid of the Competition",
-            "url": "https://www.wired.com/story/uncanny-valley-podcast-amd-ceo-lisa-su-isnt-afraid-of-the-competition/",
-            "urlToImage": "https://media.wired.com/photos/693a07b2584a0ef96634d76e/master/w_120,c_limit/business_uncanny_valley_lisa_su.jpg",
-            "publishedAt": "2025-12-12 20:01:14"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google Expands Gemini AI Deep Research to Developers via APIs",
-            "url": "https://www.webpronews.com/google-expands-gemini-ai-deep-research-to-developers-via-apis/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-3739-1765558623.jpeg",
-            "publishedAt": "2025-12-12 16:57:09"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "AI Creation Engines Transform Biotech as Wellness Tech Captures Growth Wave",
-            "url": "https://www.benzinga.com/pressreleases/25/12/n49363456/ai-creation-engines-transform-biotech-as-wellness-tech-captures-growth-wave",
-            "urlToImage": "https://mma.prnewswire.com/media/2840019/Equity_Insider_Logo.jpg?auto=webp&dpr=2&optimize=medium&width=828",
-            "publishedAt": "2025-12-12 15:15:00"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Disney does a dubious deal with OpenAI, even as trust in AI wanes",
-            "url": "https://siliconangle.com/2025/12/12/disney-dubious-deal-openai-even-trust-ai-wanes/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/igeraltman-reve.png",
-            "publishedAt": "2025-12-12 14:00:41"
-        },
-        {
-            "source": {
-                "name": "livescience"
-            },
-            "title": "New 'DNA cassette tape' can store up to 1.5 million times more data than a smartphone — and the data can last 20,000 years if frozen",
-            "url": "https://www.livescience.com/technology/computing/new-dna-cassette-tape-can-store-up-to-1-5-million-times-more-data-than-a-smartphone-and-the-data-can-last-20-000-years-if-frozen",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UVJzfLGg99vCahWjCfXHrf-1280-80.png",
-            "publishedAt": "2025-12-12 13:10:00"
         }
     ]
 }
