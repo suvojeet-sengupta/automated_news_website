@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-12-16T07:20:06.204902Z",
+    "lastUpdatedAt": "2025-12-16T08:24:57.052443Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Infra, AC firms eye gains from India’s data centre investment boom",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/infra-ac-firms-eye-gains-from-indias-data-centre-investment-boom/articleshow/125990105.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125990164,width-1200,height-630,imgsize-1684342,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-12-15T20:10:00Z"
+        },
+        {
+            "source": {
+                "id": "c837db3560dbe304554f10dddd97c3c8",
+                "name": "People.com",
+                "url": "https://people.com",
+                "country": "us"
+            },
+            "title": "Merriam-Webster Crowns 'Slop' as the 2025 Word of the Year. Here's Why",
+            "url": "https://people.com/merriam-webster-crowns-slop-as-the-2025-word-of-the-year-11869168",
+            "urlToImage": "https://people.com/thmb/8nnehllwQCIoJj6JQQ4CA5HpOmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/slop-dictionary-121525-9761e910132041e1ae43f0a159b6e88d.jpg",
+            "publishedAt": "2025-12-15T20:08:09Z"
+        },
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "McKinsey to make thousands of layoffs as AI advances",
+            "url": "https://www.thetimes.com/business/companies-markets/article/mckinsey-to-make-thousands-of-layoffs-as-ai-advances-mvpckpj3b",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F89fa5d4c-87b3-48b1-ae1e-e41c95660031.jpg?crop=728%2C410%2C0%2C23&resize=1200",
+            "publishedAt": "2025-12-15T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Japanese brewer Kirin to ramp up beer development using proprietary AI",
+            "url": "https://japantoday.com/category/business/japanese-brewer-kirin-to-ramp-up-beer-development-using-proprietary-ai",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2025-12-15T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Old Dominion University Becomes First University to Earn NSA Cybersecurity Validation for AI Academic Programs",
+            "url": "https://www.manilatimes.net/2025/12/16/tmt-newswire/globenewswire/old-dominion-university-becomes-first-university-to-earn-nsa-cybersecurity-validation-for-ai-academic-programs/2243896",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/16/868691.jpg",
+            "publishedAt": "2025-12-15T19:41:14Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "ServiceNow Is Said to Near Up to $7B Deal for Armis",
+            "url": "https://www.marketscreener.com/news/servicenow-is-said-to-near-up-to-7b-deal-for-armis-ce7d50d9dc8ff62c",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3524204.png",
+            "publishedAt": "2025-12-15T19:37:40Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Old Dominion University Becomes First University to Earn",
+            "url": "https://www.globenewswire.com/news-release/2025/12/15/3205779/0/en/Old-Dominion-University-Becomes-First-University-to-Earn-NSA-Cybersecurity-Validation-for-AI-Academic-Programs.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/56e2d35c-c259-475d-a592-3b77592de769",
+            "publishedAt": "2025-12-15T19:32:01Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Texas universities deploy AI tools to review and rewrite how some courses discuss race and gender",
+            "url": "https://apnews.com/article/artificial-intelligence-colleges-and-universities-texas-general-news-7847fe78be371f9da5ad8503a9b67eeb",
+            "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+            "publishedAt": "2025-12-15T19:31:47Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Trump Administration Begins Program to Increase Government’s Tech Worker Ranks",
+            "url": "https://www.nytimes.com/2025/12/15/us/politics/trump-tech-workers.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/12/15/multimedia/15DC-tech-1-hkqm/15DC-tech-1-hkqm-facebookJumbo.jpg",
+            "publishedAt": "2025-12-15T19:20:32Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -1500,6 +1608,33 @@
             "url": "https://www.thehitavada.com/Encyc/2025/12/15/india-worlds-3rd-most-competitive-ai-power.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2025/12/15/Screenshot-2025-12-15-134433_202512151344535453_H@@IGHT_232_W@@IDTH_376.png",
             "publishedAt": "2025-12-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI Agents Poised to Dominate 60% of Software Economics by 2030",
+            "url": "https://www.webpronews.com/ai-agents-poised-to-dominate-60-of-software-economics-by-2030/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-3933-1765788927.jpeg",
+            "publishedAt": "2025-12-15 19:50:06"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Oracle Launches A4 Instances with AmpereOne Arm Processors for AI Gains",
+            "url": "https://www.webpronews.com/oracle-launches-a4-instances-with-ampereone-arm-processors-for-ai-gains/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-4003-1765827761.jpeg",
+            "publishedAt": "2025-12-15 19:42:46"
+        },
+        {
+            "source": {
+                "name": "deccanherald"
+            },
+            "title": "Robotics pioneer says the field has lost its way",
+            "url": "https://www.deccanherald.com/world/robotics-pioneer-says-the-field-has-lost-its-way-3830110",
+            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-12-15%2F43mauzdt%2F8bSPkSxQ400x400.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&w=1200",
+            "publishedAt": "2025-12-15 19:34:12"
         },
         {
             "source": {
@@ -3327,150 +3462,6 @@
             "url": "https://www.marketscreener.com/news/tech-slides-as-oracle-broadcom-revive-ai-bubble-concerns-tech-roundup-ce7d50d8dd8bff24",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
             "publishedAt": "2025-12-12T22:44:33Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Financials Flat as Traders Rotate Out of Tech - Financials Roundup",
-            "url": "https://www.marketscreener.com/news/financials-flat-as-traders-rotate-out-of-tech-financials-roundup-ce7d50d8dd8bf02c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-12-12T22:44:17Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Tumbling tech stocks drag Wall Street to its worst day in 3 weeks",
-            "url": "https://wtop.com/world/2025/12/asian-shares-track-us-stock-markets-rise-to-record-highs-despite-ai-bubble-worries/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/12/South_Korea_Financial_Markets_31612-scaled.jpg",
-            "publishedAt": "2025-12-12T22:19:04Z"
-        },
-        {
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            },
-            "title": "Former Accenture employee charged by DoJ for cloud security fraud",
-            "url": "https://www.techradar.com/pro/security/former-accenture-employee-charged-by-doj-for-cloud-security-fraud",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2tU6QMFtYxP35p2qFB2Uv7-1077-80.jpg",
-            "publishedAt": "2025-12-12T22:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "States Set to Defy Trump AI Order, Brace for Legal Fight",
-            "url": "https://www.newsmax.com/politics/ai-donald-trump-executive-order/2025/12/12/id/1238129/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=278219ce-229d-4d42-8b45-7eade3621502&SiteName=Newsmax",
-            "publishedAt": "2025-12-12T21:38:08Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "NVDA Stock Forecast: Analysts Say Nvidia Could Hit $258, Up 43% from Current Levels",
-            "url": "https://markets.businessinsider.com/news/stocks/nvda-stock-forecast-analysts-say-nvidia-could-hit-258-up-43-from-current-levels-1035642172",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/12/image-1323.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-12-12T21:09:00Z"
-        },
-        {
-            "source": {
-                "id": "3f09ae62ee37a33ab191a698fec83f4b",
-                "name": "WEAU",
-                "url": "https://www.weau.com",
-                "country": "us"
-            },
-            "title": "Consumer safety report warns of disturbing responses from AI-powered toys",
-            "url": "https://www.weau.com/2025/12/12/consumer-safety-report-warns-disturbing-responses-ai-powered-toys/",
-            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/65D4BPM42JHITFHC5V3ZEVM4FA.jpg?auth=00a4fe74097a65de0e970d0cebe1505ad82342c0d427ecce457479e8dfdb21ef&width=1200&height=600&smart=true",
-            "publishedAt": "2025-12-12T20:55:43Z"
-        },
-        {
-            "source": {
-                "id": "04c17c43a7507fac95fd9ba5d47715b5",
-                "name": "WIS10",
-                "url": "https://www.wistv.com",
-                "country": "us"
-            },
-            "title": "Consumer safety report warns of disturbing responses from AI-powered toys",
-            "url": "https://www.wistv.com/2025/12/12/consumer-safety-report-warns-disturbing-responses-ai-powered-toys/",
-            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/65D4BPM42JHITFHC5V3ZEVM4FA.jpg?auth=00a4fe74097a65de0e970d0cebe1505ad82342c0d427ecce457479e8dfdb21ef&width=1200&height=600&smart=true",
-            "publishedAt": "2025-12-12T20:55:43Z"
-        },
-        {
-            "source": {
-                "id": "e7b4d14003cc89c64a689f1c38723ef5",
-                "name": "Live 5 News WCSC",
-                "url": "https://www.live5news.com",
-                "country": "us"
-            },
-            "title": "Consumer safety report warns of disturbing responses from AI-powered toys",
-            "url": "https://www.live5news.com/2025/12/12/consumer-safety-report-warns-disturbing-responses-ai-powered-toys/",
-            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/65D4BPM42JHITFHC5V3ZEVM4FA.jpg?auth=00a4fe74097a65de0e970d0cebe1505ad82342c0d427ecce457479e8dfdb21ef&width=1200&height=600&smart=true",
-            "publishedAt": "2025-12-12T20:55:43Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Stocks drop as AI exuberance worries linger; US yields jump",
-            "url": "https://www.marketscreener.com/news/stocks-drop-as-ai-exuberance-worries-linger-us-yields-jump-ce7d50d8da8ef427",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-03T020907Z_1_LYNXNPEL5201V_RTROPTP_4_GLOBAL-MARKETS.JPG",
-            "publishedAt": "2025-12-12T20:47:43Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "Advocacy Groups Say Trump's AI Order Could Be Illegal",
-            "url": "https://www.newsmax.com/newsfront/donald-trump-artificial-intelligence-executive-order/2025/12/12/id/1238121/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=31ba872f-37ad-4596-8f0e-b31f786dec00&SiteName=Newsmax",
-            "publishedAt": "2025-12-12T20:47:38Z"
-        },
-        {
-            "source": {
-                "id": "1b97b25c0ec482f85326378f82f7f815",
-                "name": "Fox Business",
-                "url": "https://www.foxbusiness.com",
-                "country": "us"
-            },
-            "title": "Arizona city unanimously rejects AI data center after residents' outcry",
-            "url": "https://www.foxbusiness.com/politics/arizona-city-unanimously-rejects-ai-data-center-after-residents-outcry",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/chandler-az-ai-data-center-meeting.jpg?ve=1&tl=1",
-            "publishedAt": "2025-12-12T20:32:51Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Fake website imitating Japanese PM's office contains Russian instructions",
-            "url": "https://japantoday.com/category/politics/fake-website-imitating-japanese-pm-office-contains-russian-instructions",
-            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
-            "publishedAt": "2025-12-12T20:30:00Z"
         }
     ]
 }
