@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-12-17T06:26:40.875795Z",
+    "lastUpdatedAt": "2025-12-17T07:19:32.709523Z",
     "articles": [
+        {
+            "source": {
+                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+                "name": "ZeroHedge",
+                "url": "https://www.zerohedge.com",
+                "country": "us"
+            },
+            "title": "Satyajit Das: AI - Artificial Intelligence or Absolute Insanity?",
+            "url": "https://www.zerohedge.com/ai/satyajit-das-ai-artificial-intelligence-or-absolute-insanity",
+            "urlToImage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-12/1350191_9947044_Revolutionary-nu.jpg?itok=2_0xG2uo",
+            "publishedAt": "2025-12-16T19:05:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Goldman Revamps Tech Banking Group as AI Infrastructure Booms",
+            "url": "https://www.bloomberg.com/news/articles/2025-12-16/goldman-revamps-tech-banking-group-as-ai-infrastructure-booms",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwRoQrC0usHI/v0/1200x800.jpg",
+            "publishedAt": "2025-12-16T19:04:06Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US State Dept doc outlines priority areas for Quad",
+            "url": "https://economictimes.indiatimes.com/news/india/us-state-dept-doc-outlines-priority-areas-for-quad/articleshow/126018263.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-126018263,width-1200,height-630,imgsize-11452,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-12-16T18:55:00Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -1392,6 +1428,15 @@
             "url": "https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.3003539",
             "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003539.g002&size=inline",
             "publishedAt": "2025-12-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Amazon adds AI chatbot to the Kindle app which offers \"spoiler-free\" answers about your ebooks",
+            "url": "https://www.tomsguide.com/computing/e-readers/amazon-adds-ai-chatbot-to-the-kindle-app-which-offers-spoiler-free-answers-about-your-ebooks",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cZT6dGYqnA8Cob6sjGWhKe-1280-80.jpg",
+            "publishedAt": "2025-12-16 18:45:55"
         },
         {
             "source": {
@@ -3468,42 +3513,6 @@
             "url": "https://www.webpronews.com/oracle-launches-a4-instances-with-ampereone-arm-processors-for-ai-gains/",
             "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-4003-1765827761.jpeg",
             "publishedAt": "2025-12-15 19:42:46"
-        },
-        {
-            "source": {
-                "name": "deccanherald"
-            },
-            "title": "Robotics pioneer says the field has lost its way",
-            "url": "https://www.deccanherald.com/world/robotics-pioneer-says-the-field-has-lost-its-way-3830110",
-            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-12-15%2F43mauzdt%2F8bSPkSxQ400x400.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&w=1200",
-            "publishedAt": "2025-12-15 19:34:12"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Cloudflare 2025 Radar: AI Dominates Traffic Amid Record DDoS Surge",
-            "url": "https://www.webpronews.com/cloudflare-2025-radar-ai-dominates-traffic-amid-record-ddos-surge/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-3995-1765825880.jpeg",
-            "publishedAt": "2025-12-15 19:11:25"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "Nvidia Buys AI Software Provider SchedMD To Expand Open-Source AI Push",
-            "url": "https://www.republicworld.com/tech/nvidia-buys-ai-software-provider-schedmd-to-expand-open-source-ai-push",
-            "urlToImage": "https://img.republicworld.com/all_images/nvidia-1765347749767-16_9.webp?format=webp&h=225&q=75&w=400",
-            "publishedAt": "2025-12-15 17:24:18"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "The Gorman Paradox: Why AI-Generated Apps Remain Scarce Despite Coding Prowess",
-            "url": "https://www.webpronews.com/the-gorman-paradox-why-ai-generated-apps-remain-scarce-despite-coding-prowess/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-3955-1765816746.jpeg",
-            "publishedAt": "2025-12-15 16:39:11"
         }
     ]
 }
