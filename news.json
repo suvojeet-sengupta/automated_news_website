@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-12-17T03:16:37.209636Z",
+    "lastUpdatedAt": "2025-12-17T04:29:34.008263Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Nvidia buys AI software provider SchedMD",
+            "url": "https://www.manilatimes.net/2025/12/17/business/foreign-business/nvidia-buys-ai-software-provider-schedmd/2244548",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-12-16T16:17:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Scouting America Hosts Cybersecurity Merit Badge Day at",
+            "url": "https://www.globenewswire.com/news-release/2025/12/16/3206440/0/en/Scouting-America-Hosts-Cybersecurity-Merit-Badge-Day-at-National-Museum-of-the-U-S-Air-Force.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/b2f44c00-09b0-4d83-a3b6-30f33e76f66a",
+            "publishedAt": "2025-12-16T16:03:20Z"
+        },
+        {
+            "source": {
+                "id": "74373d37da4d4a3faf05b8b7af0eafd7",
+                "name": "The North Bay Nugget",
+                "url": "https://www.nugget.ca",
+                "country": "ca"
+            },
+            "title": "Sault city council welcomes new cybersecurity monitoring centre",
+            "url": "https://www.nugget.ca/news/sault-city-council-welcomes-new-cybersecurity-monitoring-centre-to-west-end",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2025/10/GettyImages-1322517295-e1646335497547-1-e1702585732492-3.jpg",
+            "publishedAt": "2025-12-16T15:45:31Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "This cybersecurity stock is emerging as an AI play. How to play it with options",
+            "url": "https://www.cnbc.com/2025/12/16/this-cybersecurity-stock-is-emerging-as-an-ai-play-how-to-play-it-with-options.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240921-1765489850066-gettyimages-2251443752-anotherday161738413_njsa0qmy.jpeg?v=1765897891&w=1920&h=1080",
+            "publishedAt": "2025-12-16T15:29:37Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The Old VC Playbook Doesn’t Work for AI: Brainworks Thinks It Has the Replacement",
+            "url": "https://techbullion.com/the-old-vc-playbook-doesnt-work-for-ai-brainworks-thinks-it-has-the-replacement/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/9BBB4985-53D8-4F19-BF6F-C6E7D055682B-1000x600.jpeg",
+            "publishedAt": "2025-12-16T15:29:31Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "AI boom seen lifting chipmaking equipment sales 9% to $126 billion in 2026",
+            "url": "https://www.reuters.com/world/asia-pacific/ai-boom-seen-lifting-chipmaking-equipment-sales-9-126-billion-2026-2025-12-16/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/3F2WIWH43ZJB7HXPECZASJ674U.jpg?auth=1a34083f0febda5e0c664b51b4c4846304b2a5848a8fc845d52166631319a230&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-12-16T15:29:26Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Mozilla names insider Enzor-DeMeo as CEO, looks to add AI features to Firefox",
+            "url": "https://www.reuters.com/technology/mozilla-names-insider-enzor-demeo-ceo-looks-add-ai-features-firefox-2025-12-16/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-12-16T15:26:22Z"
+        },
         {
             "source": {
                 "id": "d86acd5a472cad336b1f19dca3331ef5",
@@ -1128,6 +1212,15 @@
             "url": "https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.3003539",
             "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003539.g002&size=inline",
             "publishedAt": "2025-12-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "edexlive"
+            },
+            "title": "NVIDIA’s official AI courses to reach enterprises, campuses, and learners via CloudThat",
+            "url": "https://www.edexlive.com/news/nvidias-official-ai-courses-to-reach-enterprises-campuses-and-learners-via-cloudthat",
+            "urlToImage": "https://media.edexlive.com/edexlive%2F2025-11-01%2Fv67a7bf8%2FANI_20251101024143.png?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "publishedAt": "2025-12-16 16:00:00"
         },
         {
             "source": {
@@ -3365,78 +3458,6 @@
             "title": "Empire AI powers bold new research at UB, from surgery to climate science",
             "url": "https://www.buffalo.edu/news/releases/2025/12/empire-ai-university-at-buffalo-bold-research.html",
             "urlToImage": "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2025/12/empire-ai-university-at-buffalo-bold-research/_jcr_content/par/image.img.447.260.jpg/1765557229914.jpg",
-            "publishedAt": "2025-12-15 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Beyond the Hype: Why Tech and Semiconductor Stocks Remain Cornerstone Long-Term Investments in the Age of AI",
-            "url": "https://www.financialcontent.com/article/tokenring-2025-12-15-beyond-the-hype-why-tech-and-semiconductor-stocks-remain-cornerstone-long-term-investments-in-the-age-of-ai",
-            "urlToImage": "https://cdn.newsrpm.com/image/244293?maxWidth=1200",
-            "publishedAt": "2025-12-15 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Beyond Moore’s Law: Advanced Packaging and Lithography Unleash the Next Wave of AI Performance",
-            "url": "https://www.financialcontent.com/article/tokenring-2025-12-15-beyond-moores-law-advanced-packaging-and-lithography-unleash-the-next-wave-of-ai-performance",
-            "urlToImage": "https://cdn.newsrpm.com/image/244269?maxWidth=1200",
-            "publishedAt": "2025-12-15 00:00:00"
-        },
-        {
-            "source": {
-                "name": "stanford"
-            },
-            "title": "Stanford AI Experts Predict What Will Happen in 2026",
-            "url": "https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026",
-            "urlToImage": "https://hai.stanford.edu/assets/images/2026-predictions-artwork.png",
-            "publishedAt": "2025-12-15 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "The Dawn of a New Era: Breakthroughs in Semiconductor Manufacturing Propel AI and Next-Gen Tech",
-            "url": "https://www.financialcontent.com/article/tokenring-2025-12-15-the-dawn-of-a-new-era-breakthroughs-in-semiconductor-manufacturing-propel-ai-and-next-gen-tech",
-            "urlToImage": "https://cdn.newsrpm.com/image/244334?maxWidth=1200",
-            "publishedAt": "2025-12-15 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Semiconductor Industry Soars on AI Wave: A Deep Dive into Economic Performance, Investment, and M&A",
-            "url": "https://www.financialcontent.com/article/tokenring-2025-12-15-semiconductor-industry-soars-on-ai-wave-a-deep-dive-into-economic-performance-investment-and-m-and-a",
-            "urlToImage": "https://cdn.newsrpm.com/image/244352?maxWidth=1200",
-            "publishedAt": "2025-12-15 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Unlocking Digital Commerce: A Deep Dive into NCR Voyix (VYX)",
-            "url": "https://www.financialcontent.com/article/predictstreet-2025-12-15-unlocking-digital-commerce-a-deep-dive-into-ncr-voyix-vyx",
-            "urlToImage": "https://cdn.newsrpm.com/image/244506?maxWidth=1200",
-            "publishedAt": "2025-12-15 00:00:00"
-        },
-        {
-            "source": {
-                "name": "businessworld"
-            },
-            "title": "Will AI Ever Be Smarter Than A Con Artist – The Future Of Cyber Crime Vs Cyber Defence",
-            "url": "https://www.businessworld.in/article/will-ai-ever-be-smarter-than-a-con-artist-the-future-of-cyber-crime-vs-cyber-defence-583694",
-            "urlToImage": "https://static.businessworld.in/ChatGPT%20Image%20Dec%2015,%202025,%2005_39_56%20PM_20251215174215_original_image_45.webp",
-            "publishedAt": "2025-12-15 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Resemble AI Unleashes Chatterbox Turbo: A New Era for Open-Source Real-Time Voice AI",
-            "url": "https://www.financialcontent.com/article/tokenring-2025-12-15-resemble-ai-unleashes-chatterbox-turbo-a-new-era-for-open-source-real-time-voice-ai",
-            "urlToImage": "https://cdn.newsrpm.com/image/244804?maxWidth=1200",
             "publishedAt": "2025-12-15 00:00:00"
         }
     ]
