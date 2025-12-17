@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-12-17T13:30:58.658942Z",
+    "lastUpdatedAt": "2025-12-17T14:18:14.670647Z",
     "articles": [
+        {
+            "source": {
+                "id": "e83df266d4bbd78d7528c3ee4fc0fc5f",
+                "name": "The Hollywood Reporter",
+                "url": "https://www.hollywoodreporter.com",
+                "country": "us"
+            },
+            "title": "How Machine Learning Is Changing the Digital Landscape",
+            "url": "https://www.hollywoodreporter.com/news/general-news/how-machine-learning-is-changing-the-digital-landscape-1236452753/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/image1.jpg?w=1430&h=810&crop=1",
+            "publishedAt": "2025-12-17T01:35:46Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -96,6 +108,15 @@
             "url": "https://www.gazettelive.co.uk/news/teesside-news/artificial-intelligence-used-middlesbrough-council-33067737",
             "urlToImage": "https://i2-prod.gazettelive.co.uk/article33067756.ece/ALTERNATES/s1200/0_JS389569045.jpg",
             "publishedAt": "2025-12-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Three AI stocks down up to 45% from 52-week highs",
+            "url": "https://www.livemint.com/market/stock-market-news/indian-ai-stocks-investment-opportunity-down-52-week-highs-cyient-ofss-tata-elxsi-11765888073547.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/16/1600x900/logo/im-58693074_1763036261054_1765890829633.jpg",
+            "publishedAt": "2025-12-17 01:30:25"
         },
         {
             "source": {
@@ -3495,30 +3516,6 @@
             "url": "https://www.deccanchronicle.com/lifestyle/culture-and-society/merriam-websters-2025-word-of-the-year-is-slop-1923971",
             "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/12/15/1989804-slop.jpg",
             "publishedAt": "2025-12-15T05:54:12Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "KPMG in India receives ISO 42001 Certification for Artificial Intelligence Management from SGS",
-            "url": "https://www.lokmattimes.com/business/kpmg-in-india-receives-iso-42001-certification-for-artificial-intelligence-management-from-sgs/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251215054753_202512.jpg",
-            "publishedAt": "2025-12-15T05:48:15Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Merriam-Webster's 2025 word of the year is 'slop'",
-            "url": "https://www.devdiscourse.com/article/entertainment/3730974-merriam-websters-2025-word-of-the-year-is-slop",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_29_06_9517358.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-12-15T05:48:08Z"
         }
     ]
 }
