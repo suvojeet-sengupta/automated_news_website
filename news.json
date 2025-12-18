@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-12-18T09:22:45.161885Z",
+    "lastUpdatedAt": "2025-12-18T10:19:57.253344Z",
     "articles": [
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "Amazon ‘planning to invest up to $10bn in OpenAI’",
+            "url": "https://www.thetimes.com/business/companies-markets/article/amazon-invest-openai-chatgpt-djnlsst6t",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F06ac93ee-81a4-4c93-98c0-6044e30f191c.jpg?crop=5779%2C3251%2C0%2C301&resize=1200",
+            "publishedAt": "2025-12-17T22:05:50Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Equifax Secures 27 Patents, Advancing its AI Strategy",
+            "url": "https://www.marketscreener.com/news/equifax-secures-27-patents-advancing-its-ai-strategy-ce7d50dfd189f627",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-12-17T22:04:26Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Tesla's License at Risk: California Regulators Crack Down on Self-Driving Claims",
+            "url": "https://www.devdiscourse.com/article/technology/3734080-teslas-license-at-risk-california-regulators-crack-down-on-self-driving-claims",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/17_09_2025_10_33_17_484576.png?width=920&format=jpeg",
+            "publishedAt": "2025-12-17T21:31:49Z"
+        },
         {
             "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
@@ -3465,42 +3501,6 @@
             "url": "https://www.republicworld.com/business/employers-likely-added-40000-jobs-in-november-as-government-releases-report-delayed-by-shutdown",
             "urlToImage": "https://img.republicworld.com/all_images/us-job-market-i-november-1765863717181-16_9.webp",
             "publishedAt": "2025-12-16T05:44:03Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Q&A: From Wall Street Dreams to AI Classrooms - Simon Yang’s Mission with Prepp",
-            "url": "https://techbullion.com/qa-from-wall-street-dreams-to-ai-classrooms-simon-yangs-mission-with-prepp/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/unnamed-2025-12-15T213719.697.png",
-            "publishedAt": "2025-12-16T05:40:54Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Merriam-Webster Names 'Slop' As 2025 Word Of The Year Amid AI Content Concerns",
-            "url": "https://www.ndtv.com/offbeat/merriam-webster-names-slop-as-2025-word-of-the-year-amid-ai-content-concerns-9823263",
-            "urlToImage": "https://c.ndtvimg.com/2019-12/vjee79b8_merriam-webster-dictionary-650_625x300_11_December_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-12-16T05:14:35Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Synvo AI and Sobat Bisnis Group (SBG) Forge Strategic Partnership to Bring Secure, Context",
-            "url": "https://www.tribuneindia.com/news/business/synvo-ai-and-sobat-bisnis-group-sbg-forge-strategic-partnership-to-bring-secure-context-aware-enterprise-ai-to-indonesia-and-southeast-asia/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTcyNTlmOGIwLWRhM2ItMTFmMC05MjU0LTk5MGM4YWQ1MGZlOS5qcGc=",
-            "publishedAt": "2025-12-16T04:55:25Z"
         }
     ]
 }
