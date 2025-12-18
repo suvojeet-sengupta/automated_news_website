@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-12-18T05:19:11.266310Z",
+    "lastUpdatedAt": "2025-12-18T06:26:38.228851Z",
     "articles": [
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "Tech stocks plunge as AI angst returns",
+            "url": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251217-new-york-stock-exchange-vl-1210p-f88e71.jpg",
+            "publishedAt": "2025-12-17T18:13:39Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "AI Toys Put Kids at Risk, Senators Warn",
+            "url": "https://www.newsmax.com/finance/newsfront/marsha-blackburn-richard-blumenthal-ai/2025/12/17/id/1238699/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=c98dc23d-e64f-4c30-acf8-158f2a0a7508&SiteName=Newsmax",
+            "publishedAt": "2025-12-17T18:04:04Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "WHO seeks evidence for traditional medicine",
+            "url": "https://www.cp24.com/news/world/2025/12/17/ancient-cures-and-ai-who-seeks-evidence-for-traditional-medicine/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/SZXUXPNDJ4TZ4VXKWTXYTA7WL4.jpg?smart=true&auth=be2e984dba252ef2f1caed51a9a77cf83d012016f97afe8a208bad78483e825e&width=1200&height=630",
+            "publishedAt": "2025-12-17T17:50:06Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Quantum mechanical molecular 'fingerprints' solve machine learning mystery",
+            "url": "https://phys.org/news/2025-12-quantum-mechanical-molecular-fingerprints-machine.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/quantum-mechanical-mol.jpg",
+            "publishedAt": "2025-12-17T17:50:06Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Amazon Names New AI Chief Amid Battle to Take on Tech Rivals",
+            "url": "https://www.bloomberg.com/news/articles/2025-12-17/amazon-names-new-ai-chief-amid-battle-to-take-on-tech-rivals",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_5WOncOj3jQ/v1/1200x800.jpg",
+            "publishedAt": "2025-12-17T17:47:53Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Odisha's Bold Move: Transforming IIIT Bhubaneswar into a Semiconductor Hub",
+            "url": "https://www.devdiscourse.com/article/technology/3733961-odishas-bold-move-transforming-iiit-bhubaneswar-into-a-semiconductor-hub",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/29_07_2025_16_50_23_0237239.png?width=920&format=jpeg",
+            "publishedAt": "2025-12-17T17:38:10Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Inside India’s Fastest-Growing School Robotics Lab Network (RoboSpecies)",
+            "url": "https://techbullion.com/inside-indias-fastest-growing-school-robotics-lab-network-robospecies/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/IMG_3349-1000x600.png",
+            "publishedAt": "2025-12-17T17:27:13Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -1383,6 +1467,15 @@
         },
         {
             "source": {
+                "name": "webpronews"
+            },
+            "title": "CEOs Bet Billions on AI for Survival Despite High Costs and Hurdles",
+            "url": "https://www.webpronews.com/ceos-bet-billions-on-ai-for-survival-despite-high-costs-and-hurdles/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-4150-1765995225.jpeg",
+            "publishedAt": "2025-12-17 18:13:50"
+        },
+        {
+            "source": {
                 "name": "aboutamazon"
             },
             "title": "Andy Jassy makes Amazon leadership announcement",
@@ -1451,6 +1544,15 @@
             "title": "The top 10 tech trends I'm watching in 2026: Apple on the back foot, smart glasses, and AI companions",
             "url": "https://sea.mashable.com/tech/41199/the-top-10-tech-trends-im-watching-in-2026-apple-on-the-back-foot-smart-glasses-and-ai-companions",
             "urlToImage": "https://sm.mashable.com/mashable_sea/article/t/the-top-10/the-top-10-tech-trends-im-watching-in-2026-apple-on-the-back_npre.jpg",
+            "publishedAt": "2025-12-17 10:00:00"
+        },
+        {
+            "source": {
+                "name": "mashable_me"
+            },
+            "title": "The top 10 tech trends I'm watching in 2026: Apple on the back foot, smart glasses, and AI companions",
+            "url": "https://me.mashable.com/tech/64764/the-top-10-tech-trends-im-watching-in-2026-apple-on-the-back-foot-smart-glasses-and-ai-companions",
+            "urlToImage": "https://sm.mashable.com/mashable_me/article/t/the-top-10/the-top-10-tech-trends-im-watching-in-2026-apple-on-the-back_hd4a.jpg",
             "publishedAt": "2025-12-17 10:00:00"
         },
         {
@@ -3402,87 +3504,6 @@
             "url": "https://www.webpronews.com/cloudflare-2025-ai-bots-drive-19-traffic-surge-fuel-bot-wars-and-ddos-peaks/",
             "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-4032-1765874700.jpeg",
             "publishedAt": "2025-12-16 14:00:06"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "NetraMark and CAMH Announce Research Award to Advance AI-Driven Discovery in Schizophrenia and ...",
-            "url": "https://www.hastingstribune.com/ap/business/netramark-and-camh-announce-research-award-to-advance-ai-driven-discovery-in-schizophrenia-and/article_3fba0a13-4c37-53d0-906e-e29228e2a393.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2025-12-16 13:33:05"
-        },
-        {
-            "source": {
-                "name": "india"
-            },
-            "title": "OpenAI’s new app platform Chief takes charge to evolve ChatGPT into a full operating system",
-            "url": "https://www.india.com/technology/openais-new-app-platform-chief-takes-charge-to-evolve-chatgpt-into-a-full-operating-system-8232174/",
-            "urlToImage": "https://static.india.com/wp-content/uploads/2025/12/Icom-thumbs-18.png",
-            "publishedAt": "2025-12-16 12:54:24"
-        },
-        {
-            "source": {
-                "name": "sdxcentral"
-            },
-            "title": "Google opens up AI with Cloud GPU communication and agentic interfacing",
-            "url": "https://www.sdxcentral.com/news/google-opens-up-ai-with-cloud-gpu-communication-and-agentic-interfacing/",
-            "urlToImage": "https://media.datacenterdynamics.com/media/images/train-gpt2-model-with-jax-on-tpu-.2e16d0ba.fill-1200x630.png",
-            "publishedAt": "2025-12-16 12:41:11"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "I'm a former Disney employee — here’s why the $1B deal with OpenAI is different than people think",
-            "url": "https://www.tomsguide.com/ai/im-a-former-disney-employee-heres-why-the-usd1b-deal-with-openai-is-different-than-people-think",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/x2KR4vSTS4JAaPXATH6F9D-1280-80.jpg",
-            "publishedAt": "2025-12-16 11:49:56"
-        },
-        {
-            "source": {
-                "name": "businesstoday"
-            },
-            "title": "Nvidia buys AI software provider SchedMD to bolster open-source AI push",
-            "url": "https://www.businesstoday.in/technology/news/story/nvidia-buys-ai-software-provider-schedmd-to-bolster-open-source-ai-push-506833-2025-12-16",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202512/6941127c6c224-nvidia-160406664-16x9.png",
-            "publishedAt": "2025-12-16 09:38:16"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Futurum CEO Says Nvidia Has Fortified Its CUDA Dominance After SchedMD Deal Tightens Grip On AI Infrastructure: 'Not An Easy Thing To Do'",
-            "url": "https://www.benzinga.com/markets/tech/25/12/49413280/futurum-ceo-says-nvidia-has-fortified-its-cuda-dominance-after-schedmd-deal-tightens-grip-on-ai-infr",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/12/16/Kyiv--Ukraine---January-29--2025-Nvidia-.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-12-16 09:07:48"
-        },
-        {
-            "source": {
-                "name": "yahoo"
-            },
-            "title": "How are Greater Cincinnati universities approaching AI? Policies at UC, Miami, NKU, more",
-            "url": "https://www.yahoo.com/news/articles/greater-cincinnati-universities-approaching-ai-051023040.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HM3wNArccbKifw9nZo5sYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/the_enquirer_natl_articles_358/7c10c0a1d54df9d7fad8809647169886",
-            "publishedAt": "2025-12-16 05:10:23"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "XCMG Designated as National Pioneer-Level Smart Factory, Unveils Industry Blueprint at 2025 World Intelligent Manufacturing Conference",
-            "url": "https://en.prnasia.com/story/516142-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2846395/2.jpg?p=medium600",
-            "publishedAt": "2025-12-16 04:35:00"
-        },
-        {
-            "source": {
-                "name": "samessenger"
-            },
-            "title": "XCMG Designated as National Pioneer-Level Smart Factory, Unveils Industry Blueprint at 2025 World Intelligent Manufacturing Conference",
-            "url": "https://www.samessenger.com/online_features/press_releases/xcmg-designated-as-national-pioneer-level-smart-factory-unveils-industry-blueprint-at-2025-world-intelligent/article_93ccc61d-d5ed-5f47-88f5-73421528b4ab.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/samessenger.com/content/tncms/assets/v3/editorial/9/1b/91b3b281-33f9-5509-b159-a077a10c1561/69410bc559da7.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-12-16 04:31:00"
         }
     ]
 }
