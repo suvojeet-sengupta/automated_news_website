@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-12-18T07:19:01.226095Z",
+    "lastUpdatedAt": "2025-12-18T08:24:08.787401Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "A 'scientific sandbox' lets researchers explore the evolution of vision systems",
+            "url": "https://phys.org/news/2025-12-scientific-sandbox-explore-evolution-vision.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-scientific-sandbox-l.jpg",
+            "publishedAt": "2025-12-17T20:22:24Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Amazon shakes up AI team as veteran Prasad leaves, DeSantis promoted",
+            "url": "https://www.marketscreener.com/news/amazon-shakes-up-ai-team-as-veteran-prasad-leaves-desantis-promoted-ce7d50dfde8df022",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-12-17T20:16:34Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Will Nvidia Turbocharge China’s AI Military?",
+            "url": "https://www.bloomberg.com/opinion/articles/2025-12-17/nvidia-chips-will-china-s-military-get-an-ai-turbocharge",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibCRwwlbzZG4/v1/1200x800.jpg",
+            "publishedAt": "2025-12-17T20:00:05Z"
+        },
+        {
+            "source": {
+                "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
+                "name": "cleveland.com",
+                "url": "https://www.cleveland.com",
+                "country": "us"
+            },
+            "title": "AI is now answering Akron police’s non-emergency calls",
+            "url": "https://www.cleveland.com/news/2025/12/ai-is-now-answering-akron-polices-non-emergency-calls.html",
+            "urlToImage": "https://www.cleveland.com/resizer/v2/23JLUQFFTJATHNJYG7HBJDJ4Z4.png?auth=c48e5150542a3be54072b26faf6fe9fd83301714f729b1269d2b78bcfcfc5e01&width=1280&smart=true&quality=90",
+            "publishedAt": "2025-12-17T19:59:18Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "RNA-based molecule enhances therapies against pancreatic cancer",
+            "url": "https://medicalxpress.com/news/2025-12-rna-based-molecule-therapies-pancreatic.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/a-rna-based-molecule-e.jpg",
+            "publishedAt": "2025-12-17T19:38:32Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "CoreWeave Stock Slides As AI Concerns Rise: What's Happening?",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/12/49460736/coreweave-stock-slides-as-ai-concerns-rise-whats-happening",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/12/17/CoreWeave--Inc-.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-12-17T19:22:06Z"
+        },
         {
             "source": {
                 "id": "9a68172fefded1b86fc9a95d43faf501",
@@ -1536,6 +1608,24 @@
             "url": "https://www.gazettelive.co.uk/news/teesside-news/artificial-intelligence-used-middlesbrough-council-33067737",
             "urlToImage": "https://i2-prod.gazettelive.co.uk/article33067756.ece/ALTERNATES/s1200/0_JS389569045.jpg",
             "publishedAt": "2025-12-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "Experts say Amazon is playing the long game with its potential $10 billion OpenAI deal: ‘ChatGPT is still seen as the Kleenex of AI’",
+            "url": "https://fortune.com/2025/12/17/amazon-openai-deal-trainium-chips-ai-charles-fitzgerald-anshel-sag/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2203380460-e1766000263427.jpg?w=2048",
+            "publishedAt": "2025-12-17 19:57:03"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Enterprise AI moves from pilots to production as HPE tackles the execution problem",
+            "url": "https://siliconangle.com/2025/12/17/enterprise-ai-hpe-tackles-execution-problem-hpeaimomentum/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Enterprise-AI-scales-ChatGPT-Image.png",
+            "publishedAt": "2025-12-17 19:52:53"
         },
         {
             "source": {
@@ -3414,102 +3504,6 @@
             "url": "https://medicalxpress.com/news/2025-12-ai-chatbots-mental-health-stigma.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/chatgpt-2.jpg",
             "publishedAt": "2025-12-16T02:50:05Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Japan's Nikkei falls 1% as AI stocks slip ahead of US jobs data",
-            "url": "https://www.marketscreener.com/news/japan-s-nikkei-falls-1-as-ai-stocks-slip-ahead-of-us-jobs-data-ce7d50d9de8cff23",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-12-16T02:45:31Z"
-        },
-        {
-            "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
-                "country": "in"
-            },
-            "title": "RTIH hosts US Consul General Laura Williams for talks on India-US tech collaboration",
-            "url": "https://www.newindianexpress.com/states/andhra-pradesh/2025/Dec/16/rtih-hosts-us-consul-general-laura-williams-for-talks-on-indiaus-tech-collaboration",
-            "urlToImage": "https://media.newindianexpress.com/newindianexpress%2F2025-12-15%2Fr6cxvewy%2FTalks-on-India-US.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2025-12-16T02:43:19Z"
-        },
-        {
-            "source": {
-                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
-                "name": "FinanzNachrichten",
-                "url": "https://www.finanznachrichten.de",
-                "country": "de"
-            },
-            "title": "Black Book Research: Healthcare Payer IT in 2026: Digital Prior Authorization, Enforceable Transparency, and Outcomes-Driven Platforms Spark a New Acquisition Race",
-            "url": "https://www.finanznachrichten.de/nachrichten-2025-12/67238545-black-book-research-healthcare-payer-it-in-2026-digital-prior-authorization-enforceable-transparency-and-outcomes-driven-platforms-spark-a-new-acq-200.htm",
-            "urlToImage": "https://www.finanznachrichten.de/content/g/fb.png",
-            "publishedAt": "2025-12-16T02:38:00Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "How AI is Changing Legal Operations Careers",
-            "url": "https://www.europesays.com/2636147/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2025/12/3e837fd00bd4477a9a7484b531111f92.jpeg",
-            "publishedAt": "2025-12-16T01:58:16Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Lightspeed Venture Partners mops up more than $9 billion across six funds",
-            "url": "https://www.moneycontrol.com/news/business/startup/lightspeed-venture-partners-mops-up-more-than-9-billion-across-six-funds-13726915.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/12/20251211115627_funding3.jpg",
-            "publishedAt": "2025-12-16T01:48:35Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "LinkedIn MD: New research shows how SMBs are outpacing big business",
-            "url": "https://itwire.com/it-industry-news/strategy/linkedin-md-new-research-shows-how-smbs-are-outpacing-big-business.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/dc84703a4a869cd1ef5427350450dab3_XS.jpg",
-            "publishedAt": "2025-12-16T01:07:58Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "US suspends technology deal with Britain, FT reports",
-            "url": "https://www.straitstimes.com/world/europe/us-suspends-technology-deal-with-britain-ft-reports",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/c22ea9b33041b11579cbac5e5016dafebfec795d1f075976edefd464fec94447",
-            "publishedAt": "2025-12-16T01:04:46Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "US suspends technology deal with Britain, FT reports",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/16/us-suspends-technology-deal-with-britain-ft-reports",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/16/3674767.jpg",
-            "publishedAt": "2025-12-16T00:58:00Z"
         }
     ]
 }
