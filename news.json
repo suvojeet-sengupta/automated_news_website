@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-12-19T14:17:28.115057Z",
+    "lastUpdatedAt": "2025-12-19T15:18:18.270113Z",
     "articles": [
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Indian Scientists Predict How H5N1 Virus Could Spread To Humans",
+            "url": "https://www.ndtv.com/india-news/indian-scientists-predict-how-h5n1-virus-could-spread-to-humans-9840721",
+            "urlToImage": "https://c.ndtvimg.com/2025-01/1jrt4af8_bird-flu_625x300_27_January_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-12-19T03:10:41Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "UPS company deploys AI to spot fakes amid surge in holiday returns",
+            "url": "https://www.spokesman.com/stories/2025/dec/19/ups-company-deploys-ai-to-spot-fakes-amid-surge-in/",
+            "urlToImage": "https://thumb.spokesman.com/C70N6VtsA0MrmwQWF5RvYAsyVpE=/1200x630/smart/media.spokesman.com/photos/2025/12/18/69449f15133b7.image.jpg",
+            "publishedAt": "2025-12-19T03:04:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "SG-based Startup Galatek Raises $30M Series A to Accelerate AI-powered Automation in Life Sciences and Semiconductor Manufacturing",
+            "url": "https://www.manilatimes.net/2025/12/19/tmt-newswire/pr-newswire/sg-based-startup-galatek-raises-30m-series-a-to-accelerate-ai-powered-automation-in-life-sciences-and-semiconductor-manufacturing/2246725",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-12-19T03:03:14Z"
+        },
+        {
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            },
+            "title": "TCS pilots AI-led cybersecurity protocols in wake of JLR breach",
+            "url": "https://www.moneycontrol.com/news/business/tcs-pilots-ai-led-cybersecurity-protocols-in-wake-of-jlr-breach-13733155.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/04/20250410141834_tcsrtr1.png",
+            "publishedAt": "2025-12-19T03:02:16Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "US launches review of advanced Nvidia AI chip sales to China, sources say",
+            "url": "https://www.channelnewsasia.com/world/us-review-advanced-nvidia-ai-chip-sales-china-5639666",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--qp2d4c8B--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-19T013853Z_1_LYNXMPELBI02N_RTROPTP_3_USA-CHINA-NVIDIA.JPG?itok=lZInAkcT",
+            "publishedAt": "2025-12-19T02:57:00Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "SG-based Startup Galatek Raises $30M Series A to Accelerate AI-powered Automation in Life Sciences and Semiconductor Manufacturing",
+            "url": "https://www.prnewswire.co.uk/news-releases/sg-based-startup-galatek-raises-30m-series-a-to-accelerate-ai-powered-automation-in-life-sciences-and-semiconductor-manufacturing-302646549.html",
+            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+            "publishedAt": "2025-12-19T02:46:00Z"
+        },
         {
             "source": {
                 "id": "94466d37d8c67a438250646866df36df",
@@ -168,6 +240,15 @@
             "url": "https://www.newsmax.com/newsmax-tv/devin-nunes-truth-social-tae/2025/12/18/id/1238916/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=ec3ce579-b95c-43a3-8ccb-e9104ca7702b&SiteName=Newsmax",
             "publishedAt": "2025-12-19T00:03:22Z"
+        },
+        {
+            "source": {
+                "name": "gizmochina"
+            },
+            "title": "Exynos 2600 launched with 2nm GAA technology, stronger on-device AI, improved thermals",
+            "url": "https://www.gizmochina.com/2025/12/19/samsung-exynos-2600-launched-specifications/",
+            "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2025/12/Exynos-2600-1024x575.png?x70461=",
+            "publishedAt": "2025-12-19 02:53:41"
         },
         {
             "source": {
@@ -3420,90 +3501,6 @@
             "url": "https://www.bloomberg.com/news/articles/2025-12-17/ai-chip-startup-mythic-raises-125-million-in-bid-to-take-on-nvidia",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy8gjEItGZXY/v1/1200x800.jpg",
             "publishedAt": "2025-12-17T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI in primary care: Experts warn of safety risks as tech outpaces regulation",
-            "url": "https://medicalxpress.com/news/2025-12-ai-primary-experts-safety-tech.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/medicaid.jpg",
-            "publishedAt": "2025-12-17T12:52:37Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "PMGC : NorthStrive Biosciences Advances to Phase III of AI-Driven Drug Discovery Program Toward Validation ...",
-            "url": "https://www.marketscreener.com/news/pmgc-northstrive-biosciences-advances-to-phase-iii-of-ai-driven-drug-discovery-program-toward-vali-ce7d50dfdd8bfe24",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-12-17T12:50:07Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Hut 8 shares jump as ex-bitcoin miner signs $7 billion AI data center lease",
-            "url": "https://www.reuters.com/business/hut-8-shares-jump-ex-bitcoin-miner-signs-7-billion-ai-data-center-lease-2025-12-17/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-12-17T12:34:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Hut 8 shares jump as ex-bitcoin miner signs $7 billion AI data center lease",
-            "url": "https://www.marketscreener.com/news/hut-8-shares-jump-as-ex-bitcoin-miner-signs-7-billion-ai-data-center-lease-ce7d50dfdd89f023",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-12-17T12:31:24Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "From Ghost Promotion to Career Shrekking: 5 trends in 2025 that are defining the future of work",
-            "url": "https://timesofindia.indiatimes.com/life-style/relationships/work/from-ghost-promotion-to-career-shrekking-5-trends-in-2025-that-are-defining-the-future-of-work/photostory/126038779.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126038789,width-1070,height-580,imgsize-342746,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2025-12-17T12:22:13Z"
-        },
-        {
-            "source": {
-                "id": "e743cde6ee986921721e83d3957862dc",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com",
-                "country": "in"
-            },
-            "title": "Payal Gaming Video Controversy: What Is Deepfake, How To Identify And Stay Safe From It?",
-            "url": "https://zeenews.india.com/viral/payal-gaming-video-link-what-is-deepfake-how-to-identify-and-stay-safe-from-it-2997256.html",
-            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2025/12/17/1878712-payal-gaming-link.jpg",
-            "publishedAt": "2025-12-17T12:14:13Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Health insurance claim settlement lapses: Rs 1 crore penalty imposed on Care Health Insurance by IRDAI",
-            "url": "https://economictimes.indiatimes.com/wealth/insure/health-insurance-claim-settlement-lapses-rs-1-crore-penalty-imposed-on-care-health-insurance-by-irdai/articleshow/126038502.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-545456,resizemode-75,msid-126038502/wealth/insure/health-insurance-claim-settlement-lapses-rs-1-crore-penalty-imposed-on-care-health-insurance-by-irdai.jpg",
-            "publishedAt": "2025-12-17T12:11:02Z"
         }
     ]
 }
