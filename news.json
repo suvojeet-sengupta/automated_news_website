@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-12-20T09:16:04.481788Z",
+    "lastUpdatedAt": "2025-12-20T10:16:10.230717Z",
     "articles": [
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Indore News: AI-Based Dental Device Design By Sri Aurobindo Dental College Wins United Kingdom Patent",
+            "url": "https://www.freepressjournal.in/indore/indore-news-ai-based-dental-device-design-by-sri-aurobindo-dental-college-wins-united-kingdom-patent",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-12-19/yvqqthx7/images.jpg",
+            "publishedAt": "2025-12-19T22:16:00Z"
+        },
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "Where are investors placing their bets next year? AI, AI, AI.",
+            "url": "https://techcrunch.com/2025/12/19/where-are-investors-placing-their-bets-next-year-ai-ai-ai/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/12/NIna-Peter-Jerry.jpg?resize=1200,800",
+            "publishedAt": "2025-12-19T22:00:00Z"
+        },
+        {
+            "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+            },
+            "title": "INTERVIEW: ACCC’s new warning about the dangers of AI for consumers",
+            "url": "https://www.sbs.com.au/news/podcast-episode/interview-acccs-new-warning-about-the-dangers-of-ai-for-consumers/nq4e3cfew",
+            "urlToImage": "https://images.sbs.com.au/dims4/default/24d3fc2/2147483647/strip/true/crop/1800x1013+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F67%2F04%2F7c0b9a4f4da189ce602b0a83acbd%2Faustralian-competition-and-consumer-commission-accc-chair-gina-cass-gottlieb.jpg",
+            "publishedAt": "2025-12-19T21:30:00Z"
+        },
+        {
+            "source": {
+                "id": "602d1de710d66397a00201d8efdd36ee",
+                "name": "Inc. Magazine",
+                "url": "https://www.inc.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity Experts Warn That This Browser Extension Is Selling Your Chats With ChatGPT",
+            "url": "https://www.inc.com/ben-sherry/cybersecurity-experts-warn-that-this-browser-extension-is-selling-your-chats-with-chatgpt/91280907",
+            "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/12/GettyImages-2155003588.jpg",
+            "publishedAt": "2025-12-19T21:28:14Z"
+        },
+        {
+            "source": {
+                "id": "d4773b92da0613b8ffc2fc9c46229534",
+                "name": "Business Wire",
+                "url": "https://www.businesswire.com",
+                "country": "us"
+            },
+            "title": "Virtus Artificial Intelligence & Technology Opportunities Fund Announces Special Year-End Distribution and Discloses Sources of Distribution - Section 19(a) Notice",
+            "url": "https://www.businesswire.com/news/home/20251219939234/en/Virtus-Artificial-Intelligence-Technology-Opportunities-Fund-Announces-Special-Year-End-Distribution-and-Discloses-Sources-of-Distribution-Section-19a-Notice",
+            "urlToImage": "https://mms.businesswire.com/media/20251219939234/en/2675677/22/Virtus_Funds_logo.jpg",
+            "publishedAt": "2025-12-19T21:20:00Z"
+        },
         {
             "source": {
                 "id": "ca35c66a2b26e8274365e937357cf9c5",
@@ -1875,6 +1935,24 @@
         },
         {
             "source": {
+                "name": "headtopics"
+            },
+            "title": "6 Cybersecurity Predictions for the AI Economy in 2026 - SPONSOR CONTENT FROM PALO ALTO NETWORKS",
+            "url": "https://us.headtopics.com/news/6-cybersecurity-predictions-for-the-ai-economy-in-2026-77409946",
+            "urlToImage": "https://i.headtopics.com/images/2025/12/19/harvardbiz/6-cybersecurity-predictions-for-the-ai-economy-in--6-cybersecurity-predictions-for-the-ai-economy-in--27EDD679DFFAD690656686B8F0E8DFE7.webp",
+            "publishedAt": "2025-12-19 22:12:40"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "Top Research Reports for NVIDIA, Netflix & Merck",
+            "url": "https://www.wvnews.com/news/around_the_web/collegefootballwarehouse/top-research-reports-for-nvidia-netflix-merck/article_49973277-2094-5ef7-80cf-50f499ce4e2a.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg",
+            "publishedAt": "2025-12-19 22:02:00"
+        },
+        {
+            "source": {
                 "name": "webpronews"
             },
             "title": "Samsung Unveils Exynos 2600: First 2nm GAA SoC for Galaxy S26",
@@ -3396,90 +3474,6 @@
             "url": "https://edition.cnn.com/2025/12/18/business/ai-jobs-economy",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-674977783.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2025-12-18T10:01:00Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "The surprising truth about AI’s impact on jobs",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2025/12/18/the-surprising-truth-about-ais-impact-on-jobs/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
-            "publishedAt": "2025-12-18T10:01:00Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "AI-generated crypto scams targets",
-            "url": "https://www.cp24.com/news/canada/2025/12/18/two-canadians-scammed-out-of-23-million-in-ai-generated-crypto-scams/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/EEIKGN3GMJDWTOABQHGQXWJZP4.png?smart=true&auth=043f2292bfed46a6b9f6836950a07236ba011bd3b249f80aaa74d216c6c1a87f&width=1200&height=630",
-            "publishedAt": "2025-12-18T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "The KnowDis Award for Excellence Presented to Professor Anshul Kumar",
-            "url": "https://www.tribuneindia.com/news/business/the-knowdis-award-for-excellence-presented-to-professor-anshul-kumar/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ2ODM0MDkwLWRiZjYtMTFmMC05MjU0LTk5MGM4YWQ1MGZlOS5qcGc=",
-            "publishedAt": "2025-12-18T09:45:18Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "AI Trends Marketers Can’t Ignore in 2026",
-            "url": "https://techbullion.com/ai-trends-marketers-cant-ignore-in-2026/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/The-future-of-AI-in-marketing-2026-trends-tools-and-strategies-1000x600.webp",
-            "publishedAt": "2025-12-18T09:45:02Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "Takeda’s psoriasis pill developed with AI assistance succeeds in trials",
-            "url": "https://www.japantimes.co.jp/news/2025/12/18/japan/takeda-psoriasis-pill-ai/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/12/18/512504.JPG?v=3.1",
-            "publishedAt": "2025-12-18T09:44:43Z"
-        },
-        {
-            "source": {
-                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-                "name": "Anchorage Daily News",
-                "url": "https://www.adn.com",
-                "country": "us"
-            },
-            "title": "‘Uncharted territory’: State weighs major AI overhaul for myAlaska",
-            "url": "https://www.adn.com/alaska-journal/news/2025/12/18/uncharted-territory-state-weighs-major-ai-overhaul-for-myalaska/",
-            "urlToImage": "https://www.adn.com/resizer/v2/BGM47RWIEFGAVLJ7ENH3PM3FRQ.jpg?smart=true&auth=05bd382d515632dec00d474c870f08d95a07c29549c66e0d649cabf042e05fa2&width=1200&height=630",
-            "publishedAt": "2025-12-18T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9c405d1007df6628f732c2a8e890b149",
-                "name": "Portland Press Herald",
-                "url": "https://www.pressherald.com",
-                "country": "us"
-            },
-            "title": "Questions swirl around Trump’s AI efforts | Letter",
-            "url": "https://www.pressherald.com/2025/12/18/questions-swirl-around-trumps-ai-efforts-letter/",
-            "urlToImage": "https://www.pressherald.com/wp-content/uploads/sites/4/2025/12/Trump_96589_e4015a.jpg?w=780",
-            "publishedAt": "2025-12-18T09:00:00Z"
         }
     ]
 }
