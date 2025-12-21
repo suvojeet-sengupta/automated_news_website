@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-12-21T06:24:42.510198Z",
+    "lastUpdatedAt": "2025-12-21T07:16:16.861421Z",
     "articles": [
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "MoU signed to promote cybersecurity awareness",
+            "url": "https://www.nation.com.pk/21-Dec-2025/mou-signed-promote-cybersecurity-awareness",
+            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "publishedAt": "2025-12-20T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "720c8090279dd552e56c637e16f9926a",
+                "name": "Davenport Quad-City Times",
+                "url": "https://qctimes.com",
+                "country": "us"
+            },
+            "title": "How to detect AI-generated writing",
+            "url": "https://qctimes.com/life-entertainment/nation-world/technology/article_6843aa54-b3bf-59a4-b7d5-508f6f151ca9.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/84/6843aa54-b3bf-59a4-b7d5-508f6f151ca9/69418982d354a.preview.jpg?crop=1983%2C1041%2C3%2C0&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2025-12-20T18:30:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Data breach case: US court approves Infosys McCamish's proposed $17.5 million settlement",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/data-breach-case-us-court-approves-infosys-mccamishs-proposed-17-5-million-settlement/articleshow/126097273.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-575901,resizemode-75,msid-126097273/tech/information-tech/data-breach-case-us-court-approves-infosys-mccamishs-proposed-17-5-million-settlement.jpg",
+            "publishedAt": "2025-12-20T18:28:16Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -3414,42 +3450,6 @@
             "url": "https://www.livemint.com/companies/news/us-dfc-targets-ai-minerals-in-expansion-11766092961818.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
             "publishedAt": "2025-12-18T21:22:41Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "'AI advisor' helps self-driving labs share control in creation of next-generation materials",
-            "url": "https://phys.org/news/2025-12-ai-advisor-labs-creation-generation.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/ai-advisor-helps-self.jpg",
-            "publishedAt": "2025-12-18T21:20:01Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Applied Digital Sets Fiscal Second Quarter 2026 Conference Call for Wednesday, January 7, 2026, at 5:00 p.m. Eastern Time",
-            "url": "https://www.manilatimes.net/2025/12/19/tmt-newswire/globenewswire/applied-digital-sets-fiscal-second-quarter-2026-conference-call-for-wednesday-january-7-2026-at-500-pm-eastern-time/2246619",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/19/873643.png",
-            "publishedAt": "2025-12-18T21:08:19Z"
-        },
-        {
-            "source": {
-                "id": "010284b7a4ddb4771793c29b39893951",
-                "name": "CHEK News",
-                "url": "https://cheknews.ca",
-                "country": "ca"
-            },
-            "title": "Feds defend $1.1-million Deloitte contract for AI advice after firm admitted mistakes",
-            "url": "https://cheknews.ca/feds-defend-1-1-million-deloitte-contract-for-ai-advice-after-firm-admitted-mistakes-1295717/",
-            "urlToImage": "https://cheknews.ca/wp-content/uploads/2025/12/4b760b65-385f-4424-a11e-384eb84bdaa0-scaled-e1766091491392.jpg",
-            "publishedAt": "2025-12-18T20:59:06Z"
         }
     ]
 }
