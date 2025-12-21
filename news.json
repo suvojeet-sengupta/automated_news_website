@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-12-21T04:33:55.541852Z",
+    "lastUpdatedAt": "2025-12-21T05:17:05.654327Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Here are 5 key events that drove the stock market last week",
+            "url": "https://www.cnbc.com/2025/12/20/here-are-5-key-events-that-drove-the-stock-market-last-week.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108236004-1764778210744-gettyimages-628978458-000111795433_Unapproved.jpeg?v=1766175969&w=1920&h=1080",
+            "publishedAt": "2025-12-20T16:45:42Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -732,6 +744,15 @@
             "url": "https://www.thehitavada.com/Encyc/2025/12/20/hinduism-is-not-merely-a-method-of-worship-but-a-complete-way-of-life.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2025/12/20/complete-way-of-life-devendra-fadnavis_202512201147084366_H@@IGHT_500_W@@IDTH_750.jpg",
             "publishedAt": "2025-12-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "The Best Value Tablet And Phone In America Comes From OnePlus, As Usual",
+            "url": "https://www.forbes.com/sites/bensin/2025/12/20/the-best-value-tablet-and-phone-in-america-comes-from-oneplus-as-usual/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6944fbbb70b09e03ccfb5e97/0x0.jpg?width=960",
+            "publishedAt": "2025-12-20 17:16:17"
         },
         {
             "source": {
@@ -3429,30 +3450,6 @@
             "url": "https://techstartups.com/2025/12/18/ine-security-expands-across-middle-east-and-asia-to-accelerate-cybersecurity-upskilling/",
             "urlToImage": "https://techstartups.com/wp-content/uploads/2025/12/Blog___December_2025___INE_Security_Expands_Across_1766084852c8s4BGMc7U-960x512.jpg",
             "publishedAt": "2025-12-18T20:35:40Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "INE Security Expands Across Middle East and Asia to Accelerate Cybersecurity Upskilling",
-            "url": "https://markets.businessinsider.com/news/currencies/ine-security-expands-across-middle-east-and-asia-to-accelerate-cybersecurity-upskilling-1035658631",
-            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
-            "publishedAt": "2025-12-18T20:35:38Z"
-        },
-        {
-            "source": {
-                "id": "21cef40ac6c3ef9110c7f509a6f6e7f6",
-                "name": "NextBigFuture.com",
-                "url": "https://www.nextbigfuture.com",
-                "country": "us"
-            },
-            "title": "INE Security Expands Across Middle East and Asia to Accelerate Cybersecurity Upskilling",
-            "url": "https://www.nextbigfuture.com/2025/12/ine-security-expands-across-middle-east-and-asia-to-accelerate-cybersecurity-upskilling.html",
-            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Blog___December_2025___INE_Security_Expands_Across_1766084852c8s4BGMc7U.jpg",
-            "publishedAt": "2025-12-18T20:34:34Z"
         }
     ]
 }
