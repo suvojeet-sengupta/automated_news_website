@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-12-22T09:24:21.447696Z",
+    "lastUpdatedAt": "2025-12-22T10:18:46.222280Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Polygraph Dispute Triggers Suspensions at Cybersecurity Agency",
+            "url": "https://www.newsmax.com/politics/cisa-polygraph-probe/2025/12/21/id/1239193/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=13dde453-52e8-48c1-9a21-3f1576536415&SiteName=Newsmax",
+            "publishedAt": "2025-12-21T22:15:12Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Global AI Data Center Dominance Shifts Away From Big Tech",
+            "url": "https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/",
+            "urlToImage": "https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/img/social.png",
+            "publishedAt": "2025-12-21T22:00:11Z"
+        },
         {
             "source": {
                 "id": "aaa6f2928e430ec2ed450ed89cc822f5",
@@ -3543,30 +3567,6 @@
             "url": "https://www.theargus.co.uk/news/national/25710289.black-holes-shown-action-first-3d-movies-created-using-ai/",
             "urlToImage": "https://www.theargus.co.uk/resources/images/20339678.jpg?type=og-image",
             "publishedAt": "2025-12-19T00:06:54Z"
-        },
-        {
-            "source": {
-                "id": "027234d3c0a6aefa3d7ab81380e63d86",
-                "name": "LBC",
-                "url": "https://www.lbc.co.uk",
-                "country": "gb"
-            },
-            "title": "Black holes to be shown in action in first 3D movies created using AI",
-            "url": "https://www.lbc.co.uk/article/a90b799df6fe40d28d490c464626d46e-5HjdPdm_2/",
-            "urlToImage": "https://images.globalplayer.com/images/779570?crop=16_9&width=1200&signature=eO1RH7BEvT7nvWpKNVpL08BVkdY=",
-            "publishedAt": "2025-12-19T00:04:04Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "Nunes to Newsmax: Trump-TAE Merger Biggest Deal Since Manhattan Project",
-            "url": "https://www.newsmax.com/politics/devin-nunes-truth-social-tae/2025/12/18/id/1238916/",
-            "urlToImage": "https://www.newsmax.com/app_themes/newsmax/images/facebook/newsmaxfblogo.gif",
-            "publishedAt": "2025-12-19T00:03:22Z"
         }
     ]
 }
