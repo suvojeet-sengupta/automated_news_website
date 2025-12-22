@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-12-22T20:18:24.364341Z",
+    "lastUpdatedAt": "2025-12-22T21:14:46.450576Z",
     "articles": [
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "New study finds AI chatbots can influence some Canadians to change their vote",
+            "url": "https://www.cbc.ca/news/politics/canada-elections-artificial-intelligence-9.7021876",
+            "urlToImage": "https://i.cbc.ca/ais/de9cc019-fb64-4f20-a90c-84336aac6536,1766100116631/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C3830%2C2154%29%3BResize%3D620",
+            "publishedAt": "2025-12-22T09:00:00Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -3525,18 +3537,6 @@
             "url": "https://www.republicworld.com/business/ibm-to-skill-5m-indians-in-ai-cyber-quantum-by-2030-boosting-future-workforce",
             "urlToImage": "https://img.republicworld.com/all_images/ibm-1744808000505-16_9.webp",
             "publishedAt": "2025-12-19T09:11:57Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "IBM commits to skill 5 million Indian youth in AI, cybersecurity, quantum by 2030",
-            "url": "https://www.tribuneindia.com/news/business/ibm-commits-to-skill-5-million-indian-youth-in-ai-cybersecurity-quantum-by-2030/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI4MGE5Y2QwLWRjYjktMTFmMC05MjU0LTk5MGM4YWQ1MGZlOS5qcGc=",
-            "publishedAt": "2025-12-19T09:00:19Z"
         }
     ]
 }
