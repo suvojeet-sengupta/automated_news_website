@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-12-23T17:17:01.662920Z",
+    "lastUpdatedAt": "2025-12-23T18:24:52.383981Z",
     "articles": [
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Opendoor Expands To Every Zip Code In America In Record Time Using AI: 'This Is Why Every Major Business Is Excited About AI,' Says Anthony Pompliano",
+            "url": "https://www.benzinga.com/real-estate/25/12/49554331/opendoor-expands-to-every-zip-code-in-america-in-record-time-using-ai-this-is-why-every-major-business-is-excited-about-ai-says-anthony-pompliano",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/12/23/Opendoor-Technologies.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-12-23T06:14:31Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Godfather of AI Yoshua Bengio says ‘real AI danger’ began in 2023 because ‘since ChatGPT came out …'",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/godfather-of-ai-yoshua-bengio-says-real-ai-danger-began-in-2023-because-since-chatgpt-came-out-/articleshow/126134899.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-126134895,width-1070,height-580,imgsize-41086,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-12-23T06:06:00Z"
+        },
+        {
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            },
+            "title": "Key events in Kerala today: Great Bombay Circus, Flower shows, photo exhibitions, mark Dec 23",
+            "url": "https://www.onmanorama.com/news/kerala/2025/12/23/kerala-events-december-23-2025.html",
+            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/9/30/changampuzha-park.jpg",
+            "publishedAt": "2025-12-23T06:02:26Z"
+        },
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "10 events that defined 2025",
+            "url": "https://www.rte.ie/news/world/2025/1223/1547248-10-events-that-defined-2025/",
+            "urlToImage": "https://www.rte.ie/images/0023aa4d-1600.jpg",
+            "publishedAt": "2025-12-23T06:00:04Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "HCLSoftware to acquire business intelligence platform Jaspersoft for $240 million",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/hclsoftware-to-acquire-business-intelligence-platform-jaspersoft-for-240-million/articleshow/126134367.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-4034,resizemode-75,msid-126134367/tech/information-tech/hclsoftware-to-acquire-business-intelligence-platform-jaspersoft-for-240-million.jpg",
+            "publishedAt": "2025-12-23T05:36:18Z"
+        },
+        {
+            "source": {
+                "id": "d090731490a57c9141fbb97449f07e98",
+                "name": "iefimerida",
+                "url": "https://www.iefimerida.gr",
+                "country": "gr"
+            },
+            "title": "AI Traffic Cameras Expose Chaos: 1,000 Violations at One Junction in Four Days",
+            "url": "https://www.iefimerida.gr/english/ai-traffic-cameras-expose-chaos-1000-violations-one-junction-four-days",
+            "urlToImage": "https://www.iefimerida.gr/sites/default/files/styles/facebook/public/2025-12/kameres_alimou-poseidonos.jpg?itok=H634To1O",
+            "publishedAt": "2025-12-23T05:32:37Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "'India Ready To Adopt Techno-Legal Approach To AI Governance': PSA To Govt, Prof. Ajay Kumar Sood",
+            "url": "https://www.freepressjournal.in/tech/india-ready-to-adopt-techno-legal-approach-to-ai-governance-psa-to-govt-prof-ajay-kumar-sood",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-09-23/672uvqmp/AI-Boom.jpg",
+            "publishedAt": "2025-12-23T05:22:50Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -3405,90 +3489,6 @@
             "url": "https://www.tribuneindia.com/news/world/un-anti-corruption-conference-in-doha-concludes-with-call-to-maximise-potential-of-ai-systems-to-address-corruption-economic-crime/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQyNDI2MWYwLWRkYWEtMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
             "publishedAt": "2025-12-20T13:50:13Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Last-mile delivery becomes urban pressure point: Can integrated smart logistics fix it?",
-            "url": "https://www.devdiscourse.com/article/business/3732788-last-mile-delivery-becomes-urban-pressure-point-can-integrated-smart-logistics-fix-it",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/17_12_2025_10_07_58_3423863.png?width=920&format=jpeg",
-            "publishedAt": "2025-12-20T12:54:59Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Sam Altman reveals why OpenAI declared ‘Code Red’: Is Google still a threat?",
-            "url": "https://www.thenews.com.pk/latest/1385556-sam-altman-reveals-why-openai-declared-code-red-is-google-still-a-threat",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2025-12-20/1385556_055112_updates.jpg",
-            "publishedAt": "2025-12-20T12:51:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Indian cyber agency flags WhatsApp 'hijack'",
-            "url": "https://economictimes.indiatimes.com/tech/technology/indian-cyber-agency-flags-whatsapp-hijack/articleshow/126093753.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42894,resizemode-75,msid-126093753/tech/technology/indian-cyber-agency-flags-whatsapp-hijack.jpg",
-            "publishedAt": "2025-12-20T12:48:09Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Trump praises Indian-origin AI adviser Sriram Krishnan for leading US AI race against China",
-            "url": "https://timesofindia.indiatimes.com/world/us/trump-praises-indian-origin-ai-adviser-sriram-krishnan-for-leading-us-ai-race-against-china/articleshow/126093561.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126093594,width-1070,height-580,imgsize-8758,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2025-12-20T12:34:00Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "Why is Trump’s media company getting involved with nuclear power?",
-            "url": "https://www.courant.com/2025/12/20/why-is-trumps-media-company-getting-involved-with-nuclear-power/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/12/202512191359MCT_____PHOTO____BIZ-TRUMP-MEDIA-NUKE-MERGER-EXPLAINER-FILEPIC-GET.jpg?w=1024&h=682",
-            "publishedAt": "2025-12-20T12:00:24Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Princeton faces multiple lawsuits after disclosing cybersecurity breach involving student and alumni data",
-            "url": "https://timesofindia.indiatimes.com/education/news/princeton-faces-multiple-lawsuits-after-disclosing-cybersecurity-breach-involving-student-and-alumni-data/articleshow/126089290.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126089276,width-1070,height-580,imgsize-2384786,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2025-12-20T11:30:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "IPS Academy Opens IKS Cell; Seminar Highlights AI's Role in Mathematical Cosmology",
-            "url": "https://www.tribuneindia.com/news/business/ips-academy-opens-iks-cell-seminar-highlights-ais-role-in-mathematical-cosmology/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRlNGNkYzEwLWRkOTUtMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
-            "publishedAt": "2025-12-20T11:20:13Z"
         }
     ]
 }
