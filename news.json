@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-12-24T09:20:28.028197Z",
+    "lastUpdatedAt": "2025-12-24T10:18:10.181186Z",
     "articles": [
+        {
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com",
+                "country": "us"
+            },
+            "title": "PNW offers STEM Discovery Day for area high schoolers",
+            "url": "https://www.chicagotribune.com/2025/12/23/pnw-offers-stem-discovery-day-for-area-high-schoolers/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/12/PTB-L-PNW-DISCOVERY-1224-02.jpg?w=481&h=640",
+            "publishedAt": "2025-12-23T22:00:23Z"
+        },
+        {
+            "source": {
+                "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
+                "name": "cleveland.com",
+                "url": "https://www.cleveland.com",
+                "country": "us"
+            },
+            "title": "Lorain County names new cybersecurity chief, adopts countywide digital security plan",
+            "url": "https://www.cleveland.com/news/2025/12/lorain-county-names-new-cybersecurity-chief-adopts-countywide-digital-security-plan.html",
+            "urlToImage": "https://www.cleveland.com/resizer/v2/56KBK5X5DVBW3KOABQVMWDNOII.jpg?auth=cf4d63009b2b9a916679d14de28572d737ac19bbe75618271a00e4a5784a3b2f&width=1280&smart=true&quality=90",
+            "publishedAt": "2025-12-23T21:50:53Z"
+        },
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk",
+                "country": "gb"
+            },
+            "title": "How Janice Dickinson, 70, would REALLY look if she never had any cosmetic enhancements",
+            "url": "https://www.dailymail.co.uk/lifestyle/beauty/article-15410361/janice-dickinson-plastic-surgery-cosmetic-enhancements-ai-photos.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2025/12/23/21/104984765-0-image-m-115_1766525665642.jpg",
+            "publishedAt": "2025-12-23T21:34:46Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "New AI tool gives military members 'sandbox' to prepare for next war: Expert",
+            "url": "https://www.foxnews.com/politics/new-u-s-military-genai-tool-critical-first-step-future-warfare-says-expert",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/pete-hegseth-us-soldier-with-drone.png",
+            "publishedAt": "2025-12-23T21:26:49Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -1560,6 +1608,15 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001144",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001144.g005&size=inline",
             "publishedAt": "2025-12-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "asiatimes"
+            },
+            "title": "China cries foul after topping ASPI tech rankings",
+            "url": "https://asiatimes.com/2025/12/china-cries-foul-after-topping-aspi-tech-rankings/",
+            "urlToImage": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2024/12/China-AI-Flag-Technology.jpg?fit=780%2C519&quality=89&ssl=1",
+            "publishedAt": "2025-12-23 18:36:29"
         },
         {
             "source": {
@@ -3477,66 +3534,6 @@
             "url": "https://www.foxnews.com/politics/dhs-responds-after-reports-cisa-chief-allegedly-failed-polygraph-classified-intel-access",
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/dhs-cisa-polygraph-dispute-intel-access-003.jpg",
             "publishedAt": "2025-12-22T01:58:58Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "OpenAI Sees Better Margins on Business Sales, Report Says",
-            "url": "https://www.ndtvprofit.com/world/openai-sees-better-margins-on-business-sales-report-says",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-22%2Fv8r7rh7w%2F446706773.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-12-22T01:18:53Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Karnataka all set to corner data centre projects worth Rs 1,350 crore",
-            "url": "https://economictimes.indiatimes.com/tech/technology/karnataka-all-set-to-corner-data-centre-projects-worth-rs-1350-crore/articleshow/126108080.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-138048,resizemode-75,msid-126108080/tech/technology/karnataka-all-set-to-corner-data-centre-projects-worth-rs-1350-crore.jpg",
-            "publishedAt": "2025-12-22T00:31:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Eyeing exports, India to tap AI for robust quality checks, distribution and storage",
-            "url": "https://www.livemint.com/news/agriculture-food-grain-export-ai-pds-storage-rice-wheat-11766298851450.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/21/1600x900/logo/ANI-20230427029-0_1687178427642_1766323504753.jpg",
-            "publishedAt": "2025-12-22T00:30:12Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "'If companies can't bring in best people, they will go where the talent is'",
-            "url": "https://economictimes.indiatimes.com/tech/technology/if-cos-cant-bring-in-best-people-they-will-go-where-the-talent-is/articleshow/126108590.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36074,resizemode-75,msid-126108590/tech/technology/if-cos-cant-bring-in-best-people-they-will-go-where-the-talent-is.jpg",
-            "publishedAt": "2025-12-22T00:30:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "ET Graphics: IT hiring rebounds in 2025, thanks to India’s GCC boom",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/et-graphics-it-hiring-rebounds-in-2025-thanks-to-indias-gcc-boom/articleshow/126108695.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1887837,resizemode-75,msid-126108695/tech/information-tech/et-graphics-it-hiring-rebounds-in-2025-thanks-to-indias-gcc-boom.jpg",
-            "publishedAt": "2025-12-22T00:30:00Z"
         }
     ]
 }
