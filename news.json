@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-12-24T08:24:14.204986Z",
+    "lastUpdatedAt": "2025-12-24T09:20:28.028197Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Japan adopts new cybersecurity strategy focusing on preemptive defense",
+            "url": "https://japantoday.com/category/politics/japan-adopts-new-cybersecurity-strategy-focusing-on-preemptive-defense",
+            "urlToImage": "https://media.japantoday.com/img/store/3b/92/36c3539bf378fe601e00ef64dd4515168098/ap23256184351832-1/_w1700.jpeg",
+            "publishedAt": "2025-12-23T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "ServiceNow to acquire cybersecurity startup Armis for $7.75B",
+            "url": "https://techcrunch.com/2025/12/23/servicenow-to-acquire-cybersecurity-startup-armis-for-7-75b/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Founders-1-credit-Armis-2.jpg?resize=1200,824",
+            "publishedAt": "2025-12-23T20:40:10Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -3513,24 +3537,6 @@
             "url": "https://economictimes.indiatimes.com/tech/information-tech/et-graphics-it-hiring-rebounds-in-2025-thanks-to-indias-gcc-boom/articleshow/126108695.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1887837,resizemode-75,msid-126108695/tech/information-tech/et-graphics-it-hiring-rebounds-in-2025-thanks-to-indias-gcc-boom.jpg",
             "publishedAt": "2025-12-22T00:30:00Z"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "DoD Launches GenAI.mil with Google’s Gemini for AI-Powered Warfare",
-            "url": "https://www.webpronews.com/dod-launches-genai-mil-with-googles-gemini-for-ai-powered-warfare/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-4637-1766445802.jpeg",
-            "publishedAt": "2025-12-22 23:23:28"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Amazon Appoints DeSantis to Lead Unified AI Unit Amid Restructure",
-            "url": "https://www.webpronews.com/amazon-appoints-desantis-to-lead-unified-ai-unit-amid-restructure/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-4630-1766444101.jpeg",
-            "publishedAt": "2025-12-22 22:55:07"
         }
     ]
 }
