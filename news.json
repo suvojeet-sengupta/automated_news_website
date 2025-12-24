@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-12-24T04:32:35.565898Z",
+    "lastUpdatedAt": "2025-12-24T05:20:22.939977Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Fed chair candidate Hassett says U.S behind the curve on lowering rates",
+            "url": "https://www.cnbc.com/2025/12/23/fed-chair-candidate-hassett-says-us-behind-the-curve-on-lowering-rates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108242435-1765899087859-gettyimages-2252210961-imgl5287_uvkbxxxc.jpeg?v=1765899110&w=1920&h=1080",
+            "publishedAt": "2025-12-23T17:14:10Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "From Nvidia to DeepSeek: Why global investors are quietly turning to China’s AI companies",
+            "url": "https://techstartups.com/2025/12/23/from-nvidia-to-deepseek-why-global-investors-are-quietly-turning-to-chinas-ai-companies/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/12/Deepseek.jpg",
+            "publishedAt": "2025-12-23T17:05:57Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "NxGen Brands, Inc. (OTC: NXGB) Announces Strategic Expansion into Automated Digital Commerce, AI-Driven Marketing, and Blockchain-Based Affiliate Ecosystems",
+            "url": "https://www.manilatimes.net/2025/12/24/tmt-newswire/globenewswire/nxgen-brands-inc-otc-nxgb-announces-strategic-expansion-into-automated-digital-commerce-ai-driven-marketing-and-blockchain-based-affiliate-ecosystems/2248978",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-12-23T16:53:37Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Sax LLP Data Breach Claims Investigated by Lynch Carpenter",
+            "url": "https://www.globenewswire.com/news-release/2025/12/23/3210041/0/en/Sax-LLP-Data-Breach-Claims-Investigated-by-Lynch-Carpenter.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
+            "publishedAt": "2025-12-23T16:50:28Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Indian Railways strengthens AI-based system to protect wildlife on railway tracks",
+            "url": "https://timesofindia.indiatimes.com/india/indian-railways-strengthens-ai-based-system-to-protect-wildlife-on-railway-tracks/articleshow/126144842.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-126144855,width-1070,height-580,imgsize-84220,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-12-23T16:47:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Delhi HC protects Sunil Gavaskar’s personality rights",
+            "url": "https://indianexpress.com/shorts/sports/cricket/delhi-hc-protects-sunil-gavaskar-takedown-objectionable-content-10435540/",
+            "urlToImage": "https://images.indianexpress.com/2025/07/Gavaskar-4.jpg",
+            "publishedAt": "2025-12-23T16:40:54Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Delhi HC protects Sunil Gavaskar’s personality rights, orders takedown of objectionable content",
+            "url": "https://indianexpress.com/article/sports/cricket/delhi-hc-protects-sunil-gavaskar-takedown-objectionable-content-10435540/",
+            "urlToImage": "https://images.indianexpress.com/2025/07/Gavaskar-4.jpg",
+            "publishedAt": "2025-12-23T16:40:34Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -3414,69 +3498,6 @@
             "url": "https://www.webpronews.com/trump-launches-does-genesis-mission-ai-partnerships-with-tech-giants-for-innovation/",
             "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-4484-1766374713.jpeg",
             "publishedAt": "2025-12-22 13:45:05"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | H200 GPU Launch on CloudPe Platform",
-            "url": "https://www.latestly.com/agency-news/business-news-h200-gpu-launch-on-cloudpe-platform-7247966.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/12/ANI-20251222111823.jpg",
-            "publishedAt": "2025-12-22 11:32:29"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Why Amazon Replaced Its AI Lead, China’s EUV Push & 3 More AI Trends This Week",
-            "url": "https://www.geeky-gadgets.com/this-weeks-news-in-ai/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/china-euv-chipmaking-asml-bottleneck_optimized.webp",
-            "publishedAt": "2025-12-22 11:00:46"
-        },
-        {
-            "source": {
-                "name": "helpnetsecurity"
-            },
-            "title": "DIG AI: Uncensored darknet AI assistant at the service of criminals and terrorists",
-            "url": "https://www.helpnetsecurity.com/2025/12/22/resecurity-dig-ai-assistant-research/",
-            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/05/27124549/eye-1500.webp",
-            "publishedAt": "2025-12-22 11:00:10"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Inside HP’s AI bet to rebuild itself for the ‘work intelligence’ age",
-            "url": "https://www.fastcompany.com/91462170/hp-ai-ces-work-intelligence",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/12/p-91462170-HP-AI-Jim-Nottingham-interview.jpg",
-            "publishedAt": "2025-12-22 10:00:00"
-        },
-        {
-            "source": {
-                "name": "pcquest"
-            },
-            "title": "From uptime to AI-time: the cloud’s power shift is here",
-            "url": "https://www.pcquest.com/artificial-intelligence/from-uptime-to-ai-time-the-clouds-power-shift-is-here-10930654",
-            "urlToImage": "https://img-cdn.publive.online/pcq/media/media_files/2025/12/22/the-cloud-power-shift-is-here-2025-12-22-13-07-42.jpg",
-            "publishedAt": "2025-12-22 09:55:50"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "Alibaba Cloud Named A Leader In Gartner® Magic Quadranttm For Cloud Database Management Systems For Sixth Consecutive Year",
-            "url": "https://menafn.com/1110511504/Alibaba-Cloud-Named-A-Leader-In-Gartner-Magic-Quadranttm-For-Cloud-Database-Management-Systems-For-Sixth-Consecutive-Year",
-            "urlToImage": "https://menafn.com/updates/pr/2025-12/22/MI_0e61dimage_story.jpg",
-            "publishedAt": "2025-12-22 07:00:32"
-        },
-        {
-            "source": {
-                "name": "emporiagazette"
-            },
-            "title": "As US battles China on AI, some companies choose Chinese",
-            "url": "https://www.emporiagazette.com/news/national/article_60dd50f0-6f5c-5dbd-9c91-acd59b837e93.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/assets/v3/editorial/0/ca/0cad6019-4b28-59ea-9cd5-1536f01e7f48/6948a9b44f630.image.jpg?resize=400%2C266",
-            "publishedAt": "2025-12-22 01:23:05"
         }
     ]
 }
