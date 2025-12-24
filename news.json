@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-12-24T15:17:30.587897Z",
+    "lastUpdatedAt": "2025-12-24T16:20:39.331257Z",
     "articles": [
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Can AI surpass humans? Google DeepMind CEO claims AI can match human learning, Elon Musk backs the view",
+            "url": "https://www.financialexpress.com/life/technology-can-ai-surpass-humans-google-deepmind-ceo-claims-ai-can-match-human-learning-elon-musk-backs-the-view-4086832/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/12/Untitled-design-2025-12-24T083115.043.jpg?quality=100",
+            "publishedAt": "2025-12-24T04:09:42Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Economist Acemoglu to Newsmax: AI Faces Trillion-Dollar Gamble",
+            "url": "https://www.newsmax.com/newsmax-tv/daron-acemoglu-newsmax-ai/2025/12/23/id/1239517/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9fdc7081-d856-4d50-a566-8f0f5d073d06&SiteName=Newsmax",
+            "publishedAt": "2025-12-24T03:24:32Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -180,6 +204,15 @@
             "url": "https://www.mirror.co.uk/news/health/nhs-boss-warns-against-asking-36446646",
             "urlToImage": "https://i2-prod.mirror.co.uk/article36447286.ece/ALTERNATES/s1200/1_Woman-looking-at-work-on-computer-screen.jpg",
             "publishedAt": "2025-12-24T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Great Tech Salary Divide: Why AI Elites Thrive as Others Face Cuts",
+            "url": "https://hackernoon.com/the-great-tech-salary-divide-why-ai-elites-thrive-as-others-face-cuts",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ny03di8.jpeg",
+            "publishedAt": "2025-12-24 03:59:59"
         },
         {
             "source": {
@@ -3495,42 +3528,6 @@
             "url": "https://www.bolnews.com/entertainment/ai-meets-storytelling-pakistan-unveils-the-next-salahuddin/",
             "urlToImage": "https://www.bolnews.com/wp-content/uploads/2025/12/The-Next-Salahuddin.webp",
             "publishedAt": "2025-12-22T06:59:44Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "WISeKey Issues Year-End CEO Letter to Shareholders",
-            "url": "https://www.manilatimes.net/2025/12/22/tmt-newswire/globenewswire/wisekey-issues-year-end-ceo-letter-to-shareholders/2247768",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/22/876419.png",
-            "publishedAt": "2025-12-22T06:18:06Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "NCERT constitutes dedicated team to develop Artificial Intelligence textbooks for Classes 11 and 12: What will students really learn?",
-            "url": "https://timesofindia.indiatimes.com/education/news/ncert-constitutes-dedicated-team-to-develop-artificial-intelligence-textbooks-for-classes-11-and-12-what-will-students-really-learn/articleshow/126115703.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126115761,width-1070,height-580,imgsize-49280,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2025-12-22T06:10:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "As US battles China on AI, some companies choose Chinese",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/22/as-us-battles-china-on-ai-some-companies-choose-chinese",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/22/3685114.JPG",
-            "publishedAt": "2025-12-22T06:00:00Z"
         }
     ]
 }
