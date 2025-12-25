@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-12-25T13:29:03.217877Z",
+    "lastUpdatedAt": "2025-12-25T14:16:01.182075Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Man who lost key motion in Elon Musk suit alleges judge used faulty AI",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/25/man-who-lost-key-motion-in-elon-musk-suit-alleges-judge-used-faulty-ai",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/24/3689087.JPG",
+            "publishedAt": "2025-12-25T02:00:00Z"
+        },
         {
             "source": {
                 "id": "0a4c92a1a91d0994627a96e134064d69",
@@ -24,6 +36,15 @@
             "url": "https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html",
             "urlToImage": "https://static01.nyt.com/images/2025/12/24/multimedia/24Biz-Nvidia-Groq-hbzt/24Biz-Nvidia-Groq-hbzt-facebookJumbo.jpg",
             "publishedAt": "2025-12-25T00:00:31Z"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Report: OpenAI explores ways to monetize ChatGPT with conversational ads",
+            "url": "https://siliconangle.com/2025/12/24/report-openai-explores-ways-monetize-chatgpt-conversational-ads/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-25-08-40-07.png",
+            "publishedAt": "2025-12-25 01:40:42"
         },
         {
             "source": {
@@ -3474,30 +3495,6 @@
             "url": "https://www.usnews.com/news/best-states/california/articles/2025-12-22/googles-parent-buys-data-center-energy-specialist-intersect-for-4-75-billion-to-help-power-ai",
             "urlToImage": "https://www.usnews.com/dims4/USNEWS/eaf0b89/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fa2%2Fd41f985487bee0e92a356948a8ddee%2F44c4935c522246079ac4e46aee6d3961Alphabet_Power_Deal_15518.jpg",
             "publishedAt": "2025-12-22T18:12:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Singapore's Agnes AI Reaches 3M Users and Launches Proprietary SOTA Models",
-            "url": "https://www.manilatimes.net/2025/12/23/tmt-newswire/globenewswire/singapores-agnes-ai-reaches-3m-users-and-launches-proprietary-sota-models/2248317",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/23/877457.png",
-            "publishedAt": "2025-12-22T18:11:09Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Pandora Embraces AI Agents, Welcomes New CEO",
-            "url": "https://www.europesays.com/2650766/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2025/12/Pandora.jpeg",
-            "publishedAt": "2025-12-22T18:10:27Z"
         }
     ]
 }
