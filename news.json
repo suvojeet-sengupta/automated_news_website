@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-12-25T11:14:53.853405Z",
+    "lastUpdatedAt": "2025-12-25T12:34:16.343492Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Novel AI tool offers prognosis for patients with head and neck cancer",
+            "url": "https://medicalxpress.com/news/2025-12-ai-tool-prognosis-patients-neck.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/cancer-2.jpg",
+            "publishedAt": "2025-12-25T00:30:01Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up",
+            "url": "https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/12/24/multimedia/24Biz-Nvidia-Groq-hbzt/24Biz-Nvidia-Groq-hbzt-facebookJumbo.jpg",
+            "publishedAt": "2025-12-25T00:00:31Z"
+        },
         {
             "source": {
                 "id": "28bc60a23a7bf89e60f893506992a3fe",
@@ -3477,30 +3501,6 @@
             "url": "https://www.foxnews.com/tech/netflix-suspension-scam-targets-your-inbox",
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/woman-at-desktop-computer.jpg",
             "publishedAt": "2025-12-22T17:15:32Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Ayyanna Patrudu emphasises growing importance of cybersecurity in governance",
-            "url": "https://www.thehindu.com/news/national/andhra-pradesh/ayyanna-patrudu-emphasises-growing-importance-of-cybersecurity-in-governance/article70426935.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/wzkvw9/article70427272.ece/alternates/LANDSCAPE_1200/10745_22_12_2025_21_40_36_1_IMG_20251222_WA0212.JPG",
-            "publishedAt": "2025-12-22T17:00:18Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "A urine-based biological aging clock: Machine learning and microRNA offer accurate prediction",
-            "url": "https://medicalxpress.com/news/2025-12-urine-based-biological-aging-clock.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/old-and-young-hands.jpg",
-            "publishedAt": "2025-12-22T16:50:01Z"
         }
     ]
 }
