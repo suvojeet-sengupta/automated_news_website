@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-12-25T06:27:06.121231Z",
+    "lastUpdatedAt": "2025-12-25T07:18:51.538508Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI model predicts blood loss in liposuction",
+            "url": "https://medicalxpress.com/news/2025-12-ai-blood-loss-liposuction.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-model-predicts-bloo.jpg",
+            "publishedAt": "2025-12-24T18:50:01Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "The Top 10 Most Popular Tech News Headlines of 2025: A Year in Review",
+            "url": "https://techstartups.com/2025/12/24/the-top-10-most-popular-tech-news-headlines-of-2025-a-year-in-review/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/12/The-Top-10-Most-Popular-Tech-Headlines-of-2025-960x536.jpg",
+            "publishedAt": "2025-12-24T18:30:28Z"
+        },
         {
             "source": {
                 "id": "391302f06b19835f4e0d9f8b4aa57091",
@@ -3477,30 +3501,6 @@
             "url": "https://economictimes.indiatimes.com/tech/technology/how-ai-boom-is-pressuring-videogame-console-industry-in-race-for-memory-chips/articleshow/126124668.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-919890,resizemode-75,msid-126124668/tech/technology/how-ai-boom-is-pressuring-videogame-console-industry-in-race-for-memory-chips.jpg",
             "publishedAt": "2025-12-22T15:45:03Z"
-        },
-        {
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            },
-            "title": "How Artificial Intelligence Interacts with Human Language by Integrating Large Language Models",
-            "url": "https://www.ibtimes.com/how-artificial-intelligence-interacts-human-language-integrating-large-language-models-3793479",
-            "urlToImage": "https://d.ibtimes.com/en/full/4638326/fig-1-performance-comparison-transformer-based-models-vs-traditional-approaches.png",
-            "publishedAt": "2025-12-22T15:40:03Z"
-        },
-        {
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            },
-            "title": "An Integrated Artificial Intelligence and Internet of Things Framework for Next-Generation Retail: A Paradigm Shift in Efficiency, Personalization, and Scalability",
-            "url": "https://www.ibtimes.com/integrated-artificial-intelligence-internet-things-framework-next-generation-retail-paradigm-3793473",
-            "urlToImage": "https://d.ibtimes.com/en/full/4638321/cognitive-retail-mesh.png",
-            "publishedAt": "2025-12-22T15:27:05Z"
         }
     ]
 }
