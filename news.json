@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-12-25T01:18:53.641559Z",
+    "lastUpdatedAt": "2025-12-25T03:23:31.945134Z",
     "articles": [
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Brokerage forecasts for S&P 500, global GDP",
+            "url": "https://www.bnnbloomberg.ca/business/2025/12/24/what-to-expect-in-2026-brokerage-forecasts-for-sp-500-global-gdp/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/VJW6KTWMXTTW4T7FY7GV7ZP42U.jpg?smart=true&auth=5d8965cc2d8499fedaa67b5f1cc6dc8ad78e6ad26b095e9bd691fa6ed6bdc83f&width=1200&height=630",
+            "publishedAt": "2025-12-24T15:12:49Z"
+        },
+        {
+            "source": {
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
+                "country": "in"
+            },
+            "title": "ServiceNow To Acquire Armis For $7.75 Billion, Expanding Cybersecurity And AI-Native Security Solutions",
+            "url": "https://scanx.trade/stock-market-news/global/servicenow-to-acquire-armis-for-7-75-billion-expanding-cybersecurity-and-ai-native-security-solutions/28134692",
+            "urlToImage": "http://news-images.dhan.co/servicenow-to-acquire-armis-for-7-75-billion-expanding-cybersecurity-and-ai-native-security-solutions.jpg",
+            "publishedAt": "2025-12-24T15:11:38Z"
+        },
+        {
+            "source": {
+                "id": "5d57a4bf494b772aa2d7d0cd3ed9d7c0",
+                "name": "AM New York",
+                "url": "https://www.amny.com",
+                "country": "us"
+            },
+            "title": "Op-Ed | New York City must lead on artificial intelligence",
+            "url": "https://www.amny.com/law/op-ed-new-york-city-must-lead-on-artificial-intelligence/",
+            "urlToImage": "https://www.amny.com/wp-content/uploads/2025/12/Michael-Pastor-Headshot.jpg?quality=51&w=1200&p=q",
+            "publishedAt": "2025-12-24T14:30:58Z"
+        },
+        {
+            "source": {
+                "id": "214d496d625fc657723cf4da80cff8ce",
+                "name": "Deccan Chronicle",
+                "url": "https://www.deccanchronicle.com",
+                "country": "in"
+            },
+            "title": "Deloitte India Expands Google Cloud Partnership For AI-powered Cybersecurity",
+            "url": "https://www.deccanchronicle.com/business/deloitte-india-expands-google-cloud-partnership-for-ai-powered-cybersecurity-1926094",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/12/24/1993236-dd.jpg",
+            "publishedAt": "2025-12-24T14:30:30Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Trump Says 'I Love AI' as Boom Bets Fuel Bubble Fears",
+            "url": "https://www.newsmax.com/newsfront/donald-trump-economy-ai/2025/12/24/id/1239536/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=8b1dc0af-31dc-415b-acb7-705c789332cc&SiteName=Newsmax",
+            "publishedAt": "2025-12-24T13:58:22Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Tech in 2025: AI went mainstream and became part of our lives, thanks to Nano Banana",
+            "url": "https://www.indiatoday.in/technology/features/story/tech-in-2025-ai-went-mainstream-and-became-part-of-our-lives-thanks-to-nano-banana-2841280-2025-12-24",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/the-statement-warns-that-the-unchecked-pursuit-of-superintelligent-systems-could-pose-existential-ri-230942879-16x9.png?VersionId=Ah1Kr.zEq3P8xVAruFSpftclTHwjJm3z",
+            "publishedAt": "2025-12-24T13:49:20Z"
+        },
         {
             "source": {
                 "id": "2492bcb79914b2ce3d9867453dae22ac",
@@ -684,6 +756,24 @@
             "url": "https://www.mirror.co.uk/news/health/nhs-boss-warns-against-asking-36446646",
             "urlToImage": "https://i2-prod.mirror.co.uk/article36447286.ece/ALTERNATES/s1200/1_Woman-looking-at-work-on-computer-screen.jpg",
             "publishedAt": "2025-12-24T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "sciencedaily"
+            },
+            "title": "AI supercharges scientific output while quality slips",
+            "url": "https://www.sciencedaily.com/releases/2025/12/251224032347.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/1920/ai-computer-document-management-analysis.webp",
+            "publishedAt": "2025-12-24 14:11:28"
+        },
+        {
+            "source": {
+                "name": "dallasinnovates"
+            },
+            "title": "Patented: Gemma Robotics’ Automated Makeup Application System and More North Texas Inventive Activity",
+            "url": "https://s24806.pcdn.co/patented-gemma-robotics-automated-makeup-application-system-and-more-north-texas-inventive-activity/",
+            "urlToImage": "https://s24806.pcdn.co/wp-content/uploads/2017/08/DallasInvents-150x300-e1503460955438.jpg",
+            "publishedAt": "2025-12-24 13:34:48"
         },
         {
             "source": {
@@ -3414,102 +3504,6 @@
             "url": "https://www.techradar.com/pro/security/trumps-new-usd900-billion-pentagon-funding-plan-includes-enhanced-cybersecurity-protections-for-cyber-command-heres-what-we-know",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/mKMagYySXim5j7Jhs824ZX-1920-80.jpg",
             "publishedAt": "2025-12-22T14:25:00Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "AI power struggle: Kevin O'Leary warns China kicking US in technology race",
-            "url": "https://www.foxnews.com/media/kevin-oleary-warns-china-kicking-our-heinies-ai-race-regulatory-roadblocks-stall-us",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/kevin-oleary-shark-tank-thumb.jpg",
-            "publishedAt": "2025-12-22T14:13:50Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Onto Innovation Receives TSMC Honor for “Excellent Production Support”",
-            "url": "https://www.marketscreener.com/news/onto-innovation-receives-tsmc-honor-for-a-excellent-production-supporta--ce7d50d2de8ef52c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-12-22T14:10:07Z"
-        },
-        {
-            "source": {
-                "id": "53145d6e104c81ebd118041fcf32414e",
-                "name": "Majorca Daily Bulletin",
-                "url": "https://www.majorcadailybulletin.com",
-                "country": "es"
-            },
-            "title": "National Police warns of a new “smishing” scam to steal bank details in Spain",
-            "url": "https://www.majorcadailybulletin.com/news/local/2025/12/22/139049/national-police-warns-new-smishing-scam-steal-bank-details-spain.html",
-            "urlToImage": "https://md.gsstatic.es/sfAttachPlugin/social/183121.jpg",
-            "publishedAt": "2025-12-22T14:09:44Z"
-        },
-        {
-            "source": {
-                "id": "d4773b92da0613b8ffc2fc9c46229534",
-                "name": "Business Wire",
-                "url": "https://www.businesswire.com",
-                "country": "us"
-            },
-            "title": "Kargo.ai Raises $42M Series B to Scale Global Warehouse Deployment with Enterprise Clients",
-            "url": "https://www.businesswire.com/news/home/20251222521900/en/Kargo.ai-Raises-%2442M-Series-B-to-Scale-Global-Warehouse-Deployment-with-Enterprise-Clients",
-            "urlToImage": "https://mms.businesswire.com/media/20251222521900/en/2675754/22/Picture1.jpg",
-            "publishedAt": "2025-12-22T14:01:00Z"
-        },
-        {
-            "source": {
-                "id": "80e67d83d114c7e3ce5bc541de56b5d7",
-                "name": "Lansing State Journal",
-                "url": "https://www.lansingstatejournal.com",
-                "country": "us"
-            },
-            "title": "AI cheating accusations create trust issues in Michigan classrooms",
-            "url": "https://www.lansingstatejournal.com/story/news/education/2025/12/22/ai-cheating-accusations-create-trust-issues-in-michigan-classrooms/87880998007/",
-            "urlToImage": "https://www.lansingstatejournal.com/gcdn/authoring/authoring-images/2025/12/20/PDTF/87863471007-12182025-dfp-ai-trust-drm-006.jpg?crop=2399,1351,x0,y124&width=2399&height=1351&format=pjpg&auto=webp",
-            "publishedAt": "2025-12-22T13:49:54Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "SoftBank rushes to raise $22.5B to meet OpenAI funding deadline as AI compute costs surge",
-            "url": "https://techstartups.com/2025/12/22/softbank-rushes-to-raise-22-5b-to-meet-openai-funding-deadline-as-ai-compute-costs-surge/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/08/SoftBank-artificial-superintelligence.jpg",
-            "publishedAt": "2025-12-22T13:49:28Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "India's IT Hiring Surge in 2025: A New Era of Tech Growth",
-            "url": "https://www.devdiscourse.com/article/business/3738724-indias-it-hiring-surge-in-2025-a-new-era-of-tech-growth",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/22_12_2025_18_39_51_273715.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-12-22T13:10:26Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Modern technologies are playing crucial role in generating employment: Jitin Prasada",
-            "url": "https://www.lokmattimes.com/technology/modern-technologies-are-playing-crucial-role-in-generating-employment-jitin-prasada-2/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202512223615981_202512.jpg",
-            "publishedAt": "2025-12-22T13:02:21Z"
         }
     ]
 }
