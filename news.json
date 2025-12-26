@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-12-26T10:17:52.648687Z",
+    "lastUpdatedAt": "2025-12-26T11:15:26.789145Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Fabrizio Poll: Backing National AI Standard Boosts Candidates",
+            "url": "https://www.newsmax.com/politics/ai-standard-donald-trump/2025/12/25/id/1239683/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=96dc9725-0362-4b4f-b0f2-83b6aaac88c1&SiteName=Newsmax",
+            "publishedAt": "2025-12-25T23:03:36Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Disclosing AI revenue: Finding a best practice between Accenture’s U-turn and TCS debut",
+            "url": "https://economictimes.indiatimes.com/prime/technology-and-startups/disclosing-ai-revenue-finding-a-best-practice-between-accentures-u-turn-and-tcs-debut/primearticleshow/126172936.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-126175884,width-1070,height-580,imgsize-32406/photo.jpg",
+            "publishedAt": "2025-12-25T22:30:00Z"
+        },
         {
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -3528,30 +3552,6 @@
             "url": "https://www.firstpost.com/entertainment/delhi-high-court-protects-dhurandhar-star-r-madhavans-personality-rights-orders-takedown-of-objectionable-content-13962130.html",
             "urlToImage": "https://images.firstpost.com/uploads/2025/12/rm-1-2025-12-5768321eab98b8bd7eec20db039fad63.jpg?im=FitAndFill=(1200,675)",
             "publishedAt": "2025-12-23T00:30:52Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Hongkongers urged to quickly sign up for eMPF platform as defence against scams",
-            "url": "https://www.scmp.com/news/hong-kong/society/article/3337390/hongkongers-urged-quickly-sign-empf-platform-defence-against-scams",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/23/dc18faea-fe5a-4aa8-919a-b8210a4a75e6_0c4e84f0.jpg?itok=E5MGa-rC&v=1766422663",
-            "publishedAt": "2025-12-23T00:30:12Z"
-        },
-        {
-            "source": {
-                "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
-                "name": "Around Osceola",
-                "url": "https://www.aroundosceola.com",
-                "country": "us"
-            },
-            "title": "AI ‘Bill of Rights’ emerges in State Senate",
-            "url": "https://www.aroundosceola.com/news-statewide-news/ai-bill-rights-emerges-state-senate",
-            "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/2025-12/Tom%20Leek.jpg",
-            "publishedAt": "2025-12-23T00:00:00Z"
         }
     ]
 }
