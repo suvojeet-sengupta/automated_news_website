@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-12-26T15:16:54.514304Z",
+    "lastUpdatedAt": "2025-12-26T16:19:20.345118Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Smart manufacturing moves beyond Industry 4.0, forcing a rethink of industrial strategy",
+            "url": "https://www.devdiscourse.com/article/technology/3736117-smart-manufacturing-moves-beyond-industry-40-forcing-a-rethink-of-industrial-strategy",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_12_2025_17_48_36_2932901.png?width=920&format=jpeg",
+            "publishedAt": "2025-12-26T03:29:41Z"
+        },
         {
             "source": {
                 "id": "f5081afeaba654292dd91fffd29f9dd4",
@@ -84,6 +96,15 @@
             "url": "https://manilastandard.net/business/314684832/nvidia-expands-ai-empire-with-groq-talent-grab.html",
             "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/07/Nvidia.jpeg",
             "publishedAt": "2025-12-26T00:40:00Z"
+        },
+        {
+            "source": {
+                "name": "telecom_economictimes"
+            },
+            "title": "Telecom trends in 2026: 5G monetisation, AI-led traffic, APIs, digital trust",
+            "url": "https://telecom.economictimes.indiatimes.com/news/industry/2026-trends-jio-ericsson-nokia-coai-highlight-5g-monetisation-ai-growth-and-digital-trust/126181846",
+            "urlToImage": "https://etimg.etb2bimg.com/photo/126182121.cms",
+            "publishedAt": "2025-12-26 03:23:11"
         },
         {
             "source": {
@@ -3522,30 +3543,6 @@
             "url": "https://www.nbcboston.com/news/local/drop-the-package-ai-security-service-promises-to-stop-thieves-in-their-tracks/3866451/",
             "urlToImage": "https://media.nbcboston.com/2025/12/Deep-Sentinel-122225.jpg?quality=85&strip=all&resize=1200%2C675",
             "publishedAt": "2025-12-23T03:27:14Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Wearable AI device detects early signs of frailty in older adults",
-            "url": "https://www.news-medical.net/news/20251222/Wearable-AI-device-detects-early-signs-of-frailty-in-older-adults.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2025-12-23T03:05:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "ByteDance plans to spend $23 billion towards AI infrastructure in 2026: FT",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/bytedance-plans-to-spend-23-billion-towards-ai-infrastructure-in-2026-ft/articleshow/126132253.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-147440,resizemode-75,msid-126132253/tech/artificial-intelligence/bytedance-plans-to-spend-23-billion-towards-ai-infrastructure-in-2026-ft.jpg",
-            "publishedAt": "2025-12-23T02:55:13Z"
         }
     ]
 }
