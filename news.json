@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-12-26T07:18:45.647421Z",
+    "lastUpdatedAt": "2025-12-26T08:22:42.943821Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "How can Canada become a global AI powerhouse? By investing in mathematics",
+            "url": "https://phys.org/news/2025-12-canada-global-ai-powerhouse-investing.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/math.jpg",
+            "publishedAt": "2025-12-25T20:10:02Z"
+        },
         {
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -3540,15 +3552,6 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001144",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001144.g005&size=inline",
             "publishedAt": "2025-12-23T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google Revamps Gemini AI App with Dynamic Floating Bar on Android",
-            "url": "https://www.webpronews.com/google-revamps-gemini-ai-app-with-dynamic-floating-bar-on-android/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-4704-1766534352.jpeg",
-            "publishedAt": "2025-12-23 23:59:17"
         }
     ]
 }
