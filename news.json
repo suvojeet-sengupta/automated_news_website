@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-12-29T03:44:52.906927Z",
+    "lastUpdatedAt": "2025-12-29T04:44:48.854500Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Will AI wipe out the working class, and recast our view of ourselves?",
+            "url": "https://www.manilatimes.net/2025/12/29/opinion/columns/will-ai-wipe-out-the-working-class-and-recast-our-view-of-ourselves/2250142",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/28/881749.jpg",
+            "publishedAt": "2025-12-28T16:11:00Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "‘Get your hands dirty with AI’: How a Microsoft PM is using Artificial Inteliigence to save hours",
+            "url": "https://www.financialexpress.com/trending/get-your-hands-dirty-with-ai-how-a-microsoft-pm-is-using-artificial-inteliigence-to-save-hours/4090810/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/12/Rishab-Jolly-Microsoft.png?quality=100",
+            "publishedAt": "2025-12-28T16:04:18Z"
+        },
         {
             "source": {
                 "id": "a8984f03fe66dae9745793f6560aa444",
@@ -492,6 +516,15 @@
             "url": "https://timesofindia.indiatimes.com/world/china/china-wants-human-like-ai-systems-to-have-socialist-values/articleshow/126211347.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-126211361,width-1070,height-580,imgsize-1510193,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
             "publishedAt": "2025-12-28T01:21:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Nvidia’s $20B Groq Deal Secures AI Tech and Key Talent",
+            "url": "https://www.webpronews.com/nvidias-20b-groq-deal-secures-ai-tech-and-key-talent/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-4906-1766894295.jpeg",
+            "publishedAt": "2025-12-28 16:20:06"
         },
         {
             "source": {
@@ -3468,42 +3501,6 @@
             "url": "https://techbullion.com/strengthening-cyber-resilience-where-it-matters-most-clifford-godwin-amomos-work-in-security-governance-and-high-risk-digital-systems/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/Annotation-2025-12-24-171700.png",
             "publishedAt": "2025-12-24T17:17:28Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Teaching children to question AI, not just use it",
-            "url": "https://timesofindia.indiatimes.com/life-style/parenting/parentology/study-smart/teaching-children-to-question-ai-not-just-use-it/articleshow/126162180.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126162166,width-1070,height-580,imgsize-62416,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2025-12-24T17:02:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Which stocks could drive the $1 trillion semiconductor milestone? Bank of America’s top bets",
-            "url": "https://economictimes.indiatimes.com/news/international/us/which-stocks-could-drive-the-1-trillion-semiconductor-milestone-bank-of-americas-1-trillion-semiconductor-forecast-is-here/articleshow/126162525.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-126162552,width-1200,height-630,imgsize-1843018,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-12-24T16:18:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "ServiceNow to buy Armis for $7.75 billion as AI-fueled cyber risks surge",
-            "url": "https://www.manilatimes.net/2025/12/25/business/foreign-business/servicenow-to-buy-armis-for-775-billion-as-ai-fueled-cyber-risks-surge/2249205",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-12-24T16:10:00Z"
         }
     ]
 }
