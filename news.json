@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-12-31T14:16:27.672906Z",
+    "lastUpdatedAt": "2025-12-31T15:17:08.202505Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "How a US startup is using AI to stop human trafficking",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/12/31/how-a-us-startup-is-using-ai-to-stop-human-trafficking",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/30/3696857.jpg",
+            "publishedAt": "2025-12-31T03:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a1dd1cfddd85ce2d4ada87bc9f6a9d43",
+                "name": "Belfast Telegraph",
+                "url": "https://www.belfasttelegraph.co.uk",
+                "country": "gb"
+            },
+            "title": "Many in favour of AI being used to create new work from musicians who have died",
+            "url": "https://www.belfasttelegraph.co.uk/entertainment/news/many-in-favour-of-ai-being-used-to-create-new-work-from-musicians-who-have-died/a355193664.html",
+            "urlToImage": "https://focus.belfasttelegraph.co.uk/thumbor/uCFoFwrE-vm0znGczdW9Y9h2YAg=/0x795:3480x3115/629x0/prod-mh-ireland/ef6df529-acc1-4dfd-b123-eacd53aca5f2/c25745be-34e0-4c98-b5cd-eda2107fa381/3d0b67c8-4f21-4dc3-8e6a-3cdaec3038fd.jpg",
+            "publishedAt": "2025-12-31T02:50:08Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -3504,27 +3528,6 @@
             "url": "https://economictimes.indiatimes.com/tech/technology/fabless-chip-companies-eye-surveillance-market-play-via-edge-ai-silicon/articleshow/126219208.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-92292,resizemode-75,msid-126219208/tech/technology/fabless-chip-companies-eye-surveillance-market-play-via-edge-ai-silicon.jpg",
             "publishedAt": "2025-12-29T00:30:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Cell-DINO: Self-supervised image-based embeddings for cell fluorescent microscopy",
-            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013828",
-            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013828.g009&size=inline",
-            "publishedAt": "2025-12-29T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "The amount of AI slop and brainrot videos on YouTube is shocking",
-            "url": "https://us.headtopics.com/news/the-amount-of-ai-slop-and-brainrot-videos-on-youtube-is-77764317",
-            "urlToImage": "https://i.headtopics.com/images/2025/12/29/digitaltrends/the-amount-of-ai-slop-and-brainrot-videos-on-youtu-the-amount-of-ai-slop-and-brainrot-videos-on-youtu-1807B4E1934514613E7E74C41F3FC552.webp",
-            "publishedAt": "2025-12-29 22:12:37"
         }
     ]
 }
