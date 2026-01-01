@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-01-01T09:20:46.123487Z",
+    "lastUpdatedAt": "2026-01-01T10:18:53.781591Z",
     "articles": [
+        {
+            "source": {
+                "id": "aaa6f2928e430ec2ed450ed89cc822f5",
+                "name": "Salt Lake City Deseret News",
+                "url": "https://www.deseret.com",
+                "country": "us"
+            },
+            "title": "Turns out 2025 was not the year we bowed before our AI overlords",
+            "url": "https://www.deseret.com/business/2025/12/31/donald-trump-artificial-intelligence-regulation-data-centers-chatbots-video-image-generators-state-federal/",
+            "urlToImage": "https://www.deseret.com/resizer/v2/47AIZLP5GMRLHGR465T66AGYIM.jpg?focal=1987%2C792&auth=94297d0186932bba899c7871e85df24beec48ed0b1baa24fa91a37f8ef469814&width=630",
+            "publishedAt": "2025-12-31T22:05:01Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Gujarat govt sets up 30-member team to shield power sector from cyber intrusions",
+            "url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-govt-sets-up-30-member-team-to-shield-power-sector-from-cyber-intrusions/articleshow/126277553.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-126277551,width-1070,height-580,imgsize-40184,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-12-31T21:21:00Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -3486,30 +3510,6 @@
             "url": "https://japantoday.com/category/tech/softbank-group-to-acquire-data-center-investor-digitalbridge-for-4-billion",
             "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
             "publishedAt": "2025-12-29T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "IIT Delhi eDC partners CyberPeace for eRaksha Hackathon 2026",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/iit-delhi-edc-partners-cyberpeace-for-eraksha-hackathon-2026/articleshow/126236951.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126237058,width-1070,height-580,imgsize-785411,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2025-12-29T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "The Quantum Era Crept Up While You Were Watching AI",
-            "url": "https://www.livemint.com/technology/tech-news/the-quantum-era-crept-up-while-you-were-watching-ai-11767040430129.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
-            "publishedAt": "2025-12-29T20:33:49Z"
         }
     ]
 }
