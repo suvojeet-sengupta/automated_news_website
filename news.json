@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-01-01T07:19:52.583081Z",
+    "lastUpdatedAt": "2026-01-01T08:23:55.258963Z",
     "articles": [
+        {
+            "source": {
+                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+                "name": "Washington Examiner",
+                "url": "https://www.washingtonexaminer.com",
+                "country": "us"
+            },
+            "title": "Maryland looks to AI as SNAP rules tighten",
+            "url": "https://www.washingtonexaminer.com/news/4379172/maryland-looks-to-ai-as-snap-rules-tighten/",
+            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/09/wex_yoast_1200_v4.png?resize=1200,683",
+            "publishedAt": "2025-12-31T19:34:58Z"
+        },
         {
             "source": {
                 "id": "b419a989918b3665a34559f5047546b6",
@@ -3498,18 +3510,6 @@
             "url": "https://www.fastcompany.com/91467593/humanoid-robots-summit-uphill-battle",
             "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/12/AP25346647459283-1.jpg",
             "publishedAt": "2025-12-29T19:38:36Z"
-        },
-        {
-            "source": {
-                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
-                "name": "USA Herald",
-                "url": "https://usaherald.com",
-                "country": "us"
-            },
-            "title": "Adobe AI Pirated Book Suit Adds Pressure to Copyright Fight Over AI Training",
-            "url": "https://usaherald.com/adobe-ai-pirated-book-suit-adds-pressure-to-copyright-fight-over-ai-training/",
-            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-            "publishedAt": "2025-12-29T19:33:15Z"
         }
     ]
 }
