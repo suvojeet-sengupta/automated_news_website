@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-02T16:20:24.145002Z",
+    "lastUpdatedAt": "2026-01-02T17:14:40.252266Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Baidu plans Hong Kong IPO of AI chip unit Kunlunxin in spin-off move",
+            "url": "https://www.cnbc.com/2026/01/02/baidus-semiconductor-kunlunxin-hong-kong-ipo-ai-chips-listing-china.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108233025-1764244459954-gettyimages-2226761556-tang-notitle250728_npWbw.jpeg?v=1767324080&w=1920&h=1080",
+            "publishedAt": "2026-01-02T05:08:12Z"
+        },
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "Artificial intelligence to be at the heart of innovation in coming year",
+            "url": "https://www.irishtimes.com/business/2026/01/02/artificial-intelligence-to-be-at-the-heart-of-innovation-in-coming-year/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/UKR642P7U5GYVGUB4SBFGGW63Y.jpg?smart=true&auth=fa1f49d373a8dd82d8b070de2a3576f0327501317df6272a95e33fe3db318237&width=1200&height=630",
+            "publishedAt": "2026-01-02T05:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "South Korea Develops AI Model For A Custom Cancer Vaccine",
+            "url": "https://www.ndtv.com/health/south-korea-develops-ai-model-for-a-custom-cancer-vaccine-10190199",
+            "urlToImage": "https://c.ndtvimg.com/2025-12/lclh6jrg_cancer-vaccine-cleveland-clinic_625x300_12_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2026-01-02T04:42:30Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -3498,42 +3534,6 @@
             "url": "https://www.republicworld.com/tech/will-ai-kill-jobs-government-data-says-otherwise-what-you-should-know",
             "urlToImage": "https://img.republicworld.com/all_images/artificial-intelligence-1760106324550-16_9.webp",
             "publishedAt": "2025-12-30T11:04:07Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Hyperscale Data Bitcoin Treasury at 519.8687 Bitcoin and Held Approximately $47 Million of Cash as of December 26, 2025",
-            "url": "https://www.marketscreener.com/news/hyperscale-data-bitcoin-treasury-at-519-8687-bitcoin-and-held-approximately-47-million-of-cash-as-o-ce7e59dbd08ff12c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-12-30T11:01:11Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Southern California has an unlikely AI mecca: the very industrial Vernon",
-            "url": "https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/77c1ffa/2147483647/strip/true/crop/4000x2100+0+450/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F84%2Feb%2F6e62b9f84fe69cb88bec3bd9ea2f%2F1535732-fi-vernon-data-center-mecca-02-mjc.jpg",
-            "publishedAt": "2025-12-30T11:01:00Z"
-        },
-        {
-            "source": {
-                "id": "2492bcb79914b2ce3d9867453dae22ac",
-                "name": "Financial Post",
-                "url": "https://financialpost.com",
-                "country": "ca"
-            },
-            "title": "Can Evan Solomon turn Canada into an innovation superpower?",
-            "url": "https://financialpost.com/feature/can-evan-solomon-turn-canada-into-an-innovation-superpower",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/solomon-long-form.jpg",
-            "publishedAt": "2025-12-30T11:00:21Z"
         }
     ]
 }
