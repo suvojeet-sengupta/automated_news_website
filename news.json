@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-01-02T18:24:56.578503Z",
+    "lastUpdatedAt": "2026-01-02T19:11:10.120929Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Even the sky may not be the limit for AI data centres",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/02/even-the-sky-may-not-be-the-limit-for-ai-data-centres",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/02/3701159.jpg",
+            "publishedAt": "2026-01-02T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "AI Euphoria Lifts Asia Tech as ‘Late-Cycle’ Volatility Looms",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-02/asia-tech-faces-a-late-cycle-ai-boom-as-wider-swings-expected",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ98jt69dDbs/v1/1200x800.jpg",
+            "publishedAt": "2026-01-02T06:42:34Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "AI godfather Bengio sounds alarm, says do not give AI rights or we may lose the power to shut it down",
+            "url": "https://www.indiatoday.in/technology/news/story/ai-godfather-bengio-sounds-alarm-says-do-not-give-ai-rights-or-we-may-lose-the-power-to-shut-it-down-2845424-2026-01-02",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/ai-legal-rights-image-023458468-16x9_0.png?VersionId=R8ALFgnto7fLDVmlnrtoIITaLO3fuqdK",
+            "publishedAt": "2026-01-02T06:37:20Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Javed Akhtar slams his AI generated video: I am seriously considering reporting the matter",
+            "url": "https://www.tribuneindia.com/news/entertainment/javed-akhtar-slams-his-ai-generated-video-i-am-seriously-considering-to-report/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM5MWNiYzUwLWU3YTUtMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
+            "publishedAt": "2026-01-02T06:33:01Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -203,6 +251,18 @@
             "title": "As IPOs Make a Comeback, These 9 Cybersecurity Startups Could Be Next",
             "url": "https://www.morningstar.com/stocks/ipos-make-comeback-these-9-cybersecurity-startups-could-be-next",
             "urlToImage": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/evcCqgofWdpajlmnrfdYRWlqkaY=/2400x1350/cloudfront-us-east-1.images.arcpublishing.com/morningstar/X6KOJ2FSB5AHPJYA5TD2G3F5KE.png",
+            "publishedAt": "2026-01-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "Toward developing adolescent-centered machine learning methods to detect depression: Interviews with Latino adolescents to identify signals of emotional and somatic symptoms within social media data",
+            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001178",
+            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001178.t002&size=inline",
             "publishedAt": "2026-01-02T00:00:00Z"
         },
         {
@@ -3471,66 +3531,6 @@
             "url": "https://www.cnbc.com/2025/12/30/copper-prices-what-next-for-the-red-metal-as-lme-prices-hit-record.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188339-1755671844676-gettyimages-2224704481-20090101250716-99-475686.jpeg?v=1767090291&w=1920&h=1080",
             "publishedAt": "2025-12-30T11:55:03Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Alibaba, Abu Dhabi Set to Invest in MiniMax’s $600 Million IPO",
-            "url": "https://www.bloomberg.com/news/articles/2025-12-30/alibaba-abu-dhabi-set-to-invest-in-minimax-s-600-million-ipo",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKmi9DSGkJYE/v0/1200x800.jpg",
-            "publishedAt": "2025-12-30T11:53:03Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "AIIMS-Jammu Proposes Traumatology Institute, Centre For AI In Healthcare",
-            "url": "https://www.dailyexcelsior.com/aiims-jammu-proposes-traumatology-institute-centre-for-ai-in-healthcare/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/12/AIIMS-JAMMU.jpg",
-            "publishedAt": "2025-12-30T11:52:30Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "AI to add $1.7 Trillion to India's economy by 2035: Govt",
-            "url": "https://www.thehindubusinessline.com/economy/ai-to-add-17-trillion-to-indias-economy-by-2035-govt/article70452747.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/id716u/article70448340.ece/alternates/LANDSCAPE_1200/IMG_AI__circuit_board_2_1_F9DIVC5V.jpg",
-            "publishedAt": "2025-12-30T11:49:31Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "Year-Ender 2025: How AI, Regulation And Trust Reshaped India’s Financial Sector",
-            "url": "https://www.news18.com/business/year-ender-2025-how-ai-regulation-and-trust-reshaped-indias-financial-sector-ws-el-9800700.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/12/image-2025-12-94df4d8cad37574b4865bde95cc66a39-16x9.jpg",
-            "publishedAt": "2025-12-30T11:41:21Z"
-        },
-        {
-            "source": {
-                "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
-                "name": "Proto Thema",
-                "url": "https://en.protothema.gr",
-                "country": "gr"
-            },
-            "title": "The ten key findings from Kappa Research in 2025: What Greeks say about the U.S. energy deals",
-            "url": "https://en.protothema.gr/2025/12/30/the-ten-key-findings-from-kappa-research-in-2025-what-greeks-say-about-the-u-s-energy-deals/",
-            "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/12/chevron-xrm-1.jpg-1.jpg",
-            "publishedAt": "2025-12-30T11:09:41Z"
         }
     ]
 }
