@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-01-03T06:25:25.691077Z",
+    "lastUpdatedAt": "2026-01-03T07:15:58.822641Z",
     "articles": [
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "First AI-generated song in Sindhi language released",
+            "url": "https://www.nation.com.pk/03-Jan-2026/first-ai-generated-song-sindhi-language-released",
+            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "publishedAt": "2026-01-02T19:00:00Z"
+        },
         {
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -972,6 +984,15 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013862",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013862.g008&size=inline",
             "publishedAt": "2026-01-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "ByteDance Plans $23B AI Investment in 2026 Amid US Restrictions",
+            "url": "https://www.webpronews.com/bytedance-plans-23b-ai-investment-in-2026-amid-us-restrictions/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-5363-1767334370.jpeg",
+            "publishedAt": "2026-01-02 18:40:05"
         },
         {
             "source": {
@@ -3489,24 +3510,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/times-techies/from-tools-to-systems-techs-next-leap/articleshow/126264987.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-126266294,imgsize-1093201,width-400,resizemode-4/times-techie.jpg",
             "publishedAt": "2025-12-31 06:54:48"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Elon Musk reveals plan to expand xAI’s ‘Colossus’ data center to 2 gigawatts",
-            "url": "https://siliconangle.com/2025/12/30/elon-musk-reveals-plan-expand-xais-colossus-data-center-2-gigawatts/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/musk.jpg",
-            "publishedAt": "2025-12-31 02:01:50"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Intel Boosts Xe Driver with Multi-GPU SVM in Linux Kernel 7.0 for AI",
-            "url": "https://www.webpronews.com/intel-boosts-xe-driver-with-multi-gpu-svm-in-linux-kernel-7-0-for-ai/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-5108-1767120742.jpeg",
-            "publishedAt": "2025-12-31 00:38:34"
         }
     ]
 }
