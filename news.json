@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-01-03T08:21:30.882237Z",
+    "lastUpdatedAt": "2026-01-03T09:16:30.335478Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab6b7d957a91e0dbf63976cb1b9c26f5",
+                "name": "Santa Clarita Valley Signal",
+                "url": "https://signalscv.com",
+                "country": "us"
+            },
+            "title": "Bears and bulls: The best and worst US stocks of 2025",
+            "url": "https://signalscv.com/2026/01/bears-and-bulls-the-best-and-worst-us-stocks-of-2025/",
+            "urlToImage": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2026/01/02125526/BIZ_BEARSANDBULLS_ET_Stocks_010226.jpg",
+            "publishedAt": "2026-01-02T20:56:04Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "Be warned: big tech elitism beyond dot-com bubble peak",
+            "url": "https://www.canberratimes.com.au/story/9144701/be-warned-big-tech-elitism-beyond-dot-com-bubble-peak/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/c41fce62-e4b1-4758-91ea-45eeab997d46.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-01-02T20:30:00Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -1044,6 +1068,15 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013862",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013862.g008&size=inline",
             "publishedAt": "2026-01-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI Revolutionizes Automotive Innovation and Efficiency",
+            "url": "https://www.webpronews.com/ai-revolutionizes-automotive-innovation-and-efficiency/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-5379-1767337927.jpeg",
+            "publishedAt": "2026-01-02 21:00:05"
         },
         {
             "source": {
@@ -3498,33 +3531,6 @@
             "url": "https://www.ndtvprofit.com/business/musks-xai-buys-building-to-expand-colossus-data-center",
             "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-10%2F2milogaw%2FElon-Musk-2.jpg?rect=0%2C0%2C802%2C421&w=1200&auto=format%2Ccompress&ogImage=true",
             "publishedAt": "2025-12-31T00:50:51Z"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "What I Want to See From AI in 2026: Labels, Better Phone Features and a Plan for the Environment",
-            "url": "https://www.cnet.com/tech/services-and-software/what-i-want-from-ai-in-2026/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/637a4d749e079618cf8b715975b255948fad6f9b/hub/2025/12/29/a553678d-a231-4284-85af-01d688b1cbba/gettyimages-2252210703.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-12-31 14:26:41"
-        },
-        {
-            "source": {
-                "name": "news4social"
-            },
-            "title": "What I Want to See From AI in 2026: Labels, Better Phone Features and a Plan for the Environment",
-            "url": "https://en.news4social.com/what-i-want-to-see-from-ai-in-2026-labels-better-phone-features-and-a-plan-for-the-environment/",
-            "urlToImage": "https://i3.wp.com/www.cnet.com/a/img/resize/637a4d749e079618cf8b715975b255948fad6f9b/hub/2025/12/29/a553678d-a231-4284-85af-01d688b1cbba/gettyimages-2252210703.jpg?auto=webp&fit=crop&height=675&resize=1140%2C570&ssl=1&w=1140&width=1200",
-            "publishedAt": "2025-12-31 14:26:00"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Dreaming of a Truly Helpful Home Humanoid Robot? CES Will Bring Us All a Reality Check",
-            "url": "https://www.cnet.com/tech/services-and-software/home-robot-ai-hype-ces-reality-check/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/3d801f4150bd61508ad587f6651d369161ce1334/hub/2025/11/05/10cb696a-41e3-4eea-8236-5d0be9ba1eee/ai-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-12-31 13:01:09"
         }
     ]
 }
