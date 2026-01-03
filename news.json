@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-01-03T07:15:58.822641Z",
+    "lastUpdatedAt": "2026-01-03T08:21:30.882237Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Baidu Details Plan for Spin Off, Hong Kong Listing of AI Chip Unit; Shares Soar",
+            "url": "https://www.marketscreener.com/news/baidu-details-plan-for-spin-off-hong-kong-listing-of-ai-chip-unit-shares-soar-ce7e59d9dc81fe2c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-01-02T20:17:12Z"
+        },
+        {
+            "source": {
+                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
+                "name": "OilPrice",
+                "url": "https://oilprice.com",
+                "country": "us"
+            },
+            "title": "Chinese Electric Buses Dominate Southeast Asia's Decarbonization Push",
+            "url": "https://oilprice.com/Energy/Energy-General/Chinese-Electric-Buses-Dominate-Southeast-Asias-Decarbonization-Push.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-01-02_abusgkep8u.jpg",
+            "publishedAt": "2026-01-02T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Big Tech blocked California data center legislation, leaving only a study requirement",
+            "url": "https://apnews.com/article/data-management-and-storage-gavin-newsom-california-artificial-intelligence-information-technology-ebd23c6cf737013c6c17760aba75465a",
+            "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+            "publishedAt": "2026-01-02T19:36:31Z"
+        },
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "Elon Musk's Grok AI says images of 'minors in minimal clothing' caused by safeguard lapses",
+            "url": "https://www.cbc.ca/news/world/xai-grok-safeguard-lapses-9.7032346",
+            "urlToImage": "https://i.cbc.ca/ais/681253c6-b3e8-4a3e-bb67-905f43cb4189,1767378253545/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C3000%2C1687%29%3BResize%3D620",
+            "publishedAt": "2026-01-02T19:28:23Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Grok under fire after complaints it undressed minors in photos",
+            "url": "https://japantoday.com/category/tech/grok-under-fire-after-complaints-it-undressed-minors-in-photos",
+            "urlToImage": "https://media.japantoday.com/img/store/c4/3b/ffe1f935a036578c9cef1ccf4460091b70cc/cf5039492cdf0dbf3beb18da41a13371bb0a87f5/_w1700.jpeg",
+            "publishedAt": "2026-01-02T19:23:00Z"
+        },
         {
             "source": {
                 "id": "a3391c15eb1d3136f9b9dd080940d0e8",
@@ -984,6 +1044,15 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013862",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013862.g008&size=inline",
             "publishedAt": "2026-01-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "All eyes on NVIDIA at CES 2026 in Las Vegas: when and where to watch Jensen Huang’s AI and robotics vision - what NVIDIA could announce?",
+            "url": "https://economictimes.indiatimes.com/news/international/us/all-eyes-on-nvidia-at-ces-2026-in-las-vegas-when-and-where-to-watch-jensen-huangs-ai-and-robotics-vision-what-nvidia-could-announce/articleshow/126311702.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-126312087,width-300,height-225,imgsize-101510,resizemode-75/all-eyes-on-nvidia-at-ces-2026-in-las-vegas-when-and-where-to-watch-jensen-huangs-ai-and-robotics-vision.jpg",
+            "publishedAt": "2026-01-02 19:36:09"
         },
         {
             "source": {
@@ -3456,60 +3525,6 @@
             "url": "https://www.cnet.com/tech/services-and-software/home-robot-ai-hype-ces-reality-check/",
             "urlToImage": "https://www.cnet.com/a/img/resize/3d801f4150bd61508ad587f6651d369161ce1334/hub/2025/11/05/10cb696a-41e3-4eea-8236-5d0be9ba1eee/ai-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-12-31 13:01:09"
-        },
-        {
-            "source": {
-                "name": "cnbctv18"
-            },
-            "title": "Tech breakthroughs of 2025: 3D image regeneration, Apple M5 chips, Samsung Galaxy laptops",
-            "url": "https://www.cnbctv18.com/technology/tech-breakthroughs-of-2025-3d-image-regeneration-apple-m5-chips-samsung-galaxy-laptops-ws-l-19791638.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2025/11/ai-artificial-intelligence-2-2025-11-52d0068f3c36c565357a06c485a757c0.jpg",
-            "publishedAt": "2025-12-31 12:30:38"
-        },
-        {
-            "source": {
-                "name": "thechronicle"
-            },
-            "title": "Novacore Innovations Inks Deal to Power Cocoon, Pavel Durov's Decentralized Confidential Computing Network",
-            "url": "https://www.thechronicle.com/online_features/press_releases/novacore-innovations-inks-deal-to-power-cocoon-pavel-durovs-decentralized-confidential-computing-network/article_38c968fa-3591-570d-a2ec-98554ac5270b.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thechronicle.com/content/tncms/assets/v3/editorial/c/e3/ce399ccc-4c06-53d6-b8c6-fb20e9783c04/695623be74dac.image.jpg",
-            "publishedAt": "2025-12-31 09:21:00"
-        },
-        {
-            "source": {
-                "name": "newbernsj"
-            },
-            "title": "Novacore Innovations Inks Deal to Power Cocoon, Pavel Durov's Decentralized Confidential Computing Network",
-            "url": "https://www.newbernsj.com/online_features/press_releases/novacore-innovations-inks-deal-to-power-cocoon-pavel-durovs-decentralized-confidential-computing-network/article_474b5e87-679d-5d49-99a5-795882901880.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/newbernsj.com/content/tncms/assets/v3/editorial/4/14/414863fe-e278-5697-9cfc-32b7d130634c/6956234c45d4b.image.jpg?resize=300%2C225",
-            "publishedAt": "2025-12-31 09:21:00"
-        },
-        {
-            "source": {
-                "name": "decaturdailydemocrat"
-            },
-            "title": "Novacore Innovations Inks Deal to Power Cocoon, Pavel Durov's Decentralized Confidential Computing Network",
-            "url": "https://www.decaturdailydemocrat.com/online_features/press_releases/novacore-innovations-inks-deal-to-power-cocoon-pavel-durovs-decentralized-confidential-computing-network/article_b81b2735-5413-5ae2-a325-a8ef21b99905.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/decaturdailydemocrat.com/content/tncms/assets/v3/editorial/b/92/b9210256-1b34-566d-8ff5-0652214b535a/695624b5ce764.image.jpg",
-            "publishedAt": "2025-12-31 09:21:00"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "ITPro's recommended reading for 2026",
-            "url": "https://www.itpro.com/technology/itpros-recommended-reading",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QtyqJo2uAK2rGc5bFdnw5W-1280-80.jpg",
-            "publishedAt": "2025-12-31 08:00:00"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "From tools to systems: Tech's next leap",
-            "url": "https://timesofindia.indiatimes.com/technology/times-techies/from-tools-to-systems-techs-next-leap/articleshow/126264987.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126266294,imgsize-1093201,width-400,resizemode-4/times-techie.jpg",
-            "publishedAt": "2025-12-31 06:54:48"
         }
     ]
 }
