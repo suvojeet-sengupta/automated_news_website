@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-01-04T17:13:47.255121Z",
+    "lastUpdatedAt": "2026-01-04T18:23:35.671790Z",
     "articles": [
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "Editorial: AI is changing the job hunt",
+            "url": "https://triblive.com/opinion/editorial-ai-is-changing-the-job-hunt/",
+            "urlToImage": "https://assets-varnish.triblive.com/2026/01/9171147_web1_vnd-AIJobHunting-122125.jpg",
+            "publishedAt": "2026-01-04T06:00:00Z"
+        },
         {
             "source": {
                 "id": "c8c865ed042eb14694b8d596e22efe99",
@@ -120,6 +132,24 @@
             "url": "https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy1X4kUAr4RE/v0/1200x800.jpg",
             "publishedAt": "2026-01-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "iOS 27 could drive 5 major changes and they will redefine the iPhone for you",
+            "url": "https://www.digitaltrends.com/phones/ios-27-could-drive-5-major-changes-and-they-will-redefine-the-iphone-for-you/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2025/11/ios-26-1-iphone-7.jpg?resize=1200%2C630",
+            "publishedAt": "2026-01-04 06:00:00"
+        },
+        {
+            "source": {
+                "name": "news4social"
+            },
+            "title": "iOS 27 could drive 5 major changes and they will redefine the iPhone for you",
+            "url": "https://en.news4social.com/ios-27-could-drive-5-major-changes-and-they-will-redefine-the-iphone-for-you/",
+            "urlToImage": "https://i0.wp.com/www.digitaltrends.com/tachyon/2025/12/iphone-shortcuts-6.jpg?resize=1140%2C570&resize=2000%2C1200&ssl=1&w=1140",
+            "publishedAt": "2026-01-04 06:00:00"
         },
         {
             "source": {
@@ -3483,42 +3513,6 @@
             "url": "https://www.globenewswire.com/news-release/2025/12/31/3211814/0/en/Mark-Your-Calendar-and-Register-Now-Silicon-Valley-C-suite-technology-executives-invited-to-HMG-Strategy-s-18th-Annual-Silicon-Valley-Global-Innovation-Summit-on-March-10-2026.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
             "publishedAt": "2025-12-31T15:00:00Z"
-        },
-        {
-            "source": {
-                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-                "name": "Anchorage Daily News",
-                "url": "https://www.adn.com",
-                "country": "us"
-            },
-            "title": "These companies say AI is key to their four-day workweeks",
-            "url": "https://www.adn.com/business-economy/2025/12/31/these-companies-say-ai-is-key-to-their-four-day-workweeks/",
-            "urlToImage": "https://www.adn.com/resizer/v2/DXB6NLVVFVG3PGUWAGLJ2MYHBU.jpg?smart=true&auth=2ecea0edbf6316507814837e3935fb9eeeeeb1afb31720ecfbe86692ed5fd046&width=1200&height=630",
-            "publishedAt": "2025-12-31T14:56:25Z"
-        },
-        {
-            "source": {
-                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-                "name": "Anchorage Daily News",
-                "url": "https://www.adn.com",
-                "country": "us"
-            },
-            "title": "What’s inside a volcano? Scientists obtain first 3D images of Mexico’s Popocatépetl",
-            "url": "https://www.adn.com/nation-world/2025/12/31/whats-inside-a-volcano-scientists-obtain-first-3d-images-of-mexicos-popocatepetl/",
-            "urlToImage": "https://www.adn.com/resizer/v2/A5LEJNTS2Y3U47BLT6S7ZJOHT4.jpg?smart=true&auth=2874c5e412069cb9dabaa6d9bda45907346e7965d4516a6d31b17dd6af048191&width=1200&height=630",
-            "publishedAt": "2025-12-31T14:39:50Z"
-        },
-        {
-            "source": {
-                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
-                "name": "USA Herald",
-                "url": "https://usaherald.com",
-                "country": "us"
-            },
-            "title": "Nvidia Moves to Boost H200 Chip Output as Demand From China Surges",
-            "url": "https://usaherald.com/nvidia-moves-to-boost-h200-chip-output-as-demand-from-china-surges/",
-            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-            "publishedAt": "2025-12-31T14:32:34Z"
         }
     ]
 }
