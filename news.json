@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-01-05T19:17:48.332806Z",
+    "lastUpdatedAt": "2026-01-05T20:20:39.441763Z",
     "articles": [
+        {
+            "source": {
+                "id": "602d1de710d66397a00201d8efdd36ee",
+                "name": "Inc. Magazine",
+                "url": "https://www.inc.com",
+                "country": "us"
+            },
+            "title": "5 Soft Skills that Set Exceptional Leaders Apart",
+            "url": "https://www.inc.com/fast-company-2/5-soft-skills-that-set-exceptional-leaders-apart/91283951",
+            "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/01/IMPACT-COUNCIL-AND-INC-FORUM-1-19.webp",
+            "publishedAt": "2026-01-05T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "dcb757ba5480d7edec9ca152d58b7d3d",
+                "name": "Swissinfo (EN)",
+                "url": "https://www.swissinfo.ch",
+                "country": "ch"
+            },
+            "title": "Swiss inspection firm SGS acquires Indian cybersecurity firm",
+            "url": "https://www.swissinfo.ch/eng/workplace/sgs-acquires-indias-panacea-infosec/90725530",
+            "urlToImage": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/01/c1b16027ca3b51140ea320dabc12f26f1d8d60a6-90725190.jpg?ver=3a1e7dac&fit=1200,900",
+            "publishedAt": "2026-01-05T07:56:13Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -384,6 +408,15 @@
             "url": "https://www.devdiscourse.com/article/education/3749636-new-zealand-health-cybersecurity-under-siege-lessons-from-a-data-breach",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/19_05_2025_07_27_26_5668924.png?width=920&format=jpeg",
             "publishedAt": "2026-01-05T00:06:07Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Meta's AI research lab that \"some insiders\" said is 'dying a slow death' sees another top level exit as VP Jitendra Malik announces his resignation",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/metas-ai-research-lab-that-some-insiders-said-is-dying-a-slow-death-sees-another-top-level-exit-as-vp-jitendra-malik-announces-his-resignation/articleshow/126348247.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-126348247,imgsize-843103,width-400,resizemode-4/126348247.jpg",
+            "publishedAt": "2026-01-05 08:16:45"
         },
         {
             "source": {
@@ -3441,42 +3474,6 @@
             "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-rose-again-in-2025-after-overcoming-turbulence-from-tariffs-and-trumps-fight-with-the-fed/articleshow/126289633.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-126289681,width-1200,height-630,imgsize-474042,overlay-etmarkets/articleshow.jpg",
             "publishedAt": "2026-01-01T14:47:00Z"
-        },
-        {
-            "source": {
-                "id": "09dc1bda762f4f787cec10477a894d96",
-                "name": "Toronto Sun",
-                "url": "https://torontosun.com",
-                "country": "ca"
-            },
-            "title": "Spy watchdog reviewing Canadian security agencies’ use of AI",
-            "url": "https://torontosun.com/news/national/spy-watchdog-reviewing-canadian-security-agencies-use-of-ai",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2025/10/CSIS-building-files-Oct14.jpg",
-            "publishedAt": "2026-01-01T13:40:28Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Instagram chief Adam Mosseri warns of fading authenticity in AI driven world",
-            "url": "https://www.firstpost.com/tech/instagram-chief-adam-mosseri-warns-of-fading-authenticity-in-ai-driven-world-13964626.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/01/download-1-2026-01-ba4da81681a1e6a0caea01ecaf495d86-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-01-01T12:57:12Z"
-        },
-        {
-            "source": {
-                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
-                "name": "USA Herald",
-                "url": "https://usaherald.com",
-                "country": "us"
-            },
-            "title": "U.S. Stocks Slip in Final Session of 2025 but Finish Year Strong",
-            "url": "https://usaherald.com/u-s-stocks-slip-in-final-session-of-2025-but-finish-year-strong/",
-            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-            "publishedAt": "2026-01-01T12:56:32Z"
         }
     ]
 }
