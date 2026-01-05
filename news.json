@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-01-05T03:51:22.234802Z",
+    "lastUpdatedAt": "2026-01-05T04:53:44.232616Z",
     "articles": [
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "The ‘electronic nose’ inspired by dogs that sniff out cancer",
+            "url": "https://www.thetimes.com/uk/healthcare/article/scientists-dogs-sniff-cancer-96ptwbrp9",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Faa449b40-54bd-4fff-9ac3-b25f23a5a8e3.jpg?crop=7008%2C3942%2C0%2C540&resize=1200",
+            "publishedAt": "2026-01-04T16:45:25Z"
+        },
+        {
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+            },
+            "title": "From ‘AI Slop’ to substance: Satya Nadella says 2026 will be a pivotal point for artificial intelligence",
+            "url": "https://www.businesstoday.in/technology/news/story/from-ai-slop-to-substance-satya-nadella-says-2026-will-be-a-pivotal-point-for-artificial-intelligence-509335-2026-01-04",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202601/695a9755adc73-nadella-argues-for-treating-ai-as-scaffolding-for-human-potential-rather-than-a-substitute-for-human-04373616-16x9.jpg",
+            "publishedAt": "2026-01-04T16:38:02Z"
+        },
         {
             "source": {
                 "id": "e3cad7a35669a0f5933fa172f5aa2e41",
@@ -3483,30 +3507,6 @@
             "url": "https://www.deseret.com/business/2025/12/31/donald-trump-artificial-intelligence-regulation-data-centers-chatbots-video-image-generators-state-federal/",
             "urlToImage": "https://www.deseret.com/resizer/v2/47AIZLP5GMRLHGR465T66AGYIM.jpg?focal=1987%2C792&auth=94297d0186932bba899c7871e85df24beec48ed0b1baa24fa91a37f8ef469814&width=630",
             "publishedAt": "2025-12-31T22:05:01Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Gujarat govt sets up 30-member team to shield power sector from cyber intrusions",
-            "url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-govt-sets-up-30-member-team-to-shield-power-sector-from-cyber-intrusions/articleshow/126277553.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126277551,width-1070,height-580,imgsize-40184,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2025-12-31T21:21:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Police develop AI system to make quick investigative sketches",
-            "url": "https://japantoday.com/category/crime/japan-police-develop-ai-system-to-make-quick-investigative-sketches",
-            "urlToImage": "https://media.japantoday.com/img/store/f2/a7/31fe8026fa32db7fc68b6a533cfbe30db6b2/20251221kw___0017700010-ph-----n-ci0004/_w1700.jpeg",
-            "publishedAt": "2025-12-31T21:15:00Z"
         }
     ]
 }
