@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-06T07:22:33.336292Z",
+    "lastUpdatedAt": "2026-01-06T08:25:11.290382Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Vanguard likes a 40/60 portfolio for 2026. Where the firm sees solid returns",
+            "url": "https://www.cnbc.com/2026/01/05/vanguard-likes-a-40/60-portfolio-for-2026-where-the-firm-sees-solid-returns.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108248288-1767637064590-gettyimages-913439134-055a0888.jpeg?v=1767637098&w=1920&h=1080",
+            "publishedAt": "2026-01-05T20:02:16Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "From tinker tool to daily assistant: AI's quiet rise",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/from-tinker-tool-to-daily-assistant-ais-quiet-rise/articleshow/126360704.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-126360719,width-1070,height-580,imgsize-32688,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2026-01-05T19:52:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Linkhome AI Introduces Home Humanoid and Quadruped Robots",
+            "url": "https://www.manilatimes.net/2026/01/06/tmt-newswire/globenewswire/linkhome-ai-introduces-home-humanoid-and-quadruped-robots/2253141",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-01-05T19:26:55Z"
+        },
         {
             "source": {
                 "id": "c6075ba0dc9d123bb327faaa419d3d07",
@@ -36,6 +72,18 @@
             "url": "https://www.sandiegouniontribune.com/2026/01/05/does-ai-belong-in-the-exam-room-lawsuit-alleges-sharp-violated-patient-privacy/",
             "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2025/11/SUT-L-SHARPSTRIKE.jpg?w=1024&h=735",
             "publishedAt": "2026-01-05T18:57:20Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "“Get Beyond the Arguments of Slop Vs. Sophistication”: Microsoft Stock (NASDAQ:MSFT) Gains in Support of AI",
+            "url": "https://markets.businessinsider.com/news/stocks/get-beyond-the-arguments-of-slop-vs-sophistication-microsoft-stock-nasdaq-msft-gains-in-support-of-ai-1035685018",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/01/Screenshot-2026-01-05-at-13-28-32-Microsoft-MSFT-Stock-Forecast-Price-Targets-and-Analysts-Predictions-1024x755.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-01-05T18:31:37Z"
         },
         {
             "source": {
@@ -1383,12 +1431,39 @@
         },
         {
             "source": {
+                "name": "venturebeat"
+            },
+            "title": "Nvidia’s Cosmos Reason 2 aims to bring reasoning VLMs into the physical world",
+            "url": "https://venturebeat.com/orchestration/nvidias-cosmos-reason-2-aims-to-bring-reasoning-vlms-into-the-physical-world",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/2dOxvcQe247RRe0QqURNoc/4226294f75548d9fb351c7df254ff529/crimedy7_illustration_of_robots_learning_in_a_school_--ar_169_ff89c646-4604-4650-88d5-14713adf2cdc_3.png?q=75&w=800",
+            "publishedAt": "2026-01-05 20:00:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Tech Giants Invest Trillions in AI Infrastructure Amid Demand Surge",
+            "url": "https://www.webpronews.com/tech-giants-invest-trillions-in-ai-infrastructure-amid-demand-surge/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-5544-1767598363.jpeg",
+            "publishedAt": "2026-01-05 19:50:05"
+        },
+        {
+            "source": {
                 "name": "webpronews"
             },
             "title": "Qualcomm Snapdragon X2 Plus: 80 TOPS AI for $800 Windows Laptops at CES 2026",
             "url": "https://www.webpronews.com/qualcomm-snapdragon-x2-plus-80-tops-ai-for-800-windows-laptops-at-ces-2026/",
             "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-5607-1767639691.jpeg",
             "publishedAt": "2026-01-05 19:01:36"
+        },
+        {
+            "source": {
+                "name": "harvard"
+            },
+            "title": "Developing A Sustainable Power Grid in the Era of AI",
+            "url": "https://seas.harvard.edu/news/2025/12/developing-sustainable-power-grid-era-ai",
+            "urlToImage": "https://seas.harvard.edu/sites/default/files/2025-12/2024%20Le%20Xi-64.jpg",
+            "publishedAt": "2026-01-05 18:47:22"
         },
         {
             "source": {
@@ -3408,90 +3483,6 @@
             "url": "https://techbullion.com/inside-the-ai-systems-publishing-thousands-of-seo-articles-that-actually-rank/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2026/01/SEO-Article.png",
             "publishedAt": "2026-01-02T15:18:42Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "SEBI Developing AI-Powered Cybersecurity Tool For Market Entities",
-            "url": "https://www.ndtvprofit.com/markets/sebi-developing-ai-powered-cybersecurity-tool-for-market-entities",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-19%2F7tkymx7o%2Fsebi-building.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2026-01-02T15:16:23Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US market today: Wall Street opens 2026 on firm note; global stocks hit records on AI",
-            "url": "https://timesofindia.indiatimes.com/business/international-business/us-market-today-wall-street-opens-2026-on-firm-note-global-stocks-hit-records-on-ai-led-rally/articleshow/126308725.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126308721,width-1070,height-580,imgsize-1146130,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2026-01-02T15:13:00Z"
-        },
-        {
-            "source": {
-                "id": "98150e04c55a140a5ed9c214b3184d4c",
-                "name": "Baton Rouge Advocate",
-                "url": "https://www.theadvocate.com",
-                "country": "us"
-            },
-            "title": "Louisiana has been in cybersecurity emergency for years",
-            "url": "https://www.theadvocate.com/baton_rouge/news/politics/a-constant-threat-louisiana-has-been-in-a-state-of-emergency-over-cyberattacks-for-years/article_5d81e52d-5934-56aa-841e-18e096d03d74.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/media/e/97/e97581d6-63a4-11ee-b604-73a6e6515a29/651ef2c3bad01.image.jpg?crop=1600%2C840%2C0%2C29&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2026-01-02T15:12:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Schwarzman, OpenAI’s Brockman Boost $102 Million Trump War Chest",
-            "url": "https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikit6DhQ_njY/v0/1200x800.jpg",
-            "publishedAt": "2026-01-02T15:10:56Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How AI is Transforming Small Businesses in 2026",
-            "url": "https://techbullion.com/how-ai-is-transforming-small-businesses-in-2026/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/01/771-1000x600.jpg",
-            "publishedAt": "2026-01-02T15:05:14Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "From India to Silicon Valley: Program Management Leader Kumar Saurabh Shares Insights on Thriving in the 2026 AI Infrastructure Boom",
-            "url": "https://techbullion.com/from-india-to-silicon-valley-program-management-leader-kumar-saurabh-shares-insights-on-thriving-in-the-2026-ai-infrastructure-boom/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-02-at-7.50.40-PM-815x600.jpeg",
-            "publishedAt": "2026-01-02T15:01:45Z"
-        },
-        {
-            "source": {
-                "id": "2492bcb79914b2ce3d9867453dae22ac",
-                "name": "Financial Post",
-                "url": "https://financialpost.com",
-                "country": "ca"
-            },
-            "title": "Cybersecurity and AI: How Microsoft Meets a Changing Tech Landscape",
-            "url": "https://financialpost.com/personal-finance/business-essentials/cybersecurity-and-ai-how-microsoft-meets-a-changing-tech-landscape",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/05/W9clz36.jpeg",
-            "publishedAt": "2026-01-02T15:00:20Z"
         }
     ]
 }
