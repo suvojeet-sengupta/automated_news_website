@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-01-07T07:21:58.125876Z",
+    "lastUpdatedAt": "2026-01-07T08:24:50.776973Z",
     "articles": [
+        {
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence | Frontier tech in a bubble wrap",
+            "url": "https://www.newindianexpress.com/opinion/2026/Jan/06/artificial-intelligence-frontier-tech-in-a-bubble-wrap",
+            "urlToImage": "https://media.newindianexpress.com/newindianexpress%2F2026-01-06%2Fow9ze6wu%2FAP.webp?rect=0%2C40%2C1440%2C756&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-01-06T20:22:13Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Musk’s XAI Closed $20 Billion Funding Round With Nvidia Backing",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-06/musk-s-xai-closed-20-billion-funding-round-with-nvidia-backing",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isQw0tsUW4Fo/v1/1200x800.jpg",
+            "publishedAt": "2026-01-06T20:15:35Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "‘Hey ChatGPT, what if you became human for a day?’ The AI’s answer has netizens shocked",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/hey-chatgpt-what-if-you-became-human-for-a-day-the-ais-answer-has-netizens-shocked/articleshow/126381753.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-126381766,width-1070,height-580,imgsize-64866,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2026-01-06T20:09:00Z"
+        },
+        {
+            "source": {
+                "id": "09dc1bda762f4f787cec10477a894d96",
+                "name": "Toronto Sun",
+                "url": "https://torontosun.com",
+                "country": "ca"
+            },
+            "title": "ChatGPT used to name New Year’s baby in Maryland",
+            "url": "https://torontosun.com/news/world/chatgpt-used-to-name-new-years-baby-in-maryland",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/01/hudson_oakley_winkler-e1767728369834.jpg",
+            "publishedAt": "2026-01-06T20:01:20Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Big Tech's fast-expanding plans for data centers running into stiff community opposition",
+            "url": "https://japantoday.com/category/tech/big-tech%27s-fast-expanding-plans-for-data-centers-are-running-into-stiff-community-opposition",
+            "urlToImage": "https://media.japantoday.com/img/store/a1/de/3f752e435e7a99b52e85dbefe3a3566e6292/download/_w1700.jpeg",
+            "publishedAt": "2026-01-06T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Big Tech's fast-expanding plans for data centers running into stiff community opposition",
+            "url": "https://japantoday.com/category/tech/big-tech's-fast-expanding-plans-for-data-centers-are-running-into-stiff-community-opposition",
+            "urlToImage": "https://media.japantoday.com/img/store/a1/de/3f752e435e7a99b52e85dbefe3a3566e6292/download/_w1700.jpeg",
+            "publishedAt": "2026-01-06T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "Marvell to Acquire XConn Technologies in $540M AI Push",
+            "url": "https://usaherald.com/marvell-to-acquire-xconn-technologies-in-540m-ai-push/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2026-01-06T19:59:36Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "\"Really see Luxembourg as a very important partner...\": EAM Jaishankar on meeting Deputy PM Xavier Bettel",
+            "url": "https://www.tribuneindia.com/news/world/really-see-luxembourg-as-a-very-important-partner-eam-jaishankar-on-meeting-deputy-pm-xavier-bettel/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTlmZmJhZGUwLWViMzktMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
+            "publishedAt": "2026-01-06T19:55:12Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Siemens’ Busch Eyes M&A in Operations Software, AI, Life Science",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-06/siemens-busch-eyes-m-a-in-operations-software-ai-life-science",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irMP3N3C1N40/v1/1200x800.jpg",
+            "publishedAt": "2026-01-06T19:47:49Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "AMD CEO Lisa Su Pushes Back on Fears that AI Will Reduce Hiring",
+            "url": "https://markets.businessinsider.com/news/stocks/amd-ceo-lisa-su-pushes-back-on-fears-that-ai-will-reduce-hiring-1035688877",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/01/image-432-1024x765.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-01-06T19:43:33Z"
+        },
         {
             "source": {
                 "id": "046a50607901bb9bca25f6624dc87f76",
@@ -1260,6 +1380,33 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001193",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001193.g001&size=inline",
             "publishedAt": "2026-01-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "roboticstomorrow"
+            },
+            "title": "Aetina Introduces AIB-AT Series, an Edge AI Platform Based on NVIDIA Jetson Thor for Physical AI and Robotics",
+            "url": "http://www.roboticstomorrow.com/news/2026/01/06/aetina-introduces-aib-at-series-an-edge-ai-platform-based-on-nvidia-jetson-thor-for-physical-ai-and-robotics/25966",
+            "urlToImage": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+            "publishedAt": "2026-01-06 20:07:24"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "CES 2026: Siemens, NVIDIA to build AI operating system for next-gen factories",
+            "url": "https://interestingengineering.com/ai-robotics/siemens-nvidia-industrial-ai-operating-system",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/01/siemens.jpg",
+            "publishedAt": "2026-01-06 19:31:23"
+        },
+        {
+            "source": {
+                "name": "androidheadlines"
+            },
+            "title": "Lego is Bringing Bricks to Life: Meet the \"Smart Bricks\" Debuting at CES 2026",
+            "url": "https://www.androidheadlines.com/2026/01/lego-smart-bricks-with-sensors-interactive-building-ces-2026.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2026/01/Lego-Smart-Bricks-1420x799.webp",
+            "publishedAt": "2026-01-06 19:25:00"
         },
         {
             "source": {
@@ -3276,123 +3423,6 @@
             "url": "https://techannouncer.com/high-tech-vs-hi-tech-which-spelling-reigns-supreme-in-2026/",
             "urlToImage": "https://techannouncer.com/wp-content/uploads/2026/01/338d919bthumbnail-332x187.jpeg",
             "publishedAt": "2026-01-05 12:32:12"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Lee Cronin on AI Fear, Assembly Theory, and Why True Intelligence Needs Life and Agency",
-            "url": "https://www.geeky-gadgets.com/chemical-circuits-living-systems/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/chemical-circuits-artificial-life_optimized.webp",
-            "publishedAt": "2026-01-05 11:45:46"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Here’s what experts expect from AI in 2026",
-            "url": "https://www.fastcompany.com/91454789/2026-ai-deloitte-gartner-perplexity-chatgpt",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/01/p-1-91454789-Tech-heres-what-AI-experts-expect-in-2026.jpg",
-            "publishedAt": "2026-01-05 10:30:00"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Meta's AI research lab that \"some insiders\" said is 'dying a slow death' sees another top level exit as VP Jitendra Malik announces his resignation",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/metas-ai-research-lab-that-some-insiders-said-is-dying-a-slow-death-sees-another-top-level-exit-as-vp-jitendra-malik-announces-his-resignation/articleshow/126348247.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126348247,imgsize-843103,width-400,resizemode-4/126348247.jpg",
-            "publishedAt": "2026-01-05 08:16:45"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Falcon and beyond: Abu Dhabi’s blueprint for national AI governance",
-            "url": "https://www.computerweekly.com/news/366636706/Falcon-and-beyond-Abu-Dhabis-blueprint-for-national-AI-governance",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Abu-Dhabi-city-water-UAE-tuulijumala-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2026-01-05 05:45:00"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "LG UNVEILS THE WALLPAPER TV: THE WORLD'S THINNEST, TRUE WIRELESS OLED TV",
-            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/lg-unveils-the-wallpaper-tv-the-worlds-thinnest-true-wireless-oled-tv/article_a6453ea9-ce3a-5854-8f72-c61a4217e074.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/d/a6/da6f4437-95d4-5205-9ad2-12ee2d8a554b/695b2cd8197cf.image.jpg?resize=300%2C199",
-            "publishedAt": "2026-01-05 03:00:00"
-        },
-        {
-            "source": {
-                "name": "tucson"
-            },
-            "title": "LG UNVEILS THE WALLPAPER TV: THE WORLD'S THINNEST, TRUE WIRELESS OLED TV",
-            "url": "https://tucson.com/online_features/press_releases/article_c41f85ba-679d-51e3-ba5f-79ca5b9f2964.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/1/ce/1ceaa0f3-2ce0-5c61-9342-0cc5dfd9c576/695b86345fdac.image.jpg?crop=1766%2C993%2C0%2C90&order=crop%2Cresize&resize=1120%2C630",
-            "publishedAt": "2026-01-05 03:00:00"
-        },
-        {
-            "source": {
-                "name": "dailyrepublic"
-            },
-            "title": "LG UNVEILS THE WALLPAPER TV: THE WORLD'S THINNEST, TRUE WIRELESS OLED TV",
-            "url": "https://www.dailyrepublic.com/online_features/press_releases/lg-unveils-the-wallpaper-tv-the-worlds-thinnest-true-wireless-oled-tv/article_fae29e18-4f85-5160-8c49-4f5eb446dd63.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailyrepublic.com/content/tncms/assets/v3/editorial/6/8a/68a8a138-b4dd-54e1-b3e8-bfc6e7e5cc85/695b93961588c.image.jpg?resize=300%2C199",
-            "publishedAt": "2026-01-05 03:00:00"
-        },
-        {
-            "source": {
-                "name": "rdrnews"
-            },
-            "title": "LG UNVEILS THE WALLPAPER TV: THE WORLD'S THINNEST, TRUE WIRELESS OLED TV",
-            "url": "https://www.rdrnews.com/online_features/press_releases/lg-unveils-the-wallpaper-tv-the-worlds-thinnest-true-wireless-oled-tv/article_f7c1978a-7138-5055-8641-6f1b1107cce1.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/2/2e/22eb3b61-b883-5446-a9cc-300469f04f34/695b85dfc9df4.image.jpg?resize=300%2C199",
-            "publishedAt": "2026-01-05 03:00:00"
-        },
-        {
-            "source": {
-                "name": "wyomingnews"
-            },
-            "title": "LG UNVEILS THE WALLPAPER TV: THE WORLD'S THINNEST, TRUE WIRELESS OLED TV",
-            "url": "https://www.wyomingnews.com/online_features/press_releases/lg-unveils-the-wallpaper-tv-the-worlds-thinnest-true-wireless-oled-tv/article_953dc5cb-6247-5e9e-b677-8db5ce7960ed.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/3/89/389056f3-18fe-5909-b9b0-c41f2ae1bbdb/695b85f0dfcf1.image.jpg?resize=300%2C199",
-            "publishedAt": "2026-01-05 03:00:00"
-        },
-        {
-            "source": {
-                "name": "davisenterprise"
-            },
-            "title": "LG UNVEILS THE WALLPAPER TV: THE WORLD'S THINNEST, TRUE WIRELESS OLED TV",
-            "url": "https://www.davisenterprise.com/online_features/press_releases/lg-unveils-the-wallpaper-tv-the-worlds-thinnest-true-wireless-oled-tv/article_d01b7ca5-7bc7-5dd5-bf86-2575cffe2d29.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/davisenterprise.com/content/tncms/assets/v3/editorial/c/77/c774067d-f096-51a7-882a-d33b0a9db8ad/695b944f9e00a.image.jpg?resize=300%2C199",
-            "publishedAt": "2026-01-05 03:00:00"
-        },
-        {
-            "source": {
-                "name": "recorderonline"
-            },
-            "title": "LG UNVEILS THE WALLPAPER TV: THE WORLD'S THINNEST, TRUE WIRELESS OLED TV",
-            "url": "https://www.recorderonline.com/online_features/press_releases/lg-unveils-the-wallpaper-tv-the-worlds-thinnest-true-wireless-oled-tv/article_2b942160-3165-5513-84f6-cab538f277c0.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/recorderonline.com/content/tncms/assets/v3/editorial/c/cb/ccb0bc16-8502-5e2c-b864-56cd66cb8284/695b9454745f5.image.jpg?crop=1766%2C927%2C0%2C123&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2026-01-05 03:00:00"
-        },
-        {
-            "source": {
-                "name": "uniondemocrat"
-            },
-            "title": "LG UNVEILS THE WALLPAPER TV: THE WORLD'S THINNEST, TRUE WIRELESS OLED TV",
-            "url": "https://www.uniondemocrat.com/online_features/press_releases/article_f2ccb1d4-cc95-5dab-a65f-f39f0238ad6a.html",
-            "urlToImage": "https://edge.prnewswire.com/c/img/favicon.png?sd=2026-01-04&sn=NY55789",
-            "publishedAt": "2026-01-05 03:00:00"
-        },
-        {
-            "source": {
-                "name": "ivpressonline"
-            },
-            "title": "LG UNVEILS THE WALLPAPER TV: THE WORLD'S THINNEST, TRUE WIRELESS OLED TV",
-            "url": "https://www.ivpressonline.com/online_features/press_releases/lg-unveils-the-wallpaper-tv-the-worlds-thinnest-true-wireless-oled-tv/article_fc049998-1911-5e4b-9e9b-7153c010b9a2.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/ivpressonline.com/content/tncms/assets/v3/editorial/f/8f/f8f35abc-37a9-5193-af95-8c48621cf094/695b93dc96b2a.image.jpg?resize=300%2C199",
-            "publishedAt": "2026-01-05 03:00:00"
         }
     ]
 }
