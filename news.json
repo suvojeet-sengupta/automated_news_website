@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-01-07T04:36:53.332284Z",
+    "lastUpdatedAt": "2026-01-07T05:21:55.185223Z",
     "articles": [
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Universal partners with Nvidia on AI music creation, discovery",
+            "url": "https://www.mercurynews.com/2026/01/06/universal-partners-with-nvidia-on-ai-music-creation-discovery/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/Nvidia_Results_32469_49abfc-1.jpg?w=1024&h=683",
+            "publishedAt": "2026-01-06T17:21:06Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "HPU approves data science, AI UG courses in affiliated colleges",
+            "url": "https://indianexpress.com/article/cities/chandigarh/hpu-approves-data-science-ai-ug-courses-in-affiliated-colleges-10458981/",
+            "urlToImage": "https://images.indianexpress.com/2026/01/students.jpg",
+            "publishedAt": "2026-01-06T17:20:42Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "PepsiCo Collaborates With Siemens, Nvidia to Revamp Industrial Operations",
+            "url": "https://www.marketscreener.com/news/pepsico-collaborates-with-siemens-nvidia-to-revamp-industrial-operations-ce7e59dfdc8bf323",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-01-06T17:15:22Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "PepisCo, Siemens, Nvidia Partner on AI Modernization Via Digital Twins",
+            "url": "https://www.marketscreener.com/news/pepisco-siemens-nvidia-partner-on-ai-modernization-via-digital-twins-ce7e59dfdc88ff22",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-01-06T17:12:21Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "HP Introduces AI Keyboard PC for Personalized Workstyles",
+            "url": "https://www.marketscreener.com/news/hp-introduces-ai-keyboard-pc-for-personalized-workstyles-ce7e59dfdc89f224",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-01-06T17:05:01Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Microsoft, Miso to Partner on AI Grid Modernization in Midwest",
+            "url": "https://www.marketscreener.com/news/microsoft-miso-to-partner-on-ai-grid-modernization-in-midwest-ce7e59dfdd80ff2d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-01-06T16:59:44Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "Grok's 'Spicy Mode' Obscene Images Row: Indian Govt Gives A Day More to Elon Musk-owned X to Submit Report - All About The Case",
+            "url": "https://www.timesnownews.com/india/grok-spicy-mode-obscene-images-row-indian-govt-gives-a-day-more-to-elon-musk-owned-x-to-submit-report-all-about-the-case-article-153406909",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-153406909,width-1280,height-720,resizemode-75/153406909.jpg",
+            "publishedAt": "2026-01-06T16:48:33Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -996,6 +1080,15 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001193",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001193.g001&size=inline",
             "publishedAt": "2026-01-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Clipto raises funding at $250M valuation to revolutionize on-device content management",
+            "url": "https://siliconangle.com/2026/01/06/clipto-raises-funding-250m-valuation-revolutionize-device-content-management/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/home-banner-bg-old.jpg",
+            "publishedAt": "2026-01-06 17:15:07"
         },
         {
             "source": {
@@ -3285,102 +3378,6 @@
             "url": "https://www.abqjournal.com/business/wed-rather-be-ahead-of-the-curve-how-albuquerques-small-businesses-are-putting-ai-to-work/2951604",
             "urlToImage": "https://image.abqjournal.com/2951932.jpg?imageId=2951932&x=0&y=9.72&cropw=100&croph=71.67&panox=0&panoy=9.72&panow=100&panoh=71.67&width=1200&height=683",
             "publishedAt": "2026-01-04T15:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f1bf32bc7d2c9750240a24442fde5232",
-                "name": "Calgary Herald",
-                "url": "https://calgaryherald.com",
-                "country": "ca"
-            },
-            "title": "Is the AI boom a bubble waiting to pop? Here's what history says",
-            "url": "https://calgaryherald.com/pmn/business-pmn/is-the-ai-boom-a-bubble-waiting-to-pop-heres-what-history-says/wcm/ced2cd7c-fa01-4dc9-8569-346d86e14b73",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/01/the-ai-rally-already-outlasts-many-bubbles-in-history.jpg",
-            "publishedAt": "2026-01-04T14:25:48Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Meta AI ads policy raises privacy concerns across Facebook, Instagram and WhatsApp",
-            "url": "https://www.thenews.com.pk/latest/1387226-meta-ai-ads-policy-raises-privacy-concerns-across-facebook-instagram-and-whatsapp",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-01-04/1387226_072842_updates.jpg",
-            "publishedAt": "2026-01-04T14:19:58Z"
-        },
-        {
-            "source": {
-                "id": "8a8c2614173bff848c7ac231921ddc47",
-                "name": "Newstalk",
-                "url": "https://www.newstalk.com",
-                "country": "ie"
-            },
-            "title": "Tech Trends to Watch in 2026",
-            "url": "https://www.newstalk.com/news/tech-trends-to-watch-in-2026-2222430",
-            "urlToImage": "https://media.radiocms.net/uploads/2025/01/28142601/2XD10BG.jpg",
-            "publishedAt": "2026-01-04T13:55:02Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "The faith deficit in artificial intelligence should alarm every American",
-            "url": "https://www.foxnews.com/opinion/faith-deficit-artificial-intelligence-should-alarm-every-american",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/ai-training-keyboard.jpg",
-            "publishedAt": "2026-01-04T13:00:51Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How AI Is Redefining Business Communications in the Cloud Era",
-            "url": "https://techbullion.com/how-ai-is-redefining-business-communications-in-the-cloud-era/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-4.14.23-PM.jpeg",
-            "publishedAt": "2026-01-04T12:59:57Z"
-        },
-        {
-            "source": {
-                "id": "c477009a98f37b19212d8ae20ce8c018",
-                "name": "POLITICO",
-                "url": "https://www.politico.com",
-                "country": "us"
-            },
-            "title": "Trump, atoms, AI and the Texas data center gusher",
-            "url": "https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff1%2Faa%2Fc48267d44f078dab11dbeec23e99%2Fee-plautz-amarillotexas-lead.jpg",
-            "publishedAt": "2026-01-04T12:00:00Z"
-        },
-        {
-            "source": {
-                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
-                "name": "The Dallas Morning News",
-                "url": "https://www.dallasnews.com",
-                "country": "us"
-            },
-            "title": "Jim Rossman: AI is coming - are you ready?",
-            "url": "https://www.dallasnews.com/business/technology/2026/01/04/jim-rossman-ai-is-coming-are-you-ready/",
-            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/735T5CES6NFBTM5DG4SEMB6XKU.jpg?auth=ed075f6c0175d60b6ff1fd31f303cf9fc9750ab7f063e43d47a8243c0dbc9921&quality=80&width=1200&height=630&smart=true",
-            "publishedAt": "2026-01-04T12:00:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI bubble fears and policy splits loom over Asia stocks in 2026",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/01/04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/04/3703898.jpg",
-            "publishedAt": "2026-01-04T11:52:00Z"
         }
     ]
 }
