@@ -1,6 +1,174 @@
 {
-    "lastUpdatedAt": "2026-01-07T23:16:51.859551Z",
+    "lastUpdatedAt": "2026-01-08T01:21:51.907676Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Sleep Study Data Can Predict Illnesses Years Earlier",
+            "url": "https://www.newsmax.com/health/health-news/sleep-study-data/2026/01/07/id/1241115/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6c0ff29c-0c98-46c0-84c6-9a8aa731ed30&SiteName=Newsmax",
+            "publishedAt": "2026-01-07T13:09:37Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Chat platform Discord files confidentially for US IPO: Report",
+            "url": "https://economictimes.indiatimes.com/tech/technology/chat-platform-discord-files-confidentially-for-us-ipo-report/articleshow/126395161.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-71232,resizemode-75,msid-126395161/tech/technology/chat-platform-discord-files-confidentially-for-us-ipo-report.jpg",
+            "publishedAt": "2026-01-07T12:43:02Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "‘From music to mind reading’ AI earbuds have got you covered",
+            "url": "https://www.thenews.com.pk/latest/1387586-from-music-to-mind-reading-ai-earbuds-have-got-you-covered",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-01-07/1387586_053443_updates.jpg",
+            "publishedAt": "2026-01-07T12:39:00Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Grok Obscene AI Content: IT Ministry Examining X's Response, Sources Say",
+            "url": "https://www.ndtvprofit.com/technology/grok-obscene-ai-content-it-ministry-examining-xs-response-sources-say",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-18%2F6colzd7w%2Fgrok-1.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2026-01-07T12:36:58Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Elon Musk's ChatGPT rival xAI raises $20 billion in funding; investors include Nvidia which has promised up to $100 billion to Sam Altman's OpenAI",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-chatgpt-rival-xai-raises-20-billion-in-funding-investors-include-nvidia-which-has-promised-up-to-100-billion-to-sam-altmans-openai/articleshow/126394740.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-126394740,width-1070,height-580,imgsize-1403178,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2026-01-07T12:32:00Z"
+        },
+        {
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity Stocks: More Acquisitions Expected In 2026 Amid AI Boom",
+            "url": "https://www.investors.com/news/technology/cybersecurity-stocks-2026-acquisitions-cloud-platform-strategy/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2023/03/Stock-crowdstrike-01-adobe.jpg",
+            "publishedAt": "2026-01-07T12:30:29Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Grok Obscene AI Content: X Submits Response, IT Ministry Examining It, Say Sources",
+            "url": "https://www.dailyexcelsior.com/grok-obscene-ai-content-x-submits-response-it-ministry-examining-it-say-sources/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/01/X-1.jpg",
+            "publishedAt": "2026-01-07T12:22:11Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Health Rounds: AI uses sleep study data to accurately predict dozens of health issues",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/health-rounds-ai-uses-sleep-study-data-accurately-predict-dozens-health-issues-2026-01-07/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/QSUF3CA3KVKTRDYWO4CZ5LTUAI.jpg?auth=421dda7ae47edca591ddc3a0d3a9bc79d116baea8aaa245e29f890fabe690535&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-07T12:21:04Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "AI Increasing Productivity In Sectors But Poses Risks: Ian Bremmer To NDTV",
+            "url": "https://www.ndtv.com/world-news/ai-increasing-productivity-in-sectors-but-poses-risks-ian-bremmer-to-ndtv-10448566",
+            "urlToImage": "https://c.ndtvimg.com/2026-01/cnhog59c_ai-photo_625x300_07_January_26.jpeg",
+            "publishedAt": "2026-01-07T12:19:11Z"
+        },
+        {
+            "source": {
+                "id": "34cc62608b4607dc3a776802caadb7bd",
+                "name": "ThePrint",
+                "url": "https://theprint.in",
+                "country": "in"
+            },
+            "title": "Grok obscene AI content: X submits response, IT Ministry examining it, say sources",
+            "url": "https://theprint.in/economy/grok-obscene-ai-content-x-submits-response-it-ministry-examining-it-say-sources/2821078/",
+            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+            "publishedAt": "2026-01-07T12:17:17Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Grok obscene AI content: X submits response, IT Ministry examining it, say sources",
+            "url": "https://economictimes.indiatimes.com/tech/technology/grok-obscene-ai-content-x-submits-response-it-ministry-examining-it-say-sources/articleshow/126394691.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-5606,resizemode-75,msid-126394691/tech/technology/grok-obscene-ai-content-x-submits-response-it-ministry-examining-it-say-sources.jpg",
+            "publishedAt": "2026-01-07T12:15:57Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI Revolution: Redefining Careers in India's Tech Landscape",
+            "url": "https://www.devdiscourse.com/article/technology/3762294-ai-revolution-redefining-careers-in-indias-tech-landscape",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/09_07_2025_17_54_23_3902443.png?width=920&format=jpeg",
+            "publishedAt": "2026-01-07T12:09:53Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Arunachal Governor Pushes for Tech-Driven Policing and Cybersecurity",
+            "url": "https://www.devdiscourse.com/article/law-order/3762293-arunachal-governor-pushes-for-tech-driven-policing-and-cybersecurity",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/05_12_2025_11_39_47_0318082.jpg?width=920&format=jpeg",
+            "publishedAt": "2026-01-07T12:09:14Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "How Boards Can Turn Cybersecurity Into A Competitive Advantage",
+            "url": "https://www.forbes.com/councils/forbesfinancecouncil/2026/01/07/from-risk-to-reward-how-boards-turn-cybersecurity-into-a-competitive-advantage/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6827fc5185241ddd12e7de36/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-01-07T12:00:00Z"
+        },
         {
             "source": {
                 "id": "6a3aad3dbb44ac873f72b594aaea22c4",
@@ -960,6 +1128,42 @@
             "url": "https://theconversation.com/how-facial-recognition-for-bears-can-help-ecologists-manage-wildlife-271371",
             "urlToImage": "https://images.theconversation.com/files/709961/original/file-20251219-66-obb752.jpg?ixlib=rb-4.1.0&rect=0%2C223%2C4902%2C2451&q=45&auto=format&w=1356&h=668&fit=crop",
             "publishedAt": "2026-01-07T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "Developers are in Existential Crisis, Thanks to Claude Code",
+            "url": "https://analyticsindiamag.com/ai-features/developers-are-in-existential-crisis-thanks-to-claude-code/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2026/01/Mohit_Developers-are-Happy-Depressed-Thanks-to-Claude-Code.jpg",
+            "publishedAt": "2026-01-07 12:39:41"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "Infosys, AWS Team Up To Speed Enterprise Generative AI Adoption",
+            "url": "https://biztoc.com/x/62491f83f5b3c5b9",
+            "urlToImage": "https://cdn.biztoc.com/62491f83f5b3c5b9_s.webp",
+            "publishedAt": "2026-01-07 12:26:04"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Mark Cuban: AI ‘Stupid’ But Essential for Business Success in 2026",
+            "url": "https://www.webpronews.com/mark-cuban-ai-stupid-but-essential-for-business-success-in-2026/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-5732-1767759687.jpeg",
+            "publishedAt": "2026-01-07 12:10:06"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "Video: Touch-sensitive humanoid robot inspired by human body intelligence unveiled",
+            "url": "https://interestingengineering.com/ai-robotics/humanoid-inspired-by-human-body-intelligence",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/01/IE-photo-ratio-19201080-18.jpg",
+            "publishedAt": "2026-01-07 11:44:04"
         },
         {
             "source": {
@@ -3201,177 +3405,6 @@
             "url": "https://www.thelincolnianonline.com/2026/01/06/advanced-micro-devices-unveils-helios-ai-rack-instinct-mi455-and-yotta-scale-compute-push-at-ces-2026.html",
             "urlToImage": "https://www.marketbeat.com/logos/advanced-micro-devices-inc-logo-1200x675.gif",
             "publishedAt": "2026-01-06 05:04:44"
-        },
-        {
-            "source": {
-                "name": "lifehacker_us"
-            },
-            "title": "CES 2026: AMD Just Showed Off 'Helios,' the Hardware That Will Power the AI Content in Your Feeds",
-            "url": "https://lifehacker.com/tech/amd-just-announced-helios-at-ces-2026",
-            "urlToImage": "https://lifehacker.com/imagery/articles/01KE8KYWR5P7GSGHGH8VZQSBQM/hero-image.fill.size_1200x675.jpg",
-            "publishedAt": "2026-01-06 03:39:44"
-        },
-        {
-            "source": {
-                "name": "newsargus"
-            },
-            "title": "GIGABYTE Unveils \"Refine & Define\" Shaping Future of AI Computing at CES 2026",
-            "url": "https://www.newsargus.com/online_features/press_releases/gigabyte-unveils-refine-define-shaping-future-of-ai-computing-at-ces-2026/article_40e0cc3c-c83a-5eea-93be-5fab06ab9ce6.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/newsargus.com/content/tncms/assets/v3/editorial/d/85/d85b4955-199d-5f8a-8897-533ab8968716/695cba7a8ec5c.image.jpg?resize=300%2C169",
-            "publishedAt": "2026-01-06 03:30:00"
-        },
-        {
-            "source": {
-                "name": "starkvilledailynews"
-            },
-            "title": "GIGABYTE Unveils \"Refine & Define\" Shaping Future of AI Computing at CES 2026",
-            "url": "https://www.starkvilledailynews.com/online_features/press_releases/gigabyte-unveils-refine-define-shaping-future-of-ai-computing-at-ces-2026/article_c9706c9d-c188-57b3-a21c-c145ac005b28.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/starkvilledailynews.com/content/tncms/assets/v3/editorial/1/e4/1e4e6ac9-36ff-5768-a6f0-4c0b3dcce25e/695cc97168da0.image.jpg?resize=300%2C169",
-            "publishedAt": "2026-01-06 03:30:00"
-        },
-        {
-            "source": {
-                "name": "berkshireeagle"
-            },
-            "title": "GIGABYTE Unveils \"Refine & Define\" Shaping Future of AI Computing at CES 2026",
-            "url": "https://www.berkshireeagle.com/online_features/press_releases/gigabyte-unveils-refine-define-shaping-future-of-ai-computing-at-ces-2026/article_5a56a42a-4213-58d2-9b61-94a0b037e380.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/6/5d/65d617e6-ff66-52d2-b1cc-d2bf0db68515/695cbc9c4696e.image.jpg?resize=400%2C225",
-            "publishedAt": "2026-01-06 03:30:00"
-        },
-        {
-            "source": {
-                "name": "courier-tribune"
-            },
-            "title": "GIGABYTE Unveils \"Refine & Define\" Shaping Future of AI Computing at CES 2026",
-            "url": "https://www.courier-tribune.com/online_features/press_releases/gigabyte-unveils-refine-define-shaping-future-of-ai-computing-at-ces-2026/article_9c20443d-4d39-5568-9bc8-4e67b5167a36.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/courier-tribune.com/content/tncms/assets/v3/editorial/1/c4/1c4f2be1-bee8-5773-aebe-c87c0b2d8daa/695cbbe9746ae.image.jpg?resize=300%2C169",
-            "publishedAt": "2026-01-06 03:30:00"
-        },
-        {
-            "source": {
-                "name": "thewesterlysun"
-            },
-            "title": "GIGABYTE Unveils \"Refine & Define\" Shaping Future of AI Computing at CES 2026",
-            "url": "https://www.thewesterlysun.com/online_features/press_releases/gigabyte-unveils-refine-define-shaping-future-of-ai-computing-at-ces-2026/article_9753df30-8fb7-5b7a-b52c-7b7a862b1ac5.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thewesterlysun.com/content/tncms/assets/v3/editorial/c/85/c8551f77-327d-568a-8675-3b8f06888f0c/695cbac31b83a.image.jpg?resize=300%2C169",
-            "publishedAt": "2026-01-06 03:30:00"
-        },
-        {
-            "source": {
-                "name": "dailytimesleader"
-            },
-            "title": "GIGABYTE Unveils \"Refine & Define\" Shaping Future of AI Computing at CES 2026",
-            "url": "https://www.dailytimesleader.com/online_features/press_releases/gigabyte-unveils-refine-define-shaping-future-of-ai-computing-at-ces-2026/article_43b1504a-4391-5d56-a7c5-b4bd0d0f81a8.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dailytimesleader.com/content/tncms/assets/v3/editorial/0/5f/05f8c83e-df12-5915-9b36-725b8f3a8cfd/695cc88ada010.image.jpg?resize=300%2C169",
-            "publishedAt": "2026-01-06 03:30:00"
-        },
-        {
-            "source": {
-                "name": "thechronicle"
-            },
-            "title": "GIGABYTE Unveils \"Refine & Define\" Shaping Future of AI Computing at CES 2026",
-            "url": "https://www.thechronicle.com/online_features/press_releases/gigabyte-unveils-refine-define-shaping-future-of-ai-computing-at-ces-2026/article_c4e727ea-20c4-5818-ae11-95627bcb3d4e.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thechronicle.com/content/tncms/assets/v3/editorial/e/55/e5569d48-06ab-59b3-9b17-702c14ba528b/695cbc593a9ce.image.jpg?resize=400%2C225",
-            "publishedAt": "2026-01-06 03:30:00"
-        },
-        {
-            "source": {
-                "name": "sentinelsource"
-            },
-            "title": "GIGABYTE Unveils \"Refine & Define\" Shaping Future of AI Computing at CES 2026",
-            "url": "https://www.keenesentinel.com/online_features/press_releases/gigabyte-unveils-refine-define-shaping-future-of-ai-computing-at-ces-2026/article_81c3871a-78fd-55b7-8535-ec1927310a5b.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/keenesentinel.com/content/tncms/assets/v3/editorial/1/9e/19e43a40-ff0f-5615-a493-7d28ce6d9279/695cbd4fefc8d.image.jpg?resize=300%2C169",
-            "publishedAt": "2026-01-06 03:30:00"
-        },
-        {
-            "source": {
-                "name": "ricentral"
-            },
-            "title": "GIGABYTE Unveils \"Refine & Define\" Shaping Future of AI Computing at CES 2026",
-            "url": "https://www.ricentral.com/online_features/press_releases/gigabyte-unveils-refine-define-shaping-future-of-ai-computing-at-ces-2026/article_d7c0716e-b70d-5dbf-8f86-bc9f84fba8f7.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/ricentral.com/content/tncms/assets/v3/editorial/1/84/184fa1c4-7cf2-5a8c-9045-ad0be7604cfc/695cbb1413ee7.image.jpg?resize=300%2C169",
-            "publishedAt": "2026-01-06 03:30:00"
-        },
-        {
-            "source": {
-                "name": "journal_news"
-            },
-            "title": "GIGABYTE Unveils \"Refine & Define\" Shaping Future of AI Computing at CES 2026",
-            "url": "https://www.journal-news.net/online_features/press_releases/gigabyte-unveils-refine-define-shaping-future-of-ai-computing-at-ces-2026/article_49a1062b-c577-54d6-8c9f-49fd13bba855.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journal-news.net/content/tncms/assets/v3/editorial/0/e5/0e51035e-3026-5bc6-9624-6db049d12cf2/695cba76e65ee.image.jpg?resize=300%2C169",
-            "publishedAt": "2026-01-06 03:30:00"
-        },
-        {
-            "source": {
-                "name": "clevelandbanner"
-            },
-            "title": "GIGABYTE Unveils \"Refine & Define\" Shaping Future of AI Computing at CES 2026",
-            "url": "https://www.clevelandbanner.com/online_features/press_releases/gigabyte-unveils-refine-define-shaping-future-of-ai-computing-at-ces-2026/article_2277e97c-8f35-53fe-9630-398520fba16c.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/clevelandbanner.com/content/tncms/assets/v3/editorial/a/a0/aa04f5fc-4973-5e5e-b7a1-cbcb1ead937c/695cbb2a58e08.image.jpg?resize=300%2C169",
-            "publishedAt": "2026-01-06 03:30:00"
-        },
-        {
-            "source": {
-                "name": "channelnewsasia"
-            },
-            "title": "AMD shows off new higher performing AI chip at CES event",
-            "url": "https://www.channelnewsasia.com/business/amd-shows-new-higher-performing-ai-chip-ces-event-5812496",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Qdc6Ss7w--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-01-06T040021Z_3_LYNXMPEM0503C_RTROPTP_3_AMD-RESULTS.JPG?itok=yEeAVFRA",
-            "publishedAt": "2026-01-06 03:00:30"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Wearables Set to Eclipse Stagnant Smartphones by 2030",
-            "url": "https://www.webpronews.com/ai-wearables-set-to-eclipse-stagnant-smartphones-by-2030/",
-            "urlToImage": "https://www.webpronews.com/ai-wearables-set-to-eclipse-stagnant-smartphones-by-2030/",
-            "publishedAt": "2026-01-06 00:20:05"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Why Nvidia's new Rubin platform could change the future of AI computing forever",
-            "url": "https://www.zdnet.com/article/nvidia-rubin-ai-ces-2026/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/8daa70de318e726746c2fea05aca730c640de0b6/2026/01/05/ca0129da-1b05-4418-9950-752d6af0e0e2/nvidia-rubin-supercomputer-ces-2026.png?auto=webp&width=1280",
-            "publishedAt": "2026-01-06 00:17:16"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Nvidia CEO Jensen Huang calls AI titan's latest chips 'gigantic step up in performance'",
-            "url": "https://nypost.com/2026/01/05/business/nvidia-ceo-jensen-huang-calls-ai-titans-latest-chips-gigantic-step-up-in-performance/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/nvidia-jensen-huang-ces.jpg?quality=75&strip=all&1767636505&w=1200",
-            "publishedAt": "2026-01-05T23:38:20Z"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Nvidia boss Jensen Huang reveals new AI model for self-driving cars",
-            "url": "https://www.thetimes.com/business/technology/article/nvidia-jensen-huang-ai-alpamayo-autonomous-vehicles-gr7g9xhfz",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Fa8495018-07aa-4af5-9a12-09d19da61d0f.jpg?crop=6000%2C3375%2C0%2C313&resize=1200",
-            "publishedAt": "2026-01-05T23:25:07Z"
-        },
-        {
-            "source": {
-                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
-                "name": "Newsweek",
-                "url": "https://www.newsweek.com",
-                "country": "us"
-            },
-            "title": "Mom of Elon Musk son going \"scorched earth\" over Grok's naked images of her",
-            "url": "https://www.newsweek.com/mom-of-elon-musks-son-goes-scorched-earth-over-groks-naked-images-11311362",
-            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/01/GettyImages-2201507950_ad11dd.jpg?w=1200crop=1",
-            "publishedAt": "2026-01-05T23:24:15Z"
         }
     ]
 }
