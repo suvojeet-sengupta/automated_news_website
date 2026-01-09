@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-01-09T14:19:50.221974Z",
+    "lastUpdatedAt": "2026-01-09T15:19:26.328490Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Google adds new AI features to Gmail, turning it into a personal assistant",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/09/google-adds-new-ai-features-to-gmail-turning-it-into-a-personal-assistant",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/09/3711782.jpg",
+            "publishedAt": "2026-01-09T03:00:00Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "AI models should reflect Indian context: PM Modi",
+            "url": "https://www.hindustantimes.com/india-news/ai-models-should-reflect-indian-context-pm-modi-101767901480967.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/01/08/550x309/In-the-meeting-at-his-residence--the-PM-said-India_1767901473958.jpeg",
+            "publishedAt": "2026-01-09T02:58:16Z"
+        },
+        {
+            "source": {
+                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
+                "name": "Anchorage Daily News",
+                "url": "https://www.adn.com",
+                "country": "us"
+            },
+            "title": "‘Worst in Show’ CES products include AI refrigerators, AI companions and AI doorbells",
+            "url": "https://www.adn.com/business-economy/2026/01/08/worst-in-show-ces-products-include-ai-refrigerators-ai-companions-and-ai-doorbells/",
+            "urlToImage": "https://www.adn.com/resizer/v2/MZSJWILOXNPCIJW7THCMFS5OEE.jpg?smart=true&auth=26ec3299773ec62979818ba7bd1c9c6e40da7fc5a22e634e5a607538cdb9d705&width=1200&height=630",
+            "publishedAt": "2026-01-09T02:47:36Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "EU antitrust regulators to decide on Google's Wiz deal by February 10",
+            "url": "https://economictimes.indiatimes.com/tech/technology/eu-antitrust-regulators-to-decide-on-googles-wiz-deal-by-february-10/articleshow/126425812.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-65868,resizemode-75,msid-126425812/tech/technology/eu-antitrust-regulators-to-decide-on-googles-wiz-deal-by-february-10.jpg",
+            "publishedAt": "2026-01-09T02:41:50Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "CNN's Innovate explores cutting-edge solutions that work with nature, not against it",
+            "url": "https://www.manilatimes.net/2026/01/09/tmt-newswire/pr-newswire/cnns-innovate-explores-cutting-edge-solutions-that-work-with-nature-not-against-it/2255872",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/09/893421.jpg",
+            "publishedAt": "2026-01-09T02:27:25Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Marcos launches DepEd's AI initiative",
+            "url": "https://www.manilatimes.net/2026/01/09/news/marcos-launches-depeds-ai-initiative/2255880",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/09/893447.jpg",
+            "publishedAt": "2026-01-09T02:25:00Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "The end of the golden era of consulting (and 8 other trends for 2026)",
+            "url": "https://www.afr.com/policy/economy/the-end-of-the-golden-era-of-consulting-and-8-other-trends-for-2026-20251126-p5nir7",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3899%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_93%2C$y_52/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/7c684bdb3fe418ae3c5c10bff334616c930c929867f7be4f96e26071963d1a58",
+            "publishedAt": "2026-01-09T02:24:07Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3381,90 +3465,6 @@
             "url": "https://www.devdiscourse.com/article/headlines/3762487-wall-street-takes-a-breather-amidst-new-highs-and-awaited-labor-report",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/02_10_2025_20_54_46_8506776.png?width=920&format=jpeg",
             "publishedAt": "2026-01-07T14:10:38Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Cynomi Appoints Veteran Cybersecurity Channel Leader Shane",
-            "url": "https://www.globenewswire.com/news-release/2026/01/07/3214595/0/en/Cynomi-Appoints-Veteran-Cybersecurity-Channel-Leader-Shane-Deegan-as-Chief-Revenue-Officer.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/9cfd969e-caa2-4cb6-b565-4ec534d7cde2",
-            "publishedAt": "2026-01-07T14:04:00Z"
-        },
-        {
-            "source": {
-                "id": "016c9538dd6aa60fb4f29fca8674d6b7",
-                "name": "Mechanicsburg Patriot News ",
-                "url": "https://www.pennlive.com",
-                "country": "us"
-            },
-            "title": "School AI bans are creating an educational divide we can’t afford | Opinion",
-            "url": "https://www.pennlive.com/opinion/2026/01/school-ai-bans-are-creating-an-educational-divide-we-cant-afford-opinion.html",
-            "urlToImage": "https://www.pennlive.com/resizer/v2/FNQZ66QIORDFTLK6Y43W7OCGVA.jpg?auth=d13b0fe91d5becdad04652c1f31077e3e88a02dee1a006aa873c4d00159dbb87&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-01-07T14:00:00Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "First global consensus on legal and ethical standards for AI in endoscopy",
-            "url": "https://medicalxpress.com/news/2026-01-global-consensus-legal-ethical-standards.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/medicine-and-ai.jpg",
-            "publishedAt": "2026-01-07T13:58:54Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "2026 AI Wave: Top-Tier ML Jobs May Fetch Up To Rs 80-LPA Salaries",
-            "url": "https://www.ndtvprofit.com/technology/2026-ai-wave-top-tier-ml-jobs-may-fetch-up-to-rs-80-lpa-salaries",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2023-10%2F29dbc220-eaaf-4618-a954-7ee033b465d8%2Fsaas_concept_collage.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2026-01-07T13:28:59Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "Sleep Study Data Can Predict Illnesses Years Earlier",
-            "url": "https://www.newsmax.com/health/health-news/sleep-study-data/2026/01/07/id/1241115/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6c0ff29c-0c98-46c0-84c6-9a8aa731ed30&SiteName=Newsmax",
-            "publishedAt": "2026-01-07T13:09:37Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Chat platform Discord files confidentially for US IPO: Report",
-            "url": "https://economictimes.indiatimes.com/tech/technology/chat-platform-discord-files-confidentially-for-us-ipo-report/articleshow/126395161.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-71232,resizemode-75,msid-126395161/tech/technology/chat-platform-discord-files-confidentially-for-us-ipo-report.jpg",
-            "publishedAt": "2026-01-07T12:43:02Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "‘From music to mind reading’ AI earbuds have got you covered",
-            "url": "https://www.thenews.com.pk/latest/1387586-from-music-to-mind-reading-ai-earbuds-have-got-you-covered",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-01-07/1387586_053443_updates.jpg",
-            "publishedAt": "2026-01-07T12:39:00Z"
         }
     ]
 }
