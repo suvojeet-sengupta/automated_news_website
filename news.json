@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-01-09T06:28:03.176383Z",
+    "lastUpdatedAt": "2026-01-09T07:22:08.290263Z",
     "articles": [
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "AI Daily: China to approve imports of Nvidia H200 chips this quarter",
+            "url": "https://markets.businessinsider.com/news/stocks/ai-daily-china-to-approve-imports-of-nvidia-h200-chips-this-quarter-1035697003",
+            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2026-01-08T19:10:23Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "CrowdStrike to buy identity security startup SGNL for $740 million to tackle AI threats",
+            "url": "https://www.reuters.com/technology/crowdstrike-buy-identity-security-startup-sgnl-740-million-tackle-ai-threats-2026-01-08/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/LWZZJE6XVRL35GPVTRD3NKPKIA.jpg?auth=75e1f5b1a2b579dacc35b5f33e970ac86ed091c4dc00a9ebdda1ddaf48aec306&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-08T19:09:21Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "CrowdStrike to buy identity security startup SGNL for $740 million to tackle AI threats",
+            "url": "https://www.marketscreener.com/news/crowdstrike-to-buy-identity-security-startup-sgnl-for-740-million-to-tackle-ai-threats-ce7e59ddd18df52c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-01-08T19:08:34Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "AI demand keeps tech stocks in the lead",
+            "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/01/08/market-outlook-ai-stocks-still-driving-gains-as-demand-accelerates/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/2DZJW2UDFW6LQI7OUDNV5BXR6Y.jpg?smart=true&auth=8dad4ff966b5163832b74892fe63b9e140f82862b01f86f32a57499603991824&width=1200&height=630",
+            "publishedAt": "2026-01-08T18:55:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Google and chatbot maker Character to settle lawsuit alleging chatbot pushed teen to suicide",
+            "url": "https://japantoday.com/category/tech/google-and-chatbot-maker-character-to-settle-lawsuit-alleging-chatbot-pushed-teen-to-suicide",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2026-01-08T18:50:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Startups go public in litmus test for Chinese AI",
+            "url": "https://japantoday.com/category/tech/startups-go-public-in-litmus-test-for-chinese-ai",
+            "urlToImage": "https://media.japantoday.com/img/store/f8/94/627882110db3e6bef756e731916d9a62ded3/2e2c826473c2f5f86f50d8aa71d10634a13b1326/_w1700.jpeg",
+            "publishedAt": "2026-01-08T18:44:00Z"
+        },
+        {
+            "source": {
+                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+                "name": "Newsweek",
+                "url": "https://www.newsweek.com",
+                "country": "us"
+            },
+            "title": "Is the AI Apocalypse Inevitable? Here’s What You Can Do",
+            "url": "https://www.newsweek.com/is-the-ai-apocalypse-inevitable-heres-what-you-can-do-11331078",
+            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/01/Newsmakers_Impact_Tristan_Harris_1920x1080_Thumbnail.jpg?w=1200crop=1",
+            "publishedAt": "2026-01-08T18:39:56Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Italy’s privacy watchdog warns Grok over deepfake AI content",
+            "url": "https://www.reuters.com/legal/litigation/italys-privacy-watchdog-warns-grok-over-deepfake-ai-content-2026-01-08/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/VU3G4YSWZ5IXNEEIEXVW57Q4PY.jpg?auth=2447f678233cef3c084f4db8550947448bcf93a719c4d2a91806742d3df320ac&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-08T18:37:49Z"
+        },
         {
             "source": {
                 "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
@@ -3414,102 +3510,6 @@
             "url": "https://www.tribuneindia.com/news/business/infosys-and-aws-collaborate-to-accelerate-enterprise-adoption-of-generative-ai/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTk1ZjUzMDkwLWViOGYtMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
             "publishedAt": "2026-01-07T06:10:32Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Baidu Chip Unit Kunlunxin Narrows Banks for Hong Kong IPO",
-            "url": "https://www.marketscreener.com/news/baidu-chip-unit-kunlunxin-narrows-banks-for-hong-kong-ipo-ce7e59dfd08bf226",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-01-07T06:01:37Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Elon Musk's start-up xAI raises $20bn, as valuation reaches $230bn",
-            "url": "https://www.marketscreener.com/news/elon-musk-s-start-up-xai-raises-20bn-as-valuation-reaches-230bn-ce7e59dfd08bf225",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-06-10T040747Z_1_LYNXMPEL5903D_RTROPTP_4_XAI-OUTLOOK.JPG",
-            "publishedAt": "2026-01-07T06:01:31Z"
-        },
-        {
-            "source": {
-                "id": "3d24c816061d69b2e23b8583aed9b447",
-                "name": "Euronews",
-                "url": "https://www.euronews.com",
-                "country": "fr"
-            },
-            "title": "A new era of AI shopping: How brands are chosen by algorithms",
-            "url": "https://www.euronews.com/business/2026/01/07/a-new-era-of-ai-shopping-how-brands-are-chosen-by-algorithms",
-            "urlToImage": "https://images.euronews.com/articles/stories/09/60/40/98/1200x675_cmsv2_88eaa288-ec27-51bd-8f84-716e442b8fa7-9604098.jpg",
-            "publishedAt": "2026-01-07T06:00:56Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "India to benefit from AI through services and efficiency, not hardware: Jefferies",
-            "url": "https://www.tribuneindia.com/news/business/india-to-benefit-from-ai-through-services-and-efficiency-not-hardware-jefferies/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM2MzU1YzYwLWViOGMtMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
-            "publishedAt": "2026-01-07T05:50:25Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Beijing Looks Into Meta's $2 Billion Acquisition of China-Founded AI Startup Manus",
-            "url": "https://www.marketscreener.com/news/beijing-looks-into-meta-s-2-billion-acquisition-of-china-founded-ai-startup-manus-ce7e59dfd088fe23",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-01-07T05:47:20Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Ensign InfoSecurity Maintains Top 10 Global Managed Security Service Providers (MSSP) Ranking; Remains Asia Pacific's Leading MSSP for the Fourth Year",
-            "url": "https://www.tribuneindia.com/news/business/ensign-infosecurity-maintains-top-10-global-managed-security-service-providers-mssp-ranking-remains-asia-pacifics-leading-mssp-for-the-fourth-year/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ1ODcwOTkwLWViODktMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
-            "publishedAt": "2026-01-07T05:25:19Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence Begins Renewing Prescriptions Without Doctors In Utah",
-            "url": "https://www.ndtvprofit.com/technology/artificial-intelligence-begins-renewing-prescriptions-without-doctors-in-utah",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-01-28%2Fcmw1j3n1%2Fhuman-interact-with-ai-artificial-intelligence-virtual-assistant-faas31965-382785.avif?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2026-01-07T05:11:22Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "CACTUS Achieves ISO/IEC 42001:2023 Certification for Responsible AI Management",
-            "url": "https://www.tribuneindia.com/news/business/cactus-achieves-iso-iec-420012023-certification-for-responsible-ai-management/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg0NDJhMmYwLWViODYtMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
-            "publishedAt": "2026-01-07T05:05:37Z"
         }
     ]
 }
