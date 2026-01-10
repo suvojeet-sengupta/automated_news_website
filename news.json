@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-10T21:14:30.213950Z",
+    "lastUpdatedAt": "2026-01-10T22:15:58.186528Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "‘God AI’ on the horizon? Nvidia CEO makes bold prediction",
+            "url": "https://www.thenews.com.pk/latest/1387903-god-ai-on-the-horizon-nvidia-ceo-makes-bold-prediction",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-01-10/1387903_031253_updates.jpg",
+            "publishedAt": "2026-01-10T10:13:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Elon Musk’s Grok AI Blocked in Indonesia Over Sexualized Content",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-10/elon-musk-s-grok-ai-blocked-in-indonesia-over-sexualized-content",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVc2ZxA9S52o/v1/1200x805.jpg",
+            "publishedAt": "2026-01-10T09:34:46Z"
+        },
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "Democratic Senators Urge Apple and Google to Pull X and Grok Apps Over Explicit AI Content",
+            "url": "https://usaherald.com/democratic-senators-urge-apple-and-google-to-pull-x-and-grok-apps-over-explicit-ai-content/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2026-01-10T09:18:50Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -3426,42 +3462,6 @@
             "url": "https://www.usnews.com/news/business/articles/2026-01-08/gmails-new-ai-features-turning-it-into-a-personal-assistant",
             "urlToImage": "https://www.usnews.com/dims4/USNEWS/3f444a7/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F49%2Fe4bba033dfad80397cdeecfaea525d%2F79371ca5d71644d6befb2be2e77b534fGmail_AI_Implant_20215.jpg",
             "publishedAt": "2026-01-08T13:06:00Z"
-        },
-        {
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            },
-            "title": "Invictus-backed cybersecurity firm ThreatModeler acquires competitor IriusRisk for over $100 million",
-            "url": "https://fortune.com/2026/01/08/invictus-threatmodeler-iriusrisk-acquisition-cybersecurity-ai-software/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2233776792-e1767819735748.jpg?resize=1200,600",
-            "publishedAt": "2026-01-08T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "bc002b453215c04fa081a97f2c6679b9",
-                "name": "The Hacker News",
-                "url": "https://thehackernews.com",
-                "country": "us"
-            },
-            "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
-            "url": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYqkrQT2-0GXXeWkPsNM5dnxJyFwJ5MdeB5Gj_PWzNa168z1Gchyphenhyphenfx3tl6fCSBzjHnmPCD7IDR38mbY36lifKUwB0qBjtX5A8vbCn_fwvsAFZcExFwJi7w4Y6G_R_rZ7QzpZEDlNkfoP7w5gGFlN6nbate4XgsNXm9GUKHlkW_DJs9mlGd7wxNWWuvK0Lu/s790-rw-e365/threatsday.jpg",
-            "publishedAt": "2026-01-08T12:49:00Z"
-        },
-        {
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            },
-            "title": "Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more",
-            "url": "https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-1616669298-e1767555627831.jpg?resize=1200,600",
-            "publishedAt": "2026-01-08T12:29:39Z"
         }
     ]
 }
