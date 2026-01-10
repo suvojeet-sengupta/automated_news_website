@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-01-10T15:15:49.066603Z",
+    "lastUpdatedAt": "2026-01-10T16:19:16.384911Z",
     "articles": [
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "Rewiring Democracy: ‘Citizen acceptance and trust in AI matters as much as AI capabilities’",
+            "url": "https://www.irishtimes.com/culture/books/review/2026/01/10/rewiring-democracy-citizen-acceptance-and-trust-in-ai-matters-as-much-as-ai-capabilities/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/JEUYTKGH2WDWIW4T2EJJ2IRLBA.jpg?smart=true&auth=7793afe6f946b5fd80d1e3bfd720bd8c609e3a8a661a4ecc5c387b94872ff26d&width=1200&height=630",
+            "publishedAt": "2026-01-10T04:17:00Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "AI steals the show at CES 2026: Innovations unveiled",
+            "url": "https://www.straitstimes.com/world/united-states/brew-smell-and-serve-ai-steals-the-show-at-ces-2026",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/b6aaaacc209338aa72927ef002e84f8a0b6ec82e4faf42b8a43f88829b127827",
+            "publishedAt": "2026-01-10T03:25:00Z"
+        },
         {
             "source": {
                 "id": "933344203c2b862af768b5e662a162a4",
@@ -104,6 +128,15 @@
             "title": "CES 2026: The Future is Here",
             "url": "https://www.rdrnews.com/online_features/press_releases/ces-2026-the-future-is-here/article_ccbc3bcc-5051-5a14-a8c5-1a5f5c88aa61.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/e/29/e294ec51-f26c-5f51-8fd5-b85600d1d3be/6958e32b148be.image.jpg?resize=300%2C97",
+            "publishedAt": "2026-01-10 01:31:00"
+        },
+        {
+            "source": {
+                "name": "dailyrepublic"
+            },
+            "title": "CES 2026: The Future is Here",
+            "url": "https://www.dailyrepublic.com/online_features/press_releases/ces-2026-the-future-is-here/article_c74e6e20-835c-512c-8c48-967af67a781e.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailyrepublic.com/content/tncms/assets/v3/editorial/a/f4/af4d812b-3330-5a00-b019-3190d4240739/6958f195301d2.image.jpg?resize=300%2C97",
             "publishedAt": "2026-01-10 01:31:00"
         },
         {
@@ -3447,42 +3480,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/01/08/eu-antitrust-regulators-to-decide-on-google039s-wiz-deal-by-february-10",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/08/3711171.jpg",
             "publishedAt": "2026-01-08T10:29:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "EU antitrust regulators to decide on Google's Wiz deal by February 10",
-            "url": "https://www.reuters.com/legal/litigation/eu-antitrust-regulators-decide-googles-wiz-deal-by-february-10-2026-01-08/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/M2QTLGBJGNMDNCGXZWXVRRLSNM.jpg?auth=961376a49ba7807872f36ca40471ad27c20e30d412a8ccd2f853f9906e539b50&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-01-08T10:17:25Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "Indian AI startups should work towards global leadership: PM Modi",
-            "url": "https://theprint.in/india/indian-ai-startups-should-work-towards-global-leadership-pm-modi/2821916/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-01-08T10:17:20Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "EU antitrust regulators to decide on Google's Wiz deal by February 10",
-            "url": "https://www.marketscreener.com/news/eu-antitrust-regulators-to-decide-on-google-s-wiz-deal-by-february-10-ce7e59ddda88f522",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-01T212619Z_1_LYNXMPEL602JS_RTROPTP_4_GOOGLE-CELLULAR-DATA-LAWSUIT.JPG",
-            "publishedAt": "2026-01-08T10:15:47Z"
         }
     ]
 }
