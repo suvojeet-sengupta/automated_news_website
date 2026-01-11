@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-01-10T23:15:57.369529Z",
+    "lastUpdatedAt": "2026-01-11T01:28:20.520189Z",
     "articles": [
+        {
+            "source": {
+                "id": "e382ce4dfbd3358e338d63782000b7df",
+                "name": "HuffPost",
+                "url": "https://www.huffpost.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity Experts Weigh In On Concerns About iPhone Airplay Settings",
+            "url": "https://www.huffpost.com/entry/iphone-airplay-settings-concern-goog_l_695fce1be4b05f1e1aabeb04",
+            "urlToImage": "https://img.huffingtonpost.com/asset/695c54a22b00003d386835e9.jpeg?cache=QbTn3Tny0B&ops=500_281%2Cscalefit_1200_630",
+            "publishedAt": "2026-01-10T12:00:21Z"
+        },
         {
             "source": {
                 "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
@@ -300,6 +312,15 @@
             "url": "https://www.altoonamirror.com/news/international/2026/01/google-adds-new-ai-feature-turning-gmail-into-assistant/",
             "urlToImage": "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg",
             "publishedAt": "2026-01-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "AI Adoption Could Lift These 2 Stocks Higher, Says Truist",
+            "url": "https://biztoc.com/x/357615d10e0f5d0a",
+            "urlToImage": "https://cdn.biztoc.com/357615d10e0f5d0a_sq.webp",
+            "publishedAt": "2026-01-10 13:21:00"
         },
         {
             "source": {
@@ -3438,30 +3459,6 @@
             "url": "https://www.ajc.com/news/2026/01/gmails-new-ai-features-turning-it-into-a-personal-assistant/",
             "urlToImage": "https://images.ajc.com/resizer/v2/MMO4TOTDQBC3PLCWN6ZYSHX5SM.jpg?auth=053f58ff326296f6b852d82e4dfc8403ad7895a320b929d96e7101dd7bb50d73&width=1200&height=630&smart=true",
             "publishedAt": "2026-01-08T13:13:04Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Gmail’s new AI features, turning it into a personal assistant",
-            "url": "https://wtop.com/lifestyle/2026/01/gmails-new-ai-features-turning-it-into-a-personal-assistant/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/01/Gmail_AI_Implant_20215-scaled.jpg",
-            "publishedAt": "2026-01-08T13:11:46Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "'Worst in Show' CES products include AI refrigerators, AI companions and AI doorbells",
-            "url": "https://www.breitbart.com/news/worst-in-show-ces-products-include-ai-refrigerators-ai-companions-and-ai-doorbells/",
-            "urlToImage": "https://media.breitbart.com/media/2026/01/wi/ap/gadget-bosch-89804-gadget-bosch-couple-of-bosch-800-series-automatic-espresso-machines-dis-640x335.jpg",
-            "publishedAt": "2026-01-08T13:11:40Z"
         }
     ]
 }
