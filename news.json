@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-12T06:30:30.011367Z",
+    "lastUpdatedAt": "2026-01-12T07:23:40.355566Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "AI toys look for bright side after troubled start",
+            "url": "https://japantoday.com/category/tech/ai-toys-look-for-bright-side-after-troubled-start",
+            "urlToImage": "https://media.japantoday.com/img/store/c5/f6/2d99c2a4ee4c076fc178e865279d83075dfa/0e6d5b6f001ece7a95b84875f063df15d863ae41/_w1700.jpeg",
+            "publishedAt": "2026-01-11T19:23:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "RIL to invest ₹7 lakh crore in Gujarat across clean energy & data centres",
+            "url": "https://economictimes.indiatimes.com/news/india/ril-to-invest-7-lakh-crore-in-gujarat-across-clean-energy-data-centres/articleshow/126470471.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-126470474,width-1200,height-630,imgsize-52890,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-01-11T19:11:00Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Military Officials: AI Reshaping Future of War",
+            "url": "https://www.newsmax.com/newsfront/us-military-ai-future-of-war/2026/01/11/id/1241693/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=638469c4-274f-49b0-840c-ac51decbac80&SiteName=Newsmax",
+            "publishedAt": "2026-01-11T19:01:57Z"
+        },
         {
             "source": {
                 "id": "ead461b236347a41a0e3561761126583",
@@ -3438,33 +3474,6 @@
             "url": "https://www.teslarati.com/elon-musks-xai-bets-20b-on-mississippi-with-2gw-ai-data-center-project/",
             "urlToImage": "https://www.teslarati.com/wp-content/uploads/2026/01/xAI-MS-1000x600.jpeg",
             "publishedAt": "2026-01-09 12:10:27"
-        },
-        {
-            "source": {
-                "name": "cxotoday"
-            },
-            "title": "Why your next laptop should be an AI PC",
-            "url": "https://cxotoday.com/news-analysis/why-your-next-laptop-should-be-an-ai-pc/",
-            "urlToImage": "https://cxotoday.com/wp-content/uploads/2026/01/HP-AI-Laptop.jpg",
-            "publishedAt": "2026-01-09 12:02:46"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Nvidia AI Chips Market Earnings: Q4 2025 Performance and 2026 Outlook",
-            "url": "https://techannouncer.com/nvidia-ai-chips-market-earnings-q4-2025-performance-and-2026-outlook/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2026/01/f35f9746thumbnail-332x187.jpeg",
-            "publishedAt": "2026-01-09 11:28:12"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "The Next Chapter in AI, Fresh Architectures, an AGI Timeline, and a Move Past LLM Hype",
-            "url": "https://www.geeky-gadgets.com/diverse-ai-architectures-agi/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/meta-jepa-architecture-overview_optimized.webp",
-            "publishedAt": "2026-01-09 11:12:41"
         }
     ]
 }
