@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-01-13T17:22:57.529634Z",
+    "lastUpdatedAt": "2026-01-13T18:26:24.034084Z",
     "articles": [
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "EU regulations on AI and plans for limited data centre development to go to Cabinet",
+            "url": "https://www.irishtimes.com/politics/2026/01/13/eu-regulations-on-ai-and-plans-for-limited-data-centre-development-to-go-to-cabinet/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/4ODHMORPFREZPGLTCOVRQIROSA.jpg?smart=true&auth=5862157aeff134e21e3baa6a633b8130cdbd8c73e33dd9236ebd6a54ba5d6691&width=1200&height=630",
+            "publishedAt": "2026-01-13T06:00:01Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Apple chooses Google's Gemini AI to power Siri",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/13/apple-chooses-google039s-gemini-ai-to-power-siri",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/13/3717634.jpg",
+            "publishedAt": "2026-01-13T06:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Hiring surges across India as AI",
+            "url": "https://www.lokmattimes.com/technology/hiring-surges-across-india-as-ai-linked-jobs-rise-exponentially-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601133636637_202601.jpg",
+            "publishedAt": "2026-01-13T05:52:03Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Hiring surges across India as AI",
+            "url": "https://www.lokmattimes.com/business/hiring-surges-across-india-as-ai-linked-jobs-rise-exponentially/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601133636637_202601.jpg",
+            "publishedAt": "2026-01-13T05:52:03Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "Who is Dina Powell McCormick? Meta’s New President and Vice Chairman Leading AI Strategy",
+            "url": "https://www.outlookbusiness.com/ampstories/corporate/who-is-dina-powell-mccormick-metas-new-president-and-vice-chairman-leading-ai-strategy",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-01-13/gerjfg56/dd.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-01-13T05:46:30Z"
+        },
+        {
+            "source": {
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
+                "country": "us"
+            },
+            "title": "Pete Hegseth announces new defense strategy to make US leader in AI",
+            "url": "https://www.foxbusiness.com/technology/hegseth-announces-push-make-us-leader-ai-drones-space-technology",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/hegseth-ai-space-drones-pentagon.png?ve=1&tl=1",
+            "publishedAt": "2026-01-13T05:30:30Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Tredence Unveils Agentic Commerce Solution Accelerators",
+            "url": "https://www.tribuneindia.com/news/business/tredence-unveils-agentic-commerce-solution-accelerators-2-2/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJlNTQ4YTMwLWYwNDAtMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
+            "publishedAt": "2026-01-13T05:25:12Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -36,6 +120,18 @@
             "url": "https://economictimes.indiatimes.com/news/new-updates/microsofts-bill-gates-big-prediction-ai-and-bioterrorism-weapon-warning-this-one-human-invention-will-change-society-more-than-anything/articleshow/126497372.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-126497440,width-1200,height-630,imgsize-1289684,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2026-01-13T05:13:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Tredence Unveils Agentic Commerce Solution Accelerators",
+            "url": "https://www.tribuneindia.com/news/business/tredence-unveils-agentic-commerce-solution-accelerators/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY3NTJlZDMwLWYwM2ItMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
+            "publishedAt": "2026-01-13T04:50:31Z"
         },
         {
             "source": {
@@ -528,6 +624,15 @@
             "url": "https://www.thehitavada.com/Encyc/2026/1/13/india-most-essential-to-us-new-us-envoy-on-trade-deal.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/1/13/India-most-essential-to-US-New-US-envoy-on-trade-deal_202601131106228238_H@@IGHT_627_W@@IDTH_1198.jpg",
             "publishedAt": "2026-01-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "firstpost"
+            },
+            "title": "Meta to slash over 1,500 roles this week amid fresh round of layoffs",
+            "url": "https://www.firstpost.com/tech/meta-to-slash-over-1500-roles-this-week-amid-fresh-round-of-layoffs-13968113.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/01/Meta-layoffs-2026-01-8981589d42efd3dceea4e8d32859a3cb-1200x675.jpg",
+            "publishedAt": "2026-01-13 06:09:28"
         },
         {
             "source": {
@@ -3426,114 +3531,6 @@
             "url": "https://indianexpress.com/shorts/trending/trending-globally/the-best-generation-world-first-ai-minister-omar-sultan-al-olama-explains-why-those-aged-40-60-have-a-unique-edge-nikhil-kamath-podcast-10467404/",
             "urlToImage": "https://images.indianexpress.com/2026/01/World-first-AI-minister-Nikhil-Kamath-interview.jpg",
             "publishedAt": "2026-01-11T09:30:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Are IIT faculty ready to teach AI at scale: Here's what IITs say",
-            "url": "https://www.indiatoday.in/education-today/news/story/iit-faculty-readiness-for-ai-can-curricula-and-upskilling-match-the-pace-2850114-2026-01-11",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/iit-seats-doubled-from-65-000-to-135-lakh-over-past-decade-education-minister-124810449-16x9.jpg?VersionId=w8kkKSiOQJPmq2YqaM1AQppPonbE4lGt",
-            "publishedAt": "2026-01-11T09:15:26Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Mahayuti unveils BMC poll manifesto: 'Flood-free Mumbai', 50% concession on bus fares for women, more",
-            "url": "https://www.livemint.com/news/india/mahayuti-unveils-bmc-poll-manifesto-flood-free-mumbai-50-concession-on-bus-fares-for-women-more-11768121077835.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/11/1600x900/logo/Fadnavis-was-speaking-at-a-BJP-rally-in-Akurdi-org_1768122362554_1768122370278.jpg",
-            "publishedAt": "2026-01-11T09:01:22Z"
-        },
-        {
-            "source": {
-                "id": "e743cde6ee986921721e83d3957862dc",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com",
-                "country": "in"
-            },
-            "title": "Instagram Data Breach: Was There Any Leak That Exposed 17.5 Million Accounts? Meta Responded And How To Stay Safe",
-            "url": "https://zeenews.india.com/technology/instagram-data-breach-was-there-any-leak-that-exposed-17-5-million-accounts-meta-responded-and-how-to-stay-safe-3005508.html",
-            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/01/11/1889827-instagram.jpg",
-            "publishedAt": "2026-01-11T08:24:39Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "Got Instagram Password Reset Email Without Asking? Is Your Account At Risk? Here's What Meta Said",
-            "url": "https://www.timesnownews.com/technology-science/got-instagram-password-reset-email-without-asking-is-your-account-at-risk-heres-what-meta-said-article-153429617",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153429617,width-1280,height-720,resizemode-75/153429617.jpg",
-            "publishedAt": "2026-01-11T07:29:22Z"
-        },
-        {
-            "source": {
-                "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
-                "name": "Proto Thema",
-                "url": "https://en.protothema.gr",
-                "country": "gr"
-            },
-            "title": "AADE: Six new digital “weapons” against tax evasion in 2026",
-            "url": "https://en.protothema.gr/2026/01/11/aade-six-new-digital-weapons-against-tax-evasion-in-2026/",
-            "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/01/6506092.webp",
-            "publishedAt": "2026-01-11T07:09:56Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Did you receive a mail to reset Instagram password? Is it a data breach? Is it a 2022 claim going viral? Meta responds",
-            "url": "https://www.livemint.com/technology/tech-news/did-you-receive-a-mail-to-reset-instagram-password-is-it-a-data-breach-is-it-2022-claim-going-viral-meta-responds-11768113179457.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/11/1600x900/logo/FILES-AUSTRALIA-INTERNET-BAN-7_1768114449746_1768114474216.jpg",
-            "publishedAt": "2026-01-11T06:56:03Z"
-        },
-        {
-            "source": {
-                "id": "ae2702c2a2dec11fe1079f1a797d178a",
-                "name": "Manchester Evening News",
-                "url": "https://www.manchestereveningnews.co.uk",
-                "country": "gb"
-            },
-            "title": "The horrific 'nude' AI pictures being posted online without consent",
-            "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/horrific-nude-ai-pictures-being-33175658",
-            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/article33178888.ece/ALTERNATES/s1200/1_JH_MEN_060126_GROK_04.jpg",
-            "publishedAt": "2026-01-11T06:48:06Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "MCMC blocks Grok AI chatbot over sexually explicit content",
-            "url": "https://www.thestar.com.my/news/nation/2026/01/11/mcmc-blocks-grok-ai-chatbot-over-sexually-explicit-content",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/11/3714678.jpg",
-            "publishedAt": "2026-01-11T06:48:00Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Microsoft AI chief questions how safe current AI really is",
-            "url": "https://www.thenews.com.pk/latest/1387979-microsoft-ai-chief-questions-how-safe-current-ai-really-is",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-01-11/1387979_115656_updates.jpg",
-            "publishedAt": "2026-01-11T06:47:50Z"
         }
     ]
 }
