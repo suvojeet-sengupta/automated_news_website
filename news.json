@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-01-14T16:25:10.455600Z",
+    "lastUpdatedAt": "2026-01-14T17:24:11.153127Z",
     "articles": [
+        {
+            "source": {
+                "id": "6b5c45eb50a6698dcc6711c82d72fb2e",
+                "name": "Oxford Mail",
+                "url": "https://www.oxfordmail.co.uk",
+                "country": "gb"
+            },
+            "title": "Oxford researchers developing phone and AI diagnostic tool",
+            "url": "https://www.oxfordmail.co.uk/news/25763002.oxford-researchers-developing-phone-ai-diagnostic-tool/",
+            "urlToImage": "https://www.oxfordmail.co.uk/resources/images/20416433.jpg?type=og-image",
+            "publishedAt": "2026-01-14T05:00:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "AstraZeneca Buys US-based Modella AI",
+            "url": "https://www.marketscreener.com/news/astrazeneca-buys-us-based-modella-ai-ce7e58d8da88f220",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-01-14T04:27:10Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -3477,30 +3501,6 @@
             "url": "https://edition.cnn.com/2026/01/12/tech/apple-google-gemini-siri",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1835957780-20260112163159672.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2026-01-12T17:11:21Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Zuckerberg names Dina Powell McCormick, banker, ex-Trump advisor, as Meta president",
-            "url": "https://www.hindustantimes.com/world-news/zuckerberg-names-dina-powell-mccormick-banker-ex-trump-advisor-as-meta-president-101768236393899.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/01/12/550x309/Dina_Powell_McCormick_1768236609894_1768236610054.JPG",
-            "publishedAt": "2026-01-12T16:52:37Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "HCLTech hikes fresher salaries; offers up to Rs 22 lakhs per annum for ‘elite’ engineers",
-            "url": "https://www.moneycontrol.com/news/business/information-technology/hcltech-hikes-fresher-salaries-offers-up-to-rs-22-lakhs-per-annum-for-elite-engineers-13769445.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/03/20250327110751_HCL.png",
-            "publishedAt": "2026-01-12T16:48:22Z"
         }
     ]
 }
