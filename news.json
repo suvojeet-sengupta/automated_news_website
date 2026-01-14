@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-01-14T07:22:17.471615Z",
+    "lastUpdatedAt": "2026-01-14T08:25:01.188160Z",
     "articles": [
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "NDP leadership candidate apologizes for using AI to respond to Reddit questions",
+            "url": "https://www.cbc.ca/news/politics/rob-ashton-artificial-intelligence-ndp-ama-9.7043887",
+            "urlToImage": "https://i.cbc.ca/ais/362e446a-a048-4083-9fba-ca73147f4071,1768332564007/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D620",
+            "publishedAt": "2026-01-13T20:05:35Z"
+        },
         {
             "source": {
                 "id": "63361c66f51ee0c82a5325ba1c7b8d06",
@@ -3507,18 +3519,6 @@
             "url": "https://www.globenewswire.com/news-release/2026/01/12/3216780/28124/en/AI-Chipsets-in-Telecommunications-and-Computing-Market-Research-Report-2025-2030-an-Essential-Roadmap-for-Navigating-the-Complex-and-Lucrative-Future-of-the-AI-Chipset-Marketplace.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2026-01-12T12:42:54Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Utah cop ‘turns into frog’ in AI police report",
-            "url": "https://www.thenews.com.pk/latest/1388132-utah-cop-turns-into-frog-in-ai-police-report",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-01-12/1388132_052823_updates.jpg",
-            "publishedAt": "2026-01-12T12:30:00Z"
         }
     ]
 }
