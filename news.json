@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-01-14T20:16:58.321475Z",
+    "lastUpdatedAt": "2026-01-14T21:17:56.775114Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Microsoft president Brad Smith has a message for Donald Trump: Chinese government is helping China win AI race outside the West",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-president-brad-smith-has-a-message-for-donald-trump-chinese-government-is-helping-china-win-ai-race-outside-the-west/articleshow/126522533.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-126522611,width-1070,height-580,imgsize-27116,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2026-01-14T09:03:00Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "iFHP: Health Insurers Are Building Momentum on AI - Even as Readiness for Scale Remains Uneven, Global Benchmark Finds",
+            "url": "https://www.prnewswire.co.uk/news-releases/ifhp-health-insurers-are-building-momentum-on-ai--even-as-readiness-for-scale-remains-uneven-global-benchmark-finds-302660959.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2861140/iFHP_Report.pdf?p=pdf&p=facebook",
+            "publishedAt": "2026-01-14T09:02:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "AMD Teams Up With Tata Consultancy to Boost AI Adoption",
+            "url": "https://www.marketscreener.com/news/amd-teams-up-with-tata-consultancy-to-boost-ai-adoption-ce7e58d8dc8fff27",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-01-14T08:50:59Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "From experimentation to scale: What India’s top AI leaders are discussing at the ET AI Awards",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/from-experimentation-to-scale-what-indias-top-ai-leaders-are-discussing-at-the-et-ai-awards/articleshow/126519940.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-126522114,width-1200,height-630,imgsize-692497,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-01-14T08:40:00Z"
+        },
+        {
+            "source": {
+                "id": "34cc62608b4607dc3a776802caadb7bd",
+                "name": "ThePrint",
+                "url": "https://theprint.in",
+                "country": "in"
+            },
+            "title": "POCT plans AI-driven clinical workflow overhaul in UP public hospitals by April",
+            "url": "https://theprint.in/india/poct-plans-ai-driven-clinical-workflow-overhaul-in-up-public-hospitals-by-april/2826753/",
+            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+            "publishedAt": "2026-01-14T08:18:54Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Aon expands Data Center Lifecycle Insurance Program to $2.5 billion, strengthening resilience for AI-driving digital infrastructure",
+            "url": "https://www.manilatimes.net/2026/01/14/tmt-newswire/pr-newswire/aon-expands-data-center-lifecycle-insurance-program-to-25-billion-strengthening-resilience-for-ai-driving-digital-infrastructure/2258630",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/14/898997.jpg",
+            "publishedAt": "2026-01-14T08:17:25Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -504,6 +576,24 @@
             "url": "https://medicalxpress.com/news/2026-01-ai-country-cancer-outcomes.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-model-identifies-ho.jpg",
             "publishedAt": "2026-01-14T00:00:01Z"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "TCS and AMD join hands to help enterprises scale AI from pilots to production",
+            "url": "https://www.expresscomputer.in/news/tcs-and-amd-join-hands-to-help-enterprises-scale-ai-from-pilots-to-production/131735/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2021/06/24123442/partnership-EC.jpg",
+            "publishedAt": "2026-01-14 09:02:00"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "Nobody asked for AI PCs, but they’ve been thrust upon us – at least Dell realizes it’s probably made a mistake",
+            "url": "https://www.itpro.com/hardware/nobody-asked-for-ai-pcs-but-theyve-been-thrust-upon-us-at-least-dell-realizes-its-probably-made-a-mistake",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wybXgX2zhjubc7Ub9Uv6d4-1280-80.jpg",
+            "publishedAt": "2026-01-14 08:30:00"
         },
         {
             "source": {
@@ -3387,102 +3477,6 @@
             "url": "https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html",
             "urlToImage": "https://static01.nyt.com/images/2026/01/12/multimedia/12biz-apple-google-vcmp/12biz-apple-google-vcmp-facebookJumbo.jpg",
             "publishedAt": "2026-01-12T20:09:58Z"
-        },
-        {
-            "source": {
-                "id": "d4773b92da0613b8ffc2fc9c46229534",
-                "name": "Business Wire",
-                "url": "https://www.businesswire.com",
-                "country": "us"
-            },
-            "title": "Everfox Appoints Dave Wajsgras as Chairman and Chief Executive Officer",
-            "url": "https://www.businesswire.com/news/home/20260112657522/en/Everfox-Appoints-Dave-Wajsgras-as-Chairman-and-Chief-Executive-Officer",
-            "urlToImage": "https://mms.businesswire.com/media/20260112657522/en/2689430/22/Everfox-Logo-White.jpg",
-            "publishedAt": "2026-01-12T20:00:00Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Brain cancer digital twin predicts treatment outcomes by mapping tumor metabolism",
-            "url": "https://medicalxpress.com/news/2026-01-brain-cancer-digital-twin-treatment.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/brain-cancer-digital-t.jpg",
-            "publishedAt": "2026-01-12T19:53:48Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Digital twin technology guides personalized treatment for brain cancer patients",
-            "url": "https://www.news-medical.net/news/20260112/Digital-twin-technology-guides-personalized-treatment-for-brain-cancer-patients.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2018/7/Brain_cancer%2c_3D_illustration_showing_presence_of_tumor_inside_brain_-_Kateryna_Kon_M1_6704c47fefe0477dbe1cd3351402914f-620x480.jpg",
-            "publishedAt": "2026-01-12T19:46:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Crowdstrike and Nord Security Announce Strategic Partnership to Redefine SMB Cybersecurity",
-            "url": "https://www.marketscreener.com/news/crowdstrike-and-nord-security-announce-strategic-partnership-to-redefine-smb-cybersecurity-ce7e58dad08df321",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-01-12T19:35:38Z"
-        },
-        {
-            "source": {
-                "id": "c97ef3cad273a1993c998ca7ddcc5212",
-                "name": "Daily Express",
-                "url": "https://www.express.co.uk",
-                "country": "gb"
-            },
-            "title": "New Sony patent hints at PS6 feature that changes the way you play games",
-            "url": "https://www.express.co.uk/entertainment/gaming/2156868/new-sony-patent-hints-ps6-AI-play-games",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/143/1200x630/6668997.jpg",
-            "publishedAt": "2026-01-12T19:26:00Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Apple calls on Google to help smarten up Siri",
-            "url": "https://www.bnnbloomberg.ca/business/2026/01/12/apple-calls-on-google-to-help-smarten-up-siri-and-bring-other-ai-features-to-the-iphone/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/PJ72LQNLLCFYTQPU77DAQDR2IA.jpg?smart=true&auth=62c1f6eac28c07b15fcbe7b840a1e96aa6f6065f3a63cd9f9486c2a202aeca51&width=1200&height=630",
-            "publishedAt": "2026-01-12T19:07:58Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Apple calls on Google to help smarten up Siri and bring other AI features to the iPhone",
-            "url": "https://wtop.com/lifestyle/2026/01/apple-calls-on-google-to-help-smarten-up-siri-and-bring-other-ai-features-to-the-iphone/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/01/Apple_Google_Artificial_Intelligence_82007-scaled.jpg",
-            "publishedAt": "2026-01-12T19:06:14Z"
-        },
-        {
-            "source": {
-                "id": "c792dadf7373fad5b316a63a77688de1",
-                "name": "ABC News",
-                "url": "https://abcnews.go.com",
-                "country": "us"
-            },
-            "title": "Apple calls on Google to help smarten up Siri and bring other AI features to iPhone",
-            "url": "https://abcnews.go.com/Technology/wireStory/apple-calls-google-smarten-siri-bring-ai-features-129141852",
-            "urlToImage": "https://i.abcnewsfe.com/a/b6495cd0-9b40-4bc4-b557-bfefa5bf0ac5/wirestory_865dfa575279c292bc729a2dfa4e1583_16x9.jpg?w=1600",
-            "publishedAt": "2026-01-12T19:00:59Z"
         }
     ]
 }
