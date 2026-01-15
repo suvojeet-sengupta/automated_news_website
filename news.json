@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-01-15T08:26:12.736817Z",
+    "lastUpdatedAt": "2026-01-15T09:24:39.240200Z",
     "articles": [
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "Elon Musk’s Grok appears to modify image generation after outcry",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2026/01/14/elon-musks-grok-appears-to-modify-image-generation-after-outcry/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
+            "publishedAt": "2026-01-14T21:14:13Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Elon Musk’s Grok appears to modify image generation after outcry",
+            "url": "https://edition.cnn.com/2026/01/14/tech/grok-elon-musk-image-generation",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-15565107c.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-01-14T21:14:13Z"
+        },
+        {
+            "source": {
+                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+                "name": "Washington Examiner",
+                "url": "https://www.washingtonexaminer.com",
+                "country": "us"
+            },
+            "title": "Newsom calls to 'hold xAI accountable' for explicit deepfakes",
+            "url": "https://www.washingtonexaminer.com/policy/technology/4418836/newsom-calls-to-hold-xai-accountable-for-explicit-deepfakes/",
+            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/10/GettyImages-2242675747.jpg?resize=1200,683",
+            "publishedAt": "2026-01-14T21:05:33Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Arteris Closes Acquisition of Cycuity",
+            "url": "https://www.globenewswire.com/news-release/2026/01/14/3219140/0/en/Arteris-Closes-Acquisition-of-Cycuity.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/f8be4404-a9d1-42a3-95a3-56b29bf790b8",
+            "publishedAt": "2026-01-14T21:05:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "OpenAI Signs Deal With Cerebras for AI Computing",
+            "url": "https://www.marketscreener.com/news/openai-signs-deal-with-cerebras-for-ai-computing-ce7e58d9d88ef225",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-01-14T21:02:19Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "U.S. allows Nvidia to send advanced AI chips to China with restrictions",
+            "url": "https://japantoday.com/category/tech/us-allows-nvidia-to-send-advanced-ai-chips-to-china-with-restrictions",
+            "urlToImage": "https://media.japantoday.com/img/store/4e/1e/c93d98ac995ff2d96d003a4fd324b754dc97/8bbb708e5e75f51d17e4433013bd7269c36d438f/_w1700.jpeg",
+            "publishedAt": "2026-01-14T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "White House continues its push to advance AI action plan as Congress mulls regulations",
+            "url": "https://wjla.com/news/nation-world/white-house-continues-its-push-to-advance-ai-action-plan-as-congress-mulls-regulations",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/5930/1320/0x333/90/464a1750-b820-4970-89ec-ac498569e4cc-GettyImages2251460315.jpg",
+            "publishedAt": "2026-01-14T20:48:34Z"
+        },
+        {
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            },
+            "title": "White House continues its push to advance AI action plan as Congress mulls regulations",
+            "url": "https://foxbaltimore.com/news/nation-world/white-house-continues-its-push-to-advance-ai-action-plan-as-congress-mulls-regulations",
+            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/5930/1320/0x333/90/464a1750-b820-4970-89ec-ac498569e4cc-GettyImages2251460315.jpg",
+            "publishedAt": "2026-01-14T20:48:34Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Elon Musk's Grok to be investigated in California",
+            "url": "https://www.bnnbloomberg.ca/business/technology/2026/01/14/california-to-investigate-xai-over-grok-chatbot-images-officials-say/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/E6P463D4RRAQHBUBRA2XRYFMSA.jpg?smart=true&auth=12a9e28c01306133a8ac6856bcaaad8dbd8b6d374deb919aca6a2f3f6a2848f7&width=1200&height=630",
+            "publishedAt": "2026-01-14T20:48:22Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Elon Musk's Grok to be investigated in California",
+            "url": "https://www.cp24.com/news/world/2026/01/14/california-to-investigate-xai-over-grok-chatbot-images-officials-say/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/E6P463D4RRAQHBUBRA2XRYFMSA.jpg?smart=true&auth=12a9e28c01306133a8ac6856bcaaad8dbd8b6d374deb919aca6a2f3f6a2848f7&width=1200&height=630",
+            "publishedAt": "2026-01-14T20:48:22Z"
+        },
+        {
+            "source": {
+                "id": "2b5db686603d0197d748f18d2dc01aec",
+                "name": "Bloomberg Tax News",
+                "url": "https://news.bloombergtax.com",
+                "country": "us"
+            },
+            "title": "US Sets 25% Tariff on Some Chip Sales as Part of Nvidia Deal",
+            "url": "https://news.bloombergtax.com/daily-tax-report/us-sets-25-tariff-on-some-chip-sales-as-part-of-nvidia-deal",
+            "urlToImage": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+            "publishedAt": "2026-01-14T20:27:21Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -1620,6 +1752,15 @@
             "url": "https://medicalxpress.com/news/2026-01-ai-country-cancer-outcomes.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-model-identifies-ho.jpg",
             "publishedAt": "2026-01-14T00:00:01Z"
+        },
+        {
+            "source": {
+                "name": "mit"
+            },
+            "title": "Generative AI tool helps 3D print personal items that sustain daily use",
+            "url": "https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114",
+            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-MechStyle.jpg?itok=R7YZJuH2",
+            "publishedAt": "2026-01-14 21:00:00"
         },
         {
             "source": {
@@ -3384,150 +3525,6 @@
             "url": "https://www.tribuneindia.com/news/business/axs-solutions-names-mohan-v-tanksale-and-abhaya-prasad-hota-as-members-of-advisory-board-to-guide-next-phase-of-growth/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU4ODY0YTAwLWYwNDktMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
             "publishedAt": "2026-01-13T06:30:19Z"
-        },
-        {
-            "source": {
-                "id": "dd1d806725f45e4403e75c1bb23b447a",
-                "name": "The Irish Times",
-                "url": "https://www.irishtimes.com",
-                "country": "ie"
-            },
-            "title": "EU regulations on AI and plans for limited data centre development to go to Cabinet",
-            "url": "https://www.irishtimes.com/politics/2026/01/13/eu-regulations-on-ai-and-plans-for-limited-data-centre-development-to-go-to-cabinet/",
-            "urlToImage": "https://www.irishtimes.com/resizer/v2/4ODHMORPFREZPGLTCOVRQIROSA.jpg?smart=true&auth=5862157aeff134e21e3baa6a633b8130cdbd8c73e33dd9236ebd6a54ba5d6691&width=1200&height=630",
-            "publishedAt": "2026-01-13T06:00:01Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Apple chooses Google's Gemini AI to power Siri",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/13/apple-chooses-google039s-gemini-ai-to-power-siri",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/13/3717634.jpg",
-            "publishedAt": "2026-01-13T06:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Hiring surges across India as AI",
-            "url": "https://www.lokmattimes.com/technology/hiring-surges-across-india-as-ai-linked-jobs-rise-exponentially-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601133636637_202601.jpg",
-            "publishedAt": "2026-01-13T05:52:03Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Hiring surges across India as AI",
-            "url": "https://www.lokmattimes.com/business/hiring-surges-across-india-as-ai-linked-jobs-rise-exponentially/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601133636637_202601.jpg",
-            "publishedAt": "2026-01-13T05:52:03Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "Who is Dina Powell McCormick? Meta’s New President and Vice Chairman Leading AI Strategy",
-            "url": "https://www.outlookbusiness.com/ampstories/corporate/who-is-dina-powell-mccormick-metas-new-president-and-vice-chairman-leading-ai-strategy",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-01-13/gerjfg56/dd.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-01-13T05:46:30Z"
-        },
-        {
-            "source": {
-                "id": "1b97b25c0ec482f85326378f82f7f815",
-                "name": "Fox Business",
-                "url": "https://www.foxbusiness.com",
-                "country": "us"
-            },
-            "title": "Pete Hegseth announces new defense strategy to make US leader in AI",
-            "url": "https://www.foxbusiness.com/technology/hegseth-announces-push-make-us-leader-ai-drones-space-technology",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/hegseth-ai-space-drones-pentagon.png?ve=1&tl=1",
-            "publishedAt": "2026-01-13T05:30:30Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Tredence Unveils Agentic Commerce Solution Accelerators",
-            "url": "https://www.tribuneindia.com/news/business/tredence-unveils-agentic-commerce-solution-accelerators-2-2/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJlNTQ4YTMwLWYwNDAtMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
-            "publishedAt": "2026-01-13T05:25:12Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "India Joins US-Led Pax Silica Initiative: A Strategic Move in Tech and AI",
-            "url": "https://www.devdiscourse.com/article/business/3767524-india-joins-us-led-pax-silica-initiative-a-strategic-move-in-tech-and-ai",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_01_2026_10_45_29_2208976.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-01-13T05:15:35Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "US Accelerates AI Strategy for Military Superiority",
-            "url": "https://www.devdiscourse.com/article/international/3767521-us-accelerates-ai-strategy-for-military-superiority",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_01_2026_10_44_29_9687796.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-01-13T05:14:37Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Microsoft's Bill Gates' big prediction and 'bioterrorism weapon' warning : This one human invention will change society more than anything",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/microsofts-bill-gates-big-prediction-ai-and-bioterrorism-weapon-warning-this-one-human-invention-will-change-society-more-than-anything/articleshow/126497372.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-126497440,width-1200,height-630,imgsize-1289684,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-01-13T05:13:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Tredence Unveils Agentic Commerce Solution Accelerators",
-            "url": "https://www.tribuneindia.com/news/business/tredence-unveils-agentic-commerce-solution-accelerators/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY3NTJlZDMwLWYwM2ItMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
-            "publishedAt": "2026-01-13T04:50:31Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "\"Must ensure America's military AI dominance so no adversary can exploit\": US War Secy Hegseth launches AI Acceleration Strategy",
-            "url": "https://www.tribuneindia.com/news/world/must-ensure-americas-military-ai-dominance-so-no-adversary-can-exploit-us-war-secy-hegseth-launches-ai-acceleration-strategy/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTViZGIyMmIwLWYwM2ItMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
-            "publishedAt": "2026-01-13T04:50:12Z"
         }
     ]
 }
