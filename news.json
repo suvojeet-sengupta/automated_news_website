@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-15T09:24:39.240200Z",
+    "lastUpdatedAt": "2026-01-15T10:19:48.581379Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "TSMC likely to post fourth-quarter profit leap driven by AI boom",
+            "url": "https://www.reuters.com/world/china/tsmc-likely-post-fourth-quarter-profit-leap-driven-by-ai-boom-2026-01-14/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/7S4D3A7PSFKQ7KHEDAJNFQV5TM.jpg?auth=598c54a1cc9cffc9d957b8f9fb74fd6f5285a30536f90f69f7666cb12f5b4bfc&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-14T22:11:27Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "China Turns the Tables on Foreign Cybersecurity Vendors",
+            "url": "https://www.devdiscourse.com/article/law-order/3769953-china-turns-the-tables-on-foreign-cybersecurity-vendors",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/24_07_2025_17_22_45_0821184.png?width=920&format=jpeg",
+            "publishedAt": "2026-01-14T22:05:54Z"
+        },
+        {
+            "source": {
+                "id": "e2b598a29c7ee64ba90dd28fd6eb5df2",
+                "name": "The Kingston Whig-Standard",
+                "url": "https://www.thewhig.com",
+                "country": "ca"
+            },
+            "title": "Cornwall cybersecurity training update cites AI-powered attacks",
+            "url": "https://www.thewhig.com/news/cornwall-council-briefs-cybersecurity-gardiner-absence-loans",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2026/01/0115-co-councilbriefs.co_.jpg",
+            "publishedAt": "2026-01-14T21:48:13Z"
+        },
         {
             "source": {
                 "id": "d5a02d07558c5563d72576efc406e608",
@@ -1755,6 +1791,15 @@
         },
         {
             "source": {
+                "name": "webpronews"
+            },
+            "title": "China Restricts Nvidia H200 AI Chip Buys to Spur Domestic Alternatives",
+            "url": "https://www.webpronews.com/china-restricts-nvidia-h200-ai-chip-buys-to-spur-domestic-alternatives/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-6408-1768379088.jpeg",
+            "publishedAt": "2026-01-14 21:50:05"
+        },
+        {
+            "source": {
                 "name": "mit"
             },
             "title": "Generative AI tool helps 3D print personal items that sustain daily use",
@@ -3477,54 +3522,6 @@
             "url": "https://www.hindustantimes.com/genesis/how-artificial-intelligence-is-shaping-the-future-of-language-learning-and-global-careers-101768286501852.html",
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/01/13/550x309/Screenshot_2026-01-13_121350_1768286677045_1768286688281.png",
             "publishedAt": "2026-01-13T06:45:33Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Tech Layoffs in 2025 aren't about robots: Oxford Economics",
-            "url": "https://www.indiatoday.in/education-today/jobs-and-careers/story/tech-layoffs-in-2025-arent-about-robots-oxford-economics-2850559-2026-01-13",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/tech-layoffs-in-2025-arent-about-robots-oxford-economics-explains-why-133924738-16x9_0.jpg?VersionId=fh9XwMAxauz8WKpuQzeNjtPVfgBabNA3",
-            "publishedAt": "2026-01-13T06:42:59Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "China unveils first AI model to gauge weather's impact on stock market",
-            "url": "https://www.dailyexcelsior.com/china-unveils-first-ai-model-to-gauge-weathers-impact-on-stock-market/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/01/China-4.jpg",
-            "publishedAt": "2026-01-13T06:38:08Z"
-        },
-        {
-            "source": {
-                "id": "b41851fb2662ea502db29f71ec4d1583",
-                "name": "NPR",
-                "url": "https://www.npr.org",
-                "country": "us"
-            },
-            "title": "Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry",
-            "url": "https://www.npr.org/2026/01/13/nx-s1-5675781/pentagon-musks-grok-ai-chatbot-global-outcry",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5600x3150+0+292/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdc%2F3f%2Ff005bf0544a38e1716d92968a16c%2Fap26007557270287.jpg",
-            "publishedAt": "2026-01-13T06:36:38Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AXS Solutions names Mohan V. Tanksale and Abhaya Prasad Hota as members of Advisory Board to guide next phase of growth",
-            "url": "https://www.tribuneindia.com/news/business/axs-solutions-names-mohan-v-tanksale-and-abhaya-prasad-hota-as-members-of-advisory-board-to-guide-next-phase-of-growth/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU4ODY0YTAwLWYwNDktMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
-            "publishedAt": "2026-01-13T06:30:19Z"
         }
     ]
 }
