@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-01-16T09:22:43.740272Z",
+    "lastUpdatedAt": "2026-01-16T10:19:15.452822Z",
     "articles": [
+        {
+            "source": {
+                "id": "010284b7a4ddb4771793c29b39893951",
+                "name": "CHEK News",
+                "url": "https://cheknews.ca",
+                "country": "ca"
+            },
+            "title": "Federal privacy commissioner looking into sexualized deepfakes on X platform",
+            "url": "https://cheknews.ca/federal-privacy-commissioner-looking-into-sexualized-deepfakes-on-x-platform-1299785/",
+            "urlToImage": "https://i0.wp.com/cheknews.ca/wp-content/uploads/2026/01/b13aa3ae-0a32-4c7b-bd09-474938b6eeaf-scaled-e1768514554879.jpg?fit=2560%2C1442&quality=89&ssl=1",
+            "publishedAt": "2026-01-15T22:10:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Senate Rejects Budget Cuts, Boosts Science Funding",
+            "url": "https://www.devdiscourse.com/article/science-environment/3771384-senate-rejects-budget-cuts-boosts-science-funding",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/29_09_2025_16_22_50_8762345.png?width=920&format=jpeg",
+            "publishedAt": "2026-01-15T21:48:10Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Ashley St. Clair Sues Elon Musk’s xAI Over Grok Sexual Images",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-15/ashley-st-clair-sues-elon-musk-s-xai-over-grok-sexual-images",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLUxZamu9It0/v1/1200x800.jpg",
+            "publishedAt": "2026-01-15T21:36:45Z"
+        },
+        {
+            "source": {
+                "id": "720c8090279dd552e56c637e16f9926a",
+                "name": "Davenport Quad-City Times",
+                "url": "https://qctimes.com",
+                "country": "us"
+            },
+            "title": "Wikipedia inks AI deals with Microsoft, Meta and Perplexity",
+            "url": "https://qctimes.com/news/nation-world/article_3af73838-c9f3-5ce4-9e5b-4c4198ac5d9f.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/3/af/3af73838-c9f3-5ce4-9e5b-4c4198ac5d9f/6969260a9e146.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-01-15T21:30:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "New microscopy technique preserves the cell's natural conditions",
+            "url": "https://phys.org/news/2026-01-microscopy-technique-cell-natural-conditions.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/iit-a-new-microscopy-t.jpg",
+            "publishedAt": "2026-01-15T21:26:38Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -1668,6 +1728,24 @@
             "url": "https://www.aroundosceola.com/news-statewide-news/10-legislative-issues-watch-during-current-session",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/2026-01/Legislative-photo.jpg",
             "publishedAt": "2026-01-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The 251 Most Important Events to the History of AI Development Timeline",
+            "url": "https://hackernoon.com/the-251-most-important-events-to-the-history-of-ai-development-timeline",
+            "urlToImage": "https://hackernoon.imgix.net/images/sgZV5cQfedcVWsW5GLnBi6Bt7Um1-nk03dx9.png",
+            "publishedAt": "2026-01-15 21:45:00"
+        },
+        {
+            "source": {
+                "name": "milescitystar"
+            },
+            "title": "Lightwave Logic, Inc. and QPICs Announce Partnership to Advance the Use of Electro-Optic Polymers in Quantum Processors",
+            "url": "https://www.milescitystar.com/ap_news/montana/lightwave-logic-inc-and-qpics-announce-partnership-to-advance-the-use-of-electro-optic-polymers/article_3fa4592f-cfa6-5dd5-97db-d673d1429075.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/custom/image/d356975e-8c50-11ed-9099-03a8030ff894.png?resize=600%2C315",
+            "publishedAt": "2026-01-15 21:32:08"
         },
         {
             "source": {
@@ -3459,90 +3537,6 @@
             "url": "https://www.marketscreener.com/news/astrazeneca-buys-us-based-modella-ai-ce7e58d8da88f220",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
             "publishedAt": "2026-01-14T04:27:10Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "China to Allow Purchases of Nvidia's H200 Under Special Circumstances, Sources Say",
-            "url": "https://www.marketscreener.com/news/china-to-allow-purchases-of-nvidia-s-h200-under-special-circumstances-sources-say-ce7e58d8da89ff25",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-01-14T03:58:15Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "US Loosens Restrictions for Nvidia H200 Exports to China",
-            "url": "https://www.marketscreener.com/news/us-loosens-restrictions-for-nvidia-h200-exports-to-china-ce7e58d8da89f121",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-01-14T03:50:12Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "S. Korean chipmakers feared to be targets of 'patent trolls'",
-            "url": "https://www.lokmattimes.com/technology/s-korean-chipmakers-feared-to-be-targets-of-patent-trolls-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/1670eddbe3afba8ee221fd2e5fa851df_202601.jpg",
-            "publishedAt": "2026-01-14T03:44:28Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "S. Korean chipmakers feared to be targets of 'patent trolls'",
-            "url": "https://www.lokmattimes.com/business/s-korean-chipmakers-feared-to-be-targets-of-patent-trolls/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/1670eddbe3afba8ee221fd2e5fa851df_202601.jpg",
-            "publishedAt": "2026-01-14T03:44:28Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "LinkedIn Post Takes Aim at Elon Musk, AI and the Cost to Society",
-            "url": "https://www.ndtvprofit.com/trending/leaving-x-linkedin-post-takes-aim-at-elon-musk-ai-and-the-cost-to-society",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-26%2F096roxdl%2Fsalvador-rios-tkkOCi1Wgx0-unsplash.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2026-01-14T03:44:18Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Cyberattack at Kyowon ‘exposes’ over 9 million user accounts to possible breach",
-            "url": "https://www.lokmattimes.com/technology/cyberattack-at-kyowon-exposes-over-9-million-user-accounts-to-possible-breach-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601143637787_202601.jpg",
-            "publishedAt": "2026-01-14T03:40:37Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Cyberattack at Kyowon ‘exposes’ over 9 million user accounts to possible breach",
-            "url": "https://www.lokmattimes.com/business/cyberattack-at-kyowon-exposes-over-9-million-user-accounts-to-possible-breach/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601143637787_202601.jpg",
-            "publishedAt": "2026-01-14T03:40:37Z"
         }
     ]
 }
