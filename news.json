@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-16T06:28:11.423330Z",
+    "lastUpdatedAt": "2026-01-16T07:21:20.930748Z",
     "articles": [
+        {
+            "source": {
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
+                "country": "us"
+            },
+            "title": "This robot learned to lip sync like humans by watching YouTube",
+            "url": "https://www.digitaltrends.com/computing/researchers-taught-a-human-like-robot-to-lip-sync-a-song-by-watching-youtube/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/01/emo-robot-that-can-lip-sync.jpg?resize=1200%2C630",
+            "publishedAt": "2026-01-15T18:42:01Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Lawyers doubtful about US judiciary's draft rule for AI-generated evidence",
+            "url": "https://www.reuters.com/legal/government/lawyers-doubtful-about-us-judiciarys-draft-rule-ai-generated-evidence-2026-01-15/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/RR6RQZV5AVJOFK3PVNBHKF6FZ4.jpg?auth=b61e945e4d358c917c6b2f2aa28c835075db105cf6473453d905dcf4e18805d7&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-15T18:38:10Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Publishers seek to join lawsuit against Google over AI training",
+            "url": "https://www.reuters.com/legal/government/publishers-seek-join-lawsuit-against-google-over-ai-training-2026-01-15/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/BU5OKSDJ7VLWNB2W5EMKCYZPJ4.jpg?auth=40e1b7ae3f7a4329bef743bd2009c57f276f74e93ce2ccfffb523d92de0571b1&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-15T18:32:06Z"
+        },
         {
             "source": {
                 "id": "8e9ab8327c5f7903cc1b50470411d165",
@@ -1560,6 +1596,33 @@
             "url": "https://www.aroundosceola.com/news-statewide-news/10-legislative-issues-watch-during-current-session",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/2026-01/Legislative-photo.jpg",
             "publishedAt": "2026-01-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "ieee_spectrum"
+            },
+            "title": "How to Gain Footing in AI as the Ground Keeps Shifting",
+            "url": "https://spectrum.ieee.org/ai-developer-career-advice",
+            "urlToImage": "https://spectrum.ieee.org/media-library/a-young-adult-woman-working-on-her-desktop-computer-in-an-office.jpg?id=62805163&width=980",
+            "publishedAt": "2026-01-15 19:00:02"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Cloudflare Acquires Human Native to Advance AI Data Marketplaces and Creator Pay",
+            "url": "https://www.webpronews.com/cloudflare-acquires-human-native-to-advance-ai-data-marketplaces-and-creator-pay/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-6519-1768503493.jpeg",
+            "publishedAt": "2026-01-15 18:58:17"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Nvidia’s AI Surge Threatens Apple’s TSMC Dominance by 2026",
+            "url": "https://www.webpronews.com/nvidias-ai-surge-threatens-apples-tsmc-dominance-by-2026/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-6515-1768502561.jpeg",
+            "publishedAt": "2026-01-15 18:42:47"
         },
         {
             "source": {
@@ -3480,78 +3543,6 @@
             "url": "https://www.news-medical.net/news/20260113/Global-analysis-uses-machine-learning-to-map-drivers-of-cancer-outcomes.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
             "publishedAt": "2026-01-14T02:59:00Z"
-        },
-        {
-            "source": {
-                "id": "c8c865ed042eb14694b8d596e22efe99",
-                "name": "Spokane Spokesman-Review",
-                "url": "https://www.spokesman.com",
-                "country": "us"
-            },
-            "title": "University of Idaho lab gets $1.3M for machine learning PTSD research",
-            "url": "https://www.spokesman.com/stories/2026/jan/14/university-of-idaho-lab-gets-13m-for-machine-learn/",
-            "urlToImage": "https://thumb.spokesman.com/HIojORZgRk6C2El9zdBnAoEtxNg=/1200x630/smart/media.spokesman.com/photos/2026/01/13/6966da3bb7d5c.image.png",
-            "publishedAt": "2026-01-14T02:30:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Nvidia AI chips in China! US approves sale of H200 chips; commerce dept sets strict limitations",
-            "url": "https://timesofindia.indiatimes.com/business/international-business/nvidia-ai-chips-in-china-us-approves-sale-of-h200-chips-commerce-dept-sets-strict-limitations/articleshow/126515749.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126516002,width-1070,height-580,imgsize-256718,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2026-01-14T02:21:00Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Vibe coding lets non-coders set foot in a world previously inaccessible",
-            "url": "https://www.financialexpress.com/opinion/vibe-codingnbsplets-non-coders-set-foot-in-a-world-previously-inaccessible/4106450/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/01/Vibe-coding.jpg?quality=100",
-            "publishedAt": "2026-01-14T01:53:37Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Apple turns to Google to power AI upgrade for Siri",
-            "url": "https://timesofindia.indiatimes.com/tech-news/apple-turns-to-google-to-power-ai-upgrade-for-siri/articleshow/126515736.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126515763,width-1070,height-580,imgsize-629453,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2026-01-14T01:52:00Z"
-        },
-        {
-            "source": {
-                "id": "8fac888ae06647c3a7d6093c60c9d9b5",
-                "name": "San Diego Union-Tribune",
-                "url": "https://www.sandiegouniontribune.com",
-                "country": "us"
-            },
-            "title": "Illumina unveils massive cell atlas to speed up drug discovery",
-            "url": "https://www.sandiegouniontribune.com/2026/01/13/illumina-unveils-massive-cell-atlas-to-speed-up-drug-discovery/",
-            "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/01/SUT-L-ILLUMINA-MISEQ-1012-01.jpg?w=1024&h=768",
-            "publishedAt": "2026-01-14T01:42:45Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Govt to promote use of AI in health sector on priority: Pathak",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/govt-to-promote-use-of-ai-in-health-sector-on-priority-pathak/articleshow/126512300.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126512350,width-1070,height-580,imgsize-37492,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2026-01-14T01:30:00Z"
         }
     ]
 }
