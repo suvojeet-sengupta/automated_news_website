@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-01-17T05:17:26.272081Z",
+    "lastUpdatedAt": "2026-01-17T06:25:11.653947Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Melania Trump: Use AI, But Keep Thinking for Yourself",
+            "url": "https://www.newsmax.com/newsmax-tv/melania-trump-ai-creativity/2026/01/16/id/1242419/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=07501cc3-a673-4bd6-9fb9-09b2afb2551b&SiteName=Newsmax",
+            "publishedAt": "2026-01-16T18:03:42Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Melania Trump: Use AI, But Keep Thinking for Yourself",
+            "url": "https://www.newsmax.com/finance/newsmax-tv/melania-trump-ai-creativity/2026/01/16/id/1242419/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=07501cc3-a673-4bd6-9fb9-09b2afb2551b&SiteName=Newsmax",
+            "publishedAt": "2026-01-16T18:03:42Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AIIMS-P hosts cybersecurity programme",
+            "url": "https://timesofindia.indiatimes.com/city/patna/aiims-p-hosts-cybersecurity-programme/articleshow/126587980.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-126587980,width-1280,height-720,imgsize-null,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-01-16T17:56:00Z"
+        },
+        {
+            "source": {
+                "id": "d4773b92da0613b8ffc2fc9c46229534",
+                "name": "Business Wire",
+                "url": "https://www.businesswire.com",
+                "country": "us"
+            },
+            "title": "Washington, DC Demonstrates Deployed AI Workforce Systems at CES 2026",
+            "url": "https://www.businesswire.com/news/home/20260116445154/en/Washington-DC-Demonstrates-Deployed-AI-Workforce-Systems-at-CES-2026",
+            "urlToImage": "https://mms.businesswire.com/media/20260116445154/en/2694474/22/BuildWithin_Logo.jpg",
+            "publishedAt": "2026-01-16T17:45:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -3480,42 +3528,6 @@
             "url": "https://www.computerworld.com/article/4117377/ey-exec-if-you-think-agentic-ai-is-a-challenge-youre-not-ready-for-whats-coming.html",
             "urlToImage": "https://www.computerworld.com/wp-content/uploads/2026/01/4117377-0-78683200-1768482356-shutterstock_2384555213.jpg?quality=50&strip=all",
             "publishedAt": "2026-01-15 13:05:05"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "GitHub Gist Satirizes Anthropic’s Closed AI Model, Fuels Openness Debate",
-            "url": "https://www.webpronews.com/github-gist-satirizes-anthropics-closed-ai-model-fuels-openness-debate/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-6447-1768446181.jpeg",
-            "publishedAt": "2026-01-15 12:40:06"
-        },
-        {
-            "source": {
-                "name": "newser"
-            },
-            "title": "OpenAI May Be Doomed, but Not the AI Business",
-            "url": "https://www.newser.com/story/382008/ai-boom-is-real-but-openais-business-could-bust.html",
-            "urlToImage": "https://img1-azrcdn.newser.com/image/1658600-11-20260115094923-ai-boom-real-openais-business-bust.jpeg",
-            "publishedAt": "2026-01-15 10:02:00"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "These invisible factors are limiting the future of AI",
-            "url": "https://www.fastcompany.com/91470661/invisible-factors-limiting-ai",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/01/p-1-91470661-these-invisible-factors-are-limiting-the-future-of-ai.jpg",
-            "publishedAt": "2026-01-15 09:00:00"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Quote of the day by Nvidia CEO Jensen Huang: ‘Software is eating the world, but AI is going to eat...’",
-            "url": "https://economictimes.indiatimes.com/news/international/australia/quote-of-the-day-by-nvidia-ceo-jensen-huang-software-is-eating-the-world-but-ai-is-going-to-eat/articleshow/126542065.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-777562,resizemode-75,msid-126542065/news/international/australia/quote-of-the-day-by-nvidia-ceo-jensen-huang-software-is-eating-the-world-but-ai-is-going-to-eat.jpg",
-            "publishedAt": "2026-01-15 08:33:46"
         }
     ]
 }
