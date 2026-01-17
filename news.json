@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-01-17T21:14:19.427745Z",
+    "lastUpdatedAt": "2026-01-17T22:15:55.083442Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Tech Firms Are Persuading Retailers to Put A.I. Everywhere",
+            "url": "https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/01/19/multimedia/19biz-ai-retail-B1/16biz-ai-retail-tfql-facebookJumbo.jpg",
+            "publishedAt": "2026-01-17T10:02:20Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Techie claims brother made quick F&O profits using Elon Musk's Grok. Internet reacts",
+            "url": "https://www.livemint.com/news/trends/techie-claims-brother-made-quick-f-o-profits-using-elon-musks-grok-internet-reacts-11768642602336.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/17/1600x900/logo/Grok_1768643235263_1768643235424.jpg",
+            "publishedAt": "2026-01-17T09:48:40Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Community-based AI training to benefit over 22,000 nationwide, says Ramanan",
+            "url": "https://www.thestar.com.my/news/nation/2026/01/17/community-based-ai-training-to-benefit-over-22000-nationwide-says-ramanan",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/17/3725125.JPG",
+            "publishedAt": "2026-01-17T09:29:00Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "IITM Pravartak launches second cohort of Applied Artificial Intelligence & Deep Learning programme to accelerate industry adoption",
+            "url": "https://www.timesnownews.com/education/iitm-pravartak-launches-second-cohort-of-applied-artificial-intelligence-deep-learning-programme-to-accelerate-industry-adoption-article-153463397",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-153463397,width-1280,height-720,resizemode-75/153463397.jpg",
+            "publishedAt": "2026-01-17T09:28:19Z"
+        },
+        {
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            },
+            "title": "CM Revanth Reddy to pitch Telangana as global AI testing hub at Davos",
+            "url": "https://www.theweek.in/news/biz-tech/2026/01/17/cm-revanth-reddy-to-pitch-telangana-as-global-ai-testing-hub-at-davos.html",
+            "urlToImage": "https://www.theweek.in/content/dam/week/week/news/biz-tech/images/2026/1/17/telangana-revanth-reddy.jpg",
+            "publishedAt": "2026-01-17T09:27:34Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Balaramakrishna Alti on Building a Zero Trust Kubernetes Security Architecture for Enterprise Microservices",
+            "url": "https://techbullion.com/balaramakrishna-alti-on-building-a-zero-trust-kubernetes-security-architecture-for-enterprise-microservices/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/01/unnamed-58-e1768641439902.jpg",
+            "publishedAt": "2026-01-17T09:17:37Z"
+        },
+        {
+            "source": {
+                "id": "ead461b236347a41a0e3561761126583",
+                "name": "Independent.ie",
+                "url": "https://www.independent.ie",
+                "country": "ie"
+            },
+            "title": "Musk seeks up to $134 billion from OpenAI, Microsoft in 'wrongful gains'",
+            "url": "https://www.independent.ie/world-news/north-america/musk-seeks-up-to-134-billion-from-openai-microsoft-in-wrongful-gains/a615051838.html",
+            "urlToImage": "https://focus.independent.ie/thumbor/NQh7EgEOQmudRyrFn8gs57rKhG0=/629x460/smart/prod-mh-ireland/f9277741-2b3f-48ae-a173-ca76398aafc8/e399d19b-6720-482d-9da5-0a63b46febfb/f9277741-2b3f-48ae-a173-ca76398aafc8.jpg",
+            "publishedAt": "2026-01-17T09:14:55Z"
+        },
         {
             "source": {
                 "id": "7daf04fa6272ed0a29583b211dcfe1d4",
@@ -3420,90 +3504,6 @@
             "url": "https://www.cp24.com/news/world/2026/01/15/wikipedia-unveils-new-ai-licensing-deals-as-it-marks-25th-birthday/",
             "urlToImage": "https://www.cp24.com/resizer/v2/H64QXC4SNWRJS4CPILA5VVNNVI.jpg?smart=true&auth=98aaba91dada40c2489e7e6a75091e3783fe0ae97a0672c1b32eb5d2a43a161b&width=1200&height=630",
             "publishedAt": "2026-01-15T11:06:00Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "AI licensing deal unveiled by Wikipedia on anniversary",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/01/15/wikipedia-unveils-new-ai-licensing-deals-as-it-marks-25th-birthday/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/H64QXC4SNWRJS4CPILA5VVNNVI.jpg?smart=true&auth=98aaba91dada40c2489e7e6a75091e3783fe0ae97a0672c1b32eb5d2a43a161b&width=1200&height=630",
-            "publishedAt": "2026-01-15T11:06:00Z"
-        },
-        {
-            "source": {
-                "id": "105bb16685822879671e4bad332aeec9",
-                "name": "The Mirror",
-                "url": "https://www.mirror.co.uk",
-                "country": "gb"
-            },
-            "title": "AI 'weapon of mass destruction of jobs' warning issued by Sadiq Khan",
-            "url": "https://www.mirror.co.uk/news/politics/ai-weapon-mass-destruction-jobs-36555497",
-            "urlToImage": "https://i2-prod.mirror.co.uk/article35968317.ece/ALTERNATES/s1200/2_2024-Concordia-Annual-Summit-September-25.jpg",
-            "publishedAt": "2026-01-15T11:02:08Z"
-        },
-        {
-            "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
-                "country": "in"
-            },
-            "title": "Amazon Web Services Secures Two-Year Copper Supply Deal with Rio Tinto for AI Data Centers",
-            "url": "https://scanx.trade/stock-market-news/global/amazon-web-services-secures-two-year-copper-supply-deal-with-rio-tinto-for-ai-data-centers/30020476",
-            "urlToImage": "http://news-images.dhan.co/amazon-web-services-secures-two-year-copper-supply-deal-with-rio-tinto-for-ai-data-centers.jpg",
-            "publishedAt": "2026-01-15T11:01:22Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Taiwan chip maker TSMC's to expand investment",
-            "url": "https://www.bnnbloomberg.ca/business/technology/2026/01/15/taiwan-computer-chip-maker-tsmcs-to-expand-investment-as-profit-jumps-35/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/4JPV24TVDIKKA34Q5STNPQ6VAQ.jpg?smart=true&auth=fd3da602bcc20b51d09b03505d03f437b571e6dea14da25b4fb4f6a0993d53c9&width=1200&height=630",
-            "publishedAt": "2026-01-15T10:56:37Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Taiwan chip maker TSMC's to expand investment",
-            "url": "https://www.cp24.com/news/world/2026/01/15/taiwan-computer-chip-maker-tsmcs-to-expand-investment-as-profit-jumps-35/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/4JPV24TVDIKKA34Q5STNPQ6VAQ.jpg?smart=true&auth=fd3da602bcc20b51d09b03505d03f437b571e6dea14da25b4fb4f6a0993d53c9&width=1200&height=630",
-            "publishedAt": "2026-01-15T10:56:37Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Will Budget 2026 boost AI adoption in edtech and adtech?",
-            "url": "https://www.indiatoday.in/business/budget/story/budget-2026-edtech-and-adtech-seek-policy-support-for-ai-led-growth-2852397-2026-01-15",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/ai-15454467-16x9_0.jpeg?VersionId=QjezY2q28an.BYuNltA1drIw1ctjLhOs",
-            "publishedAt": "2026-01-15T10:51:49Z"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Sadiq Khan to warn of ‘mass unemployment’ as AI threatens jobs",
-            "url": "https://www.thetimes.com/uk/politics/article/sadiq-khan-mayor-london-ai-artificial-intelligence-03zprr8fz",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F591490cc-0142-4834-8a16-e8797a7115d3.jpg?crop=3500%2C1969%2C0%2C187&resize=1200",
-            "publishedAt": "2026-01-15T10:33:41Z"
         }
     ]
 }
