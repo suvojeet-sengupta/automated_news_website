@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-01-19T12:40:37.123417Z",
+    "lastUpdatedAt": "2026-01-19T13:41:57.828104Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Macquarie Group Launches AI-Powered Support Assistant for Bank Customers",
+            "url": "https://www.marketscreener.com/news/macquarie-group-launches-ai-powered-support-assistant-for-bank-customers-ce7e58dfdc8af626",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-01-19T01:37:17Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "No Reasons to Own: Software Stocks Sink on Fear of New AI Tool",
+            "url": "https://www.ndtvprofit.com/business/no-reasons-to-own-software-stocks-sink-on-fear-of-new-ai-tool-10776562",
+            "urlToImage": "https://c.ndtvimg.com/2026-01/4e4gskeg_software-stocks_625x300_19_January_26.jpeg",
+            "publishedAt": "2026-01-19T01:25:57Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Richard Lesser at Idea Exchange: ‘It’s in India’s interest to be an innovator in the green economy space, China is already winning’",
+            "url": "https://indianexpress.com/article/idea-exchange/richard-lesser-at-idea-exchange-its-in-indias-interest-to-be-an-innovator-in-the-green-economy-space-china-is-already-winning-10481794/",
+            "urlToImage": "https://images.indianexpress.com/2026/01/SB15richlesser-ideaexchange02.jpg",
+            "publishedAt": "2026-01-19T01:10:16Z"
+        },
+        {
+            "source": {
+                "id": "c477009a98f37b19212d8ae20ce8c018",
+                "name": "POLITICO",
+                "url": "https://www.politico.com",
+                "country": "us"
+            },
+            "title": "Acting CISA chief sought ouster of agency’s chief information officer",
+            "url": "https://www.politico.com/news/2026/01/18/acting-cisa-chief-sought-ouster-of-agencys-chief-information-officer-00735826",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F09%2Fd0c8c5004f36964effbd3a5b1f41%2Fcybersecurity-appointments-72151.jpg",
+            "publishedAt": "2026-01-19T01:00:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -3488,42 +3536,6 @@
             "title": "OpenAI introducing ads to ChatGPT",
             "url": "https://www.mtdemocrat.com/news/national/openai-introducing-ads-to-chatgpt/article_86c94c9d-f7a6-5910-935d-7869da7ea772.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtdemocrat.com/content/tncms/assets/v3/editorial/d/e7/de78458c-f2a3-5da4-8f9d-ee71167b49e1/696a8e55a52dd.image.jpg?resize=300%2C200",
-            "publishedAt": "2026-01-16 19:50:54"
-        },
-        {
-            "source": {
-                "name": "hendersondispatch"
-            },
-            "title": "OpenAI introducing ads to ChatGPT",
-            "url": "https://www.hendersondispatch.com/news/national/openai-introducing-ads-to-chatgpt/article_c0d63a19-83aa-5af7-ba1f-c6bc529bb3a7.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hendersondispatch.com/content/tncms/assets/v3/editorial/a/16/a16bb506-565c-50c2-87eb-216baebd8f60/696a8ea2b54f1.image.jpg?resize=400%2C266",
-            "publishedAt": "2026-01-16 19:50:54"
-        },
-        {
-            "source": {
-                "name": "dailygazette"
-            },
-            "title": "OpenAI introducing ads to ChatGPT",
-            "url": "https://www.dailygazette.com/news/national/openai-introducing-ads-to-chatgpt/article_997a04fc-345c-5c24-a8f6-eee11b0e09e4.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/4/ab/4ab18c1e-0878-564a-aaea-38c877aa05e3/696a8e3d6b1e2.image.jpg?resize=300%2C200",
-            "publishedAt": "2026-01-16 19:50:54"
-        },
-        {
-            "source": {
-                "name": "manchestertimes"
-            },
-            "title": "OpenAI introducing ads to ChatGPT",
-            "url": "https://www.manchestertimes.com/news/national/openai-introducing-ads-to-chatgpt/article_ef27b82b-4b4d-52be-8496-277fc5e87a9b.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/manchestertimes.com/content/tncms/assets/v3/editorial/3/b3/3b36eb7e-977b-503a-82b2-f673a332cf1d/696a8ef888d7d.image.jpg?resize=400%2C266",
-            "publishedAt": "2026-01-16 19:50:54"
-        },
-        {
-            "source": {
-                "name": "rrdailyherald"
-            },
-            "title": "OpenAI introducing ads to ChatGPT",
-            "url": "https://www.rrdailyherald.com/news/national/openai-introducing-ads-to-chatgpt/article_230ac444-2b79-5cca-8c18-98607556980d.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rrdailyherald.com/content/tncms/assets/v3/editorial/b/ac/baceb3b6-9968-573f-9a31-24d0f22e7475/696a8e39473ef.image.jpg?resize=300%2C200",
             "publishedAt": "2026-01-16 19:50:54"
         }
     ]
