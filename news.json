@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-01-20T08:26:43.183599Z",
+    "lastUpdatedAt": "2026-01-20T09:29:09.972500Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI model detects prediabetes using ECG data without need for blood tests",
+            "url": "https://medicalxpress.com/news/2026-01-ai-prediabetes-ecg-blood.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/diacardia-scalable-and.jpg",
+            "publishedAt": "2026-01-19T21:10:05Z"
+        },
         {
             "source": {
                 "id": "1b697445987e8a33f6c82842e17d60d9",
@@ -1320,6 +1332,24 @@
             "url": "https://www.cnbctv18.com/technology/artificial-intelligence-is-making-the-global-wealth-gap-even-worse-ws-l-19823312.htm",
             "urlToImage": "https://images.cnbctv18.com/uploads/2025/11/ai-artificial-intelligence-2-2025-11-52d0068f3c36c565357a06c485a757c0.jpg?im=FitAndFill,width=500,height=300",
             "publishedAt": "2026-01-19T00:01:29Z"
+        },
+        {
+            "source": {
+                "name": "platodata"
+            },
+            "title": "The Weekly Notable Startup Funding Report: 1/19/26",
+            "url": "https://platodata.ai/the-weekly-notable-startup-funding-report-1-19-26/",
+            "urlToImage": "https://platodata.ai/wp-content/uploads/2026/01/the-weekly-notable-startup-funding-report-1-19-26.jpg",
+            "publishedAt": "2026-01-19 21:27:48"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google Gemini AI Adoption Soars: 85B API Calls, 34% Cloud Revenue Jump",
+            "url": "https://www.webpronews.com/google-gemini-ai-adoption-soars-85b-api-calls-34-cloud-revenue-jump/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-6766-1768855704.jpeg",
+            "publishedAt": "2026-01-19 20:48:28"
         },
         {
             "source": {
@@ -3462,42 +3492,6 @@
             "url": "https://www.businesstoday.in/technology/news/story/elon-musks-x-suffers-second-outage-this-week-disrupting-service-in-india-globally-511278-2026-01-16",
             "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202601/696a659fdcc93-the-disruption-also-affected-xais-chatbot-grok--which-is-integrated-into-the-platform-162146551-16x9.jpg",
             "publishedAt": "2026-01-16T16:22:03Z"
-        },
-        {
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            },
-            "title": "Trump To Propose Tech Giants Fund PowerGrid Buildouts, Energy Stocks Swing",
-            "url": "https://www.investors.com/news/trump-energy-auction-electricity-power-ai-demand-tech-bitcoin-miners/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/stock-waterfront-powerplant-adobe.jpg",
-            "publishedAt": "2026-01-16T16:19:13Z"
-        },
-        {
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
-                "country": "in"
-            },
-            "title": "CM Revanth to Launch State’s AI Centre at Davos",
-            "url": "https://www.deccanchronicle.com/southern-states/telangana/cm-revanth-to-launch-states-ai-centre-at-davos-1930769",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/01/16/2000460-cm-2.jpg",
-            "publishedAt": "2026-01-16T16:14:14Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Trump wants tech giants to fund the construction of power plants",
-            "url": "https://www.marketscreener.com/news/trump-wants-tech-giants-to-fund-the-construction-of-power-plants-ce7e58dfd98af127",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-01-16T084848Z_1_LYNXMPEM0F0DI_RTROPTP_3_USA-TRUMP.JPG",
-            "publishedAt": "2026-01-16T16:11:32Z"
         }
     ]
 }
