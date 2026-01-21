@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-01-21T08:26:53.747480Z",
+    "lastUpdatedAt": "2026-01-21T09:29:00.192912Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "ChatGPT gets full marks in 9 Japan unified university entrance exam subjects",
+            "url": "https://japantoday.com/category/tech/chatgpt-gets-full-marks-in-9-japan-unified-univ.-entrance-exam-subjects",
+            "urlToImage": "https://media.japantoday.com/img/store/f8/78/a5ee123e8746a8a537737da4e57df4cccf33/ap23118633232659/_w1700.jpeg",
+            "publishedAt": "2026-01-20T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Google-backed Isomorphic Labs delays clinical trial timeline",
+            "url": "https://www.marketscreener.com/news/google-backed-isomorphic-labs-delays-clinical-trial-timeline-ce7e58ddd88ef422",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-20T201005Z_1_LYNXMPEM0J1BP_RTROPTP_4_DAVOS-MEETING.JPG",
+            "publishedAt": "2026-01-20T20:36:30Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI must translate innovation into popn health impact: Experts",
+            "url": "https://timesofindia.indiatimes.com/city/hyderabad/ai-must-translate-innovation-into-popn-health-impact-experts/articleshow/126847748.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-126847747,width-1280,height-720,imgsize-19224,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-01-20T20:34:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "ServiceNow to Integrate OpenAI Models to Offer AI Agents to Businesses",
+            "url": "https://www.marketscreener.com/news/servicenow-to-integrate-openai-models-to-offer-ai-agents-to-businesses-ce7e58ddd88ef620",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-01-20T20:33:14Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -1863,6 +1911,15 @@
         },
         {
             "source": {
+                "name": "venturebeat"
+            },
+            "title": "MIT’s new ‘recursive’ framework lets LLMs process 10 million tokens without context rot",
+            "url": "https://venturebeat.com/orchestration/mits-new-recursive-framework-lets-llms-process-10-million-tokens-without",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/5Ybr6R81VAO6yoTI3fLOlG/9a42cc8ccddba84b036b42d27f769789/Recursive_language_model.jpg?q=30&w=300",
+            "publishedAt": "2026-01-20 20:30:00"
+        },
+        {
+            "source": {
                 "name": "webpronews"
             },
             "title": "Kubernetes Hits 82% Adoption as De Facto AI OS in Cloud Infrastructure",
@@ -3471,57 +3528,6 @@
             "url": "https://timesofindia.indiatimes.com/city/jaipur/ai-can-assist-but-cannot-replace-creativity-of-human-soul/articleshow/126660897.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-117622040,width-1280,height-720,imgsize-100845,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-01-19T00:36:00Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Insurers embrace AI in tech upgrade",
-            "url": "https://www.bangkokpost.com/business/general/3176559/insurers-embrace-ai-in-tech-upgrade",
-            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/01/16/5928009_700.jpeg",
-            "publishedAt": "2026-01-19T00:03:00Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence is making the global wealth gap even worse",
-            "url": "https://www.cnbctv18.com/technology/artificial-intelligence-is-making-the-global-wealth-gap-even-worse-ws-l-19823312.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2025/11/ai-artificial-intelligence-2-2025-11-52d0068f3c36c565357a06c485a757c0.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2026-01-19T00:01:29Z"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top 10 Emerging Technologies in 2026",
-            "url": "https://www.analyticsinsight.net/tech-news/top-10-emerging-technologies-in-2026",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2026-01-19%2Fflzz5wlt%2FTop-10-Emerging-Technologies-in-2026.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2026-01-19 21:30:00"
-        },
-        {
-            "source": {
-                "name": "platodata"
-            },
-            "title": "The Weekly Notable Startup Funding Report: 1/19/26",
-            "url": "https://platodata.ai/the-weekly-notable-startup-funding-report-1-19-26/",
-            "urlToImage": "https://platodata.ai/wp-content/uploads/2026/01/the-weekly-notable-startup-funding-report-1-19-26.jpg",
-            "publishedAt": "2026-01-19 21:27:48"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google Gemini AI Adoption Soars: 85B API Calls, 34% Cloud Revenue Jump",
-            "url": "https://www.webpronews.com/google-gemini-ai-adoption-soars-85b-api-calls-34-cloud-revenue-jump/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-6766-1768855704.jpeg",
-            "publishedAt": "2026-01-19 20:48:28"
         }
     ]
 }
