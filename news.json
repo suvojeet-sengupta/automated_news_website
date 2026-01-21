@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-01-21T07:24:22.678721Z",
+    "lastUpdatedAt": "2026-01-21T08:26:53.747480Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Legal tech firm Clio hit with countersuit in Alexi trade secrets case",
+            "url": "https://www.reuters.com/legal/government/legal-tech-firm-clio-hit-with-countersuit-alexi-trade-secrets-case-2026-01-20/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/BCOEEUL7IVI55CUNHEWSDL4ZEE.jpg?auth=678b5d38f17b0aae16ca555f5c7d4275cf32e617cac94aed9e823bae03722efb&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-20T20:19:41Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Young workers most worried about AI affecting jobs, Randstad survey shows",
+            "url": "https://japantoday.com/category/tech/young-workers-most-worried-about-ai-affecting-jobs-randstad-survey-shows",
+            "urlToImage": "https://media.japantoday.com/img/store/cc/fa/ebc52b5005fcadbd116479bf6984b758b60e/tag-reuters/_w1700.jpeg",
+            "publishedAt": "2026-01-20T20:15:00Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Machine learning identifies factors that may determine the age of onset of Huntington's disease",
+            "url": "https://medicalxpress.com/news/2026-01-machine-factors-age-onset-huntington.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/machine-learning-to-id.jpg",
+            "publishedAt": "2026-01-20T20:05:42Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "OpenAI rolls out age prediction on ChatGPT",
+            "url": "https://www.reuters.com/technology/openai-rolls-out-age-prediction-chatgpt-2026-01-20/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/AOZMSLNBZZMDPIG3LL4NTY3AJQ.jpg?auth=1e1aba0516a99c57ebb56a76655874b60a2b28d6fee3f15b0f42bcd62a36cfb4&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-20T20:04:40Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Deutsche Bank says the 'honeymoon is over' for AI",
+            "url": "https://www.cnbc.com/2026/01/20/deutsche-bank-says-the-honeymoon-is-over-for-ai.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108242446-17658995342025-12-16t152125z_563921956_rc21p1adh31i_rtrmadp_0_global-chips-equipment.jpeg?v=1765899557&w=1920&h=1080",
+            "publishedAt": "2026-01-20T20:00:01Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Google-backed AI drug discovery startup Isomorphic Labs delays clinical trial timeline",
+            "url": "https://www.marketscreener.com/news/google-backed-ai-drug-discovery-startup-isomorphic-labs-delays-clinical-trial-timeline-ce7e58ddd88cf627",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-20T201005Z_1_LYNXMPEM0J1BP_RTROPTP_4_DAVOS-MEETING.JPG",
+            "publishedAt": "2026-01-20T19:54:49Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Google-backed AI drug discovery startup Isomorphic Labs delays clinical trial timeline",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/google-backed-ai-drug-discovery-startup-isomorphic-labs-delays-clinical-trial-2026-01-20/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-20T19:54:39Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -1781,6 +1865,33 @@
             "source": {
                 "name": "webpronews"
             },
+            "title": "Kubernetes Hits 82% Adoption as De Facto AI OS in Cloud Infrastructure",
+            "url": "https://www.webpronews.com/kubernetes-hits-82-adoption-as-de-facto-ai-os-in-cloud-infrastructure/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-6846-1768940081.jpeg",
+            "publishedAt": "2026-01-20 20:14:45"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "2026 AI Video Detection Advances Combat Misinformation",
+            "url": "https://www.webpronews.com/2026-ai-video-detection-advances-combat-misinformation/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-6842-1768939240.jpeg",
+            "publishedAt": "2026-01-20 20:00:46"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "OpenAI’s Sweetpea: ChatGPT-Powered Earbuds to Rival AirPods in 2026",
+            "url": "https://www.webpronews.com/openais-sweetpea-chatgpt-powered-earbuds-to-rival-airpods-in-2026/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-6841-1768938997.jpeg",
+            "publishedAt": "2026-01-20 19:56:42"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
             "title": "AI Set to Power Enterprise Transformation in 2026 Amid Challenges",
             "url": "https://www.webpronews.com/ai-set-to-power-enterprise-transformation-in-2026-amid-challenges/",
             "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-6832-1768936887.jpeg",
@@ -3411,96 +3522,6 @@
             "url": "https://www.webpronews.com/google-gemini-ai-adoption-soars-85b-api-calls-34-cloud-revenue-jump/",
             "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-6766-1768855704.jpeg",
             "publishedAt": "2026-01-19 20:48:28"
-        },
-        {
-            "source": {
-                "name": "platodata"
-            },
-            "title": "Top Tech News Today, January 19, 2026",
-            "url": "https://platodata.ai/top-tech-news-today-january-19-2026/",
-            "urlToImage": "https://platodata.ai/wp-content/uploads/2026/01/top-tech-news-today-january-19-2026.jpg",
-            "publishedAt": "2026-01-19 18:21:55"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Best Data Science Tools to Learn and Use in 2026",
-            "url": "https://www.analyticsinsight.net/data-science/best-data-science-tools-to-learn-and-use-in-2026",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2026-01-19%2Fj5ltqakz%2FBest-Data-Science-Tools-to-Learn-and-Use-in-2026.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2026-01-19 18:07:21"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Apple’s iOS 27 Prioritizes Stability, AI Enhancements for 2026 Launch",
-            "url": "https://www.webpronews.com/apples-ios-27-prioritizes-stability-ai-enhancements-for-2026-launch/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-6724-1768806617.jpeg",
-            "publishedAt": "2026-01-19 15:00:14"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "Microsoft Wants to Lower Data Center Energy Use. Does That Help the Bull Case for MSFT Stock?",
-            "url": "https://biztoc.com/x/0e7ed18474801cce",
-            "urlToImage": "https://cdn.biztoc.com/0e7ed18474801cce_sq.webp",
-            "publishedAt": "2026-01-19 14:13:10"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Preparing India’s communications networks to support AI",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/preparing-indias-communications-networks-to-support-ai/articleshow/126678049.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,imgsize-110164,width-400,resizemode-4/47529300.jpg",
-            "publishedAt": "2026-01-19 12:00:20"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Exploring the Future of Technology: A Look at ‘Technology Y’ Trends",
-            "url": "https://techannouncer.com/exploring-the-future-of-technology-a-look-at-technology-y-trends/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2026/01/7cc8047fthumbnail-332x187.jpeg",
-            "publishedAt": "2026-01-19 11:16:12"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "IBM Launches Enterprise Advantage Service to Help Businesses Scale Agentic AI",
-            "url": "https://en.prnasia.com/story/519510-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2319830/IBM_LOGO_1.jpg?p=medium600",
-            "publishedAt": "2026-01-19 11:00:00"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "Cracks are appearing in OpenAI’s dominant façade",
-            "url": "https://www.livemint.com/global/cracks-are-appearing-in-openai-s-dominant-faade-11768814211098.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/19/1600x900/logo/OPENAI-STOCK-GRANT--0_1768814510565_1768814523195.JPG",
-            "publishedAt": "2026-01-19 09:23:11"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Helpful & Harmless AI: Alignment Training Improves Performance on Almost All NLP Evaluations",
-            "url": "https://hackernoon.com/helpful-and-harmless-ai-alignment-training-improves-performance-on-almost-all-nlp-evaluations",
-            "urlToImage": "https://hackernoon.imgix.net/images/what-happens-when-ai-learns-from-human-preferences-at-scale-txf1wg0aarwaoxguxqfzhdxv.png",
-            "publishedAt": "2026-01-19 09:00:04"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "OpenAI's Revenue Soars Past $20 Billion After 233% Jump—But Explosive Growth Comes With Massive Compute Costs And A $17 Billion Burn Rate",
-            "url": "https://www.benzinga.com/markets/tech/26/01/49987763/openais-revenue-soars-past-20-billion-after-233-jump-but-explosive-growth-comes-with-massive-compute",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/01/19/OpenAI-Logo-On-Smartphone-Against-Keyboa.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2026-01-19 08:59:09"
         }
     ]
 }
