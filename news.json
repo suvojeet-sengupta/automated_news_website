@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-01-21T13:41:31.440999Z",
+    "lastUpdatedAt": "2026-01-21T14:26:28.554130Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Nvidia’s Huang Plans to Visit China as He Works to Reopen Market",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-21/nvidia-s-huang-plans-to-visit-china-as-he-works-to-reopen-market",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7q0L8Dpa8mE/v1/1200x800.jpg",
+            "publishedAt": "2026-01-21T02:10:00Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Canada AI Dialogue 2026' highlights bilateral cooperation for responsible AI",
+            "url": "https://www.lokmattimes.com/international/india-canada-ai-dialogue-2026-highlights-bilateral-cooperation-for-responsible-ai/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601213645838_202601.jpg",
+            "publishedAt": "2026-01-21T02:01:34Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -108,6 +132,18 @@
             "url": "https://www.manilatimes.net/2026/01/21/tmt-newswire/pr-newswire/hd-hyundai-chairman-chung-kisun-discusses-future-of-ai-and-energy-at-davos-forum/2262332",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/21/906798.jpg",
             "publishedAt": "2026-01-21T00:20:11Z"
+        },
+        {
+            "source": {
+                "id": "78289f4d19c868d072c67a84199f13c5",
+                "name": "The Conversation",
+                "url": "https://theconversation.com",
+                "country": "au"
+            },
+            "title": "Despite its steep environmental costs, AI might also help save the planet",
+            "url": "https://theconversation.com/despite-its-steep-environmental-costs-ai-might-also-help-save-the-planet-272474",
+            "urlToImage": "https://images.theconversation.com/files/712762/original/file-20260115-56-ppnyes.jpg?ixlib=rb-4.1.0&rect=0%2C65%2C3898%2C1949&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2026-01-21T00:00:00Z"
         },
         {
             "source": {
@@ -3483,42 +3519,6 @@
             "url": "https://www.tribuneindia.com/news/business/how-ai-predictive-analytics-are-changing-ocean-freight-planning-explored-by-everfast-freight-forwarders-pvt-ltd/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZhYTk2NmQwLWY0ZmYtMTFmMC1hMDFiLTY5ODE4NmI1ZTViMy5qcGc=",
             "publishedAt": "2026-01-19T06:21:17Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Davos 2026: AI not just about creating content, it can predict road crashes too",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/davos-2026-ai-not-just-about-creating-content-it-can-predict-road-crashes-too/articleshow/126670091.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-126670142,width-1200,height-630,imgsize-1745732,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-01-19T06:16:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Want to learn AI and robotics for free? Check out SWAYAM courses",
-            "url": "https://www.indiatoday.in/education-today/news/story/swayam-free-courses-2026-full-list-of-animation-ai-coding-robotics-and-cloud-classes-2854129-2026-01-19",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/role-of-hr-in-the-age-of-ai-and-robotics-301809836-16x9.jpg?VersionId=ow7F_j2BT6H2IzTkN69pyJj9l9eCG.fC",
-            "publishedAt": "2026-01-19T06:01:11Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI Revolution: Predicting Road Safety with Technology",
-            "url": "https://www.devdiscourse.com/article/technology/3774446-ai-revolution-predicting-road-safety-with-technology",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/29_08_2025_13_06_21_889364.png?width=920&format=jpeg",
-            "publishedAt": "2026-01-19T05:50:34Z"
         }
     ]
 }
