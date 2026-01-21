@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2026-01-21T05:25:29.794520Z",
+    "lastUpdatedAt": "2026-01-21T06:30:28.044433Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Mubadala targets opportunities in AI and robotics, CEO says",
+            "url": "https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/WQTDU3P42RLFZL6D3NOOFCDMFI.jpg?auth=be70f3ebbf33b28c18aa8432b0c84ca850a6c918f70813248aa19306e890b9be&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-20T18:14:49Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "'Here’s the bitter truth': Anupam Mittal’s AI warning divides internet, says 'AI is coming for...' - Trending News",
+            "url": "https://www.financialexpress.com/trending/heres-the-bitter-truth-anupam-mittals-ai-warning-divides-internetnbspsays-ai-is-coming-for/4113900/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/01/Anupam-Mittal-on-artificial-intelligence.png?quality=100",
+            "publishedAt": "2026-01-20T18:03:43Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Selling AI chips to China is like 'selling nuclear weapons to North Korea': Anthropic CEO",
+            "url": "https://nypost.com/2026/01/20/business/selling-ai-chips-to-china-is-like-selling-nuclear-weapons-to-north-korea-anthropic-ceo/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/ceo-co-founder-anthropic-dario-119279296.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-01-20T17:53:34Z"
+        },
+        {
+            "source": {
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
+                "country": "us"
+            },
+            "title": "Palantir's Alex Karp warns World Economic Forum against large-scale immigration",
+            "url": "https://www.foxbusiness.com/technology/palantir-ceo-suggests-ai-bolsters-civil-liberties-warns-europe-falling-behind-us-china",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/alex-karp-davos-2.jpg?ve=1&tl=1",
+            "publishedAt": "2026-01-20T17:51:49Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Why container images have become a trust boundary",
+            "url": "https://techbullion.com/why-container-images-have-become-a-trust-boundary/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/01/CleanStart-Group-e1768931640297.png",
+            "publishedAt": "2026-01-20T17:48:32Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Palantir CEO says AI to make large-scale immigration obsolete",
+            "url": "https://www.mercurynews.com/2026/01/20/palantir-ceo-says-ai-to-make-large-scale-immigration-obsolete/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/12/Palantir_Results_55209.jpg?w=1024&h=683",
+            "publishedAt": "2026-01-20T17:43:11Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI cannot automate science: A philosopher explains the uniquely human aspects of doing research",
+            "url": "https://phys.org/news/2026-01-ai-automate-science-philosopher-uniquely.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/3-ai.jpg",
+            "publishedAt": "2026-01-20T17:38:23Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Most patients support AI to help read mammograms with doctor oversight",
+            "url": "https://medicalxpress.com/news/2026-01-patients-ai-mammograms-doctor-oversight.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/mammogram.jpg",
+            "publishedAt": "2026-01-20T17:28:56Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "DeepMind CEO Says Chinese AI Firms Are 6 Months Behind the West",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-20/deepmind-ceo-says-chinese-ai-firms-are-6-months-behind-the-west",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL6RvMN9DMHE/v1/1200x800.jpg",
+            "publishedAt": "2026-01-20T17:26:53Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -564,6 +672,18 @@
             "url": "https://www.devdiscourse.com/article/law-order/3776253-greece-and-israel-strengthen-ties-against-drone-and-cyber-threats",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/23_07_2025_11_28_14_9433278.png?width=920&format=jpeg",
             "publishedAt": "2026-01-20T12:18:20Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Syngenta Expands Pune Operations to Boost Global Digital Innovation",
+            "url": "https://www.devdiscourse.com/article/technology/3776215-syngenta-expands-pune-operations-to-boost-global-digital-innovation",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/05_08_2024_07_48_47_6407311.png?width=920&format=jpeg",
+            "publishedAt": "2026-01-20T11:53:47Z"
         },
         {
             "source": {
@@ -1596,6 +1716,15 @@
             "url": "https://www.pilotonline.com/2026/01/19/trump-fannie-mae-ad/",
             "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2026/01/Trump_Fannie_Mae_Ad_73852.jpg?w=1024&h=682",
             "publishedAt": "2026-01-20T00:13:54Z"
+        },
+        {
+            "source": {
+                "name": "aboutamazon"
+            },
+            "title": "AWS is committed to customer choice and flexibility, accelerated by AI",
+            "url": "https://www.aboutamazon.com/news/policy-news-views/aws-customer-choice-multicloud-ai-tools",
+            "urlToImage": "https://assets.aboutamazon.com/51/b0/6be5bf96411eb7f7ee59dac96eed/aws-customer-choice-hero-v7-lm-011626-2.jpg",
+            "publishedAt": "2026-01-20 17:45:41"
         },
         {
             "source": {
@@ -3357,138 +3486,6 @@
             "url": "https://www.zdnet.com/article/best-free-ai-courses-and-certificates-for-upskilling/",
             "urlToImage": "https://www.zdnet.com/a/img/resize/29ba7cf863199c334dc8281b5e4dd1f4a07e04cd/2026/01/19/e1fea047-4342-456e-af10-e3a928e37f42/gettyimages-2216163156.jpg?auto=webp&width=1280",
             "publishedAt": "2026-01-19 03:26:00"
-        },
-        {
-            "source": {
-                "id": "0c9364fff53c0e5a3450947d9a54e795",
-                "name": "Daily Mail Online",
-                "url": "https://www.dailymail.co.uk",
-                "country": "gb"
-            },
-            "title": "More than half of Britons are on edge over AI",
-            "url": "https://www.dailymail.co.uk/money/markets/article-15475365/More-half-Britons-edge-AI.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2026/01/18/19/105615345-0-image-m-28_1768764860917.jpg",
-            "publishedAt": "2026-01-18T23:06:30Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Why Human Intelligence Remains Essential In The Age of AI",
-            "url": "https://itwire.com/business-it-news/data/why-human-intelligence-remains-essential-in-the-age-of-ai.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/21ce45ddca867b8221587244beb9b57d_XS.jpg",
-            "publishedAt": "2026-01-18T23:05:43Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "Trump's voice in a new Fannie Mae ad is generated by artificial intelligence, with his permission",
-            "url": "https://www.ajc.com/news/2026/01/trumps-voice-in-a-new-fannie-mae-ad-is-generated-by-artificial-intelligence-with-his-permission/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/XPOUX67DBFDYZCWII4GGWIITDQ.jpg?auth=dac4bb7cce45661f029666e1bfe11506e2ea8980eb35ddb99cac22638cb634e4&width=1200&height=630&smart=true",
-            "publishedAt": "2026-01-18T22:41:24Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Trump’s voice in a new Fannie Mae ad is generated by artificial intelligence, with his permission",
-            "url": "https://wtop.com/business-finance/2026/01/trumps-voice-in-a-new-fannie-mae-ad-is-generated-by-artificial-intelligence-with-his-permission/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/01/Trump_Fannie_Mae_Ad_73852-scaled.jpg",
-            "publishedAt": "2026-01-18T20:20:47Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Trump's voice in a new Fannie Mae ad is generated by artificial intelligence, with his permission",
-            "url": "https://apnews.com/article/trump-voice-ai-housing-fannie-ad-davos-7a792aed20c56bcc3f7b53733ec331ad",
-            "urlToImage": "https://dims.apnews.com/dims4/default/9026d98/2147483647/strip/true/crop/5167x2906+0+269/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2F5d%2Fc7d96ca5af0ed4f787480933f988%2F42e50ac239b04e7dae79d03b442d5ef2",
-            "publishedAt": "2026-01-18T20:19:05Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "Trump's voice in a new Fannie Mae ad is generated by artificial intelligence, with his permission",
-            "url": "https://www.clickondetroit.com/news/politics/2026/01/18/trumps-voice-in-a-new-fannie-mae-ad-is-generated-by-artificial-intelligence-with-his-permission/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ITZIBV6OK5DMTBVAIV7MEVWDUQ.jpg?_a=DATAg1eAZAA0",
-            "publishedAt": "2026-01-18T20:19:04Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Trump's Voice in a New Fannie Mae Ad Is Generated by Artificial Intelligence, With His Permission",
-            "url": "https://www.usnews.com/news/business/articles/2026-01-18/trumps-voice-in-a-new-fannie-mae-ad-is-generated-by-artificial-intelligence-with-his-permission",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/3ef4a2b/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Faa%2F94347ec7f8c0b30972428e3e88289e%2F42e50ac239b04e7dae79d03b442d5ef2Trump_Fannie_Mae_Ad_73852.jpg",
-            "publishedAt": "2026-01-18T20:19:00Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "VRT vs. PLTR: Which AI Stock Scores Wall Street’s ‘Strong Buy’ Rating?",
-            "url": "https://markets.businessinsider.com/news/stocks/vrt-vs-pltr-which-ai-stock-scores-wall-street-s-strong-buy-rating-1035722908",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/01/image-1677.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-01-18T18:29:14Z"
-        },
-        {
-            "source": {
-                "id": "64af9ff6ec07d70d68e9adf4e68843a5",
-                "name": "Sky News",
-                "url": "https://news.sky.com",
-                "country": "gb"
-            },
-            "title": "Asda-owner closes in on £275m deal to buy NCC unit Escode",
-            "url": "https://news.sky.com/story/asda-owner-closes-in-on-275m-deal-to-buy-ncc-unit-escode-13495951",
-            "urlToImage": "https://e3.365dm.com/25/06/1600x900/skynews-stock-cyber-hack_6950483.jpg?20250625150140",
-            "publishedAt": "2026-01-18T18:24:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Ben Affleck says AI won't replace Hollywood writers, calls ChatGPT output \"really….\"",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ben-affleck-says-ai-wont-replace-hollywood-writers-calls-chatgpt-output-really-/articleshow/126657489.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126657489,width-1280,height-720,imgsize-122008,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-01-18T18:05:00Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Tesla or Broadcom: Cathie Wood Trims One Top AI Stock While Betting Bigger on Another",
-            "url": "https://markets.businessinsider.com/news/stocks/tesla-or-broadcom-cathie-wood-trims-one-top-ai-stock-while-betting-bigger-on-another-1035722900",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/01/image-1674-1024x544.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-01-18T17:17:09Z"
         }
     ]
 }
