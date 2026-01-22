@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-22T09:28:46.630090Z",
+    "lastUpdatedAt": "2026-01-22T10:23:19.239190Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "$10 billion data centre planned for Hazelwood in Victoria's Latrobe Valley",
+            "url": "https://www.abc.net.au/news/2026-01-22/keppel-data-centre-latrobe-valley/106123748",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/72e583376d6eed0bf597adb17536db45?impolicy=wcms_watermark_news&cropH=348&cropW=618&xPos=3&yPos=32&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-01-21T21:45:17Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "F5, Inc. (FFIV) Cybersecurity Incident-Related Securities",
+            "url": "https://www.globenewswire.com/news-release/2026/01/21/3223279/32716/en/F5-Inc-FFIV-Cybersecurity-Incident-Related-Securities-Class-Action-Pending-As-Adverse-Financial-Impact-Clarified-Hagens-Berman.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/2c81cd72-0ffb-43c9-9d0f-b622c3e44e43",
+            "publishedAt": "2026-01-21T21:35:53Z"
+        },
+        {
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            },
+            "title": "Hospital cybersecurity in focus",
+            "url": "https://siliconangle.com/2026/01/21/hospital-cybersecurity-attacks-increase-medtechunplugged/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/IMG_2328-1-1-e1769017922141.jpg",
+            "publishedAt": "2026-01-21T21:30:42Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -3513,42 +3549,6 @@
             "url": "https://www.moneycontrol.com/world/trump-shares-ai-map-claiming-canada-greenland-and-venezuela-as-us-territory-why-it-s-so-controversial-article-13781443.html",
             "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/01/20260120091608_Trump-Greenland.jpg",
             "publishedAt": "2026-01-20T09:19:02Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "DeepMind COO Says Davos Offers Chance to Decide How to Shape AI",
-            "url": "https://www.bloomberg.com/news/articles/2026-01-20/deepmind-coo-says-davos-offers-chance-to-decide-how-to-shape-ai",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOizAQsFZR70/v1/1200x800.jpg",
-            "publishedAt": "2026-01-20T09:02:35Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Chinese Chip Companies Dominate Top 10 AI Firms in 2025",
-            "url": "https://www.marketscreener.com/news/chinese-chip-companies-dominate-top-10-ai-firms-in-2025-ce7e58dcdd81f22d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-01-20T09:00:40Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "'Money Is Just A Database': Why Elon Musk Thinks Bitcoin And Swiss Accounts Don’t Matter",
-            "url": "https://www.timesnownews.com/business-economy/industry/money-is-just-a-database-why-elon-musk-thinks-bitcoin-and-swiss-accounts-dont-matter-article-153477384",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153477384,width-1280,height-720,resizemode-75/153477384.jpg",
-            "publishedAt": "2026-01-20T08:48:49Z"
         }
     ]
 }
