@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-01-23T05:24:08.329567Z",
+    "lastUpdatedAt": "2026-01-23T06:28:30.755525Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Teaching and Learning in the Age of A.I.",
+            "url": "https://www.nytimes.com/2026/01/22/opinion/ai-schools.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/12/26/business/03biz-AIschools-globa-inyt/00classroom-chatbots-facebookJumbo.png",
+            "publishedAt": "2026-01-22T18:26:32Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Elon Musk's Bombshell At Davos",
+            "url": "https://www.ndtv.com/world-news/will-have-ai-smarter-than-any-human-by-year-end-elon-musks-bombshell-at-davos-10840212",
+            "urlToImage": "https://c.ndtvimg.com/2026-01/8ie9t49o_elon-musk-afp_625x300_22_January_26.jpeg",
+            "publishedAt": "2026-01-22T18:22:25Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "The ‘off switch’ is an illusion: Why ‘Godfather of AI’ Geoffrey Hinton thinks we have already lost control of it",
+            "url": "https://www.financialexpress.com/life/technology/the-off-switch-is-an-illusion-why-godfather-of-ai-geoffrey-hinton-thinks-we-have-already-lost-control-of-it/4116392/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/01/covers-2026-01-22T234234.878.png?quality=100",
+            "publishedAt": "2026-01-22T18:13:13Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "MSU to offer AI studies across all majors amid push for digital-ready workforce",
+            "url": "https://apnews.com/article/artificial-intelligence-colleges-and-universities-corporate-management-labor-general-news-2cda09ad65f2831bbf3af8d29fe7b582",
+            "urlToImage": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+            "publishedAt": "2026-01-22T18:10:07Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Spotify rolls out an AI feature that generates playlists from emotions and memories",
+            "url": "https://www.marketscreener.com/news/spotify-rolls-out-an-ai-feature-that-generates-playlists-from-emotions-and-memories-ce7e58d3da80ff27",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-09-30T140511Z_1_LYNXNPEL8T0ON_RTROPTP_4_SPOTIFY-TECH.JPG",
+            "publishedAt": "2026-01-22T18:08:01Z"
+        },
+        {
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            },
+            "title": "AI Data Center Play Retakes Key Level As It Builds A Base",
+            "url": "https://www.investors.com/research/artificial-intelligence-data-center-ai-sterling-infrastructure-strl-stock/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/06/Stock-roadbuilding-03-adobe.jpg",
+            "publishedAt": "2026-01-22T18:05:47Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "powered technology in clinics under a new Gates Foundation project",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/rwanda-to-test-ai-powered-technology-in-clinics-under-a-new-gates-foundation-project/articleshow/127182166.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-124688,resizemode-75,msid-127182166/tech/artificial-intelligence/rwanda-to-test-ai-powered-technology-in-clinics-under-a-new-gates-foundation-project.jpg",
+            "publishedAt": "2026-01-22T17:51:04Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "'Probably Wipe Us Out': 'Godfather of AI' Geoffrey Hinton Urges Urgent AI Safeguards, Warns of Existential Risk",
+            "url": "https://www.timesnownews.com/technology-science/probably-wipe-us-out-godfather-of-ai-geoffrey-hinton-urges-urgent-ai-safeguards-warns-of-existential-risk-article-153490713",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-153490713,width-1280,height-720,resizemode-75/153490713.jpg",
+            "publishedAt": "2026-01-22T17:49:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Autodesk cuts 7% of workforce to redirect investments to AI, cloud",
+            "url": "https://economictimes.indiatimes.com/tech/technology/autodesk-cuts-7-of-workforce-to-redirect-investments-to-ai-cloud/articleshow/127181967.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-47216,resizemode-75,msid-127181967/tech/technology/autodesk-cuts-7-of-workforce-to-redirect-investments-to-ai-cloud.jpg",
+            "publishedAt": "2026-01-22T17:48:06Z"
+        },
+        {
+            "source": {
+                "id": "214d496d625fc657723cf4da80cff8ce",
+                "name": "Deccan Chronicle",
+                "url": "https://www.deccanchronicle.com",
+                "country": "in"
+            },
+            "title": "Lokesh Pitches Accenture Global Delivery Centre For Visakhapatnam",
+            "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/lokesh-pitches-accenture-global-delivery-centre-for-visakhapatnam-1932091",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/01/22/2002401-lokesh-manish-sharma.jpg",
+            "publishedAt": "2026-01-22T17:47:11Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Anti-Aircraft Warfare Research Report 2026: $28.24 Bn",
+            "url": "https://www.globenewswire.com/news-release/2026/01/22/3224158/28124/en/Anti-Aircraft-Warfare-Research-Report-2026-28-24-Bn-Market-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2026-01-22T17:29:45Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -1107,6 +1239,18 @@
         },
         {
             "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Harvard offers 7 free data science courses - How to enroll and get certified from the 'World’s top university'",
+            "url": "https://economictimes.indiatimes.com/news/india/harvard-offers-7-free-data-science-courses-how-to-enroll-and-get-certified-from-the-worlds-top-university/slideshow/127120616.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-127120616,width-1200,height-900,overlay-economictimes/slideshow.jpg",
+            "publishedAt": "2026-01-22T07:29:00Z"
+        },
+        {
+            "source": {
                 "id": "f746366686e467440a63dd26dbb72053",
                 "name": "scanx.trade",
                 "url": "https://scanx.trade",
@@ -1716,6 +1860,24 @@
             "url": "https://www.tomsguide.com/phones/iphones/apple-reportedly-revamping-siri-as-companys-first-artificial-intelligence-chatbot-and-it-will-go-well-beyond-the-abilities-of-the-current-siri",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/3NUmVvVVJYCt8soMWhorn7-1000-80.jpg",
             "publishedAt": "2026-01-22T00:04:08Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple to Revamp Siri as ChatGPT-Style AI in iOS 27 with Privacy Focus",
+            "url": "https://www.webpronews.com/apple-to-revamp-siri-as-chatgpt-style-ai-in-ios-27-with-privacy-focus/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-7023-1769062980.jpeg",
+            "publishedAt": "2026-01-22 17:50:08"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple’s AI Wearable Pin: Dual Cameras, Enhanced Siri for 2027 Launch",
+            "url": "https://www.webpronews.com/apples-ai-wearable-pin-dual-cameras-enhanced-siri-for-2027-launch/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-7021-1769062498.jpeg",
+            "publishedAt": "2026-01-22 17:30:07"
         },
         {
             "source": {
@@ -3387,174 +3549,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/01/21/openai-seeks-to-increase-global-ai-use-in-everyday-life-",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/21/3731172.jpg",
             "publishedAt": "2026-01-21T09:06:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "OpenAI seeks to increase global AI use in everyday life",
-            "url": "https://www.marketscreener.com/news/openai-seeks-to-increase-global-ai-use-in-everyday-life-ce7e58dddf81ff27",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-14T180131Z_1_LYNXMPEL3D0UM_RTROPTP_4_OPENAI-CHATGPT.JPG",
-            "publishedAt": "2026-01-21T09:05:35Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "OpenAI seeks to increase global AI use in everyday life",
-            "url": "https://www.reuters.com/business/davos/openai-seeks-increase-global-ai-use-everyday-life-2026-01-21/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/53EOR5WNOFM6PBZDS2U2VHVVTE.jpg?auth=da1bab2eb913dcf3f7068451e8ee42c918203c5ade69143195d6120a1e799989&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-01-21T09:01:46Z"
-        },
-        {
-            "source": {
-                "id": "d5a5a1853c19ba5e406c8ff87abdfd80",
-                "name": "The Quint",
-                "url": "https://www.thequint.com",
-                "country": "in"
-            },
-            "title": "WEF Calls Cyber Fraud ‘Pervasive’ Threat as India Faces Rising Scam Losses",
-            "url": "https://www.thequint.com/news/webqoof/wef-cybersecurity-report-flags-cyber-fraud-as-pervasive-threat",
-            "urlToImage": "https://media.assettype.com/thequint%2F2026-01-21%2Fmo8cagjj%2FAishwarya-WQ-18.jpg?rect=0%2C0%2C1920%2C1008",
-            "publishedAt": "2026-01-21T08:49:43Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Why studying psychology abroad is becoming a smart career bet for Indians",
-            "url": "https://www.indiatoday.in/education-today/study-abroad/story/studying-psychology-abroad-why-indian-students-see-better-career-outcomes-2851943-2026-01-21",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/psychology-courses-abroad-205759163-16x9_0.jpg?VersionId=LE1SzZACgwbQfwxkBN5FuLDYYgvooUa9",
-            "publishedAt": "2026-01-21T08:38:20Z"
-        },
-        {
-            "source": {
-                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
-                "name": "USA Herald",
-                "url": "https://usaherald.com",
-                "country": "us"
-            },
-            "title": "Elon Musk’s xAI Asks Federal Court to Halt California Law Requiring AI Training Data Disclosures, Citing Constitutional Violations",
-            "url": "https://usaherald.com/elon-musks-xai-asks-federal-court-to-halt-california-law-requiring-ai-training-data-disclosures-citing-constitutional-violations/",
-            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-            "publishedAt": "2026-01-21T08:37:09Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Salesforce CEO Marc Benioff to governments across the world: Don't make these ‘suicide mistake' everyone did with Facebook, Instagram and other social media platforms",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-to-governments-across-the-world-dont-make-these-suicide-mistake-everyone-did-with-facebook-instagram-and-other-social-media-platforms/articleshow/126955624.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-126955348,width-1280,height-720,imgsize-33314,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-01-21T08:34:00Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "Spanish President Pedro Sanchez To Visit India Soon: Foreign Minister Jose Manuel Albares",
-            "url": "https://www.republicworld.com/world-news/spanish-president-to-visit-india-soon-foreign-minister-jose-manuel-albares",
-            "urlToImage": "https://img.republicworld.com/all_images/spanish-president-pedro-sanchez-to-visit-india-soon-foreign-minister-jose-manuel-albares-1768984427714-16_9.webp",
-            "publishedAt": "2026-01-21T08:31:16Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "‘Stanford places India as third in terms of AI:’ Ashwini Vaishnaw Pushes Back Against IMF Chief’s ‘Second-Tier AI’ Tag for India",
-            "url": "https://www.republicworld.com/business/ashwini-vaishnaw-pushes-back-against-imf-chiefs-second-tier-ai-tag-for-india",
-            "urlToImage": "https://img.republicworld.com/all_images/at-davos-vaishnaw-rejects-the-imfs-second-tier-ai-label-for-india-1768984004742-16_9.webp",
-            "publishedAt": "2026-01-21T08:26:53Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "At Davos, Ashwini Vaishnaw pushes back after IMF Chief calls India 'Second",
-            "url": "https://www.tribuneindia.com/news/business/at-davos-ashwini-vaishnaw-pushes-back-after-imf-chief-calls-india-second-tier-ai-power/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVhMGFhNTIwLWY2YTEtMTFmMC1hMDFiLTY5ODE4NmI1ZTViMy5qcGc=",
-            "publishedAt": "2026-01-21T08:15:25Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "EU’s Cybersecurity Overhaul Sparks Debate Amid Huawei's Concerns",
-            "url": "https://www.devdiscourse.com/article/technology/3777297-eus-cybersecurity-overhaul-sparks-debate-amid-huaweis-concerns",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_07_2025_16_07_31_6398644.png?width=920&format=jpeg",
-            "publishedAt": "2026-01-21T08:02:45Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Global Economic Cooperation 2026 summit to be held in Mumbai next month",
-            "url": "https://indianexpress.com/article/cities/mumbai/global-economic-cooperation-2026-summit-to-be-held-in-mumbai-next-month-10486429/",
-            "urlToImage": "https://images.indianexpress.com/2026/01/Express-Logo-21_20260121075522.jpg",
-            "publishedAt": "2026-01-21T07:56:35Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Harvard University offers Data Science courses for free, check 7 free courses here",
-            "url": "https://www.hindustantimes.com/education/features/harvard-university-offers-data-science-courses-for-free-check-7-free-courses-here-101768981860062.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/01/21/550x309/USA-TRUMP-HARVARD-2_1761323689219_1761323717015_1768982124141.JPG",
-            "publishedAt": "2026-01-21T07:56:15Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "OpenAI uses AI to detect under 18 users on ChatGPT",
-            "url": "https://www.thenews.com.pk/latest/1389231-openai-uses-ai-to-detect-under-18-users-on-chatgpt",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-01-21/1389231_011301_updates.jpg",
-            "publishedAt": "2026-01-21T07:52:03Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Revamping Power: The NEP 2026 Vision",
-            "url": "https://www.devdiscourse.com/article/business/3777260-revamping-power-the-nep-2026-vision",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_17_04_3595712.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-01-21T07:35:16Z"
         }
     ]
 }
