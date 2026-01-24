@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-01-24T14:16:09.906177Z",
+    "lastUpdatedAt": "2026-01-24T15:16:10.220907Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Demand for agentic AI skills surges; supply falls short by over 50%: Report",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/demand-for-agentic-ai-skills-surges-supply-falls-short-by-over-50-report/articleshow/127354853.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-68370,resizemode-75,msid-127354853/tech/artificial-intelligence/demand-for-agentic-ai-skills-surges-supply-falls-short-by-over-50-report.jpg",
+            "publishedAt": "2026-01-24T02:42:41Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "'Jobs, jobs, jobs' the AI mantra in Davos as fears take back seat",
+            "url": "https://www.marketscreener.com/news/jobs-jobs-jobs-the-ai-mantra-in-davos-as-fears-take-back-seat-ce7e5bdadf81f727",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-23T150415Z_1_LYNXMPEM0M0W0_RTROPTP_4_DAVOS-MEETING.JPG",
+            "publishedAt": "2026-01-24T02:36:21Z"
+        },
         {
             "source": {
                 "id": "95a96a1867c4dac6f720e9d08d4c1b96",
@@ -1839,6 +1863,15 @@
         },
         {
             "source": {
+                "name": "theverge"
+            },
+            "title": "Get ready for the AI ad-pocalypse",
+            "url": "https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Kalshi-AI-ad-hed.png?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2026-01-23 17:26:32"
+        },
+        {
+            "source": {
                 "name": "itpro"
             },
             "title": "What is Microsoft Maia?",
@@ -3531,42 +3564,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-message-to-every-ai-company-to-make-ai-tolerable-for-people-and-governments-we-must-make-sure-/articleshow/127117862.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-127117835,width-1280,height-720,imgsize-164226,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-01-22T07:06:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Perfios Achieves ISO/IEC 42001:2023 Certification for Artificial Intelligence Management System",
-            "url": "https://www.tribuneindia.com/news/business/perfios-achieves-iso-iec-420012023-certification-for-artificial-intelligence-management-system-2-2/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNkYjZkMmYwLWY3NWYtMTFmMC1hMDFiLTY5ODE4NmI1ZTViMy5qcGc=",
-            "publishedAt": "2026-01-22T06:53:49Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "Budget 2026: Cybersecurity, AI Tax Benefits And What More India’s Tech Sector Expects",
-            "url": "https://www.news18.com/tech/budget-2026-cybersecurity-ai-tax-benefits-and-what-more-indias-tech-sector-expects-ws-e-9848326.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/01/image-2026-01-14d718e0919e17c4f5ceca64ba13b9ef-16x9.jpg",
-            "publishedAt": "2026-01-22T06:52:52Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Perfios Achieves ISO/IEC 42001:2023 Certification for Artificial Intelligence Management System",
-            "url": "https://www.tribuneindia.com/news/business/perfios-achieves-iso-iec-420012023-certification-for-artificial-intelligence-management-system/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI1ZTcwYzkwLWY3NWUtMTFmMC1hMDFiLTY5ODE4NmI1ZTViMy5qcGc=",
-            "publishedAt": "2026-01-22T06:50:54Z"
         }
     ]
 }
