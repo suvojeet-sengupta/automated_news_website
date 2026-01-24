@@ -1,6 +1,186 @@
 {
-    "lastUpdatedAt": "2026-01-24T01:19:27.908967Z",
+    "lastUpdatedAt": "2026-01-24T03:23:24.843347Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Is AI hurting your ability to think? How to reclaim your brain",
+            "url": "https://phys.org/news/2026-01-ai-ability-reclaim-brain.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/hand-on-head.jpg",
+            "publishedAt": "2026-01-23T15:15:37Z"
+        },
+        {
+            "source": {
+                "id": "49853ffafc28f405ff8ed06043290ae8",
+                "name": "Global News",
+                "url": "https://globalnews.ca",
+                "country": "ca"
+            },
+            "title": "Ontario watchdogs release strategy for ‘responsible’ use of artificial intelligence",
+            "url": "https://globalnews.ca/news/11634467/ontario-watchdogs-strategy-responsible-use-artificial-intelligence/",
+            "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/01/CP169587010.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2026-01-23T15:06:32Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "'Jobs, jobs, jobs' the AI mantra as fears take back seat in Davos",
+            "url": "https://www.reuters.com/business/davos/jobs-jobs-jobs-ai-mantra-fears-take-back-seat-davos-2026-01-23/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/RPCUEIZX2VIUDO3G4BRY2TCOAM.jpg?auth=2a407d293c96ee8e3c242834490923ea0df1fe6c4f691515a35989097d4a33b8&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-23T15:04:39Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Automotive Cybersecurity Market to Surpass US$28 Billion by",
+            "url": "https://www.globenewswire.com/news-release/2026/01/23/3224917/0/en/Automotive-Cybersecurity-Market-to-Surpass-US-28-Billion-by-2036-Driven-by-SDV-Architecture-and-Regulatory-Compliance.html",
+            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/64c62d27-d17c-4459-8800-c917e20b9343",
+            "publishedAt": "2026-01-23T15:04:36Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "'Jobs, jobs, jobs' the AI mantra as fears take back seat in Davos",
+            "url": "https://www.marketscreener.com/news/jobs-jobs-jobs-the-ai-mantra-as-fears-take-back-seat-in-davos-ce7e5bdada8eff24",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-23T150415Z_1_LYNXMPEM0M0W0_RTROPTP_4_DAVOS-MEETING.JPG",
+            "publishedAt": "2026-01-23T14:59:29Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "AI is overhyped, manufacturing is underrated gold, say Indian founders",
+            "url": "https://www.cnbctv18.com/business/startup/ai-overhyped-manufacturing-underhyped-startup-founders-innovencapital-survey-19827577.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2025/11/ai-artificial-intelligence-9-2025-11-7209c6423e3c458088c7755fb7ea67ba.jpg?im=FitAndFill,width=500,height=300",
+            "publishedAt": "2026-01-23T14:56:49Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "How problem-first AI startups are taking AI from pilots to production",
+            "url": "https://economictimes.indiatimes.com/news/india/how-problem-first-ai-startups-are-taking-ai-from-pilots-to-production/articleshow/127294544.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-127294870,width-1200,height-630,imgsize-38456,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-01-23T14:39:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Brazil court suspends antitrust ruling against Meta over WhatsApp Business",
+            "url": "https://economictimes.indiatimes.com/tech/technology/brazil-court-suspends-antitrust-ruling-against-meta-over-whatsapp-business/articleshow/127294096.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42894,resizemode-75,msid-127294096/tech/technology/brazil-court-suspends-antitrust-ruling-against-meta-over-whatsapp-business.jpg",
+            "publishedAt": "2026-01-23T14:34:38Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Jalgaon: International Conference On AI And Human Cognition Held At North Maharashtra University",
+            "url": "https://www.freepressjournal.in/pune/jalgaon-international-conference-on-ai-and-human-cognition-held-at-north-maharashtra-university",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-01-23/6tkejbii/संगणकशास्त्र-प्रशाळेतील-कॉन्फरन्स-हॉलचे-उद्घाटन.JPG",
+            "publishedAt": "2026-01-23T14:33:05Z"
+        },
+        {
+            "source": {
+                "id": "0f2b6767e87b258740a23ff093dd65a3",
+                "name": "Cult of Mac",
+                "url": "https://www.cultofmac.com",
+                "country": "us"
+            },
+            "title": "Get 88 hours of AI cybersecurity training for just $30",
+            "url": "https://www.cultofmac.com/deals/ai-security-cybersecurity-expert-bundle",
+            "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2026/01/AI-SCE-bundle.jpg.webp",
+            "publishedAt": "2026-01-23T14:30:40Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Brazil court suspends antitrust ruling against Meta over WhatsApp Business",
+            "url": "https://www.marketscreener.com/news/brazil-court-suspends-antitrust-ruling-against-meta-over-whatsapp-business-ce7e5bdada8df025",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-01-23T14:25:49Z"
+        },
+        {
+            "source": {
+                "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
+                "name": "cleveland.com",
+                "url": "https://www.cleveland.com",
+                "country": "us"
+            },
+            "title": "Ohio’s AI policy for schools will likely evolve with technology, DEW says",
+            "url": "https://www.cleveland.com/education/2026/01/ohios-ai-policy-for-schools-will-likely-evolve-with-technology-dew-says.html",
+            "urlToImage": "https://www.cleveland.com/resizer/v2/NFZTYJODKFFOFED4MVWKAFDITE.JPG?auth=0beff23f6b4185141ea50b355e48b37cdfdccbd561b624c541df2c867312bdb9&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-01-23T14:24:41Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "SEALSQ and WISeKey Inaugurate the \"Year of Quantum Security” at Davos",
+            "url": "https://www.manilatimes.net/2026/01/23/tmt-newswire/globenewswire/sealsq-and-wisekey-inaugurate-the-year-of-quantum-security-at-davos/2264379",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/23/910769.png",
+            "publishedAt": "2026-01-23T14:21:55Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Surfshark introduces post-quantum protection and evaluates",
+            "url": "https://www.globenewswire.com/news-release/2026/01/23/3224774/0/en/Surfshark-introduces-post-quantum-protection-and-evaluates-the-quantum-resistance-of-top-apps-only-8-are-resilient.html",
+            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/75b87eb0-cfa7-440b-8c16-4611c7780e8a",
+            "publishedAt": "2026-01-23T13:39:31Z"
+        },
+        {
+            "source": {
+                "id": "82dc94c51bef044035e3d16ef869c7a8",
+                "name": "PhoneArena",
+                "url": "https://www.phonearena.com",
+                "country": "us"
+            },
+            "title": "Hackers are now using AI to make money from your phone, and you won't even notice",
+            "url": "https://www.phonearena.com/news/hackers-are-now-using-ai-to-make-money-from-your-phone-and-you-wont-even-notice_id177610",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/177610-wide-two_1200/Hackers-are-now-using-AI-to-make-money-from-your-phone-and-you-wont-even-notice.jpg",
+            "publishedAt": "2026-01-23T13:21:40Z"
+        },
         {
             "source": {
                 "id": "a6d401909ca644c4ffb332486c9cfaea",
@@ -156,6 +336,18 @@
             "url": "https://www.courant.com/2026/01/23/google-offers-users-option-to-plug-ai-mode-into-their-photos-email-for-more-personalized-answers/",
             "urlToImage": "https://www.courant.com/wp-content/uploads/2026/01/Apple_Google_Artificial_Intelligence_82007_b5f830.jpg?w=1024&h=683",
             "publishedAt": "2026-01-23T11:15:32Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Data Science and Predictive Analytics Market Report 2026 -",
+            "url": "https://www.globenewswire.com/news-release/2026/01/23/3224550/28124/en/Data-Science-and-Predictive-Analytics-Market-Report-2026-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2021-2031.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2026-01-23T11:12:42Z"
         },
         {
             "source": {
@@ -1020,6 +1212,24 @@
             "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/etdavos-2026-india-has-already-arrived-no-longer-an-emerging-market-says-blackstone-ceo-schwarzman/articleshow/127190806.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-127191148,width-1200,height-630,imgsize-3236,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2026-01-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "slashgear"
+            },
+            "title": "Apple's AI Pin Might Actually Be Worth Wearing (No, Hear Me Out)",
+            "url": "https://www.slashgear.com/2082832/apple-rumored-ai-pin-might-be-worth-wearing/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/apples-ai-pin-might-actually-be-worth-wearing-no-hear-me-out/l-intro-1769164987.jpg",
+            "publishedAt": "2026-01-23 15:15:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Saitech Inc. Powering the Next Era of AI: Supermicro B300 AI Server with NVIDIA Blackwell HGX B300 NVL8",
+            "url": "https://www.prnewswire.com/news-releases/saitech-inc-powering-the-next-era-of-ai-supermicro-b300-ai-server-with-nvidia-blackwell-hgx-b300-nvl8-302668906.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2868017/Saitech_Supermicro_B300.jpg?p=original",
+            "publishedAt": "2026-01-23 14:30:00"
         },
         {
             "source": {
@@ -3348,189 +3558,6 @@
             "url": "https://www.webpronews.com/israel-launches-national-ai-supercomputer-with-1000-nvidia-b200-gpus/",
             "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-7009-1769059709.jpeg",
             "publishedAt": "2026-01-22 15:40:07"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "These AI Models Might Take Down Superbugs",
-            "url": "https://www.forbes.com/sites/the-prototype/2026/01/22/these-ai-models-might-take-down-superbugs/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65e7a8c4b178f1843c134af7/0x0.jpg?width=960",
-            "publishedAt": "2026-01-22 15:00:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Optimization Log: How I Pushed a 2,750-Word Guide to 97/100 PageSpeed for AI Search",
-            "url": "https://hackernoon.com/optimization-log-how-i-pushed-a-2750-word-guide-to-97100-pagespeed-for-ai-search",
-            "urlToImage": "https://hackernoon.imgix.net/images/GSu4C2ueMsh3xbMPtT45vcOXroP2-7r53d9c.png",
-            "publishedAt": "2026-01-22 14:51:14"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "Citadel's CEO on the AI boom: 'Is it hype? Of course'",
-            "url": "https://www.businessinsider.com/citadel-ceo-ken-griffin-ai-hype-outpacing-productivity-2026-1",
-            "urlToImage": "https://i.insider.com/69721971e1ba468a96aa7f32?width=700",
-            "publishedAt": "2026-01-22 13:56:46"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "This AI creativity study says you still beat it, if you’re top tier",
-            "url": "https://www.digitaltrends.com/computing/this-ai-creativity-study-says-you-still-beat-it-if-youre-top-tier/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/01/omar-lopez-rincon-Q71kkJHARdg-unsplash-scaled.jpg?resize=1200%2C630",
-            "publishedAt": "2026-01-22 12:35:47"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "WhiteFiber Announces Pricing of Upsized $210.0 Million Convertible Senior Notes Offering",
-            "url": "https://www.prnewswire.com/news-releases/whitefiber-announces-pricing-of-upsized-210-0-million-convertible-senior-notes-offering-302667591.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2745795/WhiteFiber_Logo.jpg?p=original",
-            "publishedAt": "2026-01-22 12:00:00"
-        },
-        {
-            "source": {
-                "name": "firstpost"
-            },
-            "title": "As India marks 77th Republic day, India’s tech growth rise is reshaping its global standing",
-            "url": "https://www.firstpost.com/tech/as-india-marks-77th-republic-day-indias-tech-growth-rise-is-reshaping-its-global-standing-ws-e-13971397.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/01/image-2026-01-6c7fc9fa738af6cf29aceae157a0a00c-1200x675.jpg",
-            "publishedAt": "2026-01-22 11:37:00"
-        },
-        {
-            "source": {
-                "name": "technologyreview"
-            },
-            "title": "Yann LeCun’s new venture is a contrarian bet against large language models",
-            "url": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
-            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/10/AP23165452788339.jpg",
-            "publishedAt": "2026-01-22 10:00:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "'The way that we see it is that AI is a tool to help game developers make better games': Razer CEO Min-Liang Tan champions AI in game development",
-            "url": "https://www.tomsguide.com/ai/the-way-that-we-see-it-is-that-ai-is-a-tool-to-help-game-developers-make-better-games-razer-ceo-min-liang-tan-champions-ai-in-game-development",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/LPRQL5D8hoVSfugthmZsCe-1280-80.jpg",
-            "publishedAt": "2026-01-22 09:30:00"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "What happens when buying outpaces procurement",
-            "url": "https://www.techtarget.com/searcherp/feature/What-happens-when-buying-outpaces-procurement",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/strategy_g1199895713_searchsitetablet_520X173.jpg",
-            "publishedAt": "2026-01-22 08:00:00"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "WEF 2026: Nvidia boss sees 'trillions' in AI spending ahead",
-            "url": "https://www.thehindu.com/sci-tech/technology/davos-2026-nvidia-boss-sees-trillions-in-ai-spending-ahead/article70536348.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/7rfmlq/article70536351.ece/alternates/LANDSCAPE_1200/2025-12-24T223056Z_1915461281_RC21JFAWJBL0_RTRMADP_3_GROQ-M-A-NVIDIA.JPG",
-            "publishedAt": "2026-01-22 05:45:16"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "AI in the Workplace: A Threat to Managers or a Tool for Better Leadership?",
-            "url": "https://hackernoon.com/ai-in-the-workplace-a-threat-to-managers-or-a-tool-for-better-leadership",
-            "urlToImage": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-1n02341.png",
-            "publishedAt": "2026-01-22 05:25:35"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "2026: The Year AI Moves from Promise to Performance",
-            "url": "https://itwire.com/business-it-news/data/2026-the-year-ai-moves-from-promise-to-performance.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/7c344f9cec0ffccc2a65ebc53ff2ebb1_XS.jpg",
-            "publishedAt": "2026-01-21T23:47:51Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Artificial intelligence in manufacturing rocket parts",
-            "url": "https://phys.org/news/2026-01-artificial-intelligence-rocket.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/artificial-intelligenc-4.jpg",
-            "publishedAt": "2026-01-21T23:20:04Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI company Eightfold sued for helping companies secretly score job seekers",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/22/ai-company-eightfold-sued-for-helping-companies-secretly-score-job-seekers",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/22/3732112.jpg",
-            "publishedAt": "2026-01-21T23:20:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Minnesota Department of Human Services Data Breach Claims",
-            "url": "https://www.globenewswire.com/news-release/2026/01/21/3223321/0/en/Minnesota-Department-of-Human-Services-Data-Breach-Claims-Investigated-by-Lynch-Carpenter.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
-            "publishedAt": "2026-01-21T23:15:56Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Griffiths Data Breach Claims Investigated by Lynch",
-            "url": "https://www.globenewswire.com/news-release/2026/01/21/3223317/0/en/Griffiths-Data-Breach-Claims-Investigated-by-Lynch-Carpenter.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
-            "publishedAt": "2026-01-21T23:12:33Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Ingram Micro Data Breach Claims Investigated by Lynch",
-            "url": "https://www.globenewswire.com/news-release/2026/01/21/3223314/0/en/Ingram-Micro-Data-Breach-Claims-Investigated-by-Lynch-Carpenter.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
-            "publishedAt": "2026-01-21T23:02:38Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Insurance Office of America Data Breach Claims Investigated",
-            "url": "https://www.globenewswire.com/news-release/2026/01/21/3223313/0/en/Insurance-Office-of-America-Data-Breach-Claims-Investigated-by-Lynch-Carpenter.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
-            "publishedAt": "2026-01-21T22:59:35Z"
         }
     ]
 }
