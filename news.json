@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-25T17:14:45.717060Z",
+    "lastUpdatedAt": "2026-01-25T18:24:42.048044Z",
     "articles": [
+        {
+            "source": {
+                "id": "e743cde6ee986921721e83d3957862dc",
+                "name": "Zee News",
+                "url": "https://zeenews.india.com",
+                "country": "in"
+            },
+            "title": "WhatsApp Message privacy questioned: New lawsuit highlights whistleblower claims, Meta responds",
+            "url": "https://zeenews.india.com/technology/whatsapp-message-privacy-questioned-new-lawsuit-highlights-whistleblower-claims-meta-responds-3010295.html",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/01/25/1896418-whatsapp.jpg",
+            "publishedAt": "2026-01-25T06:02:24Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Claude Code chief on Anthropic's new AI tool: Non",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/claude-code-chief-on-anthropics-new-ai-tool-nonprogrammers-will-soon-/articleshow/127443137.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-127443137,width-1280,height-720,imgsize-13050,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-01-25T05:50:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "How Americans are using AI at work, according to a new Gallup poll",
+            "url": "https://www.breitbart.com/news/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll/",
+            "urlToImage": "https://media.breitbart.com/media/2026/01/wi/ap/polling-ai-workspace-92365-polling-ai-workspace-art-teacher-joyce-hatzidakis-poses-portrait-640x335.jpg",
+            "publishedAt": "2026-01-25T05:41:27Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -96,6 +132,15 @@
             "url": "https://www.indiatoday.in/education-today/featurephilia/story/will-skills-not-degrees-decide-who-stays-employable-in-the-ai-era-2857222-2026-01-25",
             "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/psychology-courses-abroad-205759163-16x9_1.jpg?VersionId=PiK802c2LvvQu4r7bfKYU9wKdKqIE6rk",
             "publishedAt": "2026-01-25T02:30:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AWS at 20: S3 and EC2 Ignite AI-Powered Cloud Revolution",
+            "url": "https://www.webpronews.com/aws-at-20-s3-and-ec2-ignite-ai-powered-cloud-revolution/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-7486-1769320721.jpeg",
+            "publishedAt": "2026-01-25 05:58:49"
         },
         {
             "source": {
@@ -3498,54 +3543,6 @@
             "url": "https://www.androidheadlines.com/2026/01/new-android-ai-malware-ad-click-fraud-security-alert.html",
             "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/07/Malware-bug-image-3849534859434598.jpg",
             "publishedAt": "2026-01-22T16:22:57Z"
-        },
-        {
-            "source": {
-                "id": "9c405d1007df6628f732c2a8e890b149",
-                "name": "Portland Press Herald",
-                "url": "https://www.pressherald.com",
-                "country": "us"
-            },
-            "title": "Using AI to solve your tech problems | Column",
-            "url": "https://www.pressherald.com/2026/01/22/using-ai-to-solve-your-tech-problems-column/",
-            "urlToImage": "https://www.pressherald.com/wp-content/uploads/sites/4/2025/12/BoomerTECH-banner-for-feature-image-1.jpg?w=364",
-            "publishedAt": "2026-01-22T16:19:33Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Google offers users option to plug AI mode into their photos, email for more personalized answers",
-            "url": "https://wtop.com/lifestyle/2026/01/google-offers-users-option-to-plug-ai-mode-into-their-photos-email-for-more-personalized-answers/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/01/Apple_Google_Artificial_Intelligence_82007-scaled.jpg",
-            "publishedAt": "2026-01-22T16:18:45Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "OpenAI Chair Bret Taylor says AI is “probably” a bubble, predicts market correction",
-            "url": "https://techstartups.com/2026/01/22/openai-chair-bret-taylor-says-ai-is-probably-a-bubble-predicts-market-correction/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2024/10/Sierra-AI-CEO-Bret-Taylor-960x558.jpg",
-            "publishedAt": "2026-01-22T16:18:10Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Google offers users option to plug AI mode into their photos, email for more personalized answers",
-            "url": "https://apnews.com/article/google-search-personal-artificial-intelligence-gemini-95f056c7c4bbd728d931578d3be49d31",
-            "urlToImage": "https://dims.apnews.com/dims4/default/4efbf5e/2147483647/strip/true/crop/3680x2452+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F8c%2F418f779e836ac5583a9ad8bd7b39%2F7311627f144f48a1ae6a7bba0c2ba217",
-            "publishedAt": "2026-01-22T16:17:21Z"
         }
     ]
 }
