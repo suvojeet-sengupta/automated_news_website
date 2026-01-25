@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-01-25T07:18:42.745753Z",
+    "lastUpdatedAt": "2026-01-25T08:22:15.712075Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Meta pauses teen access to AI characters",
+            "url": "https://japantoday.com/category/tech/meta-pauses-teen-access-to-ai-characters",
+            "urlToImage": "https://media.japantoday.com/img/store/f6/23/6f51e29389309cca0c8934bf7c5624b78619/download/_w1700.jpeg",
+            "publishedAt": "2026-01-24T20:20:00Z"
+        },
+        {
+            "source": {
+                "id": "c837db3560dbe304554f10dddd97c3c8",
+                "name": "People.com",
+                "url": "https://people.com",
+                "country": "us"
+            },
+            "title": "Nearly 150 Million Email, Social Accounts Could Be Affected by ‘Stolen Passwords’",
+            "url": "https://people.com/nearly-150-million-gmail-facebook-users-could-be-affected-by-stolen-passwords-11891995",
+            "urlToImage": "https://people.com/thmb/I0cytrh1HfAOv2sgi3hRwNRK8D8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Gmail-phone-012426-125dc4f87248429498adcc32f8429ea2.jpg",
+            "publishedAt": "2026-01-24T19:39:23Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -3531,30 +3555,6 @@
             "url": "https://www.thenews.com.pk/latest/1389403-ai-will-create-jobs-not-just-replace-them-says-nvidia-ceo",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-01-22/1389403_060307_updates.jpg",
             "publishedAt": "2026-01-22T12:53:43Z"
-        },
-        {
-            "source": {
-                "id": "e743cde6ee986921721e83d3957862dc",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com",
-                "country": "in"
-            },
-            "title": "WEF 2026: AI won't replace human jobs, but augment human employees at scale, say experts",
-            "url": "https://zeenews.india.com/technology/wef-2026-ai-wont-replace-human-jobs-but-augment-human-employees-at-scale-say-experts-3009603.html",
-            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/01/22/1895429-wef.jpg",
-            "publishedAt": "2026-01-22T12:52:28Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "DSCI, Rockwell Automation set up operational technology cybersecurity lab",
-            "url": "https://economictimes.indiatimes.com/small-biz/security-tech/technology/dsci-rockwell-automation-set-up-operational-technology-cybersecurity-lab/articleshow/127152213.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-127152256,width-1200,height-630,imgsize-165792,overlay-etrise/articleshow.jpg",
-            "publishedAt": "2026-01-22T12:26:00Z"
         }
     ]
 }
