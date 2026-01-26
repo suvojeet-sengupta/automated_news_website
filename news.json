@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-01-26T20:21:30.250348Z",
+    "lastUpdatedAt": "2026-01-26T21:19:42.417576Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nvidia-Backed AI Startup Synthesia Raises Funding at $4 Billion Valuation",
+            "url": "https://www.marketscreener.com/news/nvidia-backed-ai-startup-synthesia-raises-funding-at-4-billion-valuation-ce7e5bdbd88eff24",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-01-26T09:15:29Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "SOFTSWISS Appoints Chief Artificial Intelligence Officer",
+            "url": "https://www.prnewswire.co.uk/news-releases/softswiss-appoints-chief-artificial-intelligence-officer-302668031.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2866433/SOFTSWISS_Chief_AI_Officer_Denis_Romanovskiy.jpg?p=facebook",
+            "publishedAt": "2026-01-26T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "AI is hitting UK harder than other big economies, study finds",
+            "url": "https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia",
+            "urlToImage": "https://i.guim.co.uk/img/media/3b18b09c0ec0f30881cf1f8a446df26abc463dd7/435_0_4386_3508/master/4386.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b19e1bcd5a193bde56fbf1a862c0c21",
+            "publishedAt": "2026-01-26T08:41:54Z"
+        },
+        {
+            "source": {
+                "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+                "name": "Rappler",
+                "url": "https://www.rappler.com",
+                "country": "ph"
+            },
+            "title": "Meta's Reality Labs layoffs show the harsh pivot from virtual reality to AI",
+            "url": "https://www.rappler.com/technology/features/meta-reality-labs-layoffs-pivot-virtual-reality-artificial-intelligence/",
+            "urlToImage": "https://www.rappler.com/tachyon/2026/01/virtual-reality-AI-graphics.jpg",
+            "publishedAt": "2026-01-26T08:22:21Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -3447,54 +3495,6 @@
             "url": "https://www.moneycontrol.com/news/business/information-technology/davos-2026-accenture-to-set-up-bengaluru-lab-focused-on-physical-ai-robotics-security-13787237.html",
             "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/03/20250321125458_Accenture.jpg",
             "publishedAt": "2026-01-23T04:17:50Z"
-        },
-        {
-            "source": {
-                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
-                "name": "CBC.ca",
-                "url": "https://www.cbc.ca",
-                "country": "ca"
-            },
-            "title": "Canada Pension Plan's investment arm criticized over funding for Elon Musk's xAI, maker of Grok",
-            "url": "https://www.cbc.ca/news/business/cppib-xai-infrstructure-funding-musk-9.7057078",
-            "urlToImage": "https://i.cbc.ca/ais/dff4e9cb-c599-41e9-be15-731bf5231b0b,1769134309289/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C246%2C4724%2C2657%29%3BResize%3D620",
-            "publishedAt": "2026-01-23T03:31:56Z"
-        },
-        {
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            },
-            "title": "Is Your AI an ROI Disappointment? You're Probably Aiming Too Low",
-            "url": "https://www.ibtimes.com/your-ai-roi-disappointment-youre-probably-aiming-too-low-3796123",
-            "urlToImage": "https://d.ibtimes.com/en/full/4641571/your-ai-roi-disappointment.jpg",
-            "publishedAt": "2026-01-23T03:31:38Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Google offers users option to plug AI mode into their photos, email for more personalised answers",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/23/google-offers-users-option-to-plug-ai-mode-into-their-photos-email-for-more-personalised-answers",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/23/3733955.jpg",
-            "publishedAt": "2026-01-23T03:00:00Z"
-        },
-        {
-            "source": {
-                "id": "79baacd62152cf257ee35e8c0bec19a2",
-                "name": "UPI News",
-                "url": "https://www.upi.com",
-                "country": "us"
-            },
-            "title": "Nvidia CEO Huang says AI buildout needs trillions more",
-            "url": "https://www.upi.com/Top_News/World-News/2026/01/22/nvidia-ceo-speaks-ai-infra-davos/1441769136467/",
-            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi_com/1441769136467/2026/1/ed3773e45726432d98b04e12bdfe5e7c/v1.5/Nvidia-CEO-Huang-says-AI-buildout-needs-trillions-more.jpg",
-            "publishedAt": "2026-01-23T02:55:42Z"
         }
     ]
 }
