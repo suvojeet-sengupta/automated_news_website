@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-26T01:28:00.469699Z",
+    "lastUpdatedAt": "2026-01-26T03:53:00.256843Z",
     "articles": [
+        {
+            "source": {
+                "id": "602d1de710d66397a00201d8efdd36ee",
+                "name": "Inc. Magazine",
+                "url": "https://www.inc.com",
+                "country": "us"
+            },
+            "title": "Choose the Human Path for AI",
+            "url": "https://www.inc.com/rick-locke/choose-the-human-path-for-ai/91290019",
+            "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/01/human-ai-future-inc-1269091537.jpg",
+            "publishedAt": "2026-01-25T14:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "AI Healthcare Models Should Be Tested On Diverse Populations To Ensure Trust And Accuracy, Says NHA CEO",
+            "url": "https://www.ndtv.com/health/ai-healthcare-models-should-be-tested-on-diverse-populations-to-ensure-trust-and-accuracy-says-nha-ceo-10881617",
+            "urlToImage": "https://c.ndtvimg.com/2026-01/b92u4nfo_ai-in-healthcare-services_625x300_20_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2026-01-25T13:40:08Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Bill Gates warns investors: Not all companies will be ...",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-warns-investors-not-all-companies-will-be-/articleshow/127478442.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-127478437,width-1280,height-720,imgsize-36848,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-01-25T13:28:00Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -372,6 +408,42 @@
             "url": "https://www.indiatoday.in/education-today/featurephilia/story/will-skills-not-degrees-decide-who-stays-employable-in-the-ai-era-2857222-2026-01-25",
             "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/psychology-courses-abroad-205759163-16x9_1.jpg?VersionId=PiK802c2LvvQu4r7bfKYU9wKdKqIE6rk",
             "publishedAt": "2026-01-25T02:30:00Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "'Need more innovations and technologies from India': CES Director John T Kelley",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/need-more-innovations-and-technologies-from-india-ces-director-john-t-kelley/articleshow/127479715.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-127480193,imgsize-22260,width-400,resizemode-4/127480193.jpg",
+            "publishedAt": "2026-01-25 14:00:03"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Why Clean Data is Essential for Reliable Agentic AI Autonomy",
+            "url": "https://www.webpronews.com/why-clean-data-is-essential-for-reliable-agentic-ai-autonomy/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-7518-1769348491.jpeg",
+            "publishedAt": "2026-01-25 13:41:35"
+        },
+        {
+            "source": {
+                "name": "nbcnewyork"
+            },
+            "title": "How Americans are using AI at work, according to a new Gallup poll",
+            "url": "https://www.nbcnewyork.com/news/national-international/how-americans-are-using-ai-at-work/6449448/",
+            "urlToImage": "https://media.nbcnewyork.com/2026/01/AP26022717746605.jpg?fit=3882%2C2596&quality=85&strip=all",
+            "publishedAt": "2026-01-25 13:31:07"
+        },
+        {
+            "source": {
+                "name": "nbcphiladelphia"
+            },
+            "title": "How Americans are using AI at work, according to a new Gallup poll",
+            "url": "https://www.nbcphiladelphia.com/news/national-international/how-americans-are-using-ai-at-work/4339063/",
+            "urlToImage": "https://media.nbcphiladelphia.com/2026/01/AP26022717746605.jpg?fit=3882%2C2596&quality=85&strip=all",
+            "publishedAt": "2026-01-25 13:31:07"
         },
         {
             "source": {
@@ -3426,90 +3498,6 @@
             "url": "https://www.bloomberg.com/opinion/articles/2026-01-22/forget-deepseek-dying-alone-is-china-s-latest-tech-obsession",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaoMXrJALPx4/v1/1200x800.jpg",
             "publishedAt": "2026-01-22T20:00:32Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Case Study: How Competitive Intelligence Supported an AI Platform Company in Benchmarking Competitor Capabilities and Go-To-Market Strategy",
-            "url": "https://www.manilatimes.net/2026/01/23/tmt-newswire/globenewswire/case-study-how-competitive-intelligence-supported-an-ai-platform-company-in-benchmarking-competitor-capabilities-and-go-to-market-strategy/2263889",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/23/909841.png",
-            "publishedAt": "2026-01-22T19:48:11Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "How Competitive Intelligence Supported an AI",
-            "url": "https://www.globenewswire.com/news-release/2026/01/22/3224219/0/en/Case-Study-How-Competitive-Intelligence-Supported-an-AI-Platform-Company-in-Benchmarking-Competitor-Capabilities-and-Go-To-Market-Strategy.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-            "publishedAt": "2026-01-22T19:41:20Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Firms must invest in real people to gain from AI, EY's Teigland says",
-            "url": "https://www.reuters.com/business/davos/firms-must-invest-real-people-gain-ai-eys-teigland-says-2026-01-22/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/3CERJUJZVZKOREQWDT2TMLM4LA.jpg?auth=07cb2be37c343297b2a73c37d6274efe5041a52e812594fdc6eb8da6e212c0e6&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-01-22T19:16:21Z"
-        },
-        {
-            "source": {
-                "id": "d4773b92da0613b8ffc2fc9c46229534",
-                "name": "Business Wire",
-                "url": "https://www.businesswire.com",
-                "country": "us"
-            },
-            "title": "Clutch Report: 65% of Consumers Use AI to Research Products Before Making a Purchase",
-            "url": "https://www.businesswire.com/news/home/20260122526477/en/Clutch-Report-65-of-Consumers-Use-AI-to-Research-Products-Before-Making-a-Purchase",
-            "urlToImage": "https://www.businesswire.com/bw-logo.png",
-            "publishedAt": "2026-01-22T19:08:00Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "Retailers fight return fraud with artificial intelligence",
-            "url": "https://www.cbsnews.com/losangeles/news/retailers-fight-return-fraud-with-artificial-intelligence/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/22/3a7e7208-6800-47d9-a29f-7601840e21f8/thumbnail/1200x630/c07a307744493e3638692644bf115c64/retail-return.jpg",
-            "publishedAt": "2026-01-22T19:06:23Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "How retailers are using AI to stop return fraud",
-            "url": "https://www.cbsnews.com/news/retailers-fight-return-fraud-with-artificial-intelligence/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/22/3a7e7208-6800-47d9-a29f-7601840e21f8/thumbnail/1200x630/c07a307744493e3638692644bf115c64/retail-return.jpg",
-            "publishedAt": "2026-01-22T19:06:00Z"
-        },
-        {
-            "source": {
-                "id": "b683218c3952d77a76b7bda7512f2f6e",
-                "name": "WIRED",
-                "url": "https://www.wired.com",
-                "country": "us"
-            },
-            "title": "AI-Powered Disinformation Swarms Are Coming for Democracy",
-            "url": "https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/",
-            "urlToImage": "https://media.wired.com/photos/6971357462fa2c2cfc6a6d92/191:100/w_1280,c_limit/Agentic-AI-Poised-to-Undermine-Democracy-Business-144226516.jpg",
-            "publishedAt": "2026-01-22T19:00:00Z"
         }
     ]
 }
