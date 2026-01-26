@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-26T08:27:16.832293Z",
+    "lastUpdatedAt": "2026-01-26T09:30:08.904531Z",
     "articles": [
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "Trump pushes AI data centers, but the GOP is cool to one in Alabama",
+            "url": "https://www.bostonglobe.com/2026/01/25/nation/trump-pushes-ai-data-centers-gop-is-cool-one-alabama/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/BSOVR4XCHCF7ZU3DMRXQ4SBHBY.jpg?auth=fece7a28cfd139ea66fec3b61d7ea178b9e3833f959195019c4e16a2f8e7479e&width=1440",
+            "publishedAt": "2026-01-25T20:45:41Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "How Americans are using AI at work, according to a new Gallup poll",
+            "url": "https://www.bostonglobe.com/2026/01/25/nation/how-americans-are-using-ai-work-according-new-gallup-poll/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/X36BWZMRAXYGOXQU3U3DHFXBU4.jpg?auth=06a0c339079587539d488d2bb890c42f7c8209459a8aadc6b30d682459266627&width=1440",
+            "publishedAt": "2026-01-25T20:34:14Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Dazzling Chinese AI debuts mask growing pains",
+            "url": "https://japantoday.com/category/tech/dazzling-chinese-ai-debuts-mask-growing-pains",
+            "urlToImage": "https://media.japantoday.com/img/store/9a/1a/e15da7abe2f99d432d44a0681350b383f0b3/bf7d33a2d73e95774531940447f21952c29b1008/_w1700.jpeg",
+            "publishedAt": "2026-01-25T20:31:00Z"
+        },
         {
             "source": {
                 "id": "091dc78b9d3467c25d28c392b1c1c4c2",
@@ -279,6 +315,18 @@
         },
         {
             "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Mint Explainer | What India's push for AI in medical education means for healthcare",
+            "url": "https://www.livemint.com/education/nbems-ai-training-program-medical-students-india-11769312871888.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/25/1600x900/logo/gf23d17007aa3bbab8a7b2fd14cedc50e9735f66f6114a5a1d_1769325819265_1769325819376.jpg",
+            "publishedAt": "2026-01-25T08:22:39Z"
+        },
+        {
+            "source": {
                 "id": "c8c865ed042eb14694b8d596e22efe99",
                 "name": "Spokane Spokesman-Review",
                 "url": "https://www.spokesman.com",
@@ -480,6 +528,24 @@
             "url": "https://www.indiatoday.in/education-today/featurephilia/story/will-skills-not-degrees-decide-who-stays-employable-in-the-ai-era-2857222-2026-01-25",
             "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/psychology-courses-abroad-205759163-16x9_1.jpg?VersionId=PiK802c2LvvQu4r7bfKYU9wKdKqIE6rk",
             "publishedAt": "2026-01-25T02:30:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The Great AGI Divide: AI’s Top Minds Clash in Davos Over Tech’s Final Frontier",
+            "url": "https://www.webpronews.com/the-great-agi-divide-ais-top-minds-clash-in-davos-over-techs-final-frontier/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-7738-1769376193.jpeg",
+            "publishedAt": "2026-01-25 21:23:20"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The Trillion-Dollar Decoupling: Inside Europe’s High-Stakes Push to Unplug from Silicon Valley",
+            "url": "https://www.webpronews.com/the-trillion-dollar-decoupling-inside-europes-high-stakes-push-to-unplug-from-silicon-valley/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-7728-1769374979.jpeg",
+            "publishedAt": "2026-01-25 21:03:06"
         },
         {
             "source": {
@@ -3414,78 +3480,6 @@
             "url": "https://www.telegraphindia.com/india/election-commission-launches-ecinet-app-merging-40-voter-services-amid-data-security-concerns-prnt/cid/2143945",
             "urlToImage": "https://assets.telegraphindia.com/telegraph/2026/Jan/1769124215_new-project-2026-01-23t043028-500.jpg",
             "publishedAt": "2026-01-22T23:24:26Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Claroty announces James Love as new Chief Revenue Officer",
-            "url": "https://itwire.com/it-people-news/people-moves/claroty-announces-james-love-as-new-chief-revenue-officer.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/fd79a55101df4dbe88503ff34275650e_XS.jpg",
-            "publishedAt": "2026-01-22T23:17:26Z"
-        },
-        {
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "The Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            },
-            "title": "3 super ASX ETFs for easy investing in AI",
-            "url": "https://www.fool.com.au/2026/01/23/3-super-asx-etfs-for-easy-investing-in-ai/",
-            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/01/tech-shares.jpg",
-            "publishedAt": "2026-01-22T22:43:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Diversified Business Services Data Breach Claims",
-            "url": "https://www.globenewswire.com/news-release/2026/01/22/3224327/0/en/Diversified-Business-Services-Data-Breach-Claims-Investigated-by-Lynch-Carpenter.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
-            "publishedAt": "2026-01-22T22:09:50Z"
-        },
-        {
-            "source": {
-                "id": "b683218c3952d77a76b7bda7512f2f6e",
-                "name": "WIRED",
-                "url": "https://www.wired.com",
-                "country": "us"
-            },
-            "title": "Legislators Push to Make Companies Tell Customers When Their Products Will Die",
-            "url": "https://www.wired.com/story/legislators-push-to-make-companies-tell-customers-when-their-products-will-die/",
-            "urlToImage": "https://media.wired.com/photos/697178877652d9ccd39ce969/191:100/w_1280,c_limit/2-New-Massachusetts-Bills-Aim-to-Keep-Smart-Devices-Online-Gear-2248296682.jpg",
-            "publishedAt": "2026-01-22T22:04:18Z"
-        },
-        {
-            "source": {
-                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-                "name": "Washington Examiner",
-                "url": "https://www.washingtonexaminer.com",
-                "country": "us"
-            },
-            "title": "Paris Hilton teams up with AOC to push House to pass stalled AI deepfake porn bill",
-            "url": "https://www.washingtonexaminer.com/news/house/4430263/paris-hilton-teams-up-alexandria-ocasio-cortez-push-house-pass-stalled-artificial-intelligence-deepfake-pornography-bill/",
-            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2026/01/GettyImages-2257655673.jpg?resize=1200,683",
-            "publishedAt": "2026-01-22T21:55:05Z"
-        },
-        {
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
-                "country": "us"
-            },
-            "title": "Industrial cybersecurity startup Claroty nabs $150M funding round",
-            "url": "https://siliconangle.com/2026/01/22/industrial-cybersecurity-startup-claroty-nabs-150m-funding-round/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Image1.jpg",
-            "publishedAt": "2026-01-22T21:34:12Z"
         }
     ]
 }
