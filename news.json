@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-26T21:19:42.417576Z",
+    "lastUpdatedAt": "2026-01-26T22:18:01.350154Z",
     "articles": [
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "'Jobs, jobs, jobs' the AI mantra in Davos",
+            "url": "https://www.rte.ie/news/business/2026/0126/1555100-jobs-jobs-jobs-the-ai-mantra-in-davos/",
+            "urlToImage": "https://www.rte.ie/images/0023c417-1600.jpg",
+            "publishedAt": "2026-01-26T10:14:17Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Silicon Valley Wants to Build A.I. That Can Improve A.I. on Its Own",
+            "url": "https://www.nytimes.com/2026/01/26/technology/recursive-ai-ricursive.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/01/26/multimedia/26biz-ricursive-ai-vbwq/26biz-ricursive-ai-vbwq-facebookJumbo.jpg",
+            "publishedAt": "2026-01-26T10:02:25Z"
+        },
+        {
+            "source": {
+                "id": "3d24c816061d69b2e23b8583aed9b447",
+                "name": "Euronews",
+                "url": "https://www.euronews.com",
+                "country": "fr"
+            },
+            "title": "EU and AI: Is it a lost battle? Take our poll",
+            "url": "https://www.euronews.com/my-europe/2026/01/26/eu-and-ai-is-it-a-lost-battle-take-our-poll",
+            "urlToImage": "https://images.euronews.com/articles/stories/09/61/76/29/1200x675_cmsv2_89546885-5a57-5ec4-9a15-6885b5dd4580-9617629.jpg",
+            "publishedAt": "2026-01-26T09:23:20Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -336,6 +372,18 @@
             "url": "https://www.bloomberg.com/news/articles/2026-01-26/myr-usd-malaysia-ringgit-poised-for-highest-level-since-2018-on-ai-optimism",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilUO.SP2HinY/v0/1200x800.jpg",
             "publishedAt": "2026-01-26T00:10:14Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "PlasticEnz: An integrated database and screening tool combining homology and machine learning to identify plastic-degrading enzymes in meta-omics datasets",
+            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013892",
+            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013892.g007&size=inline",
+            "publishedAt": "2026-01-26T00:00:00Z"
         },
         {
             "source": {
@@ -3447,54 +3495,6 @@
             "url": "https://www.tribuneindia.com/news/business/look-forward-to-continuing-our-conversation-at-summit-google-deepmind-ceo-after-meeting-with-ashwini-vaishnaw-in-davos/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBiODMzNWQwLWY4MTctMTFmMC1hMDFiLTY5ODE4NmI1ZTViMy5qcGc=",
             "publishedAt": "2026-01-23T04:50:25Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Spotify launches AI-driven 'prompted playlist' for premium users in US, Canada",
-            "url": "https://www.thehindu.com/sci-tech/technology/spotify-launches-ai-driven-prompted-playlist-for-premium-users-in-us-canada/article70540844.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/s4i1kd/article70540846.ece/alternates/LANDSCAPE_1200/2026-01-15T112524Z_1227293390_RC2EQ4A0T5FG_RTRMADP_3_SPOTIFY-TECH-PRICES.JPG",
-            "publishedAt": "2026-01-23T04:44:08Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "South Korean law to regulate AI takes effect",
-            "url": "https://www.thehindu.com/sci-tech/technology/south-korean-law-to-regulate-ai-takes-effect/article70540858.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/ozm6cm/article70540859.ece/alternates/LANDSCAPE_1200/2026-01-02T000016Z_1718283288_RC22MHAQ3KPL_RTRMADP_3_CHINA-SOUTHKOREA.JPG",
-            "publishedAt": "2026-01-23T04:38:03Z"
-        },
-        {
-            "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
-                "country": "in"
-            },
-            "title": "Accenture to Launch Robotics and Physical AI Security Lab in Bengaluru",
-            "url": "https://scanx.trade/stock-market-news/stocks/accenture-to-launch-robotics-and-physical-ai-security-lab-in-bengaluru/30688668",
-            "urlToImage": "http://news-images.dhan.co/accenture-to-launch-robotics-and-physical-ai-security-lab-in-bengaluru.jpg",
-            "publishedAt": "2026-01-23T04:37:48Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Davos 2026: Accenture to set up Bengaluru lab focused on physical AI, robotics security",
-            "url": "https://www.moneycontrol.com/news/business/information-technology/davos-2026-accenture-to-set-up-bengaluru-lab-focused-on-physical-ai-robotics-security-13787237.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/03/20250321125458_Accenture.jpg",
-            "publishedAt": "2026-01-23T04:17:50Z"
         }
     ]
 }
