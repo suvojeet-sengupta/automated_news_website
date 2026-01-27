@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-01-27T09:28:38.523792Z",
+    "lastUpdatedAt": "2026-01-27T10:23:12.610815Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "EU Probes Musk's AI Chatbot Grok Over Sexual Deepfakes",
+            "url": "https://www.newsmax.com/world/globaltalk/elon-musk-x-grok/2026/01/26/id/1243636/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=92662f95-3fe8-4f26-85e6-a585ca919689&SiteName=Newsmax",
+            "publishedAt": "2026-01-26T22:06:43Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Advanced Technology International to Manage Maritime Advanced Technology Accelerator Consortium (MATAC) OTA",
+            "url": "https://www.manilatimes.net/2026/01/27/tmt-newswire/globenewswire/advanced-technology-international-to-manage-maritime-advanced-technology-accelerator-consortium-matac-ota/2265579",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/27/913379.jpg",
+            "publishedAt": "2026-01-26T21:54:42Z"
+        },
+        {
+            "source": {
+                "id": "4300aa22a5f803b09a37ff0632b44685",
+                "name": "The daily Star",
+                "url": "https://www.dailystar.co.uk",
+                "country": "gb"
+            },
+            "title": "Katie Price's new husband Lee Andrews accused of faking celebrity photos with AI",
+            "url": "https://www.dailystar.co.uk/showbiz/katie-prices-new-husband-lee-36619353",
+            "urlToImage": "https://i2-prod.dailystar.co.uk/article36617910.ece/ALTERNATES/s1200/3_lee-andrews-katie-Price.jpg",
+            "publishedAt": "2026-01-26T21:54:13Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "collar work will increase': Is the AI boom redefining career success?",
+            "url": "https://timesofindia.indiatimes.com/education/careers/news/nvidia-ceo-jensen-huang-says-the-value-of-blue-collar-work-will-increase-is-the-ai-boom-redefining-career-success/articleshow/127559175.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-127559404,width-1280,height-720,imgsize-53354,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-01-26T21:30:00Z"
+        },
         {
             "source": {
                 "id": "85e5403407038478a5e7d8d100ff8e8f",
@@ -3396,54 +3444,6 @@
             "url": "https://www.pilotonline.com/2026/01/23/new-wm-integrated-science-building-will-allow-for-more-opportunity/",
             "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2026/01/ISC4-012226-3123.jpg?w=1024&h=683",
             "publishedAt": "2026-01-23T19:38:11Z"
-        },
-        {
-            "source": {
-                "id": "0c9364fff53c0e5a3450947d9a54e795",
-                "name": "Daily Mail Online",
-                "url": "https://www.dailymail.co.uk",
-                "country": "gb"
-            },
-            "title": "Urgent warning to Gmail users as 149 million usernames and passwords are exposed: Take action NOW",
-            "url": "https://www.dailymail.co.uk/sciencetech/article-15492661/Gmail-users-usernames-passwords-exposed.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2026/01/23/19/99349599-0-The_dataset_includes_1_957_476_021_unique_email_addresses_and_1_-a-9_1769195457258.jpg",
-            "publishedAt": "2026-01-23T19:11:08Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "AI, digital health transforming medical education: AMC principal",
-            "url": "https://www.nation.com.pk/24-Jan-2026/ai-digital-health-transforming-medical-education-amc-principal",
-            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-            "publishedAt": "2026-01-23T19:00:00Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Riemann Computing Launches OpenPeer AI to Boost Efficiency in Machine Learning",
-            "url": "https://markets.businessinsider.com/news/currencies/riemann-computing-launches-openpeer-ai-to-boost-efficiency-in-machine-learning-1035742120",
-            "urlToImage": "https://app.financewire.com/storage/uploads/users/7180e12cee0eaf4443c690e9960239a0_1768589701flMd4FmdxW.jpg",
-            "publishedAt": "2026-01-23T18:44:46Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI Startup Recursive in Funding Talks at $4 Billion Valuation",
-            "url": "https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.qlz0SbNMhs/v0/1200x800.jpg",
-            "publishedAt": "2026-01-23T18:29:09Z"
         }
     ]
 }
