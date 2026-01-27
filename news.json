@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-01-27T05:23:37.096822Z",
+    "lastUpdatedAt": "2026-01-27T06:29:11.047438Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "How AI adoption is accelerating across American workplaces",
+            "url": "https://www.latimes.com/business/story/2026-01-26/how-ai-adoption-is-accelerating-across-american-workplaces",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/729ab2b/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2F9b%2F4811c3da464cba9cd8ac98511b18%2Fbda6b9e6dbca49ceaa6353a58d43b3dc.jpg",
+            "publishedAt": "2026-01-26T18:22:59Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Lit bots beware: AI creative writing faces reader skepticism, study shows",
+            "url": "https://phys.org/news/2026-01-lit-bots-beware-ai-creative.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-creative-writing-fa.jpg",
+            "publishedAt": "2026-01-26T18:20:31Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Fountains, LED lights planned at major roads for AI summit",
+            "url": "https://timesofindia.indiatimes.com/city/delhi/fountains-led-lights-planned-at-major-roads-for-ai-summit/articleshow/127566421.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-127566418,width-1280,height-720,imgsize-52548,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-01-26T18:16:00Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "New Cybersecurity ETF Uses Covered Calls to Target 15%+ Yield",
+            "url": "https://www.benzinga.com/etfs/new-etfs/26/01/50136933/cybersecurity-meets-monthly-income-amplifys-new-etf-targets-15-yield",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/01/26/Endpoint-Security---Endpoint-Protection-.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-01-26T18:09:35Z"
+        },
+        {
+            "source": {
+                "id": "2492bcb79914b2ce3d9867453dae22ac",
+                "name": "Financial Post",
+                "url": "https://financialpost.com",
+                "country": "ca"
+            },
+            "title": "Cybersecurity and AI: How Microsoft Meets a Changing Tech Landscape",
+            "url": "https://financialpost.com/personal-finance/business-essentials/cybersecurity-and-ai-how-microsoft-meets-a-changing-tech-landscape",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/05/W9clz36.jpeg",
+            "publishedAt": "2026-01-26T18:00:20Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI uses animal imaging data to enhance surgical precision in humans",
+            "url": "https://medicalxpress.com/news/2026-01-ai-animal-imaging-surgical-precision.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-learns-from-animals.jpg",
+            "publishedAt": "2026-01-26T17:53:29Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Microsoft unveils the Maia 200 chip and aims to take on Nvidia's software ecosystem",
+            "url": "https://www.marketscreener.com/news/microsoft-unveils-the-maia-200-chip-and-aims-to-take-on-nvidia-s-software-ecosystem-ce7e5bdbdf8aff23",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2024-01-30T214607Z_1_LYNXMPEK0T0RK_RTROPTP_3_MICROSOFT-RESULTS.JPG",
+            "publishedAt": "2026-01-26T17:43:42Z"
+        },
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "Will OpenAI or Anthropic float this year? Don’t be too sure",
+            "url": "https://www.thetimes.com/business/companies-markets/article/will-openai-or-anthropic-float-this-year-katie-prescott-jrf8fpbcb",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Ff2a96e27-320f-4e9b-960b-a3765bc3efc8.jpg?crop=1500%2C844%2C0%2C78&resize=1200",
+            "publishedAt": "2026-01-26T17:36:55Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nvidia Pumps $2 Billion Into CoreWeave to Accelerate AI Factories Buildout",
+            "url": "https://www.marketscreener.com/news/nvidia-pumps-2-billion-into-coreweave-to-accelerate-ai-factories-buildout-ce7e5bdbdf8af327",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-01-26T17:36:27Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Meta pauses teen access to AI characters",
+            "url": "https://www.latimes.com/business/story/2026-01-26/meta-pauses-teen-access",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/abab9f6/2147483647/strip/true/crop/4813x2527+0+341/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9e%2Ffd%2Ff56444dd4fb1a86aa71cf51a137a%2Fd882bcab7c49460088e2203b4b2985a9.jpg",
+            "publishedAt": "2026-01-26T17:34:20Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Baker Hughes Doubles Data Center Order Target to $3 Billion on AI Power Demand",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-26/baker-hughes-doubles-data-center-order-target-to-3-billion-on-ai-power-demand",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0Ipg1u5dg4g/v1/1200x800.jpg",
+            "publishedAt": "2026-01-26T17:31:57Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -3333,138 +3465,6 @@
             "url": "https://www.cultofmac.com/deals/ai-security-cybersecurity-expert-bundle",
             "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2026/01/AI-SCE-bundle.jpg.webp",
             "publishedAt": "2026-01-23T14:30:40Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Brazil court suspends antitrust ruling against Meta over WhatsApp Business",
-            "url": "https://www.marketscreener.com/news/brazil-court-suspends-antitrust-ruling-against-meta-over-whatsapp-business-ce7e5bdada8df025",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-01-23T14:25:49Z"
-        },
-        {
-            "source": {
-                "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
-                "name": "cleveland.com",
-                "url": "https://www.cleveland.com",
-                "country": "us"
-            },
-            "title": "Ohio’s AI policy for schools will likely evolve with technology, DEW says",
-            "url": "https://www.cleveland.com/education/2026/01/ohios-ai-policy-for-schools-will-likely-evolve-with-technology-dew-says.html",
-            "urlToImage": "https://www.cleveland.com/resizer/v2/NFZTYJODKFFOFED4MVWKAFDITE.JPG?auth=0beff23f6b4185141ea50b355e48b37cdfdccbd561b624c541df2c867312bdb9&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-01-23T14:24:41Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "SEALSQ and WISeKey Inaugurate the \"Year of Quantum Security” at Davos",
-            "url": "https://www.manilatimes.net/2026/01/23/tmt-newswire/globenewswire/sealsq-and-wisekey-inaugurate-the-year-of-quantum-security-at-davos/2264379",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/23/910769.png",
-            "publishedAt": "2026-01-23T14:21:55Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Surfshark introduces post-quantum protection and evaluates",
-            "url": "https://www.globenewswire.com/news-release/2026/01/23/3224774/0/en/Surfshark-introduces-post-quantum-protection-and-evaluates-the-quantum-resistance-of-top-apps-only-8-are-resilient.html",
-            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/75b87eb0-cfa7-440b-8c16-4611c7780e8a",
-            "publishedAt": "2026-01-23T13:39:31Z"
-        },
-        {
-            "source": {
-                "id": "82dc94c51bef044035e3d16ef869c7a8",
-                "name": "PhoneArena",
-                "url": "https://www.phonearena.com",
-                "country": "us"
-            },
-            "title": "Hackers are now using AI to make money from your phone, and you won't even notice",
-            "url": "https://www.phonearena.com/news/hackers-are-now-using-ai-to-make-money-from-your-phone-and-you-wont-even-notice_id177610",
-            "urlToImage": "https://m-cdn.phonearena.com/images/article/177610-wide-two_1200/Hackers-are-now-using-AI-to-make-money-from-your-phone-and-you-wont-even-notice.jpg",
-            "publishedAt": "2026-01-23T13:21:40Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "The Best AI Stocks For 2026 Data Center Growth",
-            "url": "https://seekingalpha.com/article/4862033-the-best-ai-stocks-for-2026-data-center-growth",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158830875/image_2158830875.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-01-23T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "'Mercy' Movie Review: Chris Pratt and Rebecca Ferguson’s sci-fi thriller show how AI can be unsettling and close to reality",
-            "url": "https://www.firstpost.com/entertainment/mercy-movie-review-chris-pratt-and-rebecca-fergusons-sci-fi-thriller-show-how-ai-can-be-unsettling-and-close-to-reality-13971899.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/01/mercy-2026-01-c0fe81d087901a4fee74c70b55060280.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-01-23T12:53:16Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "AI will be smarter than all of humanity within five years, says Elon Musk",
-            "url": "https://www.thenews.com.pk/latest/1389541-ai-will-be-smarter-than-all-of-humanity-within-five-years-says-elon-musk",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-01-23/1389541_060405_updates.jpg",
-            "publishedAt": "2026-01-23T12:52:01Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "AI at Davos 2026: What tech leaders hope, fear & predict",
-            "url": "https://www.thenews.com.pk/latest/1389535-ai-at-davos-2026-what-tech-leaders-hope-fear-predict",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-01-23/1389535_055104_updates.jpg",
-            "publishedAt": "2026-01-23T12:52:00Z"
-        },
-        {
-            "source": {
-                "id": "e743cde6ee986921721e83d3957862dc",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com",
-                "country": "in"
-            },
-            "title": "WEF 2026: India emerges as major AI force backed by reforms, digital infra, says IMF",
-            "url": "https://zeenews.india.com/technology/wef-2026-india-emerges-as-major-ai-force-backed-by-reforms-digital-infra-says-imf-3009929.html",
-            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/01/23/1896056-untitled-design-21.jpg",
-            "publishedAt": "2026-01-23T12:50:25Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "NextGen AI Growth for PropTech & Real Estate trained channel partners in AI",
-            "url": "https://www.tribuneindia.com/news/business/nextgen-ai-growth-for-proptech-real-estate-trained-channel-partners-in-ai-powered-sales-and-marketing-at-t-hub/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWMwOGJlNzEwLWY4NTgtMTFmMC1hMDFiLTY5ODE4NmI1ZTViMy5qcGc=",
-            "publishedAt": "2026-01-23T12:40:46Z"
         }
     ]
 }
