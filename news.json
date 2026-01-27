@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-01-27T17:24:33.716616Z",
+    "lastUpdatedAt": "2026-01-27T18:32:39.587093Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Microsoft rolls out next generation of AI chips, takes aim at Nvidia's software",
+            "url": "https://www.thehindu.com/sci-tech/technology/microsoft-rolls-out-next-generation-of-ai-chips-takes-aim-at-nvidias-software/article70555072.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/snv7al/article70555073.ece/alternates/LANDSCAPE_1200/2026-01-26T163125Z_2069942120_RC2BODAIG2EM_RTRMADP_3_MICROSOFT-AI.JPG",
+            "publishedAt": "2026-01-27T06:20:42Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "FiberMall Accelerates Global AI Infrastructure with Next-Generation Optical Networking Solutions",
+            "url": "https://techbullion.com/fibermall-accelerates-global-ai-infrastructure-with-next-generation-optical-networking-solutions/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/01/Screenshot-2026-01-26-232030.png",
+            "publishedAt": "2026-01-27T06:20:41Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "ASML rides Nvidia's coattails with lasers and huge chip 'printers'",
+            "url": "https://www.marketscreener.com/news/asml-rides-nvidia-s-coattails-with-lasers-and-huge-chip-printers-ce7e5bdbd08af226",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-27T060145Z_1_LYNXMPEM0Q0A3_RTROPTP_4_ASML-HOLDING-STOCKS.JPG",
+            "publishedAt": "2026-01-27T06:03:50Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "ASML rides Nvidia's coattails with lasers and huge chip 'printers'",
+            "url": "https://www.reuters.com/world/europe/asml-rides-nvidias-coattails-with-lasers-huge-chip-printers-2026-01-27/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/IGMA5H37RNJPBLSBSHPQXIHUAA.jpg?auth=c7ede4749ce6a45ae04368830017197bff8795d302366099cbc8fd5886505301&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-27T06:03:18Z"
+        },
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "Govt to explore strengthening AI deepfake laws",
+            "url": "https://www.rte.ie/news/politics/2026/0127/1555231-artificial-intelligence-ai-oireachtas/",
+            "urlToImage": "https://www.rte.ie/images/001f177a-1600.jpg",
+            "publishedAt": "2026-01-27T06:00:01Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "How Attending the ET AI Conclave & Awards 2025 Strengthens Your AI Point of View and Leadership Strategy",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/how-attending-the-et-ai-conclave-awards-2025-strengthens-your-ai-point-of-view-and-leadership-strategy/articleshow/127599416.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-127600284,width-1200,height-630,imgsize-1392982,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-01-27T05:55:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Future of AI in Finance and the Union Budget 2026 By Mr Prateek Kithania, Independent Research Analyst",
+            "url": "https://www.tribuneindia.com/news/business/future-of-ai-in-finance-and-the-union-budget-2026-by-mr-prateek-kithania-independent-research-analyst/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThkNjJiNjkwLWZiNDQtMTFmMC1hMDFiLTY5ODE4NmI1ZTViMy5qcGc=",
+            "publishedAt": "2026-01-27T05:52:28Z"
+        },
         {
             "source": {
                 "id": "7daf04fa6272ed0a29583b211dcfe1d4",
@@ -159,6 +243,24 @@
         },
         {
             "source": {
+                "name": "businesstoday"
+            },
+            "title": "Nvidia launches 'Earth-2' AI models for weather forecasting, to be '1000 times' faster than traditional means",
+            "url": "https://www.businesstoday.in/technology/news/story/nvidia-launches-earth-2-ai-models-for-weather-forecasting-to-be-1000-times-faster-than-traditional-means-512948-2026-01-27",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202601/6978590449b76-nvidia-unveils-3-new-ai-models-for-weather-forecasting-271942620-16x9.png",
+            "publishedAt": "2026-01-27 06:27:41"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top News Today: Microsoft Maia 200, Voxelo £300,000 Funding & More",
+            "url": "https://www.analyticsinsight.net/tech-news/top-news-today-microsoft-maia-200-voxelo-300000-funding-more",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2026-01-27%2Fz0e4jbmb%2FTop-News-Today-Microsoft-Maia-200-Voxelo-%C2%A3300000-Funding-More-1.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2026-01-27 05:33:42"
+        },
+        {
+            "source": {
                 "name": "nvdaily"
             },
             "title": "How Americans are using AI at work, according to poll",
@@ -183,6 +285,15 @@
             "url": "https://cxotoday.com/news-analysis/what-indian-firms-want-from-budget-2026-ai-infrastructure-ethics-equity/",
             "urlToImage": "https://cxotoday.com/wp-content/uploads/2024/02/iStock-1138179078.jpg",
             "publishedAt": "2026-01-27 03:34:30"
+        },
+        {
+            "source": {
+                "name": "buffalo"
+            },
+            "title": "UB CMI awards more than $450,000 for 10 faculty-industry manufacturing R&D projects",
+            "url": "https://www.buffalo.edu/news/releases/2026/01/ub-cmi-fiar-projects.html",
+            "urlToImage": "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2026/01/ub-cmi-fiar-projects/_jcr_content/par/image.img.447.260.jpg/1769534809863.jpg",
+            "publishedAt": "2026-01-27 00:00:00"
         },
         {
             "source": {
@@ -3336,120 +3447,6 @@
             "url": "https://www.livemint.com/news/world/donald-trump-eye-greenland-us-former-aide-drew-horn-billion-dollar-push-ai-infra-data-centre-critical-mineral-rare-earth-11769227090667.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/24/1600x900/logo/Trump-Greenland-Rare-Earths-2_1769227390237_1769227424384.jpg",
             "publishedAt": "2026-01-24T04:59:31Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "AI-designed NLRP3 inhibitor receives FDA clearance for Parkinson disease trials",
-            "url": "https://www.news-medical.net/news/20260123/AI-designed-NLRP3-inhibitor-receives-FDA-clearance-for-Parkinson-disease-trials.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2026-01-24T04:46:00Z"
-        },
-        {
-            "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
-                "country": "in"
-            },
-            "title": "Federal Reserve Meeting and Major Tech Earnings to Drive Market Focus Amid Geopolitical Uncertainty",
-            "url": "https://scanx.trade/stock-market-news/global/federal-reserve-meeting-and-major-tech-earnings-to-drive-market-focus-amid-geopolitical-uncertainty/30774254",
-            "urlToImage": "http://news-images.dhan.co/federal-reserve-meeting-and-major-tech-earnings-to-drive-market-focus-amid-geopolitical-uncertainty.jpg",
-            "publishedAt": "2026-01-24T04:24:14Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "avos delegates stress AI’s employment upside as layoff fears linger",
-            "url": "https://indianexpress.com/shorts/technology/avos-delegates-stress-ais-employment-upside-as-layoff-fears-linger-10491807/",
-            "urlToImage": "https://images.indianexpress.com/2026/01/IE-2026-01-24T085450.413.jpg",
-            "publishedAt": "2026-01-24T03:53:16Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Demand for agentic AI skills surges; supply falls short by over 50%: Report",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/demand-for-agentic-ai-skills-surges-supply-falls-short-by-over-50-report/articleshow/127354853.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-68370,resizemode-75,msid-127354853/tech/artificial-intelligence/demand-for-agentic-ai-skills-surges-supply-falls-short-by-over-50-report.jpg",
-            "publishedAt": "2026-01-24T02:42:41Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "'Jobs, jobs, jobs' the AI mantra in Davos as fears take back seat",
-            "url": "https://www.marketscreener.com/news/jobs-jobs-jobs-the-ai-mantra-in-davos-as-fears-take-back-seat-ce7e5bdadf81f727",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-23T150415Z_1_LYNXMPEM0M0W0_RTROPTP_4_DAVOS-MEETING.JPG",
-            "publishedAt": "2026-01-24T02:36:21Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Meta pauses teen access to AI characters",
-            "url": "https://nypost.com/2026/01/23/business/meta-pauses-teen-access-to-ai-characters/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/119557858.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-01-24T02:07:33Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Synthetic Data, Real Privacy: Safeguarding AI in Australia",
-            "url": "https://itwire.com/business-it-news/data/synthetic-data,-real-privacy-safeguarding-ai-in-australia.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/8c971320aae9285c9c44d22980425356_XS.jpg",
-            "publishedAt": "2026-01-24T02:03:45Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Saturday Feeling: How AI is rewriting the script in Indian cinema",
-            "url": "https://www.livemint.com/mint-lounge/ideas/saturday-feeling-ai-impact-on-filmmaking-bollywood-indian-cinema-11769159528846.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/23/1600x900/logo/ai_indian_cinema_astitva_1769160097758_1769160097870.jpg",
-            "publishedAt": "2026-01-24T01:30:37Z"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "New study shows AI isn’t ready for office work",
-            "url": "https://us.headtopics.com/news/new-study-shows-ai-isn-t-ready-for-office-work-78831615",
-            "urlToImage": "https://i.headtopics.com/images/2026/1/24/digitaltrends/new-study-shows-ai-isn-t-ready-for-office-work-new-study-shows-ai-isn-t-ready-for-office-work-08EA8E494D57F3EA34D89613F10F4B03.webp",
-            "publishedAt": "2026-01-24 23:45:07"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "New study shows AI isn’t ready for office work",
-            "url": "https://www.digitaltrends.com/computing/new-study-shows-ai-isnt-ready-for-office-work/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2025/12/openai-chatgpt-os.jpg?resize=1200%2C630",
-            "publishedAt": "2026-01-24 23:14:32"
         }
     ]
 }
