@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-01-28T22:22:11.100604Z",
+    "lastUpdatedAt": "2026-01-28T23:22:03.559092Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US megacap results to test market's tech trade, profit optimism",
+            "url": "https://www.reuters.com/business/us-megacap-results-test-markets-tech-trade-profit-optimism-2026-01-28/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/UMS3EIAUTNINXCUPWINRID34E4.jpg?auth=ecf63903db144afb254a26751dd278ffbe97b8b8039acfa9cb3df0d0cbc0d4f6&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-28T11:19:49Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "Is this video AI?",
+            "url": "https://www.bostonglobe.com/2026/01/28/metro/is-this-video-ai/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/NNO62CHY7DCMBEHXYZYYWVDR74.JPG?auth=69a5585396bd45fbc55289ac6ef2931c5c0aedf176cdcd183ebca2685618e7d2&width=1440",
+            "publishedAt": "2026-01-28T11:00:01Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "To avoid accusations of AI cheating, college students turn to AI",
+            "url": "https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/01-AI-DetectorsAnuj-Shrestha-3f3370.jpg",
+            "publishedAt": "2026-01-28T11:00:00Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Amazon to Cut 16,000 Jobs in Latest Round of Layoffs",
+            "url": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/01/28/multimedia/amazon-layoffs-ltgm/amazon-layoffs-ltgm-facebookJumbo.jpg",
+            "publishedAt": "2026-01-28T10:41:09Z"
+        },
+        {
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            },
+            "title": "Kerala's General Hospital sets national record with corneal transplant surgery",
+            "url": "https://www.onmanorama.com/health/healthcare/2026/01/28/kerala-general-hospital-national-record-cornea-surgery.html",
+            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/health/healthcare/images/2026/1/28/cornea.jpg",
+            "publishedAt": "2026-01-28T10:38:45Z"
+        },
+        {
+            "source": {
+                "id": "143b993b193f72147f3de29ebcfbf505",
+                "name": "India TV News",
+                "url": "https://www.indiatvnews.com",
+                "country": "in"
+            },
+            "title": "AI will replace repetitive jobs but create millions more, says govt's top science advisor",
+            "url": "https://www.indiatvnews.com/technology/news/ai-will-replace-repetitive-jobs-but-create-millions-more-says-govts-top-science-advisor-2026-01-28-1027834",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/01/ai-will-replace-repetitive-jobs-but-create-more-1769596592.jpg",
+            "publishedAt": "2026-01-28T10:37:09Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Amazon cuts 16,000 jobs globally to undo pandemic-era hiring amid AI push",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/28/amazon-cuts-16000-jobs-globally-in-broader-restructuring",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/28/3742914.jpg",
+            "publishedAt": "2026-01-28T10:34:00Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "Amazon cuts 16,000 jobs globally to undo pandemic-era hiring amid AI push",
+            "url": "https://www.channelnewsasia.com/world/amazon-cut-jobs-global-layoff-retrenchment-ai-5890951",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--FBoCRQTA--/c_crop,h_449,w_799,x_1,y_59/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-28T105242Z_2_LYNXMPEM0R0MY_RTROPTP_3_AMAZON-COM-JOBCUTS.JPG?itok=Egwvmubd",
+            "publishedAt": "2026-01-28T10:33:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Amazon cuts 16,000 jobs globally to undo pandemic-era hiring amid AI push",
+            "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/HTFY5M7HHNP4FF3TX3JWHAYRPE.jpg?auth=a10a002c2aecf3402fa7ca96a1766de516c900a1534ea6ba7bf34b308c1a3aad&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-28T10:31:57Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Strong iPhone sales to power Apple's holiday quarter, Google AI deal in focus",
+            "url": "https://www.marketscreener.com/news/strong-iphone-sales-to-power-apple-s-holiday-quarter-google-ai-deal-in-focus-ce7e5bd9dd80f125",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-19T181605Z_1_LYNXNPEL8I0VW_RTROPTP_4_APPLE-RETAIL.JPG",
+            "publishedAt": "2026-01-28T10:24:00Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -3396,126 +3516,6 @@
             "url": "https://phys.org/news/2026-01-lit-bots-beware-ai-creative.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-creative-writing-fa.jpg",
             "publishedAt": "2026-01-26T18:20:31Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Fountains, LED lights planned at major roads for AI summit",
-            "url": "https://timesofindia.indiatimes.com/city/delhi/fountains-led-lights-planned-at-major-roads-for-ai-summit/articleshow/127566421.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-127566418,width-1280,height-720,imgsize-52548,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-01-26T18:16:00Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "New Cybersecurity ETF Uses Covered Calls to Target 15%+ Yield",
-            "url": "https://www.benzinga.com/etfs/new-etfs/26/01/50136933/cybersecurity-meets-monthly-income-amplifys-new-etf-targets-15-yield",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/01/26/Endpoint-Security---Endpoint-Protection-.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2026-01-26T18:09:35Z"
-        },
-        {
-            "source": {
-                "id": "2492bcb79914b2ce3d9867453dae22ac",
-                "name": "Financial Post",
-                "url": "https://financialpost.com",
-                "country": "ca"
-            },
-            "title": "Cybersecurity and AI: How Microsoft Meets a Changing Tech Landscape",
-            "url": "https://financialpost.com/personal-finance/business-essentials/cybersecurity-and-ai-how-microsoft-meets-a-changing-tech-landscape",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/05/W9clz36.jpeg",
-            "publishedAt": "2026-01-26T18:00:20Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI uses animal imaging data to enhance surgical precision in humans",
-            "url": "https://medicalxpress.com/news/2026-01-ai-animal-imaging-surgical-precision.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-learns-from-animals.jpg",
-            "publishedAt": "2026-01-26T17:53:29Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Microsoft unveils the Maia 200 chip and aims to take on Nvidia's software ecosystem",
-            "url": "https://www.marketscreener.com/news/microsoft-unveils-the-maia-200-chip-and-aims-to-take-on-nvidia-s-software-ecosystem-ce7e5bdbdf8aff23",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2024-01-30T214607Z_1_LYNXMPEK0T0RK_RTROPTP_3_MICROSOFT-RESULTS.JPG",
-            "publishedAt": "2026-01-26T17:43:42Z"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Will OpenAI or Anthropic float this year? Don’t be too sure",
-            "url": "https://www.thetimes.com/business/companies-markets/article/will-openai-or-anthropic-float-this-year-katie-prescott-jrf8fpbcb",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Ff2a96e27-320f-4e9b-960b-a3765bc3efc8.jpg?crop=1500%2C844%2C0%2C78&resize=1200",
-            "publishedAt": "2026-01-26T17:36:55Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Nvidia Pumps $2 Billion Into CoreWeave to Accelerate AI Factories Buildout",
-            "url": "https://www.marketscreener.com/news/nvidia-pumps-2-billion-into-coreweave-to-accelerate-ai-factories-buildout-ce7e5bdbdf8af327",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-01-26T17:36:27Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Meta pauses teen access to AI characters",
-            "url": "https://www.latimes.com/business/story/2026-01-26/meta-pauses-teen-access",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/abab9f6/2147483647/strip/true/crop/4813x2527+0+341/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9e%2Ffd%2Ff56444dd4fb1a86aa71cf51a137a%2Fd882bcab7c49460088e2203b4b2985a9.jpg",
-            "publishedAt": "2026-01-26T17:34:20Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Baker Hughes Doubles Data Center Order Target to $3 Billion on AI Power Demand",
-            "url": "https://www.bloomberg.com/news/articles/2026-01-26/baker-hughes-doubles-data-center-order-target-to-3-billion-on-ai-power-demand",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0Ipg1u5dg4g/v1/1200x800.jpg",
-            "publishedAt": "2026-01-26T17:31:57Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Microsoft rolls out Maia 200 AI chips; launch note also has 'message' for Google and Amazon",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-rolls-out-maia-200-ai-chips-launch-note-also-has-message-for-google-and-amazon/articleshow/127565062.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-127565013,width-1280,height-720,imgsize-56996,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-01-26T17:20:00Z"
         }
     ]
 }
