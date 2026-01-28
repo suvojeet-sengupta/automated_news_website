@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-01-28T09:30:15.574782Z",
+    "lastUpdatedAt": "2026-01-28T10:23:53.935011Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Seagate forecasts quarterly results above estimates on strong data storage demand",
+            "url": "https://www.reuters.com/business/seagate-forecasts-quarterly-results-above-estimates-strong-data-storage-demand-2026-01-27/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/WHZHXOE76FI2TPIM273YLI3J2E.jpg?auth=1865a9e5881356d8e679334f6b87db4b041d11b8e92417599b04c8794c717703&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-27T22:02:55Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "An AI model can predict and help contain disease outbreaks in confined spaces",
+            "url": "https://medicalxpress.com/news/2026-01-ai-disease-outbreaks-confined-spaces.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/worcester-polytechnic.jpg",
+            "publishedAt": "2026-01-27T21:47:24Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Doomsday Clock moves closer to midnight than ever as nuclear war, AI risks grow",
+            "url": "https://www.indiatoday.in/science/story/doomsday-clock-moves-closer-to-midnight-than-ever-nuclear-war-ai-risks-glbs-2858741-2026-01-28",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/doomsday-clock-274359851-16x9_0.png?VersionId=yVCsAI.o_I8RTazhvqednKKtLBJKjk3N",
+            "publishedAt": "2026-01-27T21:46:51Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Private equity firm Audax Group seeks over $1.5 billion for BlueCat Networks, sources say",
+            "url": "https://www.reuters.com/legal/transactional/private-equity-firm-audax-group-seeks-over-15-billion-bluecat-networks-sources-2026-01-27/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-27T21:42:41Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "F5 raises annual forecasts signaling customer confidence returning after breach",
+            "url": "https://www.marketscreener.com/news/f5-raises-annual-forecasts-signaling-customer-confidence-returning-after-breach-ce7e5bd8d180f423",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-01-27T21:30:37Z"
+        },
         {
             "source": {
                 "id": "5784855bc642514502eec4806fd222d1",
@@ -3465,51 +3525,6 @@
             "url": "https://www.webpronews.com/the-kilowatt-crisis-how-ais-insatiable-appetite-for-power-is-forging-a-new-data-center-empire/",
             "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-7955-1769454425.jpeg",
             "publishedAt": "2026-01-26 19:07:12"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Microsoft’s Silicon Offensive: Inside the High-Stakes Plan to Build Its Own AI Future",
-            "url": "https://www.webpronews.com/microsofts-silicon-offensive-inside-the-high-stakes-plan-to-build-its-own-ai-future/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-7952-1769454068.jpeg",
-            "publishedAt": "2026-01-26 19:01:14"
-        },
-        {
-            "source": {
-                "name": "newlinesinstitute"
-            },
-            "title": "Why Algeria Is Positioned To Become North Africa’s AI Leader",
-            "url": "https://newlinesinstitute.org/middle-east-center/why-algeria-is-positioned-to-become-north-africas-ai-leader/",
-            "urlToImage": "https://newlinesinstitute.org/wp-content/uploads/GettyImages-2214410243-1920x1280.jpg",
-            "publishedAt": "2026-01-26 18:30:50"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Stay Ahead with the Latest Generative AI News and Trends",
-            "url": "https://techannouncer.com/stay-ahead-with-the-latest-generative-ai-news-and-trends/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2026/01/78403243thumbnail-332x187.jpeg",
-            "publishedAt": "2026-01-26 15:13:05"
-        },
-        {
-            "source": {
-                "name": "eastbaytimes"
-            },
-            "title": "How Americans are using AI at work, according to a new poll",
-            "url": "https://www.eastbaytimes.com/2026/01/26/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll/",
-            "urlToImage": "https://www.eastbaytimes.com/wp-content/uploads/2026/01/Polling_AI_In_the_Workspace_92365.jpg?h=683&w=1024",
-            "publishedAt": "2026-01-26 14:27:50"
-        },
-        {
-            "source": {
-                "name": "mercurynews"
-            },
-            "title": "How Americans are using AI at work, according to a new poll",
-            "url": "https://www.mercurynews.com/2026/01/26/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/01/Polling_AI_In_the_Workspace_92365.jpg?strip=all&w=1400px",
-            "publishedAt": "2026-01-26 14:27:50"
         }
     ]
 }
