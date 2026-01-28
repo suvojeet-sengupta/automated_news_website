@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-01-28T14:25:27.244975Z",
+    "lastUpdatedAt": "2026-01-28T15:28:06.361106Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "C3.AI in talks to merge with startup Automation Anywhere, The Information reports",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/28/c3ai-in-talks-to-merge-with-startup-automation-anywhere-the-information-reports",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/28/3742120.jpg",
+            "publishedAt": "2026-01-28T03:20:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "India Braces for AI Revolution: New Opportunities Amid Job Shifts",
+            "url": "https://www.devdiscourse.com/article/technology/3783866-india-braces-for-ai-revolution-new-opportunities-amid-job-shifts",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/17_09_2025_09_02_11_2063676.png?width=920&format=jpeg",
+            "publishedAt": "2026-01-28T03:17:57Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "South Korea's KOSPI posts sharpest rise in 3 weeks as investors buy the Trump tariff dip",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/south-koreas-kospi-posts-sharpest-rise-in-3-weeks-as-investors-buy-the-trump-tariff-dip/articleshow/127672149.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-127672194,width-1200,height-630,imgsize-89746,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-01-28T03:10:00Z"
+        },
+        {
+            "source": {
+                "id": "e3cad7a35669a0f5933fa172f5aa2e41",
+                "name": "Albuquerque Journal",
+                "url": "https://www.abqjournal.com",
+                "country": "us"
+            },
+            "title": "Bernalillo County weighs strict limits on AI data centers in New Mexico",
+            "url": "https://www.abqjournal.com/news/bernalillo-county-leaders-consider-strict-limits-for-artificial-intelligence-data-centers/2969319",
+            "urlToImage": "https://image.abqjournal.com/2969548.jpg?imageId=2969548&x=0&y=6.72&cropw=100&croph=69.35&panox=0&panoy=6.72&panow=100&panoh=69.35&width=1200&height=683",
+            "publishedAt": "2026-01-28T03:09:10Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "QuickCheck: Did a lorry move on its own and crash into five vehicles in Kajang?",
+            "url": "https://www.thestar.com.my/news/true-or-not/2026/01/28/quickcheck-did-a-lorry-move-on-its-own-and-crash-into-five-vehicles-in-kajang",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/28/3742084.jpg",
+            "publishedAt": "2026-01-28T03:04:00Z"
+        },
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "SoftBank in talks to invest $30 billion more in OpenAI, report says",
+            "url": "https://www.japantimes.co.jp/business/2026/01/28/companies/softbank-talks-investment-openai/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/28/519747.jpg?v=3.1",
+            "publishedAt": "2026-01-28T02:59:38Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Japan's Nikkei sinks under weight of strong yen; AI shares outperform",
+            "url": "https://www.marketscreener.com/news/japan-s-nikkei-sinks-under-weight-of-strong-yen-ai-shares-outperform-ce7e5bd9d98cf124",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-01-28T02:56:18Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "C3.AI in talks to merge with startup Automation Anywhere: Report",
+            "url": "https://economictimes.indiatimes.com/tech/technology/c3-ai-in-talks-to-merge-with-startup-automation-anywhere-report/articleshow/127669437.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-44086,resizemode-75,msid-127669437/tech/technology/c3-ai-in-talks-to-merge-with-startup-automation-anywhere-report.jpg",
+            "publishedAt": "2026-01-28T02:39:31Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -3441,102 +3537,6 @@
             "url": "https://www.thestar.com.my/business/business-news/2026/01/26/malaysian-ringgit-stocks-hit-highest-since-2018-on-ai-growth",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/26/3738560.jpeg",
             "publishedAt": "2026-01-26T06:50:00Z"
-        },
-        {
-            "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
-                "country": "in"
-            },
-            "title": "AI is not UPI: Why going by the UPI model risks stalling progress on artificial intelligence",
-            "url": "https://scanx.trade/stock-market-news/global/ai-is-not-upi-why-going-by-the-upi-model-risks-stalling-progress-on-artificial-intelligence/30955092",
-            "urlToImage": "http://news-images.dhan.co/ai-is-not-upi-why-going-by-the-upi-model-risks-stalling-progress-on-artificial-intelligence.jpg",
-            "publishedAt": "2026-01-26T06:38:12Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AI is not UPI: Why going by the UPI model risks stalling progress on artificial intelligence",
-            "url": "https://www.livemint.com/opinion/online-views/ai-not-upi-model-risks-progress-artificial-intelligence-ai-policy-11769282335632.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/25/1600x900/logo/2-0-1248136665-hires1-0_1679614153162_1769325492061.jpg",
-            "publishedAt": "2026-01-26T06:30:35Z"
-        },
-        {
-            "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
-                "country": "in"
-            },
-            "title": "Budget 2026: Fintech Industry Seeks Policy Continuity and Infrastructure Strengthening Ahead of February 1 Presentation",
-            "url": "https://scanx.trade/stock-market-news/stocks/budget-2026-fintech-industry-seeks-policy-continuity-and-infrastructure-strengthening-ahead-of-february-1-presentation/30954263",
-            "urlToImage": "http://news-images.dhan.co/budget-2026-fintech-industry-seeks-policy-continuity-and-infrastructure-strengthening-ahead-of-february-1-presentation.jpg",
-            "publishedAt": "2026-01-26T06:24:23Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Budget 2026: Strong finance infra to bridging MSME credit gap - 4 key demands to boost fintech ecosystem",
-            "url": "https://www.livemint.com/market/stock-market-news/budget-2026-strong-finance-infra-to-bridging-msme-credit-gap-4-key-demands-to-boost-fintech-ecosystem-11769157914924.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/26/1600x900/logo/INDIA-FINTECH--0_1759827102514_1759827114105_1769408216269.JPG",
-            "publishedAt": "2026-01-26T06:21:15Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "VEON Unveils the New Beeline Uzbekistan Network Operations Center, Launches BuildX to Accelerate Software Development in Uzbekistan",
-            "url": "https://www.manilatimes.net/2026/01/26/tmt-newswire/globenewswire/veon-unveils-the-new-beeline-uzbekistan-network-operations-center-launches-buildx-to-accelerate-software-development-in-uzbekistan/2264956",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/26/912109.png",
-            "publishedAt": "2026-01-26T06:16:57Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "AMG LIVA to Install Hybrid Energy Storage System Battery at Aramco Site",
-            "url": "https://www.manilatimes.net/2026/01/26/tmt-newswire/globenewswire/amg-liva-to-install-hybrid-energy-storage-system-battery-at-aramco-site/2264955",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/26/912108.png",
-            "publishedAt": "2026-01-26T06:16:56Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "‘India to build 12 sovereign AI models to tackle national challenges’: Ashwini Vaishnaw",
-            "url": "https://www.firstpost.com/tech/india-to-build-12-sovereign-ai-models-to-tackle-national-challenges-ashwini-vaishnaw-13972540.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/01/Untitled-design-43-2026-01-70324abd3467700f3766b594c7b75eaa-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-01-26T06:00:53Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Docplanner CEO Sees Medical Data, AI Fueling Growth Before IPO",
-            "url": "https://www.bloomberg.com/news/articles/2026-01-26/docplanner-ceo-sees-medical-data-ai-fueling-growth-before-ipo",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDkoWuRezt.8/v0/1200x739.jpg",
-            "publishedAt": "2026-01-26T06:00:00Z"
         }
     ]
 }
