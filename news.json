@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-01-29T05:39:49.741205Z",
+    "lastUpdatedAt": "2026-01-29T06:40:49.088088Z",
     "articles": [
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "Artificial intelligence will cost jobs, admits Liz Kendall",
+            "url": "https://www.theguardian.com/technology/2026/jan/28/artificial-intelligence-will-cost-jobs-admits-liz-kendall",
+            "urlToImage": "https://i.guim.co.uk/img/media/4c4109cb7c41353d6f343bd0a2fe6bc252e1e5fb/0_151_6182_4946/master/6182.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68f9b7980927a7bb91b6afbd49872b04",
+            "publishedAt": "2026-01-28T18:33:57Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Google Says AI Agent Can Now Browse on Users’ Behalf",
+            "url": "https://www.livemint.com/technology/google-says-ai-agent-can-now-browse-on-users-behalf-11769624682920.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
+            "publishedAt": "2026-01-28T18:24:42Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "Palantir engineers’ cybersecurity startup Outtake raises $40M with backing from Satya Nadella",
+            "url": "https://techstartups.com/2026/01/28/ex-palantir-engineers-cybersecurity-startup-outtake-raises-40m-with-backing-from-satya-nadella/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2026/01/Outtake-Founder.jpg",
+            "publishedAt": "2026-01-28T18:23:53Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "founder’s company gets Google as investor at $6 billion valuation",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/tesla-co-founders-company-gets-google-as-investor-at-6-billion-valuation/articleshow/127726242.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-127726210,width-1280,height-720,imgsize-37762,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-01-28T18:18:00Z"
+        },
+        {
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            },
+            "title": "Google adds AI image generation to Chrome browser, side panel option for virtual assistant",
+            "url": "https://www.ajc.com/news/2026/01/google-adds-ai-image-generation-to-chrome-browser-side-panel-option-for-virtual-assistant/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/USHJF3ND4VFOFIQFLATCEGE22M.jpg?auth=d468af82313fb2f1f8326ee32377f2d9c15f6a1b5afc28a718191878169e83b7&width=1200&height=630&smart=true",
+            "publishedAt": "2026-01-28T18:12:59Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Google adds AI image generation to Chrome browser, side panel option for virtual assistant",
+            "url": "https://www.clickondetroit.com/business/2026/01/28/google-adds-ai-image-generation-to-chrome-browser-side-panel-option-for-virtual-assistant/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/YX5JXYNT6VEZJEHYLUUFPAZHWA.jpg?_a=DATAg1eAZAA0",
+            "publishedAt": "2026-01-28T18:01:30Z"
+        },
+        {
+            "source": {
+                "id": "c792dadf7373fad5b316a63a77688de1",
+                "name": "ABC News",
+                "url": "https://abcnews.go.com",
+                "country": "us"
+            },
+            "title": "Google adds AI image generation to Chrome, side panel option for virtual assistant",
+            "url": "https://abcnews.go.com/Technology/wireStory/google-adds-ai-image-generation-chrome-browser-side-129642949",
+            "urlToImage": "https://i.abcnewsfe.com/a/cbb0cf4e-8bf6-4344-85f3-33633bd90895/wirestory_d4d9a95fd997f7feefd712a333ce5169_16x9.jpg?w=1600",
+            "publishedAt": "2026-01-28T18:01:30Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Google adds Nano Banana and other AI features to Chrome",
+            "url": "https://apnews.com/article/google-chrome-artificial-intelligence-nano-banana-d4d9a95fd997f7feefd712a333ce5169",
+            "urlToImage": "https://dims.apnews.com/dims4/default/4efbf5e/2147483647/strip/true/crop/3680x2452+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F8c%2F418f779e836ac5583a9ad8bd7b39%2F7311627f144f48a1ae6a7bba0c2ba217",
+            "publishedAt": "2026-01-28T18:01:30Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Google Adds AI Image Generation to Chrome Browser, Side Panel Option for Virtual Assistant",
+            "url": "https://www.usnews.com/news/business/articles/2026-01-28/google-adds-ai-image-generation-to-chrome-browser-side-panel-option-for-virtual-assistant",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/90b0334/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F8b%2F12b00151be3f61847a7de4b3e6c29e%2F7311627f144f48a1ae6a7bba0c2ba217Apple_Google_Artificial_Intelligence_82007.jpg",
+            "publishedAt": "2026-01-28T18:01:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "AI Customer Support Startup Decagon Valued at $4.5 Billion",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-28/ai-customer-support-startup-decagon-valued-at-4-5-billion",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imPVX.SNDFaI/v1/1200x800.jpg",
+            "publishedAt": "2026-01-28T18:00:30Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Google Says AI Agent Can Now Browse on Users’ Behalf",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-28/google-chrome-says-ai-agent-can-now-browse-on-users-behalf",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/invj_tY4G_.0/v6/1200x800.jpg",
+            "publishedAt": "2026-01-28T18:00:00Z"
+        },
         {
             "source": {
                 "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
@@ -1440,6 +1572,15 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/01/28/seagate-forecasts-quarterly-results-above-estimates-on-strong-data-storage-demand",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/28/3741988.jpg",
             "publishedAt": "2026-01-28T00:16:00Z"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Artificial Intelligence Stocks To Follow Today – January 28th",
+            "url": "https://www.thelincolnianonline.com/2026/01/28/artificial-intelligence-stocks-to-follow-today-january-28th.html",
+            "urlToImage": "https://www.marketbeat.com/logos/bigbearai-holdings-inc-logo-1200x675.png?v=20250103080937",
+            "publishedAt": "2026-01-28 17:56:43"
         },
         {
             "source": {
@@ -3405,123 +3546,6 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001190",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001190.g005&size=inline",
             "publishedAt": "2026-01-27T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Forecasting drug resistant HIV protease evolution",
-            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013913",
-            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013913.g006&size=inline",
-            "publishedAt": "2026-01-27T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Learning cardiac activation and repolarization times with operator learning",
-            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013920",
-            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013920.g019&size=inline",
-            "publishedAt": "2026-01-27T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Deep learning models to map osteocyte networks from confocal microscopy can successfully distinguish between young and aged bone",
-            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013914",
-            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013914.g005&size=inline",
-            "publishedAt": "2026-01-27T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI, IoT and Telecom Forge Industry 5.0 Backbone",
-            "url": "https://www.webpronews.com/ai-iot-and-telecom-forge-industry-5-0-backbone/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-8131-1769556997.jpeg",
-            "publishedAt": "2026-01-27 23:36:42"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "A psychiatrist reflects on life with AI.",
-            "url": "https://us.headtopics.com/news/a-psychiatrist-reflects-on-life-with-ai-78955931",
-            "urlToImage": "https://i.headtopics.com/images/2026/1/27/psychtoday/a-psychiatrist-reflects-on-life-with-ai-a-psychiatrist-reflects-on-life-with-ai-6F300F4B77E0AA9B58667E3BF7F55F94.webp",
-            "publishedAt": "2026-01-27 21:16:26"
-        },
-        {
-            "source": {
-                "name": "ieee_spectrum"
-            },
-            "title": "Thermodynamic Computing Slashes AI Image Energy Use",
-            "url": "https://spectrum.ieee.org/thermodynamic-computing-for-ai",
-            "urlToImage": "https://spectrum.ieee.org/media-library/abstract-graphic-of-1-s-and-2-s-against-a-pixelated-background.jpg?id=63302559&width=980",
-            "publishedAt": "2026-01-27 20:38:17"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Google wants Chrome to show what parts of a webpage are human or AI-generated",
-            "url": "https://www.digitaltrends.com/computing/google-wants-chrome-to-show-what-parts-of-a-webpage-are-human-or-ai-generated/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2025/12/Google-Chrome-infused-with-AI-features-featured-image.jpg?resize=1200%2C630",
-            "publishedAt": "2026-01-27 19:20:20"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "You're Going To Hate How Much The Samsung Galaxy Z TriFold Costs In The U.S.",
-            "url": "https://www.bgr.com/2086340/samsung-galaxy-z-trifold-price-us/",
-            "urlToImage": "https://www.bgr.com/img/gallery/youre-going-to-hate-how-much-the-samsung-galaxy-z-trifold-costs-in-the-u-s/l-intro-1769534498.jpg",
-            "publishedAt": "2026-01-27 17:27:23"
-        },
-        {
-            "source": {
-                "name": "cornelledu"
-            },
-            "title": "Thorsten Joachims named vice provost for AI strategy",
-            "url": "https://news.cornell.edu/stories/2026/01/thorsten-joachims-named-vice-provost-ai-strategy",
-            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_home/public/2026-01/0127_joachims_tnd.jpg?itok=dHMNQtyS",
-            "publishedAt": "2026-01-27 16:19:00"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Risk Sitting Under NVIDIA’s Growth : Server Farms Can’t Scale Forever!",
-            "url": "https://www.geeky-gadgets.com/nvidia-cloud-dependence/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/cloud-compute-vs-device-processing_optimized.webp",
-            "publishedAt": "2026-01-27 14:21:28"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Stanford’s 2026 Emerging Tech Review: AI, Biotech Insights for US Leadership",
-            "url": "https://www.webpronews.com/stanfords-2026-emerging-tech-review-ai-biotech-insights-for-us-leadership/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-8076-1769522903.jpeg",
-            "publishedAt": "2026-01-27 14:08:29"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google’s AI Offensive: Inside the Push to Embed Gemini in the Heart of Government",
-            "url": "https://www.webpronews.com/googles-ai-offensive-inside-the-push-to-embed-gemini-in-the-heart-of-government/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/01/article-7974-1769494502.jpeg",
-            "publishedAt": "2026-01-27 13:20:06"
         }
     ]
 }
