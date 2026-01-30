@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-30T16:33:36.262046Z",
+    "lastUpdatedAt": "2026-01-30T17:29:49.541059Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Artificial intelligence is changing the way cancer is understood",
+            "url": "https://www.devdiscourse.com/article/technology/3782693-artificial-intelligence-is-changing-the-way-cancer-is-understood",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/27_01_2026_12_23_47_5724329.png?width=920&format=jpeg",
+            "publishedAt": "2026-01-30T05:23:26Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "After firing 16,000 employees, Amazon plans to invest in OpenAI",
+            "url": "https://www.indiatoday.in/technology/news/story/after-firing-16000-employees-amazon-plans-to-invest-in-openai-2860192-2026-01-30",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/amazon-284951866-16x9_2.png?VersionId=YGla2.8EIExkfe8wOwbXKUZDMKbvi5qE",
+            "publishedAt": "2026-01-30T04:42:56Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "AI-Supported Mammography More Effective Than Standard Screenings For Breast Cancer: Lancet Study",
+            "url": "https://www.ndtv.com/health/ai-use-in-mammography-more-effective-than-standard-results-from-swedens-breast-cancer-programme-10910701",
+            "urlToImage": "https://c.ndtvimg.com/2025-10/5u0b0tao_breast-cancer-awareness_625x300_13_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2026-01-30T04:34:20Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -3453,42 +3489,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-meta-spent-millions-of-dollars-in-two-months-to-tell-americans-datacentres-are-not-bad-they-bring-/articleshow/127728595.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-127728540,width-1280,height-720,imgsize-37166,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-01-28T18:59:00Z"
-        },
-        {
-            "source": {
-                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-                "name": "Washington Examiner",
-                "url": "https://www.washingtonexaminer.com",
-                "country": "us"
-            },
-            "title": "'Removing bureaucracy'",
-            "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4437640/amazon-employees-face-layoffs-company-frees-up-cash-artificial-intelligence-spending/",
-            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/11/AP24032653331397.webp?resize=1200,683",
-            "publishedAt": "2026-01-28T18:49:00Z"
-        },
-        {
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            },
-            "title": "Artificial intelligence will cost jobs, admits Liz Kendall",
-            "url": "https://www.theguardian.com/technology/2026/jan/28/artificial-intelligence-will-cost-jobs-admits-liz-kendall",
-            "urlToImage": "https://i.guim.co.uk/img/media/4c4109cb7c41353d6f343bd0a2fe6bc252e1e5fb/0_151_6182_4946/master/6182.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68f9b7980927a7bb91b6afbd49872b04",
-            "publishedAt": "2026-01-28T18:33:57Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Google Says AI Agent Can Now Browse on Users’ Behalf",
-            "url": "https://www.livemint.com/technology/google-says-ai-agent-can-now-browse-on-users-behalf-11769624682920.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
-            "publishedAt": "2026-01-28T18:24:42Z"
         }
     ]
 }
