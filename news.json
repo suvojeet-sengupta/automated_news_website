@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-01-30T08:32:39.570986Z",
+    "lastUpdatedAt": "2026-01-30T09:33:51.313544Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Exclusive: Pentagon clashes with Anthropic over military AI use - sources",
+            "url": "https://www.reuters.com/business/pentagon-clashes-with-anthropic-over-military-ai-use-2026-01-29/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/HMGDFKGPJNMIDNNKJKQB23HQGI.jpg?auth=05c4afe254bd991af33091fb99d6b84b9714930b870ad080dce75d26adf8eada&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-29T21:19:06Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "NYU Stern Creates New Artificial Intelligence Specialization for MBA Students",
+            "url": "https://www.manilatimes.net/2026/01/30/tmt-newswire/globenewswire/nyu-stern-creates-new-artificial-intelligence-specialization-for-mba-students/2268285",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/30/918362.jpg",
+            "publishedAt": "2026-01-29T21:18:54Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Silicon Valley Policy Forum to Stress Preserving US Lead in AI",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-29/silicon-valley-policy-forum-to-stress-preserving-us-lead-in-ai",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6mLsPy0XZUs/v1/1200x800.jpg",
+            "publishedAt": "2026-01-29T21:17:02Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "US STOCKS-S&P 500, Nasdaq close down as Big Tech's soaring AI budgets trigger flight",
+            "url": "https://www.devdiscourse.com/article/technology/3786645-us-stocks-sp-500-nasdaq-close-down-as-big-techs-soaring-ai-budgets-trigger-flight",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=920&format=jpeg",
+            "publishedAt": "2026-01-29T21:03:11Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "Apple acquires Israeli AI startup Q.ai for close to $2B to boost audio and on",
+            "url": "https://techstartups.com/2026/01/29/apple-acquires-israeli-ai-startup-q-ai-for-close-to-2-billion-to-boost-audio-and-on-device-intelligence/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2026/01/Apple-acquires-secretive-Israeli-AI-startup-Q.ai-to-boost-audio-and-on-device-intelligence.jpg",
+            "publishedAt": "2026-01-29T21:02:10Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Google unveils AI tool probing mysteries of human genome",
+            "url": "https://japantoday.com/category/tech/google-unveils-ai-tool-probing-mysteries-of-human-genome",
+            "urlToImage": "https://media.japantoday.com/img/store/1e/4a/ee9b7d624390cb34d8a30b65847ca39e345c/57be2d3c5b350f178483c394be3266de44679df6/_w1700.jpeg",
+            "publishedAt": "2026-01-29T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "China plans space‑based AI data centers, challenging Musk's SpaceX ambitions",
+            "url": "https://japantoday.com/category/tech/china-plans-space%E2%80%91based-ai-data-centres-challenging-musk's-spacex-ambitions",
+            "urlToImage": "https://media.japantoday.com/img/store/6b/77/0571ac778bced97da2487c2fef75ce7a2ab1/tag-reuters/_w1700.jpeg",
+            "publishedAt": "2026-01-29T20:45:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "China plans space‑based AI data centers, challenging Musk's SpaceX ambitions",
+            "url": "https://japantoday.com/category/tech/china-plans-space%E2%80%91based-ai-data-centres-challenging-musk%27s-spacex-ambitions",
+            "urlToImage": "https://media.japantoday.com/img/store/6b/77/0571ac778bced97da2487c2fef75ce7a2ab1/tag-reuters/_w1700.jpeg",
+            "publishedAt": "2026-01-29T20:45:00Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -3408,102 +3504,6 @@
             "url": "https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878",
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/01-AI-DetectorsAnuj-Shrestha-3f3370.jpg",
             "publishedAt": "2026-01-28T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Amazon to Cut 16,000 Jobs in Latest Round of Layoffs",
-            "url": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/01/28/multimedia/amazon-layoffs-ltgm/amazon-layoffs-ltgm-facebookJumbo.jpg",
-            "publishedAt": "2026-01-28T10:41:09Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "Kerala's General Hospital sets national record with corneal transplant surgery",
-            "url": "https://www.onmanorama.com/health/healthcare/2026/01/28/kerala-general-hospital-national-record-cornea-surgery.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/health/healthcare/images/2026/1/28/cornea.jpg",
-            "publishedAt": "2026-01-28T10:38:45Z"
-        },
-        {
-            "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
-                "country": "in"
-            },
-            "title": "AI will replace repetitive jobs but create millions more, says govt's top science advisor",
-            "url": "https://www.indiatvnews.com/technology/news/ai-will-replace-repetitive-jobs-but-create-millions-more-says-govts-top-science-advisor-2026-01-28-1027834",
-            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/01/ai-will-replace-repetitive-jobs-but-create-more-1769596592.jpg",
-            "publishedAt": "2026-01-28T10:37:09Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Amazon cuts 16,000 jobs globally to undo pandemic-era hiring amid AI push",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/28/amazon-cuts-16000-jobs-globally-in-broader-restructuring",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/28/3742914.jpg",
-            "publishedAt": "2026-01-28T10:34:00Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "Amazon cuts 16,000 jobs globally to undo pandemic-era hiring amid AI push",
-            "url": "https://www.channelnewsasia.com/world/amazon-cut-jobs-global-layoff-retrenchment-ai-5890951",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--FBoCRQTA--/c_crop,h_449,w_799,x_1,y_59/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-28T105242Z_2_LYNXMPEM0R0MY_RTROPTP_3_AMAZON-COM-JOBCUTS.JPG?itok=Egwvmubd",
-            "publishedAt": "2026-01-28T10:33:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Amazon cuts 16,000 jobs globally to undo pandemic-era hiring amid AI push",
-            "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/HTFY5M7HHNP4FF3TX3JWHAYRPE.jpg?auth=a10a002c2aecf3402fa7ca96a1766de516c900a1534ea6ba7bf34b308c1a3aad&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-01-28T10:31:57Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Strong iPhone sales to power Apple's holiday quarter, Google AI deal in focus",
-            "url": "https://www.marketscreener.com/news/strong-iphone-sales-to-power-apple-s-holiday-quarter-google-ai-deal-in-focus-ce7e5bd9dd80f125",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-19T181605Z_1_LYNXNPEL8I0VW_RTROPTP_4_APPLE-RETAIL.JPG",
-            "publishedAt": "2026-01-28T10:24:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Strong iPhone sales to power Apple's holiday quarter, Google AI deal in focus",
-            "url": "https://www.reuters.com/world/china/strong-iphone-sales-power-apples-holiday-quarter-google-ai-deal-in-focus-2026-01-28/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/G2CA3NHTYJKDVNPUUH6H5OMOOU.jpg?auth=774e40893ccad2dcfcf6deb03a97e356cc6aab5a04fd8a7b0dd78650b584d5d4&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-01-28T10:21:01Z"
         }
     ]
 }
