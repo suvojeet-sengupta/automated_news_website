@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-01-30T06:41:49.174071Z",
+    "lastUpdatedAt": "2026-01-30T07:36:44.701459Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Open-source AI models vulnerable to criminal misuse, researchers warn",
+            "url": "https://www.marketscreener.com/news/open-source-ai-models-vulnerable-to-criminal-misuse-researchers-warn-ce7e5bdfdc89ff2d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-01-29T19:35:26Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "National Archives Launches AI-Powered Guide Through US History",
+            "url": "https://www.newsmax.com/us/national-archives-ai-artificial-intelligence/2026/01/29/id/1244090/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=a803bc41-13c9-4618-a952-0066195b2945&SiteName=Newsmax",
+            "publishedAt": "2026-01-29T19:28:59Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Big Tech results highlight investor push for AI payoffs",
+            "url": "https://www.marketscreener.com/news/big-tech-results-highlight-investor-push-for-ai-payoffs-ce7e5bdfdc89f721",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-01-29T19:19:45Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "don’t be fooled by AI videos",
+            "url": "https://www.cp24.com/local/toronto/2026/01/29/fact-file-dont-be-fooled-by-ai-videos-of-toronto-snowstorm/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/J6BCOGK6UW4E6SO5657LTS2G3M.jpg?smart=true&auth=6835cccdbf85f4fac7d85e6672720dafc234b64b3cbd179a717223639a871b24&width=1200&height=630",
+            "publishedAt": "2026-01-29T19:09:11Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Grammy winner funds to set up School of Artificial Intelligence at IIMA",
+            "url": "https://indianexpress.com/article/cities/ahmedabad/grammy-winner-funds-to-set-up-school-of-artificial-intelligence-at-iima-10502263/",
+            "urlToImage": "https://images.indianexpress.com/2026/01/IIMAfile-4col.jpg",
+            "publishedAt": "2026-01-29T19:07:21Z"
+        },
+        {
+            "source": {
+                "id": "549a7a859b2345bbe231b00e7244ef99",
+                "name": "Engadget",
+                "url": "https://www.engadget.com",
+                "country": "us"
+            },
+            "title": "Apple acquires Q.ai for a reported $2 billion",
+            "url": "https://www.engadget.com/big-tech/apple-acquires-qai-for-a-reported-2-billion-190017949.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PjFuZYIViYmZK8Y7EJznqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/80c0a1e0-f7ea-11ee-adef-ac8547ce1cfb",
+            "publishedAt": "2026-01-29T19:00:17Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI models retrace evolution of genetic control elements in the brain",
+            "url": "https://phys.org/news/2026-01-ai-retrace-evolution-genetic-elements.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/using-ai-to-retrace-th.jpg",
+            "publishedAt": "2026-01-29T19:00:02Z"
+        },
+        {
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com",
+                "country": "us"
+            },
+            "title": "Elgin council votes to expand its use of AI in city hall work",
+            "url": "https://www.chicagotribune.com/2026/01/29/elgin-ai-city-work-contract-expand/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/02/Elgin-Courier-News.jpg?w=1024&h=605",
+            "publishedAt": "2026-01-29T18:55:36Z"
+        },
         {
             "source": {
                 "id": "492abf277b7277432148b61b21ddc836",
@@ -1719,6 +1815,15 @@
         },
         {
             "source": {
+                "name": "forbes"
+            },
+            "title": "How AMD Is Moving From Assistive AI To Autonomous Operations",
+            "url": "https://www.forbes.com/sites/peterhigh/2026/01/29/how-amd-is-moving-from-assistive-ai-to-autonomous-operations/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/697ba514ab9f0140a5f036f8/0x0.jpg?width=960",
+            "publishedAt": "2026-01-29 18:50:54"
+        },
+        {
+            "source": {
                 "name": "ndtv"
             },
             "title": "Amazon Found High Volume Of Child Sex Abuse Material In AI Training Data",
@@ -3405,114 +3510,6 @@
             "url": "https://www.manilatimes.net/2026/01/28/tmt-newswire/globenewswire/atos-recognized-as-best-in-class-in-itot-cybersecurity-services-in-2025-by-pac-innovation-radar-france/2266733",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/28/915550.png",
             "publishedAt": "2026-01-28T09:08:47Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "BIO-key and Visualforma Awarded Contract to Secure Digital Identities for Large Municipality in Portugal",
-            "url": "https://www.manilatimes.net/2026/01/28/tmt-newswire/globenewswire/bio-key-and-visualforma-awarded-contract-to-secure-digital-identities-for-large-municipality-in-portugal/2266726",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/28/915544.jpg",
-            "publishedAt": "2026-01-28T09:08:36Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Philippines Outsourcing Firms Spends Millions to Upskill Workers",
-            "url": "https://www.bloomberg.com/news/articles/2026-01-28/amid-threats-philippines-spends-millions-to-upskill-outsourcing-workers",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io0pb51vgkOs/v0/1200x799.jpg",
-            "publishedAt": "2026-01-28T09:06:38Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Youdao to Report Fourth Quarter and Fiscal Year 2025 Financial Results on February 11",
-            "url": "https://www.manilatimes.net/2026/01/28/tmt-newswire/pr-newswire/youdao-to-report-fourth-quarter-and-fiscal-year-2025-financial-results-on-february-11/2266722",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-01-28T09:04:46Z"
-        },
-        {
-            "source": {
-                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
-                "name": "Deadline",
-                "url": "https://deadline.com",
-                "country": "us"
-            },
-            "title": "Inside Equity & Pact's Artificial Intelligence Negotiations",
-            "url": "https://deadline.com/2026/01/equity-pact-artificail-intelligence-negotiations-inside-llms-1236697046/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/GettyImages-1657496669.jpg?w=1024",
-            "publishedAt": "2026-01-28T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "GUI Model Second Only to Claude: MiningLamp Technology's AI-powered Global Marketing Platform Wins CICAS Grand Prize",
-            "url": "https://www.manilatimes.net/2026/01/28/tmt-newswire/pr-newswire/gui-model-second-only-to-claude-mininglamp-technologys-ai-powered-global-marketing-platform-wins-cicas-grand-prize/2266713",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/28/915517.jpg",
-            "publishedAt": "2026-01-28T08:44:40Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Google unveils AI tool probing mysteries of human genome",
-            "url": "https://www.breitbart.com/news/google-unveils-ai-tool-probing-mysteries-of-human-genome/",
-            "urlToImage": "https://media.breitbart.com/media/2026/01/wi/afp/googles-alphagenome-hopes-understand-grammar-of-human-genome-light-genetic-diseases-google-alpha-640x335.jpg",
-            "publishedAt": "2026-01-28T08:41:27Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "powered photo editing feature in India",
-            "url": "https://www.lokmattimes.com/technology/google-launches-new-ai-powered-photo-editing-feature-in-india/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601283653745_202601.jpg",
-            "publishedAt": "2026-01-28T08:16:08Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "China clears first NVIDIA H200 AI chips for import: sources",
-            "url": "https://www.marketscreener.com/news/china-clears-first-nvidia-h200-ai-chips-for-import-sources-ce7e5bd9da81f527",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-01-28T08:15:09Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "China Approves Purchases of Nvidia's H200 Chip, Easing Tension With U.S.",
-            "url": "https://www.marketscreener.com/news/china-approves-purchases-of-nvidia-s-h200-chip-easing-tension-with-u-s-ce7e5bd9da8eff23",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-01-28T08:11:11Z"
         }
     ]
 }
