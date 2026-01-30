@@ -1,6 +1,150 @@
 {
-    "lastUpdatedAt": "2026-01-30T05:42:42.753730Z",
+    "lastUpdatedAt": "2026-01-30T06:41:49.174071Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Why the concrete in data centers is a hidden source of carbon emissions",
+            "url": "https://www.latimes.com/business/story/2026-01-29/why-concrete-in-data-centers-is-hidden-source-of-carbon-emissions",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/fd90b05/2147483647/strip/true/crop/3200x1680+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F69%2F19%2Fc38eacd44d9d982c6bd9af811d2b%2Fthe-history-of-concrete-still-1.jpg",
+            "publishedAt": "2026-01-29T18:40:28Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Nvidia Worked to ‘Co-Design’ DeepSeek Model, US Lawmaker Says",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-29/nvidia-worked-to-co-design-deepseek-model-us-lawmaker-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipJaA3gbq9EM/v1/1200x800.jpg",
+            "publishedAt": "2026-01-29T18:35:01Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Ameriprise Financial's profit rises as client assets hit record $1.7 trillion",
+            "url": "https://www.marketscreener.com/news/ameriprise-financial-s-profit-rises-as-client-assets-hit-record-1-7-trillion-ce7e5bdfdd8eff2c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-01-29T18:33:27Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Apple Acquires Audio AI Startup Q.AI: What Investors Need To Know",
+            "url": "https://www.benzinga.com/trading-ideas/movers/26/01/50242794/apple-acquires-audio-ai-startup-q-ai-what-investors-need-to-know",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/01/29/Apple-Logo-On-Apple-Store.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-01-29T18:30:26Z"
+        },
+        {
+            "source": {
+                "id": "c837db3560dbe304554f10dddd97c3c8",
+                "name": "People.com",
+                "url": "https://people.com",
+                "country": "us"
+            },
+            "title": "Couple Uses ChatGPT to Help Name Their Newborn Son",
+            "url": "https://people.com/couple-uses-chatgpt-help-name-their-newborn-son-11889914",
+            "urlToImage": "https://people.com/thmb/kZ7KxQy9zlXWyG9EmFTn2g9gZUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(718x271:720x273)/baby-012226-183a49c49c9d4a548e699163dc6e5628.jpg",
+            "publishedAt": "2026-01-29T18:30:00Z"
+        },
+        {
+            "source": {
+                "id": "e98c4d2585c4c5661ffe60fed4d51930",
+                "name": "BOL News",
+                "url": "https://www.bolnews.com",
+                "country": "pk"
+            },
+            "title": "Apple plans to turn Siri into AI chatbot in iOS 27",
+            "url": "https://www.bolnews.com/technology/apple-plans-to-turn-siri-into-ai-chatbot-in-ios-27/",
+            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2026/01/FotoJet-77.webp",
+            "publishedAt": "2026-01-29T18:25:34Z"
+        },
+        {
+            "source": {
+                "id": "9a68172fefded1b86fc9a95d43faf501",
+                "name": "Wccftech",
+                "url": "https://wccftech.com",
+                "country": "us"
+            },
+            "title": "Apple Makes One Of Its Largest Ever Acquisitions, Buys The Israeli Machine Learning Firm, Q.ai",
+            "url": "https://wccftech.com/apple-makes-one-of-its-largest-ever-acquisitions-buys-the-israeli-machine-learning-firm-q-ai/",
+            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Apple-Q-1.jpg",
+            "publishedAt": "2026-01-29T18:21:01Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "ICE is using AI from Palantir and OpenAI for immigration enforcement, critics warn of surveillance overreach",
+            "url": "https://techstartups.com/2026/01/29/ice-is-using-ai-from-palantir-and-openai-for-immigration-enforcement-critics-warn-of-surveillance-overreach/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2020/09/Palantir-debut.jpg",
+            "publishedAt": "2026-01-29T18:17:58Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Trane Technologies quarterly profit rises on strong commercial air-conditioning demand",
+            "url": "https://www.marketscreener.com/news/trane-technologies-quarterly-profit-rises-on-strong-commercial-air-conditioning-demand-ce7e5bdfdd8ff125",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-01-29T18:16:35Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "The Most Important Non-AI Tech Skills For Comms Pros",
+            "url": "https://www.forbes.com/councils/forbesagencycouncil/2026/01/29/the-most-important-non-ai-tech-skills-for-comms-pros/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/1194627582/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-01-29T18:15:34Z"
+        },
+        {
+            "source": {
+                "id": "10216cb8fabd0accd5eb967c97fc37ab",
+                "name": "MacRumors",
+                "url": "https://www.macrumors.com",
+                "country": "us"
+            },
+            "title": "Apple Just Made Its Second-Biggest Acquisition Ever After Beats",
+            "url": "https://www.macrumors.com/2026/01/29/apple-second-biggest-acquisition-ever/",
+            "urlToImage": "https://images.macrumors.com/t/yFW3VMvOO_OCLJnNnBNawPXm2zU=/2048x/article-new/2026/01/Apple-Logo-Black.jpeg",
+            "publishedAt": "2026-01-29T18:07:34Z"
+        },
+        {
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            },
+            "title": "AI Is Lowering the Cost of Cybercrime-and Raising the Risk for Every Company",
+            "url": "https://fortune.com/2026/01/29/ai-has-made-hacking-cheap-that-changes-everything-for-business/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/Omer-Nevo-Credit-Ben-Hakim-e1769701369425.png?resize=1200,600",
+            "publishedAt": "2026-01-29T18:02:23Z"
+        },
         {
             "source": {
                 "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
@@ -1572,6 +1716,15 @@
             "url": "https://www.thehitavada.com//Encyc/2026/1/29/institute-of-cost-accountants-of-india-nagpur-chapter-to-hold-annual-seminar-on-jan-31.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/1/29/Institute-of-Cost-Accountants-of-India-Nagpur-Chapter-to-hold-annual-seminar-on-Jan-31_202601291431394185_H@@IGHT_285_W@@IDTH_726.jpg",
             "publishedAt": "2026-01-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "ndtv"
+            },
+            "title": "Amazon Found High Volume Of Child Sex Abuse Material In AI Training Data",
+            "url": "https://www.ndtvprofit.com/world/amazon-found-high-volume-of-child-sex-abuse-material-in-ai-training-data-10909791",
+            "urlToImage": "https://c.ndtvimg.com/2026-01/96hrjt4k_amazon-ai-csa_625x300_29_January_26.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
+            "publishedAt": "2026-01-29 17:49:24"
         },
         {
             "source": {
@@ -3360,162 +3513,6 @@
             "url": "https://www.marketscreener.com/news/china-approves-purchases-of-nvidia-s-h200-chip-easing-tension-with-u-s-ce7e5bd9da8eff23",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
             "publishedAt": "2026-01-28T08:11:11Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Quote of the day by Sam Altman: “AI won’t replace humans. But humans who use AI will replace those who don’t.”",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/quote-of-the-day-by-sam-altman-ai-wont-replace-humans-but-humans-who-use-ai-will-replace-those-who-dont-/articleshow/127689103.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-127689497,width-1280,height-720,imgsize-24520,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-01-28T08:09:00Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "China approves first batch of Nvidia H200 chip imports, sources say",
-            "url": "https://www.thehindu.com/sci-tech/technology/china-approves-first-batch-of-nvidia-h200-chip-imports-sources-say/article70560169.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/mcof59/article70560174.ece/alternates/LANDSCAPE_1200/2026-01-28T043712Z_767141329_RC2NFGAUN8TD_RTRMADP_3_NVIDIA-CHINA.JPG",
-            "publishedAt": "2026-01-28T08:07:37Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Japan’s SoftBank in talks to invest up to $30 billion more in OpenAI, valuing ChatGPT owner at $830 billion: Report",
-            "url": "https://www.firstpost.com/business/japans-softbank-talks-invest-30-billion-openai-valuing-chatgpt-owner-830-billion-13973338.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/12/Untitled-design-100-2025-12-e36665ef30f9c4d6d5c3ca74d94368fa.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-01-28T07:54:55Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "SK Hynix posts forecast-beating Q4 profit on huge AI demand",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/28/sk-hynix-posts-forecast-beating-q4-profit-on-huge-ai-demand",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/28/3742562.jpg",
-            "publishedAt": "2026-01-28T07:48:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI to replace repetitive jobs, create new opportunities: Science advisor",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-to-replace-repetitive-jobs-create-new-opportunities-science-advisor/articleshow/127678786.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2081353,resizemode-75,msid-127678786/tech/artificial-intelligence/ai-to-replace-repetitive-jobs-create-new-opportunities-science-advisor.jpg",
-            "publishedAt": "2026-01-28T07:45:08Z"
-        },
-        {
-            "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
-                "country": "in"
-            },
-            "title": "AI ‘eye scan’ offers new way to detect diabetes without blood tests",
-            "url": "https://www.newindianexpress.com/lifestyle/health/2026/Jan/28/ai-eye-scan-offers-new-way-to-detect-diabetes-without-blood-tests-2",
-            "urlToImage": "https://media.newindianexpress.com/newindianexpress%2F2025-09-27%2Ffjmgl99x%2F202509273523364.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-01-28T07:44:07Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "SK Hynix posts forecast-beating Q4 profit on huge AI demand",
-            "url": "https://www.marketscreener.com/news/sk-hynix-posts-forecast-beating-q4-profit-on-huge-ai-demand-ce7e5bd9da8cff26",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-14T221435Z_1_LYNXMPEM0D1CD_RTROPTP_4_SK-HYNIX-CHIPS.JPG",
-            "publishedAt": "2026-01-28T07:43:39Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "China Gives Nod To Import First Batch Of Nvidia's H200 AI Chips: Report",
-            "url": "https://www.benzinga.com/markets/tech/26/01/50180482/china-gives-nod-to-import-first-batch-of-nvidias-h200-ai-chips-report",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/01/28/Nvidia-Logo-On-Smartphone-Screen-With-Ch.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2026-01-28T07:16:10Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "An ‘extremely dangerous time’ calls for a strategic Budget, warns ex-RBI chief Raghuram Rajan",
-            "url": "https://economictimes.indiatimes.com/news/economy/policy/budget-2026-an-extremely-dangerous-time-calls-for-a-strategic-budget-warns-raghuram-rajan/articleshow/127681475.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-127683983,width-1200,height-630,imgsize-100092,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-01-28T06:45:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "ASML Q4 bookings beat expectations as chipmakers order more to satisfy AI demand",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/28/asml-q4-bookings-beat-expectations-as-chipmakers-order-more-to-satisfy-ai-demand",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/28/3742358.jpg",
-            "publishedAt": "2026-01-28T06:29:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "ASML Q4 bookings beat expectations as chipmakers order more to satisfy AI demand",
-            "url": "https://www.reuters.com/business/asml-q4-bookings-beat-expectations-chipmakers-order-more-satisfy-ai-demand-2026-01-28/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/GLOU7F5BGNLJBK65WAHM55DTJY.jpg?auth=289933f71c849e81b81d8b39ab903e6d0a47e9b173b0c545a788b79f4aebe97c&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-01-28T06:17:11Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "ASML Surges Ahead with AI-Fueled Chip Equipment Orders",
-            "url": "https://www.devdiscourse.com/article/technology/3784006-asml-surges-ahead-with-ai-fueled-chip-equipment-orders",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/16_07_2024_05_00_46_5273951.png?width=920&format=jpeg",
-            "publishedAt": "2026-01-28T06:14:32Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "ASML Q4 bookings beat expectations as chipmakers order more to satisfy AI demand",
-            "url": "https://www.marketscreener.com/news/asml-q4-bookings-beat-expectations-as-chipmakers-order-more-to-satiate-ai-demand-ce7e5bd9d88bf620",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-28T050227Z_1_LYNXMPEM0R06U_RTROPTP_4_ASML-CHIPS-AI.JPG",
-            "publishedAt": "2026-01-28T06:12:13Z"
         }
     ]
 }
