@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-01-31T05:35:04.021330Z",
+    "lastUpdatedAt": "2026-01-31T06:32:54.292524Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "California Senate passes bill regulating lawyers' use of AI",
+            "url": "https://www.reuters.com/legal/government/california-senate-passes-bill-regulating-lawyers-use-ai-2026-01-30/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/54P4KHX7HJKH3MDVZRW6M53KME.jpg?auth=4d76a1e297dc896556983db8a55481014f4de919eb35b1ac4f7fff0a4c98c9db&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-30T18:20:18Z"
+        },
+        {
+            "source": {
+                "id": "549a7a859b2345bbe231b00e7244ef99",
+                "name": "Engadget",
+                "url": "https://www.engadget.com",
+                "country": "us"
+            },
+            "title": "Sundance doc 'Ghost in the Machine' draws a damning line between AI and eugenics",
+            "url": "https://www.engadget.com/entertainment/tv-movies/sundance-doc-ghost-in-the-machine-draws-a-damning-line-between-ai-and-eugenics-180613367.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.M6KP2mQAxhFXrTfVMd6uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tavwnbj8fGhost_in_the_Machine-Still_2.jpg",
+            "publishedAt": "2026-01-30T18:06:13Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Videogame stocks slide on Google's AI model that turns prompts into playable worlds",
+            "url": "https://www.marketscreener.com/news/videogame-stocks-slide-on-google-s-ai-model-that-turns-prompts-into-playable-worlds-ce7e5bdcde8ef127",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-19T074721Z_1_LYNXMPEL6I02Z_RTROPTP_4_GOOGLE-MOVES-WINDSURF.JPG",
+            "publishedAt": "2026-01-30T17:38:06Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Videogame stocks slide on Google's AI model that turns prompts into playable worlds",
+            "url": "https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/5DF2YORS3BNSDKPREOCZRYFOV4.jpg?auth=9636507584fef8a9e076df5242cd6d22757a0d9afaf0faf5978a7b08b6f213d5&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-01-30T17:37:53Z"
+        },
         {
             "source": {
                 "id": "17d7c2645f485578130862e0c8dd9480",
@@ -3516,54 +3564,6 @@
             "url": "https://www.livemint.com/economy/is-ai-behind-slow-hiring-in-the-us-federal-reserve-chair-jerome-powell-says-11769652128522.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/29/1600x900/logo/POWELL_1769653099200_1769653099359.jpg",
             "publishedAt": "2026-01-29T02:21:59Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Survey suggests link between chatbot dependency and depression",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/29/survey-suggests-link-between-chatbot-dependency-and-depression",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/28/3742636.jpeg",
-            "publishedAt": "2026-01-29T02:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "EU wants AI to pay for using copyrighted work",
-            "url": "https://timesofindia.indiatimes.com/world/europe/eu-wants-ai-to-pay-for-using-copyrighted-work/articleshow/127749244.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-127749219,width-1280,height-720,imgsize-38456,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-01-29T01:58:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "quarter revenue estimates as AI clamor boosts software demand",
-            "url": "https://economictimes.indiatimes.com/tech/technology/ibm-beats-fourth-quarter-revenue-estimates-as-ai-clamor-boosts-software-demand/articleshow/127749105.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-56356,resizemode-75,msid-127749105/tech/technology/ibm-beats-fourth-quarter-revenue-estimates-as-ai-clamor-boosts-software-demand.jpg",
-            "publishedAt": "2026-01-29T01:56:47Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Who is Madhu Gottumukkala? Trump’s India-origin acting cyber chief allegedly uploaded sensitive docs on ChatGPT",
-            "url": "https://www.hindustantimes.com/trending/us/who-is-madhu-gottumukkala-trump-s-india-origin-acting-cyber-chief-allegedly-uploaded-sensitive-docs-on-chatgpt-101769649597455.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/01/29/550x309/Madhu_Gottumukkala_Trump_Indian_Root_ChatGPT_1769649654068_1769649654206.png",
-            "publishedAt": "2026-01-29T01:44:05Z"
         }
     ]
 }
