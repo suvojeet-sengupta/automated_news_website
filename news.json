@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-01-31T04:01:34.647026Z",
+    "lastUpdatedAt": "2026-01-31T05:35:04.021330Z",
     "articles": [
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Elon Musk’s SpaceX said to consider merger with Tesla or xAI",
+            "url": "https://www.mercurynews.com/2026/01/30/elon-musks-spacex-said-to-consider-merger-with-tesla-or-xai/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/04/Tesla_Results_11772.jpg?w=1024&h=683",
+            "publishedAt": "2026-01-30T17:28:36Z"
+        },
+        {
+            "source": {
+                "id": "214d496d625fc657723cf4da80cff8ce",
+                "name": "Deccan Chronicle",
+                "url": "https://www.deccanchronicle.com",
+                "country": "in"
+            },
+            "title": "Strengthening Innovation Can Boost India’s Productivity: IMF",
+            "url": "https://www.deccanchronicle.com/business/strengthening-innovation-can-boost-indias-productivity-imf-1933852",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/10/24/1970786-imf.jpg",
+            "publishedAt": "2026-01-30T17:11:12Z"
+        },
         {
             "source": {
                 "id": "839b9d172147498877bab641815b0631",
@@ -1347,6 +1371,15 @@
         },
         {
             "source": {
+                "name": "toi"
+            },
+            "title": "AI centre of excellence taking shape at MU",
+            "url": "https://timesofindia.indiatimes.com/city/mangaluru/ai-centre-of-excellence-taking-shape-at-mu/articleshow/127806074.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-117624253,imgsize-96817,width-400,height-225,resizemode-72/ai-centre-of-excellence-taking-shape-at-mu.jpg",
+            "publishedAt": "2026-01-30 17:04:00"
+        },
+        {
+            "source": {
                 "name": "techtarget"
             },
             "title": "How AI-powered learning affects the IT skills gap",
@@ -1371,6 +1404,15 @@
             "url": "https://www.analyticsinsight.net/top-list/top-10-ai-companies-leading-the-us-market-in-2026",
             "urlToImage": "https://media.assettype.com/analyticsinsight%2F2026-01-30%2Fhz3vctxi%2FTop-10-AI-Companies-in-the-US-in-2026.jpg?auto=format%2Ccompress&fit=max&w=480",
             "publishedAt": "2026-01-30 14:16:07"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "Dell Technologies Enables NxtGen to Build India's Largest AI Factory - HPCwire",
+            "url": "https://www.hpcwire.com/off-the-wire/dell-technologies-enables-nxtgen-to-build-indias-largest-ai-factory/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2025/05/Dell-Round-Rock_shutterstock-2148476413_900x.jpg",
+            "publishedAt": "2026-01-30 14:00:53"
         },
         {
             "source": {
@@ -3522,54 +3564,6 @@
             "url": "https://www.hindustantimes.com/trending/us/who-is-madhu-gottumukkala-trump-s-india-origin-acting-cyber-chief-allegedly-uploaded-sensitive-docs-on-chatgpt-101769649597455.html",
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/01/29/550x309/Madhu_Gottumukkala_Trump_Indian_Root_ChatGPT_1769649654068_1769649654206.png",
             "publishedAt": "2026-01-29T01:44:05Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "U.K. proposes letting websites refuse being included in Google's AI search",
-            "url": "https://www.japantimes.co.jp/business/2026/01/29/tech/uk-websites-google-ai-search/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/29/520043.JPG?v=3.1",
-            "publishedAt": "2026-01-29T01:42:09Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Private equity firm Audax seeks over $1.5 billion for BlueCat Networks, sources say",
-            "url": "https://www.reuters.com/legal/transactional/private-equity-firm-audax-seeks-over-15-billion-bluecat-networks-sources-say-2026-01-29/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-01-29T01:40:15Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Indian-origin US cyber agency chief shared sensitive documents on ChatGPT: Report",
-            "url": "https://www.indiatoday.in/world/us-news/story/indian-origin-cisa-head-uploads-sensitive-documents-to-chatgpt-cybersecurity-review-glbs-2859423-2026-01-29",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/madhu-gottumukkala-29325559-16x9_0.jpg?VersionId=6WctHaxzHlnM2LYsVnp69isGjJPAqMZ5",
-            "publishedAt": "2026-01-29T01:34:16Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "Tesla invests $2 billion in Musk's xAI and reiterates Cybercab production starts this year",
-            "url": "https://www.cnbctv18.com/business/tesla-invests-2-billion-in-musks-xai-and-reiterates-cybercab-production-starts-this-year-19835311.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2025/09/elon-musk-2025-09-413fd6000e99689772541b33b36cba17.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2026-01-29T01:20:44Z"
         }
     ]
 }
