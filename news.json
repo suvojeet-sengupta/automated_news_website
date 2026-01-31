@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-31T13:38:14.100146Z",
+    "lastUpdatedAt": "2026-01-31T14:20:45.713813Z",
     "articles": [
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "AI, data centre companies will have to compete for electricity in B.C.",
+            "url": "https://www.cbc.ca/news/canada/british-columbia/ai-data-centres-competitive-bid-process-bc-9.7069103",
+            "urlToImage": "https://i.cbc.ca/ais/1e02b396-b6a3-4499-8b2b-66178366765e,1769814973971/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+            "publishedAt": "2026-01-31T02:14:47Z"
+        },
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "Warsh set to face early reality check as Trump’s man at the Fed",
+            "url": "https://www.japantimes.co.jp/business/2026/01/31/kevin-warsh-fed-reality-check/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/31/520447.JPG?v=3.1",
+            "publishedAt": "2026-01-31T02:13:16Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "In its first trial, AI helps doctors spot breast cancer in scans",
+            "url": "https://timesofindia.indiatimes.com/world/europe/in-its-first-trial-ai-helps-doctors-spot-breast-cancer-in-scans/articleshow/127812827.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-127812822,width-1280,height-720,imgsize-5598,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-01-31T01:46:00Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -3504,42 +3540,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/future-engineers-across-india-google-ceo-sundar-pichai-wants-you-to-take-note-of-this-gemini-feature-that-he-says-if-i-could-/articleshow/127763910.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-127763893,width-1280,height-720,imgsize-496675,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-01-29T07:40:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "How luxury cars use AI without advertising it",
-            "url": "https://timesofindia.indiatimes.com/auto/news/how-luxury-cars-use-ai-without-advertising-it/photostory/127729276.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-127729353,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-01-29T07:30:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Tesla shares up 1.8% in Frankfurt day after results",
-            "url": "https://www.marketscreener.com/news/tesla-shares-up-1-8-in-frankfurt-day-after-results-ce7e5bdedf8ff725",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-29T072115Z_1_LYNXMPEM0S0DP_RTROPTP_4_TESLA-RESULTS.JPG",
-            "publishedAt": "2026-01-29T07:25:09Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Tesla shares up 1.8% in Frankfurt day after results",
-            "url": "https://www.reuters.com/business/autos-transportation/tesla-shares-up-18-frankfurt-day-after-results-2026-01-29/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/6GCTWL6YJBL4RA72GJ5MXK3F6U.jpg?auth=49a7a4fd3da09e8d9b9b7762910efaa0b264f95df0d6a93645bdfd22f366f808&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-01-29T07:21:34Z"
         }
     ]
 }
