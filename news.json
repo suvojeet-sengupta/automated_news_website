@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-01-31T21:17:23.303128Z",
+    "lastUpdatedAt": "2026-01-31T22:17:57.538318Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Abusers increasingly use AI and smart devices to control victims, charity warns",
+            "url": "https://www.thenews.com.pk/latest/1390499-abusers-increasingly-use-ai-and-smart-devices-to-control-victims-charity-warns",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-01-31/1390499_031017_updates.jpg",
+            "publishedAt": "2026-01-31T09:55:29Z"
+        },
+        {
+            "source": {
+                "id": "143b993b193f72147f3de29ebcfbf505",
+                "name": "India TV News",
+                "url": "https://www.indiatvnews.com",
+                "country": "in"
+            },
+            "title": "Dating app breaching data! Hackers target Bumble, Match Group in major cyberattack before Valentines day",
+            "url": "https://www.indiatvnews.com/technology/news/dating-app-breaching-data-hackers-target-bumble-match-group-in-major-cyberattack-before-valentines-day-2026-01-31-1028281",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/01/elon-musk-reportedly-on-the-verge-of-raising-billions-for-his-ai-company-2026-01-31t144910-1769851133.jpg",
+            "publishedAt": "2026-01-31T09:52:55Z"
+        },
+        {
+            "source": {
+                "id": "e98c4d2585c4c5661ffe60fed4d51930",
+                "name": "BOL News",
+                "url": "https://www.bolnews.com",
+                "country": "pk"
+            },
+            "title": "Elon Musk accelerates space-based AI ambitions as Epstein emails surface",
+            "url": "https://www.bolnews.com/technology/elon-musk-accelerates-space-based-ai-ambitions-as-epstein-emails-surface/",
+            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2026/01/Elon-Musk-1.webp",
+            "publishedAt": "2026-01-31T09:19:10Z"
+        },
         {
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -456,6 +492,15 @@
             "url": "https://www.altoonamirror.com/news/local-news/2026/01/johnstown-pittsburgh-ai-catalyst-connection-hosts-presentation/",
             "urlToImage": "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg",
             "publishedAt": "2026-01-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "indiatoday"
+            },
+            "title": "Elon Musk to launch million AI supercomputers to space: What will they do?",
+            "url": "https://www.indiatoday.in/science/story/elon-musk-spacex-star-wars-ai-supercomputer-satellites-orbital-data-centre-fcc-filing-2026-2860833-2026-01-31",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/a-cinematic-vision-of-musks-million-satellite-ai-enabled-network-encircling-earth-like-a-protective-312427373-16x9_0.jpg?VersionId=MxjHmuspVUOfKN5cZ.3Xh_c5OKA526ei",
+            "publishedAt": "2026-01-31 09:58:48"
         },
         {
             "source": {
@@ -3492,54 +3537,6 @@
             "url": "https://www.tribuneindia.com/news/business/gcc-school-and-kc-globed-host-round-table-meeting-on-impact-of-ai-on-gccs-building-the-future-workforce/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJjMDRjODMwLWZkMDEtMTFmMC05ZTU3LWE1YjYwZTQ0ZTg4ZS5qcGc=",
             "publishedAt": "2026-01-29T11:00:27Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "With AI in the driving seat, China moves to rein in job displacement risks",
-            "url": "https://www.scmp.com/economy/china-economy/article/3341532/ai-driving-seat-china-moves-rein-job-displacement-risks",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/01/28/656e8ab6-d048-4f65-a05b-7094c99b2957_6d6f77ea.jpg?itok=RcT4iAdt&v=1769587895",
-            "publishedAt": "2026-01-29T11:00:11Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Seed Round with Participation from Eximius Ventures in EarthSync Technologies",
-            "url": "https://www.tribuneindia.com/news/business/theia-ventures-leads-usd-1m-pre-seed-round-with-participation-from-eximius-ventures-in-earthsync-technologies/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIwZjVhNzEwLWZkMDEtMTFmMC05ZTU3LWE1YjYwZTQ0ZTg4ZS5qcGc=",
-            "publishedAt": "2026-01-29T10:56:06Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "10-20% chance of 2008-like global financial crisis in 2026: Economic Survey",
-            "url": "https://www.firstpost.com/india/10-20-percent-chance-of-2008-like-global-financial-crisis-in-2026-economic-survey-13973615.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/01/Firstpost-2026-01-29T155405.429-2026-01-d436016e0bf4e40c794f46b3b76df2e6.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-01-29T10:24:33Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "J&K Govt Directs Officials To Complete AI, Cybersecurity Courses On iGOT Karmayogi",
-            "url": "https://www.dailyexcelsior.com/jk-govt-directs-officials-to-complete-ai-cybersecurity-courses-on-igot-karmayogi/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/JK-GOVT-1.jpg",
-            "publishedAt": "2026-01-29T10:21:29Z"
         }
     ]
 }
