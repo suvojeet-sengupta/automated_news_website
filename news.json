@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-02-01T21:18:56.399194Z",
+    "lastUpdatedAt": "2026-02-01T22:19:11.866550Z",
     "articles": [
+        {
+            "source": {
+                "id": "b29eaeaa36b9be93ac681e263151f897",
+                "name": "India.com",
+                "url": "https://www.india.com",
+                "country": "in"
+            },
+            "title": "Cyber security alert issued by Indian Govt for Apple, mac and chrome users - Full details inside",
+            "url": "https://www.india.com/technology/indian-government-cybersecurity-warning-apple-mac-iphone-chrome-users-cert-in-alert-tim-cook-sundar-pichai-google-apple-security-vulnerability-update-hacking-risk-india-tech-news-8289586/",
+            "urlToImage": "https://static.india.com/wp-content/uploads/2026/02/Security-alert-issued-by-Indian-Govt.jpg",
+            "publishedAt": "2026-02-01T10:14:09Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "What Nirmala Sitharaman Said About AI, DeepTech And Semiconductors",
+            "url": "https://www.ndtvprofit.com/economy/budget-2026-what-nirmala-sitharaman-said-about-ai-deeptech-and-semiconductors-10924876",
+            "urlToImage": "https://c.ndtvimg.com/2026-02/o7ucrr34_ai-budget-_625x300_01_February_26.png?im=FitAndFill,algorithm=dnn,width=1080,height=607",
+            "publishedAt": "2026-02-01T09:29:24Z"
+        },
         {
             "source": {
                 "id": "76a2f820b104591b97fed1b0932cec38",
@@ -396,6 +420,15 @@
             "url": "https://www.ndtv.com/education/iiit-delhi-introduces-industry-backed-course-on-artificial-intelligence-fabrics-10922463",
             "urlToImage": "https://i.ndtvimg.com/i/2017-04/students_650x400_51492834381.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
             "publishedAt": "2026-02-01T02:14:05Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Meta’s Reality Check: How Slowing VR Adoption Is Reshaping the Company’s Metaverse Ambitions",
+            "url": "https://www.webpronews.com/metas-reality-check-how-slowing-vr-adoption-is-reshaping-the-companys-metaverse-ambitions/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-8853-1769939854.jpeg",
+            "publishedAt": "2026-02-01 09:40:03"
         },
         {
             "source": {
@@ -3477,42 +3510,6 @@
             "url": "https://medicalxpress.com/news/2026-01-ai-mammography-screening-results-aggressive.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/mammography.jpg",
             "publishedAt": "2026-01-29T23:30:04Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "KLA Corp beats quarterly results estimates on strong chipmaking tool demand",
-            "url": "https://www.reuters.com/business/kla-corp-beats-quarterly-results-estimates-strong-chipmaking-tool-demand-2026-01-29/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-01-29T23:22:48Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Chinese AI chipmaker Axera Semiconductor to raise $379 million via Hong Kong IPO",
-            "url": "https://www.reuters.com/world/asia-pacific/chinese-ai-chipmaker-axera-semiconductor-raise-379-million-via-hong-kong-ipo-2026-01-29/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-01-29T23:09:30Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "The iPhone 17 is easing Wall Street’s concerns about Apple’s AI troubles",
-            "url": "https://edition.cnn.com/2026/01/29/tech/apple-earnings-iphone-17-sales-ai",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256863144.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-01-29T23:07:22Z"
         }
     ]
 }
