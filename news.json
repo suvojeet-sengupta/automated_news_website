@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-02-02T09:42:31.222921Z",
+    "lastUpdatedAt": "2026-02-02T10:39:37.372396Z",
     "articles": [
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "The richest 2026 players: AI, crypto, pro",
+            "url": "https://www.bostonglobe.com/2026/02/01/nation/richest-2026-players-ai-crypto-pro-israel-groups-trump/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/QXSH6ROZ2K3CIT6IIOD62JQMFU.jpg?auth=709aea7b86285d8434277476bad3a8e5b29479a3eccf5cf137c9d107633c4dda&width=1440",
+            "publishedAt": "2026-02-01T22:09:17Z"
+        },
+        {
+            "source": {
+                "id": "c792dadf7373fad5b316a63a77688de1",
+                "name": "ABC News",
+                "url": "https://abcnews.go.com",
+                "country": "us"
+            },
+            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms?",
+            "url": "https://abcnews.go.com/Business/wireStory/artificial-intelligence-drive-layoffs-amazon-firms-hard-129773731",
+            "urlToImage": "https://i.abcnewsfe.com/a/a144d680-4ce5-4f3f-b980-8d0125c5f117/wirestory_7736d042172743301dd7e494813a885d_16x9.jpg?w=1600",
+            "publishedAt": "2026-02-01T21:49:51Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell",
+            "url": "https://www.clickondetroit.com/news/2026/02/01/did-artificial-intelligence-really-drive-layoffs-at-amazon-and-other-firms-it-can-be-hard-to-tell/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/NPIP2DNEB5GDPHWQZTZD3YMKXY.jpg?_a=DATAg1eAZAA0",
+            "publishedAt": "2026-02-01T21:49:51Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -3522,42 +3558,6 @@
             "url": "https://economictimes.indiatimes.com/tech/technology/elon-musks-spacex-in-merger-talks-with-xai-ahead-of-planned-ipo-source-says/articleshow/127789699.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38950,resizemode-75,msid-127789699/tech/technology/elon-musks-spacex-in-merger-talks-with-xai-ahead-of-planned-ipo-source-says.jpg",
             "publishedAt": "2026-01-30T02:52:59Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "WRAPUP 1-SpaceX in merger talks with other Musk companies ahead of IPO",
-            "url": "https://www.devdiscourse.com/article/technology/3786745-wrapup-1-spacex-in-merger-talks-with-other-musk-companies-ahead-of-ipo",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_56_2660097.png?width=920&format=jpeg",
-            "publishedAt": "2026-01-30T02:41:11Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "SpaceX in merger talks with other Musk companies ahead of IPO",
-            "url": "https://www.marketscreener.com/news/spacex-in-merger-talks-with-other-musk-companies-ahead-of-ipo-ce7e5bdfd189f726",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-22T151200Z_1_LYNXMPEL9L0TZ_RTROPTP_4_SPACE-MUSK-DUFFY.JPG",
-            "publishedAt": "2026-01-30T02:41:03Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Study offers practical guide for AI application in marine conservation and fisheries",
-            "url": "https://phys.org/news/2026-01-ai-application-marine-fisheries.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/international-study-of.jpg",
-            "publishedAt": "2026-01-30T02:30:06Z"
         }
     ]
 }
