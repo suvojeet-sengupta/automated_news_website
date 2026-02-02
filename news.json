@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-02-02T12:51:22.136968Z",
+    "lastUpdatedAt": "2026-02-02T13:59:16.636241Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Vinod Khosla goes to ChatGPT for Melania movie details, here's what AI chatbot told him",
+            "url": "https://timesofindia.indiatimes.com/technology/social/vinod-khosla-goes-to-chatgpt-for-melania-movie-details-heres-what-ai-chatbot-told-him/articleshow/127817786.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-127817775,width-1280,height-720,imgsize-32546,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-02T01:50:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell",
+            "url": "https://www.breitbart.com/news/did-artificial-intelligence-really-drive-layoffs-at-amazon-and-other-firms-it-can-be-hard-to-tell/",
+            "urlToImage": "https://media.breitbart.com/media/2026/02/wi/ap/amazon-job-cuts-03541-amazon-job-cuts-amazon-logo-is-displayed-at-news-conference-york-sept-28-2011-640x335.jpg",
+            "publishedAt": "2026-02-02T00:56:49Z"
+        },
         {
             "source": {
                 "id": "027234d3c0a6aefa3d7ab81380e63d86",
@@ -3531,30 +3555,6 @@
             "url": "https://www.ndtvprofit.com/markets/microsofts-357-billion-rout-is-worst-since-deepseek-hit-nvidia-10911232",
             "urlToImage": "https://c.ndtvimg.com/2026-01/dao3sdno_microsoft_625x300_30_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
             "publishedAt": "2026-01-30T03:29:50Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Amazon in talks to invest billions in OpenAI, source says",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-in-talks-to-invest-billions-in-openai-source-says/articleshow/127789978.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37872,resizemode-75,msid-127789978/tech/artificial-intelligence/amazon-in-talks-to-invest-billions-in-openai-source-says.jpg",
-            "publishedAt": "2026-01-30T03:15:26Z"
-        },
-        {
-            "source": {
-                "id": "b76d069607ae6330d5f65a02c543a320",
-                "name": "Outlook India",
-                "url": "https://www.outlookindia.com",
-                "country": "in"
-            },
-            "title": "AI use in mammography more effective than standard: Results from Sweden's breast cancer programme",
-            "url": "https://www.outlookindia.com/international/ai-use-in-mammography-more-effective-than-standard-results-from-sweden-s-breast-cancer-programme",
-            "urlToImage": "https://media.assettype.com/outlookindia/2026-01-30/qxqwdsoh/cancer-pix.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-01-30T03:06:05Z"
         }
     ]
 }
