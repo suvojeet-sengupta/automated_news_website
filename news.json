@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-02-02T17:34:27.566415Z",
+    "lastUpdatedAt": "2026-02-02T18:37:24.127555Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Sotxx 600, FTSE, DAX, CAC, silver, gold, bitcoin",
+            "url": "https://www.cnbc.com/2026/02/02/european-markets-sotxx-600-ftse-dax-cac-global-markets-silver-gold-bitcoin.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102101947-457534494.jpg?v=1689921842&w=1920&h=1080",
+            "publishedAt": "2026-02-02T06:34:19Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "AI takes centre stage in Budget 2026 as Finance Minister pitches ‘Make AI work for India’",
+            "url": "https://www.firstpost.com/tech/ai-takes-centre-stage-in-budget-2026-as-finance-minister-pitches-make-ai-work-for-india-13975134.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2023/08/6TIDCQXE4ZLHTGW3OELMLU5JIU-scaled.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-02-02T06:32:51Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI push moves innovation into everyday life",
+            "url": "https://www.thestar.com.my/business/business-news/2026/02/02/ai-push-moves-innovation-into-everyday-life",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/02/3749846.jpg",
+            "publishedAt": "2026-02-02T06:19:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Did artificial intelligence really drive layoffs at Amazon, other firms? It can be hard to tell",
+            "url": "https://www.devdiscourse.com/article/technology/3790011-did-artificial-intelligence-really-drive-layoffs-at-amazon-other-firms-it-can-be-hard-to-tell",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_20_7172535.jpg?width=920&format=jpeg",
+            "publishedAt": "2026-02-02T06:18:58Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell.",
+            "url": "https://www.bostonglobe.com/2026/02/02/business/ai-job-layoffs-impact/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/HJSW2VKVORNNKD43SY2PJXOAJI.jpg?auth=877ac91013f8c10aff43d96c514d6086824bf41b09771a8238f957a834b15ea3&width=1440",
+            "publishedAt": "2026-02-02T06:09:16Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/did-artificial-intelligence-really-drive-layoffs-at-amazon-and-other-firms-it-can-be-hard-to-tell/articleshow/127853920.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36128,resizemode-75,msid-127853920/tech/artificial-intelligence/did-artificial-intelligence-really-drive-layoffs-at-amazon-and-other-firms-it-can-be-hard-to-tell.jpg",
+            "publishedAt": "2026-02-02T06:06:34Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell",
+            "url": "https://wtop.com/national/2026/02/did-artificial-intelligence-really-drive-layoffs-at-amazon-and-other-firms-it-can-be-hard-to-tell/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/01/Amazon_Job_Cuts_03541-scaled.jpg",
+            "publishedAt": "2026-02-02T06:00:06Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell",
+            "url": "https://apnews.com/article/ai-job-impacts-layoffs-amazon-pinterest-dow-7736d042172743301dd7e494813a885d",
+            "urlToImage": "https://dims.apnews.com/dims4/default/a2c2449/2147483647/strip/true/crop/5616x3742+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2Fc6%2Fe20d47003bbdbb2da89dfb35d044%2F27b2884367ae4456af4e5ce22c304e8d",
+            "publishedAt": "2026-02-02T06:00:06Z"
+        },
+        {
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            },
+            "title": "Denied US visa once, Kerala BTech dropout now runs cybersecurity firm funded by State of Connecticut",
+            "url": "https://www.onmanorama.com/news/business/2026/02/02/us-visa-denied-kerala-b-tech-dropout-cybersecurity-state-connecticut-rahul-sasi-cloudsek.html",
+            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/news/business/images/2026/2/2/rahul-sasi.jpg",
+            "publishedAt": "2026-02-02T05:53:06Z"
+        },
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "What is Moltbook? The strange new social media site for AI bots",
+            "url": "https://www.theguardian.com/technology/2026/feb/02/moltbook-ai-agents-social-media-site-bots-artificial-intelligence",
+            "urlToImage": "https://i.guim.co.uk/img/media/4445d2c35ccdef957071027143255c8f1e5180c2/1401_0_4216_3375/master/4216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef242cc57749952882fc6bb187271817",
+            "publishedAt": "2026-02-02T05:39:25Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -3432,126 +3552,6 @@
             "url": "https://www.swissinfo.ch/eng/ai-and-medicine/how-ai-is-used-in-diagnostics/90775276",
             "urlToImage": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/01/AI-in-diagnosis-ENG.jpg?ver=9a9e2f04&fit=355,630",
             "publishedAt": "2026-01-30T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "614a4b10b69af6cc657068ec6a59eaff",
-                "name": "Lawfare",
-                "url": "https://www.lawfaremedia.org",
-                "country": "us"
-            },
-            "title": "Punish the Wicked Reward the Righteous",
-            "url": "https://www.lawfaremedia.org/article/punish-the-wicked--reward-the-righteous",
-            "urlToImage": "https://www.lawfaremedia.org/assets/icons/favicon-32x32.png",
-            "publishedAt": "2026-01-30T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "b29eaeaa36b9be93ac681e263151f897",
-                "name": "India.com",
-                "url": "https://www.india.com",
-                "country": "in"
-            },
-            "title": "Share Market News: THIS company surges 12 percent even as benchmark indices remain volatile, check details here",
-            "url": "https://www.india.com/business/blue-cloud-softech-solutions-ltd-share-market-news-this-company-surges-12-percent-even-as-benchmark-indices-remain-volatile-check-details-here-8286906/",
-            "urlToImage": "https://static.india.com/wp-content/uploads/2025/10/6-230.jpg",
-            "publishedAt": "2026-01-30T07:55:41Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "South Korea, Japan defence ministers agree to upgrade cooperation",
-            "url": "https://www.reuters.com/world/asia-pacific/south-korea-japan-defence-ministers-agree-upgrade-cooperation-2026-01-30/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/OYYPTETOY5NELELKT36QIPWLDE.jpg?auth=6834e168e8f52514be1a82d892527ff9a60774d173628386a2a33b97bd4c4217&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-01-30T07:53:21Z"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie",
-                "country": "ie"
-            },
-            "title": "SpaceX in merger talks with other Musk firms ahead of IPO",
-            "url": "https://www.rte.ie/news/business/2026/0130/1555896-spacex-in-merger-talks-with-musk-firms/",
-            "urlToImage": "https://www.rte.ie/images/0020f071-1600.jpg",
-            "publishedAt": "2026-01-30T07:35:21Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "K'taka govt holding consultations on measures for responsible use of AI, social media: Minister",
-            "url": "https://theprint.in/india/ktaka-govt-holding-consultations-on-measures-for-responsible-use-of-ai-social-media-minister/2840818/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-01-30T07:16:41Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "K'taka govt holding consultations on measures for responsible use of AI, social media: Minister",
-            "url": "https://www.devdiscourse.com/article/politics/3786942-ktaka-govt-holding-consultations-on-measures-for-responsible-use-of-ai-social-media-minister",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_56_48_7796591.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-01-30T07:06:31Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Amazon found ‘high volume’ of child sex abuse material in AI training data",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/01/30/amazon-found-high-volumeof-child-sex-abuse-material-in-ai-training-data",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/30/3745823.jpg",
-            "publishedAt": "2026-01-30T07:00:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "China conditionally approves DeepSeek to buy Nvidia's H200 chips - sources",
-            "url": "https://www.marketscreener.com/news/china-conditionally-approves-deepseek-to-buy-nvidia-s-h200-chips-sources-ce7e5bdfd088f421",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-27T130139Z_1_LYNXMPEL7Q0KS_RTROPTP_4_NVIDIA-RESULTS.JPG",
-            "publishedAt": "2026-01-30T06:52:48Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Exclusive: China conditionally approves DeepSeek to buy Nvidia's H200 chips - sources",
-            "url": "https://www.reuters.com/world/china/china-conditionally-approves-deepseek-buy-nvidias-h200-chips-sources-2026-01-30/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/QFSXOV6TJBL4DKNZI4ITH55SGM.jpg?auth=b8562194e17d1f710b7d681df10a65c42155ac3a31991e51f8ff5b879f359904&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-01-30T06:51:25Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "EXCLUSIVE-China conditionally approves DeepSeek to buy Nvidia's H200 chips - sources",
-            "url": "https://www.devdiscourse.com/article/technology/3786923-exclusive-china-conditionally-approves-deepseek-to-buy-nvidias-h200-chips---sources",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_02_2201424.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-01-30T06:49:23Z"
         }
     ]
 }
