@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-02-02T14:49:56.974966Z",
+    "lastUpdatedAt": "2026-02-02T15:34:00.869047Z",
     "articles": [
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "British think tank urges official regulation for AI",
+            "url": "https://www.lokmattimes.com/international/british-think-tank-urges-official-regulation-for-ai-generated-news/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602023658919_202602.jpg",
+            "publishedAt": "2026-02-02T03:26:25Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Apple loses more AI researchers and a Siri executive in latest departures",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/02/apple-loses-more-ai-researchers-and-a-siri-executive-in-latest-departures",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/02/3749696.jpg",
+            "publishedAt": "2026-02-02T03:00:00Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -3528,30 +3552,6 @@
             "url": "https://www.ndtv.com/health/ai-use-in-mammography-more-effective-than-standard-results-from-swedens-breast-cancer-programme-10910701",
             "urlToImage": "https://c.ndtvimg.com/2025-10/5u0b0tao_breast-cancer-awareness_625x300_13_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
             "publishedAt": "2026-01-30T04:34:20Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "UAE residents outsourcing their brains to AI: Are we losing our minds?",
-            "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-residents-outsourcing-their-brains-to-ai-are-we-losing-our-minds/articleshow/127776060.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-127790462,width-1280,height-720,imgsize-20666,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-01-30T04:06:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Chinese RISC-V Chipmaker SpacemiT Launches K3 AI CPU, Highlighting the Rise of Open-Source Hardware in Intelligent Computing",
-            "url": "https://www.manilatimes.net/2026/01/30/tmt-newswire/globenewswire/chinese-risc-v-chipmaker-spacemit-launches-k3-ai-cpu-highlighting-the-rise-of-open-source-hardware-in-intelligent-computing/2268419",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/30/918549.png",
-            "publishedAt": "2026-01-30T04:01:40Z"
         }
     ]
 }
