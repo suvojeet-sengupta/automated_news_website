@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-02-02T13:59:16.636241Z",
+    "lastUpdatedAt": "2026-02-02T14:49:56.974966Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "A chatbot entirely powered by humans, not artificial intelligence? This Chilean community shows why",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/02/a-chatbot-entirely-powered-by-humans-not-artificial-intelligence-this-chilean-community-shows-why",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/02/3749680.jpg",
+            "publishedAt": "2026-02-02T02:00:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -36,6 +48,15 @@
             "url": "https://www.lbc.co.uk/article/artificial-intelligence-diy-help-5HjdRgr_2/",
             "urlToImage": "https://images.globalplayer.com/images/789248?crop=16_9&width=1200&signature=WZNcrlvXC5TCYDKXwqJkAjMI7jc=",
             "publishedAt": "2026-02-02T00:01:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Meta’s $65 Billion AI Gamble: When Infrastructure Spending Outpaces Revenue Reality",
+            "url": "https://www.webpronews.com/metas-65-billion-ai-gamble-when-infrastructure-spending-outpaces-revenue-reality/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-8920-1769999601.jpeg",
+            "publishedAt": "2026-02-02 02:33:25"
         },
         {
             "source": {
@@ -3531,30 +3552,6 @@
             "url": "https://www.manilatimes.net/2026/01/30/tmt-newswire/globenewswire/chinese-risc-v-chipmaker-spacemit-launches-k3-ai-cpu-highlighting-the-rise-of-open-source-hardware-in-intelligent-computing/2268419",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/30/918549.png",
             "publishedAt": "2026-01-30T04:01:40Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Microsofts $357 Billion Rout Is Worst Since Deepseek Hit Nvidia",
-            "url": "https://www.ndtvprofit.com/business/microsofts-357-billion-rout-is-worst-since-deepseek-hit-nvidia-10911232",
-            "urlToImage": "https://c.ndtvimg.com/2026-01/dao3sdno_microsoft_625x300_30_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-01-30T03:29:50Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Microsofts $357 Billion Rout Is Worst Since Deepseek Hit Nvidia",
-            "url": "https://www.ndtvprofit.com/markets/microsofts-357-billion-rout-is-worst-since-deepseek-hit-nvidia-10911232",
-            "urlToImage": "https://c.ndtvimg.com/2026-01/dao3sdno_microsoft_625x300_30_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-01-30T03:29:50Z"
         }
     ]
 }
