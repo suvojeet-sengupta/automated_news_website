@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2026-02-03T18:51:06.146910Z",
+    "lastUpdatedAt": "2026-02-03T19:42:04.796677Z",
     "articles": [
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk",
+                "country": "gb"
+            },
+            "title": "Elon Musk confirms SpaceX merger with AI platform behind Grok in $1.25tn deal",
+            "url": "https://www.dailymail.co.uk/money/markets/article-15522655/Elon-Musk-confirms-SpaceX-merger-AI-platform-Grok-1-25tn-deal.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2026/02/03/07/106057829-0-image-a-8_1770104156591.jpg",
+            "publishedAt": "2026-02-03T07:37:51Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Phoebe Gates reportedly raises millions for AI startup without parental backing",
+            "url": "https://www.thenews.com.pk/latest/1390843-phoebe-gates-reportedly-raises-millions-for-ai-startup-without-parental-backing",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-02-03/1390843_123013_updates.jpg",
+            "publishedAt": "2026-02-03T07:25:23Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Palantir beats forecasts on AI and government demand",
+            "url": "https://www.marketscreener.com/news/palantir-beats-forecasts-on-ai-and-government-demand-ce7e5bd2df80f52d",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_10981_800.png",
+            "publishedAt": "2026-02-03T07:21:51Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "India's Fractal Analytics cuts IPO size by over 40% to $314 million",
+            "url": "https://www.reuters.com/world/india/indias-fractal-analytics-cuts-ipo-size-by-over-40-314-million-2026-02-03/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/5K7TE32JXRML5N2E25Y5DNVIE4.jpg?auth=d0c1dbbc4b49b9583f9aa007cc4bc15bfafce63afe071d9607a19b036652222e&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-02-03T07:19:39Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "SoftBank Corp. Unit Teams Up With Intel to Work on Next-Generation Memory Tech -- Update",
+            "url": "https://www.marketscreener.com/news/softbank-corp-unit-teams-up-with-intel-to-work-on-next-generation-memory-tech-update-ce7e5bd2dc81fe22",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-02-03T07:16:52Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The Cost of Intelligence: Why the Future of AI May Depend on What We Refuse to Waste",
+            "url": "https://techbullion.com/the-cost-of-intelligence-why-the-future-of-ai-may-depend-on-what-we-refuse-to-waste/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/growtika-nGoCBxiaRO0-unsplash.jpg-1000x600.jpeg",
+            "publishedAt": "2026-02-03T07:15:03Z"
+        },
+        {
+            "source": {
+                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
+                "name": "7NEWS Australia",
+                "url": "https://7news.com.au",
+                "country": "au"
+            },
+            "title": "Signs to identify fake artificial intelligence images circulating on social media about the Jeffrey Epstein files",
+            "url": "https://7news.com.au/news/signs-to-identify-fake-artificial-intelligence-images-circulating-on-social-media-about-the-jeffrey-epstein-files-c-21512225",
+            "urlToImage": "https://images.7news.com.au/publication/C-21512225/6ed54e67b892813121b6d5a67e53b80c7ce0414b-16x9-x0y0w1280h720.png?imwidth=1200",
+            "publishedAt": "2026-02-03T07:12:22Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "SpaceX merges with xAI ahead of a potential $1.25 trillion IPO",
+            "url": "https://www.marketscreener.com/news/spacex-merges-with-xai-ahead-of-a-potential-1-25-trillion-ipo-ce7e5bd2dc8ff527",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-07-22T184023Z_1_LYNXMPEL6L10I_RTROPTP_4_SPACEX-MUSK.JPG",
+            "publishedAt": "2026-02-03T07:11:10Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Good Tokens Expands Blockchain and AI Initiatives to Support Global Good",
+            "url": "https://techbullion.com/good-tokens-expands-blockchain-and-ai-initiatives-to-support-global-good/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/6057865742981467555-1000x600.jpg",
+            "publishedAt": "2026-02-03T07:03:52Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -3435,114 +3543,6 @@
             "url": "https://www.freepressjournal.in/indore/budget-2026-tech-sector-expects-big-push-for-artificial-intelligence-digital-infrastructure",
             "urlToImage": "https://media.assettype.com/freepressjournal/2026-01-31/lay0zhru/Add-a-little-bit-of-body-text.png",
             "publishedAt": "2026-01-31T14:43:49Z"
-        },
-        {
-            "source": {
-                "id": "7f88d25ef52b80617fbe0ece7daba381",
-                "name": "Agencia EFE",
-                "url": "https://efe.com",
-                "country": "es"
-            },
-            "title": "Japan, UK step up cooperation on cybersecurity, energy, nuclear power",
-            "url": "https://efe.com/en/latest-news/2026-01-31/japan-uk-step-up-cooperation-on-cybersecurity-energy-nuclear-power/",
-            "urlToImage": "https://efe.com/wp-content/uploads/2026/01/rss-efe250e9596240e836fc226521362f00817141aa0ccw.webp",
-            "publishedAt": "2026-01-31T14:23:58Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "India lacks good regulatory framework for Artificial Intelligence, says Odisha BJP MP",
-            "url": "https://www.devdiscourse.com/article/technology/3788576-india-lacks-good-regulatory-framework-for-artificial-intelligence-says-odisha-bjp-mp",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_56_2660097.png?width=920&format=jpeg",
-            "publishedAt": "2026-01-31T13:46:33Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "AI on Mars: Perseverance rover completes first drive planned by generative AI",
-            "url": "https://www.indiatoday.in/science/story/nasa-perseverance-mars-2020-rover-ai-drive-artificial-intelligence-jezero-crater-space-mission-2860953-2026-01-31",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/nasa-perseverance-31122946-16x9_0.jpg?VersionId=gdSGsKOKBfCOBC6womDtFdK40TLniVcd",
-            "publishedAt": "2026-01-31T13:22:06Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Governor calls upon students to adopt a mindset of continuous learning",
-            "url": "https://www.thehindu.com/news/national/karnataka/governor-calls-upon-students-to-adopt-a-mindset-of-continuous-learning/article70574167.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/n7coeu/article70574294.ece/alternates/LANDSCAPE_1200/5964_31_1_2026_17_52_41_1_HONORARYDOCTORATES.JPG",
-            "publishedAt": "2026-01-31T12:55:13Z"
-        },
-        {
-            "source": {
-                "id": "8f697316c20ca510ecdfa51c8f969ff3",
-                "name": "SunStar Philippines",
-                "url": "https://www.sunstar.com.ph",
-                "country": "ph"
-            },
-            "title": "Study gauges AI readiness of PH exporters",
-            "url": "https://www.sunstar.com.ph/cebu/study-gauges-ai-readiness-of-ph-exporters",
-            "urlToImage": "https://media.assettype.com/sunstar%2Fimport%2Fuploads%2Fimages%2F2021%2F07%2F21%2F299630.jpg?rect=0%2C16%2C800%2C420&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-01-31T12:46:18Z"
-        },
-        {
-            "source": {
-                "id": "0c9364fff53c0e5a3450947d9a54e795",
-                "name": "Daily Mail Online",
-                "url": "https://www.dailymail.co.uk",
-                "country": "gb"
-            },
-            "title": "Too busy to clean your home before an agent gives a tour? Use AI pictures! Inside the bizarre new property trend which house-hunters have called 'misleading'",
-            "url": "https://www.dailymail.co.uk/news/article-15499329/Too-busy-clean-home-agent-gives-tour-Use-AI-pictures-Inside-bizarre-new-property-trend-house-hunters-called-misleading.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2026/01/27/11/105859709-0-image-a-29_1769513285009.jpg",
-            "publishedAt": "2026-01-31T12:22:46Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI misuse and Law & Order concerns emerge as key challenges ahead of Bangladesh polls, says expert",
-            "url": "https://www.tribuneindia.com/news/world/ai-misuse-and-law-order-concerns-emerge-as-key-challenges-ahead-of-bangladesh-polls-says-expert/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFjNTE4MzMwLWZlOWQtMTFmMC05ZTU3LWE1YjYwZTQ0ZTg4ZS5qcGc=",
-            "publishedAt": "2026-01-31T12:05:12Z"
-        },
-        {
-            "source": {
-                "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
-                "name": "cleveland.com",
-                "url": "https://www.cleveland.com",
-                "country": "us"
-            },
-            "title": "LCCC announces five-part virtual AI workshop series for 2026",
-            "url": "https://www.cleveland.com/lorain-county/2026/01/lccc-announces-five-part-virtual-ai-workshop-series-for-2026.html",
-            "urlToImage": "https://www.cleveland.com/resizer/v2/NUF2GQWYO5E2RORMQI3JRJJZAM.jpg?auth=6169beacc708c2abd155aa81270f4e74e23dea86fdcf742e04ab0bc1261132d2&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-01-31T12:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Disruption, Ethics, Policy & AI Adoption Dominate Discussions at Mastersoft's AI Conclave in Chennai",
-            "url": "https://www.tribuneindia.com/news/business/disruption-ethics-policy-ai-adoption-dominate-discussions-at-mastersofts-ai-conclave-in-chennai/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQyYTE4MGQwLWZlOTgtMTFmMC05ZTU3LWE1YjYwZTQ0ZTg4ZS5qcGc=",
-            "publishedAt": "2026-01-31T11:30:30Z"
         }
     ]
 }
