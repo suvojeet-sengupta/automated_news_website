@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-02-03T04:11:23.893312Z",
+    "lastUpdatedAt": "2026-02-03T05:47:15.018786Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Snowflake partners with OpenAI in $200 million AI deal",
+            "url": "https://economictimes.indiatimes.com/tech/technology/snowflake-partners-with-openai-in-200-million-ai-deal/articleshow/127868337.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-659021,resizemode-75,msid-127868337/tech/technology/snowflake-partners-with-openai-in-200-million-ai-deal.jpg",
+            "publishedAt": "2026-02-02T17:41:39Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Elon Musk mulls merging SpaceX with artificial intelligence firm xAI: report",
+            "url": "https://nypost.com/2026/02/02/business/elon-musk-mulls-merging-spacex-with-artificial-intelligence-firm-xai-report/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/02/120276401.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-02-02T17:14:53Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "acquired cybersecurity company Wiz exposes 'Moltbook hacking', says 35,000 email addresses and more leaked",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-acquired-cybersecurity-company-wiz-exposes-moltbook-hacking-says-35000-email-addresses-and-more-leaked/articleshow/127867602.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-127867566,width-1280,height-720,imgsize-220656,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-02T17:06:00Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Elon Musk is said in advanced talks to combine SpaceX, xAI",
+            "url": "https://www.mercurynews.com/2026/02/02/elon-musk-combine-spacex-xai/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/02/GettyImages-2256968260.jpg?w=1024&h=683",
+            "publishedAt": "2026-02-02T16:43:26Z"
+        },
+        {
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            },
+            "title": "Nvidia Stock Dips On OpenAI Funding Issues",
+            "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-openai-funding-issues/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2026/02/IT-Nvidia-Huang-company.jpg",
+            "publishedAt": "2026-02-02T16:35:20Z"
+        },
         {
             "source": {
                 "id": "736870a2b1a320473f05d8f8015bf089",
@@ -780,6 +840,24 @@
             "url": "https://www.lbc.co.uk/article/artificial-intelligence-diy-help-5HjdRgr_2/",
             "urlToImage": "https://images.globalplayer.com/images/789248?crop=16_9&width=1200&signature=WZNcrlvXC5TCYDKXwqJkAjMI7jc=",
             "publishedAt": "2026-02-02T00:01:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The Enterprise AI Power Struggle: How Anthropic’s Claude is Challenging OpenAI’s Dominance in Corporate America",
+            "url": "https://www.webpronews.com/the-enterprise-ai-power-struggle-how-anthropics-claude-is-challenging-openais-dominance-in-corporate-america/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-8996-1770050578.jpeg",
+            "publishedAt": "2026-02-02 16:43:03"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Which AI Innovations Are Set to Dominate the Future?",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/which-ai-innovations-are-set-to-dominate-the-future",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2026-02-02%2Fg192pzqh%2F81d1d9af-9659-426e-9e39-bbda89505182.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2026-02-02 16:17:07"
         },
         {
             "source": {
@@ -3453,90 +3531,6 @@
             "url": "https://www.ibtimes.com/using-new-tech-reduce-fraud-private-credit-3796563",
             "urlToImage": "https://d.ibtimes.com/en/full/4642087/using-new-tech-reduce-fraud-private-credit.jpg",
             "publishedAt": "2026-01-30T14:19:57Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Google’s Project Genie allows users to explore AI-generated worlds in real time",
-            "url": "https://indianexpress.com/article/technology/tech-news-technology/googles-project-genie-allows-users-to-explore-ai-generated-worlds-in-real-time-10504000/",
-            "urlToImage": "https://images.indianexpress.com/2026/01/IE-2026-01-30T193855.796.jpg",
-            "publishedAt": "2026-01-30T14:14:17Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "AI-supported mammography improves early detection of breast cancer",
-            "url": "https://www.news-medical.net/news/20260130/AI-supported-mammography-improves-early-detection-of-breast-cancer.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2016/2/Breast_Cancer_Mammogram_-_Tyler_Olsen_60b2170bc34146e8b8f10220c480f019-620x480.jpg",
-            "publishedAt": "2026-01-30T14:14:00Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "SpaceX explores merger with Tesla or xAI as Elon Musk weighs empire consolidation",
-            "url": "https://techstartups.com/2026/01/30/spacex-explores-merger-with-tesla-or-xai-as-elon-musk-weighs-empire-consolidation/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2026/01/musk-spacex-tesla.jpg",
-            "publishedAt": "2026-01-30T14:06:12Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Even Tech Skeptics Can Cheer AI’s Promise in Decoding the Dark Genome",
-            "url": "https://www.livemint.com/technology/even-tech-skeptics-can-cheer-ai-s-promise-in-decoding-the-dark-genome-11769781705582.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
-            "publishedAt": "2026-01-30T14:01:45Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Trends in Remote Software Development, Data Science, and IT Careers in 2026",
-            "url": "https://techbullion.com/trends-in-remote-software-development-data-science-and-it-careers-in-2026/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/01/Article_35-1000x600.jpg",
-            "publishedAt": "2026-01-30T13:46:22Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Enabled Risk Assessment Technology to Improve Lending Efficiency",
-            "url": "https://www.tribuneindia.com/news/business/salaryontime-unveils-ai-enabled-risk-assessment-technology-to-improve-lending-efficiency/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWYyNmUyOGUwLWZkZTEtMTFmMC05ZTU3LWE1YjYwZTQ0ZTg4ZS5qcGc=",
-            "publishedAt": "2026-01-30T13:45:27Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "UEM Kolkata Hosts CHAINSPHERE to Empower Youth in Blockchain and AI Innovation",
-            "url": "https://www.tribuneindia.com/news/business/uem-kolkata-hosts-chainsphere-to-empower-youth-in-blockchain-and-ai-innovation/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRjZDJlYjMwLWZkZGYtMTFmMC05ZTU3LWE1YjYwZTQ0ZTg4ZS5qcGc=",
-            "publishedAt": "2026-01-30T13:30:32Z"
         }
     ]
 }
