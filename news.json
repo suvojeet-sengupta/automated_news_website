@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-02-04T11:29:39.454851Z",
+    "lastUpdatedAt": "2026-02-04T12:51:03.880118Z",
     "articles": [
+        {
+            "source": {
+                "id": "4ddba5324f2e0216fa6458240fdb0f97",
+                "name": "Wallstreet Online",
+                "url": "https://www.wallstreet-online.de",
+                "country": "de"
+            },
+            "title": "Tallwire Launches into Early Access, Introducing a Reader-Focused Technology News Platform",
+            "url": "https://www.wallstreet-online.de/nachricht/20452619-tallwire-launches-into-early-access-introducing-a-reader-focused-technology-news-platform",
+            "urlToImage": "https://assets.wallstreet-online.de/_media/6/newsfeeds1280/size_645/newsfile-1280x720.png",
+            "publishedAt": "2026-02-04T00:31:41Z"
+        },
+        {
+            "source": {
+                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+                "name": "The Sun",
+                "url": "https://www.thesun.co.uk",
+                "country": "gb"
+            },
+            "title": "Elon Musk set to put AI bots into orbit like movie 2001: A Space Odyssey after merging firms",
+            "url": "https://www.thesun.co.uk/money/38113856/elon-musk-ai-bots-orbit-movie-space-odyssey/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2026/02/NINTCHDBPICT001056236654.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+            "publishedAt": "2026-02-04T00:19:27Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Microsoft promotes sales leaders as company pursues AI growth",
+            "url": "https://www.cnbc.com/2026/02/03/microsoft-promotes-sales-leaders-as-company-pursues-ai-growth.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108260991-1770153509459-gettyimages-633008456-MICROSOFT_ALTHOFF.jpeg?v=1770153596&w=1920&h=1080",
+            "publishedAt": "2026-02-04T00:00:40Z"
+        },
+        {
+            "source": {
+                "id": "cacbb940d93ce3819ee67862d98fc910",
+                "name": "Aurora News-Register",
+                "url": "https://www.auroranewsregister.com",
+                "country": "us"
+            },
+            "title": "Mid Air IT wins county computer maintenance contract",
+            "url": "https://www.auroranewsregister.com/news/mid-air-it-wins-county-computer-maintenance-contract",
+            "urlToImage": "https://www.auroranewsregister.com/sites/auroranewsregister.com/files/2026-02/Board%20of%20Commissioners.jpg",
+            "publishedAt": "2026-02-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Dragos Expands Collaboration with Microsoft to Deliver OT",
+            "url": "https://itwire.com/it-industry-news/strategy/dragos-expands-collaboration-with-microsoft-to-deliver-ot-native-cybersecurity-at-global-industrial-scale.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/063872f8cfbb5f3b119eb6ea066cf28c_XS.jpg",
+            "publishedAt": "2026-02-03T23:31:39Z"
+        },
         {
             "source": {
                 "id": "28bc60a23a7bf89e60f893506992a3fe",
@@ -1863,6 +1923,15 @@
         },
         {
             "source": {
+                "name": "pcgamer"
+            },
+            "title": "'We're actively embracing generative AI,' Take-Two boss says, after previously expressing skepticism: 'We have hundreds of pilots and implementations across our company'",
+            "url": "https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9ALebd8hHkFFsoJEtN97NE-1280-80.jpg",
+            "publishedAt": "2026-02-03 23:38:02"
+        },
+        {
+            "source": {
                 "name": "webpronews"
             },
             "title": "Intel’s Bold Return to GPU Market: Lip-Bu Tan Bets on Graphics Chips to Salvage Semiconductor Giant’s Future",
@@ -3459,66 +3528,6 @@
             "url": "https://en.prnasia.com/story/521058-0.shtml",
             "urlToImage": "https://mma.prnasia.com/media2/2871354/Greneta_Image1.jpg?p=medium600",
             "publishedAt": "2026-02-02 13:00:00"
-        },
-        {
-            "source": {
-                "name": "techreport"
-            },
-            "title": "The AI Bubble Debate: Can Both Bulls and Bears Be Right?",
-            "url": "https://techreport.com/news/business/the-ai-bubble-debate-can-both-bulls-and-bears-be-right/",
-            "urlToImage": "https://techreport.com/wp-content/uploads/2026/02/image.jpeg?_t=1770036818",
-            "publishedAt": "2026-02-02 12:53:38"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "Snowflake and OpenAI make a $200 million bid to corner corporate data intelligence market",
-            "url": "https://www.thehindu.com/sci-tech/technology/snowflake-and-openai-make-a-200-million-bid-to-corner-corporate-data-intelligence-market/article70581945.ece",
-            "urlToImage": "https://th-i.thgim.com/public/sci-tech/technology/z8x9fo/article70581892.ece/alternates/LANDSCAPE_1200/216db353-3e70-497f-acbf-63f28709817a.png",
-            "publishedAt": "2026-02-02 08:28:19"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Meta’s $65 Billion AI Gamble: When Infrastructure Spending Outpaces Revenue Reality",
-            "url": "https://www.webpronews.com/metas-65-billion-ai-gamble-when-infrastructure-spending-outpaces-revenue-reality/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-8920-1769999601.jpeg",
-            "publishedAt": "2026-02-02 02:33:25"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Decoding Recent AI Acquisitions: What Major Tech Giants Are Buying",
-            "url": "https://techannouncer.com/decoding-recent-ai-acquisitions-what-major-tech-giants-are-buying/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2026/02/dc31a705thumbnail-332x187.jpeg",
-            "publishedAt": "2026-02-02 00:12:10"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "The richest 2026 players: AI, crypto, pro",
-            "url": "https://www.bostonglobe.com/2026/02/01/nation/richest-2026-players-ai-crypto-pro-israel-groups-trump/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/QXSH6ROZ2K3CIT6IIOD62JQMFU.jpg?auth=709aea7b86285d8434277476bad3a8e5b29479a3eccf5cf137c9d107633c4dda&width=1440",
-            "publishedAt": "2026-02-01T22:09:17Z"
-        },
-        {
-            "source": {
-                "id": "c792dadf7373fad5b316a63a77688de1",
-                "name": "ABC News",
-                "url": "https://abcnews.go.com",
-                "country": "us"
-            },
-            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms?",
-            "url": "https://abcnews.go.com/Business/wireStory/artificial-intelligence-drive-layoffs-amazon-firms-hard-129773731",
-            "urlToImage": "https://i.abcnewsfe.com/a/a144d680-4ce5-4f3f-b980-8d0125c5f117/wirestory_7736d042172743301dd7e494813a885d_16x9.jpg?w=1600",
-            "publishedAt": "2026-02-01T21:49:51Z"
         }
     ]
 }
