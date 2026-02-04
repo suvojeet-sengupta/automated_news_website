@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2026-02-04T14:00:23.448963Z",
+    "lastUpdatedAt": "2026-02-04T15:38:33.844931Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Q&A: What we've learned about how students are using AI, and how to help them",
+            "url": "https://phys.org/news/2026-02-qa-weve-students-ai.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg",
+            "publishedAt": "2026-02-04T03:20:01Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "How AI and agents can be used to secure banks",
+            "url": "https://timesofindia.indiatimes.com/technology/times-techies/how-ai-and-agents-can-be-used-to-secure-banks/articleshow/127898781.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-127898795,width-1280,height-720,imgsize-2258908,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-04T03:11:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "OpenAI CEO Altman dismisses Moltbook as likely fad, backs the tech behind it",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-ceo-altman-dismisses-moltbook-as-likely-fad-backs-the-tech-behind-it/articleshow/127898546.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36192,resizemode-75,msid-127898546/tech/artificial-intelligence/openai-ceo-altman-dismisses-moltbook-as-likely-fad-backs-the-tech-behind-it.jpg",
+            "publishedAt": "2026-02-04T02:54:10Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Indian stocks set to extend gains on US trade deal; tech sell-off may cap upside",
+            "url": "https://www.marketscreener.com/news/indian-stocks-set-to-extend-gains-on-us-trade-deal-tech-sell-off-may-cap-upside-ce7e5bd3de8bf524",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-10T111820Z_1_LYNXNPEL890HW_RTROPTP_4_INDIA-MUTUAL-FUND-FLOWS.JPG",
+            "publishedAt": "2026-02-04T02:42:31Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Indian stocks set to extend gains on US trade deal; tech sell-off may cap upside",
+            "url": "https://www.reuters.com/world/india/indian-stocks-set-extend-gains-us-trade-deal-tech-sell-off-may-cap-upside-2026-02-04/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/OW6WJ3KKZ5P33DXW6FABHHE4GU.jpg?auth=c9df3f970750954646fb2a8e34140c8d4bc9110743352ede0df267372e9d5bd4&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-02-04T02:34:34Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Asia shares wobble, oil prices climb and gold makes a comeback",
+            "url": "https://www.marketscreener.com/news/asia-shares-wobble-oil-prices-climb-and-gold-makes-a-comeback-ce7e5bd3de88fe20",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-12/2025-12-11T021928Z_1_LYNXMPELBA02V_RTROPTP_4_GLOBAL-MARKETS.JPG",
+            "publishedAt": "2026-02-04T02:30:53Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Asia shares wobble, oil prices climb and gold makes a comeback",
+            "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-02-04/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/OI32M3IOIJIMXFN2VM4GFHOATM.jpg?auth=5b8b599d5998f9c3da72e1a0ebde71187cc2e43a22d288e47f0e79f1aad7ea3e&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-02-04T02:28:54Z"
+        },
+        {
+            "source": {
+                "id": "010284b7a4ddb4771793c29b39893951",
+                "name": "CHEK News",
+                "url": "https://cheknews.ca",
+                "country": "ca"
+            },
+            "title": "BC Cancer clinical trial shows promise with radiation treatments reduced by more than 90%",
+            "url": "https://cheknews.ca/bc-cancer-clinical-trial-shows-promise-with-radiation-treatments-reduced-by-more-than-90-1303461/",
+            "urlToImage": "https://cheknews.ca/wp-content/uploads/2026/02/WEB-HERRERA-2026-02-03_01175.jpg",
+            "publishedAt": "2026-02-04T02:10:23Z"
+        },
+        {
+            "source": {
+                "id": "e3ea77287229069329f8a7580f62ec08",
+                "name": "ZDNet",
+                "url": "https://www.zdnet.com",
+                "country": "us"
+            },
+            "title": "Microsoft and ServiceNow's exploitable agents reveal a growing - and preventable - AI security crisis",
+            "url": "https://www.zdnet.com/article/exploitable-ai-agents-servicenow-microsoft-security-warnings/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/5407f0630710925cfbe06f7cefa6ff4e8a96de51/2026/02/03/4f8d90c7-e886-4bf6-b805-49a480a9360b/croppedaithreat-screenshot-2026-02-03-135132.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-02-04T02:01:00Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -108,6 +216,15 @@
             "url": "https://www.auroranewsregister.com/index.php/news/mid-air-it-wins-county-computer-maintenance-contract",
             "urlToImage": "https://www.auroranewsregister.com/sites/auroranewsregister.com/files/2026-02/Board%20of%20Commissioners.jpg",
             "publishedAt": "2026-02-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "The Latest Generative AI News: Trends, Breakthroughs, and Future Predictions",
+            "url": "https://techannouncer.com/the-latest-generative-ai-news-trends-breakthroughs-and-future-predictions/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2026/02/f040a1b7thumbnail-332x187.jpeg",
+            "publishedAt": "2026-02-04 02:57:05"
         },
         {
             "source": {
@@ -3435,114 +3552,6 @@
             "url": "https://itwire.com/business-it-news/data/from-risk-to-resilience-why-responsible-ai-is-anz%E2%80%99s-innovation-engine.html",
             "urlToImage": "https://itwire.com/media/k2/items/cache/68640890f198d5628e77ca4d99a0b499_XS.jpg",
             "publishedAt": "2026-02-02T03:47:13Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "British think tank urges official regulation for AI",
-            "url": "https://www.lokmattimes.com/international/british-think-tank-urges-official-regulation-for-ai-generated-news/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602023658919_202602.jpg",
-            "publishedAt": "2026-02-02T03:26:25Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Apple loses more AI researchers and a Siri executive in latest departures",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/02/apple-loses-more-ai-researchers-and-a-siri-executive-in-latest-departures",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/02/3749696.jpg",
-            "publishedAt": "2026-02-02T03:00:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "A chatbot entirely powered by humans, not artificial intelligence? This Chilean community shows why",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/02/a-chatbot-entirely-powered-by-humans-not-artificial-intelligence-this-chilean-community-shows-why",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/02/3749680.jpg",
-            "publishedAt": "2026-02-02T02:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Vinod Khosla goes to ChatGPT for Melania movie details, here's what AI chatbot told him",
-            "url": "https://timesofindia.indiatimes.com/technology/social/vinod-khosla-goes-to-chatgpt-for-melania-movie-details-heres-what-ai-chatbot-told-him/articleshow/127817786.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-127817775,width-1280,height-720,imgsize-32546,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-02T01:50:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell",
-            "url": "https://www.breitbart.com/news/did-artificial-intelligence-really-drive-layoffs-at-amazon-and-other-firms-it-can-be-hard-to-tell/",
-            "urlToImage": "https://media.breitbart.com/media/2026/02/wi/ap/amazon-job-cuts-03541-amazon-job-cuts-amazon-logo-is-displayed-at-news-conference-york-sept-28-2011-640x335.jpg",
-            "publishedAt": "2026-02-02T00:56:49Z"
-        },
-        {
-            "source": {
-                "id": "027234d3c0a6aefa3d7ab81380e63d86",
-                "name": "LBC",
-                "url": "https://www.lbc.co.uk",
-                "country": "gb"
-            },
-            "title": "Half of all people have used artificial intelligence for DIY help",
-            "url": "https://www.lbc.co.uk/article/artificial-intelligence-diy-help-5HjdRgr_2/",
-            "urlToImage": "https://images.globalplayer.com/images/789248?crop=16_9&width=1200&signature=WZNcrlvXC5TCYDKXwqJkAjMI7jc=",
-            "publishedAt": "2026-02-02T00:01:00Z"
-        },
-        {
-            "source": {
-                "name": "morningstar_com"
-            },
-            "title": "Heres-Why-Neuberger-Berman-Owns-So-Much-Spacex",
-            "url": "https://www.morningstar.com/funds/heres-why-neuberger-berman-owns-so-much-spacex",
-            "urlToImage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-            "publishedAt": "2026-02-02 23:17:30"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "SpaceX acquires xAI, plans to launch a massive satellite constellation to power it",
-            "url": "https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/starship_march2025-1152x648.jpg",
-            "publishedAt": "2026-02-02 21:55:44"
-        },
-        {
-            "source": {
-                "name": "vanderbilt"
-            },
-            "title": "Vanderbilt launches Amplify Generative AI Innovation Center within College of Connected Computing",
-            "url": "https://news.vanderbilt.edu/2026/02/02/vanderbilt-launches-amplify-generative-ai-innovation-center-within-college-of-connected-computing/",
-            "urlToImage": "https://news.vanderbilt.edu/files/AmplifyAI-topper.png",
-            "publishedAt": "2026-02-02 20:50:14"
-        },
-        {
-            "source": {
-                "name": "newser"
-            },
-            "title": "Musk Merges 2 of His Companies",
-            "url": "https://www.newser.com/story/383005/musk-merges-spacex-xai.html",
-            "urlToImage": "https://img2-azrcdn.newser.com/image/1662383-11-20260202181919-musk-merges-spacex-xai.jpeg",
-            "publishedAt": "2026-02-02 18:15:00"
         }
     ]
 }
