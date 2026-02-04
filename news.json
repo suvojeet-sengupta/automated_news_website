@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-02-04T16:41:05.492758Z",
+    "lastUpdatedAt": "2026-02-04T17:41:40.983022Z",
     "articles": [
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "RBI Mulls Supervision Revamp For Banks To Curb Risks",
+            "url": "https://www.ndtvprofit.com/business/rbi-mulls-supervision-revamp-for-banks-to-curb-risks-10943014",
+            "urlToImage": "https://c.ndtvimg.com/2026-02/dqt24ebk_reserve-bank-of-india-rbi-at-rbi-head-office-in-mumbai-photo-pti_625x300_04_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
+            "publishedAt": "2026-02-04T05:34:52Z"
+        },
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "EXCLUSIVE: DeepL to Release Interpretation Software for Japan",
+            "url": "https://www.japantimes.co.jp/business/2026/02/04/companies/deep-l-japan-software/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/04/521230.jpg?v=3.1",
+            "publishedAt": "2026-02-04T05:19:59Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "First Services Firm by Constellation Research for Agentic AI @ Scale",
+            "url": "https://www.tribuneindia.com/news/business/winwire-recognized-at-wef-davos-as-a-premier-ai-first-services-firm-by-constellation-research-for-agentic-ai-scale/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIyMThhODEwLTAxODctMTFmMS05ZTU3LWE1YjYwZTQ0ZTg4ZS5qcGc=",
+            "publishedAt": "2026-02-04T05:05:25Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Apple brings AI agents into Xcode, letting developers hand over real coding tasks to machines",
+            "url": "https://www.indiatoday.in/technology/news/story/apple-brings-ai-agents-into-xcode-letting-developers-hand-over-real-coding-tasks-to-machines-2862784-2026-02-04",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/ai-image-ai-coding-195632131-16x9.png?VersionId=fDD0rbsj9CJEKN9ibLhDzs32W3XltbHY",
+            "publishedAt": "2026-02-04T05:04:10Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "'AI Infrastructure Will Replicate the Job Impact of Internet in India', Says Nvidia CEO",
+            "url": "https://www.outlookbusiness.com/artificial-intelligence/ai-infrastructure-will-replicate-the-job-impact-of-internet-in-india-says-nvidia-ceo",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-02-04/j8s2omql/WhatsApp-Image-2026-02-04-at-02.00.47.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-02-04T05:02:10Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Asian software stocks plunge after U.S. peers decline on fears over AI-led disruption",
+            "url": "https://www.cnbc.com/2026/02/04/software-stocks-plunge-us-ai-disruption.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108246307-1767025794257-gettyimages-2236521867-syn08393.jpeg?v=1767025847&w=1920&h=1080",
+            "publishedAt": "2026-02-04T04:58:05Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Rs 1.75 lakh crore SaaSpocalypse for IT stocks explained: What it means for investors",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-75-lakh-crore-saaspocalypse-for-it-stocks-explained-what-it-means-for-investors/articleshow/127900151.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-127900170,width-1200,height-630,imgsize-2846913,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-02-04T04:58:00Z"
+        },
         {
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -300,6 +384,96 @@
             "url": "https://www.auroranewsregister.com/index.php/news/mid-air-it-wins-county-computer-maintenance-contract",
             "urlToImage": "https://www.auroranewsregister.com/sites/auroranewsregister.com/files/2026-02/Board%20of%20Commissioners.jpg",
             "publishedAt": "2026-02-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "ricentral"
+            },
+            "title": "Tencent Cloud EdgeOne Launches Free AI Crawler Control: Empowering Developers to Reclaim Content Sovereignty",
+            "url": "https://www.ricentral.com/online_features/press_releases/tencent-cloud-edgeone-launches-free-ai-crawler-control-empowering-developers-to-reclaim-content-sovereignty/article_45bb29dc-6659-5c5d-989f-4bd943d1735e.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/ricentral.com/content/tncms/assets/v3/editorial/c/88/c88f38ba-596b-5065-bf55-fbabad2e9ca5/6982f7ec53617.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-02-04 05:00:00"
+        },
+        {
+            "source": {
+                "name": "courier-tribune"
+            },
+            "title": "Tencent Cloud EdgeOne Launches Free AI Crawler Control: Empowering Developers to Reclaim Content Sovereignty",
+            "url": "https://www.courier-tribune.com/online_features/press_releases/tencent-cloud-edgeone-launches-free-ai-crawler-control-empowering-developers-to-reclaim-content-sovereignty/article_200b8c2e-c50b-5e9a-9bd7-b874438c5ecf.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/courier-tribune.com/content/tncms/assets/v3/editorial/1/33/133b182a-5f1a-5286-88ea-2b119aa3966a/6982f82f42b09.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-02-04 05:00:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Tencent Cloud EdgeOne Launches Free AI Crawler Control: Empowering Developers to Reclaim Content Sovereignty",
+            "url": "https://www.prnewswire.com/apac/news-releases/tencent-cloud-edgeone-launches-free-ai-crawler-control-empowering-developers-to-reclaim-content-sovereignty-302678415.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2876561/fig1.jpg?p=original",
+            "publishedAt": "2026-02-04 05:00:00"
+        },
+        {
+            "source": {
+                "name": "newsargus"
+            },
+            "title": "Tencent Cloud EdgeOne Launches Free AI Crawler Control: Empowering Developers to Reclaim Content Sovereignty",
+            "url": "https://www.newsargus.com/online_features/press_releases/tencent-cloud-edgeone-launches-free-ai-crawler-control-empowering-developers-to-reclaim-content-sovereignty/article_f10518fd-ae1e-5d02-a968-9dcb7f3d555b.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/newsargus.com/content/tncms/assets/v3/editorial/a/a5/aa5510f5-a5ba-5949-b19f-c604290d0e9c/6982f6508908c.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-02-04 05:00:00"
+        },
+        {
+            "source": {
+                "name": "journal_news"
+            },
+            "title": "Tencent Cloud EdgeOne Launches Free AI Crawler Control: Empowering Developers to Reclaim Content Sovereignty",
+            "url": "https://www.journal-news.net/online_features/press_releases/tencent-cloud-edgeone-launches-free-ai-crawler-control-empowering-developers-to-reclaim-content-sovereignty/article_dba1f9c4-b56e-57b9-9bc5-e33d0b4d32d1.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journal-news.net/content/tncms/assets/v3/editorial/7/00/70019902-8285-5df3-947a-1006cf18eecb/6982f631e1284.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-02-04 05:00:00"
+        },
+        {
+            "source": {
+                "name": "samessenger"
+            },
+            "title": "Tencent Cloud EdgeOne Launches Free AI Crawler Control: Empowering Developers to Reclaim Content Sovereignty",
+            "url": "https://www.samessenger.com/online_features/press_releases/tencent-cloud-edgeone-launches-free-ai-crawler-control-empowering-developers-to-reclaim-content-sovereignty/article_7d1bd447-9d1d-5c23-a6dc-2e7b35bddadf.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/samessenger.com/content/tncms/assets/v3/editorial/9/c6/9c64a31a-da6f-5b22-92bd-144fd97667da/6982f6725d44a.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-02-04 05:00:00"
+        },
+        {
+            "source": {
+                "name": "berkshireeagle"
+            },
+            "title": "Tencent Cloud EdgeOne Launches Free AI Crawler Control: Empowering Developers to Reclaim Content Sovereignty",
+            "url": "https://www.berkshireeagle.com/online_features/press_releases/tencent-cloud-edgeone-launches-free-ai-crawler-control-empowering-developers-to-reclaim-content-sovereignty/article_d7d10be8-8994-57ae-baa0-64fb586d6da6.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/0/f5/0f52edf3-afcd-51aa-ab4d-b2ebb857c4cb/6982f66eea9cc.image.jpg?resize=890%2C500",
+            "publishedAt": "2026-02-04 05:00:00"
+        },
+        {
+            "source": {
+                "name": "woonsocketcall"
+            },
+            "title": "Tencent Cloud EdgeOne Launches Free AI Crawler Control: Empowering Developers to Reclaim Content Sovereignty",
+            "url": "https://www.woonsocketcall.com/online_features/press_releases/tencent-cloud-edgeone-launches-free-ai-crawler-control-empowering-developers-to-reclaim-content-sovereignty/article_6bff3918-b223-5561-a370-e4c519c5ed2b.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/woonsocketcall.com/content/tncms/assets/v3/editorial/8/b2/8b221898-7519-5210-ba35-71d74449434d/6982f73832ee1.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-02-04 05:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Tencent Cloud EdgeOne Launches Free AI Crawler Control: Empowering Developers to Reclaim Content Sovereignty",
+            "url": "https://www.prnewswire.com/news-releases/tencent-cloud-edgeone-launches-free-ai-crawler-control-empowering-developers-to-reclaim-content-sovereignty-302678410.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2875886/fig1.jpg?p=original",
+            "publishedAt": "2026-02-04 05:00:00"
+        },
+        {
+            "source": {
+                "name": "nvdaily"
+            },
+            "title": "Tencent Cloud EdgeOne Launches Free AI Crawler Control: Empowering Developers to Reclaim Content Sovereignty",
+            "url": "https://www.nvdaily.com/online_features/press_releases/tencent-cloud-edgeone-launches-free-ai-crawler-control-empowering-developers-to-reclaim-content-sovereignty/article_b7ae6e8e-b6d2-5658-a4da-5a95f0ac8279.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/3/f7/3f7911e5-3477-5ac0-b17e-75842a2e7fed/6982f677a473d.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-02-04 05:00:00"
         },
         {
             "source": {
@@ -3348,210 +3522,6 @@
             "url": "https://www.nytimes.com/2026/02/02/technology/a-social-network-for-ai-bots-only-no-humans-allowed.html",
             "urlToImage": "https://static01.nyt.com/images/2026/02/01/multimedia/MOLTBOOK-1-01-qbwt/MOLTBOOK-1-01-qbwt-facebookJumbo.jpg",
             "publishedAt": "2026-02-02T10:02:59Z"
-        },
-        {
-            "source": {
-                "id": "b29eaeaa36b9be93ac681e263151f897",
-                "name": "India.com",
-                "url": "https://www.india.com",
-                "country": "in"
-            },
-            "title": "How Aneesha Sharma Turned Zero Trust Into a $3 Billion Opportunity",
-            "url": "https://www.india.com/money/from-dell-to-indias-data-protection-challenge-how-aneesha-sharma-turned-zero-trust-into-a-3-billion-opportunity-8290595/",
-            "urlToImage": "https://static.india.com/wp-content/uploads/2026/02/indiacom3-1.jpg",
-            "publishedAt": "2026-02-02T09:41:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Budget Session: Members raise digital divide, cybersecurity concerns in RS",
-            "url": "https://www.lokmattimes.com/national/budget-session-members-raise-digital-divide-cybersecurity-concerns-in-rs/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602023659215_202602.jpg",
-            "publishedAt": "2026-02-02T07:56:45Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Sotxx 600, FTSE, DAX, CAC, silver, gold, bitcoin",
-            "url": "https://www.cnbc.com/2026/02/02/european-markets-sotxx-600-ftse-dax-cac-global-markets-silver-gold-bitcoin.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102101947-457534494.jpg?v=1689921842&w=1920&h=1080",
-            "publishedAt": "2026-02-02T06:34:19Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "AI takes centre stage in Budget 2026 as Finance Minister pitches ‘Make AI work for India’",
-            "url": "https://www.firstpost.com/tech/ai-takes-centre-stage-in-budget-2026-as-finance-minister-pitches-make-ai-work-for-india-13975134.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2023/08/6TIDCQXE4ZLHTGW3OELMLU5JIU-scaled.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-02-02T06:32:51Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "IIT Kanpur invites applications for a short course on Applied Data Science & Machine Intelligence",
-            "url": "https://indianexpress.com/article/education/iit-kanpur-applications-applied-data-science-machine-intelligence-jeemain-2026-advanced-10508660/",
-            "urlToImage": "https://images.indianexpress.com/2025/01/IIT-Kanpur.jpg",
-            "publishedAt": "2026-02-02T06:23:22Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI push moves innovation into everyday life",
-            "url": "https://www.thestar.com.my/business/business-news/2026/02/02/ai-push-moves-innovation-into-everyday-life",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/02/3749846.jpg",
-            "publishedAt": "2026-02-02T06:19:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Did artificial intelligence really drive layoffs at Amazon, other firms? It can be hard to tell",
-            "url": "https://www.devdiscourse.com/article/technology/3790011-did-artificial-intelligence-really-drive-layoffs-at-amazon-other-firms-it-can-be-hard-to-tell",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_20_7172535.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-02-02T06:18:58Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell.",
-            "url": "https://www.bostonglobe.com/2026/02/02/business/ai-job-layoffs-impact/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/HJSW2VKVORNNKD43SY2PJXOAJI.jpg?auth=877ac91013f8c10aff43d96c514d6086824bf41b09771a8238f957a834b15ea3&width=1440",
-            "publishedAt": "2026-02-02T06:09:16Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/did-artificial-intelligence-really-drive-layoffs-at-amazon-and-other-firms-it-can-be-hard-to-tell/articleshow/127853920.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36128,resizemode-75,msid-127853920/tech/artificial-intelligence/did-artificial-intelligence-really-drive-layoffs-at-amazon-and-other-firms-it-can-be-hard-to-tell.jpg",
-            "publishedAt": "2026-02-02T06:06:34Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell",
-            "url": "https://wtop.com/national/2026/02/did-artificial-intelligence-really-drive-layoffs-at-amazon-and-other-firms-it-can-be-hard-to-tell/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/01/Amazon_Job_Cuts_03541-scaled.jpg",
-            "publishedAt": "2026-02-02T06:00:06Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell",
-            "url": "https://apnews.com/article/ai-job-impacts-layoffs-amazon-pinterest-dow-7736d042172743301dd7e494813a885d",
-            "urlToImage": "https://dims.apnews.com/dims4/default/a2c2449/2147483647/strip/true/crop/5616x3742+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2Fc6%2Fe20d47003bbdbb2da89dfb35d044%2F27b2884367ae4456af4e5ce22c304e8d",
-            "publishedAt": "2026-02-02T06:00:06Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "Denied US visa once, Kerala BTech dropout now runs cybersecurity firm funded by State of Connecticut",
-            "url": "https://www.onmanorama.com/news/business/2026/02/02/us-visa-denied-kerala-b-tech-dropout-cybersecurity-state-connecticut-rahul-sasi-cloudsek.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/news/business/images/2026/2/2/rahul-sasi.jpg",
-            "publishedAt": "2026-02-02T05:53:06Z"
-        },
-        {
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            },
-            "title": "What is Moltbook? The strange new social media site for AI bots",
-            "url": "https://www.theguardian.com/technology/2026/feb/02/moltbook-ai-agents-social-media-site-bots-artificial-intelligence",
-            "urlToImage": "https://i.guim.co.uk/img/media/4445d2c35ccdef957071027143255c8f1e5180c2/1401_0_4216_3375/master/4216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef242cc57749952882fc6bb187271817",
-            "publishedAt": "2026-02-02T05:39:25Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Indonesia lets Elon Musk's Grok back online under tight supervision",
-            "url": "https://www.devdiscourse.com/article/technology/3789961-indonesia-lets-elon-musks-grok-back-online-under-tight-supervision",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg",
-            "publishedAt": "2026-02-02T05:23:03Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Video game stocks slide on Google’s AI model that turns prompts into playable worlds",
-            "url": "https://indianexpress.com/shorts/technology/gaming/video-game-stocks-slide-on-googles-ai-model-that-turns-prompts-into-playable-worlds-10508644/",
-            "urlToImage": "https://images.indianexpress.com/2024/08/Tech-feature-images14.jpg",
-            "publishedAt": "2026-02-02T05:09:19Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Indonesia lets Elon Musk’s Grok back online under tight supervision",
-            "url": "https://wtop.com/world/2026/02/indonesia-lets-elon-musks-grok-back-online-under-tight-supervision/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/01/Grok_Deepfakes_54386-scaled.jpg",
-            "publishedAt": "2026-02-02T05:03:13Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Move Fast, but Obey the Rules: China’s Vision for Dominating A.I.",
-            "url": "https://www.nytimes.com/2026/02/02/business/china-ai-regulations.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/01/30/multimedia/Biz-China-AI-01-vgmb/Biz-China-AI-01-vgmb-facebookJumbo.jpg",
-            "publishedAt": "2026-02-02T05:01:08Z"
         }
     ]
 }
