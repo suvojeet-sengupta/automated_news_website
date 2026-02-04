@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-02-04T07:40:49.516294Z",
+    "lastUpdatedAt": "2026-02-04T08:35:49.247098Z",
     "articles": [
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "Stocks and bitcoin sink as investors dump software company shares",
+            "url": "https://www.nbcnews.com/business/markets/stocks-bitcoin-sink-investors-dump-software-company-shares-rcna257302",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260121-stock-market-nyse-mn-0815-dd5a80.jpg",
+            "publishedAt": "2026-02-03T20:15:33Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Private credit stocks plummet on concern about exposure to software industry disrupted by AI",
+            "url": "https://www.cnbc.com/2026/02/03/private-credit-stocks-plummet-on-concern-about-exposure-to-software-industry-disrupted-by-ai.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108254630-1768946838214-gettyimages-2256762615-BLUE_OWL.jpeg?v=1768946880&w=1920&h=1080",
+            "publishedAt": "2026-02-03T20:15:22Z"
+        },
+        {
+            "source": {
+                "id": "e185a9e522f5881b82bc4bd40cbea8e0",
+                "name": "MassLive",
+                "url": "https://www.masslive.com",
+                "country": "us"
+            },
+            "title": "The future of threat detection is now: Step inside the WMass cyber center",
+            "url": "https://www.masslive.com/westernmass/2026/02/the-future-of-threat-detection-is-now-step-inside-the-wmass-cyber-center.html",
+            "urlToImage": "https://www.masslive.com/resizer/v2/MYY2L7NY25EOPDQNASPONPF3GU.JPG?auth=b5e4302f266bb24dc8a967052a84cb81a2c80dbcdc91408a4575656126c92796&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-02-03T20:12:23Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Musk merges xAI into SpaceX in bid to build space data centers",
+            "url": "https://japantoday.com/category/tech/musk-merges-xai-into-spacex-in-bid-to-build-space-data-centers",
+            "urlToImage": "https://media.japantoday.com/img/store/e4/13/d5d9767f73eda26a518f2743b91f2b955215/5776c09a7f19c571338ffb21d01d7afaae8e26b2/_w1700.jpeg",
+            "publishedAt": "2026-02-03T20:03:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "SAIR Arrives With AI for Science: Kick-Off 2026",
+            "url": "https://www.manilatimes.net/2026/02/04/tmt-newswire/globenewswire/sair-arrives-with-ai-for-science-kick-off-2026/2271064",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/04/923927.png",
+            "publishedAt": "2026-02-03T19:45:40Z"
+        },
         {
             "source": {
                 "id": "933344203c2b862af768b5e662a162a4",
@@ -1560,6 +1620,15 @@
             "url": "https://www.morningstar.com/company-reports/1423139-palantir-is-americas-artificial-intelligence-operating-system-and-we-dont-see-a-clear-competitor",
             "urlToImage": "https://www.morningstar.com/company-reports/:/[object Object]",
             "publishedAt": "2026-02-03T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "washington"
+            },
+            "title": "Allen School professor Ira Kemelmacher-Shlizerman elevated to IEEE Fellow for breakthroughs in people modelling and virtual try-on technology",
+            "url": "https://news.cs.washington.edu/2026/02/03/allen-school-professor-ira-kemelmacher-shlizerman-elevated-to-ieee-fellow/",
+            "urlToImage": "https://news.cs.washington.edu/wp-content/uploads/2026/02/Ira-Kemelmacher-Shlizerman-thumbnail.jpg",
+            "publishedAt": "2026-02-03 20:09:19"
         },
         {
             "source": {
@@ -3453,78 +3522,6 @@
             "url": "https://www.thehindu.com/news/national/kerala/two-day-malappuram-science-fest-concludes/article70579243.ece",
             "urlToImage": "https://th-i.thgim.com/public/news/national/kerala/9xbl8d/article70579250.ece/alternates/LANDSCAPE_1200/Pic.jpg",
             "publishedAt": "2026-02-01T14:34:06Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "Opinion | Budget 2026: AI, Quantum, Semiconductor And Space Technologies: India’s Strategic Growth Agenda",
-            "url": "https://www.news18.com/opinion/opinion-budget-2026-ai-quantum-semiconductor-and-space-technologies-indias-strategic-growth-agenda-ws-l-9872547.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/02/Untitled-design-2026-02-01T122816.612-2026-02-84df5b7fb65e235694cf912f03ed4abb-16x9.jpg",
-            "publishedAt": "2026-02-01T14:30:15Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Wipro CFO hails Budget for meeting FY26 fiscal targets, focus on AI",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/wipro-cfo-hails-budget-for-meeting-fy26-fiscal-targets-focus-on-ai/articleshow/127842991.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-20572,resizemode-75,msid-127842991/tech/information-tech/wipro-cfo-hails-budget-for-meeting-fy26-fiscal-targets-focus-on-ai.jpg",
-            "publishedAt": "2026-02-01T14:05:32Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Cisco AI Summit 2026 brings the world’s most influential AI leaders together to define what comes next",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/cisco-ai-summit-2026-brings-the-worlds-most-influential-ai-leaders-together-to-define-what-comes-next/articleshow/127842054.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-127842136,width-1200,height-630,imgsize-809614,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-02-01T13:05:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Fratarcangeli Wealth Management on Portfolio Concentration Risk in an AI- and Tech-Driven Market",
-            "url": "https://techbullion.com/fratarcangeli-wealth-management-on-portfolio-concentration-risk-in-an-ai-and-tech-driven-market/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/Fratarcangeli-Wealth-Management.jpg",
-            "publishedAt": "2026-02-01T13:03:10Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Powered Platform Aimed at Transforming Agriculture",
-            "url": "https://www.lokmattimes.com/national/union-budget-2026-what-is-bharat-vistaar-ai-powered-platform-aimed-at-transforming-agriculture-a525/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/ghsrthg-sdgr-2026021635080_2026021070286.jpg",
-            "publishedAt": "2026-02-01T12:42:41Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Union Budget 2026: Government to launch multi-lingual AI tool Bharat-VISTAAR for farmers",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-government-to-launch-multi-lingual-ai-tool-bharat-vistaar-for-farmers/articleshow/127841470.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-127841418,width-1280,height-720,imgsize-1246662,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-01T12:37:00Z"
         }
     ]
 }
