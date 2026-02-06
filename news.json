@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-02-06T10:34:42.741016Z",
+    "lastUpdatedAt": "2026-02-06T11:29:57.970111Z",
     "articles": [
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "News Corp (NWS ASX) signals further AI deals as net income slides",
+            "url": "https://www.afr.com/companies/media-and-marketing/news-corp-ceo-says-ai-giants-know-they-need-to-pay-for-media-content-20260206-p5o01u",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2785%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_117%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/bf3e644a93a1ec16fd36563dc85e99be7d9a8f97",
+            "publishedAt": "2026-02-05T23:27:26Z"
+        },
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "Google Engineer Linwei Ding Convicted in...",
+            "url": "https://usaherald.com/linked-to-china-google-engineer-linwei-ding-convicted-in-landmark-ai-espionage-case/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2026-02-05T23:26:30Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Anthropic releases AI upgrade as market punishes software stocks",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/06/anthropic-releases-ai-upgrade-as-market-punishes-software-stocks",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/06/3756959.jpg",
+            "publishedAt": "2026-02-05T23:16:00Z"
+        },
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "Editorial | Hong Kong’s innovation goals must go hand in hand with cybersecurity",
+            "url": "https://www.scmp.com/opinion/comment/article/3342327/hong-kongs-innovation-goals-must-go-hand-hand-cybersecurity",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_editorial/public/d8/images/canvas/2026/02/05/ffc10cbd-9d76-46f9-b5e9-444fbd0a17be_f1f0b6f8.jpg?itok=6FWJ1EJj&v=1770289402",
+            "publishedAt": "2026-02-05T23:15:11Z"
+        },
+        {
+            "source": {
+                "id": "ca0ac0e9c1dc28f0363e86d46cc022aa",
+                "name": "Kiplinger",
+                "url": "https://www.kiplinger.com",
+                "country": "us"
+            },
+            "title": "The New Reality for Entertainment",
+            "url": "https://www.kiplinger.com/business/an-inflection-point-for-the-entertainment-industry",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DCdhWUmVkb76yga7X8Kp53-1919-80.jpg",
+            "publishedAt": "2026-02-05T23:14:38Z"
+        },
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk",
+                "country": "gb"
+            },
+            "title": "AI imagines what Patriots and Seahawks' Super Bowl fans look like based on stereotypes... so do you agree?",
+            "url": "https://www.dailymail.co.uk/sport/nfl/article-15531983/AI-Seahawks-Patriots-Super-Bowl.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2026/02/05/21/106147457-0-image-m-14_1770328658181.jpg",
+            "publishedAt": "2026-02-05T23:05:37Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "I praise India for having assumed leadership for AI Impact Summit: UN chief Guterres",
+            "url": "https://www.dailyexcelsior.com/i-praise-india-for-having-assumed-leadership-for-ai-impact-summit-un-chief-guterres/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/un.jpg",
+            "publishedAt": "2026-02-05T23:00:53Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Dr Jitendra updates RS about Bharat GenAI, India’s first sovereign ‘Large Language Model’",
+            "url": "https://www.dailyexcelsior.com/dr-jitendra-updates-rs-about-bharat-genai-indias-first-sovereign-large-language-model/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/page5-2-5.jpg",
+            "publishedAt": "2026-02-05T22:56:14Z"
+        },
+        {
+            "source": {
+                "id": "d4773b92da0613b8ffc2fc9c46229534",
+                "name": "Business Wire",
+                "url": "https://www.businesswire.com",
+                "country": "us"
+            },
+            "title": "KBRA Releases Research - Private Credit: Framing AI and Software Risk",
+            "url": "https://www.businesswire.com/news/home/20260205590101/en/KBRA-Releases-Research-Private-Credit-Framing-AI-and-Software-Risk",
+            "urlToImage": "https://mms.businesswire.com/media/20260205590101/en/2713382/22/kbra-logo.jpg",
+            "publishedAt": "2026-02-05T22:55:00Z"
+        },
+        {
+            "source": {
+                "id": "1a6c3258d04827f52d40713ad8166b1b",
+                "name": "Interesting Engineering",
+                "url": "https://interestingengineering.com",
+                "country": "us"
+            },
+            "title": "cameras, tracking and stadium networks",
+            "url": "https://interestingengineering.com/culture/super-bowl-lx-broadcast-and-stadium-tech",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/02/Untitled-design-2026-02-06T031229.655.jpg",
+            "publishedAt": "2026-02-05T22:49:43Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Atlassian raises annual revenue forecast on resilient software spending",
+            "url": "https://www.reuters.com/business/atlassian-raises-annual-revenue-forecast-resilient-software-spending-2026-02-05/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-02-05T22:36:43Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -3402,138 +3534,6 @@
             "url": "https://www.businesstoday.in/technology/news/story/world-governments-summit-2026-oura-ceo-tom-hale-sees-ai-wearables-forecasting-health-years-ahead-514543-2026-02-04",
             "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202602/6982f060a173a-tom-hale--ceo-of-oura-040810895-16x9.png",
             "publishedAt": "2026-02-04T07:44:57Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "Assembly passes resolution demanding AIIMS, criticises centre's neglect of Kerala",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/04/kerala-aiims-demand-assembly-resolution.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/10/19/modi-pinarayi.jpg",
-            "publishedAt": "2026-02-04T07:22:39Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Infineon Forecasts Higher Sales, Raises Investments to Meet Strong AI Chip Demand",
-            "url": "https://www.marketscreener.com/news/infineon-forecasts-higher-sales-raises-investments-to-meet-strong-ai-chip-demand-ce7e5bd3d18ff320",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-02-04T07:14:15Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Electronic Arts partners with Stability AI to explore generative AI tools",
-            "url": "https://www.thenews.com.pk/latest/1390987-electronic-arts-partners-with-stability-ai-to-explore-generative-ai-tools",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-02-04/1390987_121818_updates.jpg",
-            "publishedAt": "2026-02-04T07:13:20Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "AI goes physical: Agentic bots now hire humans for real-world tasks",
-            "url": "https://www.thenews.com.pk/latest/1390985-ai-goes-physical-agentic-bots-now-hire-humans-for-real-world-tasks",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-02-04/1390985_120658_updates.jpg",
-            "publishedAt": "2026-02-04T07:06:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Nvidia's Huang dismisses fears AI will replace software tools as stock selloff deepens",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-huang-dismisses-fears-ai-will-replace-software-tools-as-stock-selloff-deepens/articleshow/127902319.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-127902319,width-1200,height-630,imgsize-125454,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-02-04T06:55:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Nvidia's Huang dismisses fears AI will replace software tools as stock selloff deepens",
-            "url": "https://www.marketscreener.com/news/nvidia-s-huang-dismisses-fears-ai-will-replace-software-tools-as-stock-selloff-deepens-ce7e5bd3d18af02d",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-29T055403Z_1_LYNXMPEM0S08G_RTROPTP_4_NVIDIA-CHINA-JENSEN-HUANG.JPG",
-            "publishedAt": "2026-02-04T06:54:58Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Nvidia's Huang dismisses fears AI will replace software tools as stock selloff deepens",
-            "url": "https://www.reuters.com/business/nvidias-huang-dismisses-fears-ai-will-replace-software-tools-stock-selloff-2026-02-04/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/KJSLNCSJLNLYLBOKFCPT2CHOME.jpg?auth=f6f9774c4b369e902b2e3c22e623a5d88fd00fae26c84bff874832686a4c081b&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-02-04T06:50:21Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Anthropic's new AI tools deepen selloff in data analytics and software stocks, investors say",
-            "url": "https://www.thehindu.com/sci-tech/technology/anthropics-new-ai-tools-deepen-selloff-in-data-analytics-and-software-stocks-investors-say/article70590498.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/wgzy89/article70590500.ece/alternates/LANDSCAPE_1200/2026-02-03T200716Z_1609375971_RC2LU7AR9IMK_RTRMADP_3_EUROPE-STOCKS-AI.JPG",
-            "publishedAt": "2026-02-04T06:17:28Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Fractal Analytics IPO Opens On Feb. 9: Latest GMP Signals 23% Listing Gain, Check Key Details",
-            "url": "https://www.ndtvprofit.com/markets/fractal-analytics-ipo-opens-on-feb-9-latest-gmp-signals-20-listing-gain-check-key-details-10943087",
-            "urlToImage": "https://c.ndtvimg.com/2026-02/d09p5sl_fractal-analytics_625x300_04_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-02-04T06:15:36Z"
-        },
-        {
-            "source": {
-                "id": "8f697316c20ca510ecdfa51c8f969ff3",
-                "name": "SunStar Philippines",
-                "url": "https://www.sunstar.com.ph",
-                "country": "ph"
-            },
-            "title": "PNP warns vs AI-assisted love scams",
-            "url": "https://www.sunstar.com.ph/manila/pnp-warns-vs-ai-assisted-love-scams",
-            "urlToImage": "https://media.assettype.com/sunstar%2F2026-02-04%2Fzqh2rld1%2FIMG2261.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-02-04T06:14:57Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "AI comes for the software giants, and Australia is no safe haven",
-            "url": "https://www.afr.com/technology/ai-comes-for-the-software-giants-and-australia-is-no-safe-haven-20260204-p5nzfw",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.3784%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_34%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ebc9d79004926f375bc0ba172d8025c7880450be45bb13036f139729425b372e",
-            "publishedAt": "2026-02-04T06:06:09Z"
         }
     ]
 }
