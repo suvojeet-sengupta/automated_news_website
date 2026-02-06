@@ -1,6 +1,150 @@
 {
-    "lastUpdatedAt": "2026-02-06T08:36:00.833217Z",
+    "lastUpdatedAt": "2026-02-06T09:37:58.256093Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "TSMC to make advanced AI semiconductors in Japan",
+            "url": "https://japantoday.com/category/tech/tsmc-to-make-advanced-ai-semiconductors-in-japan-in-boost-for-its-chipmaking-ambitions",
+            "urlToImage": "https://media.japantoday.com/img/store/b1/cf/d86055e22e82d945fcddaa6ff1944427e49a/download/_w1700.jpeg",
+            "publishedAt": "2026-02-05T21:32:00Z"
+        },
+        {
+            "source": {
+                "id": "d4773b92da0613b8ffc2fc9c46229534",
+                "name": "Business Wire",
+                "url": "https://www.businesswire.com",
+                "country": "us"
+            },
+            "title": "N-able to Host Fourth Quarter Earnings Conference Call on February 19, 2026",
+            "url": "https://www.businesswire.com/news/home/20260205717888/en/N-able-to-Host-Fourth-Quarter-Earnings-Conference-Call-on-February-19-2026",
+            "urlToImage": "https://mms.businesswire.com/media/20260205717888/en/1075567/22/N-able_Logo.jpg",
+            "publishedAt": "2026-02-05T21:30:00Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Anthropic Claude legal plugin hit markets. It should scare all of us",
+            "url": "https://www.afr.com/technology/ai-s-latest-penny-drop-moment-hit-markets-it-should-scare-all-of-us-20260205-p5o00b",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3146%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_131/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_analysis_no_age_social_wm/22ef532d829c0badfc478bfec8d4804c3a2fa973",
+            "publishedAt": "2026-02-05T21:23:15Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "AWS Q4 earnings report 2025",
+            "url": "https://www.cnbc.com/2026/02/05/aws-q4-earnings-report-2025.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108261755-1770272443973-gettyimages-2249060132-776419988_02.jpeg?v=1770325969&w=1920&h=1080",
+            "publishedAt": "2026-02-05T21:22:49Z"
+        },
+        {
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            },
+            "title": "OpenAI's new model leaps ahead in coding capabilities-but raises unprecedented cybersecurity risks",
+            "url": "https://fortune.com/2026/02/05/openai-gpt-5-3-codex-warns-unprecedented-cybersecurity-risks/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2214110034.jpg?resize=1200,600",
+            "publishedAt": "2026-02-05T21:19:04Z"
+        },
+        {
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity Firm Fortinet Earnings, Revenue, Billings Top Estimates",
+            "url": "https://www.investors.com/news/technology/fortinet-stock-fortinet-earnings-cybersecurity-news-q42025/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/10/stock-Fortinet-02-shutter.jpg",
+            "publishedAt": "2026-02-05T21:18:40Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Reddit forecasts revenue above estimates as AI fuels ad sales",
+            "url": "https://www.marketscreener.com/news/reddit-forecasts-revenue-above-estimates-as-ai-fuels-ad-sales-ce7e5ad8dd8afe27",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-01T200914Z_1_LYNXMPEL40215_RTROPTP_4_REDDIT-OUTAGES.JPG",
+            "publishedAt": "2026-02-05T21:12:29Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Reddit forecasts revenue above estimates as AI fuels ad sales",
+            "url": "https://www.reuters.com/business/media-telecom/reddit-forecasts-revenue-above-estimates-ai-fuels-ad-sales-2026-02-05/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/2RJKCZ47GBPBDLFZ7MTJ7JGTFY.jpg?auth=86e1cd5968f42549fb8ff4ce78cbcc01241f78acc0e79ef19643af14b001c88f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-02-05T21:10:54Z"
+        },
+        {
+            "source": {
+                "id": "046a50607901bb9bca25f6624dc87f76",
+                "name": "NBC 5 Chicago",
+                "url": "https://www.nbcchicago.com",
+                "country": "us"
+            },
+            "title": "How to protect yourself against AI deepfakes and scams",
+            "url": "https://www.nbcchicago.com/news/local/how-to-protect-yourself-against-ai-deepfakes-and-scams/3887223/",
+            "urlToImage": "https://media.nbcchicago.com/2020/10/keyboard-generic.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2026-02-05T21:09:04Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Anthropic releases AI upgrade as market punishes software stocks",
+            "url": "https://www.marketscreener.com/news/anthropic-releases-ai-upgrade-as-market-punishes-software-stocks-ce7e5ad8dd88f027",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-02-05T21:02:54Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Canadian Firms at Risk With Tepid Approach to AI, Bank of Canada Gov. Macklem Says",
+            "url": "https://www.marketscreener.com/news/canadian-firms-at-risk-with-tepid-approach-to-ai-bank-of-canada-gov-macklem-says-ce7e5ad8dd88f420",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-02-05T20:59:12Z"
+        },
+        {
+            "source": {
+                "id": "c1903669db0b115cc673ce9c333a70dd",
+                "name": "Charleston Post and Courier",
+                "url": "https://www.postandcourier.com",
+                "country": "us"
+            },
+            "title": "Commentary: Why we must pay more attention to AI",
+            "url": "https://www.postandcourier.com/opinion/commentary/artificial-intelligence-possibilities-uncertainties-conflicting-perspectives/article_b172bc21-da5f-4d5c-9079-5516cbd55e08.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/ce/ace95a75-c936-47b0-abce-5e08868175e3/6983ad9976d72.image.jpg?crop=1170%2C614%2C0%2C390",
+            "publishedAt": "2026-02-05T20:45:00Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -1512,6 +1656,15 @@
             "url": "https://www.cnbc.com/2026/02/04/ciena-returns-to-sp-500-after-getting-booted-17-years-ago.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108261687-1770247972762-gettyimages-170545273-SMITH_CIENA_CORP.jpeg?v=1770248049&w=1920&h=1080",
             "publishedAt": "2026-02-05T00:07:51Z"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Loyalty Is Dead in Silicon Valley",
+            "url": "https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/",
+            "urlToImage": "https://media.wired.com/photos/698250c5268bf1196c8083f9/master/w_120,c_limit/Model-Behavior-Loyalty-is-Dead-Silicon-Valley-Business.jpg",
+            "publishedAt": "2026-02-05 21:33:11"
         },
         {
             "source": {
@@ -3381,162 +3534,6 @@
             "url": "https://www.ndtvprofit.com/business/rbi-mulls-supervision-revamp-for-banks-to-curb-risks-10943014",
             "urlToImage": "https://c.ndtvimg.com/2026-02/dqt24ebk_reserve-bank-of-india-rbi-at-rbi-head-office-in-mumbai-photo-pti_625x300_04_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
             "publishedAt": "2026-02-04T05:34:52Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "EXCLUSIVE: DeepL to Release Interpretation Software for Japan",
-            "url": "https://www.japantimes.co.jp/business/2026/02/04/companies/deep-l-japan-software/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/04/521230.jpg?v=3.1",
-            "publishedAt": "2026-02-04T05:19:59Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "First Services Firm by Constellation Research for Agentic AI @ Scale",
-            "url": "https://www.tribuneindia.com/news/business/winwire-recognized-at-wef-davos-as-a-premier-ai-first-services-firm-by-constellation-research-for-agentic-ai-scale/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIyMThhODEwLTAxODctMTFmMS05ZTU3LWE1YjYwZTQ0ZTg4ZS5qcGc=",
-            "publishedAt": "2026-02-04T05:05:25Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Apple brings AI agents into Xcode, letting developers hand over real coding tasks to machines",
-            "url": "https://www.indiatoday.in/technology/news/story/apple-brings-ai-agents-into-xcode-letting-developers-hand-over-real-coding-tasks-to-machines-2862784-2026-02-04",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/ai-image-ai-coding-195632131-16x9.png?VersionId=fDD0rbsj9CJEKN9ibLhDzs32W3XltbHY",
-            "publishedAt": "2026-02-04T05:04:10Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "'AI Infrastructure Will Replicate the Job Impact of Internet in India', Says Nvidia CEO",
-            "url": "https://www.outlookbusiness.com/artificial-intelligence/ai-infrastructure-will-replicate-the-job-impact-of-internet-in-india-says-nvidia-ceo",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-02-04/j8s2omql/WhatsApp-Image-2026-02-04-at-02.00.47.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-02-04T05:02:10Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Asian software stocks plunge after U.S. peers decline on fears over AI-led disruption",
-            "url": "https://www.cnbc.com/2026/02/04/software-stocks-plunge-us-ai-disruption.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108246307-1767025794257-gettyimages-2236521867-syn08393.jpeg?v=1767025847&w=1920&h=1080",
-            "publishedAt": "2026-02-04T04:58:05Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Rs 1.75 lakh crore SaaSpocalypse for IT stocks explained: What it means for investors",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-75-lakh-crore-saaspocalypse-for-it-stocks-explained-what-it-means-for-investors/articleshow/127900151.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-127900170,width-1200,height-630,imgsize-2846913,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-02-04T04:58:00Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Elon Musk’s Grok still produces sexualised images at times",
-            "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-grok-still-produces-sexualised-images-at-times/article70590137.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/ew9je4/article70590140.ece/alternates/LANDSCAPE_1200/2026-02-01T073137Z_1352414744_RC2PVCA7CSQJ_RTRMADP_3_XAI-GROK-INDONESIA.JPG",
-            "publishedAt": "2026-02-04T04:15:26Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "AI Adoption in Law Firms Accelerates: Routine Legal Tasks Completed Up to 6× Faster, New Law.co Analysis Finds",
-            "url": "https://www.manilatimes.net/2026/02/04/tmt-newswire/plentisoft/ai-adoption-in-law-firms-accelerates-routine-legal-tasks-completed-up-to-6-faster-new-lawco-analysis-finds/2271254",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-02-04T04:12:23Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "From measurements to menus, AI is powering professional kitchens",
-            "url": "https://timesofindia.indiatimes.com/city/pune/from-measurements-to-menus-ai-is-powering-professional-kitchens/articleshow/127893880.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-127894067,width-1280,height-720,imgsize-62884,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-04T04:10:00Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "Nvidia nears deal to invest $20 billion in OpenAI funding round, source says",
-            "url": "https://www.thehindubusinessline.com/info-tech/nvidia-nears-deal-to-invest-20-billion-in-openai-funding-round-source-says/article70590159.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/uct23w/article70573156.ece/alternates/LANDSCAPE_1200/2026-01-26T163407Z_1911647941_RC2KEGAJJWFR_RTRMADP_3_VIDIA-COREWEAVE-INVESTMENT.JPG",
-            "publishedAt": "2026-02-04T04:05:21Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "F-1 visa approved in less than 60 seconds, applicant says ‘be confident and don’t lie’",
-            "url": "https://www.financialexpress.com/trending/f-1-visa-approved-in-less-than-60-seconds-applicant-says-be-confident-and-dont-lie/4130538/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/02/F-1-Visa-8.png?quality=100",
-            "publishedAt": "2026-02-04T03:58:45Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Asia shares wobble, oil prices climb and gold makes a comeback",
-            "url": "https://www.thestar.com.my/business/business-news/2026/02/04/asia-shares-wobble-oil-prices-climb-and-gold-makes-a-comeback",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/04/3753074.JPG",
-            "publishedAt": "2026-02-04T03:42:00Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "Dearest Gentle Readers, Mumbai Police Have A Bridgerton-style Message For You",
-            "url": "https://www.republicworld.com/entertainment/ott/web-series/dearest-gentle-readers-mumbai-police-have-a-bridgerton-style-message-for-you",
-            "urlToImage": "https://img.republicworld.com/all_images/mumbai-police-shares-bridgerton-style-message-1770176414836-16_9.webp",
-            "publishedAt": "2026-02-04T03:40:19Z"
         }
     ]
 }
