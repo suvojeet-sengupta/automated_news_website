@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-02-07T20:21:21.418032Z",
+    "lastUpdatedAt": "2026-02-07T21:21:05.313607Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Which countries are worst and best in public sector AI race?",
+            "url": "https://www.thenews.com.pk/latest/1391387-which-countries-are-worst-and-best-in-public-sector-ai-race",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-02-07/1391387_022748_updates.jpg",
+            "publishedAt": "2026-02-07T09:20:40Z"
+        },
+        {
+            "source": {
+                "id": "69a24b80e5bce5a07f808f5ea84c434b",
+                "name": "Arkansas Online",
+                "url": "https://www.arkansasonline.com",
+                "country": "us"
+            },
+            "title": "AI, Pope Leo XIV and warning from ‘Harry Potter’",
+            "url": "https://www.arkansasonline.com/news/2026/feb/07/ai-pope-leo-xiv-and-warning-from-harry-potter/",
+            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
+            "publishedAt": "2026-02-07T08:25:00Z"
+        },
         {
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -288,6 +312,15 @@
             "url": "https://timesofindia.indiatimes.com/city/nagpur/from-gadchiroli-mines-to-smart-tourism-ai-to-shape-viksit-bharat/articleshow/128005422.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-128005414,width-1280,height-720,imgsize-40820,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-02-07T00:06:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "KPMG Bets Big on AI-Powered Tax Practice With New Accelerator Program as Big Four Race to Automate Professional Services",
+            "url": "https://www.webpronews.com/kpmg-bets-big-on-ai-powered-tax-practice-with-new-accelerator-program-as-big-four-race-to-automate-professional-services/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-9599-1770453187.jpeg",
+            "publishedAt": "2026-02-07 08:33:13"
         },
         {
             "source": {
@@ -3471,42 +3504,6 @@
             "url": "https://www.timesnownews.com/technology-science/google-issues-security-alert-for-android-smartphone-users-delete-them-now-article-153565908",
             "urlToImage": "https://images.timesnownews.com/thumb/msid-153565908,width-1280,height-720,resizemode-75/153565908.jpg",
             "publishedAt": "2026-02-05T12:01:56Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "TSMC to make advanced AI semiconductors",
-            "url": "https://www.cp24.com/news/world/2026/02/05/tsmc-to-make-advanced-ai-semiconductors-in-japan-in-boost-for-its-chipmaking-ambitions/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/QTRWZ7YO5CMOWOEWOMWJJ3BP5U.jpg?smart=true&auth=d9248ce5291ac834e1354ae66b154c5a8e025d29103394b3635bb1eb6aa3eee4&width=1200&height=630",
-            "publishedAt": "2026-02-05T11:16:05Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "TSMC to make advanced AI semiconductors",
-            "url": "https://www.bnnbloomberg.ca/business/technology/2026/02/05/tsmc-to-make-advanced-ai-semiconductors-in-japan-in-boost-for-its-chipmaking-ambitions/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/QTRWZ7YO5CMOWOEWOMWJJ3BP5U.jpg?smart=true&auth=d9248ce5291ac834e1354ae66b154c5a8e025d29103394b3635bb1eb6aa3eee4&width=1200&height=630",
-            "publishedAt": "2026-02-05T11:16:05Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "How the AI trade went from market savior to saboteur",
-            "url": "https://www.livemint.com/market/stock-market-news/how-the-ai-trade-went-from-market-savior-to-saboteur-11770289423742.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/05/1600x900/logo/EUROPE-STOCKS-AI-0_1770289579076_1770289587884.JPG",
-            "publishedAt": "2026-02-05T11:07:58Z"
         }
     ]
 }
