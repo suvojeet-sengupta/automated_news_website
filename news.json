@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-02-07T06:36:15.980618Z",
+    "lastUpdatedAt": "2026-02-07T07:28:16.415033Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Fox News AI Newsletter: 'The American people are being lied to about AI'",
+            "url": "https://www.foxnews.com/tech/ai-newsletter-american-people-being-lied-about-ai",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/palantir-shyam-sankar-artificial-intelligence.jpg",
+            "publishedAt": "2026-02-06T19:14:57Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Microsoft Stock (NASDAQ:MSFT) Notches Up as Influencer Push Falters",
+            "url": "https://markets.businessinsider.com/news/stocks/microsoft-stock-nasdaq-msft-notches-up-as-influencer-push-falters-1035797974",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/02/Screenshot-2026-02-06-at-13-59-55-Microsoft-MSFT-Stock-Forecast-Price-Targets-and-Analysts-Predictions-TipRanks-1024x750.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-02-06T19:02:27Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "AI Daily: Amazon slides on surprise surge in AI-driven spending plans",
+            "url": "https://markets.businessinsider.com/news/stocks/ai-daily-amazon-slides-on-surprise-surge-in-ai-driven-spending-plans-1035797967",
+            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2026-02-06T18:55:29Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "The Subsector Crack: What Cybersecurity and Cloud Computing Can Tell Us About the Tech Rout",
+            "url": "https://www.barchart.com/story/news/77015/the-subsector-crack-what-cybersecurity-and-cloud-computing-can-tell-us-about-the-tech-rout",
+            "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/ETFs/ETF%20against%20chart%20background_Image%20by%20Uuganbayar%20via%20Shutterstock.jpg",
+            "publishedAt": "2026-02-06T18:54:20Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Traders see a buying opportunity in Amazon despite spending concerns",
+            "url": "https://www.cnbc.com/2026/02/06/traders-see-a-buying-opportunity-in-amazon-despite-spending-concerns.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108234913-1764645561370-gettyimages-2188101070-776246284_01_u86qe5ms.jpeg?v=1770401108&w=1920&h=1080",
+            "publishedAt": "2026-02-06T18:43:41Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Govt’s AI-driven tool to weed out misinformation draws BJP ‘snooping’ charge",
+            "url": "https://timesofindia.indiatimes.com/city/bengaluru/govts-ai-driven-tool-to-weed-out-misinformation-draws-bjp-snooping-charge/articleshow/128001923.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-117518782,width-1280,height-720,imgsize-94950,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-06T18:38:00Z"
+        },
         {
             "source": {
                 "id": "1b697445987e8a33f6c82842e17d60d9",
@@ -1524,6 +1596,15 @@
             "url": "https://www.auroranewsregister.com/news/mid-air-it-wins-county-computer-maintenance-contract",
             "urlToImage": "https://www.auroranewsregister.com/sites/auroranewsregister.com/files/2026-02/Board%20of%20Commissioners.jpg",
             "publishedAt": "2026-02-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "deccanherald"
+            },
+            "title": "AI moment: India must choose pragmatism over hype",
+            "url": "https://www.deccanherald.com/opinion/ai-moment-india-must-choose-pragmatism-over-hype-3889526",
+            "urlToImage": "https://media.assettype.com/deccanherald%2F2026-02-06%2Fu38ru85t%2Ffile84glws3daslbqjcp6q5.jpg?auto=format%2Ccompress&fit=max&rect=0%2C0%2C900%2C506&w=undefined",
+            "publishedAt": "2026-02-06 19:11:46"
         },
         {
             "source": {
@@ -3441,90 +3522,6 @@
             "url": "https://www.devdiscourse.com/article/technology/3791248-finland-and-the-ai-shift-why-most-workers-will-gain-but-one-in-five-faces-job-risk",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/03_02_2026_09_41_04_9477516.png?width=920&format=jpeg",
             "publishedAt": "2026-02-05T04:09:20Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "Promising green solutions lying dormant in labs to get $40 million push to market",
-            "url": "https://www.straitstimes.com/singapore/environment/promising-green-solutions-lying-dormant-in-labs-to-get-40-million-push-to-market",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/f3ec4484e9327d4d606e814399380ab58d014027c4709fcd7c2bd362344dcdfa",
-            "publishedAt": "2026-02-05T03:30:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "40 Global Experts Join UN's AI Panel: IIT Madras Professor Among Appointees",
-            "url": "https://www.devdiscourse.com/article/technology/3794210-40-global-experts-join-uns-ai-panel-iit-madras-professor-among-appointees",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/31_01_2026_16_42_34_9221898.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-02-05T03:21:49Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "How the AI boom could push up the price of your next PC",
-            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/how-the-ai-boom-could-push-up-the-price-of-your-next-pc/articleshow/127922513.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-127922586,width-1200,height-630,imgsize-166638,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-02-05T03:00:00Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "Explained - Why Nvidia, Broadcom shares rose after Alphabet's capex announcement",
-            "url": "https://www.cnbctv18.com/market/nvidia-broadcom-shares-rise-after-alphabet-capex-announcement-key-factors-explained-ws-l-19842661.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2025/11/gareema-feature-images-46-2025-11-99bf7206b454bcba9a4d7bf37ba36087.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2026-02-05T02:19:24Z"
-        },
-        {
-            "source": {
-                "id": "4bff0292330df9581a5e2014068ca2d2",
-                "name": "FOX 4 News",
-                "url": "https://www.fox4news.com",
-                "country": "us"
-            },
-            "title": "Texas DPS plans to increase surveillance over next 5 years",
-            "url": "https://www.fox4news.com/news/ai-cameras-drones-texas-dps-5-year-enforcement-plan-rooted-surveillance",
-            "urlToImage": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2026/02/1200/630/surveillance.png?ve=1&tl=1",
-            "publishedAt": "2026-02-05T02:03:50Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Software selloff continues as investors debate AI's existential threat",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/software-selloff-continues-as-investors-debate-ais-existential-threat/articleshow/127921671.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-127921671,width-1200,height-630,imgsize-154377,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-02-05T01:52:00Z"
-        },
-        {
-            "source": {
-                "id": "3f09ae62ee37a33ab191a698fec83f4b",
-                "name": "WEAU",
-                "url": "https://www.weau.com",
-                "country": "us"
-            },
-            "title": "Wisconsin lawmakers propose bill to classify AI as not human, ban AI marriages",
-            "url": "https://www.weau.com/2026/02/05/wisconsin-lawmakers-propose-bill-classify-ai-not-human-ban-ai-marriages/",
-            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/Z2P5MBLYVNDNTEDU347RFHLXS4.jpg?auth=90a73152276b74e61f31e313ebfb1290d7020a676baddf4fb1a83fbc1208f66d&width=1200&height=600&smart=true",
-            "publishedAt": "2026-02-05T01:50:29Z"
         }
     ]
 }
