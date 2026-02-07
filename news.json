@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-02-07T19:20:00.352145Z",
+    "lastUpdatedAt": "2026-02-07T20:21:21.418032Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Apple plans to allow external voice-controlled AI chatbots in CarPlay: Report",
+            "url": "https://www.thehindu.com/sci-tech/technology/apple-plans-to-allow-external-voice-controlled-ai-chatbots-in-carplay-report/article70603095.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/cdp8vq/article70603098.ece/alternates/LANDSCAPE_1200/2026-02-06T203614Z_940052991_RC2LEGAIHNHL_RTRMADP_3_APPLE-PRODUCTS.JPG",
+            "publishedAt": "2026-02-07T08:11:01Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Artificial intelligence transforming software engineering jobs, warns Anthropic CEO Dario Amodei",
+            "url": "https://www.indiatoday.in/technology/news/story/anthropic-ceo-claims-software-engineering-will-be-obsolete-in-12-months-sridhar-vembu-says-pay-attention-2864570-2026-02-07",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/dario-amodei-anthropic-ceo---sridhar-vembu-zoho-founder-074731677-16x9_0.png?VersionId=A0C2neQARkwr_DzvHNfpynL5CbXYNPW9",
+            "publishedAt": "2026-02-07T07:49:49Z"
+        },
         {
             "source": {
                 "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
@@ -264,6 +288,15 @@
             "url": "https://timesofindia.indiatimes.com/city/nagpur/from-gadchiroli-mines-to-smart-tourism-ai-to-shape-viksit-bharat/articleshow/128005422.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-128005414,width-1280,height-720,imgsize-40820,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-02-07T00:06:00Z"
+        },
+        {
+            "source": {
+                "name": "indiatvnews"
+            },
+            "title": "MediaTek bets on automotive and high-performance computing as new growth engines",
+            "url": "https://www.indiatvnews.com/technology/news/mediatek-bets-on-automotive-and-high-performance-computing-as-new-growth-engines-2026-02-07-1029261",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/02/new-project-2026-02-07t130741-1770449852.jpg",
+            "publishedAt": "2026-02-07 07:37:45"
         },
         {
             "source": {
@@ -3474,42 +3507,6 @@
             "url": "https://www.livemint.com/market/stock-market-news/how-the-ai-trade-went-from-market-savior-to-saboteur-11770289423742.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/05/1600x900/logo/EUROPE-STOCKS-AI-0_1770289579076_1770289587884.JPG",
             "publishedAt": "2026-02-05T11:07:58Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "How AI Answers Your Question May Depend on Your Politics",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-05/chinese-ai-produces-different-responses-based-on-users-politics",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikFI.oHmm6gM/v0/1200x800.jpg",
-            "publishedAt": "2026-02-05T11:00:29Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Hackers Hit Sensitive Targets in 37 Nations in Spying Plot",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-05/hackers-hit-sensitive-targets-in-37-nations-in-vast-spying-plot",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isL0v9a1J0A4/v1/1200x799.jpg",
-            "publishedAt": "2026-02-05T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Germany embraces AI to drive digital transformation at scale",
-            "url": "https://www.thenews.com.pk/latest/1391137-germany-embraces-ai-to-drive-digital-transformation-at-scale",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-02-05/1391137_040226_updates.jpg",
-            "publishedAt": "2026-02-05T10:59:26Z"
         }
     ]
 }
