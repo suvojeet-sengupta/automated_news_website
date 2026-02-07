@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-02-07T18:28:54.426826Z",
+    "lastUpdatedAt": "2026-02-07T19:20:00.352145Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Apple may bring ChatGPT and other AI apps to CarPlay",
+            "url": "https://www.thenews.com.pk/latest/1391375-apple-may-bring-chatgpt-and-other-ai-apps-to-carplay",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-02-07/1391375_121703_updates.jpg",
+            "publishedAt": "2026-02-07T07:11:41Z"
+        },
+        {
+            "source": {
+                "id": "143b993b193f72147f3de29ebcfbf505",
+                "name": "India TV News",
+                "url": "https://www.indiatvnews.com",
+                "country": "in"
+            },
+            "title": "Moltbook: AI-only social network sparking excitement, skepticism, and security fears",
+            "url": "https://www.indiatvnews.com/technology/news/moltbook-ai-only-social-network-sparking-excitement-skepticism-and-security-fears-2026-02-07-1029257",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/02/moltbook-ai-only-social-network-1770447605.jpg",
+            "publishedAt": "2026-02-07T07:00:15Z"
+        },
+        {
+            "source": {
+                "id": "e98c4d2585c4c5661ffe60fed4d51930",
+                "name": "BOL News",
+                "url": "https://www.bolnews.com",
+                "country": "pk"
+            },
+            "title": "Pakistan to fast-track AI policy by bringing in international experts",
+            "url": "https://www.bolnews.com/technology/pakistan-to-fast-track-ai-policy-by-bringing-in-international-experts/",
+            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2026/02/AI.webp",
+            "publishedAt": "2026-02-07T06:30:48Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Private 5G Unleashed: Building Smart Networks for Digital Bharat",
+            "url": "https://www.tribuneindia.com/news/business/private-5g-unleashed-building-smart-networks-for-digital-bharat/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdjY2QxMWIwLTAzZWUtMTFmMS04MzhhLTdiNTZlMzViOTYwMC5qcGc=",
+            "publishedAt": "2026-02-07T06:30:20Z"
+        },
         {
             "source": {
                 "id": "e894895ef041ab9c6cb7fe7223531f53",
@@ -3462,54 +3510,6 @@
             "url": "https://www.thenews.com.pk/latest/1391137-germany-embraces-ai-to-drive-digital-transformation-at-scale",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-02-05/1391137_040226_updates.jpg",
             "publishedAt": "2026-02-05T10:59:26Z"
-        },
-        {
-            "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
-                "country": "in"
-            },
-            "title": "Public Wi-Fi can be dangerous: What really happens when you connect your phone",
-            "url": "https://www.indiatvnews.com/technology/news/public-wi-fi-can-be-dangerous-what-really-happens-when-you-connect-your-phone-2026-02-05-1029036",
-            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/02/elon-musk-reportedly-on-the-verge-of-raising-billions-for-his-ai-company-2026-02-05t162643-1770288988.jpg",
-            "publishedAt": "2026-02-05T10:57:53Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "China warns of security risks linked to OpenClaw open-source AI agent",
-            "url": "https://www.marketscreener.com/news/china-warns-of-security-risks-linked-to-openclaw-open-source-ai-agent-ce7e5adbdf81f123",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-02-05T10:45:30Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "TSMC to Make Advanced AI Semiconductors in Japan in Boost for Its Chipmaking Ambitions",
-            "url": "https://www.usnews.com/news/business/articles/2026-02-05/tsmc-to-make-advanced-ai-semiconductors-in-japan-in-boost-for-its-chipmaking-ambitions",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/65b355e/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ffb%2F23aa028a3caac8426a17646f83c832%2Fa208b88c60f846a1a1ce5888b9c2dc90Japan_Taiwan_26141.jpg",
-            "publishedAt": "2026-02-05T10:41:00Z"
-        },
-        {
-            "source": {
-                "id": "b683218c3952d77a76b7bda7512f2f6e",
-                "name": "WIRED",
-                "url": "https://www.wired.com",
-                "country": "us"
-            },
-            "title": "Hollywood Is Losing Audiences to AI Fatigue",
-            "url": "https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/",
-            "urlToImage": "https://media.wired.com/photos/69824a2c7919406e39e38c8a/191:100/w_1280,c_limit/Aronofsky-Hollywood-Still-Doesnt-Get-How-to-Make-AI-Appealing-Culture-2251125726.jpg",
-            "publishedAt": "2026-02-05T10:30:00Z"
         }
     ]
 }
