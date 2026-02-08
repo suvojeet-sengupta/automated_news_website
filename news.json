@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-02-08T06:01:53.419236Z",
+    "lastUpdatedAt": "2026-02-08T07:35:58.908218Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Tech’s AI Push Risks a Bond Market Blowback: Credit Weekly",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-07/tech-s-ai-push-risks-a-bond-blowback-amzn-googl-msft-orcl",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i03TAHzDZLzg/v0/1200x800.jpg",
+            "publishedAt": "2026-02-07T19:01:32Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "How to protect a loved one's identity after death",
+            "url": "https://www.foxnews.com/tech/how-protect-loved-ones-identity-after-death",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/elderly-person-learning-about-phones.jpg",
+            "publishedAt": "2026-02-07T19:00:25Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The Evolving Landscape of IT Education in the Digital Age",
+            "url": "https://techbullion.com/the-evolving-landscape-of-it-education-in-the-digital-age/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/IT-Education-in-the-Digital-Age.jpg",
+            "publishedAt": "2026-02-07T18:53:56Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -624,6 +660,24 @@
             "url": "https://timesofindia.indiatimes.com/city/nagpur/from-gadchiroli-mines-to-smart-tourism-ai-to-shape-viksit-bharat/articleshow/128005422.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-128005414,width-1280,height-720,imgsize-40820,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-02-07T00:06:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Microsoft’s AI Gambit Is Stumbling: Inside the Cracks Forming Beneath Redmond’s $80 Billion Bet",
+            "url": "https://www.webpronews.com/microsofts-ai-gambit-is-stumbling-inside-the-cracks-forming-beneath-redmonds-80-billion-bet/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-9619-1770491950.jpeg",
+            "publishedAt": "2026-02-07 19:19:16"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple’s Next CarPlay Gambit: Opening the Dashboard to Third-Party AI Voice Assistants",
+            "url": "https://www.webpronews.com/apples-next-carplay-gambit-opening-the-dashboard-to-third-party-ai-voice-assistants/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-9618-1770491839.jpeg",
+            "publishedAt": "2026-02-07 19:17:26"
         },
         {
             "source": {
@@ -3429,66 +3483,6 @@
             "url": "https://www.dailymail.co.uk/debate/article-15532311/QUENTIN-LETTS-Starmer-speech-stodgy-porridge-Cliche-oratory-artificial-intelligence.html",
             "urlToImage": "https://i.dailymail.co.uk/1s/2026/02/05/17/106139741-0-image-m-61_1770311722074.jpg",
             "publishedAt": "2026-02-05T17:16:02Z"
-        },
-        {
-            "source": {
-                "id": "97497c18f5cb431f5f324b3d8643c24f",
-                "name": "The Independent",
-                "url": "https://www.independent.co.uk",
-                "country": "gb"
-            },
-            "title": "Asian cyber-spy group breached 37 foreign governments as US works to patch vulnerabilities across agencies: report",
-            "url": "https://www.independent.co.uk/news/world/americas/us-politics/asian-cyber-hackers-37-nations-b2914693.html",
-            "urlToImage": "https://static.independent.co.uk/2025/07/16/16/28/iStock-2151295139.jpeg?trim=0,4,0,4&width=1200&height=800&crop=1200:800",
-            "publishedAt": "2026-02-05T17:07:35Z"
-        },
-        {
-            "source": {
-                "id": "00c6ccd3af71b81a3028aaaf8dab27fa",
-                "name": "The Herald",
-                "url": "https://www.heraldscotland.com",
-                "country": "gb"
-            },
-            "title": "'Huge potential for jeopardy with changes to employment laws'",
-            "url": "https://www.heraldscotland.com/opinion/25830237.huge-potential-jeopardy-changes-employment-laws/",
-            "urlToImage": "https://www.heraldscotland.com/resources/images/20508201.jpg?type=og-image",
-            "publishedAt": "2026-02-05T16:34:05Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "AI war against 'one cent' family violence perpetrators",
-            "url": "https://www.perthnow.com.au/news/business/ai-war-against-one-cent-family-violence-perpetrators-c-21544303",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-21544303/5e21b6e4cb2dd0822f4efdddf9e11595d31d875c-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-02-05T16:32:56Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Filipino-British AI strategist engages in United Nations 80th Anniversary",
-            "url": "https://www.manilatimes.net/2026/02/06/tmt-newswire/filipino-british-ai-strategist-engages-in-united-nations-80th-anniversary/2272285",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/05/926086.jpg",
-            "publishedAt": "2026-02-05T16:09:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Google's annual revenue tops $400 billion for first time, AI investments rise",
-            "url": "https://www.manilatimes.net/2026/02/06/business/foreign-business/googles-annual-revenue-tops-400-billion-for-first-time-ai-investments-rise/2272672",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/05/926187.jpg",
-            "publishedAt": "2026-02-05T16:06:00Z"
         }
     ]
 }
