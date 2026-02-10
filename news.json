@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-02-10T07:56:25.720635Z",
+    "lastUpdatedAt": "2026-02-10T08:54:27.511262Z",
     "articles": [
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "OpenAI starts testing ads in ChatGPT",
+            "url": "https://www.nbcnews.com/tech/internet/openai-starts-testing-ads-chatgpt-rcna258242",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240816-chatGPT-se-453p-c9d54c.jpg",
+            "publishedAt": "2026-02-09T20:49:18Z"
+        },
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "Amazon STMicro Deal Seals Multibillion Bet on AI Infrastr...",
+            "url": "https://usaherald.com/amazon-stmicro-deal-seals-multibillion-bet-on-ai-infrastructure/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2026-02-09T20:45:49Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Morgan Stanley says buy 2 beaten-down software stocks. We agree on one of them",
+            "url": "https://www.cnbc.com/2026/02/09/morgan-stanley-says-buy-2-beaten-down-software-stocks-we-agree-on-one-of-them.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108262238-1770326804886-gettyimages-2259491558-US_STOCKS.jpeg?v=1770660809&w=1920&h=1080",
+            "publishedAt": "2026-02-09T20:33:32Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "AI-generated text is overwhelming institutions",
+            "url": "https://japantoday.com/category/features/opinions/AI-generated-text-is-overwhelming-institutions",
+            "urlToImage": "https://media.japantoday.com/img/store/09/4c/4ea7588ccacc3935fd6abddfd4eac578c722/istock-2208418105/_w1700.jpeg",
+            "publishedAt": "2026-02-09T20:10:00Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -3474,54 +3522,6 @@
             "url": "https://www.dailymail.co.uk/sciencetech/article-15535857/iPhone-texting-scam-apple-pay.html",
             "urlToImage": "https://i.dailymail.co.uk/1s/2026/02/06/16/106170169-0-image-a-17_1770396770875.jpg",
             "publishedAt": "2026-02-06T16:53:02Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Net impact of AI on jobs positive, managing the transition to new tech a challenge: RBI",
-            "url": "https://economictimes.indiatimes.com/news/economy/policy/net-impact-of-ai-on-jobs-positive-managing-the-transition-to-new-tech-a-challenge-rbi/articleshow/127999703.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-127999922,width-1200,height-630,imgsize-31290,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-02-06T16:35:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Pivotal month of February",
-            "url": "https://www.manilatimes.net/2026/02/07/opinion/columns/pivotal-month-of-february/2273299",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/06/928107.jpg",
-            "publishedAt": "2026-02-06T16:08:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI-Driven Rotation Deals Stock Hedge Funds Worst Day in Months",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-06/ai-driven-rotation-deals-stock-hedge-funds-worst-day-in-months",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iC9NQ.u2youA/v1/1200x800.jpg",
-            "publishedAt": "2026-02-06T16:07:06Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Reddit forecasts strong revenue as AI tools drive ad sales",
-            "url": "https://www.manilatimes.net/2026/02/07/business/foreign-business/reddit-forecasts-strong-revenue-as-ai-tools-drive-ad-sales/2273323",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-02-06T16:02:00Z"
         }
     ]
 }
