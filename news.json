@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-02-12T19:49:42.417407Z",
+    "lastUpdatedAt": "2026-02-12T20:30:17.789253Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Google pushes AI shopping features in search and Gemini chatbot",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/12/google-pushes-ai-shopping-features-in-search-and-gemini-chatbot",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/12/3767422.jpg",
+            "publishedAt": "2026-02-12T08:20:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "OpenAI engineer warns of the day AI finally ‘disrupts everything’ for humans",
+            "url": "https://indianexpress.com/shorts/trending/trending-globally/openai-engineer-warns-of-ai-existential-threat-10528312/",
+            "urlToImage": "https://images.indianexpress.com/2026/02/intersection-humanity-artificial-intelligence-dna-connection_20251229224642_20260120201612_20260212080054.jpg",
+            "publishedAt": "2026-02-12T08:04:12Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "‘Existential threat’: OpenAI engineer warns of the day AI finally ‘disrupts everything’ for humans",
+            "url": "https://indianexpress.com/article/trending/trending-globally/openai-engineer-warns-of-ai-existential-threat-10528312/",
+            "urlToImage": "https://images.indianexpress.com/2026/02/intersection-humanity-artificial-intelligence-dna-connection_20251229224642_20260120201612_20260212080054.jpg",
+            "publishedAt": "2026-02-12T08:03:01Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -588,6 +624,33 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/02/12/musk-reorganizes-xai-after-spacex-merger-and-ahead-of-blockbuster-ipo",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/12/3766742.jpg",
             "publishedAt": "2026-02-12T00:16:00Z"
+        },
+        {
+            "source": {
+                "name": "yahoo"
+            },
+            "title": "Amazon, Microsoft, and Alphabet All Reported Robust Cloud Growth. 1 Was a Clear Winner",
+            "url": "https://finance.yahoo.com/news/amazon-microsoft-alphabet-reported-robust-082200999.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/h66hcX7kTLl2UCH32oWjCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcwMA--/https://media.zenfs.com/en/motleyfool.com/2deac11399ec97eb75d75ecd7800cf89",
+            "publishedAt": "2026-02-12 08:22:00"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Anthropic Vows To Pay Full Power Bill For Its AI Data Centers, Says Americans Won't Foot The Bill",
+            "url": "https://www.benzinga.com/markets/tech/26/02/50567229/anthropic-vows-to-pay-full-power-bill-for-its-ai-data-centers-says-americans-wont-foot-the-bill",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/02/12/Stuttgart--Germany---04-21-2024-Mobile-P.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2026-02-12 08:14:56"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Google Flags Massive AI Cloning Attempt as Over 100000 Malicious Prompts Target Gemini Logic",
+            "url": "https://www.latestly.com/technology/google-flags-massive-ai-cloning-attempt-as-over-100000-malicious-prompts-target-gemini-logic-7311552.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/02/260211-google-ww-1810-a0892a.jpg",
+            "publishedAt": "2026-02-12 08:06:06"
         },
         {
             "source": {
@@ -3465,78 +3528,6 @@
             "url": "https://www.news18.com/india/data-is-being-stolen-and-sold-to-enemies-amit-shah-says-govt-stepping-up-cybersecurity-efforts-ws-l-9892983.html",
             "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/02/amit-shah-2-2026-02-9b075caf3c34c1e91601359882eb04e6-16x9.jpg",
             "publishedAt": "2026-02-10T11:32:45Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Alphabet sells bonds worth $20 billion to fund AI spending",
-            "url": "https://www.reuters.com/business/alphabet-sells-bonds-worth-20-billion-fund-ai-spending-2026-02-10/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/64DT7GFBQ5IV7JSP7EHIK7VXUU.jpg?auth=91bfb8ed27c66f583de3a677cc4f5bc0ccb2696b5dc168a5d4a0d4c4376ed9ba&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-02-10T11:31:34Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Want to get rich using AI? Billionaire Mark Cuban believes it could produce world’s first trillionaire. Here's how he uses AI",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/want-to-get-rich-using-ai-billionaire-mark-cuban-believes-it-could-produce-worlds-first-trillionaire-heres-how-he-uses-ai/articleshow/128155640.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128156522,width-1200,height-630,imgsize-50412,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2026-02-10T11:30:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Amazon Intends to Roll Out AI Content Marketplace",
-            "url": "https://www.marketscreener.com/news/amazon-intends-to-roll-out-ai-content-marketplace-ce7e5adcd988f12d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-02-10T11:22:48Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "DeepSnitch AI: Near Protocol and Render Hover Around USD 1 As Crypto.com Unveils New AI Agents, But DeepSnitch AI Dominates AI Discussions With Presale Success Amid 300x Potential Surge",
-            "url": "https://www.tribuneindia.com/news/business/deepsnitch-ai-near-protocol-and-render-hover-around-usd-1-as-crypto-com-unveils-new-ai-agents-but-deepsnitch-ai-dominates-ai-discussions-with-presale-success-amid-300x-potential-surge/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBjNzQyNTIwLTA2NzMtMTFmMS04MzhhLTdiNTZlMzViOTYwMC5qcGc=",
-            "publishedAt": "2026-02-10T11:21:58Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "IIFL Finance Receives ‘Changemakers 2026’ Award at Palo Alto Networks Cybersecurity Leadership Summit",
-            "url": "https://www.thehindubusinessline.com/brandhub/pr-release/iifl-finance-receives-changemakers-2026-award-at-palo-alto-networks-cybersecurity-leadership-summit/article70614576.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/jij0ym/article70614572.ece/alternates/LANDSCAPE_1200/IIFL_Finance_Changemakers_2026.jpg",
-            "publishedAt": "2026-02-10T11:20:24Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "BRICS crucial for building greater Eurasian partnership, says Russian FM Lavrov",
-            "url": "https://www.tribuneindia.com/news/world/brics-crucial-for-building-greater-eurasian-partnership-says-russian-fm-lavrov/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTJhMzg5YjYwLTA2NzEtMTFmMS04MzhhLTdiNTZlMzViOTYwMC5qcGc=",
-            "publishedAt": "2026-02-10T11:10:48Z"
         }
     ]
 }
