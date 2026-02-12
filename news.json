@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-02-12T09:43:28.470863Z",
+    "lastUpdatedAt": "2026-02-12T10:40:22.193066Z",
     "articles": [
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "AI Impact Summit signals to world, India is serious about AI: Chandrika Krishnamurthy Tandon",
+            "url": "https://www.dailyexcelsior.com/ai-impact-summit-signals-to-world-india-is-serious-about-ai-chandrika-krishnamurthy-tandon/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/Chandrika-Krishnamurthy-Tandon.jpg",
+            "publishedAt": "2026-02-11T22:30:16Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "Senators introduce first bipartisan effort to curb utility bill hikes related to data centers",
+            "url": "https://www.nbcnews.com/politics/congress/senators-introduce-first-bipartisan-effort-curb-utility-bill-hikes-rel-rcna258577",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260211-hawley-blumenthal-gk-5f50de.jpg",
+            "publishedAt": "2026-02-11T22:00:00Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Bill Ackman backs Mark Zuckerberg’s Meta with $2B investment",
+            "url": "https://nypost.com/2026/02/11/business/bill-ackman-backs-mark-zuckerbergs-meta-with-2b-investment/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/02/newspress-collage-vf7sv45uz-1770846190316.jpg?quality=75&strip=all&1770828218&w=1200",
+            "publishedAt": "2026-02-11T21:50:37Z"
+        },
         {
             "source": {
                 "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
@@ -3516,42 +3552,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/02/10/amazon-plans-to-launch-ai-content-marketplace-the-information-reports",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/10/3763276.jpg",
             "publishedAt": "2026-02-10T02:46:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Amazon plans to launch AI content marketplace: The Information",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-plans-to-launch-ai-content-marketplace-the-information/articleshow/128137425.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-33552,resizemode-75,msid-128137425/tech/artificial-intelligence/amazon-plans-to-launch-ai-content-marketplace-the-information.jpg",
-            "publishedAt": "2026-02-10T02:05:50Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Amazon, Google and Microsoft to get tariff relief from Trump admin on chips for data centres, says report - What we know",
-            "url": "https://www.livemint.com/companies/news/amazon-google-microsoft-tariff-relief-chips-ai-data-centres-donald-trump-administration-tech-players-report-what-why-how-11770684752203.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/10/1600x900/Donald_Trump_US_chips_data_centres_tariffs_Google_1770685940572_1770685940812.jpg",
-            "publishedAt": "2026-02-10T01:45:04Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "This new platform lets AI ‘rent’ humans for work - here’s how it works",
-            "url": "https://timesofindia.indiatimes.com/etimes/trending/this-new-platform-lets-ai-rent-humans-for-work-heres-how-it-works/articleshow/128127509.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128127694,width-1280,height-720,imgsize-41748,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-10T01:30:00Z"
         }
     ]
 }
