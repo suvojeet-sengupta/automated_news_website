@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-02-13T11:28:07.954386Z",
+    "lastUpdatedAt": "2026-02-13T12:50:32.604201Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "SP MLA for law against deepfakes",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/sp-mla-for-law-against-deepfakes/articleshow/128272862.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-117515978,width-1280,height-720,imgsize-99969,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-13T00:40:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Tech jitters rock Wall Street: Nasdaq tumbles 2%, S&P 500 falls over 1% as AI worries rattle investors",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/tech-jitters-rock-wall-street-nasdaq-tumbles-2-sp-500-falls-over-1-as-ai-worries-rattle-investors/articleshow/128281860.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-128281946,width-1200,height-630,imgsize-122930,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-02-13T00:34:00Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "What’s likely to move the market",
+            "url": "https://www.cnbc.com/2026/02/12/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222303-1762434766877-gettyimages-2235744008-CANADA_BIOMANUFACTURING.jpeg?v=1770941777&w=1920&h=1080",
+            "publishedAt": "2026-02-13T00:17:34Z"
+        },
+        {
+            "source": {
+                "id": "68e8a9c1e60db86af8601f08c15463a0",
+                "name": "Altoona Mirror",
+                "url": "https://www.altoonamirror.com",
+                "country": "us"
+            },
+            "title": "Sean Astin brings a lot of fight to role as SAG-AFTRA President",
+            "url": "https://www.altoonamirror.com/life/go-magazine/2026/02/sag-aftra-sean-astin-president-takes-over/",
+            "urlToImage": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2026/02/12175400/Astin-Cover-775x500.jpg",
+            "publishedAt": "2026-02-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
+            "url": "https://www.breitbart.com/news/as-electricity-costs-rise-everyone-wants-data-centers-to-pick-up-their-tab-but-how/",
+            "urlToImage": "https://media.breitbart.com/media/2026/02/wi/ap/election-2026-data-centers-66336-election-2026-data-centers-data-center-owned-by-amazon-web-services-640x335.jpg",
+            "publishedAt": "2026-02-12T23:41:52Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Arista Networks Surges on AI Networking Demand, Despite Rising Costs",
+            "url": "https://www.marketscreener.com/news/arista-networks-surges-on-ai-networking-demand-despite-rising-costs-ce7e5ad3df80f422",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-02-12T23:35:22Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Tencent’s AI Lag Fuels $173 Billion Stock Rout as Rivals Thrive",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-12/tencent-s-ai-lag-fuels-173-billion-stock-rout-as-rivals-thrive",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWLzyoCSzv1E/v0/1200x800.jpg",
+            "publishedAt": "2026-02-12T23:30:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Applied Materials Profit Rises on Soaring AI Demand -- Update",
+            "url": "https://www.marketscreener.com/news/applied-materials-profit-rises-on-soaring-ai-demand-update-ce7e5ad3df80f621",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-02-12T23:29:25Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -2199,6 +2295,15 @@
         },
         {
             "source": {
+                "name": "platodata"
+            },
+            "title": "Top Startup and Tech Funding News – February 12, 2025",
+            "url": "https://platodata.ai/top-startup-and-tech-funding-news-february-12-2025/",
+            "urlToImage": "https://platodata.ai/wp-content/uploads/2026/02/top-startup-and-tech-funding-news-february-12-2025.jpg",
+            "publishedAt": "2026-02-12 23:38:06"
+        },
+        {
+            "source": {
                 "name": "brookings"
             },
             "title": "GAMECHANGER: A case study of AI innovation at the Department of Defense | Brookings",
@@ -3414,114 +3519,6 @@
             "url": "https://techbullion.com/cybersecurity-threats-of-2026-and-how-businesses-can-protect-themselves/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/Screenshot-2026-02-11-160204.png",
             "publishedAt": "2026-02-11T11:04:18Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "AI Impact Summit 2026: US, India Should Forge AI Tech Compact, New Report Suggests",
-            "url": "https://www.freepressjournal.in/tech/ai-impact-summit-2026-us-india-should-forge-ai-tech-compact-new-report-suggests",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-01-06/t1kqcjvh/AI-Job.jpg",
-            "publishedAt": "2026-02-11T10:57:27Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Unlock Profits with Trade Vector AI: The Future of Crypto Trading",
-            "url": "https://techbullion.com/unlock-profits-with-trade-vector-ai-the-future-of-crypto-trading/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/Trade-Vector-1000x600.webp",
-            "publishedAt": "2026-02-11T10:49:09Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "AI Impact Summit 2026: World’s biggest tech leaders are coming to Delhi",
-            "url": "https://www.firstpost.com/tech/ai-impact-summit-2026-sam-altman-sundar-pichai-and-other-global-tech-leaders-are-coming-to-delhi-ws-e-13978634.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/02/image-2026-02-bf20f71a826c7c6ca3b8ae5b1e2901f8-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-02-11T10:46:02Z"
-        },
-        {
-            "source": {
-                "id": "c8c865ed042eb14694b8d596e22efe99",
-                "name": "Spokane Spokesman-Review",
-                "url": "https://www.spokesman.com",
-                "country": "us"
-            },
-            "title": "Meta begins construction of $10 billion Indiana data center to boost AI capabilities",
-            "url": "https://www.spokesman.com/stories/2026/feb/11/meta-begins-construction-of-10-billion-indiana-dat/",
-            "urlToImage": "https://thumb.spokesman.com/L4QBvRGtsQEWxuXhRnunosp-EWE=/1200x630/smart/media.spokesman.com/photos/2026/02/11/698cde199bb95.image.jpg",
-            "publishedAt": "2026-02-11T10:04:00Z"
-        },
-        {
-            "source": {
-                "id": "f4967fce32bfc735983f0f39dcdba127",
-                "name": "pv magazine",
-                "url": "https://www.pv-magazine.com",
-                "country": "de"
-            },
-            "title": "Energy Vault secures 1.5 GWh sodium-ion supply for AI",
-            "url": "https://www.pv-magazine.com/2026/02/11/energy-vault-secures-1-5-gwh-sodium-ion-supply-for-ai/",
-            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2026/02/Screenshot-2026-02-11-at-09.27.45-1200x715.png",
-            "publishedAt": "2026-02-11T10:00:54Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Geopolitics and AI to Fuel Volatility in 2026, JPMorgan Finds",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-11/geopolitics-and-ai-to-fuel-volatility-in-2026-jpmorgan-finds",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ig4rbhtEeqnM/v1/1200x800.jpg",
-            "publishedAt": "2026-02-11T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
-                "name": "Newsweek",
-                "url": "https://www.newsweek.com",
-                "country": "us"
-            },
-            "title": "Big Tech’s AI Spending Spooks Investors",
-            "url": "https://www.newsweek.com/big-techs-ai-spending-spooks-investors-11491390",
-            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/02/PER03_AI_.jpg?w=1200crop=1",
-            "publishedAt": "2026-02-11T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "UK wealth managers stocks tumble as AI fears ripple across Europe",
-            "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/uk-wealth-managers-stocks-tumble-ai-fears-ripple-across-europe-2026-02-11/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/54P4KHX7HJKH3MDVZRW6M53KME.jpg?auth=4d76a1e297dc896556983db8a55481014f4de919eb35b1ac4f7fff0a4c98c9db&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-02-11T09:58:12Z"
-        },
-        {
-            "source": {
-                "id": "6bc94426ae0cbbdb312f14c0f86b4708",
-                "name": "Ubergizmo",
-                "url": "https://www.ubergizmo.com",
-                "country": "us"
-            },
-            "title": "Google Translate Update Turns App Into Gemini-Powered AI Chatbot",
-            "url": "https://www.ubergizmo.com/2026/02/google-translate-ai-chatbot/",
-            "urlToImage": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2026/02/google-translate.png",
-            "publishedAt": "2026-02-11T09:52:14Z"
         }
     ]
 }
