@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-02-14T21:19:49.811725Z",
+    "lastUpdatedAt": "2026-02-14T22:18:50.676300Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "How A.I. Salaries Are Causing Couples to Rethink Money in Relationships",
+            "url": "https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/02/14/multimedia/14Biz-AI-Income-Gap-zpwm/14Biz-AI-Income-Gap-zpwm-facebookJumbo.jpg",
+            "publishedAt": "2026-02-14T10:01:00Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "AI vs Humans: 25 Jobs At Risk Due To Artificial Intelligence",
+            "url": "https://www.news18.com/education-career/ai-vs-humans-25-jobs-at-risk-due-to-artificial-intelligence-ws-e-9903467.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/02/image-2026-02-2575d5033cb364f9f89f3a496a05e29b-16x9.jpg",
+            "publishedAt": "2026-02-14T10:00:01Z"
+        },
+        {
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            },
+            "title": "India, and Big Tech, have big stakes in the upcoming India AI Impact Summit",
+            "url": "https://www.theweek.in/news/sci-tech/2026/02/14/india-and-big-tech-have-big-stakes-in-the-upcoming-india-ai-impact-summit.html",
+            "urlToImage": "https://www.theweek.in/content/dam/week/week/news/sci-tech/images/2026/2/14/ai-impact-summit.jpg",
+            "publishedAt": "2026-02-14T09:53:33Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Zoho founder Sridhar Vembu: I have come to believe that in software code generation …",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-i-have-come-to-believe-that-in-software-code-generation-/articleshow/128341641.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-128341615,width-1280,height-720,imgsize-589656,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-14T09:42:00Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Class 11 in the age of AI: Which stream is actually safe?",
+            "url": "https://www.indiatoday.in/education-today/featurephilia/story/ai-job-market-impact-class-11-stream-choice-2026-2868228-2026-02-14",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/students-trust-ai-and-parents-on-career-advice-more-than-school-counsellors-report-293707189-16x9.jpg?VersionId=ziFzvocwUwHGVm5x6q7s345mjTE1LcLW",
+            "publishedAt": "2026-02-14T09:27:06Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -3441,66 +3501,6 @@
             "url": "https://www.reuters.com/business/stock-market-ai-turns-lifting-all-boats-sinking-ships-2026-02-12/",
             "urlToImage": "https://www.reuters.com/resizer/v2/W725VBHN5JKWTHAHZEFLH4Z5CU.jpg?auth=fdb032952341437530b3c58804467deb56ad2405278606bef054d30f4a93a683&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2026-02-12T16:10:08Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Govt Cyber Resilience Summit convenes top national leaders",
-            "url": "https://www.manilatimes.net/2026/02/13/tmt-newswire/govt-cyber-resilience-summit-convenes-top-national-leaders/2277387",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/12/935294.jpg",
-            "publishedAt": "2026-02-12T16:09:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US Stocks: AI cloud firm Nebius posts surge in capex on GPU, data center expenses",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ai-cloud-firm-nebius-posts-surge-in-capex-on-gpu-data-center-expenses/articleshow/128266491.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128266491,width-1200,height-630,imgsize-237032,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-02-12T16:08:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Meta begins construction of $10 billion Indiana data center to boost AI capabilities",
-            "url": "https://www.manilatimes.net/2026/02/13/business/foreign-business/meta-begins-construction-of-10-billion-indiana-data-center-to-boost-ai-capabilities/2276999",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/12/935435.jpg",
-            "publishedAt": "2026-02-12T16:05:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Musk reorganizes xAI after SpaceX merger and ahead of blockbuster IPO",
-            "url": "https://www.manilatimes.net/2026/02/13/business/foreign-business/musk-reorganizes-xai-after-spacex-merger-and-ahead-of-blockbuster-ipo/2276995",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/12/935430.jpg",
-            "publishedAt": "2026-02-12T16:01:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Techies present AI solutions to health care services",
-            "url": "https://www.manilatimes.net/2026/02/13/campus-press/techies-present-ai-solutions-to-health-care-services/2276469",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/11/934139.jpg",
-            "publishedAt": "2026-02-12T16:00:00Z"
         }
     ]
 }
