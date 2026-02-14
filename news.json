@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-02-14T04:06:39.361265Z",
+    "lastUpdatedAt": "2026-02-14T05:40:25.231859Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "AI disruption could hit credit markets next, UBS analyst says",
+            "url": "https://www.cnbc.com/2026/02/13/ai-credit-markets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108259467-1769776489417-gettyimages-1550670587-argeai2307_01.jpeg?v=1771002011&w=1920&h=1080",
+            "publishedAt": "2026-02-13T17:34:21Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "AI Fears Weigh on Call Center Operator’s $600 Million Bond Sale",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-13/ai-fears-weigh-on-call-center-operator-s-600-million-bond-sale",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.sOTu4ypHtc/v1/1200x800.jpg",
+            "publishedAt": "2026-02-13T17:17:31Z"
+        },
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "AI is indeed coming - but there is also evidence to allay investor fears",
+            "url": "https://www.theguardian.com/technology/2026/feb/13/ai-effects-on-business-industry-evidence-to-allay-investor-fears",
+            "urlToImage": "https://i.guim.co.uk/img/media/dd791df6cab005d5be1aa9b6e84f081b3d4cf788/1051_0_4322_3459/master/4322.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee5583dd2b35e91537479898e5053ab4",
+            "publishedAt": "2026-02-13T17:00:30Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Nvidia shares go cold even as Big Tech spending on AI balloons",
+            "url": "https://www.mercurynews.com/2026/02/13/nvidia-shares-stagnant-months/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/Nvidia_Huang_30295_02faa4.jpg?w=1024&h=683",
+            "publishedAt": "2026-02-13T16:56:55Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Applied Materials Benefiting From GenAI Spending and Demand, RBC Capital Markets Says",
+            "url": "https://www.marketscreener.com/news/applied-materials-benefiting-from-genai-spending-and-demand-rbc-capital-markets-says-ce7e5ddade81f02d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-02-13T16:51:47Z"
+        },
+        {
+            "source": {
+                "id": "046a50607901bb9bca25f6624dc87f76",
+                "name": "NBC 5 Chicago",
+                "url": "https://www.nbcchicago.com",
+                "country": "us"
+            },
+            "title": "AI toy maker exposed thousands of replies to kids, senators say",
+            "url": "https://www.nbcchicago.com/news/national-international/ai-toy-maker-exposed-replies-kids-senators-say/3892434/",
+            "urlToImage": "https://media.nbcchicago.com/2026/02/ai-toys-privacy.png?resize=1200%2C675&quality=85&strip=all",
+            "publishedAt": "2026-02-13T16:44:45Z"
+        },
+        {
+            "source": {
+                "id": "8749653ef849c3df2e467a8e0f0c6672",
+                "name": "NBC10 Boston",
+                "url": "https://www.nbcboston.com",
+                "country": "us"
+            },
+            "title": "AI toy maker exposed thousands of replies to kids, senators say",
+            "url": "https://www.nbcboston.com/news/national-international/ai-toy-maker-exposed-replies-kids-senators-say/3897516/",
+            "urlToImage": "https://media.nbcboston.com/2026/02/ai-toys-privacy.png?resize=1200%2C675&quality=85&strip=all",
+            "publishedAt": "2026-02-13T16:44:45Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Anthropic raises $30B, valuing OpenAI rival at $380B",
+            "url": "https://www.manilatimes.net/2026/02/14/business/foreign-business/anthropic-raises-30b-valuing-openai-rival-at-380b/2277897",
+            "urlToImage": "https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg",
+            "publishedAt": "2026-02-13T16:14:00Z"
+        },
         {
             "source": {
                 "id": "f2ddccedc9e60d844e7a1045928cad48",
@@ -1428,6 +1524,15 @@
             "url": "https://www.altoonamirror.com/life/go-magazine/2026/02/sag-aftra-sean-astin-president-takes-over/",
             "urlToImage": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2026/02/12175400/Astin-Cover-775x500.jpg",
             "publishedAt": "2026-02-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Inside the Robot Revolution: How Packaging and Logistics Giants Are Betting Billions on Warehouse Automation to Survive the Labor Crunch",
+            "url": "https://www.webpronews.com/inside-the-robot-revolution-how-packaging-and-logistics-giants-are-betting-billions-on-warehouse-automation-to-survive-the-labor-crunch/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-10108-1771003873.jpeg",
+            "publishedAt": "2026-02-13 17:31:19"
         },
         {
             "source": {
@@ -3462,114 +3567,6 @@
             "url": "https://indianexpress.com/shorts/trending/trending-globally/tom-cruise-vs-brad-pitt-ai-generated-fight-video-goes-viral-deadpool-writer-reacts-10527842/",
             "urlToImage": "https://images.indianexpress.com/2026/02/Tom-Cruise-Brad-Pitt-fight-video-AI.jpg",
             "publishedAt": "2026-02-12T04:21:56Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "China fuels AI war, its largest tech firms preparing to launch new AI models soon",
-            "url": "https://www.firstpost.com/tech/china-fuels-ai-war-its-largest-tech-firms-preparing-to-launch-new-ai-models-soon-13978863.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/01/US-China-deal-2026-01-eab5df8111205313f0c5b241a5b1c246-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-02-12T04:13:58Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "The Hindu Tech Summit 2026 LIVE: Day 1 to focus on enterprise resilience and governance",
-            "url": "https://www.thehindu.com/sci-tech/technology/the-hindu-tech-summit-2026-live-day-1-to-focus-on-enterprise-resilience-and-governance/article70622475.ece",
-            "urlToImage": "https://th-i.thgim.com/public/news/national/edngp5/article70622483.ece/alternates/LANDSCAPE_1200/hindu%20tech%20summit.png",
-            "publishedAt": "2026-02-12T04:08:12Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Brazil orders X to 'immediately' block Grok sexualised deepfakes",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/brazil-orders-x-to-immediately-block-grok-sexualised-deepfakes/articleshow/128236778.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-18352,resizemode-75,msid-128236778/tech/artificial-intelligence/brazil-orders-x-to-immediately-block-grok-sexualised-deepfakes.jpg",
-            "publishedAt": "2026-02-12T03:56:33Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Kakao, Google Form AI Strategic Partnership -- Update",
-            "url": "https://www.marketscreener.com/news/kakao-google-form-ai-strategic-partnership-update-ce7e5ad2db8df724",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-02-12T03:48:17Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "WWW inventor says AI may become more powerful than its creator",
-            "url": "https://timesofindia.indiatimes.com/india/www-inventor-says-ai-may-become-more-powerful-than-its-creator/articleshow/128235651.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128235692,width-1280,height-720,imgsize-65888,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-12T03:15:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Kakao, Google Form AI Strategic Partnership",
-            "url": "https://www.marketscreener.com/news/kakao-google-form-ai-strategic-partnership-ce7e5ad2db8bf320",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-02-12T03:03:18Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "When childhood goes online: Data leaks, addiction and digital predators",
-            "url": "https://www.indiatoday.in/education-today/parenting-toddlers/story/how-to-keep-kids-safe-online-data-privacy-addiction-ai-grooming-risks-2866807-2026-02-12",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/how-to-keep-kids-safe-online-data-privacy--addiction-and-ai-grooming-risks-114845108-16x9_0.png?VersionId=uKUEey_EcoSETI.B8517kqrD0WxH_3a2",
-            "publishedAt": "2026-02-12T02:30:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Musk reorganises xAI after SpaceX merger and ahead of IPO",
-            "url": "https://economictimes.indiatimes.com/tech/technology/musk-reorganises-xai-after-spacex-merger-and-ahead-of-ipo/articleshow/128233782.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-540065,resizemode-75,msid-128233782/tech/technology/musk-reorganises-xai-after-spacex-merger-and-ahead-of-ipo.jpg",
-            "publishedAt": "2026-02-12T02:20:23Z"
-        },
-        {
-            "source": {
-                "id": "75ca59dd354694befc1cf6038cf9ca33",
-                "name": "CoinDesk",
-                "url": "https://www.coindesk.com",
-                "country": "us"
-            },
-            "title": "How CertiK rebuilt trust after Huione-related backlash",
-            "url": "https://www.coindesk.com/business/2026/02/11/how-certik-rebuilt-trust-as-it-prepares-itself-for-an-ipo",
-            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/df4b1a358e390649d434771279e691cb5597e7e3-624x416.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-            "publishedAt": "2026-02-12T02:13:43Z"
         }
     ]
 }
