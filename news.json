@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-02-14T10:21:36.650790Z",
+    "lastUpdatedAt": "2026-02-14T11:19:06.423085Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
+            "url": "https://www.latimes.com/business/story/2026-02-13/as-electricity-costs-rise-everyone-wants-data-centers-to-pick-up-their-tab-but-how",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/517a623/2147483647/strip/true/crop/1913x1004+0+135/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff2%2Fea%2F67d8d84b424a87afadc4867ec977%2Fce557757f66f43109ce3595dc49b787e.jpg",
+            "publishedAt": "2026-02-13T22:54:53Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Tech Up Slightly, as AI Nerves Simmer - Tech Roundup",
+            "url": "https://www.marketscreener.com/news/tech-up-slightly-as-ai-nerves-simmer-tech-roundup-ce7e5ddad08ef227",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-02-13T22:45:24Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "SGPC holds meeting of experts to discuss AI use in spreading misinformation about Sikhism",
+            "url": "https://www.dailyexcelsior.com/sgpc-holds-meeting-of-experts-to-discuss-ai-use-in-spreading-misinformation-about-sikhism/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2022/12/sgpc.jpg",
+            "publishedAt": "2026-02-13T22:30:56Z"
+        },
         {
             "source": {
                 "id": "28bc60a23a7bf89e60f893506992a3fe",
@@ -3480,42 +3516,6 @@
             "url": "https://www.devdiscourse.com/article/technology/3802389-corrected-uk-supreme-court-ruling-on-patents-and-ai-is-boost-for-innovation-lawyers-say",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=920&format=jpeg",
             "publishedAt": "2026-02-12T09:36:15Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "China calls Taiwan’s President Lai a ‘war instigator’",
-            "url": "https://www.straitstimes.com/asia/east-asia/china-calls-taiwans-leader-a-war-instigator",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/228616398e5d34931bdad74b5b450e91abeb098a3d2b3723c00866dca6456344",
-            "publishedAt": "2026-02-12T09:25:00Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "'If Your Job Is On A Screen, AI Is Coming For It': Viral Post Lists Jobs At Risk",
-            "url": "https://www.news18.com/business/economy/if-your-job-is-on-a-screen-ai-is-coming-for-it-viral-post-lists-jobs-at-risk-ws-l-9898135.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/02/Jobs-2026-02-db2109653cfcbca990f99bae178683e7-16x9.png",
-            "publishedAt": "2026-02-12T09:17:09Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "'You Have To Go To The Moon': Elon Musk Tells xAI Employees To Stay Ahead In AI Race",
-            "url": "https://www.timesnownews.com/technology-science/you-have-to-go-to-the-moon-elon-musk-tells-xai-employees-to-stay-ahead-in-ai-race-article-153600540",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153600540,width-1280,height-720,resizemode-75/153600540.jpg",
-            "publishedAt": "2026-02-12T09:15:23Z"
         }
     ]
 }
