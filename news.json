@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-02-14T16:23:41.597998Z",
+    "lastUpdatedAt": "2026-02-14T17:22:07.653365Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Chinese AI models festoon Spring Festival a year after DeepSeek shock",
+            "url": "https://www.reuters.com/world/china/chinese-ai-models-festoon-spring-festival-year-after-deepseek-shock-2026-02-14/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/XW5JSYXQJVKN3H7D4SSGN5TFIU.jpg?auth=713f26dd8d0b066f901609ec27a0c8c3907395c357006535c099af47b7277e4c&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-02-14T05:14:44Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Chinese AI models festoon Spring Festival a year after DeepSeek shock",
+            "url": "https://www.marketscreener.com/news/chinese-ai-models-festoon-spring-festival-a-year-after-deepseek-shock-ce7e5ddbd98ff223",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-02/2026-02-14T051424Z_1_LYNXMPEM1D028_RTROPTP_4_CHINA-AI-MODELS.JPG",
+            "publishedAt": "2026-02-14T05:13:21Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US used Anthropic's Claude during the Venezuela raid, WSJ reports",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-used-anthropics-claude-during-the-venezuela-raid-wsj-reports/articleshow/128335016.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-62534,resizemode-75,msid-128335016/tech/artificial-intelligence/us-used-anthropics-claude-during-the-venezuela-raid-wsj-reports.jpg",
+            "publishedAt": "2026-02-14T05:08:59Z"
+        },
         {
             "source": {
                 "id": "e98c4d2585c4c5661ffe60fed4d51930",
@@ -48,6 +84,18 @@
             "url": "https://www.lokmattimes.com/business/india-needs-scale-coordination-and-interoperability-for-inclusive-ai-experts/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602143672693_202602.jpg",
             "publishedAt": "2026-02-14T04:07:12Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "IIM Lucknow announces 3 new programmes on Artificial Intelligence, one UG course require JEE score",
+            "url": "https://indianexpress.com/article/education/dharmendra-pradhan-launches-iim-lucknows-3-new-programmes-on-artificial-intelligence-one-ug-course-require-jee-score-10528438/",
+            "urlToImage": "https://images.indianexpress.com/2024/09/IIM-Lucknow-1.jpg",
+            "publishedAt": "2026-02-14T03:58:14Z"
         },
         {
             "source": {
@@ -3462,54 +3510,6 @@
             "url": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
             "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Nc_7NCkh6b_GnhFP3euTAuace33F0nRMsZfDoe-xx5pN0Wm5kDPdUQhqxqfMIs_Y7MgXIBUAqAeRIk8lwfY8CsOqC27RxU9MH03DMNRpt56mJGU_okNrnEwdqFkaApUrObEBFmDnCHQXXJe_VdkUMbMXsa356WODvfsU4FPvciKR2CcIpNAHsrWGSe0a/s1700-e365/threatsday-main-1.jpg",
             "publishedAt": "2026-02-12T11:51:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Hyperwrite CEO Matt Shumer warns jobs are at risk: ‘AI’s impact might be even bigger than COVID’",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/hyperwrite-ceo-matt-shumer-warns-jobs-are-at-risk-ais-impact-might-be-even-bigger-than-covid/articleshow/128255062.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128255413,width-1280,height-720,imgsize-35180,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-12T11:24:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Airports Authority of India allocates Rs 3,490 crores for modernisation of air navigation infrastructure",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/airports-authority-of-india-allocates-rs-3490-crores-for-modernisation-of-air-navigation-infrastructure/articleshow/128255016.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128255127,width-1200,height-630,imgsize-132638,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-02-12T11:18:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How AI Trends Are Influencing Birthday Return Gifts in 2026",
-            "url": "https://techbullion.com/how-ai-trends-are-influencing-birthday-return-gifts-in-2026/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/customized-return-gifts-1-1000x600.jpg",
-            "publishedAt": "2026-02-12T11:16:36Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Union Education Minister Unveils BS & MBA Programs In Artificial Intelligence At IIM Lucknow",
-            "url": "https://www.freepressjournal.in/education/union-education-minister-unveils-bs-mba-programs-in-artificial-intelligence-at-iim-lucknow",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-02-12/dn98kh23/Untitled-design-2026-02-12T163653.814.jpg",
-            "publishedAt": "2026-02-12T11:08:42Z"
         }
     ]
 }
