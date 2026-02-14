@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-02-14T05:40:25.231859Z",
+    "lastUpdatedAt": "2026-02-14T06:38:48.589709Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Josh Brown buys CBRE after AI disruption fears drive steep sell-off",
+            "url": "https://www.cnbc.com/2026/02/13/josh-brown-buys-cbre-after-ai-disruption-fears-drive-steep-sell-off.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108253028-1768493971658-gettyimages-2126033471-_0005154.jpeg?v=1768494016&w=1920&h=1080",
+            "publishedAt": "2026-02-13T18:36:03Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "India-France Business Dialogue Sets Stage for AI Impact Summit in Delhi",
+            "url": "https://www.firstpost.com/world/india-france-dialogue-in-london-sets-stage-for-new-delhi-ai-impact-summit-13979627.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/02/Representational-Image-27-2026-02-c70a2f4d63d98c24420b68c2e7667afb.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-02-13T18:19:41Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Meet Mrinank Sharma: Anthropic AI safety engineer who resigned, saying the world is falling apart and in peril",
+            "url": "https://www.financialexpress.com/life/technology-meet-mrinank-sharma-anthropic-ai-safety-engineer-who-resigned-saying-the-world-is-falling-part-and-in-peril-4137559/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/02/Untitled-design-2026-02-10T122157.223.jpg?quality=100",
+            "publishedAt": "2026-02-13T18:18:19Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Indian Railways Fortifies Tatkal System with Enhanced Cybersecurity Measures",
+            "url": "https://www.devdiscourse.com/article/headlines/3804740-indian-railways-fortifies-tatkal-system-with-enhanced-cybersecurity-measures",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_02_2026_23_46_36_4890735.jpg?width=920&format=jpeg",
+            "publishedAt": "2026-02-13T18:16:47Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "How Artificial Intelligence Is Powering India's Cultural Renaissance",
+            "url": "https://www.ndtv.com/india-news/india-ai-summit-how-artificial-intelligence-is-powering-indias-cultural-renaissance-11001211",
+            "urlToImage": "https://c.ndtvimg.com/2026-02/aninvrko_pb_625x300_13_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2026-02-13T18:13:23Z"
+        },
+        {
+            "source": {
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            },
+            "title": "US Army Leaders Say Soldiers Are Drowning in Data. AI Seen As Solution.",
+            "url": "https://www.businessinsider.com/tk-browser-based-on-whatever-headline-we-go-with-2026-2",
+            "urlToImage": "https://i.insider.com/698f31f5e1ba468a96ac0202?width=1200&format=jpeg",
+            "publishedAt": "2026-02-13T18:12:42Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "New AI framework enables reliable intracellular antibody design",
+            "url": "https://www.news-medical.net/news/20260213/New-AI-framework-enables-reliable-intracellular-antibody-design.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2018/7/antibody_in_pink_and_red_background_selective_focus_3d_art_-_Mirror-Images_A1_71b890c58eb74b42a6490cfe1b003dce-620x480.jpg",
+            "publishedAt": "2026-02-13T17:57:00Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "India among top three in AI readiness, but workforce fluency is key: Experts",
+            "url": "https://www.cnbctv18.com/technology/india-ai-impact-summit-kpmg-survey-ai-workforce-preparedness-19850120.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2025/11/ai-artificial-intelligence-9-2025-11-7209c6423e3c458088c7755fb7ea67ba.jpg?im=FitAndFill,width=500,height=300",
+            "publishedAt": "2026-02-13T17:41:29Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -1524,6 +1620,96 @@
             "url": "https://www.altoonamirror.com/life/go-magazine/2026/02/sag-aftra-sean-astin-president-takes-over/",
             "urlToImage": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2026/02/12175400/Astin-Cover-775x500.jpg",
             "publishedAt": "2026-02-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The $300 Billion Gamble: How Big Tech’s AI Spending Spree Sets Up a High-Stakes Reckoning in 2026",
+            "url": "https://www.webpronews.com/the-300-billion-gamble-how-big-techs-ai-spending-spree-sets-up-a-high-stakes-reckoning-in-2026/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-10132-1771006752.jpeg",
+            "publishedAt": "2026-02-13 18:19:18"
+        },
+        {
+            "source": {
+                "name": "oneidadispatch"
+            },
+            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
+            "url": "https://www.oneidadispatch.com/2026/02/13/election-2026-data-centers/",
+            "urlToImage": "https://www.oneidadispatch.com/wp-content/uploads/2026/02/Election_2026-Data_Centers_66336-1.jpg?strip=all&w=1400px",
+            "publishedAt": "2026-02-13 17:53:24"
+        },
+        {
+            "source": {
+                "name": "thereporter"
+            },
+            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
+            "url": "https://www.thereporter.com/2026/02/13/election-2026-data-centers/",
+            "urlToImage": "https://www.thereporter.com/wp-content/uploads/2026/02/Election_2026-Data_Centers_66336-1.jpg?strip=all&w=1400px",
+            "publishedAt": "2026-02-13 17:53:24"
+        },
+        {
+            "source": {
+                "name": "willitsnews"
+            },
+            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
+            "url": "https://www.willitsnews.com/2026/02/13/election-2026-data-centers/",
+            "urlToImage": "https://www.willitsnews.com/wp-content/uploads/2026/02/Election_2026-Data_Centers_66336-1.jpg?strip=all&w=1400px",
+            "publishedAt": "2026-02-13 17:53:24"
+        },
+        {
+            "source": {
+                "name": "greeleytribune"
+            },
+            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
+            "url": "https://www.greeleytribune.com/2026/02/13/election-2026-data-centers/",
+            "urlToImage": "https://www.greeleytribune.com/wp-content/uploads/2026/02/Election_2026-Data_Centers_66336-1.jpg?strip=all&w=1400px",
+            "publishedAt": "2026-02-13 17:53:24"
+        },
+        {
+            "source": {
+                "name": "dailyfreeman"
+            },
+            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
+            "url": "https://www.dailyfreeman.com/2026/02/13/election-2026-data-centers/",
+            "urlToImage": "https://www.dailyfreeman.com/wp-content/uploads/2026/02/Election_2026-Data_Centers_66336-1.jpg?strip=all&w=1400px",
+            "publishedAt": "2026-02-13 17:53:24"
+        },
+        {
+            "source": {
+                "name": "canoncitydailyrecord"
+            },
+            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
+            "url": "https://www.canoncitydailyrecord.com/2026/02/13/election-2026-data-centers/",
+            "urlToImage": "https://www.canoncitydailyrecord.com/wp-content/uploads/2026/02/Election_2026-Data_Centers_66336-1.jpg?strip=all&w=1400px",
+            "publishedAt": "2026-02-13 17:53:24"
+        },
+        {
+            "source": {
+                "name": "sandiegouniontribune"
+            },
+            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
+            "url": "https://www.sandiegouniontribune.com/2026/02/13/election-2026-data-centers/",
+            "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/02/Election_2026-Data_Centers_66336-1.jpg?strip=all&w=1400px",
+            "publishedAt": "2026-02-13 17:53:24"
+        },
+        {
+            "source": {
+                "name": "citizensvoice"
+            },
+            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
+            "url": "https://www.citizensvoice.com/2026/02/13/election-2026-data-centers/",
+            "urlToImage": "https://www.citizensvoice.com/wp-content/uploads/2026/02/Election_2026-Data_Centers_66336-1.jpg?strip=all&w=1400px",
+            "publishedAt": "2026-02-13 17:53:24"
+        },
+        {
+            "source": {
+                "name": "record_bee"
+            },
+            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
+            "url": "https://www.record-bee.com/2026/02/13/election-2026-data-centers/",
+            "urlToImage": "https://www.record-bee.com/wp-content/uploads/2026/02/Election_2026-Data_Centers_66336-1.jpg?strip=all&w=1400px",
+            "publishedAt": "2026-02-13 17:53:24"
         },
         {
             "source": {
@@ -3351,222 +3537,6 @@
             "url": "https://www.timesnownews.com/technology-science/ai-impact-summit-2026-sam-altman-to-sundar-pichai-check-whos-coming-expo-dates-agenda-and-more-article-153599686",
             "urlToImage": "https://images.timesnownews.com/thumb/msid-153599686,width-1280,height-720,resizemode-75/153599686.jpg",
             "publishedAt": "2026-02-12T06:42:05Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "TCS m-cap falls below Rs 10 lakh crore as stock hits 52-week low amid Anthropic AI shock",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-m-cap-falls-below-rs-10-lakh-crore-as-stock-hits-52-week-low-amid-anthropic-ai-shock/articleshow/128242115.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128242158,width-1200,height-630,imgsize-47576,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-02-12T06:36:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Elon Musk wants AI agents to run his companies, says need to move faster to become leader",
-            "url": "https://www.indiatoday.in/technology/news/story/elon-musk-wants-ai-agents-to-run-his-companies-says-need-to-move-faster-to-become-leader-2867074-2026-02-12",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/elon-musk--ai-agents-122657527-16x9_0.png?VersionId=qNjAlb82KKd81ANCXss6xciB0gfPelC2",
-            "publishedAt": "2026-02-12T06:30:43Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "AI Amplifies Governance Failures, Not New Risks, Says Huawei Thailand Cybersecurity Chief",
-            "url": "https://www.manilatimes.net/2026/02/12/tmt-newswire/pr-newswire/ai-amplifies-governance-failures-not-new-risks-says-huawei-thailand-cybersecurity-chief/2276815",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/12/935047.jpg",
-            "publishedAt": "2026-02-12T06:29:31Z"
-        },
-        {
-            "source": {
-                "id": "d090731490a57c9141fbb97449f07e98",
-                "name": "iefimerida",
-                "url": "https://www.iefimerida.gr",
-                "country": "gr"
-            },
-            "title": "Greece Pivots to AI Economy with €150M Investment Push, Minister Says",
-            "url": "https://www.iefimerida.gr/english/greece-pivots-ai-economy-investment-push",
-            "urlToImage": "https://www.iefimerida.gr/sites/default/files/styles/facebook/public/2026-02/kalafatis-eurokinissi-english11.2.26.jpg?itok=Yq_lTRQw",
-            "publishedAt": "2026-02-12T06:28:27Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "A year on from DeepSeek shock, get set for flurry of low-cost Chinese AI models",
-            "url": "https://www.marketscreener.com/news/a-year-on-from-deepseek-shock-get-set-for-flurry-of-low-cost-chinese-ai-models-ce7e5ad2da8df426",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-27T113000Z_1_LYNXMPEL5Q0E5_RTROPTP_4_DEEPSEEK-MARKETS.JPG",
-            "publishedAt": "2026-02-12T06:27:20Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "A year on from DeepSeek shock, get set for flurry of low-cost Chinese AI models",
-            "url": "https://www.reuters.com/world/china/year-deepseek-shock-get-set-flurry-low-cost-chinese-ai-models-2026-02-12/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/VXRHHZDA3NLBNPRB4NJRCZIWFQ.jpg?auth=be1aca5b44f88e18e859beb6e75749ac5121e4185666d3591966ab86820348cd&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-02-12T06:26:49Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Why global AI leaders are flocking to the India AI Impact Summit in New Delhi",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/why-global-ai-leaders-are-flocking-to-the-india-ai-impact-summit-in-new-delhi/articleshow/128240532.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128240795,width-1200,height-630,imgsize-2475234,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-02-12T06:20:00Z"
-        },
-        {
-            "source": {
-                "id": "4ee8a93f92a1be4ced3de6f96b13bcca",
-                "name": "Africanews",
-                "url": "https://www.africanews.com",
-                "country": "fr"
-            },
-            "title": "AI adoption rises in governments, but citizen satisfaction lags",
-            "url": "https://www.africanews.com/2026/02/12/ai-adoption-rises-in-governments-but-citizen-satisfaction-lags/",
-            "urlToImage": "https://images.euronews.com/articles/stories/09/64/81/26/1024x538_cmsv2_774c043d-9e50-59f3-82fc-b0abd7facc9f-9648126.jpg",
-            "publishedAt": "2026-02-12T06:16:20Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US-India trade deal revives FII interest, but AI threat clouds earnings and jobs: Saurabh Mukherjea",
-            "url": "https://economictimes.indiatimes.com/markets/expert-view/us-india-trade-deal-revives-fii-interest-but-ai-threat-clouds-earnings-and-jobs-saurabh-mukherjea/articleshow/128240810.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128240922,width-1200,height-630,imgsize-5116,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-02-12T06:06:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Infosys and Major IT Stocks Crash 5% as AI Threatens Traditional IT Services; Nifty IT Falls 4%",
-            "url": "https://www.lokmattimes.com/business/infosys-and-major-it-stocks-crash-5-as-ai-threatens-traditional-it-services-nifty-it-falls-4-a475/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/feb-12-2026-10-57-47-am_2026021070965.png",
-            "publishedAt": "2026-02-12T05:25:04Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Applied Artificial Intelligence and the Execution Imperative in Latin America",
-            "url": "https://techbullion.com/applied-artificial-intelligence-and-the-execution-imperative-in-latin-america/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/AI-in-LA_AW-1000x600.jpg",
-            "publishedAt": "2026-02-12T05:01:39Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "Taiwan's AI-powered economy soars in the shadow of bubble fears and China threats",
-            "url": "https://www.barchart.com/story/news/172490/taiwan-s-ai-powered-economy-soars-in-the-shadow-of-bubble-fears-and-china-threats",
-            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/09b33191c4e747a981643b400ee22c39/09b33191c4e747a981643b400ee22c39_main_taiwan_economy_74926.jpg",
-            "publishedAt": "2026-02-12T05:00:00Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "The AI boom lifts chipmaking Taiwan's economy, but raises risks",
-            "url": "https://apnews.com/article/taiwan-trump-tariffs-economy-ai-tsmc-7527bd4bf3089cbd2dab1c530ee61c3e",
-            "urlToImage": "https://dims.apnews.com/dims4/default/d10f623/2147483647/strip/true/crop/6000x3998+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdb%2F67%2F62500da0db31826fa177cd634707%2F1f18b957dc434d03a07c7f6ebd103479",
-            "publishedAt": "2026-02-12T05:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Vocallabs Named Among Top 5 AI Startups in Karnataka by State Government",
-            "url": "https://www.tribuneindia.com/news/business/vocallabs-named-among-top-5-ai-startups-in-karnataka-by-state-government/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVjMDE2YTEwLTA3Y2UtMTFmMS1hMGQ5LTc1OTJkMGM1MWUxYy5qcGc=",
-            "publishedAt": "2026-02-12T04:50:21Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "China stocks edge higher on AI optimism; HK down on tech drag",
-            "url": "https://www.marketscreener.com/news/china-stocks-edge-higher-on-ai-optimism-hk-down-on-tech-drag-ce7e5ad2db8cf021",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-02-12T04:43:18Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "China stocks edge higher on AI optimism; HK down on tech drag",
-            "url": "https://www.devdiscourse.com/article/technology/3802016-china-stocks-edge-higher-on-ai-optimism-hk-down-on-tech-drag",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=920&format=jpeg",
-            "publishedAt": "2026-02-12T04:41:30Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Andhra’s AI-facial recognition is ending the era of ‘proxy attendance’ for MLAs",
-            "url": "https://indianexpress.com/article/india/andhras-ai-facial-recognition-is-ending-the-era-of-proxy-attendance-for-mlas-10527538/",
-            "urlToImage": "https://images.indianexpress.com/2026/02/OnePlus-8_20251022192000_20251223200315_20260211215646.jpg",
-            "publishedAt": "2026-02-12T04:30:50Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Tom Cruise vs Brad Pitt AI-generated fight video goes viral, ‘Deadpool’ writer reacts",
-            "url": "https://indianexpress.com/shorts/trending/trending-globally/tom-cruise-vs-brad-pitt-ai-generated-fight-video-goes-viral-deadpool-writer-reacts-10527842/",
-            "urlToImage": "https://images.indianexpress.com/2026/02/Tom-Cruise-Brad-Pitt-fight-video-AI.jpg",
-            "publishedAt": "2026-02-12T04:21:56Z"
         }
     ]
 }
