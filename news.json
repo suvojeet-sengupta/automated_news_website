@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-02-14T20:20:42.342716Z",
+    "lastUpdatedAt": "2026-02-14T21:19:49.811725Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "China's ByteDance releases Doubao 2.0 AI model for 'agent era",
+            "url": "https://www.marketscreener.com/news/china-s-bytedance-releases-doubao-2-0-ai-model-for-agent-era-ce7e5ddbda8af621",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-02/2026-02-14T070756Z_1_LYNXMPEM1D02Q_RTROPTP_4_BYTEDANCE-CHINA.JPG",
+            "publishedAt": "2026-02-14T09:18:19Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "IIT courses that don’t require JEE Main score",
+            "url": "https://indianexpress.com/article/education/jee-main-2026-results-iit-courses-that-dont-require-jee-mains-advanced-scores-10529631/",
+            "urlToImage": "https://images.indianexpress.com/2026/02/jeemain-results-2026-courses.jpg",
+            "publishedAt": "2026-02-14T09:00:11Z"
+        },
+        {
+            "source": {
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
+                "country": "in"
+            },
+            "title": "US Used AI To Capture Nicolás Maduro? Secret Role Of Anthropic’s Claude In High-Risk Military Raid Revealed",
+            "url": "https://www.newsx.com/world/us-used-ai-to-capture-nicols-maduro-secret-role-of-anthropics-claude-in-high-risk-military-raid-revealed-166738/",
+            "urlToImage": "https://www.newsx.com/wp-content/uploads/2026/02/anthropic-claude-ai-reportedly-used-in-us-operation-that-captured-nicolas-maduro.jpg",
+            "publishedAt": "2026-02-14T08:47:45Z"
+        },
         {
             "source": {
                 "id": "e479ce8332aab31d8bac6ba9584cedbb",
@@ -420,6 +456,15 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/02/14/us-used-anthropic039s-claude-during-the-venezuela-raid-wsj-reports",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/14/3770243.jpg",
             "publishedAt": "2026-02-14T00:06:00Z"
+        },
+        {
+            "source": {
+                "name": "dtnext"
+            },
+            "title": "India AI Summit key for Global South: Industry",
+            "url": "https://www.dtnext.in/news/business/india-ai-summit-key-for-global-south-industry",
+            "urlToImage": "https://media.assettype.com/dt-next/2026-01-13/y5updm91/AI-1.jpg",
+            "publishedAt": "2026-02-14 09:14:40"
         },
         {
             "source": {
@@ -3456,54 +3501,6 @@
             "url": "https://www.manilatimes.net/2026/02/13/campus-press/techies-present-ai-solutions-to-health-care-services/2276469",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/11/934139.jpg",
             "publishedAt": "2026-02-12T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Making Artificial Intelligence work where it matters most",
-            "url": "https://www.hindustantimes.com/opinion/making-artificial-intelligence-work-where-it-matters-most-101770911927793.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/02/12/550x309/Small-AI-is-revolutionising-development-by-enablin_1770911925717.jpg",
-            "publishedAt": "2026-02-12T15:58:47Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "Actor takes legal action to stop Albania’s government from using her image for ‘AI minister’",
-            "url": "https://edition.cnn.com/2026/02/12/europe/albania-anila-bisha-ai-minister-intl-latam",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235495662.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-02-12T15:51:02Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI Impact Summit to be guided by 3 Sutras, 7 Chakras",
-            "url": "https://www.tribuneindia.com/news/world/people-planet-progress-india-ai-impact-summit-to-be-guided-by-3-sutras-7-chakras/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ1M2VhNTkwLTA4MjktMTFmMS1hMGQ5LTc1OTJkMGM1MWUxYy5qcGc=",
-            "publishedAt": "2026-02-12T15:45:13Z"
-        },
-        {
-            "source": {
-                "id": "d86acd5a472cad336b1f19dca3331ef5",
-                "name": "M Live Michigan ",
-                "url": "https://www.mlive.com",
-                "country": "us"
-            },
-            "title": "As data center proposals emerge across Michigan, township near Jackson sets new rules",
-            "url": "https://www.mlive.com/news/jackson/2026/02/as-data-center-proposals-emerge-across-michigan-township-near-jackson-sets-new-rules.html",
-            "urlToImage": "https://www.mlive.com/resizer/v2/2PMNLSSVTJCIDL7KUYN77VHG3E.JPG?auth=5bf2b0c23a2c047dbebcb1e6d10f232cf5a98e8b6f8dc3fe5675e1f05fa73e85&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-02-12T15:33:08Z"
         }
     ]
 }
