@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-02-14T12:38:16.636107Z",
+    "lastUpdatedAt": "2026-02-14T13:41:00.421114Z",
     "articles": [
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "Elon Musk’s xAI faces second lawsuit over toxic pollutants from datacenter",
+            "url": "https://www.theguardian.com/technology/2026/feb/13/elon-musk-xai-pollution-naacp",
+            "urlToImage": "https://i.guim.co.uk/img/media/cf044ff7755bc5874c3854571c1210e87e40c126/440_0_4400_3520/master/4400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ee636e3ef3ce823e467e64cedc10987",
+            "publishedAt": "2026-02-14T00:47:56Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -1884,6 +1896,15 @@
         },
         {
             "source": {
+                "name": "theverge"
+            },
+            "title": "How to un-Big Tech your online life",
+            "url": "https://www.theverge.com/tech/879114/best-big-tech-app-alternatives-installer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Installer-116.png?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2026-02-13 20:28:11"
+        },
+        {
+            "source": {
                 "name": "webpronews"
             },
             "title": "The Silent Revolt in Silicon Valley: Why Engineers Are Burning Out on AI—and What It Means for the Rest of Us",
@@ -3492,30 +3513,6 @@
             "url": "https://www.devdiscourse.com/article/education/3802447-indias-ai-to-be-inclusive-by-design-sovereign-by-capability-dharmendra-pradhan",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_16_08_33_8108588.jpg?width=920&format=jpeg",
             "publishedAt": "2026-02-12T10:15:10Z"
-        },
-        {
-            "source": {
-                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-                "name": "NewsX",
-                "url": "https://www.newsx.com",
-                "country": "in"
-            },
-            "title": "The 2026 Technology Outlook: Advanced AI Emerges as the Engine of Digital Infrastructure Evolution",
-            "url": "https://www.newsx.com/brand-desk/the-2026-technology-outlook-advanced-ai-emerges-as-the-engine-of-digital-infrastructure-evolution-165777/",
-            "urlToImage": "https://www.newsx.com/wp-content/uploads/2026/02/pnn.jpg",
-            "publishedAt": "2026-02-12T10:12:00Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Is Claude Coding Us Into Irrelevance?",
-            "url": "https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/02/12/opinion/12rosspod-amodei-image/12rosspod-amodei-image-facebookJumbo.jpg",
-            "publishedAt": "2026-02-12T10:06:27Z"
         }
     ]
 }
