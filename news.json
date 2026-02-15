@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2026-02-15T11:18:59.933982Z",
+    "lastUpdatedAt": "2026-02-15T12:40:37.723383Z",
     "articles": [
+        {
+            "source": {
+                "id": "602d1de710d66397a00201d8efdd36ee",
+                "name": "Inc. Magazine",
+                "url": "https://www.inc.com",
+                "country": "us"
+            },
+            "title": "The $2 Trillion Reason Nobody Wants to Be a Software Company Right Now",
+            "url": "https://www.inc.com/kevin-haynes/the-2-trillion-reason-nobody-wants-to-be-a-software-company-right-now/91303286",
+            "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/02/GettyImages-1965212714-1-2-e1771115161556.jpg",
+            "publishedAt": "2026-02-15T00:35:19Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "State approves ₹22L for AI infra in higher and technical education",
+            "url": "https://www.hindustantimes.com/cities/pune-news/state-approves-22l-for-ai-infra-in-higher-and-technical-education-101771096794111.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/02/14/550x309/Maharashtra-government-has-approved--22-lakh-annua_1771096792020.jpg",
+            "publishedAt": "2026-02-15T00:18:05Z"
+        },
+        {
+            "source": {
+                "name": "deccanherald"
+            },
+            "title": "India’s AI policy in the global norms debate",
+            "url": "https://www.deccanherald.com/india/indias-ai-policy-in-the-global-norms-debate-3899092",
+            "urlToImage": "https://media.assettype.com/deccanherald%2F2026-02-15%2F2tz0t8p8%2Ffile84k2ql1edlzj63u3rl.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&w=1200",
+            "publishedAt": "2026-02-15 00:06:07"
+        },
         {
             "source": {
                 "id": "28bc60a23a7bf89e60f893506992a3fe",
@@ -3450,42 +3483,6 @@
             "url": "https://www.nytimes.com/2026/02/12/technology/anthropic-valuation-380-billion-funding.html",
             "urlToImage": "https://static01.nyt.com/images/2026/02/12/multimedia/12biz-anthropic-funding-bmch/12biz-anthropic-funding-bmch-facebookJumbo.jpg",
             "publishedAt": "2026-02-12T22:10:36Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "US STOCKS-Wall Street sinks as tech rout deepens on AI angst",
-            "url": "https://www.devdiscourse.com/article/technology/3803397-us-stocks-wall-street-sinks-as-tech-rout-deepenson-ai-angst",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_20_7172535.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-02-12T22:03:16Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Trust Under Pressure: Navigating Confidence in an AI",
-            "url": "https://itwire.com/business-it-news/security/trust-under-pressure-navigating-confidence-in-an-ai-driven-era.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/7f4d755ca8f83521b773a5923de5e4b5_XS.jpg",
-            "publishedAt": "2026-02-12T22:03:14Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Stocks drop sharply as investors hunt for losers that will be hurt by AI",
-            "url": "https://www.latimes.com/business/story/2026-02-12/stocks-drop-sharply-as-investors-hunt-for-losers-that-will-be-hurt-by-ai",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/d888ef0/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F92%2F46%2F34aa7778431db459d769aba48b31%2Fgettyimages-2228097488.jpg",
-            "publishedAt": "2026-02-12T22:00:24Z"
         }
     ]
 }
