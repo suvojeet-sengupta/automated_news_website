@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-02-15T19:21:35.522620Z",
+    "lastUpdatedAt": "2026-02-15T20:20:50.439888Z",
     "articles": [
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "AI buzzwords decoded: What terms like LLMs, generative AI, guardrails mean",
+            "url": "https://www.business-standard.com/technology/tech-news/ai-buzzwords-decoded-what-terms-like-llms-generative-ai-guardrails-mean-126021500235_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/17/thumb/fitandfill/1200X630/1765965926-1985.JPG",
+            "publishedAt": "2026-02-15T08:13:42Z"
+        },
+        {
+            "source": {
+                "id": "69a24b80e5bce5a07f808f5ea84c434b",
+                "name": "Arkansas Online",
+                "url": "https://www.arkansasonline.com",
+                "country": "us"
+            },
+            "title": "Montana poised to be epicenter of AI revolution",
+            "url": "https://www.arkansasonline.com/news/2026/feb/15/montana-poised-to-be-epicenter-of-ai-revolution/",
+            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/212217008_212210634-743e163fa97c4e8da82543a56b7033c2_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+            "publishedAt": "2026-02-15T08:04:00Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Pentagon threatens to cut ties with Anthropic over AI safeguards dispute",
+            "url": "https://www.thenews.com.pk/latest/1392340-pentagon-threatens-to-cut-ties-with-anthropic-over-ai-safeguards-dispute",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-02-15/1392340_125705_updates.jpg",
+            "publishedAt": "2026-02-15T08:01:00Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "Transforming healthcare delivery through artificial intelligence",
+            "url": "https://www.news18.com/agency-feeds/transforming-healthcare-delivery-through-artificial-intelligence-9904845.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
+            "publishedAt": "2026-02-15T08:00:02Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Decoded: AI buzzwords everyone talks about",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/decoded-ai-buzzwords-everyone-talks-about/articleshow/128375865.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-128375938,width-1200,height-630,imgsize-17898,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-02-15T07:59:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Redefining Governance Through Geo-AI: The PM GatiShakti NMP transformation",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/redefining-governance-through-geo-ai-the-pm-gatishakti-nmp-transformation/articleshow/128375884.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-128375899,width-1200,height-630,imgsize-1254820,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-02-15T07:58:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Transforming healthcare delivery through artificial intelligence",
+            "url": "https://www.tribuneindia.com/news/world/transforming-healthcare-delivery-through-artificial-intelligence/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY5OTYxZDQwLTBhNDItMTFmMS1hMGQ5LTc1OTJkMGM1MWUxYy5qcGc=",
+            "publishedAt": "2026-02-15T07:50:13Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Pentagon May Cut Ties With Anthropic Over Restrictions On Use Of AI Models",
+            "url": "https://www.ndtv.com/world-news/pentagon-may-cut-ties-with-artificial-intelligence-company-anthropic-over-restrictions-on-use-of-ai-models-11006186",
+            "urlToImage": "https://c.ndtvimg.com/2026-02/7g7b63hs_anthropic_625x300_15_February_26.jpeg",
+            "publishedAt": "2026-02-15T07:46:08Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Decoding AI: Your Guide to the Future of Technology",
+            "url": "https://www.devdiscourse.com/article/technology/3805760-decoding-ai-your-guide-to-the-future-of-technology",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/10_09_2025_16_02_01_9177034.png?width=920&format=jpeg",
+            "publishedAt": "2026-02-15T07:44:03Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI Impact Summit: India gears up for global dialogue on Artificial Intelligence",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-impact-summit-india-gears-up-for-global-dialogue-on-artificial-intelligence/articleshow/128375198.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-128375550,width-1200,height-630,imgsize-28254,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-02-15T07:44:00Z"
+        },
+        {
+            "source": {
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
+                "country": "in"
+            },
+            "title": "Who Is Angel Nuzhat? 12-Minute Viral MMS Trends On Social Media Following 19-Minute Video And Alina Amir Leaked Obscene Clip",
+            "url": "https://www.newsx.com/offbeat/who-is-angel-nuzhat-12-minute-viral-mms-trends-on-social-media-following-19-minute-video-and-alina-amir-leaked-obscene-clip-link-download-watch-167148/",
+            "urlToImage": "https://www.newsx.com/wp-content/uploads/2026/02/word-of-the-day-abrogate-30.jpg",
+            "publishedAt": "2026-02-15T07:40:02Z"
+        },
         {
             "source": {
                 "id": "c73686fdf0e30639d57eddaf7a77236e",
@@ -444,6 +576,15 @@
             "url": "https://www.hindustantimes.com/cities/pune-news/state-approves-22l-for-ai-infra-in-higher-and-technical-education-101771096794111.html",
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/02/14/550x309/Maharashtra-government-has-approved--22-lakh-annua_1771096792020.jpg",
             "publishedAt": "2026-02-15T00:18:05Z"
+        },
+        {
+            "source": {
+                "name": "etvbharat"
+            },
+            "title": "India Plans AI 'Data City' On Staggering Scale As Stanford-Educated Minister Reveals The Journey",
+            "url": "https://www.etvbharat.com/en/technology/india-plans-ai-data-city-on-staggering-scale-as-stanford-educated-minister-reveals-the-journey-enn26021502101",
+            "urlToImage": "https://imgs.etvbharat.com/etvbharat/prod-images/15-02-2026/1200-675-26046557-257-26046557-1771140494761.jpg",
+            "publishedAt": "2026-02-15 07:35:51"
         },
         {
             "source": {
@@ -3378,150 +3519,6 @@
             "url": "https://www.hindustantimes.com/india-news/pradhan-launches-bodhan-ai-to-build-bharat-eduai-stack-101770923636166.html",
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/02/12/550x309/Bodhan-AI-was-launched-at-Bharat-Bodhan-AI-Conclav_1770923629809.jpg",
             "publishedAt": "2026-02-13T02:04:18Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "UN approves 40-member scientific panel on impact of artificial intelligence over US objections",
-            "url": "https://www.devdiscourse.com/article/education/3803463-un-approves-40-member-scientific-panel-on-impact-of-artificial-intelligence-over-us-objections",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_19_56_6666387.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-02-13T02:03:25Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Google says Deep Think AI can partner on advanced math, science",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/13/google-says-deep-think-ai-can-partner-on-advanced-math-science",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/13/3768505.jpg",
-            "publishedAt": "2026-02-13T02:00:00Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "UN approves scientific panel on the impact of AI",
-            "url": "https://www.cp24.com/news/world/2026/02/13/un-approves-40-member-scientific-panel-on-the-impact-of-artificial-intelligence-over-us-objections/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/ZHYS5634DT3JO74DBEQWQERHSY.jpg?smart=true&auth=e1f30b9898cd51bfe99aa4ee130605236085df271148f4b774043c1f7587e025&width=1200&height=630",
-            "publishedAt": "2026-02-13T01:58:58Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "UN approves 40-member scientific panel on the impact of artificial intelligence over US objections",
-            "url": "https://www.clickondetroit.com/tech/2026/02/13/un-approves-40-member-scientific-panel-on-the-impact-of-artificial-intelligence-over-us-objections/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TJABOPAHMRE4DHS5VWHC2EG6DQ.jpg?_a=DATAg1fkZAA0",
-            "publishedAt": "2026-02-13T01:41:44Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "UN approves scientific AI panel over US objections",
-            "url": "https://apnews.com/article/un-us-artificial-intelligence-scientific-panel-8936f242689792be7a7ab97e841cade8",
-            "urlToImage": "https://dims.apnews.com/dims4/default/04543e6/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe6%2Fc3%2Fe890dbf7bc9b11d9fcf835cd9cf5%2Fded96c8c337b4de69377816d3dd3b2d1",
-            "publishedAt": "2026-02-13T01:41:44Z"
-        },
-        {
-            "source": {
-                "id": "6f68e6d7cd20b33baacb487a0e911008",
-                "name": "Santa Rosa Press Democrat",
-                "url": "https://www.pressdemocrat.com",
-                "country": "us"
-            },
-            "title": "UN approves 40-member scientific panel on the impact of artificial intelligence over US objections",
-            "url": "https://www.pressdemocrat.com/2026/02/12/un-approves-40-member-scientific-panel-on-the-impact-of-artificial-intelligence-over-us-objections/",
-            "urlToImage": "https://www.pressdemocrat.com/wp-content/uploads/2026/02/Britain_UN_66565_dcf0d3.jpg?w=1024&h=682",
-            "publishedAt": "2026-02-13T01:41:44Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "UN Approves 40-Member Scientific Panel on the Impact of Artificial Intelligence Over US Objections",
-            "url": "https://www.usnews.com/news/technology/articles/2026-02-12/un-approves-40-member-scientific-panel-on-the-impact-of-artificial-intelligence-over-us-objections",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/eead8a8/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F4a%2Fb42a21a9924ae9ee73777598b8a991%2Fded96c8c337b4de69377816d3dd3b2d1Britain_UN_66565.jpg",
-            "publishedAt": "2026-02-13T01:41:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Pentagon makes a 'classified' request to OpenAI and Anthropic, says US military is aiming to …",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-makes-a-classified-request-to-openai-and-anthropic-says-us-military-is-aiming-to-/articleshow/128308669.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128308753,width-1280,height-720,imgsize-119504,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-13T01:41:00Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "Dharmendra Pradhan Unveils IIM Lucknow’s AI Degrees at Bharat Bodhan AI Conclave 2026",
-            "url": "https://www.timesnownews.com/education/pradhan-unveils-iim-lucknows-ai-degrees-at-bharat-bodhan-ai-conclave-2026-article-153603605",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153603605,width-1280,height-720,resizemode-75/153603605.jpg",
-            "publishedAt": "2026-02-13T01:34:19Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "OpenAI says China's DeepSeek trained its AI by distilling US models, memo shows",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-says-chinas-deepseek-trained-its-ai-by-distilling-us-models-memo-shows/articleshow/128282827.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-40448,resizemode-75,msid-128282827/tech/artificial-intelligence/openai-says-chinas-deepseek-trained-its-ai-by-distilling-us-models-memo-shows.jpg",
-            "publishedAt": "2026-02-13T01:16:38Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "CNBC Daily Open: AI is coming after more sectors, and its pace isn't slowing",
-            "url": "https://www.cnbc.com/2026/02/13/cnbc-daily-open-ai-is-coming-after-more-sectors-and-its-pace-isnt-slowing.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108264584-17708330642026-02-11t180347z_1255596734_rc2sjjas5kp5_rtrmadp_0_usa-stocks.jpeg?v=1770833108&w=1920&h=1080",
-            "publishedAt": "2026-02-13T01:15:15Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "SP MLA for law against deepfakes",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/sp-mla-for-law-against-deepfakes/articleshow/128272862.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-117515978,width-1280,height-720,imgsize-99969,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-13T00:40:00Z"
         }
     ]
 }
