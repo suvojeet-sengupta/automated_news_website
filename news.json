@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-02-16T07:50:41.363793Z",
+    "lastUpdatedAt": "2026-02-16T08:41:03.035010Z",
     "articles": [
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "He spent decades perfecting his voice, but now he says Google stole it",
+            "url": "https://www.inquirer.com/news/nation-world/david-greene-ai-google-notebooklm-podcast-voice-theft-npr-20260215.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/PWZ54ZOD6JVCOQDRKX73MVQKX4.jpg?auth=86d858bbb11b8726ea640890ee985698f1ba1af23ec7ed8a2fa0e581b931d947&width=760&height=507&smart=true",
+            "publishedAt": "2026-02-15T20:38:05Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Hollywood groups slams ByteDance's AI video generator",
+            "url": "https://www.cp24.com/news/entertainment/2026/02/15/hollywood-groups-condemn-bytedances-ai-video-generator-claiming-copyright-infringement/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/O6XNKTPQDDCDBFBSMHSSSLVSOI.jpg?smart=true&auth=765951b6c414466dbc753403b2885d567d03b7bb0349c8aa42a0329cd864ec8b&width=1200&height=630",
+            "publishedAt": "2026-02-15T20:26:49Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Hollywood groups condemn ByteDance’s AI video generator, claiming copyright infringement",
+            "url": "https://wtop.com/national/2026/02/hollywood-groups-condemn-bytedances-ai-video-generator-claiming-copyright-infringement/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/02/Seedance_Hollywood_69879-scaled.jpg",
+            "publishedAt": "2026-02-15T20:11:49Z"
+        },
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "‘Robocops’ could be patrolling streets in three years",
+            "url": "https://www.thetimes.com/uk/science/article/robocops-could-be-patrolling-streets-in-three-years-lpwt35dmx",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F8fd95e32-459f-40b9-8306-430c411b4e35.jpg?crop=2791%2C1570%2C0%2C260&resize=1200",
+            "publishedAt": "2026-02-15T19:55:54Z"
+        },
+        {
+            "source": {
+                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
+                "name": "Deadline",
+                "url": "https://deadline.com",
+                "country": "us"
+            },
+            "title": "'The Simpsons' Bart Voice Actress Doesn't Want AI To Replace Her",
+            "url": "https://deadline.com/2026/02/the-simpsons-bart-voice-actress-ai-hopes-human-successor-1236725415/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/02/2-Nancy-Cartwright-Bart-Simpson-2-shot.jpg?w=1024",
+            "publishedAt": "2026-02-15T19:51:01Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -3447,66 +3507,6 @@
             "url": "https://www.marketscreener.com/news/shares-steady-after-global-ai-led-sell-off-ce7e5ddadb8bf020",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-01-17T104232Z_1_LYNXMPED0G0MX_RTROPTP_2_BRITAIN-EU-BOE-DECISION.JPG",
             "publishedAt": "2026-02-13T09:23:32Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AIG Hospitals' Rakesh Kalpala to showcase low-cost MedTech AI solutions at AI Impact Summit",
-            "url": "https://www.devdiscourse.com/article/technology/3803871-aig-hospitals-rakesh-kalpala-to-showcase-low-cost-medtech-ai-solutions-at-ai-impact-summit",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_02_16_4468374.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-02-13T09:23:10Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Capgemini CEO dismisses calls for full European tech autonomy",
-            "url": "https://economictimes.indiatimes.com/tech/technology/capgemini-ceo-dismisses-calls-for-full-european-tech-autonomy/articleshow/128298537.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2147416,resizemode-75,msid-128298537/tech/technology/capgemini-ceo-dismisses-calls-for-full-european-tech-autonomy.jpg",
-            "publishedAt": "2026-02-13T09:16:58Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "Maharashtra govt to procure AI infrastructure for higher, technical education department",
-            "url": "https://theprint.in/india/maharashtra-govt-to-procure-ai-infrastructure-for-higher-technical-education-department/2853930/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-02-13T09:16:01Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
-            "url": "https://triblive.com/news/world/as-electricity-costs-rise-everyone-wants-data-centers-to-pick-up-their-tab-but-how/",
-            "urlToImage": "https://assets-varnish.triblive.com/2026/02/9289388_web1_9289388-ce557757f66f43109ce3595dc49b787e.jpg",
-            "publishedAt": "2026-02-13T09:15:02Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Iran to participate in the AI summit in Delhi, signals strengthening tech ties with India",
-            "url": "https://www.devdiscourse.com/article/international/3803850-iran-to-participate-in-the-ai-summit-in-delhi-signals-strengthening-tech-ties-with-india",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_02_2026_14_42_38_2480058.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-02-13T09:12:40Z"
         }
     ]
 }
