@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-02-16T06:03:19.102198Z",
+    "lastUpdatedAt": "2026-02-16T07:50:41.363793Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Trump may 'force' data centers to pay costs",
+            "url": "https://www.cnbc.com/2026/02/15/navarro-trump-data-centers-affordability.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189157-17557906182025-08-21t153526z_1353701691_rc2rbgayz3xz_rtrmadp_0_usa-trump.jpeg?v=1755790639&w=1920&h=1080",
+            "publishedAt": "2026-02-15T19:39:51Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Rely on human intel and not AI, says SC judge at moot court",
+            "url": "https://timesofindia.indiatimes.com/city/delhi/rely-on-human-intel-and-not-ai-says-sc-judge-at-moot-court/articleshow/128392420.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-128392413,width-1280,height-720,imgsize-71760,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-15T19:35:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "CPRG to host key policy dialogues at India AI Impact Summit",
+            "url": "https://www.tribuneindia.com/news/delhi/cprg-to-host-key-policy-dialogues-at-india-ai-impact-summit-2026/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNlOGZhOTQwLTBhYTUtMTFmMS1hMGQ5LTc1OTJkMGM1MWUxYy5qcGc=",
+            "publishedAt": "2026-02-15T19:33:37Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "AI video generator from creator of TikTok sparks a Hollywood backlash",
+            "url": "https://apnews.com/article/ai-seedance-bytedance-hollywood-copyright-7e445388401d172c6bf51d0d42aa4f24",
+            "urlToImage": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+            "publishedAt": "2026-02-15T19:22:13Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Hollywood groups condemn ByteDance's AI video generator, claiming copyright infringement",
+            "url": "https://www.clickondetroit.com/business/2026/02/15/hollywood-groups-condemn-bytedances-ai-video-generator-claiming-copyright-infringement/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5ACQ32E5WZBGHCFRHPJB36IZN4.jpg?_a=DATAg1fkZAA0",
+            "publishedAt": "2026-02-15T19:22:12Z"
+        },
+        {
+            "source": {
+                "id": "3e29a1cf81727e4aa5687d46a4b429c4",
+                "name": "Bangor Daily News",
+                "url": "https://www.bangordailynews.com",
+                "country": "us"
+            },
+            "title": "Hollywood groups condemn ByteDance's AI video generator, claiming copyright infringement",
+            "url": "https://www.bangordailynews.com/2026/02/15/nation/hollywood-groups-condemn-bytedances-ai-video-generator-claiming-copyright-infringement/",
+            "urlToImage": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/02/preview-1116.jpg?fit=1024%2C683&ssl=1",
+            "publishedAt": "2026-02-15T19:22:12Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "If used responsibly, AI can revolutionise creative industry",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/if-used-responsibly-ai-can-revolutionise-creative-industry/articleshow/128394085.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-128394120,width-1200,height-630,imgsize-21008,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-02-15T19:04:00Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "Haroon inaugurates AI Centre at PITAC",
+            "url": "https://www.nation.com.pk/16-Feb-2026/haroon-inaugurates-ai-centre-pitac",
+            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "publishedAt": "2026-02-15T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
+                "country": "us"
+            },
+            "title": "iOS 27 could boost the battery life of your iPhone",
+            "url": "https://www.digitaltrends.com/phones/ios-27-could-boost-the-battery-life-of-your-iphone/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/02/wedding-2026-02-16T001223.334.jpg?resize=1200%2C630",
+            "publishedAt": "2026-02-15T18:47:32Z"
+        },
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "The machines that will predict the criminals of the future",
+            "url": "https://www.thetimes.com/uk/politics/article/ai-data-children-predict-criminals-fwclzh323",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Febdce948-a399-4495-bfb0-0edd65790ee2.jpg?crop=6500%2C3656%2C0%2C335&resize=1200",
+            "publishedAt": "2026-02-15T18:30:40Z"
+        },
         {
             "source": {
                 "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
@@ -3387,126 +3507,6 @@
             "url": "https://www.devdiscourse.com/article/international/3803850-iran-to-participate-in-the-ai-summit-in-delhi-signals-strengthening-tech-ties-with-india",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_02_2026_14_42_38_2480058.jpg?width=920&format=jpeg",
             "publishedAt": "2026-02-13T09:12:40Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How AI Is Transforming Ethical Link Building and SEO Strategies in 2026",
-            "url": "https://techbullion.com/how-ai-is-transforming-ethical-link-building-and-seo-strategies-in-2026/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/Screenshot-2026-02-13-141147.png",
-            "publishedAt": "2026-02-13T09:11:48Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Maharashtra govt to procure AI infrastructure for higher, technical education department",
-            "url": "https://www.devdiscourse.com/article/law-order/3803843-maharashtra-govt-to-procure-ai-infrastructure-for-higher-technical-education-department",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_07_32_0301512.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-02-13T09:09:32Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "India, Israel to deepen AI cooperation at global summit next week",
-            "url": "https://www.lokmattimes.com/national/india-israel-to-deepen-ai-cooperation-at-global-summit-next-week/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260210375F_202602.jpg",
-            "publishedAt": "2026-02-13T09:01:01Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "India, Israel to deepen AI cooperation at global summit next week",
-            "url": "https://www.lokmattimes.com/business/india-israel-to-deepen-ai-cooperation-at-global-summit-next-week-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260210375F_202602.jpg",
-            "publishedAt": "2026-02-13T09:01:01Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Higher Education Secretary Says AI Will Put An End To Rote Learning In Education",
-            "url": "https://www.ndtv.com/education/higher-education-secretary-says-ai-will-put-an-end-to-rote-learning-in-education-10998247",
-            "urlToImage": "https://c.ndtvimg.com/2024-10/3928vl9_artificial-intelligence-_625x300_17_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2026-02-13T08:24:01Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Leadership in the Age of Digital Transformation: Why Strategic Tech Fluency Is Now Essential",
-            "url": "https://www.tribuneindia.com/news/business/leadership-in-the-age-of-digital-transformation-why-strategic-tech-fluency-is-now-essential/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRkNzk1ZDUwLTA4YjQtMTFmMS1hMGQ5LTc1OTJkMGM1MWUxYy5qcGc=",
-            "publishedAt": "2026-02-13T08:20:27Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "‘Plumbers of the tech world’: Why Indian IT sector shouldn’t worry about AI impact",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/plumbers-of-the-tech-world-why-indian-it-sector-shouldnt-worry-about-ai-impact-jpmorgan-explains-new-areas-of-work/articleshow/128295728.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128296356,width-1280,height-720,imgsize-135748,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-13T08:18:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Iran to participate in the AI summit in Delhi, signals strengthening tech ties with India",
-            "url": "https://www.tribuneindia.com/news/world/iran-to-participate-in-the-ai-summit-in-delhi-signals-strengthening-tech-ties-with-india/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIzOTdjMzQwLTA4YjQtMTFmMS1hMGQ5LTc1OTJkMGM1MWUxYy5qcGc=",
-            "publishedAt": "2026-02-13T08:15:13Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Taiwan hikes 2026 economic growth forecast to 7.7% on AI demand",
-            "url": "https://www.reuters.com/world/asia-pacific/taiwan-revises-2026-economic-growth-forecast-higher-2026-02-13/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/CKVEZ7CJK5JWDDI2G4R2XTQVTI.jpg?auth=d7c89afff7186582bc9bc674e249cabe2b2d56b59a5c54a6b742d1dc81635ad3&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-02-13T08:10:21Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Intelligence Integration: Varghese Samuel on Making AI Work Inside the Enterprise",
-            "url": "https://techbullion.com/intelligence-integration-varghese-samuel-on-making-ai-work-inside-the-enterprise/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/image-33-3-600x600.png",
-            "publishedAt": "2026-02-13T08:07:38Z"
         }
     ]
 }
