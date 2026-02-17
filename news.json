@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-02-17T07:48:10.212700Z",
+    "lastUpdatedAt": "2026-02-17T08:39:30.444300Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Hollywood groups condemn ByteDance's AI video generator",
+            "url": "https://www.latimes.com/entertainment-arts/business/story/2026-02-16/hollywood-groups-condemn-bytedances-ai-video-generator-claiming-copyright-infringement",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/d7f6c2b/2147483647/strip/true/crop/5000x2625+0+354/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F64%2F34%2Faebf6ead46efad2ee5f9cea9e796%2F9bcac17fa45847c69619349abbdd2796.jpg",
+            "publishedAt": "2026-02-16T20:30:04Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "RailTel Hosts AI-Driven Healthcare Panels At India AI Impact Summit 2026 In Delhi",
+            "url": "https://www.freepressjournal.in/india/railtel-hosts-ai-driven-healthcare-panels-at-india-ai-impact-summit-2026-in-delhi",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-02-16/kflagnj0/Untitled-design-82.jpg",
+            "publishedAt": "2026-02-16T20:28:29Z"
+        },
+        {
+            "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
+                "country": "us"
+            },
+            "title": "Britain's PM Keir Starmer announces new regulations on AI chatbots",
+            "url": "https://www.newsbreak.com/upi-news-510013/4496064528530-britain-s-pm-keir-starmer-announces-new-regulations-on-ai-chatbots",
+            "urlToImage": "https://img.particlenews.com/img/id/49nj31_18vKligT00",
+            "publishedAt": "2026-02-16T20:07:37Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Britain's PM Keir Starmer announces new regulations on AI chatbots",
+            "url": "https://www.upi.com/Top_News/World-News/2026/02/16/keir-starmer-regulations-ai-chatbots/9861771270565/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi_com/9861771270565/2026/1/3d20d5f5027ca654b2daba80ca2b1182/v1.5/Britains-PM-Keir-Starmer-announces-new-regulations-on-AI-chatbots.jpg",
+            "publishedAt": "2026-02-16T20:07:37Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Michigan student sues university after being accused of using AI",
+            "url": "https://www.cp24.com/news/world/2026/02/16/university-of-michigan-student-accused-of-using-ai-suing-school-lawsuit-alleges-disability-discrimination/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/A4ZUXI2T3RD2PER7XACBWC3QHU.JPG?smart=true&auth=8251ebcd6b13ad8d0b31d73a0388a023df5dbc6b073f7daafbd92245a671a828&width=1200&height=630",
+            "publishedAt": "2026-02-16T19:53:05Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Powered Finance to reshape India's payments landscape, says Founder and MD In",
+            "url": "https://www.tribuneindia.com/news/business/ai-powered-finance-to-reshape-indias-payments-landscape-says-founder-and-md-in-solutions-global/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJjYzdjZjEwLTBiNzAtMTFmMS1hMGQ5LTc1OTJkMGM1MWUxYy5qcGc=",
+            "publishedAt": "2026-02-16T19:50:20Z"
+        },
         {
             "source": {
                 "id": "602d1de710d66397a00201d8efdd36ee",
@@ -1923,6 +1995,24 @@
         },
         {
             "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple’s 2026 Mac Blitz: Seven New Machines Signal the Most Ambitious Product Year in a Decade",
+            "url": "https://www.webpronews.com/apples-2026-mac-blitz-seven-new-machines-signal-the-most-ambitious-product-year-in-a-decade/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-10361-1771263319.jpeg",
+            "publishedAt": "2026-02-16 20:30:20"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "This AI Scored 67% in the US Medical Exam And Here's Why That Matters",
+            "url": "https://hackernoon.com/this-ai-scored-67percent-in-the-us-medical-exam-and-heres-why-that-matters",
+            "urlToImage": "https://hackernoon.imgix.net/images/inside-googles-medical-ai-breakthrough-bhwmx8csl3miwc8mvgd9ottv.png",
+            "publishedAt": "2026-02-16 20:03:05"
+        },
+        {
+            "source": {
                 "name": "filmdaily"
             },
             "title": "Why are AI chips and cloud companies making so much money?",
@@ -3435,78 +3525,6 @@
             "url": "https://www.deccanchronicle.com/india-plans-ai-data-city-on-staggering-scale-in-ap-lokesh",
             "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/11/15/1978960-nara-lokesh.jpg",
             "publishedAt": "2026-02-15 12:23:13"
-        },
-        {
-            "source": {
-                "name": "deccanchronicle"
-            },
-            "title": "India plans AI Data City on Staggering Scale in AP: Nokesh",
-            "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/india-plans-ai-data-city-on-staggering-scale-in-ap-nokesh-1937441",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/11/15/1978960-nara-lokesh.webp",
-            "publishedAt": "2026-02-15 12:23:13"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "The FTC’s Microsoft Dragnet: Inside the Widening Antitrust Probe That Could Reshape Cloud Computing and AI",
-            "url": "https://www.webpronews.com/the-ftcs-microsoft-dragnet-inside-the-widening-antitrust-probe-that-could-reshape-cloud-computing-and-ai/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-10244-1771150888.jpeg",
-            "publishedAt": "2026-02-15 10:21:33"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Inside AWS’s AI Reckoning: How Amazon’s Cloud Empire Is Fighting to Reclaim Its Edge Against Microsoft and Google",
-            "url": "https://www.webpronews.com/inside-awss-ai-reckoning-how-amazons-cloud-empire-is-fighting-to-reclaim-its-edge-against-microsoft-and-google/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-10240-1771150288.jpeg",
-            "publishedAt": "2026-02-15 10:11:34"
-        },
-        {
-            "source": {
-                "name": "etvbharat"
-            },
-            "title": "India Plans AI 'Data City' On Staggering Scale As Stanford-Educated Minister Reveals The Journey",
-            "url": "https://www.etvbharat.com/en/technology/india-plans-ai-data-city-on-staggering-scale-as-stanford-educated-minister-reveals-the-journey-enn26021502101",
-            "urlToImage": "https://imgs.etvbharat.com/etvbharat/prod-images/15-02-2026/1200-675-26046557-257-26046557-1771140494761.jpg",
-            "publishedAt": "2026-02-15 07:35:51"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "“The next big lemming-like rush will be to artificial intelligence”: While 1985 was hailed as the year of AI, Bill Gates ignored the hype to focus on ‘softer software’",
-            "url": "https://www.techradar.com/pro/the-next-big-lemming-like-rush-will-be-to-artificial-intelligence-while-1985-was-hailed-as-the-year-of-ai-bill-gates-ignored-the-hype-to-focus-on-softer-software",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mhghcVT3t8x87zGUiYCZK7.jpg",
-            "publishedAt": "2026-02-15 06:00:00"
-        },
-        {
-            "source": {
-                "name": "wyomingnews"
-            },
-            "title": "New world for users and brands as ads hit AI chatbots",
-            "url": "https://www.wyomingnews.com/news/national/new-world-for-users-and-brands-as-ads-hit-ai-chatbots/article_4ff1f60b-73e0-5dcc-9294-84d5887e1114.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/4/a6/4a60de5b-ff13-5733-aee5-233c3e9c7060/69914861d7fd6.image.jpg?resize=300%2C200",
-            "publishedAt": "2026-02-15 03:32:03"
-        },
-        {
-            "source": {
-                "name": "postguam"
-            },
-            "title": "New world for users and brands as ads hit AI chatbots",
-            "url": "https://www.postguam.com/news/national/new-world-for-users-and-brands-as-ads-hit-ai-chatbots/article_220c057b-a24b-59bb-b589-370f607f6ee7.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/e/71/e7158ab3-b7c1-56f5-b9f8-db637d931764/69914853916bf.image.jpg?resize=400%2C266",
-            "publishedAt": "2026-02-15 03:32:03"
-        },
-        {
-            "source": {
-                "name": "communitynewspapergroup"
-            },
-            "title": "New world for users and brands as ads hit AI chatbots",
-            "url": "https://www.communitynewspapergroup.com/news/nation/new-world-for-users-and-brands-as-ads-hit-ai-chatbots/article_3d63672f-3dc6-55e5-af59-7941eca0379d.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/communitynewspapergroup.com/content/tncms/assets/v3/editorial/5/bb/5bb36254-0c14-5081-b304-431fcc5832a1/6991489430d13.image.jpg?resize=300%2C200",
-            "publishedAt": "2026-02-15 03:32:03"
         }
     ]
 }
