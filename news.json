@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-02-17T04:15:27.038821Z",
+    "lastUpdatedAt": "2026-02-17T05:54:55.738721Z",
     "articles": [
+        {
+            "source": {
+                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
+                "name": "Toronto Star",
+                "url": "https://www.thestar.com",
+                "country": "ca"
+            },
+            "title": "AI minister seeks new investments in Germany, Saudi Arabia, India",
+            "url": "https://www.thestar.com/politics/federal/ai-minister-seeks-new-investments-in-germany-saudi-arabia-india/article_5e7a6587-93ef-566c-bf30-755a17b0575d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
+            "publishedAt": "2026-02-16T17:53:14Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "AI minister seeks new investments in Germany, Saudi Arabia, India",
+            "url": "https://www.sootoday.com/national-news/ai-minister-seeks-new-investments-in-germany-saudi-arabia-india-11884983",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/site_images/national_news_2017.jpg",
+            "publishedAt": "2026-02-16T17:53:14Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "AI minister seeks new investments in Germany, Saudi Arabia, India",
+            "url": "https://www.baytoday.ca/national-news/ai-minister-seeks-new-investments-in-germany-saudi-arabia-india-11884983",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/site_images/national_news_2017.jpg",
+            "publishedAt": "2026-02-16T17:53:14Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Nadda to unveil National AI blueprint, testing platform for healthcare",
+            "url": "https://timesofindia.indiatimes.com/india/nadda-to-unveil-national-ai-blueprint-testing-platform-for-healthcare/articleshow/128433191.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-128433225,width-1280,height-720,imgsize-659746,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-16T17:51:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "3 Sutras, 7 Chakras anchor India AI Impact Summit 2026 as global, tech leaders gather at Bharat Mandapam",
+            "url": "https://www.tribuneindia.com/news/world/3-sutras-7-chakras-anchor-india-ai-impact-summit-2026-as-global-tech-leaders-gather-at-bharat-mandapam/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRjNjE4YTQwLTBiNWQtMTFmMS1hMGQ5LTc1OTJkMGM1MWUxYy5qcGc=",
+            "publishedAt": "2026-02-16T17:35:12Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "At mega AI Summit in Delhi, Goa seeks deeptech, semiconductor investments",
+            "url": "https://economictimes.indiatimes.com/tech/technology/at-mega-ai-summit-in-delhi-goa-seeks-deeptech-semiconductor-investments/articleshow/128432469.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-294912,resizemode-75,msid-128432469/tech/technology/at-mega-ai-summit-in-delhi-goa-seeks-deeptech-semiconductor-investments.jpg",
+            "publishedAt": "2026-02-16T17:29:59Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Panjab University to play vital role in shaping future tech leadership: UN envoy",
+            "url": "https://indianexpress.com/article/cities/chandigarh/un-tech-envoy-amandeep-singh-gill-panjab-university-colloquium-ai-regulation-10535607/",
+            "urlToImage": "https://images.indianexpress.com/2026/02/Dr-Amandeep-Singh-Gill.jpg",
+            "publishedAt": "2026-02-16T17:20:00Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "IBM Plans to Triple Entry-Level Hiring, Even for AI-Exposed Roles",
+            "url": "https://markets.businessinsider.com/news/stocks/ibm-plans-to-triple-entry-level-hiring-even-for-ai-exposed-roles-1035832372",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/02/image-1842.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-02-16T17:17:10Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Maharashtra Launches India's First Industry-Oriented AI Living Lab With Germany Collaboration",
+            "url": "https://www.freepressjournal.in/mumbai/maharashtra-launches-indias-first-industry-oriented-ai-living-lab-with-germany-collaboration",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-02-16/gek9nlep/WhatsApp-Image-2026-02-16-at-15.26.35.jpeg",
+            "publishedAt": "2026-02-16T17:09:30Z"
+        },
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk",
+                "country": "gb"
+            },
+            "title": "AI workers give fascinating insight into their prenup agreements as their salaries surge beyond their partners' incomes",
+            "url": "https://www.dailymail.co.uk/news/article-15564145/AI-prenup-salaries-surge-partners-incomes.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2026/02/16/17/106430455-0-image-m-13_1771262109938.jpg",
+            "publishedAt": "2026-02-16T17:08:38Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Thales Boosts India's Self-Reliance with New R&D Hub",
+            "url": "https://www.devdiscourse.com/article/technology/3807159-thales-boosts-indias-self-reliance-with-new-rd-hub",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/19_06_2024_15_09_17_1763165.png?width=920&format=jpeg",
+            "publishedAt": "2026-02-16T16:38:22Z"
+        },
         {
             "source": {
                 "id": "fd3677545b80d5db7541de8e111d27ba",
@@ -3336,138 +3468,6 @@
             "url": "https://www.deccanherald.com/india/indias-ai-policy-in-the-global-norms-debate-3899092",
             "urlToImage": "https://media.assettype.com/deccanherald%2F2026-02-15%2F2tz0t8p8%2Ffile84k2ql1edlzj63u3rl.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&w=1200",
             "publishedAt": "2026-02-15 00:06:07"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Top leaders of at least 20 countries set to attend AI Impact summit",
-            "url": "https://www.dailyexcelsior.com/top-leaders-of-at-least-20-countries-set-to-attend-ai-impact-summit/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/AI-2.jpg",
-            "publishedAt": "2026-02-14T23:00:48Z"
-        },
-        {
-            "source": {
-                "id": "c477009a98f37b19212d8ae20ce8c018",
-                "name": "POLITICO",
-                "url": "https://www.politico.com",
-                "country": "us"
-            },
-            "title": "How global cybercrime syndicates are stealing hearts - and billions",
-            "url": "https://www.politico.com/news/2026/02/14/how-global-cybercrime-syndicates-are-stealing-hearts-and-billions-00780481",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F14%2F6a%2F7e3a39f042fea869d2a6a5e685a6%2Fmain-nickel-romancescams.jpg",
-            "publishedAt": "2026-02-14T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "Lorong AI: Singapore's blueprint for an AI park",
-            "url": "https://www.straitstimes.com/tech/lorong-ai-the-blueprint-for-singapores-future-ai-park-in-one-north",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/bd0b212683682be5e24296a4fc7204414ae9f4481f29b6afffe7044293d9b712",
-            "publishedAt": "2026-02-14T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "549a7a859b2345bbe231b00e7244ef99",
-                "name": "Engadget",
-                "url": "https://www.engadget.com",
-                "country": "us"
-            },
-            "title": "Airbnb is testing out AI search with a 'small percentage' of users",
-            "url": "https://www.engadget.com/ai/airbnb-is-testing-out-ai-search-with-a-small-percentage-of-users-203054011.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VH6IDizEofNV7IN1.stFdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/bba1b4d0-09df-11f1-b1ff-9e2e09e7a7f5",
-            "publishedAt": "2026-02-14T20:30:54Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Artificial intelligence declaration signed by Canada, Germany",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/02/14/canada-and-germany-sign-declaration-of-intent-to-grow-ai-field-together/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/6KW7LNVF35C6QWRP3UV3E4CAPQ.jpg?smart=true&auth=3322fd1cefbaa90b4fd3bd8aa5bc06d6eb15145a723061fdf63bf291906fcda2&width=1200&height=630",
-            "publishedAt": "2026-02-14T20:20:07Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Artificial intelligence declaration signed by Canada, Germany",
-            "url": "https://www.cp24.com/news/canada/2026/02/14/canada-and-germany-sign-declaration-of-intent-to-grow-ai-field-together/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/6KW7LNVF35C6QWRP3UV3E4CAPQ.jpg?smart=true&auth=3322fd1cefbaa90b4fd3bd8aa5bc06d6eb15145a723061fdf63bf291906fcda2&width=1200&height=630",
-            "publishedAt": "2026-02-14T20:20:07Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
-            "url": "https://japantoday.com/category/tech/as-electricity-costs-rise-everyone-wants-data-centers-to-pick-up-their-tab.-but-how",
-            "urlToImage": "https://media.japantoday.com/img/store/32/26/7edb2e1abeacf2ec315a5e22fbf3ece5e63d/download/_w1700.jpeg",
-            "publishedAt": "2026-02-14T20:11:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI Bubble Fears Are Creating New Derivatives",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-14/ai-bubble-fears-are-creating-new-derivatives-credit-weekly",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivM2EHxjeXU0/v1/1200x800.jpg",
-            "publishedAt": "2026-02-14T20:00:00Z"
-        },
-        {
-            "source": {
-                "id": "49853ffafc28f405ff8ed06043290ae8",
-                "name": "Global News",
-                "url": "https://globalnews.ca",
-                "country": "ca"
-            },
-            "title": "Canada-Germany AI declaration signals further drift away from U.S.",
-            "url": "https://globalnews.ca/news/11668118/canada-signs-ai-declaration-germany/",
-            "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/01/755523058dc2058a92fd2536112772fda8739e57b0402e5e492c5623d8700e50.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-            "publishedAt": "2026-02-14T19:36:05Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "Canada and Germany sign declaration of intent to grow AI field together",
-            "url": "https://www.sootoday.com/national-news/canada-and-germany-sign-declaration-of-intent-to-grow-ai-field-together-11882169",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/02/4b919e1b80517613b6de04dddbd2df8efb0566d826775a25b2044010eed6a4a3.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-02-14T19:33:14Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Canada and Germany sign declaration of intent to grow AI field together",
-            "url": "https://www.baytoday.ca/national-news/canada-and-germany-sign-declaration-of-intent-to-grow-ai-field-together-11882169",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/02/4b919e1b80517613b6de04dddbd2df8efb0566d826775a25b2044010eed6a4a3.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-02-14T19:33:14Z"
         }
     ]
 }
