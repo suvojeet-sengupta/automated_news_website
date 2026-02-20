@@ -1,6 +1,111 @@
 {
-    "lastUpdatedAt": "2026-02-20T11:28:33.975997Z",
+    "lastUpdatedAt": "2026-02-20T12:50:41.056627Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "'Secure chatbots or your wife may know your secrets'",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/secure-chatbots-or-your-wife-may-know-your-secrets/articleshow/128584122.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-128584098,width-1280,height-720,imgsize-38778,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-20T00:37:00Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Delhi pact pushes inclusive global AI: Vaishnaw",
+            "url": "https://www.hindustantimes.com/india-news/delhi-pact-pushes-inclusive-global-ai-vaishnaw-101771527044971.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/02/19/550x309/The-pact--announced-by-IT-minister-Ashwini-Vaishna_1771527038396.jpg",
+            "publishedAt": "2026-02-20T00:36:11Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Global tech leaders call for collective action at the India AI Impact Summit",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-tech-leaders-call-for-collective-action-at-the-india-ai-impact-summit/articleshow/128568767.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-177504,resizemode-75,msid-128568767/tech/artificial-intelligence/global-tech-leaders-call-for-collective-action-at-the-india-ai-impact-summit.jpg",
+            "publishedAt": "2026-02-20T00:30:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Most jobs are not going anywhere soon; AI is good for deterministic problems right now: Nikesh Arora",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/most-jobs-are-not-going-anywhere-soon-ai-is-good-for-deterministic-problems-right-now-nikesh-arora/articleshow/128575342.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-104038,resizemode-75,msid-128575342/tech/artificial-intelligence/most-jobs-are-not-going-anywhere-soon-ai-is-good-for-deterministic-problems-right-now-nikesh-arora.jpg",
+            "publishedAt": "2026-02-20T00:30:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Meta cuts stock awards by 5% for most employees, FT reports",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/20/most-meta-staff-to-get-5-less-in-equity-rewards-as-zuckerberg-cuts-costs-for-ai-spending-ft-reports",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/20/3777729.jpg",
+            "publishedAt": "2026-02-20T00:26:00Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "We’re Losing the Cyber War: Inside ISACA’s Mission to Build the World’s Largest Cybersecurity Certification Machine",
+            "url": "https://itwire.com/guest-articles/guest-interviews/itwire-tv-we%E2%80%99re-losing-the-cyber-war-inside-isaca%E2%80%99s-mission-to-build-the-world%E2%80%99s-largest-cybersecurity-certification-machine.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/5a8299c4a438da23f6415aca1a45a5a4_XS.jpg",
+            "publishedAt": "2026-02-20T00:19:17Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "We’re Losing the Cyber War: Inside ISACA’s Mission to Build the World’s Largest Cybersecurity Certification Machine",
+            "url": "https://itwire.com/business-it-news/security/video-we%e2%80%99re-losing-the-cyber-war-inside-isaca%e2%80%99s-mission-to-build-the-world%e2%80%99s-largest-cybersecurity-certification-machine.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/7ae52558cfb88fb549729f77c10538f3_XS.jpg",
+            "publishedAt": "2026-02-20T00:02:25Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Aakrit Vaish’s fund Activate ties up with Nvidia to back AI startups",
+            "url": "http://economictimes.indiatimes.com/tech/funding/aakrit-vaishs-fund-activate-ties-up-with-nvidia-to-back-ai-startups/articleshow/128570254.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-930153,resizemode-75,msid-128570254/tech/funding/aakrit-vaishs-fund-activate-ties-up-with-nvidia-to-back-ai-startups.jpg",
+            "publishedAt": "2026-02-20 00:30:00"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Oakland University debates AI institute, data center proposal for Parking Lot 35",
+            "url": "https://www.clickondetroit.com/news/local/2026/02/19/oakland-university-debates-ai-institute-data-center-proposal-for-parking-lot-35/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/fstl-tf/MDg0eJwBs9g4nRd3UEj4/1771543356818_1920x1080_thumbnail.jpg?_a=DATAg1fkZAA0",
+            "publishedAt": "2026-02-19T23:29:47Z"
+        },
         {
             "source": {
                 "id": "d6397b77175680e2678c0d60edcee7af",
@@ -3285,114 +3390,6 @@
             "url": "https://www.marketscreener.com/news/tech-up-on-rotation-back-into-software-ai-tech-roundup-ce7e5ddfdb80f72c",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-11T213354Z_1_LYNXMPECAA1AP_RTROPTP_2_BRITAIN-EU-INVESTMENT-BANKS.JPG",
             "publishedAt": "2026-02-18T22:51:20Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Financials Up as Global Market Volatility Subsides - Financials Roundup",
-            "url": "https://www.marketscreener.com/news/financials-up-as-global-market-volatility-subsides-financials-roundup-ce7e5ddfdb80f721",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-21T163541Z_1_LYNXMPECAK128_RTROPTP_2_AUSTRIA-BUSINESS.JPG",
-            "publishedAt": "2026-02-18T22:50:21Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "India, UK conduct scale-up study of AI-enabled mental health tool for young girls",
-            "url": "https://www.dailyexcelsior.com/india-uk-conduct-scale-up-study-of-ai-enabled-mental-health-tool-for-young-girls/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/AI-health-girls.jpg",
-            "publishedAt": "2026-02-18T22:35:17Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "India among key hubs for AI innovation, company deepening India partnerships: NVIDIA",
-            "url": "https://www.dailyexcelsior.com/india-among-key-hubs-for-ai-innovation-company-deepening-india-partnerships-nvidia/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/Nvidia.jpg",
-            "publishedAt": "2026-02-18T22:31:36Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "EU, India can forge strong AI partnership: Member of European Parliament",
-            "url": "https://www.dailyexcelsior.com/eu-india-can-forge-strong-ai-partnership-member-of-european-parliament/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/Brando-Benifei.jpg",
-            "publishedAt": "2026-02-18T22:30:51Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Be proficient in AI tools to lead next tech wave: Google DeepMind CEO tells India's youth",
-            "url": "https://www.dailyexcelsior.com/be-proficient-in-ai-tools-to-lead-next-tech-wave-google-deepmind-ceo-tells-indias-youth/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/Hassabis.jpg",
-            "publishedAt": "2026-02-18T22:30:39Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "India keen to diversify crude oil, coking coal sources; eyes high-quality US supplies: Goyal",
-            "url": "https://www.dailyexcelsior.com/india-keen-to-diversify-crude-oil-coking-coal-sources-eyes-high-quality-us-supplies-goyal/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/PTI02_08_2026_000176B-scaled.jpg",
-            "publishedAt": "2026-02-18T22:30:36Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "UK to Force Tech Firms to Take Down Abusive Images in 48 Hours",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-18/uk-to-force-tech-firms-to-take-down-abusive-images-in-48-hours",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip8nN.dcFFLU/v0/1200x800.jpg",
-            "publishedAt": "2026-02-18T22:30:00Z"
-        },
-        {
-            "source": {
-                "id": "d4773b92da0613b8ffc2fc9c46229534",
-                "name": "Business Wire",
-                "url": "https://www.businesswire.com",
-                "country": "us"
-            },
-            "title": "Lumifi Announces Strategic Partnership with Vizient to Strengthen Cybersecurity for Healthcare Organizations",
-            "url": "https://www.businesswire.com/news/home/20260218942331/en/Lumifi-Announces-Strategic-Partnership-with-Vizient-to-Strengthen-Cybersecurity-for-Healthcare-Organizations",
-            "urlToImage": "https://mms.businesswire.com/media/20260218942331/en/2724440/22/PR-Image.jpg",
-            "publishedAt": "2026-02-18T22:26:00Z"
-        },
-        {
-            "source": {
-                "id": "d4773b92da0613b8ffc2fc9c46229534",
-                "name": "Business Wire",
-                "url": "https://www.businesswire.com",
-                "country": "us"
-            },
-            "title": "Lumifi Announces Agreement with Vizient to Strengthen Cybersecurity for Healthcare Organizations",
-            "url": "https://www.businesswire.com/news/home/20260218942331/en/Lumifi-Announces-Agreement-with-Vizient-to-Strengthen-Cybersecurity-for-Healthcare-Organizations",
-            "urlToImage": "https://mms.businesswire.com/media/20260218942331/en/2724440/22/PR-Image.jpg",
-            "publishedAt": "2026-02-18T22:26:00Z"
         }
     ]
 }
