@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-02-21T14:22:11.285858Z",
+    "lastUpdatedAt": "2026-02-21T15:20:35.974808Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Viral AI videos raise questions about how we view reality",
+            "url": "https://www.abc.net.au/news/2026-02-21/viral-ai-videos-raise-questions-about-how-we-view-reality/106307568",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/779a4554842c64d10150a700e6911d61?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-02-21T03:19:09Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Cybersecurity stocks hit sharply by Anthropic 'Claude Code Security'",
+            "url": "https://economictimes.indiatimes.com/tech/technology/cybersecurity-stocks-hit-sharply-by-anthropic-claude-code-security/articleshow/128631892.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-221700,resizemode-75,msid-128631892/tech/technology/cybersecurity-stocks-hit-sharply-by-anthropic-claude-code-security.jpg",
+            "publishedAt": "2026-02-21T03:13:43Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "US rejects global AI governance, pushes sovereign stack at Delhi summit",
+            "url": "https://www.lokmattimes.com/international/us-rejects-global-ai-governance-pushes-sovereign-stack-at-delhi-summit/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602213681773_202602.jpg",
+            "publishedAt": "2026-02-21T03:04:13Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "\"Love His Vision On AI\": OpenAI's Sam Altman After Meeting PM Modi",
+            "url": "https://www.ndtv.com/india-news/love-his-vision-on-ai-openais-sam-altman-after-meeting-pm-narendra-modi-at-india-ai-impact-summit-2026-11116298",
+            "urlToImage": "https://c.ndtvimg.com/2026-02/ruv4d8r8_sam-altman-narendra-modi_625x300_21_February_26.jpeg",
+            "publishedAt": "2026-02-21T02:56:12Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "Cybersecurity stocks hit sharply by Anthropic 'Claude Code Security'",
+            "url": "https://www.news18.com/agency-feeds/cybersecurity-stocks-hit-sharply-by-anthropic-claude-code-security-9920964.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
+            "publishedAt": "2026-02-21T02:45:02Z"
+        },
+        {
+            "source": {
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
+                "country": "in"
+            },
+            "title": "Altman Commends India's Development of Smaller, Narrower AI Models",
+            "url": "https://scanx.trade/stock-market-news/global/altman-commends-india-s-development-of-smaller-narrower-ai-models/33187350",
+            "urlToImage": "http://news-images.dhan.co/altman-commends-india-s-development-of-smaller-narrower-ai-models.jpg",
+            "publishedAt": "2026-02-21T02:42:30Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Cybersecurity stocks hit sharply by Anthropic 'Claude Code Security'",
+            "url": "https://www.tribuneindia.com/news/business/cybersecurity-stocks-hit-sharply-by-anthropic-claude-code-security/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJkZmZiNjIwLTBlY2UtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
+            "publishedAt": "2026-02-21T02:40:45Z"
+        },
         {
             "source": {
                 "id": "fd3677545b80d5db7541de8e111d27ba",
@@ -3426,90 +3510,6 @@
             "url": "https://economictimes.indiatimes.com/news/india/india-likely-to-join-us-led-strategic-alliance-pax-silica/articleshow/128571609.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-128571683,width-1200,height-630,imgsize-42910,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2026-02-19T18:10:00Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Austria Sees Huge Scope For AI Collaboration With India: Top Official To NDTV",
-            "url": "https://www.ndtv.com/world-news/austria-sees-huge-scope-for-ai-collaboration-with-india-top-official-to-ndtv-11086301",
-            "urlToImage": "https://c.ndtvimg.com/2026-02/qv9q7aic_alexander-proll_625x300_19_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2026-02-19T18:09:30Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Bill Gates Cancels a Keynote Speech Amid Epstein Controversy",
-            "url": "https://www.nytimes.com/2026/02/19/business/bill-gates-epstein-india-ai-summit.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/02/19/multimedia/19biz-gates-epstein-india-gzhj/19biz-gates-epstein-india-gzhj-facebookJumbo.jpg",
-            "publishedAt": "2026-02-19T17:58:32Z"
-        },
-        {
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            },
-            "title": "Lattice Semiconductor Making Key Plays In AI Super Bowl",
-            "url": "https://www.investors.com/research/the-new-america/lattice-semiconductor-lscc-key-player-ai-super-bowl/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2026/02/stock-Lattice-Semiconductor-company.jpg",
-            "publishedAt": "2026-02-19T17:57:24Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Switzerland to host next AI Summit in Geneva in 2027: Swiss President Parmelin",
-            "url": "https://www.tribuneindia.com/news/world/switzerland-to-host-next-ai-summit-in-geneva-in-2027-swiss-president-parmelin/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWMxOTFjNGYwLTBkYmEtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-            "publishedAt": "2026-02-19T17:45:12Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "India can lead world in AI diffusion for public good: Nandan Nilekani",
-            "url": "https://www.lokmattimes.com/technology/india-can-lead-world-in-ai-diffusion-for-public-good-nandan-nilekani-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602193680468_202602.jpg",
-            "publishedAt": "2026-02-19T17:40:32Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "India can lead world in AI diffusion for public good: Nandan Nilekani",
-            "url": "https://www.lokmattimes.com/business/india-can-lead-world-in-ai-diffusion-for-public-good-nandan-nilekani/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602193680468_202602.jpg",
-            "publishedAt": "2026-02-19T17:40:32Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "The Green Intelligence: Scaling Sustainable Business through AI and Advanced Technology",
-            "url": "https://techbullion.com/the-green-intelligence-scaling-sustainable-business-through-ai-and-advanced-technology/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/55-1.jpeg",
-            "publishedAt": "2026-02-19T17:36:28Z"
         }
     ]
 }
