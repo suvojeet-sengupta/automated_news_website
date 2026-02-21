@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-02-21T07:29:23.431012Z",
+    "lastUpdatedAt": "2026-02-21T08:25:14.184037Z",
     "articles": [
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "India’s AI summit draws global leaders, big pledges and some chaos",
+            "url": "https://www.nbcnews.com/world/asia/indias-ai-summit-draws-global-leaders-big-pledges-chaos-rcna259855",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260220-Altman-and-Amodei-rs-4bf6ab.jpg",
+            "publishedAt": "2026-02-20T20:17:29Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI to boost jobs in farming sector, says AgriNext Summit",
+            "url": "https://timesofindia.indiatimes.com/city/kochi/ai-to-boost-jobs-in-farming-sector-says-agrinext-summit/articleshow/128619822.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-117595091,width-1280,height-720,imgsize-97739,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-20T20:09:00Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Claude Code Security has broad implications for cybersecurity, says Jefferies",
+            "url": "https://markets.businessinsider.com/news/stocks/claude-code-security-has-broad-implications-for-cybersecurity-says-jefferies-1035852293",
+            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2026-02-20T20:00:24Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "LiveRamp to Integrate Scowtt's Predictive AI Models Into its Data Collaboration Platform",
+            "url": "https://www.marketscreener.com/news/liveramp-to-integrate-scowtt-s-predictive-ai-models-into-its-data-collaboration-platform-ce7e5dddd089f220",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-02-20T19:53:11Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Hackers Used AI to Breach 600 Firewalls in Weeks, Amazon Says",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-20/hackers-used-ai-to-breach-600-firewalls-in-weeks-amazon-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqxJLoSy0zm8/v1/1200x799.jpg",
+            "publishedAt": "2026-02-20T19:28:12Z"
+        },
         {
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -2175,6 +2235,15 @@
         },
         {
             "source": {
+                "name": "webpronews"
+            },
+            "title": "Sundar Pichai’s AI Playbook: Google’s CEO Lays Out a Vision Where Artificial Intelligence Reshapes Everything From Search to National Security",
+            "url": "https://www.webpronews.com/sundar-pichais-ai-playbook-googles-ceo-lays-out-a-vision-where-artificial-intelligence-reshapes-everything-from-search-to-national-security/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-10631-1771567391.jpeg",
+            "publishedAt": "2026-02-20 20:00:08"
+        },
+        {
+            "source": {
                 "name": "inc42"
             },
             "title": "Indian AI Startup Tracker: 170+ Startups Putting India On The Global AI Map",
@@ -3447,78 +3516,6 @@
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-chief-sundar-pichai-visits-coffee-board-stall-at-ai-impact-summit/articleshow/128558125.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-47678,resizemode-75,msid-128558125/tech/artificial-intelligence/google-chief-sundar-pichai-visits-coffee-board-stall-at-ai-impact-summit.jpg",
             "publishedAt": "2026-02-19T12:32:24Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Fight AI with AI, says Zscaler CEO, emphasising cybersecurity shift at India AI Impact Summit 2026",
-            "url": "https://www.tribuneindia.com/news/business/fight-ai-with-ai-says-zscaler-ceo-emphasising-cybersecurity-shift-at-india-ai-impact-summit-2026/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRkOWVlMDUwLTBkOGUtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-            "publishedAt": "2026-02-19T12:31:01Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "CAD Technology for the Global Jewelry Industry",
-            "url": "https://www.tribuneindia.com/news/business/diatech-pioneering-ai-powered-image-to-cad-technology-for-the-global-jewelry-industry/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ5Yzg1Y2UwLTBkOGUtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-            "publishedAt": "2026-02-19T12:30:55Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Ampcus Cyber Launches CISO Intelligence Council in India to Strengthen Cybersecurity Leadership and Collaboration",
-            "url": "https://www.tribuneindia.com/news/business/ampcus-cyber-launches-ciso-intelligence-council-in-india-to-strengthen-cybersecurity-leadership-and-collaboration/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ1ZGUwMzUwLTBkOGUtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-            "publishedAt": "2026-02-19T12:30:48Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "'Brain drain is costly': When Sridhar Vembu found Trump's AI advisor Sriram Krishnan before his migration to US",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/brain-drain-is-costly-when-sridhar-vembu-found-trumps-ai-advisor-sriram-krishnan-before-his-migration-to-us/articleshow/128558045.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128558053,width-1200,height-630,imgsize-28536,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-02-19T12:30:00Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "Agentic AI won’t take your job tomorrow, says Palo Alto Networks CEO",
-            "url": "https://www.cnbctv18.com/technology/agentic-ai-wont-take-your-job-tomorrow-says-palo-alto-networks-ceo-19853906.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/02/nikesh-arora-2026-02-a4897e0cb8fb816e4ec0ed42876088d4.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2026-02-19T12:28:26Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "From India AI Summit stage, Google DeepMind CEO Demis Hassabis cautions everyone about two biggest risks of AI",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/from-india-ai-summit-stage-google-deepmind-ceo-demis-hassabis-cautions-everyone-about-two-biggest-risks-of-ai/articleshow/128557596.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128558010,width-1280,height-720,imgsize-30694,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-19T12:28:00Z"
         }
     ]
 }
