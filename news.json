@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-02-22T20:21:23.795255Z",
+    "lastUpdatedAt": "2026-02-22T21:20:01.651956Z",
     "articles": [
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "IIT Madras Rolls Out BSc In Management And Data Science For Students And Working Professionals",
+            "url": "https://www.ndtv.com/education/iit-madras-rolls-out-bsc-in-management-and-data-science-for-students-and-working-professionals-11120512",
+            "urlToImage": "https://c.ndtvimg.com/2026-02/ehp8c8f8_as_625x300_02_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2026-02-22T08:52:31Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "‘They Were Smiling’: Sarvam AI’s Success Wins Over Parents Of Ex-Microsoft Employee",
+            "url": "https://www.news18.com/india/they-were-smiling-sarvam-ais-success-wins-over-parents-of-ex-microsoft-employee-ws-kl-9923017.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/02/Untitiled-100-2026-02-aa009f1c785b1b7ea57bab045700acc6-16x9.jpg",
+            "publishedAt": "2026-02-22T08:40:39Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Anthropic’s new AI tool wipes billions off cybersecurity stocks",
+            "url": "https://www.thenews.com.pk/latest/1393222-anthropics-claude-code-security-triggers-billions-in-cybersecurity-stock-losses",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-02-22/1393222_013551_updates.jpg",
+            "publishedAt": "2026-02-22T08:31:01Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Sweden unveils plan for homegrown Swedish AI language model",
+            "url": "https://www.firstpost.com/tech/sweden-unveils-plan-for-homegrown-swedish-ai-language-model-13982433.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/02/SWEDEN-SECURITY-CONFERENCE1200-2026-02-916573c8608c14530e4470af5d6ab0c0.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-02-22T08:26:46Z"
+        },
         {
             "source": {
                 "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
@@ -324,6 +372,15 @@
             "url": "https://www.livemint.com/market/china-defies-global-ai-scare-trade-as-investors-chase-winners-11771720102085.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
             "publishedAt": "2026-02-22T00:28:21Z"
+        },
+        {
+            "source": {
+                "name": "helpnetsecurity"
+            },
+            "title": "Week in review: Firmware-level Android backdoor found on tablets, Dell zero-day exploited since 2024",
+            "url": "https://www.helpnetsecurity.com/2026/02/22/week-in-review-firmware-level-android-backdoor-found-on-tablets-dell-zero-day-exploited-since-2024/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184416/week-in-review2.jpg",
+            "publishedAt": "2026-02-22 09:00:47"
         },
         {
             "source": {
@@ -3444,66 +3501,6 @@
             "url": "https://www.dailyexcelsior.com/ai-sovereignty-doesnt-imply-digital-isolation-yottas-sunil-gupta/",
             "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/MD-1.jpg",
             "publishedAt": "2026-02-20T07:57:34Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "PM Discusses Potential Of Harnessing AI In Agri, Edu With CEOs Of AI & Deeptech Startups",
-            "url": "https://www.dailyexcelsior.com/pm-discusses-potential-of-harnessing-ai-in-agri-edu-with-ceos-of-ai-deeptech-startups/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/PM-11.jpg",
-            "publishedAt": "2026-02-20T07:50:16Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Harnessing AI: Modi Engages with Deeptech Innovators",
-            "url": "https://www.devdiscourse.com/article/technology/3811563-harnessing-ai-modi-engages-with-deeptech-innovators",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/30_07_2024_13_54_49_5746915.png?width=920&format=jpeg",
-            "publishedAt": "2026-02-20T07:44:11Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "Asian shares are mixed, US futures edge higher as AI fears drag Wall Street lower",
-            "url": "https://www.ajc.com/news/2026/02/asian-shares-are-mixed-us-futures-edge-higher-as-ai-fears-drag-wall-street-lower/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/KICVGEAWN5G6PHINNNOLOXDJMI.jpg?auth=075b239490166ca81fe624df7aae91f3e0ec0229e5d694dc202cbaf79eee2d04&width=1200&height=630&smart=true",
-            "publishedAt": "2026-02-20T07:33:09Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "India joins US-led Pax Silica: Why this tech alliance matters",
-            "url": "https://www.firstpost.com/explainers/india-us-pax-silica-tech-alliance-importance-13981913.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/02/Untitled-design-2026-02-20T124917.112-2026-02-3c3b0a7f1f22cd7ba7e93d451092405d.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-02-20T07:32:08Z"
-        },
-        {
-            "source": {
-                "id": "41ffcb0a7e770544afd8def89d1e0674",
-                "name": "Scroll.in",
-                "url": "https://scroll.in",
-                "country": "in"
-            },
-            "title": "In cartoons: Chinese robodog overshadows ‘Make in India’ at AI summit",
-            "url": "https://scroll.in/latest/1090877/in-cartoons-chinese-robodog-overshadows-make-in-india-at-ai-summit",
-            "urlToImage": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/212062-debfdjyuds-1771572184.jpg",
-            "publishedAt": "2026-02-20T07:30:00Z"
         }
     ]
 }
