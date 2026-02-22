@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-02-22T21:20:01.651956Z",
+    "lastUpdatedAt": "2026-02-22T22:19:00.260806Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Shutdown at D.H.S. Extends to Cyber Agency, Adding to Setbacks",
+            "url": "https://www.nytimes.com/2026/02/22/us/politics/cyber-agency-dhs-security-setbacks.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/02/20/multimedia/00dc-cyber-kbjz/00dc-cyber-kbjz-facebookJumbo.jpg",
+            "publishedAt": "2026-02-22T10:00:43Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "AI Washing? Open AI CEO Sam Altman pushes back on layoff blame",
+            "url": "https://www.firstpost.com/tech/ai-washing-open-ai-ceo-sam-altman-pushes-back-on-layoff-blame-13982447.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/02/2026-02-19T075251Z_840998235_RC2VOJAAAIKB_RTRMADP_3_INDIA-AI-2026-02-71a3473320ec83d7d6cae765da132d32-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-02-22T09:49:55Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "This IIM wants to use AI to set question papers and check answers, even students can use it for projects",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/this-iim-wants-to-use-ai-to-set-question-papers-and-check-answers-even-students-can-use-it-for-projects/articleshow/128672066.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-128672383,width-1200,height-630,imgsize-45650,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-02-22T09:49:00Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "New maps of mouse brains reveal patterns of myelin formation",
+            "url": "https://www.news-medical.net/news/20260222/New-maps-of-mouse-brains-reveal-patterns-of-myelin-formation.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+            "publishedAt": "2026-02-22T09:30:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Wall Street week ahead: Nvidia, software reports pose next tests for AI-sensitive stock market",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-nvidia-software-reports-pose-next-tests-for-ai-sensitive-stock-market/articleshow/128671665.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-128671665,width-1200,height-630,imgsize-56268,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-02-22T09:21:00Z"
+        },
         {
             "source": {
                 "id": "7daf04fa6272ed0a29583b211dcfe1d4",
@@ -372,6 +432,15 @@
             "url": "https://www.livemint.com/market/china-defies-global-ai-scare-trade-as-investors-chase-winners-11771720102085.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
             "publishedAt": "2026-02-22T00:28:21Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Google VP warns that days for these AI startups are over; says: Industry doesn’t have patience for that anymore, you have to ...",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-vp-warns-that-days-for-these-ai-startups-are-over-says-industry-doesnt-have-patience-for-that-anymore-you-have-to-/articleshow/128672135.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-128672121,imgsize-131970,width-400,resizemode-4/google-vp-warns-that-days-for-these-ai-startups-are-over.jpg",
+            "publishedAt": "2026-02-22 09:59:15"
         },
         {
             "source": {
@@ -3429,78 +3498,6 @@
             "url": "https://www.tribuneindia.com/news/business/cheaper-ai-inference-and-open-architectures-essential-for-mass-adoption-nandan-nilekani/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTUxMTVkNmIwLTBlMzQtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
             "publishedAt": "2026-02-20T08:15:21Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "Tata Group Working on Building AI Chips, Says Chairman N Chandrasekaran",
-            "url": "https://www.outlookbusiness.com/news/tata-group-working-on-building-ai-chips-says-chairman-n-chandrasekaran",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2025-05-28/5bfdja2t/chairmannewyearmessage2024secondary1753.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-02-20T08:05:18Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Who is Ranvir Sachdeva? 8-year-old who met Sundar Pichai, Sam Altman and became youngest speaker at India AI Impact Summit 2026",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/who-is-ranvir-sachdeva-8-year-old-who-met-sundar-pichai-sam-altman-and-became-youngest-speaker-at-india-ai-impact-summit-2026/articleshow/128598936.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128599005,width-1200,height-630,imgsize-77108,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-02-20T08:05:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI Summit: PM Modi discusses potential of harnessing AI in agri, edu with top execs",
-            "url": "https://economictimes.indiatimes.com/news/india/ai-summit-pm-modi-discusses-potential-of-harnessing-ai-in-agri-edu-with-top-execs/articleshow/128598937.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128599004,width-1200,height-630,imgsize-62140,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-02-20T08:05:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Google Gemini, Apple add music-focused generative AI features",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/20/google-gemini-apple-add-music-focused-generative-ai-features",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/20/3778152.jpg",
-            "publishedAt": "2026-02-20T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "Government Issues High Risk Warning For Chrome Users In India After Multiple Vulnerabilities Discovered",
-            "url": "https://www.timesnownews.com/technology-science/government-issues-high-risk-warning-for-chrome-users-in-india-after-multiple-vulnerabilities-discovered-update-your-browser-immediately-now-or-article-153653916",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153653916,width-1280,height-720,resizemode-75/153653916.jpg",
-            "publishedAt": "2026-02-20T07:58:49Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "AI sovereignty doesn't imply digital isolation: Yotta's Sunil Gupta",
-            "url": "https://www.dailyexcelsior.com/ai-sovereignty-doesnt-imply-digital-isolation-yottas-sunil-gupta/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/MD-1.jpg",
-            "publishedAt": "2026-02-20T07:57:34Z"
         }
     ]
 }
