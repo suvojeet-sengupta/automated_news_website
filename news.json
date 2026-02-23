@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-02-23T12:55:20.921037Z",
+    "lastUpdatedAt": "2026-02-23T14:05:48.566340Z",
     "articles": [
+        {
+            "source": {
+                "id": "b76d069607ae6330d5f65a02c543a320",
+                "name": "Outlook India",
+                "url": "https://www.outlookindia.com",
+                "country": "in"
+            },
+            "title": "Manufacturing Reality: How AI Is Rewriting India’s Election Playbook",
+            "url": "https://www.outlookindia.com/national/manufacturing-reality-how-ai-is-rewriting-indias-election-playbook",
+            "urlToImage": "https://media.assettype.com/outlookindia/2025-09-12/owq2v6ma/ai-startup-funding.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-02-23T01:58:59Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Keeper Security Expands Relationship With Ingram Micro to Broaden Availability of Privileged Access Management in Singapore",
+            "url": "https://www.manilatimes.net/2026/02/23/tmt-newswire/media-outreach-newswire/keeper-security-expands-relationship-with-ingram-micro-to-broaden-availability-of-privileged-access-management-in-singapore/2282651",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/23/946671.jpg",
+            "publishedAt": "2026-02-23T01:07:00Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -24,6 +48,15 @@
             "url": "https://www.thetimes.com/business/economics/article/uk-youth-graduate-unemployment-crisis-ai-national-insurance-costs-zgv057xsj",
             "urlToImage": "https://www.thetimes.com/imageserver/image/%2F108abc10-de7e-44e0-b747-c19417bb41a1.jpg?crop=3504%2C1971%2C0%2C183&resize=1200",
             "publishedAt": "2026-02-23T00:01:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Next Trillion-Dollar AI Shift: Why OpenClaw Changes Everything for LLMs",
+            "url": "https://hackernoon.com/the-next-trillion-dollar-ai-shift-why-openclaw-changes-everything-for-llms",
+            "urlToImage": "https://hackernoon.imgix.net/images/9SBj6OzMvXOEhDxTjjuu75pLYnp1-kso3gox.jpeg",
+            "publishedAt": "2026-02-23 01:58:28"
         },
         {
             "source": {
@@ -3438,42 +3471,6 @@
             "url": "https://www.benzinga.com/news/politics/26/02/50746594/meta-plans-to-pledge-65-million-in-support-of-ai-friendly-state-politicians-report",
             "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/02/20/New-York--Usa---14-December-2024-Meta-Pl_0.jpeg?width=1200&height=800&fit=crop",
             "publishedAt": "2026-02-20T13:18:21Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Global leaders hail India to be global powerhouse in Artificial Intelligence adoption, innovation",
-            "url": "https://www.tribuneindia.com/news/business/global-leaders-hail-india-to-be-global-powerhouse-in-artificial-intelligence-adoption-innovation/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM4ZTI4NTAwLTBlNWUtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-            "publishedAt": "2026-02-20T13:15:21Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "UN touts panel for 'human control' of AI at global summit",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/un-touts-panel-for-human-control-of-ai-at-global-summit/articleshow/128609583.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-8668,resizemode-75,msid-128609583/tech/artificial-intelligence/un-touts-panel-for-human-control-of-ai-at-global-summit.jpg",
-            "publishedAt": "2026-02-20T13:06:47Z"
-        },
-        {
-            "source": {
-                "id": "d4773b92da0613b8ffc2fc9c46229534",
-                "name": "Business Wire",
-                "url": "https://www.businesswire.com",
-                "country": "us"
-            },
-            "title": "Upstart Announces Inaugural $200M Upstart Auto Forward-Flow Agreement with Wafra",
-            "url": "https://www.businesswire.com/news/home/20260220026550/en/Upstart-Announces-Inaugural-%24200M-Upstart-Auto-Forward-Flow-Agreement-with-Wafra",
-            "urlToImage": "https://mms.businesswire.com/media/20260220026550/en/2519566/22/Horizontal-Logo-Primary.jpg",
-            "publishedAt": "2026-02-20T13:05:00Z"
         }
     ]
 }
