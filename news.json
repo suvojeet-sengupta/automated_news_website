@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-02-23T14:05:48.566340Z",
+    "lastUpdatedAt": "2026-02-23T15:40:50.600578Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Canadian billionaire Kevin O'Leary just told everyone how AI is not just about painful layoffs; says: AI has quietly opened some of the biggest opportunities in …",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/canadian-billionaire-kevin-oleary-just-told-everyone-how-ai-is-not-just-about-painful-layoffs-says-ai-has-quietly-opened-some-of-the-biggest-opportunities-in-/articleshow/128697679.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-128697668,width-1280,height-720,imgsize-97210,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-23T03:37:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AirBorneo, IBM Malaysia collaborate in AI-powered operations, improve agility",
+            "url": "https://www.thestar.com.my/business/business-news/2026/02/23/airborneo-ibm-malaysia-collaborate-in-ai-powered-operations-improve-agility",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/23/3781869.jpeg",
+            "publishedAt": "2026-02-23T03:26:00Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "IT, Cybersecurity Stocks In Focus Today As Anthropic Unveils AI-Powered Code Security Tool",
+            "url": "https://www.news18.com/business/markets/it-cybersecurity-stocks-in-focus-today-as-anthropic-unveils-ai-powered-code-security-tool-ws-l-9923823.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/02/AI-IT-Cybersecurity-2026-02-de0fa7c974beb58b06f91aa0f5b10b25-16x9.jpg",
+            "publishedAt": "2026-02-23T03:15:02Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Sweden to develop home-grown AI model in Swedish",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/23/sweden-to-develop-home-grown-ai-model-in-swedish",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/23/3781798.jpg",
+            "publishedAt": "2026-02-23T03:00:00Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "AI chatbots no substitute for human friends",
+            "url": "https://www.canberratimes.com.au/story/9180980/ai-chatbots-no-substitute-for-human-friends/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/aa2f8595-72ea-40ec-ba46-91d5ddc7c1f1.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-02-23T02:31:38Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Anaplan Launches AWS Data Center in Singapore to Enhance Global Reach and Support Local Enterprises",
+            "url": "https://www.manilatimes.net/2026/02/23/tmt-newswire/media-outreach-newswire/anaplan-launches-aws-data-center-in-singapore-to-enhance-global-reach-and-support-local-enterprises/2282659",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/23/946685.jpg",
+            "publishedAt": "2026-02-23T02:07:10Z"
+        },
         {
             "source": {
                 "id": "b76d069607ae6330d5f65a02c543a320",
@@ -48,6 +120,15 @@
             "url": "https://www.thetimes.com/business/economics/article/uk-youth-graduate-unemployment-crisis-ai-national-insurance-costs-zgv057xsj",
             "urlToImage": "https://www.thetimes.com/imageserver/image/%2F108abc10-de7e-44e0-b747-c19417bb41a1.jpg?crop=3504%2C1971%2C0%2C183&resize=1200",
             "publishedAt": "2026-02-23T00:01:00Z"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "How the Ola empire is fueling Bhavish’s personal AI business, Krutrim",
+            "url": "https://www.livemint.com/companies/india-ola-empire-fueling-bhavish-aggarwal-ai-business-krutrim-governance-concerns-11771744693911.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/22/1600x900/logo/Ola_Electric_raids_shutdown_show_cause_news_1741584789337_1771759774954.JPG",
+            "publishedAt": "2026-02-23 03:30:42"
         },
         {
             "source": {
@@ -3387,90 +3468,6 @@
             "url": "https://www.devdiscourse.com/article/technology/3812229-ai-ministry-urged-telangana-cm-reddy-calls-for-indias-ai-leadership",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/18_08_2025_06_14_33_4186856.png?width=920&format=jpeg",
             "publishedAt": "2026-02-20T15:24:12Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "AI Used In Defence Tech, Maduro Raid? What OpenAI's Sam Altman Said",
-            "url": "https://www.ndtv.com/world-news/ai-used-in-defence-tech-maduro-raid-what-openais-sam-altman-said-11113980",
-            "urlToImage": "https://c.ndtvimg.com/2026-02/kmqehvps_sam-altman_625x300_19_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2026-02-20T15:22:21Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "purpose AI very important\": Cuban Delegation President at AI Impact Summit",
-            "url": "https://www.tribuneindia.com/news/world/indias-proposal-for-inclusive-social-purpose-ai-very-important-cuban-delegation-president-at-ai-impact-summit/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY4MGI3ZDUwLTBlNmUtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-            "publishedAt": "2026-02-20T15:15:13Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Boosting Cyber Defense: India's Path to Becoming a Digital Powerhouse",
-            "url": "https://www.devdiscourse.com/article/business/3812192-boosting-cyber-defense-indias-path-to-becoming-a-digital-powerhouse",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_02_2026_20_38_15_6555107.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-02-20T15:08:25Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "US economic growth slows sharply in the fourth quarter",
-            "url": "https://www.reuters.com/world/us/us-economic-growth-slows-sharply-fourth-quarter-2026-02-20/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/Y4EFXDIFORO7XJNRVZV6LLIBKA.jpg?auth=ba66dd876e43da414ad79985e3aa457e4467e160ced2db3369220dacb6c268a5&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-02-20T13:37:32Z"
-        },
-        {
-            "source": {
-                "id": "3f75f2c1a43bc09718077ba1dd6df97f",
-                "name": "Richmond Times-Dispatch",
-                "url": "https://richmond.com",
-                "country": "us"
-            },
-            "title": "CoStar Group announces layoffs while shifting to AI",
-            "url": "https://richmond.com/news/local/business/employment/article_8994e561-0a09-4ff7-9c2f-78339c326191.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/8/99/8994e561-0a09-4ff7-9c2f-78339c326191/6997373f9273f.preview.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2026-02-20T13:29:00Z"
-        },
-        {
-            "source": {
-                "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
-                "name": "Proto Thema",
-                "url": "https://en.protothema.gr",
-                "country": "gr"
-            },
-            "title": "Eurobank: strategic partnership on artificial intelligence at the India AI Impact Summit 2026",
-            "url": "https://en.protothema.gr/2026/02/20/eurobank-strategic-partnership-on-artificial-intelligence-at-the-india-ai-impact-summit-2026/",
-            "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/02/eurobank-india-1.jpg-1.jpg",
-            "publishedAt": "2026-02-20T13:26:07Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Meta Plans To Pledge $65 Million In Support Of AI-Friendly State Politicians: Report",
-            "url": "https://www.benzinga.com/news/politics/26/02/50746594/meta-plans-to-pledge-65-million-in-support-of-ai-friendly-state-politicians-report",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/02/20/New-York--Usa---14-December-2024-Meta-Pl_0.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2026-02-20T13:18:21Z"
         }
     ]
 }
