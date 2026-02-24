@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2026-02-24T07:50:05.121662Z",
+    "lastUpdatedAt": "2026-02-24T08:40:55.630076Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits",
+            "url": "https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/02/23/multimedia/23dc-military-zfhl/23dc-military-zfhl-facebookJumbo.jpg",
+            "publishedAt": "2026-02-23T20:35:58Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Canada to Press OpenAI on Safety Protocols After Mass Shooting -- Update",
+            "url": "https://www.marketscreener.com/news/canada-to-press-openai-on-safety-protocols-after-mass-shooting-update-ce7e5dd3db89f324",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-02-23T20:33:20Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "AI’s Dark Side: Deepfake Fraud Boom Could Fuel A Rally In Cybersecurity ETFs",
+            "url": "https://www.benzinga.com/etfs/sector-etfs/26/02/50796278/ai-dark-side-deepfake-fraud-boom-could-fuel-a-rally-in-cybersecurity-etfs",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/02/23/Endpoint-Security---Endpoint-Protection-.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-02-23T20:19:37Z"
+        },
+        {
+            "source": {
+                "id": "75ca59dd354694befc1cf6038cf9ca33",
+                "name": "CoinDesk",
+                "url": "https://www.coindesk.com",
+                "country": "us"
+            },
+            "title": "BTC tumbles back to $64,000 as IBM becomes latest AI target",
+            "url": "https://www.coindesk.com/markets/2026/02/23/crypto-suffers-deeper-declines-as-ai-fears-send-ibm-plunging-11",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/80f2f833ba0f2c369edfb8875c4b8cbd636e7e6e-1440x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-02-23T20:18:02Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "OpenAI safety reps summoned to Ottawa after B.C. shooting incident, minister says",
+            "url": "https://www.baytoday.ca/national-news/openai-safety-reps-summoned-to-ottawa-after-bc-shooting-incident-minister-says-11914433",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/02/9186e65ace9b2ce6c86ed876f205c5da1dbc8ef2c80bbe8785dd396465b66373.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-02-23T19:57:49Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "OpenAI safety reps summoned to Ottawa after B.C. shooting incident, minister says",
+            "url": "https://www.sootoday.com/national-news/openai-safety-reps-summoned-to-ottawa-after-bc-shooting-incident-minister-says-11914433",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/02/9186e65ace9b2ce6c86ed876f205c5da1dbc8ef2c80bbe8785dd396465b66373.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-02-23T19:57:49Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Canada to Press OpenAI on Safety Protocols After Mass Shooting",
+            "url": "https://www.marketscreener.com/news/canada-to-press-openai-on-safety-protocols-after-mass-shooting-ce7e5dd3d881f121",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-02-23T19:52:23Z"
+        },
+        {
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            },
+            "title": "US stocks drop after Trump ramps up his tariffs and worries flare about potential AI losers",
+            "url": "https://www.ajc.com/news/2026/02/us-stocks-drop-after-trump-ramps-up-his-tariffs-and-worries-flare-about-potential-ai-losers/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/V3FA2R4JTBCTTKPML6F5SCARC4.jpg?auth=ae19eeafaa0142807d0c48c226022ba785a3f1d27d6449be51657f9786fdbb42&width=1200&height=630&smart=true",
+            "publishedAt": "2026-02-23T19:52:15Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "US AI giants accuse Chinese rivals of mass data theft",
+            "url": "https://www.manilatimes.net/2026/02/24/business/sunday-business-it/us-ai-giants-accuse-chinese-rivals-of-mass-data-theft/2283303",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/24/947945.jpg",
+            "publishedAt": "2026-02-23T19:51:00Z"
+        },
         {
             "source": {
                 "id": "010284b7a4ddb4771793c29b39893951",
@@ -1620,6 +1728,24 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001108",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001108.g011&size=inline",
             "publishedAt": "2026-02-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The $650 Billion Wager: How Big Tech’s AI Infrastructure Blitz Is Redrawing the American Labor Map",
+            "url": "https://www.webpronews.com/the-650-billion-wager-how-big-techs-ai-infrastructure-blitz-is-redrawing-the-american-labor-map/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-10882-1771827433.jpeg",
+            "publishedAt": "2026-02-23 20:25:08"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "AI Giants Are Buying The World's Memory, And You're Getting The Bill",
+            "url": "https://www.benzinga.com/markets/tech/26/02/50796249/ai-giants-are-buying-the-worlds-memory-and-youre-getting-the-bill",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/02/23/SanDisk-Extreme-PRO-32-GB-Memory-Card.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2026-02-23 20:19:06"
         },
         {
             "source": {
@@ -3378,138 +3504,6 @@
             "url": "https://www.cnbctv18.com/storyboard18/storyboard18-effie-india-2026-signals-new-phase-for-marketing-and-ai-19855197.htm",
             "urlToImage": "https://images.cnbctv18.com/uploads/2026/02/storyboard18-feb21-2026-02-f4faf060d8b818098c30ef9fea145c56.jpg?im=FitAndFill,width=500,height=300",
             "publishedAt": "2026-02-21T12:43:11Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "Global summit calls for 'secure, trustworthy and robust AI'",
-            "url": "https://www.channelnewsasia.com/world/global-summit-calls-secure-trustworthy-and-robust-ai-5944481",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--EPeBtNnL--/c_crop,h_576,w_1024,x_0,y_106/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/02/21/000_986f9t3.jpg?itok=SHiL6Pvx",
-            "publishedAt": "2026-02-21T12:39:00Z"
-        },
-        {
-            "source": {
-                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-                "name": "NewsX",
-                "url": "https://www.newsx.com",
-                "country": "in"
-            },
-            "title": "IIT Delhi Opens Admissions for Third Batch of Certificate Programme in Applied Data Science and Artificial Intelligence",
-            "url": "https://www.newsx.com/business-news/iit-delhi-opens-admissions-for-third-batch-of-certificate-programme-in-applied-data-science-and-artificial-intelligence-170710/",
-            "urlToImage": "https://www.newsx.com/wp-content/uploads/2026/02/IIT-Delhi-Opens-Admissions-for-Third-Batch-of-Certificate-Programme.avif",
-            "publishedAt": "2026-02-21T12:13:08Z"
-        },
-        {
-            "source": {
-                "id": "b683218c3952d77a76b7bda7512f2f6e",
-                "name": "WIRED",
-                "url": "https://www.wired.com",
-                "country": "us"
-            },
-            "title": "Password Managers Share a Hidden Weakness",
-            "url": "https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/",
-            "urlToImage": "https://media.wired.com/photos/6998d03f68f921f5e6a08ece/191:100/w_1280,c_limit/sec-pw-managers-2187086214.jpg",
-            "publishedAt": "2026-02-21T11:30:00Z"
-        },
-        {
-            "source": {
-                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-                "name": "Washington Examiner",
-                "url": "https://www.washingtonexaminer.com",
-                "country": "us"
-            },
-            "title": "Trump bets on nuclear to power the AI century",
-            "url": "https://www.washingtonexaminer.com/restoring-america/4465535/trump-bets-nuclear-power-artificial-intelligence-century/",
-            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/12/AP25352724161828.jpg?resize=1200,683",
-            "publishedAt": "2026-02-21T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Building indigenous AI rooted in Indian languages key to national growth: Govt",
-            "url": "https://www.lokmattimes.com/business/building-indigenous-ai-rooted-in-indian-languages-key-to-national-growth-govt/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602213682313_202602.jpg",
-            "publishedAt": "2026-02-21T10:38:55Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Building indigenous AI rooted in Indian languages key to national growth: Govt",
-            "url": "https://www.lokmattimes.com/technology/building-indigenous-ai-rooted-in-indian-languages-key-to-national-growth-govt-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602213682313_202602.jpg",
-            "publishedAt": "2026-02-21T10:38:55Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Asha Sharma: New Indian-origin CEO of Microsoft Gaming has three things she would bring for the Xbox fans worldwide",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/asha-sharma-new-indian-origin-ceo-of-microsoft-gaming-has-three-things-she-would-bring-for-the-xbox-fans-worldwide/articleshow/128640799.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128641434,width-1200,height-630,imgsize-30346,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-02-21T10:26:00Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "An evening of Artificial Intelligence, diplomacy and conversations in Delhi",
-            "url": "https://www.hindustantimes.com/htcity/leisure/an-evening-of-artificial-intelligence-diplomacy-and-conversations-in-delhi-101771566105351.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/02/21/550x309/20260219_1771668295725_1771668322045.JPG",
-            "publishedAt": "2026-02-21T10:11:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "BIS-ER Compliance Expansion Positions HI-FOCUS Among Emerging Secure-by-Design CCTV Brands",
-            "url": "https://techbullion.com/bis-er-compliance-expansion-positions-hi-focus-among-emerging-secure-by-design-cctv-brands/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/iStock-1977230951.jpg",
-            "publishedAt": "2026-02-21T10:05:59Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "8,788 complaints traced to 869 mule accounts as Karnataka shifts from reactive investigations to AI-led prevention, cybersecurity audits, and ‘cyber commandos’",
-            "url": "https://indianexpress.com/article/cities/bangalore/8788-complaints-traced-to-869-mule-accounts-as-karnataka-shifts-from-reactive-investigations-to-ai-led-prevention-10544417/",
-            "urlToImage": "https://images.indianexpress.com/2025/11/cyber-fraud-2-1.jpg",
-            "publishedAt": "2026-02-21T10:02:15Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "The Intelligent Flow: Autonomous Corridors, Hyper-Logistics, and the Self-Healing Supply Chain of 2026",
-            "url": "https://techbullion.com/the-intelligent-flow-autonomous-corridors-hyper-logistics-and-the-self-healing-supply-chain-of-2026/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/1728025471321.png",
-            "publishedAt": "2026-02-21T10:01:49Z"
         }
     ]
 }
