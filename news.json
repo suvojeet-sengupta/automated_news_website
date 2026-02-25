@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-02-25T05:57:45.619061Z",
+    "lastUpdatedAt": "2026-02-25T07:04:54.224325Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "India’s real estate sector embraces artificial intelligence to woo tech-savvy buyers",
+            "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/indias-real-estate-sector-embraces-artificial-intelligence-to-woo-tech-savvy-buyers/articleshow/128760949.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-128761399,width-1200,height-630,imgsize-42484,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-02-24T19:01:00Z"
+        },
+        {
+            "source": {
+                "id": "435d508bebcc8689d5c7711d44865b80",
+                "name": "Activist Post",
+                "url": "https://www.activistpost.com",
+                "country": "us"
+            },
+            "title": "Botched Surgeries As Technocrats Enter The Operating Room With AI",
+            "url": "https://www.activistpost.com/botched-surgeries-as-technocrats-enter-the-operating-room-with-ai/",
+            "urlToImage": "https://www.activistpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-10-at-8.37.06-AM-777x437.png.webp",
+            "publishedAt": "2026-02-24T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "3e29a1cf81727e4aa5687d46a4b429c4",
+                "name": "Bangor Daily News",
+                "url": "https://www.bangordailynews.com",
+                "country": "us"
+            },
+            "title": "University of Maine at Augusta receives $400,000 Davis Foundation grant to expand AI, virtual reality learning",
+            "url": "https://www.bangordailynews.com/2026/02/24/bdn-maine/university-of-maine-at-augusta-receives-400000-davis-foundation-grant-to-expand-ai-virtual-reality-learning/",
+            "urlToImage": "https://bdn-data.s3.amazonaws.com/uploads/2020/06/BDN-logo-144x144-1-1-35x35.png",
+            "publishedAt": "2026-02-24T18:59:03Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The New Frontier of Business: Why Protecting Your Artificial Intelligence is Critical",
+            "url": "https://techbullion.com/the-new-frontier-of-business-why-protecting-your-artificial-intelligence-is-critical/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/vv-8-1000x600.webp",
+            "publishedAt": "2026-02-24T18:38:35Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Hegseth gives Anthropic until Friday to back down on AI safeguards, Axios reports",
+            "url": "https://www.reuters.com/business/hegseth-gives-anthropic-until-friday-back-down-ai-safeguards-axios-reports-2026-02-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/RRGFOTC3AVLGLPDAREOLQLYCYU.jpg?auth=62e8eb85e16f0ab0bf80742b554853502444324455b0cdd27e39b1a99f3b0ac8&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-02-24T18:37:18Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "AI to fuel biotech renaissance, says Anthropic CEO Dario Amodei",
+            "url": "https://www.financialexpress.com/life/technology/ai-to-fuel-biotech-renaissance-says-anthropic-ceo-dario-amodei/4153885/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/02/Copy-of-Pakistan-collapse-against-USA-T20-World-Cup-2026-2026-02-24T235702.122.jpg",
+            "publishedAt": "2026-02-24T18:29:34Z"
+        },
+        {
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            },
+            "title": "India proves emerging economies need not follow carbon intensive path, says environment minister",
+            "url": "https://www.moneycontrol.com/news/india/india-proves-emerging-economies-need-not-follow-carbon-intensive-path-says-environment-minister-13841942.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2019/01/Amitabh-kant_Niti-Aayog.jpg",
+            "publishedAt": "2026-02-24T18:14:28Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "The violent software sell-off pauses. Wall Street says bet on these stocks to bounce",
+            "url": "https://www.cnbc.com/2026/02/24/the-violent-software-sell-off-pauses-wall-street-says-bet-on-these-stocks-to-bounce.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108004026-1720631910073-gettyimages-1819081122-js1_4302_3f4lwscn.jpeg?v=1771954050&w=1920&h=1080",
+            "publishedAt": "2026-02-24T18:13:02Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Tech Rebounds On AMD-Meta Deal, Software Stocks Bounce",
+            "url": "https://www.benzinga.com/markets/equities/26/02/50825975/stock-market-today-news-meta-amd-ai-deal-software-stocks-performance",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/02/24/A-Detailed-Stock-Market-Data-Display-Wit.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-02-24T18:04:31Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "How AI is helping criminals target more victims online",
+            "url": "https://www.perthnow.com.au/news/technology/how-ai-is-helping-criminals-target-more-victims-online-c-21744855",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-21744855/39c56f02d1a558fcee1b52e9d8445ab4bac89d7b-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-02-24T18:01:45Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "How AI is helping criminals target more victims online",
+            "url": "https://www.canberratimes.com.au/story/9182563/how-ai-is-helping-criminals-target-more-victims-online/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/9cdb9627-8508-4d71-8747-317b5cd35bed.jpg/r0_24_1280_696_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-02-24T18:00:05Z"
+        },
         {
             "source": {
                 "id": "a6d401909ca644c4ffb332486c9cfaea",
@@ -1815,6 +1947,24 @@
         },
         {
             "source": {
+                "name": "webpronews"
+            },
+            "title": "The Trust Deficit: Why Public Confidence—Not Computing Power—May Be AI’s Most Stubborn Constraint",
+            "url": "https://www.webpronews.com/the-trust-deficit-why-public-confidence-not-computing-power-may-be-ais-most-stubborn-constraint/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-11068-1771956314.jpeg",
+            "publishedAt": "2026-02-24 18:05:19"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Amazon’s $12 Billion Bet on Louisiana: Inside the Tech Giant’s Massive Southern Data Center Expansion",
+            "url": "https://www.webpronews.com/amazons-12-billion-bet-on-louisiana-inside-the-tech-giants-massive-southern-data-center-expansion/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-11067-1771956191.jpeg",
+            "publishedAt": "2026-02-24 18:03:15"
+        },
+        {
+            "source": {
                 "name": "filmdaily"
             },
             "title": "Why are people pouring billions into AI investment?",
@@ -3408,162 +3558,6 @@
             "url": "https://indianexpress.com/article/brand-initiative/uttar-pradesh-poised-for-a-decisive-leap-in-science-and-technology-10547250/",
             "urlToImage": "https://images.indianexpress.com/2026/02/Yogi-6.jpg",
             "publishedAt": "2026-02-23T08:37:35Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "AI risk assessment expert Ajeya Cotra says AI could lead to 10,000 years of progress in just 25 years",
-            "url": "https://www.indiatoday.in/technology/news/story/ai-risk-assessment-expert-ajeya-cotra-says-ai-could-lead-to-10000-years-of-progress-in-just-25-years-2872887-2026-02-23",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/ajeya-cotra-231754212-16x9_0.png?VersionId=6XDt1ElTG6roYwoNbJ.CDQJ0SS2BVLD7",
-            "publishedAt": "2026-02-23T08:21:16Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Apple Eyes Visual Artificial Intelligence - AirPods, AI Pin, Smart Glasses Among Hardware Prospects",
-            "url": "https://www.ndtvprofit.com/technology/apple-eyes-visual-artificial-intelligence-airpods-ai-pin-smart-glasses-among-hardware-prospects-11124007",
-            "urlToImage": "https://c.ndtvimg.com/2026-02/v33j0lpc_apple_625x300_23_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-02-23T08:11:01Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Why Elon Musk believes guardrails or kill switches won’t save humanity from AI risks",
-            "url": "https://www.thenews.com.pk/latest/1393333-why-elon-musk-believes-guardrails-or-kill-switches-wont-save-humanity-from-ai-risks",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-02-23/1393333_010619_updates.jpg",
-            "publishedAt": "2026-02-23T08:06:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "KPN presents Annual Report 2025: Value of Connection",
-            "url": "https://www.manilatimes.net/2026/02/23/tmt-newswire/globenewswire/kpn-presents-annual-report-2025-value-of-connection/2282734",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/23/946892.png",
-            "publishedAt": "2026-02-23T07:51:09Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Which Decisions Should CEOs Be Comfortable Letting AI Influence in 2026?",
-            "url": "https://techbullion.com/which-decisions-should-ceos-be-comfortable-letting-ai-influence-in-2026/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/ao-1000x600.png",
-            "publishedAt": "2026-02-23T07:34:46Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - AI and Deep Tech Investment Surge in India: A 2025 Showcase",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
-            "publishedAt": "2026-02-23T07:24:50Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI investments surging in India; AI share in venture capital funding rises to 12% from 5% in 2020: Report",
-            "url": "https://www.tribuneindia.com/news/business/ai-investments-surging-in-india-ai-share-in-venture-capital-funding-rises-to-12-from-5-in-2020-report/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIwMjJiYzIwLTEwODgtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-            "publishedAt": "2026-02-23T07:20:20Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "UAE foils massive AI cyber attack targeting Government digital systems",
-            "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-foils-massive-ai-cyber-attack-targeting-government-digital-systems/articleshow/128703508.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128703766,width-1280,height-720,imgsize-65572,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-23T07:18:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "10 Agentic AI Companies Transforming Tech in 2026",
-            "url": "https://techbullion.com/10-agentic-ai-companies-transforming-tech-in-2026/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/Top-10-agentic-AI-1000x520.webp",
-            "publishedAt": "2026-02-23T07:13:24Z"
-        },
-        {
-            "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
-                "country": "in"
-            },
-            "title": "‘ChiChi Call' viral video scam: How Ghost File fraud is targeting social media users",
-            "url": "https://www.indiatvnews.com/technology/news/chichi-call-viral-video-scam-how-ghost-file-fraud-is-targeting-social-media-users-2026-02-23-1031328",
-            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/02/chichi-call-video-scam-targets-social-media-users-1771829851.jpg",
-            "publishedAt": "2026-02-23T07:06:56Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Morgan Stanley IM Is Hunting for AI-Proof Assets",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-23/morgan-stanley-im-adds-emerging-market-assets-without-ai-risks",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieaiDEXe7DuE/v0/1200x800.jpg",
-            "publishedAt": "2026-02-23T07:00:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "German digital minister: Solution needed for AI energy consumption",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/23/german-digital-minister-solution-needed-for-ai-energy-consumption",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/23/3782232.jpg",
-            "publishedAt": "2026-02-23T07:00:00Z"
-        },
-        {
-            "source": {
-                "id": "bff0cd3b8c64dceaada8841bea814f65",
-                "name": "The Telegraph",
-                "url": "https://www.telegraph.co.uk",
-                "country": "gb"
-            },
-            "title": "Ignore the doomsters: AI could be good for Britain",
-            "url": "https://www.telegraph.co.uk/business/2026/02/23/ignore-the-doomsters-ai-could-be-good-for-britain/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2026/02/22/TELEMMGLPICT000464760516_17717878903640_trans_NvBQzQNjv4BqUa2thMnvKQadTDM5oFKzfIBaZKwVQaCcGMe8NJ-Iq1g.jpeg?impolicy=OG-Comment",
-            "publishedAt": "2026-02-23T07:00:00Z"
         }
     ]
 }
