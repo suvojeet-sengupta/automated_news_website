@@ -1,6 +1,174 @@
 {
-    "lastUpdatedAt": "2026-02-24T23:27:25.227550Z",
+    "lastUpdatedAt": "2026-02-25T01:51:07.920072Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Policy bazooka could fend off jobless AI world",
+            "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-02-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/BKNCRT7YVBK2HFE7OEZHVIFRRE.jpg?auth=0ca03350d2593c3c6ef96300ee9d33630010b162d8d8d2ce5a10720d34fa0ea7&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-02-24T13:43:38Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Facebook owner Meta to buy AI chips from AMD in deal worth up to $100 billion",
+            "url": "https://wtop.com/social-media/2026/02/facebook-owner-meta-to-buy-ai-chips-from-amd-in-deal-worth-up-to-100-billion/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/02/Meta-AMD-Chips_60269-scaled.jpg",
+            "publishedAt": "2026-02-24T13:27:33Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Facebook owner Meta to buy AI chips from AMD in deal worth up to $100 billion",
+            "url": "https://apnews.com/article/amd-meta-ai-facebook-2ac7d0a302d291dbce8ed23b78722abd",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f192bb1/2147483647/strip/true/crop/5804x3867+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2Fcf%2Ff6ae72b4aab799f1f8af738ff73f%2Fc0d3d20ba7fb4604a1b268b7faa6a3de",
+            "publishedAt": "2026-02-24T13:25:16Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "Facebook owner Meta to buy AI chips from AMD in deal worth up to $100 billion",
+            "url": "https://www.barchart.com/story/news/387149/facebook-owner-meta-to-buy-ai-chips-from-amd-in-deal-worth-up-to-100-billion",
+            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/30f5cf5fb5f04874809c4875d0c93653/30f5cf5fb5f04874809c4875d0c93653_main_meta-amd-chips_60269.jpg",
+            "publishedAt": "2026-02-24T13:25:16Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Facebook owner Meta to buy AI chips from AMD in deal worth up to $100 billion",
+            "url": "https://www.clickondetroit.com/business/2026/02/24/facebook-owner-meta-to-buy-ai-chips-from-amd-in-deal-worth-up-to-100-billion/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/BT2HKCXKTZFWLBKT33TUFIRGTQ.jpg?_a=DATAg1fkZAA0",
+            "publishedAt": "2026-02-24T13:25:15Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Facebook Owner Meta to Buy AI Chips From AMD in Deal Worth up to $100 Billion",
+            "url": "https://www.usnews.com/news/business/articles/2026-02-24/facebook-owner-meta-to-buy-ai-chips-from-amd-in-deal-worth-up-to-100-billion",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/e28bc43/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fca%2F0431dfea1a1e936cb5a8766a4dcbb8%2Fc0d3d20ba7fb4604a1b268b7faa6a3deMeta-AMD-Chips_60269.jpg",
+            "publishedAt": "2026-02-24T13:25:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Trump eyes Pentagon AI program for trade block's minerals pricing, sources say",
+            "url": "https://www.marketscreener.com/news/trump-eyes-pentagon-ai-program-for-trade-block-s-minerals-pricing-sources-say-ce7e5cdada8bf52d",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-02/2026-02-24T131952Z_1_LYNXMPEM1N0OC_RTROPTP_4_USA-TRUMP-MINING-PRICING.JPG",
+            "publishedAt": "2026-02-24T13:22:00Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Meta Announces Major Chips-for-Stock Deal With AMD",
+            "url": "https://www.nytimes.com/2026/02/24/business/meta-amd-chips-ai.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/02/24/multimedia/24meta-amd-wjgq/24meta-amd-wjgq-facebookJumbo.jpg",
+            "publishedAt": "2026-02-24T13:20:57Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Exclusive: Trump eyes Pentagon AI program for trade block's minerals pricing, sources say",
+            "url": "https://www.reuters.com/world/us/trump-eyes-pentagon-ai-program-trade-blocks-minerals-pricing-sources-say-2026-02-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/KCQA5CAEXZNXHCZUTCL4GV6J44.jpg?auth=06e618955cdaff62b7c7e35d9fef0dcb0a65186487cb19bf8ced0aa82dd87da6&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-02-24T13:20:10Z"
+        },
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "Meta agrees $60bn deal with chipmaker AMD despite AI bubble fears",
+            "url": "https://www.theguardian.com/technology/2026/feb/24/meta-amd-deal-chipmaker-ai-bubble-facebook",
+            "urlToImage": "https://i.guim.co.uk/img/media/5e29c44cdb1c65ed2a5412d98e6e73f2e1c85d89/331_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eff7f4088034fc13e116cda66b63173c",
+            "publishedAt": "2026-02-24T13:18:32Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Cyber startup Cato Networks tops revenue milestone with AI boost: CEO",
+            "url": "https://www.cnbc.com/2026/02/24/cybersecurity-startup-cato-networks-revenue-ai.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108268740-1771875925787-gettyimages-2179388914-UK_TECH_SUMMIT.jpeg?v=1771875955&w=1920&h=1080",
+            "publishedAt": "2026-02-24T13:10:01Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "Feeling Unprepared For AI Age? LinkedIn Lists 5 Skill Stacks That Matter Now",
+            "url": "https://www.news18.com/business/economy/feeling-unprepared-for-ai-age-linkedin-lists-5-skill-stacks-that-matter-now-ws-l-9927404.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/02/feeling-unprepared-2026-02-675e23cf0812cbed1187982a36208afa-1200x675.jpg",
+            "publishedAt": "2026-02-24T12:25:24Z"
+        },
+        {
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+            },
+            "title": "Anthropic AI tool buzz: Are cybersecurity stocks next after IT rout? Analysts’ views amid global cues",
+            "url": "https://www.businesstoday.in/markets/stocks/story/anthropic-ai-tool-buzz-are-cybersecurity-stocks-next-after-it-rout-analysts-views-amid-global-cues-517775-2026-02-24",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202602/699d9204a8e8e-pic-ai-image-used-for-representational-purposes-only-245647128-16x9.jpeg",
+            "publishedAt": "2026-02-24T12:00:39Z"
+        },
+        {
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            },
+            "title": "Anthropic's new AI tool Claude Code Security's impact: TAC, Quick Heal, other Indian cybersecurity stocks fall up to 14%",
+            "url": "https://www.moneycontrol.com/news/business/markets/anthropic-s-new-ai-tool-claude-code-security-s-impact-tac-quick-heal-other-indian-cybersecurity-stocks-fall-up-to-14-13841532.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/02/20260213045750_sensexdown_niftydown.jpg",
+            "publishedAt": "2026-02-24T11:56:27Z"
+        },
         {
             "source": {
                 "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
@@ -3402,147 +3570,6 @@
             "url": "https://www.manilatimes.net/2026/02/23/tmt-newswire/media-outreach-newswire/keeper-security-expands-relationship-with-ingram-micro-to-broaden-availability-of-privileged-access-management-in-singapore/2282651",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/23/946671.jpg",
             "publishedAt": "2026-02-23T01:07:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Cybersecurity a national priority as AI pushes threat landscape, digital adoption, says Palo Alto’s Nicole Quinn",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cybersecurity-a-national-priority-as-ai-pushes-threat-landscape-digital-adoption-says-palo-altos-nicole-quinn/articleshow/128680965.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-58054,resizemode-75,msid-128680965/tech/artificial-intelligence/cybersecurity-a-national-priority-as-ai-pushes-threat-landscape-digital-adoption-says-palo-altos-nicole-quinn.jpg",
-            "publishedAt": "2026-02-23T00:30:00Z"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Youth jobless crisis as AI and rise in national insurance bite",
-            "url": "https://www.thetimes.com/business/economics/article/uk-youth-graduate-unemployment-crisis-ai-national-insurance-costs-zgv057xsj",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F108abc10-de7e-44e0-b747-c19417bb41a1.jpg?crop=3504%2C1971%2C0%2C183&resize=1200",
-            "publishedAt": "2026-02-23T00:01:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Could sleep engineering be used to combat PTSD and depression?",
-            "url": "https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.3003633",
-            "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003633.g001&size=inline",
-            "publishedAt": "2026-02-23T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "First-line risk stratification with machine learning models facilitates rapid triage for non-ST-elevation myocardial infarction",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001260",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001260.g004&size=inline",
-            "publishedAt": "2026-02-23T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Classification of knowledge of fertility period among adolescent girls in East Africa from 2012 to 2022: Machine learning algorithm",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001108",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001108.g011&size=inline",
-            "publishedAt": "2026-02-23T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Meta Stock Climbs Near $656 as Revenue Hits $59.89 Billion",
-            "url": "https://www.analyticsinsight.net/stocks/meta-stock-climbs-near-656-as-revenue-hits-5989-billion",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2026-02-23%2F3groli7n%2FMeta-Stock-Price-Analysi.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2026-02-23 23:30:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "The $650 Billion Wager: How Big Tech’s AI Infrastructure Blitz Is Redrawing the American Labor Map",
-            "url": "https://www.webpronews.com/the-650-billion-wager-how-big-techs-ai-infrastructure-blitz-is-redrawing-the-american-labor-map/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-10882-1771827433.jpeg",
-            "publishedAt": "2026-02-23 20:25:08"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "AI Giants Are Buying The World's Memory, And You're Getting The Bill",
-            "url": "https://www.benzinga.com/markets/tech/26/02/50796249/ai-giants-are-buying-the-worlds-memory-and-youre-getting-the-bill",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/02/23/SanDisk-Extreme-PRO-32-GB-Memory-Card.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2026-02-23 20:19:06"
-        },
-        {
-            "source": {
-                "name": "techrepublic"
-            },
-            "title": "7 AI Features in Windows 11 You Should Start Using in 2026",
-            "url": "https://www.techrepublic.com/article/news-7-windows-11-ai-features-2026/",
-            "urlToImage": "https://assets.techrepublic.com/uploads/2026/02/unnamed-4-270x203.png",
-            "publishedAt": "2026-02-23 19:14:33"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "ByteDance Quietly Builds an AI Army on American Soil, Even as TikTok’s Future Hangs in the Balance",
-            "url": "https://www.webpronews.com/bytedance-quietly-builds-an-ai-army-on-american-soil-even-as-tiktoks-future-hangs-in-the-balance/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-10874-1771826483.jpeg",
-            "publishedAt": "2026-02-23 19:00:10"
-        },
-        {
-            "source": {
-                "name": "platodata"
-            },
-            "title": "Hardware is the Center of the Universe (Again) – Semiwiki",
-            "url": "https://platodata.ai/w3ai/4787404/semiconductor/hardware-is-the-center-of-the-universe-again-semiwiki/",
-            "urlToImage": "https://platodata.ai/wp-content/uploads/2026/02/hardware-is-the-center-of-the-universe-again-semiwiki.jpg",
-            "publishedAt": "2026-02-23 18:00:13"
-        },
-        {
-            "source": {
-                "name": "cornelledu"
-            },
-            "title": "Ph.D. student Deepak Varuvel Dennison writes about the threat of GenAI to local knowledge in The Guardian",
-            "url": "https://www.theguardian.com/news/2025/nov/18/what-ai-doesnt-know-global-knowledge-collapse",
-            "urlToImage": "https://i.guim.co.uk/img/media/e3457e58af634771289aa65483a8e2a79d35d540/585_0_5999_4799/master/5999.jpg?auto=format&enable=upscale&fit=crop&height=630&overlay-align=bottom%2Cleft&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&overlay-width=100p&precrop=40%3A21%2Coffset-x50%2Coffset-y0&quality=85&s=1f4e4d10d9e4d265875ba2affa9d5768&width=1200",
-            "publishedAt": "2026-02-23 17:13:45"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Morgan Stanley hails rare ‘reindustrialization renaissance’ of AI economy—but it’s better for computers than humans",
-            "url": "https://fortune.com/2026/02/23/morgan-stanley-genai-capex-rare-reindustrialization-renaissance-better-machines-than-humans/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261788603-e1771865460388.jpg?w=2048",
-            "publishedAt": "2026-02-23 17:03:58"
-        },
-        {
-            "source": {
-                "name": "abiresearch"
-            },
-            "title": "Where Is AI Data Center Demand Growth Being Driven?",
-            "url": "https://www.abiresearch.com/blog/ai-data-center-demand-growth",
-            "urlToImage": "https://www.abiresearch.com/hubfs/AI-Generated%20Media/Images/The%20image%20features%20a%20modern%20data%20center%20with%20AI%20servers%20being%20seen%20in%20use%20epitomizing%20the%20idea%20that%20AI%20workloads%20are%20increasing%20substanitally%20impactin-1.png",
-            "publishedAt": "2026-02-23 16:33:31"
         }
     ]
 }
