@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2026-02-28T12:36:53.400143Z",
+    "lastUpdatedAt": "2026-02-28T13:33:31.095457Z",
     "articles": [
+        {
+            "source": {
+                "id": "03f4f74aaa0a44ccbb846a1630123293",
+                "name": "Crypto Breaking News",
+                "url": "https://www.cryptobreaking.com",
+                "country": "ae"
+            },
+            "title": "Crypto VC Paradigm Expands into AI, Robotics with $1.5B Fund (WSJ)",
+            "url": "https://www.cryptobreaking.com/crypto-vc-paradigm-expands-into/",
+            "urlToImage": "https://www.cryptobreaking.com/wp-content/uploads/2026/02/dalle_69a245cf6bc220.89200102.jpg",
+            "publishedAt": "2026-02-28T01:33:16Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "CrowdStrike: Better Bargains Elsewhere In Cybersecurity (Downgrade)",
+            "url": "https://seekingalpha.com/article/4876641-crowdstrike-better-bargains-elsewhere-in-cybersecurity-downgrade",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1255728449/image_1255728449.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-02-28T01:32:07Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "AI is no longer a technology story. It's an evolving human story",
+            "url": "https://www.indiatoday.in/jobs/story/artificial-intelligence-is-no-longer-a-technology-story-it-is-an-evolving-human-story-jobs-what-happens-next-2875702-2026-02-28",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/artificial-intelligence-vs-humans-271549451-16x9_0.jpg?VersionId=wZARWybt_ZonOq7BzWQsltMRQAJHtCJj",
+            "publishedAt": "2026-02-28T01:30:00Z"
+        },
+        {
+            "source": {
+                "id": "d189a400ff1a62abfa361ca86e0f7142",
+                "name": "Simple Flying",
+                "url": "https://simpleflying.com",
+                "country": "us"
+            },
+            "title": "Here’s How The F-35 Can Quickly Identify Unknown Contacts",
+            "url": "https://simpleflying.com/f-35-quickly-idenity-unknown-contacts/",
+            "urlToImage": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/unkopwn.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-02-28T01:00:17Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Study: People are overconfident they can tell AI-made faces from real",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/28/study-people-are-overconfident-they-can-tell-ai-made-faces-from-real",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/25/3786379.jpeg",
+            "publishedAt": "2026-02-28T01:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "\"We Don't Need It\": Trump Orders Federal Agencies To Halt Use Of Anthropic",
+            "url": "https://www.ndtv.com/world-news/we-dont-need-it-donald-trump-orders-federal-agencies-to-halt-use-of-anthropic-technology-ceo-dario-amodei-11147678",
+            "urlToImage": "https://c.ndtvimg.com/2026-02/gdtqqof_trump-amodei-_625x300_28_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2026-02-28T00:59:02Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Growing reliance on AI: Creative sector at crossroads over originality",
+            "url": "https://timesofindia.indiatimes.com/city/bengaluru/growing-reliance-on-ai-creative-sector-at-crossroads-over-originality/articleshow/128864918.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-117518782,width-1280,height-720,imgsize-94950,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-28T00:48:00Z"
+        },
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "Trump directs U.S. agencies to toss Anthropic's AI as Pentagon calls startup a supply risk",
+            "url": "https://www.japantimes.co.jp/business/2026/02/28/tech/trump-anthropic-supply-risk-pentagon/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/28/526180.jpg?v=3.1",
+            "publishedAt": "2026-02-28T00:47:50Z"
+        },
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "Trump directs U.S. agencies to toss Anthropic's AI as Pentagon calls startup a supply risk",
+            "url": "https://www.japantimes.co.jp/business/2026/02/28/tech/trump-anthropic-supply-risk/",
+            "urlToImage": "https://www.japantimes.co.jp/theme_japantimes/images/no-image.png",
+            "publishedAt": "2026-02-28T00:47:50Z"
+        },
         {
             "source": {
                 "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
@@ -120,6 +228,15 @@
             "url": "https://www.cbsnews.com/news/hegseth-declares-anthropic-supply-chain-risk/",
             "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/28/480242ac-242a-4a8c-9fe8-6efc572b5c34/thumbnail/1200x630/5879c5373ca1813763998c67ff70bdb4/gettyimages-2252462199.jpg",
             "publishedAt": "2026-02-28T00:03:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Meta and Google Sign Multi-Billion Dollar AI Chip Partnership",
+            "url": "https://www.analyticsinsight.net/news/meta-and-google-sign-multi-billion-dollar-ai-chip-partnership",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2026-02-27%2Fnbkx6ros%2FMeta-signs-multibillion-dollar-AI-chip-deal-with-Google.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2026-02-28 01:00:00"
         },
         {
             "source": {
@@ -3366,126 +3483,6 @@
             "url": "https://siliconangle.com/2026/02/26/cybersecurity-data-science-new-security-frontier-vastforward/",
             "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/download-2-e1772128142521.png",
             "publishedAt": "2026-02-26T18:22:56Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Anthropic CEO says AI company 'cannot in good conscience accede' to Pentagon's demands",
-            "url": "https://www.breitbart.com/news/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagons-demands/",
-            "urlToImage": "https://media.breitbart.com/media/2026/02/wi/ap/openai-anthropic-rivalry-16169-openai-anthropic-rivalry-dario-amodei-ceo-founder-of-anthropic-640x335.jpg",
-            "publishedAt": "2026-02-26T18:11:53Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "India-Israel forge stronger defence ties as countries decide to elevate ties to special strategic partnership",
-            "url": "https://www.devdiscourse.com/article/international/3819271-india-israel-forge-stronger-defence-ties-as-countries-decide-to-elevate-ties-to-special-strategic-partnership",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_02_2026_23_40_19_9543124.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-02-26T18:10:29Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Israel forge stronger defence ties as countries decide to elevate ties to special strategic partnership",
-            "url": "https://www.tribuneindia.com/news/world/india-israel-forge-stronger-defence-ties-as-countries-decide-to-elevate-ties-to-special-strategic-partnership/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY4NmM2M2IwLTEzM2UtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-            "publishedAt": "2026-02-26T18:10:12Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Google Gemini, ChatGPT and Claude were tested against each other in a simulated nuclear war game, here's what happened next",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-gemini-chatgpt-and-claude-were-tested-against-each-other-in-a-simulated-nuclear-war-game-heres-what-happened-next/articleshow/128821995.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128822001,width-1280,height-720,imgsize-159608,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-26T17:40:00Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "What the polls say about how Americans are using AI",
-            "url": "https://www.nbcnews.com/politics/politics-news/polls-say-americans-are-using-ai-more-work-personal-rcna260422",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260224-office-stock-ch-1135-7eeeb1.jpg",
-            "publishedAt": "2026-02-26T17:37:38Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Threat to large IT firms 'overblown', Cognizant's AI chief says amid Anthropic-driven disruption",
-            "url": "https://www.marketscreener.com/news/threat-to-large-it-firms-overblown-cognizant-s-ai-chief-says-amid-anthropic-driven-disruption-ce7e5cd9dc8ef023",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-02-26T17:37:25Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Burger King to bring AI-based voice coach to Canada",
-            "url": "https://www.cp24.com/news/canada/2026/02/26/burger-king-to-bring-ai-based-voice-coach-to-canada-later-this-year/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/GX57SI5XWYRR7RZFKXU7HESTLY.jpg?smart=true&auth=95228d4e3d18352622b582bd9f45f193cf5109b4ba69d367dd6a884709502ee5&width=1200&height=630",
-            "publishedAt": "2026-02-26T17:36:28Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Burger King to bring AI-based voice coach to Canada",
-            "url": "https://www.bnnbloomberg.ca/business/2026/02/26/burger-king-to-bring-ai-based-voice-coach-to-canada-later-this-year/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/GX57SI5XWYRR7RZFKXU7HESTLY.jpg?smart=true&auth=95228d4e3d18352622b582bd9f45f193cf5109b4ba69d367dd6a884709502ee5&width=1200&height=630",
-            "publishedAt": "2026-02-26T17:36:28Z"
-        },
-        {
-            "source": {
-                "id": "840efb5642a2fd3ae6da920bb4981626",
-                "name": "Santa Ana Orange County Register",
-                "url": "https://www.ocregister.com",
-                "country": "us"
-            },
-            "title": "What to know about Defense Protection Act, Anthropic ultimatum",
-            "url": "https://www.ocregister.com/2026/02/26/what-to-know-anthropic-ultimatum/",
-            "urlToImage": "https://www.ocregister.com/wp-content/uploads/2026/02/OpenAI-Anthropic-Rivalry_16169_d7cd26-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-02-26T17:28:52Z"
-        },
-        {
-            "source": {
-                "id": "d9acc08d8066fc3620da5e6b20b406ad",
-                "name": "Boulder Daily Camera",
-                "url": "https://www.dailycamera.com",
-                "country": "us"
-            },
-            "title": "What to know about Defense Protection Act, Anthropic ultimatum",
-            "url": "https://www.dailycamera.com/2026/02/26/what-to-know-anthropic-ultimatum/",
-            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2026/02/OpenAI-Anthropic-Rivalry_16169_d7cd26-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-02-26T17:28:52Z"
         }
     ]
 }
