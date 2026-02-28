@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-02-28T07:22:52.830480Z",
+    "lastUpdatedAt": "2026-02-28T08:23:29.250425Z",
     "articles": [
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "Eby credits OpenAI for coming clean after mass killings in Tumbler Ridge, B.C.",
+            "url": "https://www.baytoday.ca/national-news/eby-credits-openai-for-coming-clean-after-mass-killings-in-tumbler-ridge-bc-11937690",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/02/f189f62ec30fbc04e94121c1df7ba3aa647605e133378b9a243ff182e0503c5a.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-02-27T20:17:50Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "Eby credits OpenAI for coming clean after mass killings in Tumbler Ridge, B.C.",
+            "url": "https://www.sootoday.com/national-news/eby-credits-openai-for-coming-clean-after-mass-killings-in-tumbler-ridge-bc-11937690",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/02/f189f62ec30fbc04e94121c1df7ba3aa647605e133378b9a243ff182e0503c5a.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-02-27T20:17:50Z"
+        },
+        {
+            "source": {
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
+                "country": "in"
+            },
+            "title": "IIT Delhi Opens Admissions for Third Batch of Certificate Programme in Applied Data Science and Artificial Intelligence",
+            "url": "https://www.newsx.com/business-news/iit-delhi-opens-admissions-for-third-batch-of-certificate-programme-in-applied-data-science-and-artificial-intelligence-2-174442/",
+            "urlToImage": "https://www.newsx.com/wp-content/uploads/2026/02/IIT-Delhi-Opens-Admissions-for-Third-Batch-of-Certificate-Programme.avif",
+            "publishedAt": "2026-02-27T19:57:07Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Data doctors: Watch out for the latest tech tax scams",
+            "url": "https://wtop.com/tech/2026/02/data-doctors-watch-out-for-the-latest-tech-tax-scams/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/01/Financial_Wellness_Tax_Refunds_18293-scaled-e1772219114697.jpg",
+            "publishedAt": "2026-02-27T19:44:36Z"
+        },
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "Trump orders U.S. agencies to stop using Anthropic technology in clash over AI safety",
+            "url": "https://triblive.com/news/world/trump-orders-u-s-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety/",
+            "urlToImage": "https://assets-varnish.triblive.com/2026/02/9343363_web1_9343363-1e82b5de757e411abcdb85a499d8170a.jpg",
+            "publishedAt": "2026-02-27T19:40:36Z"
+        },
+        {
+            "source": {
+                "id": "31177620c1e6e610b5d2b67916ed3615",
+                "name": "PBS News",
+                "url": "https://www.pbs.org",
+                "country": "us"
+            },
+            "title": "AI is key driver behind layoffs at fintech company Block, CEO says",
+            "url": "https://www.pbs.org/newshour/economy/ai-is-key-driver-behind-layoffs-at-fintech-company-block-ceo-says",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/02/AP26058200752458-1024x683.jpg",
+            "publishedAt": "2026-02-27T19:25:38Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -1947,6 +2019,15 @@
         },
         {
             "source": {
+                "name": "forbes"
+            },
+            "title": "AI Is The 21st Century Force Multiplier",
+            "url": "https://www.forbes.com/sites/chuckbrooks/2026/02/27/ai-is-the-21st-century-force-multiplier/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69a1f467b7a0e5c680df41b2/0x0.jpg",
+            "publishedAt": "2026-02-27 19:58:34"
+        },
+        {
+            "source": {
                 "name": "engadget"
             },
             "title": "OpenAI secures another $110 billion in funding from Amazon, NVIDIA and SoftBank",
@@ -3414,90 +3495,6 @@
             "url": "https://www.bloomberg.com/news/articles/2026-02-26/ai-stock-swings-show-split-among-europe-s-analysts-and-investors",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDwgIVc9DoGg/v0/1200x636.jpg",
             "publishedAt": "2026-02-26T10:46:10Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Youth Struggles: Unemployment Crisis Among British NEETs",
-            "url": "https://www.devdiscourse.com/article/education/3818501-youth-struggles-unemployment-crisis-among-british-neets",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/01_08_2025_10_37_09_0464295.png?width=920&format=jpeg",
-            "publishedAt": "2026-02-26T10:45:59Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Samsung plans to take AI to entry-price smartphones, expand portfolio of Galaxy A series in India",
-            "url": "https://www.dailyexcelsior.com/samsung-plans-to-take-ai-to-entry-price-smartphones-expand-portfolio-of-galaxy-a-series-in-india/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/AI-11.jpg",
-            "publishedAt": "2026-02-26T10:44:15Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Threat to large IT firms 'overblown', Cognizant's AI chief says amid Anthropic-driven disruption",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/26/threat-to-large-it-firms-039overblown039-cognizant039s-ai-chief-says-amid-anthropic-driven-disruption",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/26/3789045.jpg",
-            "publishedAt": "2026-02-26T10:42:00Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Chipmaker Nvidia's earnings ease concerns",
-            "url": "https://www.cp24.com/news/money/2026/02/26/world-shares-are-mixed-and-us-futures-slip-after-nvidia-earnings-beat-expectations/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/OBHVWJYD2BIQSGSTMYIF6FNY6U.jpg?smart=true&auth=e72a9ecab78eec274269692b297560478a586167c2c5923a5e6970306717014f&width=1200&height=630",
-            "publishedAt": "2026-02-26T10:35:33Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Chipmaker Nvidia's earnings ease concerns",
-            "url": "https://www.bnnbloomberg.ca/markets/2026/02/26/world-shares-are-mixed-and-us-futures-slip-after-nvidia-earnings-beat-expectations/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/OBHVWJYD2BIQSGSTMYIF6FNY6U.jpg?smart=true&auth=e72a9ecab78eec274269692b297560478a586167c2c5923a5e6970306717014f&width=1200&height=630",
-            "publishedAt": "2026-02-26T10:35:33Z"
-        },
-        {
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Lowe's CEO Says Mylow AI Assistant Is Fixing Major Headaches",
-            "url": "https://www.businessinsider.com/lowes-ceo-says-mylow-ai-assistant-is-fixing-major-headaches-2026-2",
-            "urlToImage": "https://i.insider.com/699f3f1ae8408f667180402c?width=1200&format=jpeg",
-            "publishedAt": "2026-02-26T10:33:01Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Samsung plans to take AI to entry-price smartphones, expand portfolio of Galaxy A series in India",
-            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/samsung-plans-to-take-ai-to-entry-price-smartphones-expand-portfolio-of-galaxy-a-series-in-india/articleshow/128810423.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128810572,width-1200,height-630,imgsize-84238,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-02-26T10:33:00Z"
         }
     ]
 }
