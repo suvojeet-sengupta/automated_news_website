@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-02-28T13:33:31.095457Z",
+    "lastUpdatedAt": "2026-02-28T14:17:52.929256Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Pope Leo Says AI Cannot Share Faith in the Pulpit",
+            "url": "https://www.newsmax.com/newsfront/pope-leo-artificial-intelligence-rome/2026/02/27/id/1247722/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=ce0b907f-a05f-492e-8ea2-2843b63b1314&SiteName=Newsmax",
+            "publishedAt": "2026-02-28T02:04:30Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Anthropic: Will Fight Pentagon's Supply Risk Label",
+            "url": "https://www.newsmax.com/finance/streettalk/anthropic-pentagon-ai/2026/02/27/id/1247721/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=32c8e2c4-b806-401a-8c44-1b3cc3360794&SiteName=Newsmax",
+            "publishedAt": "2026-02-28T02:03:06Z"
+        },
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "Trump halts federal use of Anthropic's technology in dispute over AI safety",
+            "url": "https://www.business-standard.com/world-news/trump-halts-federal-use-of-anthropic-s-technology-in-dispute-over-ai-safety-126022800081_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/21/thumb/fitandfill/1200X630/1771615079-1691.jpg",
+            "publishedAt": "2026-02-28T02:00:12Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Most AI chatbots have murky safety provisions, researchers find",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/28/most-ai-chatbots-have-murky-safety-provisions-researchers-find",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/25/3786408.jpeg",
+            "publishedAt": "2026-02-28T02:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "No IIT, no IIM: Why your course may matter more in 2026",
+            "url": "https://www.indiatoday.in/education-today/featurephilia/story/no-iit-no-iim-why-your-course-may-matter-more-in-2026-2875312-2026-02-28",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/iitiim-vs-specialised-courses-what-should-students-choose-in-2026-27420663-16x9_0.jpg?VersionId=AS2TJUhh5IFQPUvWwhbCqcSrzDEeAjhr",
+            "publishedAt": "2026-02-28T02:00:00Z"
+        },
+        {
+            "source": {
+                "id": "e3cad7a35669a0f5933fa172f5aa2e41",
+                "name": "Albuquerque Journal",
+                "url": "https://www.abqjournal.com",
+                "country": "us"
+            },
+            "title": "Quantum computing will solve real-world problems within a decade",
+            "url": "https://www.abqjournal.com/business/quantum-will-be-scalable-to-real-problems-within-a-decade-says-sandia-director/2991005",
+            "urlToImage": "https://image.abqjournal.com/2957552.jpg?imageId=2957552&x=0&y=0&cropw=100&croph=71.67&panox=0&panoy=0&panow=100&panoh=71.67&width=1200&height=683",
+            "publishedAt": "2026-02-28T01:58:09Z"
+        },
+        {
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            },
+            "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety",
+            "url": "https://www.ajc.com/news/2026/02/trump-orders-us-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/RDLXLB7TBBE43LF5K63HR6VVKA.jpg?auth=b01653d9c5037c3cabfc4024a9000058d801c2c425ce80b587eab5738df1e295&width=1200&height=630&smart=true",
+            "publishedAt": "2026-02-28T01:51:31Z"
+        },
+        {
+            "source": {
+                "id": "6536182115f7e8188f38d864bab0e1c6",
+                "name": "DAWN.com",
+                "url": "https://www.dawn.com",
+                "country": "pk"
+            },
+            "title": "Anthropic refuses to allow Pentagon unrestricted use of artificial intelligence",
+            "url": "https://www.dawn.com/news/1976334/anthropic-refuses-to-allow-pentagon-unrestricted-use-of-artificial-intelligence",
+            "urlToImage": "https://i.dawn.com/large/2026/02/2809440377e3ac7.webp",
+            "publishedAt": "2026-02-28T01:41:45Z"
+        },
         {
             "source": {
                 "id": "03f4f74aaa0a44ccbb846a1630123293",
@@ -3387,102 +3483,6 @@
             "url": "https://www.twincities.com/2026/02/26/anthropic-ai-military-pentagon/",
             "urlToImage": "https://www.twincities.com/wp-content/uploads/2026/02/Anthropic_04555_d9bf45-1.jpg?w=1024&h=683",
             "publishedAt": "2026-02-26T19:37:41Z"
-        },
-        {
-            "source": {
-                "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
-                "name": "Norfolk Virginian-Pilot",
-                "url": "https://www.pilotonline.com",
-                "country": "us"
-            },
-            "title": "Military would only use Anthropic's AI in legal ways, Pentagon says",
-            "url": "https://www.pilotonline.com/2026/02/26/anthropic-ai-military-pentagon/",
-            "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2026/02/Anthropic_04555_d9bf45-1.jpg?w=1024&h=683",
-            "publishedAt": "2026-02-26T19:37:41Z"
-        },
-        {
-            "source": {
-                "id": "8fac888ae06647c3a7d6093c60c9d9b5",
-                "name": "San Diego Union-Tribune",
-                "url": "https://www.sandiegouniontribune.com",
-                "country": "us"
-            },
-            "title": "Military would only use Anthropic's AI in legal ways, Pentagon says",
-            "url": "https://www.sandiegouniontribune.com/2026/02/26/anthropic-ai-military-pentagon/",
-            "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/02/Anthropic_04555_d9bf45-1.jpg?w=1024&h=683",
-            "publishedAt": "2026-02-26T19:37:41Z"
-        },
-        {
-            "source": {
-                "id": "d4773b92da0613b8ffc2fc9c46229534",
-                "name": "Business Wire",
-                "url": "https://www.businesswire.com",
-                "country": "us"
-            },
-            "title": "Proofpoint Collaboration Security Integrates with New Extended Plan for AWS Security Hub",
-            "url": "https://www.businesswire.com/news/home/20260226485798/en/Proofpoint-Collaboration-Security-Integrates-with-New-Extended-Plan-for-AWS-Security-Hub",
-            "urlToImage": "https://mms.businesswire.com/media/20260226485798/en/2095405/22/512px-Proofpoint-vector-logo.svg.jpg",
-            "publishedAt": "2026-02-26T19:28:00Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "America 250: Great Seal of the United States and authentication",
-            "url": "https://wtop.com/250-years-of-america/2026/02/america-250-great-seal-of-the-united-states-and-authentication/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/02/GREAT-SEAL-US.jpg",
-            "publishedAt": "2026-02-26T19:16:53Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Corporate Treasuries Are Slow to Adopt AI, Survey Finds",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-26/corporate-treasuries-are-slow-to-adopt-ai-survey-finds",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9gUa8h4rd.0/v1/1200x773.jpg",
-            "publishedAt": "2026-02-26T18:41:04Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "Anthropic CEO says AI company ‘cannot in good conscience accede’ to Pentagon’s demands",
-            "url": "https://triblive.com/news/world/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagons-demands/",
-            "urlToImage": "https://assets-varnish.triblive.com/2026/02/9339610_web1_9339610-7c75d996f5d14187afe9469c24ebafcc.jpg",
-            "publishedAt": "2026-02-26T18:37:46Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "DeSantis Breaks With Trump on AI Policy",
-            "url": "https://www.newsmax.com/newsfront/rondesantis-ai-regulation/2026/02/26/id/1247546/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=da9254df-5088-4466-8b1c-d4a9f0946af7&SiteName=Newsmax",
-            "publishedAt": "2026-02-26T18:30:54Z"
-        },
-        {
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
-                "country": "us"
-            },
-            "title": "Why cybersecurity data science is the new security frontier",
-            "url": "https://siliconangle.com/2026/02/26/cybersecurity-data-science-new-security-frontier-vastforward/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/download-2-e1772128142521.png",
-            "publishedAt": "2026-02-26T18:22:56Z"
         }
     ]
 }
