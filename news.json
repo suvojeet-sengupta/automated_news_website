@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-02-28T20:20:21.958596Z",
+    "lastUpdatedAt": "2026-02-28T21:16:42.113979Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Morgan Stanley predicts AI to replace tasks not workers",
+            "url": "https://www.thenews.com.pk/latest/1394096-morgan-stanley-predicts-ai-to-replace-tasks-not-workers",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-02-28/1394096_022203_updates.jpg",
+            "publishedAt": "2026-02-28T09:15:02Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "String Metaverse Ltd appoints former Capital One tech leader Sai Kotha Venkata as Technical Advisor; launches global AI agent infrastructure",
+            "url": "https://www.tribuneindia.com/news/business/string-metaverse-ltd-appoints-former-capital-one-tech-leader-sai-kotha-venkata-as-technical-advisor-launches-global-ai-agent-infrastructure/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTYyNDk4ZmIwLTE0ODUtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
+            "publishedAt": "2026-02-28T09:10:48Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Lions Calcutta Greater Vidya Mandir Pioneers AI",
+            "url": "https://www.tribuneindia.com/news/business/lions-calcutta-greater-vidya-mandir-pioneers-ai-integrated-education-to-shape-future-ready-global-leaders/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTUzNTRmYTgwLTE0ODUtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
+            "publishedAt": "2026-02-28T09:10:21Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Police welcome installation of AI CCTV at Pan Borneo Highway",
+            "url": "https://www.thestar.com.my/news/nation/2026/02/28/police-welcome-installation-of-ai-cctv-at-pan-borneo-highway",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/28/3791696.jpg",
+            "publishedAt": "2026-02-28T09:05:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "ChatGPT records strongest subscriber growth as number of weekly users nears a billion",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/chatgpt-records-strongest-subscriber-growth-as-number-of-weekly-users-nears-a-billion-10557308/",
+            "urlToImage": "https://images.indianexpress.com/2026/01/IE-2026-01-17T094013.875.jpg",
+            "publishedAt": "2026-02-28T08:59:48Z"
+        },
+        {
+            "source": {
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
+                "country": "us"
+            },
+            "title": "OpenAI signs Pentagon AI deal after Trump orders Anthropic ban",
+            "url": "https://thenextweb.com/news/openai-signs-pentagon-ai-deal-after-trump-orders-anthropic-ban",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FTNW-wallpaper-1.png&signature=baeea06e23adc87045b02c6d2bf43440",
+            "publishedAt": "2026-02-28T08:57:33Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "SIM-Binding Rule Set To Change How WhatsApp, Telegram Work In India From March 1",
+            "url": "https://www.ndtv.com/india-news/sim-binding-rule-set-to-change-how-whatsapp-telegram-work-in-india-from-march-1-11148903",
+            "urlToImage": "https://c.ndtvimg.com/2026-02/pto3j82o_messaging-apps_625x300_28_February_26.jpeg",
+            "publishedAt": "2026-02-28T08:44:12Z"
+        },
         {
             "source": {
                 "id": "f2ddccedc9e60d844e7a1045928cad48",
@@ -3399,81 +3483,6 @@
             "url": "https://www.mtdemocrat.com/news/national/tech-sovereignty-push-to-meet-ai-fever-at-mobile-world-congress/article_6d41f1e5-7707-5a8c-8f50-a7ae61416a29.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtdemocrat.com/content/tncms/assets/v3/editorial/b/15/b15b6c0d-7ba7-5885-899c-f5c370e83110/69a10caf78154.image.jpg?resize=300%2C200",
             "publishedAt": "2026-02-27 03:01:22"
-        },
-        {
-            "source": {
-                "name": "emporiagazette"
-            },
-            "title": "Tech sovereignty push to meet AI fever at Mobile World Congress",
-            "url": "https://www.emporiagazette.com/news/national/article_e8f1d3b9-8340-5450-a8f3-1a398156cb2c.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/assets/v3/editorial/9/14/914b01f6-19e5-57e7-8822-e7bae4e281ee/69a10c81db31d.image.jpg?resize=400%2C266",
-            "publishedAt": "2026-02-27 03:01:22"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Enterprise AI’s Illusion Of Progress: Coordination Theater",
-            "url": "https://www.forbes.com/sites/jasonsnyder/2026/02/26/enterprise-ais-illusion-of-progress-coordination-theater/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69a02b6a86a2b858af8bcd02/0x0.jpg",
-            "publishedAt": "2026-02-27 00:17:04"
-        },
-        {
-            "source": {
-                "name": "businessworld"
-            },
-            "title": "Citi Says AI Boom, Trade Rewiring Bolster Resilience",
-            "url": "https://www.businessworld.in/article/citi-says-ai-boom-trade-rewiring-bolster-resilience-595447",
-            "urlToImage": "https://static.businessworld.in/foreign%20trade_20250104122033_original_image_17.webp",
-            "publishedAt": "2026-02-27 00:00:00"
-        },
-        {
-            "source": {
-                "id": "c9db5acf558cb3805c540ea4298687bc",
-                "name": "Shaw Local Enewspapers",
-                "url": "https://www.shawlocal.com",
-                "country": "us"
-            },
-            "title": "Anthropic CEO says AI company 'cannot in good conscience accede' to Pentagon's demands to allow wider use of its tech",
-            "url": "https://www.shawlocal.com/news/2026/02/26/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagons-demands-to-allow-wider-use-of-its-tech/",
-            "urlToImage": "https://www.shawlocal.com/resizer/v2/H7RQ5ONMWBCC5OXXXXCXJ2U2RQ.jpg?auth=5c1770008d950c821c53dac0c841f0042a77cad7a3ca5320ce8970d0aaac045e&width=1200&height=801",
-            "publishedAt": "2026-02-26T23:20:14Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Tumbler Ridge shooter had second ChatGPT account after ban",
-            "url": "https://www.cp24.com/news/canada/2026/02/26/tumbler-ridge-shooter-had-second-chatgpt-account-after-ban-openai/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/7BKHTRK5BBXDMEPGEROPPGN6WM.jpg?smart=true&auth=3f8ada2dd4ffcac8abc6fd5748141794d8ac8da62c707afa274a5453f7230c5b&width=1200&height=630",
-            "publishedAt": "2026-02-26T23:14:52Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "OpenAI says Tumbler Ridge shooter evaded ban with second ChatGPT account",
-            "url": "https://www.sootoday.com/national-news/openai-says-tumbler-ridge-shooter-evaded-ban-with-second-chatgpt-account-11932996",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/02/0b0c85eb37e90d6e6cbf8f9eb6fa8ca43e9c44da2b3eb6574089fdc26bce5fdc.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-02-26T23:11:29Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "OpenAI says Tumbler Ridge shooter evaded ban with second ChatGPT account",
-            "url": "https://www.baytoday.ca/national-news/openai-says-tumbler-ridge-shooter-evaded-ban-with-second-chatgpt-account-11932996",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/02/0b0c85eb37e90d6e6cbf8f9eb6fa8ca43e9c44da2b3eb6574089fdc26bce5fdc.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-02-26T23:11:29Z"
         }
     ]
 }
