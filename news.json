@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-02-28T04:51:45.292897Z",
+    "lastUpdatedAt": "2026-02-28T05:30:11.862145Z",
     "articles": [
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Anthropic faces deadline on deal for Pentagon to use AI model",
+            "url": "https://www.upi.com/Top_News/US/2026/02/27/anthropic-deadline-pentagon/7491772211922/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/7491772211922/2026/1/41117a08496dd77c97531ecd18acd979/v1.5/Anthropic-faces-deadline-on-deal-for-Pentagon-to-use-AI-model.jpg",
+            "publishedAt": "2026-02-27T17:25:00Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Pentagon Standoff Is a Decisive Moment for How A.I. Will Be Used in War",
+            "url": "https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/02/27/multimedia/27biz-ai-military-pentagon-fthp/27biz-ai-military-pentagon-fthp-facebookJumbo.jpg",
+            "publishedAt": "2026-02-27T17:23:58Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Sribhumi man accused of using AI to make morphed video, held",
+            "url": "https://timesofindia.indiatimes.com/city/guwahati/man-uses-ai-to-make-morphed-video-held/articleshow/128860476.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-128860476,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-27T17:20:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "The Cold War Era Law at the Center of Hegseth’s Anthropic Threat",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-27/the-cold-war-era-law-at-the-center-of-hegseth-s-anthropic-threat",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia6nR3HsuXnc/v1/1200x800.jpg",
+            "publishedAt": "2026-02-27T17:05:18Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Jack Dorsey’s Block slashes nearly half its staff in AI bet",
+            "url": "https://www.mercurynews.com/2026/02/27/block-slashes-half-staff-layoffs-jack-dorsey/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/02/US-Block-Layoffs_52458-1.jpg?w=1024&h=683",
+            "publishedAt": "2026-02-27T16:57:08Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -1743,6 +1803,15 @@
         },
         {
             "source": {
+                "name": "engadget"
+            },
+            "title": "OpenAI secures another $110 billion in funding from Amazon, NVIDIA and SoftBank",
+            "url": "https://www.engadget.com/ai/openai-secures-another-110-billion-in-funding-from-amazon-nvidia-and-softbank-171006356.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2Fff25ff90-13fd-11f1-be77-5f26c30e9aa2&resize=1400%2C908&signature=fa744b820352cbe73632c78ae268bced738cc063",
+            "publishedAt": "2026-02-27 17:10:07"
+        },
+        {
+            "source": {
                 "name": "siliconangle"
             },
             "title": "As OpenAI raises its megaround, Anthropic’s battles multiply, and the SaaSpocalypse widens — but Dell cashes in",
@@ -3429,78 +3498,6 @@
             "url": "https://www.rte.ie/news/business/2026/0226/1560527-ecb-sees-no-wave-of-ai-led-layoffs-yet-lagarde-says/",
             "urlToImage": "https://www.rte.ie/images/002242ee-1600.jpg",
             "publishedAt": "2026-02-26T09:18:22Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Singapore's Grab bets on AI, new services to triple profit by 2028",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/26/singapore039s-grab-bets-on-ai-new-services-to-triple-profit-by-2028",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/26/3788878.jpg",
-            "publishedAt": "2026-02-26T09:13:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "ECB sees no wave of AI-led layoffs yet, Lagarde says",
-            "url": "https://www.marketscreener.com/news/ecb-sees-no-wave-of-ai-led-layoffs-yet-lagarde-says-ce7e5cd8de8cf226",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-02-26T09:10:04Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI Boosts Productivity Without Triggering Job Cuts in Eurozone",
-            "url": "https://www.devdiscourse.com/article/politics/3818347-ai-boosts-productivity-without-triggering-job-cuts-in-eurozone",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/18_09_2025_14_47_08_8583125.png?width=920&format=jpeg",
-            "publishedAt": "2026-02-26T09:08:25Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "ECB sees no wave of AI-led layoffs yet, Lagarde says",
-            "url": "https://www.reuters.com/business/ecb-sees-no-wave-ai-led-layoffs-yet-lagarde-says-2026-02-26/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/FAB4GH2M6VNPVO7RQUH4ST2ZPU.jpg?auth=36940ced40b56818ae4ead912fa2586e7389cfc032f6d3188389d2906386f1e3&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-02-26T09:08:22Z"
-        },
-        {
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
-                "country": "in"
-            },
-            "title": "IEEE ISAC3 2025 Highlights Practical AI Advances in Cybersecurity and Cloud Computing",
-            "url": "https://www.deccanchronicle.com/technology/in-other-news/ieee-isac3-2025-highlights-practical-ai-advances-in-cybersecurity-and-cloud-computing-1940049",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/02/26/2015535-whatsapp-image-2026-02-26-at-94211-pm-1.jpg",
-            "publishedAt": "2026-02-26T09:05:18Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Australia union seeks urgent talks with WiseTech over AI‑driven job cuts",
-            "url": "https://economictimes.indiatimes.com/tech/technology/australia-union-seeks-urgent-talks-with-wisetech-over-aidriven-job-cuts/articleshow/128808202.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-15656,resizemode-75,msid-128808202/tech/technology/australia-union-seeks-urgent-talks-with-wisetech-over-aidriven-job-cuts.jpg",
-            "publishedAt": "2026-02-26T09:00:30Z"
         }
     ]
 }
