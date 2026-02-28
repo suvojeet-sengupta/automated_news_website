@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-02-28T09:22:06.773302Z",
+    "lastUpdatedAt": "2026-02-28T10:19:11.610689Z",
     "articles": [
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Amazon (AMZN) Eyes In-House Chips to Cut AI Costs - A Challenge to Nvidia (NVDA)?",
+            "url": "https://markets.businessinsider.com/news/stocks/amazon-amzn-eyes-in-house-chips-to-cut-ai-costs-a-challenge-to-nvidia-nvda-1035880594",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/02/image-3185.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-02-27T22:15:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Bank Shares Walloped by More AI and ‘Cockroach’ Credit Woes",
+            "url": "https://www.livemint.com/market/bank-shares-walloped-by-more-ai-and-cockroach-credit-woes-11772230266637.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+            "publishedAt": "2026-02-27T22:11:06Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Eby credits OpenAI for coming clean after mass killings in Tumbler Ridge, B.C.",
+            "url": "https://www.cp24.com/news/canada/2026/02/27/eby-credits-openai-for-coming-clean-after-mass-killings-in-tumbler-ridge-bc/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/YDACIGIEASOEQ2ORXFPD4QJPBE.jpg?smart=true&auth=231c046d745843fc65b1b332daf6e0e228520fceefeb6d1aab4c1a9d8f8afd92&width=1200&height=630",
+            "publishedAt": "2026-02-27T21:57:08Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Canada Says OpenAI's Safety Pledges Lack Details",
+            "url": "https://www.marketscreener.com/news/canada-says-openai-s-safety-pledges-lack-details-ce7e5cdfdf8cf620",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-02-27T21:54:17Z"
+        },
+        {
+            "source": {
+                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+                "name": "Washington Examiner",
+                "url": "https://www.washingtonexaminer.com",
+                "country": "us"
+            },
+            "title": "Trump orders every agency to stop using Anthropic ahead of deadline",
+            "url": "https://www.washingtonexaminer.com/policy/defense/4474944/trump-orders-federal-agencies-stop-using-anthropic-ai-military/",
+            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2026/02/image-collage-9bp0f7sax-1772227466304-e1772227554217.jpg?1772209525&resize=1200,683",
+            "publishedAt": "2026-02-27T21:51:05Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Report: Senators Urge Deal in Pentagon-Anthropic AI Row",
+            "url": "https://www.newsmax.com/newsfront/anthropic-claude-dario-amodei/2026/02/27/id/1247700/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b1531ef9-bf2a-4f7f-a6cc-4b9de008373d&SiteName=Newsmax",
+            "publishedAt": "2026-02-27T21:48:00Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Report: Senators Urge Deal in Pentagon-Anthropic AI Row",
+            "url": "https://www.newsmax.com/politics/anthropic-claude-dario-amodei/2026/02/27/id/1247700/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b1531ef9-bf2a-4f7f-a6cc-4b9de008373d&SiteName=Newsmax",
+            "publishedAt": "2026-02-27T21:48:00Z"
+        },
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI",
+            "url": "https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies",
+            "urlToImage": "https://i.guim.co.uk/img/media/f0853dde242ad3114381daf5d5b3431359221ee2/136_0_4841_3872/master/4841.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2a7a1a45ab222e85de193e554c90334",
+            "publishedAt": "2026-02-27T21:47:14Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Canada minister to meet with OpenAI's Altman to discuss safety measures after shooting",
+            "url": "https://www.marketscreener.com/news/canada-minister-to-meet-with-openai-s-altman-to-discuss-safety-measures-after-shooting-ce7e5cdfdf8df12c",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-02/2026-02-27T214538Z_1_LYNXMPEM1Q1AH_RTROPTP_4_FRANCE-TECH.JPG",
+            "publishedAt": "2026-02-27T21:46:23Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Canada minister to meet with OpenAI's Altman to discuss safety measures after shooting",
+            "url": "https://www.reuters.com/world/americas/canada-minister-meet-with-openais-altman-discuss-safety-measures-after-shooting-2026-02-27/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/QL4GNHYZDNL55BYGNM22BFWVHI.jpg?auth=80d53f30f99c295a09d9134304ff90d401be7ac93d432dfd1c0ed7c0c556e553&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-02-27T21:46:10Z"
+        },
         {
             "source": {
                 "id": "85e5403407038478a5e7d8d100ff8e8f",
@@ -3366,126 +3486,6 @@
             "url": "https://www.manilatimes.net/2026/02/26/tmt-newswire/globenewswire/momentum-cyber-hosts-aixcyber-unpacks-the-119-billion-bet-made-on-cybersecurity-as-agentic-ai-rewrites-the-threat-landscape/2286172",
             "urlToImage": "https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg",
             "publishedAt": "2026-02-26T15:11:53Z"
-        },
-        {
-            "source": {
-                "id": "d4773b92da0613b8ffc2fc9c46229534",
-                "name": "Business Wire",
-                "url": "https://www.businesswire.com",
-                "country": "us"
-            },
-            "title": "Closing the Cyber Risk-to-Business Risk Gap: New Course Spotlights Leadership Imperative at CyberBay 2026",
-            "url": "https://www.businesswire.com/news/home/20260226560735/en/Closing-the-Cyber-RisktoBusiness-Risk-Gap-New-Course-Spotlights-Leadership-Imperative-at-CyberBay-2026",
-            "urlToImage": "https://www.businesswire.com/bw-logo.png",
-            "publishedAt": "2026-02-26T14:37:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "India and Israel Forge New Strategic Partnership with 27 Key Outcomes",
-            "url": "https://www.devdiscourse.com/article/international/3818935-india-and-israel-forge-new-strategic-partnership-with-27-key-outcomes",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_02_2026_20_04_27_5554016.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-02-26T14:34:34Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "PM Modi's Israel visit concludes with 27 outcomes; ties elevated to Special Strategic Partnership",
-            "url": "https://www.tribuneindia.com/news/world/pm-modis-israel-visit-concludes-with-27-outcomes-ties-elevated-to-special-strategic-partnership/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWFjOGVhNzIwLTEzMWYtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-            "publishedAt": "2026-02-26T14:30:12Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "ET AI Awards & Conclave 2025: And the winners of the Functional Excellence Awards are…",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/et-ai-awards-conclave-2025-and-the-winners-of-the-functional-excellence-awards-are/articleshow/128816992.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128817009,width-1200,height-630,imgsize-494966,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-02-26T14:27:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Odido Faces Dark Web Data Leak After Massive Hack",
-            "url": "https://www.devdiscourse.com/article/law-order/3818906-odido-faces-dark-web-data-leak-after-massive-hack",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_05_15_9474824.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-02-26T14:22:51Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "How artificial intelligence is reshaping ride-hailing regulation",
-            "url": "https://www.devdiscourse.com/article/technology/3814765-how-artificial-intelligence-is-reshaping-ride-hailing-regulation",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_02_2026_19_01_18_5993981.png?width=920&format=jpeg",
-            "publishedAt": "2026-02-26T13:30:29Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Inside the Mind of a Former Billion-Dollar Hedge Fund Manager: Why AI Is Changing the Rules of Work and Society",
-            "url": "https://www.manilatimes.net/2026/02/26/tmt-newswire/globenewswire/inside-the-mind-of-a-former-billion-dollar-hedge-fund-manager-why-ai-is-changing-the-rules-of-work-and-society/2285964",
-            "urlToImage": "https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg",
-            "publishedAt": "2026-02-26T13:27:16Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Why Nvidia’s Big Profits Aren’t Lifting Markets",
-            "url": "https://www.nytimes.com/2026/02/26/business/dealbook/nvidia-ai-markets.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/02/26/multimedia/26db-huang-zkcw/26db-huang-zkcw-facebookJumbo.jpg",
-            "publishedAt": "2026-02-26T13:08:30Z"
-        },
-        {
-            "source": {
-                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-                "name": "Washington Examiner",
-                "url": "https://www.washingtonexaminer.com",
-                "country": "us"
-            },
-            "title": "Why Nvidia beat estimates, again",
-            "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4472704/why-nvidia-beat-estimates-again/",
-            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2026/02/WB.Campaign.021126.jpg?resize=1200,683",
-            "publishedAt": "2026-02-26T13:05:14Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "OpenAI signs South Bay office deal in huge expansion for tech company",
-            "url": "https://www.mercurynews.com/2026/02/26/openai-tech-property-economy-jobs-web-mountain-view-real-estate-build/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/02/SJM-L-MVOPENAI-01.jpg?w=1024&h=434",
-            "publishedAt": "2026-02-26T13:00:26Z"
         }
     ]
 }
