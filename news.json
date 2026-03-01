@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-03-01T22:19:22.532589Z",
+    "lastUpdatedAt": "2026-03-01T23:19:17.955406Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Surveillance company Flock generates controversy, and L.A. customers",
+            "url": "https://www.latimes.com/california/story/2026-03-01/surveillance-company-flock-safety-los-angeles",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/6178d8d/2147483647/strip/true/crop/5568x2923+0+323/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2c%2F40%2Fa1467a1c404ea3fe148a56bd9547%2Fla-photos-1staff-465621-fi-0911-flock-safety1-wjs.jpg",
+            "publishedAt": "2026-03-01T11:00:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Abbott Activates Operation Fury Shield to Protect Texas Infrastructure After Iran Strikes",
+            "url": "https://www.breitbart.com/border/2026/03/01/abbott-activates-operation-fury-shield-to-protect-texas-infrastructure-after-iran-strikes/",
+            "urlToImage": "https://media.breitbart.com/media/2026/03/MixCollage-01-Mar-2026-12-45-PM-1389-640x335.jpg",
+            "publishedAt": "2026-03-01T10:47:50Z"
+        },
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "Trump expects his Fed pick and AI to deliver a replay of the ’90s boom. Economists have doubts",
+            "url": "https://triblive.com/news/world/trump-expects-his-fed-pick-and-ai-to-deliver-a-replay-of-the-90s-boom-economists-have-doubts/",
+            "urlToImage": "https://assets-varnish.triblive.com/2026/03/9346222_web1_9346222-c40792bbcaa344c79dedcccccbbbdc23.jpg",
+            "publishedAt": "2026-03-01T10:34:24Z"
+        },
         {
             "source": {
                 "id": "72ea416416ab0eec8fe687d6262961e8",
@@ -3510,42 +3546,6 @@
             "url": "https://economictimes.indiatimes.com/markets/stocks/news/block-shares-surge-25-as-ex-twitter-ceo-jack-dorsey-lays-off-4000-employees-due-to-ai-heres-why/articleshow/128839063.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-128839068,width-1200,height-630,imgsize-41698,overlay-etmarkets/articleshow.jpg",
             "publishedAt": "2026-02-27T06:27:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Claude maker and Anthropic CEO Dario Amodei, whose AI shook tech stocks and wiped out billions, warns about white-collar jobs, shares advice for young techies",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/claude-maker-and-anthropic-ceo-dario-amodei-whose-ai-shook-tech-stocks-and-wiped-out-billions-warns-about-white-collar-jobs-shares-advice-for-young-techies/articleshow/128838897.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128839070,width-1200,height-630,imgsize-23188,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-02-27T06:26:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "OpenAI hires AI researcher who had Rs 1800 crore package at Meta",
-            "url": "https://www.indiatoday.in/jobs/story/openai-hires-ai-researcher-who-had-rs-1800-crore-package-at-meta-educ-2875266-2026-02-27",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/open-ai-221336684-16x9.jpeg?VersionId=9h_VpcZjxf_0E7dGKB8az4_ukLbnfr9g",
-            "publishedAt": "2026-02-27T06:21:44Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Burger King: Artificial intelligence to check staff politeness, use of please, thank you; see how the AI chatbot works",
-            "url": "https://www.livemint.com/companies/news/burger-king-artificial-intelligence-to-check-staff-politeness-use-of-please-thank-you-see-how-the-ai-chatbot-works-11772172752126.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/27/1600x900/logo/AI_burger_1772173028516_1772173036618.jpg",
-            "publishedAt": "2026-02-27T06:21:19Z"
         }
     ]
 }
