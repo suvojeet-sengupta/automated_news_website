@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-01T16:22:12.736449Z",
+    "lastUpdatedAt": "2026-03-01T17:18:16.266411Z",
     "articles": [
+        {
+            "source": {
+                "id": "70f0e86899d38a3c4301bfc5b89b2ff4",
+                "name": "Daily Record",
+                "url": "https://www.dailyrecord.co.uk",
+                "country": "gb"
+            },
+            "title": "Artificial Intelligence has been used to recreate the historic appearance of Edinburgh",
+            "url": "https://www.dailyrecord.co.uk/news/artificial-intelligence-been-used-recreate-36796818",
+            "urlToImage": "https://i2-prod.dailyrecord.co.uk/article36796838.ece/ALTERNATES/s1200/0_JS395151285.jpg",
+            "publishedAt": "2026-03-01T04:30:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Pentagon vs Anthropic: Who should control the AI weapon?",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/pentagon-vs-anthropic-who-should-control-the-ai-weapon/articleshow/128905361.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-175738,resizemode-75,msid-128905361/tech/artificial-intelligence/pentagon-vs-anthropic-who-should-control-the-ai-weapon.jpg",
+            "publishedAt": "2026-03-01T04:26:37Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -3525,30 +3549,6 @@
             "url": "https://www.benzinga.com/crypto/cryptocurrency/26/02/50918906/jack-dorsey-says-ai-models-progress-push-toward-functionalization-spurred-blocks-mega-job-cuts-stock-surges-23-after-hours",
             "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/02/27/Paris--France-June-7th-2019--Ceo-Of-Twit.jpeg?width=1200&height=800&fit=crop",
             "publishedAt": "2026-02-27T05:04:55Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "South Korea exports set to rise for ninth month on chip surge",
-            "url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-set-rise-ninth-month-chip-surge-2026-02-27/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/FRFYNM6AAROEBLWEJPVQMZBMAM.jpg?auth=18452eb9117b06a9854195f47161adf0eacc147d6f3a9a9bdb903ff6f2cdb400&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-02-27T05:04:11Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Growing more complex by the day: How should journalists govern use of AI in their products?",
-            "url": "https://wtop.com/entertainment/2026/02/growing-more-complex-by-the-day-how-should-journalists-govern-use-of-ai-in-their-products/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/02/Media_AI_Journalism_40362-scaled.jpg",
-            "publishedAt": "2026-02-27T05:02:53Z"
         }
     ]
 }
