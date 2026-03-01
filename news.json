@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-03-01T08:26:18.728702Z",
+    "lastUpdatedAt": "2026-03-01T09:25:47.321591Z",
     "articles": [
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "OpenAI reaches deal with Pentagon after Trump drops Anthropic",
+            "url": "https://www.upi.com/Top_News/US/2026/02/28/openai-defense/8601772310881/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/8601772310881/2026/1/a37fb29636af80f0959e6c4847c398a7/v1.5/OpenAI-reaches-deal-with-Pentagon-after-Trump-drops-Anthropic.jpg",
+            "publishedAt": "2026-02-28T20:58:52Z"
+        },
         {
             "source": {
                 "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
@@ -1296,6 +1308,15 @@
             "url": "https://www.cbsnews.com/news/hegseth-declares-anthropic-supply-chain-risk/",
             "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/28/480242ac-242a-4a8c-9fe8-6efc572b5c34/thumbnail/1200x630/5879c5373ca1813763998c67ff70bdb4/gettyimages-2252462199.jpg",
             "publishedAt": "2026-02-28T00:03:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Amazon’s $50 Billion OpenAI Investment Reshapes the AI Power Map—and Puts Microsoft on Notice",
+            "url": "https://www.webpronews.com/amazons-50-billion-openai-investment-reshapes-the-ai-power-map-and-puts-microsoft-on-notice/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/02/article-11351-1772311631.jpeg",
+            "publishedAt": "2026-02-28 20:47:16"
         },
         {
             "source": {
@@ -3534,30 +3555,6 @@
             "url": "https://www.npr.org/2026/02/26/nx-s1-5727847/anthropic-defense-hegseth-ai-weapons-surveillance",
             "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2F07%2F3fdd67a641fd838078148a0a5cb8%2Fap26057633604555.jpg",
             "publishedAt": "2026-02-27T02:19:45Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Australia's Appen says being the Switzerland of AI boosts demand for its human testing",
-            "url": "https://www.marketscreener.com/news/australia-s-appen-says-being-the-switzerland-of-ai-boosts-demand-for-its-human-testing-ce7e5cded88cf123",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-02-27T02:11:57Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Anthropic refuses to bend to Pentagon on AI safeguards as dispute nears deadline",
-            "url": "https://www.breitbart.com/news/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/",
-            "urlToImage": "https://media.breitbart.com/media/2026/02/wi/ap/openai-anthropic-rivalry-16169-openai-anthropic-rivalry-dario-amodei-ceo-founder-of-anthropic-640x335.jpg",
-            "publishedAt": "2026-02-27T02:11:29Z"
         }
     ]
 }
