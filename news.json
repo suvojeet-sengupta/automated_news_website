@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-01T15:18:40.742386Z",
+    "lastUpdatedAt": "2026-03-01T16:22:12.736449Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Tips on how artificial intelligence can help plan your holiday",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/01/tips-on-how-artificial-intelligence-can-help-plan-your-holiday",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/27/3790483.jpeg",
+            "publishedAt": "2026-03-01T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "Did US Forces Use Anthropic In Iran Strikes Hours After Trump Ban?",
+            "url": "https://www.timesnownews.com/technology-science/did-us-forces-use-anthropic-in-iran-strikes-hours-after-trump-ban-article-153724216",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-153724216,width-1280,height-720,resizemode-75/153724216.jpg",
+            "publishedAt": "2026-03-01T03:59:07Z"
+        },
         {
             "source": {
                 "id": "adf554a25b26ee0c444a7732630e6384",
@@ -3525,30 +3549,6 @@
             "url": "https://wtop.com/entertainment/2026/02/growing-more-complex-by-the-day-how-should-journalists-govern-use-of-ai-in-their-products/",
             "urlToImage": "https://wtop.com/wp-content/uploads/2026/02/Media_AI_Journalism_40362-scaled.jpg",
             "publishedAt": "2026-02-27T05:02:53Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "WFR Highlights the AI Infrastructure Power Players Transforming Compute",
-            "url": "https://techbullion.com/wfr-highlights-the-ai-infrastructure-power-players-transforming-compute/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-213130.png",
-            "publishedAt": "2026-02-27T04:31:42Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Duolingo prioritises user growth over monetisation, forecasts softer bookings",
-            "url": "https://economictimes.indiatimes.com/tech/technology/duolingo-prioritises-user-growth-over-monetisation-forecasts-softer-bookings/articleshow/128836732.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-48710,resizemode-75,msid-128836732/tech/technology/duolingo-prioritises-user-growth-over-monetisation-forecasts-softer-bookings.jpg",
-            "publishedAt": "2026-02-27T04:19:19Z"
         }
     ]
 }
