@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-03-02T13:57:34.434216Z",
+    "lastUpdatedAt": "2026-03-02T14:43:10.865827Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "South Korea's Lee to hold summit with Singapore's Wong on AI, tech cooperation",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/02/south-korea039s-lee-to-hold-summit-with-singapore039s-wong-on-ai-tech-cooperation",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/02/3793449.jpg",
+            "publishedAt": "2026-03-02T02:35:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Beyond degrees: Building capability for an AI world",
+            "url": "https://economictimes.indiatimes.com/small-biz/security-tech/technology/beyond-degrees-building-capability-for-an-ai-world/articleshow/128933925.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-128933973,width-1200,height-630,imgsize-241239,overlay-etrise/articleshow.jpg",
+            "publishedAt": "2026-03-02T02:30:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "South Korea's Lee to hold summit with Singapore's Wong on AI, tech cooperation",
+            "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-hold-summit-with-singapores-wong-ai-tech-cooperation-2026-03-02/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/KWDB2ENTT5IUPP4YOKF5ODPNUE.jpg?auth=d6def2ab130e25545b8a69037c963e1a8a4fd0b726249cf625f5c6773fd3cfa1&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-02T02:26:20Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "South Korea's Lee to hold summit with Singapore's Wong on AI, tech cooperation",
+            "url": "https://www.marketscreener.com/news/south-korea-s-lee-to-hold-summit-with-singapore-s-wong-on-ai-tech-cooperation-ce7e5cdcda81fe21",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-02T022611Z_1_LYNXMPEM2103W_RTROPTP_4_SOUTHKOREA-NORTHKOREA.JPG",
+            "publishedAt": "2026-03-02T02:17:54Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Connected by code: Community insights on harnessing AI for software development",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/02/connected-by-code-community-insights-on-harnessing-ai-for-software-development",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/02/3793080.jpeg",
+            "publishedAt": "2026-03-02T02:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Harsh Goenka drops AI bombshell: 9 jobs AI may erase by 2033",
+            "url": "https://www.indiatoday.in/jobs/story/ai-takeover-these-9-careers-could-be-wiped-out-within-7-years-educ-2876199-2026-03-02",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/the-post-quickly-drew-sharp-reactions-online-so-its-true--neo-colonial-attitudes-continue-to-per-241643320-16x9.jpg?VersionId=3bfUOYqjcWY7ZDiTbVPopMwx5.08i1dN",
+            "publishedAt": "2026-03-02T02:00:00Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -3456,78 +3528,6 @@
             "url": "https://techbullion.com/future-it-services-practical-it-support-for-growing-australian-businesses/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/IT-Support-Future-IT.png",
             "publishedAt": "2026-02-27T14:03:07Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "How the world’s biggest sovereign wealth fund that opposed Elon Musk's $1 trillion pay package uses Anthropic's AI tool",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-the-worlds-biggest-sovereign-wealth-fund-that-opposed-elon-musks-1-trillion-pay-package-uses-anthropics-ai-tool/articleshow/128852926.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128852873,width-1280,height-720,imgsize-18556,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-27T13:27:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "CoreWeave shares slump as doubling capital expenditure sparks margin concerns",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/27/coreweave-shares-slump-as-doubling-capital-expenditure-sparks-margin-concerns",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/27/3790883.jpg",
-            "publishedAt": "2026-02-27T13:23:00Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "Climate action an opportunity; AI can help streamline development spending: World Bank",
-            "url": "https://theprint.in/india/climate-action-an-opportunity-ai-can-help-streamline-development-spending-world-bank/2865791/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-02-27T13:20:28Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "PM Modi's visit \"very successful,\" aimed to deepen ties: Israel Consul General Yaniv Revach",
-            "url": "https://www.tribuneindia.com/news/world/pm-modis-visit-very-successful-aimed-to-deepen-ties-israel-consul-general-yaniv-revach/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTEwMjA4ZjAwLTEzZGYtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-            "publishedAt": "2026-02-27T13:20:13Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Google, OpenAI Staff Stand With Anthropic, Demand 'Red Lines' In Pentagon AI Contracts: 'We Will Not Be Divided'",
-            "url": "https://www.benzinga.com/markets/tech/26/02/50925280/google-openai-staff-stand-with-anthropic-demand-red-lines-in-pentagon-ai-contracts-we-will-not-be-divided",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/02/27/October-11--2023--Brazil--In-This-Photo-.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2026-02-27T13:19:56Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "CoreWeave shares slump as doubling capital expenditure sparks margin concerns",
-            "url": "https://www.reuters.com/business/coreweave-shares-slump-doubling-capital-expenditure-sparks-margin-concerns-2026-02-27/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ZGEFOUYXENP2FAJZUDJSQ7R7VY.jpg?auth=4fc1a11f44f885cc0f62d5059a75a6d77bdda43528ff07c50356d6502c298474&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-02-27T13:16:24Z"
         }
     ]
 }
