@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-02T07:45:34.524728Z",
+    "lastUpdatedAt": "2026-03-02T08:38:51.377316Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Where AI lives: Southeast Asia's data center boom",
+            "url": "https://japantoday.com/category/tech/where-ai-lives-southeast-asia%27s-data-centre-boom",
+            "urlToImage": "https://media.japantoday.com/img/store/0e/0e/c4366e68f85e486bddbc7fc690c56539ca49/4fa828649804e00fdd274a3f1a1f58682672ee16/_w1700.jpeg",
+            "publishedAt": "2026-03-01T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Where AI lives: Southeast Asia's data center boom",
+            "url": "https://japantoday.com/category/tech/where-ai-lives-southeast-asia's-data-centre-boom",
+            "urlToImage": "https://media.japantoday.com/img/store/0e/0e/c4366e68f85e486bddbc7fc690c56539ca49/4fa828649804e00fdd274a3f1a1f58682672ee16/_w1700.jpeg",
+            "publishedAt": "2026-03-01T20:00:00Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -660,6 +684,15 @@
             "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/01/vietnam-ai-law-takes-effect-first-in-south-east-asia",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/01/3792242.jpg",
             "publishedAt": "2026-03-01T01:03:00Z"
+        },
+        {
+            "source": {
+                "name": "norfolkdailynews"
+            },
+            "title": "As ChatGPT Hits 900M Weekly Users, Small Businesses Are Racing to Adopt Generative Engine Optimization",
+            "url": "https://norfolkdailynews.com/online_features/press_releases/as-chatgpt-hits-900m-weekly-users-small-businesses-are-racing-to-adopt-generative-engine-optimization/article_29ca006e-f9c1-5e24-8c21-920d0052de8b.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/0/5a/05ac939d-bd4d-5c1a-8853-8bb3ca507eb0/69a4b561e7334.image.jpg?resize=300%2C300",
+            "publishedAt": "2026-03-01 20:22:58"
         },
         {
             "source": {
@@ -3501,42 +3534,6 @@
             "url": "https://www.washingtonpost.com/technology/2026/02/27/anthropic-pentagon-lethal-military-ai/",
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/367EMODX52EFD3UWSAXCJP5FDE.jpg&w=1440",
             "publishedAt": "2026-02-27T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
-                "country": "gb"
-            },
-            "title": "How AI can read our scrambled inner thoughts",
-            "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
-            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0n3kt76.jpg",
-            "publishedAt": "2026-02-27T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Market outlook for 2026 moves from narratives to execution: Chockalingam Narayanan",
-            "url": "https://www.moneycontrol.com/news/business/earnings/market-outlook-for-2026-moves-from-narratives-to-execution-chockalingam-narayanan-13845747.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/02/20260226094236_market_stocks_sensex_Nifty.jpg",
-            "publishedAt": "2026-02-27T09:55:21Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Meta Platforms Strikes Deal to Rent Google's AI Chips",
-            "url": "https://www.marketscreener.com/news/meta-platforms-strikes-deal-to-rent-google-s-ai-chips-ce7e5cded18ef325",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-02-27T09:22:30Z"
         }
     ]
 }
