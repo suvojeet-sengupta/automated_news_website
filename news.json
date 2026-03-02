@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-03-02T18:39:49.084256Z",
+    "lastUpdatedAt": "2026-03-02T19:34:03.980683Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "China's annual parliament meet to unveil roadmap for tech race with the West",
+            "url": "https://www.reuters.com/business/autos-transportation/chinas-annual-parliament-meet-unveil-roadmap-tech-race-with-west-2026-03-02/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/J3TESTZDJBIAREWTJBLS4WVH7U.jpg?auth=6a98713128b468680d2dcc390a39ac90cccaa9529c3c9b6e90b4b468f9f6dd4c&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-02T07:20:04Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -528,6 +540,24 @@
             "url": "https://economictimes.indiatimes.com/tech/information-tech/iran-conflict-companies-could-see-rise-in-digital-threats-say-experts/articleshow/128922838.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2636431,resizemode-75,msid-128922838/tech/information-tech/iran-conflict-companies-could-see-rise-in-digital-threats-say-experts.jpg",
             "publishedAt": "2026-03-02T00:31:00Z"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "GSMA launches Open Telco AI to accelerate development of telco‐grade AI",
+            "url": "https://en.prnasia.com/story/523584-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/1882833/5829656/GSMA_Logo.jpg?p=medium600",
+            "publishedAt": "2026-03-02 07:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "GSMA launches Open Telco AI to accelerate development of telco‐grade AI",
+            "url": "https://www.prnewswire.com/news-releases/gsma-launches-open-telco-ai-to-accelerate-development-of-telcograde-ai-302700728.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1882833/5829656/GSMA_Logo.jpg?p=publish",
+            "publishedAt": "2026-03-02 07:00:00"
         },
         {
             "source": {
@@ -3489,42 +3519,6 @@
             "url": "https://www.investors.com/stock-lists/stock-spotlight/nvidia-stock-nvda-builds-bullish-base-tests-key-support-level-earnings/",
             "urlToImage": "https://www.investors.com/wp-content/uploads/2024/05/Stock-Nvidia-CEOjensen-blackwellgpu-01-compay.jpg",
             "publishedAt": "2026-02-27T18:12:50Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "‘This is Not Business as Usual. This is Risk’: Michael Burry Warns Nvidia Looks Strikingly Similar to Cisco Just Prior to Dot Com Bubble Crash",
-            "url": "https://www.barchart.com/story/news/474461/this-is-not-business-as-usual-this-is-risk-michael-burry-warns-nvidia-looks-strikingly-similar-to-cisco-just-prior-to-dot-com-bubble-crash",
-            "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/NVIDIA%20Corp%20logo%20on%20phone-by%20Evolf%20via%20Shutterstock.jpg",
-            "publishedAt": "2026-02-27T18:11:10Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "KPT ties up with YatiCorp to offer AI certificate courses",
-            "url": "https://timesofindia.indiatimes.com/city/mangaluru/kpt-ties-up-with-yaticorp-to-offer-ai-certificate-courses/articleshow/128861135.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-117624251,width-1280,height-720,imgsize-183277,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-27T18:11:00Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "New 50m pool opens at Arena Joondalup as part of $13m upgrade",
-            "url": "https://www.perthnow.com.au/wa/perth/north/joondalup/new-50m-pool-opens-at-arena-joondalup-as-part-of-13m-upgrade-c-21778091",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-21778091/aaf47c12c295ac00068abf15b3861c25600449da-16x9-x0y367w4000h2250.jpg?imwidth=1200",
-            "publishedAt": "2026-02-27T18:00:00Z"
         }
     ]
 }
