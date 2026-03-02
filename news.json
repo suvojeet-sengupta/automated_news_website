@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-03-02T09:42:41.554867Z",
+    "lastUpdatedAt": "2026-03-02T10:39:05.106079Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Britain asks parents: Should social media be banned for under-16s?",
+            "url": "https://www.reuters.com/sustainability/society-equity/britain-asks-parents-should-social-media-be-banned-under-16s-2026-03-01/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/YP6PWHEYO5NUBFOIK63YPW6MWM.jpg?auth=e0dbdf9a3ef3d5a0ae357fa5374935f2c9250d8e9f78361a4520af270744491f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-01T22:33:45Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Britain asks parents: Should social media be banned for under-16s?",
+            "url": "https://www.marketscreener.com/news/britain-asks-parents-should-social-media-be-banned-for-under-16s-ce7e5cdcda89fe24",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-02/2026-02-14T123438Z_1_LYNXMPEM1D07D_RTROPTP_4_SECURITY-MUNICH-STARMER.JPG",
+            "publishedAt": "2026-03-01T22:31:18Z"
+        },
+        {
+            "source": {
+                "id": "c1903669db0b115cc673ce9c333a70dd",
+                "name": "Charleston Post and Courier",
+                "url": "https://www.postandcourier.com",
+                "country": "us"
+            },
+            "title": "SC will have to change how it teaches students in AI world",
+            "url": "https://www.postandcourier.com/opinion/commentary/sc-teaches-students-ai-world/article_8cc97f3d-a51a-4afb-b0f8-7f5fc5efd077.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/71/87153590-7d59-11ed-b1bd-2f9afb7e3aec/639c948e51d26.image.jpg?crop=1282%2C674%2C0%2C258&resize=1200%2C631&order=crop%2Cresize",
+            "publishedAt": "2026-03-01T22:15:00Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Meta strikes multi-billion-dollar AI chip deal with Google: Will the new collaboration pay off?",
+            "url": "https://www.thenews.com.pk/latest/1394258-meta-strikes-multi-billion-dollar-ai-chip-deal-with-google-will-the-new-collaboration-pay-off",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-02/1394258_025708_updates.jpg",
+            "publishedAt": "2026-03-01T21:57:00Z"
+        },
         {
             "source": {
                 "id": "49751e72ee79ba8eb1d9dcf6e10bf195",
@@ -108,6 +156,18 @@
             "url": "https://www.techradar.com/vpn/vpn-services/surfshark-is-one-of-the-few-vpns-to-offer-a-real-antivirus-solution-heres-the-difference",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/FwSvg3bko3jZRZkWoJwYtY-2560-80.png",
             "publishedAt": "2026-03-01T17:30:00Z"
+        },
+        {
+            "source": {
+                "id": "d4773b92da0613b8ffc2fc9c46229534",
+                "name": "Business Wire",
+                "url": "https://www.businesswire.com",
+                "country": "us"
+            },
+            "title": "Public Storage and Welltower Announce Strategic Data Science Partnership to Advance Application of AI in Real Estate Investing",
+            "url": "https://www.businesswire.com/news/home/20260301997662/en/Public-Storage-and-Welltower-Announce-Strategic-Data-Science-Partnership-to-Advance-Application-of-AI-in-Real-Estate-Investing",
+            "urlToImage": "https://www.businesswire.com/bw-logo.png",
+            "publishedAt": "2026-03-01T17:00:00Z"
         },
         {
             "source": {
@@ -3474,66 +3534,6 @@
             "url": "https://www.channelnewsasia.com/singapore/255-critical-infrastructure-firms-allegedly-targeted-cyberattack-smes-5958156",
             "urlToImage": "https://dam.mediacorp.sg/image/upload/s--xg_mi2X6--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/02/27/istock-540848970.jpg?itok=9EYwGfWR",
             "publishedAt": "2026-02-27T10:15:24Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "World shares are mostly higher in a week dominated by AI news",
-            "url": "https://www.ajc.com/news/2026/02/world-shares-are-mostly-higher-in-a-week-dominated-by-ai-news/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/5SPGKB7FEFGWXIKZ6L2AP6DEMI.jpg?auth=b7db7f6f1e26d5f86f09eb5f711d0d9575dc0a18d363f27cfa96e41682c8b205&width=1200&height=630&smart=true",
-            "publishedAt": "2026-02-27T10:12:32Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI stocks in bubble zone? Howard Marks on how to invest in this new world",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-stocks-in-bubble-zone-howard-marks-on-how-to-invest-in-this-new-world/articleshow/128844390.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128844387,width-1200,height-630,imgsize-84028,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-02-27T10:10:00Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "AI’s quiet kingmaker: Who is Anthropic CEO Dario Amodei? Net worth, rise and rivalry",
-            "url": "https://www.firstpost.com/business/ai-quiet-kingmaker-who-is-anthropic-ceo-dario-amodei-net-worth-rise-and-rivalry-13984117.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/01/2026-01-20T124808Z_1149863023_RC205JAS0XAK_RTRMADP_3_DAVOS-MEETING-2026-01-ec13a98656cb500d0c6fe25606ce179b-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-02-27T10:08:42Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "Hyundai's Atlas Vs Tesla's Optimus: Is AI Taking Over Automobile Manufacturing?",
-            "url": "https://www.republicworld.com/business/hyundai-s-atlas-vs-tesla-s-optimus-is-ai-taking-over-automobile-manufacturing",
-            "urlToImage": "https://img.republicworld.com/all_images/ai-i-automotive-manufacturing-1772186705937-16_9.webp",
-            "publishedAt": "2026-02-27T10:05:19Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "CBSE Class 10 Artificial Intelligence Exam 2026: Check Paper Analysis And Student Reactions",
-            "url": "https://www.ndtv.com/education/cbse-class-10-artificial-intelligence-exam-2026-check-paper-analysis-and-student-reactions-11144633",
-            "urlToImage": "https://c.ndtvimg.com/2026-02/mn0ajfh_moradabad-cbse-students_625x300_20_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2026-02-27T10:04:01Z"
         }
     ]
 }
