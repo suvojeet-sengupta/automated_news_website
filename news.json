@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-03-01T23:19:17.955406Z",
+    "lastUpdatedAt": "2026-03-02T01:48:31.048889Z",
     "articles": [
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Consumer Tech News (Feb 23-27): US-Taiwan Trade Tensions Escalates, Amazon Invests $12B In US & More",
+            "url": "https://www.benzinga.com/markets/market-summary/26/03/50954241/consumer-tech-news-feb-23-27-us-taiwan-trade-tensions-escalates-amazon-invests-12b-in-us-more",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/03/01/The-Deepseek-deep-Seek-Logo-Is-Seen-Disp.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-03-01T13:00:54Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Pentagon used Anthropic’s Claude AI in Iran attack despite ban: report",
+            "url": "https://www.thenews.com.pk/latest/1394200-pentagon-used-anthropic-s-claude-ai-in-iran-attack-despite-ban-report",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-01/1394200_044444_updates.jpg",
+            "publishedAt": "2026-03-01T12:57:00Z"
+        },
+        {
+            "source": {
+                "id": "494f687bd1dfaa9f7b4a705c860671d0",
+                "name": "Hartford Courant",
+                "url": "https://www.courant.com",
+                "country": "us"
+            },
+            "title": "OpenAI gives Pentagon AI model access after Anthropic dustup",
+            "url": "https://www.courant.com/2026/03/01/openai-gives-pentagon-ai-model-access-after-anthropic-dustup-3/",
+            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/02/202602280058MCT_____PHOTO____US-NEWS-PENTAGON-OPENAI-FILEPIC-GET.jpg?w=1024&h=693",
+            "publishedAt": "2026-03-01T12:30:18Z"
+        },
+        {
+            "source": {
+                "id": "f16dc396e088c7c707eabe9d7479e7a2",
+                "name": "The Washington Post",
+                "url": "https://www.washingtonpost.com",
+                "country": "us"
+            },
+            "title": "Citrini Research AI report went viral thanks to anxiety, not reality - The Washington Post",
+            "url": "https://www.washingtonpost.com/opinions/2026/03/01/artificial-intelligence-economy-anxiety-citrini-research/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3UW25Z3O4FEUFHPMX3GCFEFUEQ.jpg&w=1440",
+            "publishedAt": "2026-03-01T12:00:25Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "AI could reshape 410,000 Silicon Valley jobs",
+            "url": "https://www.mercurynews.com/2026/03/01/more-than-400000-jobs-silicon-valley-exposed-ai-silicon-valley-index/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/02/SJM-L-SILICONAI-0000-1.jpg?w=1024&h=683",
+            "publishedAt": "2026-03-01T12:00:12Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Artificial Intelligence Summit 2026, Shaping the Future of AI in NYC",
+            "url": "https://techbullion.com/artificial-intelligence-summit-2026-shaping-the-future-of-ai-in-nyc/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/3D4A9BBC-D3EB-4E7E-90C8-B7D63E9FC68E-1000x600.png",
+            "publishedAt": "2026-03-01T11:48:44Z"
+        },
         {
             "source": {
                 "id": "492abf277b7277432148b61b21ddc836",
@@ -336,6 +408,15 @@
             "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/01/vietnam-ai-law-takes-effect-first-in-south-east-asia",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/01/3792242.jpg",
             "publishedAt": "2026-03-01T01:03:00Z"
+        },
+        {
+            "source": {
+                "name": "eastbaytimes"
+            },
+            "title": "AI could reshape 410,000 local jobs. Who benefits and who doesn’t?",
+            "url": "https://www.eastbaytimes.com/2026/03/01/more-than-400000-jobs-silicon-valley-exposed-ai-silicon-valley-index/",
+            "urlToImage": "https://www.eastbaytimes.com/wp-content/uploads/2026/02/SJM-L-SILICONAI-0000-1-1.jpg?h=682&w=1024",
+            "publishedAt": "2026-03-01 12:00:12"
         },
         {
             "source": {
@@ -3462,90 +3543,6 @@
             "url": "https://www.tribuneindia.com/news/business/mica-roundtable-finds-creativity-and-culture-emerging-as-key-differentiators-in-an-ai-first-world/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc1OGZhNmMwLTEzYWItMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
             "publishedAt": "2026-02-27T07:10:49Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "AI is gobbling up the world’s memory chips, sending smartphone prices to record highs, report says",
-            "url": "https://edition.cnn.com/2026/02/27/tech/ai-memory-chips-smartphones-intl-hnk",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2242151767.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-02-27T07:01:41Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "AI is gobbling up the world’s memory chips, sending smartphone prices to record highs, report says",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2026/02/27/ai-is-gobbling-up-the-worlds-memory-chips-sending-smartphone-prices-to-record-highs-report-says/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
-            "publishedAt": "2026-02-27T07:01:41Z"
-        },
-        {
-            "source": {
-                "id": "5b7528c9f7185bac3e4371cd6a53981a",
-                "name": "The News Minute",
-                "url": "https://www.thenewsminute.com",
-                "country": "in"
-            },
-            "title": "Anthropic CEO says it 'cannot in good conscience accede' to Pentagon's demands for AI use",
-            "url": "https://www.thenewsminute.com/news/anthropic-ceo-says-it-cannot-in-good-conscience-accede-to-pentagons-demands-for-ai-use",
-            "urlToImage": "https://media.assettype.com/thenewsminute%2F2026-02-27%2F7w21x2kr%2FAP26035615816169.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-02-27T06:50:54Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "How could one make money in this AI-disrupted choppy market? Here's what Madhusudan Kela suggests",
-            "url": "https://www.moneycontrol.com/news/business/earnings/how-could-one-make-money-in-this-ai-disrupted-choppy-market-here-s-what-madhusudan-kela-suggests-13845491.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/02/20260226094236_market_stocks_sensex_Nifty.jpg",
-            "publishedAt": "2026-02-27T06:50:44Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "From Agriculture to AI, Raj Thackeray Highlights Power Of Language In Digital Age On Marathi Language Pride Day",
-            "url": "https://www.freepressjournal.in/mumbai/from-agriculture-to-ai-raj-thackeray-highlights-power-of-language-in-digital-age-on-marathi-language-pride-day",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-02-27/6cyr63rk/FotoJet-2026-02-27T121459.205.jpg",
-            "publishedAt": "2026-02-27T06:45:54Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "India poised for major leap in AI, to become global services powerhouse like IT revolution: NSE MD & CEO Ashish Kumar Chauhan",
-            "url": "https://www.tribuneindia.com/news/business/india-poised-for-major-leap-in-ai-to-become-global-services-powerhouse-like-it-revolution-nse-md-ceo-ashish-kumar-chauhan/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQxNzdmZmIwLTEzYTUtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-            "publishedAt": "2026-02-27T06:30:27Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Block shares surge 25% as ex-Twitter CEO Jack Dorsey lays off 4,000 employees due to AI; here's why",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/block-shares-surge-25-as-ex-twitter-ceo-jack-dorsey-lays-off-4000-employees-due-to-ai-heres-why/articleshow/128839063.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128839068,width-1200,height-630,imgsize-41698,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-02-27T06:27:00Z"
         }
     ]
 }
