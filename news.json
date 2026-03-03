@@ -1,6 +1,162 @@
 {
-    "lastUpdatedAt": "2026-03-03T01:50:22.678230Z",
+    "lastUpdatedAt": "2026-03-03T04:11:25.981310Z",
     "articles": [
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "Apple launches cheaper iPhone 17e in push to boost iPhone sales",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2026/03/02/apple-launches-cheaper-iphone-17e-in-push-to-boost-iphone-sales/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/03/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW05Y3pyYnkwMDB1M2I2cjJtbmZjOWI3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbTliZGp1aTAwMXgyNnFmZmdiYmhzOGc.jpg",
+            "publishedAt": "2026-03-02T16:04:52Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Apple launches cheaper iPhone 17e in push to boost iPhone sales",
+            "url": "https://edition.cnn.com/2026/03/02/tech/apple-iphone-17e-launch",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235669827.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-03-02T16:04:52Z"
+        },
+        {
+            "source": {
+                "id": "d4773b92da0613b8ffc2fc9c46229534",
+                "name": "Business Wire",
+                "url": "https://www.businesswire.com",
+                "country": "us"
+            },
+            "title": "Keysight and Samsung Demonstrate End-to-End AI-RAN Validation Workflow with NVIDIA",
+            "url": "https://www.businesswire.com/news/home/20260302272970/en/Keysight-and-Samsung-Demonstrate-End-to-End-AI-RAN-Validation-Workflow-with-NVIDIA",
+            "urlToImage": "https://mms.businesswire.com/media/20260302272970/en/1598280/22/BrandRefreshKeysightLogo_Business_Wire.jpg",
+            "publishedAt": "2026-03-02T16:00:00Z"
+        },
+        {
+            "source": {
+                "id": "3d24c816061d69b2e23b8583aed9b447",
+                "name": "Euronews",
+                "url": "https://www.euronews.com",
+                "country": "fr"
+            },
+            "title": "Iran conflict may trigger wave of geopolitical cyberattacks, Palo Alto executive warns",
+            "url": "https://www.euronews.com/next/2026/03/02/iran-conflict-may-trigger-wave-of-geopolitical-cyberattacks-palo-alto-executive-warns",
+            "urlToImage": "https://images.euronews.com/articles/stories/09/67/13/49/1200x675_cmsv2_1ef15fd2-a22c-57f7-bdcb-9322b07362e9-9671349.jpg",
+            "publishedAt": "2026-03-02T15:51:16Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Anthropic's Claude AI remains top free app on Apple US App Store 2 days after Donald Trump ‘bans’ company's AI tech",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropics-claude-ai-remains-top-free-app-on-apple-us-app-store-2-days-after-donald-trump-bans-companys-ai-tech/articleshow/128950346.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-128950330,width-1280,height-720,imgsize-21636,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-02T15:39:00Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Supreme Court Declines to Hear Dispute Over AI Material",
+            "url": "https://www.newsmax.com/us/ai-artificial-intelligence-supreme-court/2026/03/02/id/1247968/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=4173fc11-d428-40be-b54a-57b5ad883d25&SiteName=Newsmax",
+            "publishedAt": "2026-03-02T15:38:42Z"
+        },
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "When should AI companies alert police? What the Tumbler Ridge tragedy reveals about regulating AI",
+            "url": "https://www.cbc.ca/news/canada/british-columbia/ai-implications-tumbler-ridge-bc-mass-shooting-explainer-9.7110251",
+            "urlToImage": "https://i.cbc.ca/ais/1.7220194,1772464475786/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C258%2C5000%2C2812%29%3BResize%3D620",
+            "publishedAt": "2026-03-02T15:24:50Z"
+        },
+        {
+            "source": {
+                "id": "5ac5f32ba74846cef441099f666f2d98",
+                "name": "Fast Company",
+                "url": "https://www.fastcompany.com",
+                "country": "us"
+            },
+            "title": "Should you be using AI for performance reviews?",
+            "url": "https://www.fastcompany.com/91496853/should-you-using-ai-performance-reviews",
+            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/02/p-1-91496853-Work-Life-CN-Should-you-be-using-AI-for-performance-reviews-.jpg",
+            "publishedAt": "2026-03-02T15:15:46Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US Supreme Court declines to hear dispute over copyrights for AI",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-supreme-court-declines-to-hear-dispute-over-copyrights-for-ai-generated-material/articleshow/128949733.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-201784,resizemode-75,msid-128949733/tech/artificial-intelligence/us-supreme-court-declines-to-hear-dispute-over-copyrights-for-ai-generated-material.jpg",
+            "publishedAt": "2026-03-02T15:04:52Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "US Supreme Court declines to hear dispute over copyrights for AI-generated material",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/02/us-supreme-court-declines-to-hear-dispute-over-copyrights-for-ai-generated-material",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/02/3794611.jpg",
+            "publishedAt": "2026-03-02T15:04:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US Supreme Court declines to hear dispute over copyrights for AI-generated material",
+            "url": "https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/OCR5U42EGJJGTLL5CI4RST4YWQ.jpg?auth=07155b3525995653f9944934ca2276c3f2c8a30a99cd62cbd8f0001fe221e9af&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-02T15:01:45Z"
+        },
+        {
+            "source": {
+                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
+                "name": "FinanzNachrichten",
+                "url": "https://www.finanznachrichten.de",
+                "country": "de"
+            },
+            "title": "Artificial Intelligence Technology Solutions, Inc.: AITX's RAD Adds New Channel Partner with Immediate Multi System Commitment",
+            "url": "https://www.finanznachrichten.de/nachrichten-2026-03/67830999-artificial-intelligence-technology-solutions-inc-aitx-s-rad-adds-new-channel-partner-with-immediate-multi-system-commitment-296.htm",
+            "urlToImage": "https://www.finanznachrichten.de/content/g/fb.png",
+            "publishedAt": "2026-03-02T14:50:00Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Criminal IP to Present Decision-Ready Threat Intelligence at RSAC™ 2026",
+            "url": "https://markets.businessinsider.com/news/currencies/criminal-ip-to-present-decision-ready-threat-intelligence-at-rsac-2026-1035886190",
+            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2026-03-02T14:00:09Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -1176,6 +1332,33 @@
             "url": "https://economictimes.indiatimes.com/tech/information-tech/iran-conflict-companies-could-see-rise-in-digital-threats-say-experts/articleshow/128922838.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2636431,resizemode-75,msid-128922838/tech/information-tech/iran-conflict-companies-could-see-rise-in-digital-threats-say-experts.jpg",
             "publishedAt": "2026-03-02T00:31:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Amazon’s $21B Spain Bet Ignites Europe’s AI Infrastructure Race",
+            "url": "https://www.analyticsinsight.net/news/amazons-21b-spain-bet-ignites-europes-ai-infrastructure-race",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2026-03-02%2Flq1kxxq7%2FAmazon%E2%80%99s-21B-Spain-Bet-Ignites-Europe%E2%80%99s-AI-Infrastructure-Race?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "publishedAt": "2026-03-02 15:45:00"
+        },
+        {
+            "source": {
+                "name": "cornelledu"
+            },
+            "title": "Experts to examine the use of generative AI in science",
+            "url": "https://news.cornell.edu/stories/2026/03/experts-examine-use-generative-ai-science",
+            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_home/public/2025-10/ai_lightbulb_istock-2164746643.jpg?itok=E4EfhhS6",
+            "publishedAt": "2026-03-02 15:21:17"
+        },
+        {
+            "source": {
+                "name": "androidheadlines"
+            },
+            "title": "MediaTek to Debut World’s First 6G Radio Demo & AI-Powered Smart Glasses at MWC 2026",
+            "url": "https://www.androidheadlines.com/2026/03/mediatek-to-debut-worlds-first-6g-radio-demo-ai-powered-smart-glasses-at-mwc-2026.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/02/AH-Mediatek-Logo-3-1420x799.webp",
+            "publishedAt": "2026-03-02 14:06:26"
         },
         {
             "source": {
@@ -3357,198 +3540,6 @@
             "url": "https://www.abqjournal.com/business/quantum-will-be-scalable-to-real-problems-within-a-decade-says-sandia-director/2991005",
             "urlToImage": "https://image.abqjournal.com/2957552.jpg?imageId=2957552&x=0&y=0&cropw=100&croph=71.67&panox=0&panoy=0&panow=100&panoh=71.67&width=1200&height=683",
             "publishedAt": "2026-02-28T01:58:09Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety",
-            "url": "https://www.ajc.com/news/2026/02/trump-orders-us-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/RDLXLB7TBBE43LF5K63HR6VVKA.jpg?auth=b01653d9c5037c3cabfc4024a9000058d801c2c425ce80b587eab5738df1e295&width=1200&height=630&smart=true",
-            "publishedAt": "2026-02-28T01:51:31Z"
-        },
-        {
-            "source": {
-                "id": "6536182115f7e8188f38d864bab0e1c6",
-                "name": "DAWN.com",
-                "url": "https://www.dawn.com",
-                "country": "pk"
-            },
-            "title": "Anthropic refuses to allow Pentagon unrestricted use of artificial intelligence",
-            "url": "https://www.dawn.com/news/1976334/anthropic-refuses-to-allow-pentagon-unrestricted-use-of-artificial-intelligence",
-            "urlToImage": "https://i.dawn.com/large/2026/02/2809440377e3ac7.webp",
-            "publishedAt": "2026-02-28T01:41:45Z"
-        },
-        {
-            "source": {
-                "id": "03f4f74aaa0a44ccbb846a1630123293",
-                "name": "Crypto Breaking News",
-                "url": "https://www.cryptobreaking.com",
-                "country": "ae"
-            },
-            "title": "Crypto VC Paradigm Expands into AI, Robotics with $1.5B Fund (WSJ)",
-            "url": "https://www.cryptobreaking.com/crypto-vc-paradigm-expands-into/",
-            "urlToImage": "https://www.cryptobreaking.com/wp-content/uploads/2026/02/dalle_69a245cf6bc220.89200102.jpg",
-            "publishedAt": "2026-02-28T01:33:16Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "CrowdStrike: Better Bargains Elsewhere In Cybersecurity (Downgrade)",
-            "url": "https://seekingalpha.com/article/4876641-crowdstrike-better-bargains-elsewhere-in-cybersecurity-downgrade",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1255728449/image_1255728449.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-02-28T01:32:07Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "AI is no longer a technology story. It's an evolving human story",
-            "url": "https://www.indiatoday.in/jobs/story/artificial-intelligence-is-no-longer-a-technology-story-it-is-an-evolving-human-story-jobs-what-happens-next-2875702-2026-02-28",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/artificial-intelligence-vs-humans-271549451-16x9_0.jpg?VersionId=wZARWybt_ZonOq7BzWQsltMRQAJHtCJj",
-            "publishedAt": "2026-02-28T01:30:00Z"
-        },
-        {
-            "source": {
-                "id": "d189a400ff1a62abfa361ca86e0f7142",
-                "name": "Simple Flying",
-                "url": "https://simpleflying.com",
-                "country": "us"
-            },
-            "title": "Here’s How The F-35 Can Quickly Identify Unknown Contacts",
-            "url": "https://simpleflying.com/f-35-quickly-idenity-unknown-contacts/",
-            "urlToImage": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/unkopwn.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-02-28T01:00:17Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Study: People are overconfident they can tell AI-made faces from real",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/28/study-people-are-overconfident-they-can-tell-ai-made-faces-from-real",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/25/3786379.jpeg",
-            "publishedAt": "2026-02-28T01:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "\"We Don't Need It\": Trump Orders Federal Agencies To Halt Use Of Anthropic",
-            "url": "https://www.ndtv.com/world-news/we-dont-need-it-donald-trump-orders-federal-agencies-to-halt-use-of-anthropic-technology-ceo-dario-amodei-11147678",
-            "urlToImage": "https://c.ndtvimg.com/2026-02/gdtqqof_trump-amodei-_625x300_28_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2026-02-28T00:59:02Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Growing reliance on AI: Creative sector at crossroads over originality",
-            "url": "https://timesofindia.indiatimes.com/city/bengaluru/growing-reliance-on-ai-creative-sector-at-crossroads-over-originality/articleshow/128864918.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-117518782,width-1280,height-720,imgsize-94950,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-02-28T00:48:00Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "Trump directs U.S. agencies to toss Anthropic's AI as Pentagon calls startup a supply risk",
-            "url": "https://www.japantimes.co.jp/business/2026/02/28/tech/trump-anthropic-supply-risk-pentagon/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/28/526180.jpg?v=3.1",
-            "publishedAt": "2026-02-28T00:47:50Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "Trump directs U.S. agencies to toss Anthropic's AI as Pentagon calls startup a supply risk",
-            "url": "https://www.japantimes.co.jp/business/2026/02/28/tech/trump-anthropic-supply-risk/",
-            "urlToImage": "https://www.japantimes.co.jp/theme_japantimes/images/no-image.png",
-            "publishedAt": "2026-02-28T00:47:50Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "month phaseout of Anthropic AI technology across government",
-            "url": "https://www.abc.net.au/news/2026-02-28/president-s-post-orders-six-month-phaseout-of-anthropic-technolo/106400088",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/32b4bc12e67ebfb5463c4296c3172c9d?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-02-28T00:35:55Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "out of Anthropic AI technology across government",
-            "url": "https://www.abc.net.au/news/2026-02-28/us-president-orders-six-month-phaseout-of-anthropic-technology/106400088",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/32b4bc12e67ebfb5463c4296c3172c9d?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-02-28T00:35:55Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety",
-            "url": "https://economictimes.indiatimes.com/tech/technology/trump-orders-us-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety/articleshow/128871712.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-83812,resizemode-75,msid-128871712/tech/technology/trump-orders-us-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety.jpg",
-            "publishedAt": "2026-02-28T00:32:29Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety",
-            "url": "https://economictimes.indiatimes.com/news/defence/trump-orders-us-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety/articleshow/128870385.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128870388,width-1200,height-630,imgsize-83812,overlay-etdefence/articleshow.jpg",
-            "publishedAt": "2026-02-28T00:32:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India Inc resets strategy as AI takes over boardroom",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-inc-resets-strategy-as-ai-takes-over-boardroom/articleshow/128864271.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1556589,resizemode-75,msid-128864271/tech/artificial-intelligence/india-inc-resets-strategy-as-ai-takes-over-boardroom.jpg",
-            "publishedAt": "2026-02-28T00:30:00Z"
         }
     ]
 }
