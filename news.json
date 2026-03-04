@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-03-04T14:35:39.115483Z",
+    "lastUpdatedAt": "2026-03-04T15:35:40.180109Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "IIT Kharagpur announces launch of school of digital learning, applied AI, machine learning",
+            "url": "https://timesofindia.indiatimes.com/education/news/iit-kharagpur-announces-launch-of-school-of-digital-learning-applied-ai-machine-learning/articleshow/129003999.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129004086,width-1280,height-720,imgsize-57838,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-04T03:32:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Sam Altman tells staff OpenAI has no say over Pentagon decisions",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-tells-staff-openai-has-no-say-over-pentagon-decisions/articleshow/129003768.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36010,resizemode-75,msid-129003768/tech/artificial-intelligence/sam-altman-tells-staff-openai-has-no-say-over-pentagon-decisions.jpg",
+            "publishedAt": "2026-03-04T03:30:20Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Meta Platforms (META) Launches New AI Engineering Team",
+            "url": "https://markets.businessinsider.com/news/stocks/meta-platforms-meta-launches-new-ai-engineering-team-1035894676",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/03/image-301.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-03-04T03:00:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Head of Alibaba's Qwen AI division resigns",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/04/head-of-alibaba039s-qwen-ai-division-resigns",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/04/3796544.jpg",
+            "publishedAt": "2026-03-04T02:56:00Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "iTWire TV: Schools Are Swimming in Student Data. Hackers Have Noticed.",
+            "url": "https://itwire.com/guest-articles/guest-interviews/itwire-tv-schools-are-swimming-in-student-data-hackers-have-noticed.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/93b6fc6819cbaaa8b41ca70780f16cc8_XS.jpg",
+            "publishedAt": "2026-03-04T02:54:09Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "When software builds software: What developers must learn now",
+            "url": "https://timesofindia.indiatimes.com/technology/times-techies/when-software-builds-software-what-developers-must-learn-now/articleshow/129002454.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129002460,width-1280,height-720,imgsize-27936,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-04T02:46:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Head of Alibaba's Qwen AI division resigns",
+            "url": "https://www.reuters.com/world/asia-pacific/head-alibabas-qwen-ai-division-resigns-2026-03-04/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/YN3QYHR43ZIPDI4THOXMJUER5M.jpg?auth=998006c15796a5f34b102144c693d6c1650e878381ad9625843f5934cb24df8b&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-04T02:36:57Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Head of Alibaba's Qwen AI division resigns",
+            "url": "https://www.marketscreener.com/news/head-of-alibaba-s-qwen-ai-division-resigns-ce7e5cd3db8cf124",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-03-04T02:36:17Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -3435,102 +3531,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/03/02/nvidia-forms-alliance-to-make-sure-6g-networks-embrace-ai",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/02/3793605.jpg",
             "publishedAt": "2026-03-02T06:00:00Z"
-        },
-        {
-            "source": {
-                "id": "854fce6b3fa06d5d2f482ff35d18e233",
-                "name": "Forbes India",
-                "url": "https://www.forbesindia.com",
-                "country": "in"
-            },
-            "title": "India must scale AI infra, talent, and trust to stay competitive: Experts",
-            "url": "https://www.forbesindia.com/article/news/india-must-scale-ai-infra-talent-and-trust-to-stay-competitive-experts/2991848/1",
-            "urlToImage": "https://images.forbesindia.com/blog/wp-content/uploads/2026/03/AI-sessions-at-Rising-BharatMKBG-2026-03-4b476340b4310ccfb4d101066b80abea.jpg?im=FitAndFill,width=1200,height=900",
-            "publishedAt": "2026-03-02T05:57:12Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Claude AI will enable a 24-year-old to outperform entire Accenture workforce, Y Combinator partner says",
-            "url": "https://www.indiatoday.in/technology/news/story/claude-ai-will-enable-a-24-year-old-to-outperform-entire-accenture-workforce-y-combinator-partner-says-2876399-2026-03-02",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/claude--accenture--ai-02445941-16x9_0.jpg?VersionId=mYwkM_P.MyG75LSuHAkQN2fXW.qkM7BQ",
-            "publishedAt": "2026-03-02T05:54:25Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "Singapore, South Korea to work towards upgrading free trade agreement",
-            "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-lee-jae-myung-south-korea-free-trade-agreement-5963031",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--PUQKEtcg--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/02/mddi_10.jpeg?itok=ghF6Gk6h",
-            "publishedAt": "2026-03-02T05:49:02Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Study finds AI tools are making people work more, many skipping breaks",
-            "url": "https://www.indiatoday.in/jobs/story/study-finds-ai-tools-are-making-people-work-more-many-skipping-breaks-tchc-2876362-2026-03-02",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/ai-vibe-coding-office-image-022619121-16x9_0.png?VersionId=TYuGkuCBIcg87O5ui08CQmNoMs1_yCux",
-            "publishedAt": "2026-03-02T05:28:30Z"
-        },
-        {
-            "source": {
-                "id": "0c9364fff53c0e5a3450947d9a54e795",
-                "name": "Daily Mail Online",
-                "url": "https://www.dailymail.co.uk",
-                "country": "gb"
-            },
-            "title": "Tech billionaire Jack Dorsey cuts half of his Afterpay workforce in Australia as AI takes over - just days after splurging on lavish company trip",
-            "url": "https://www.dailymail.co.uk/news/article-15605321/Afterpay-sack-worker-Australia-Jack-Dorsey.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2026/03/02/04/106790329-0-image-a-33_1772425419351.jpg",
-            "publishedAt": "2026-03-02T05:22:19Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Telekom Introduces AI Assistant to Mobile Network",
-            "url": "https://www.marketscreener.com/news/telekom-introduces-ai-assistant-to-mobile-network-ce7e5cdcdd8bfe2c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-03-02T05:01:30Z"
-        },
-        {
-            "source": {
-                "id": "6b5c45eb50a6698dcc6711c82d72fb2e",
-                "name": "Oxford Mail",
-                "url": "https://www.oxfordmail.co.uk",
-                "country": "gb"
-            },
-            "title": "AI being increasingly mentioned in children’s stories",
-            "url": "https://www.oxfordmail.co.uk/news/25897105.ai-increasingly-mentioned-childrens-stories/",
-            "urlToImage": "https://www.oxfordmail.co.uk/resources/images/20599452.jpg?type=og-image",
-            "publishedAt": "2026-03-02T05:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "News sites, religious apps hacked amid joint US-Israeli operation",
-            "url": "https://www.firstpost.com/tech/news-sites-religious-apps-hacked-amid-joint-us-israeli-operation-13985239.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/03/Untitled-design-67-2026-03-9dd8ee306e94584ee68294076b2deb3c-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-03-02T04:57:57Z"
         }
     ]
 }
