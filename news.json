@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-03-04T16:38:11.447670Z",
+    "lastUpdatedAt": "2026-03-04T17:35:19.077832Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Alibaba's Qwen AI division head becomes latest exec to leave this year",
+            "url": "https://www.marketscreener.com/news/alibaba-s-qwen-ai-division-head-becomes-latest-exec-to-leave-this-year-ce7e5cd3da88f527",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-29T011348Z_1_LYNXMPEL3S00V_RTROPTP_4_ALIBABA-AI.JPG",
+            "publishedAt": "2026-03-04T05:28:50Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Greenland's Kvanefjeld: A Critical Minerals Goldmine Risks Being Buried by Its Own Government",
+            "url": "https://techbullion.com/greenlands-kvanefjeld-a-critical-minerals-goldmine-risks-being-buried-by-its-own-government/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/2021-10-14T060402Z_616656447_RC2RNP91PGZ2_RTRMADP_3_GREENLAND-MINING-scaled-1-1000x600.jpg",
+            "publishedAt": "2026-03-04T05:06:39Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Kevin Warsh has a point on AI and inflation",
+            "url": "https://www.reuters.com/commentary/breakingviews/kevin-warsh-has-point-ai-inflation-2026-03-04/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/7JB4MAH7I5KTRKFFEKWIGODV3I.jpg?auth=29022fd2dff45899215604bbf299dc90c79c209a945f0bd7e1cd60528f19ba03&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-04T05:00:47Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Claude AI Helped Bomb Iran. But How Exactly?",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-03-04/iran-strikes-anthropic-claude-ai-helped-us-attack-but-how-exactly",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJLxWmkp8o7M/v1/1200x800.jpg",
+            "publishedAt": "2026-03-04T05:00:05Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Fortescue founder losing sleep over AI nightmares",
+            "url": "https://www.perthnow.com.au/news/technology/fortescue-founder-losing-sleep-over-ai-nightmares-c-21831712",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-21831712/602bf84fcdc7c892061f319a33b7cda31925f747-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-03-04T04:54:19Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "Fortescue founder losing sleep over AI nightmares",
+            "url": "https://www.canberratimes.com.au/story/9190475/fortescue-founder-losing-sleep-over-ai-nightmares/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/7fee37ae-2311-4315-b085-59583bd6b5e1.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-03-04T04:51:21Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Meta, NewsCorp in AI content licensing deal worth up to $50 million annually",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-newscorp-in-ai-content-licensing-deal-worth-up-to-50-million-a-year/articleshow/129006543.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37450,resizemode-75,msid-129006543/tech/artificial-intelligence/meta-newscorp-in-ai-content-licensing-deal-worth-up-to-50-million-a-year.jpg",
+            "publishedAt": "2026-03-04T04:48:17Z"
+        },
         {
             "source": {
                 "id": "03f4f74aaa0a44ccbb846a1630123293",
@@ -3441,90 +3525,6 @@
             "url": "https://www.devdiscourse.com/article/law-order/3823060-arunachals-new-policing-era-strengthening-security-through-technology",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_02_2026_15_58_15_9707973.jpg?width=920&format=jpeg",
             "publishedAt": "2026-03-02T08:51:50Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI at war: US strikes Iran with Anthropic's Claude hours after Trump ban",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-at-war-us-strikes-iran-with-anthropics-claude-hours-after-trump-ban/articleshow/128941828.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128942116,width-1280,height-720,imgsize-1285067,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-02T08:40:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "LinkedIn lists skills on the rise in 2026: Why skills matter more than job titles in the AI hiring era",
-            "url": "https://timesofindia.indiatimes.com/relationships/linkedin-lists-skills-on-the-rise-in-2026-why-skills-matter-more-than-job-titles-in-the-ai-hiring-era/articleshow/128941900.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128942012,width-1280,height-720,imgsize-70836,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-02T08:36:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Intel, Ericsson Team Up to Boost Transition to AI-Native 6G Mobile Technology",
-            "url": "https://www.marketscreener.com/news/intel-ericsson-team-up-to-boost-transition-to-ai-native-6g-mobile-technology-ce7e5cdcdf8bf524",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-03-02T08:32:44Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Performance, Efficient, and Scalable AI Infrastructure",
-            "url": "https://www.tribuneindia.com/news/business/supermicro-expands-support-for-ai-ran-and-sovereign-ai-solutions-to-deliver-high-performance-efficient-and-scalable-ai-infrastructure/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA3NjBkM2IwLTE2MTAtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-            "publishedAt": "2026-03-02T08:15:47Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "U.S. Schools Are Betting Big on A.I. Will New York City Be Next?",
-            "url": "https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/03/08/nyregion/08met-mamdani-ai-kmwv/00met-mamdani-ai-kmwv-facebookJumbo.jpg",
-            "publishedAt": "2026-03-02T08:00:08Z"
-        },
-        {
-            "source": {
-                "id": "03f4f74aaa0a44ccbb846a1630123293",
-                "name": "Crypto Breaking News",
-                "url": "https://www.cryptobreaking.com",
-                "country": "ae"
-            },
-            "title": "Bitcoin to Ride Tailwinds If AI Drives Easier Monetary Policy, NYDIG",
-            "url": "https://www.cryptobreaking.com/bitcoin-to-ride-tailwinds-if/",
-            "urlToImage": "https://www.cryptobreaking.com/wp-content/uploads/2026/03/dalle_69a543775d01d2.49855076.jpg",
-            "publishedAt": "2026-03-02T08:00:08Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "China’s Honor shows humanoid and robot phone demo in AI pivot",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/02/chinas-honor-shows-humanoid-and-robot-phone-demo-in-ai-pivot",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/02/3793846.jpg",
-            "publishedAt": "2026-03-02T08:00:00Z"
         }
     ]
 }
