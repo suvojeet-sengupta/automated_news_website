@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-03-04T05:39:40.000115Z",
+    "lastUpdatedAt": "2026-03-04T06:40:40.960512Z",
     "articles": [
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "SMEs see artificial intelligence potential but ‘fail to capitalise on new tech’",
+            "url": "https://www.irishtimes.com/business/2026/03/03/smes-see-artificial-intelligence-potential-but-fail-to-capitalise-on-new-tech/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/RKS56WLJAMR5ZODCQXNIIU6X2E.jpg?smart=true&auth=5abf22d424ccf8af298bb3a264e6c5000fe617cc1cb0bbbdc432205873c2388d&width=1200&height=630",
+            "publishedAt": "2026-03-03T18:37:43Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Here’s how AI translates brain signals into words",
+            "url": "https://www.thenews.com.pk/latest/1394476-heres-how-ai-turns-thoughts-into-speech-and-images",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-03/1394476_113953_updates.jpg",
+            "publishedAt": "2026-03-03T18:30:41Z"
+        },
+        {
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+            },
+            "title": "The questions we are not yet asking of AI",
+            "url": "https://www.newindianexpress.com/opinion/2026/Mar/03/the-questions-we-are-not-yet-asking-of-ai",
+            "urlToImage": "https://media.newindianexpress.com/newindianexpress%2F2026-03-03%2Fmz148rkb%2F2026-03-03-at-21.43.39.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-03-03T18:30:00Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "time governance and visibility to enterprise AI",
+            "url": "https://techstartups.com/2026/03/03/jetstream-raises-34m-seed-to-bring-real-time-governance-and-visibility-to-enterprise-ai/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2026/03/JetStream-Founders.jpg",
+            "publishedAt": "2026-03-03T18:29:34Z"
+        },
+        {
+            "source": {
+                "id": "e743cde6ee986921721e83d3957862dc",
+                "name": "Zee News",
+                "url": "https://zeenews.india.com",
+                "country": "in"
+            },
+            "title": "Cybersecurity firm flags fake 'Red Alert' app spreading via SMS spoofing amid West Asia conflict",
+            "url": "https://zeenews.india.com/technology/cybersecurity-firm-flags-fake-red-alert-app-spreading-via-sms-spoofing-amid-west-asia-conflict-3023404.html",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/03/03/1913576-cyber.jpg",
+            "publishedAt": "2026-03-03T18:25:26Z"
+        },
+        {
+            "source": {
+                "id": "64af9ff6ec07d70d68e9adf4e68843a5",
+                "name": "Sky News",
+                "url": "https://news.sky.com",
+                "country": "gb"
+            },
+            "title": "AI could be giving US lethal edge in Iran war - but there are dangers",
+            "url": "https://news.sky.com/story/ai-could-be-giving-us-lethal-edge-in-iran-war-but-there-are-dangers-13514784",
+            "urlToImage": "https://e3.365dm.com/26/03/1600x900/skynews-iran-missile-launch_7181251.jpg?20260303184829",
+            "publishedAt": "2026-03-03T18:01:00Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "X to impose 90-day revenue ban for undisclosed AI-generated videos",
+            "url": "https://www.indiatoday.in/technology/story/x-creator-revenue-sharing-penalties-ai-generated-videos-armed-conflicts-2877203-2026-03-03",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/x--social-media-035651168-16x9_0.png?VersionId=ZQs68mQi33LdZlU9PL19vDPmPXIfS8yF",
+            "publishedAt": "2026-03-03T17:57:16Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Qualcomm CEO predicts 2026 will be the year of the AI agent",
+            "url": "https://www.mercurynews.com/2026/03/03/qualcomm-ceo-predicts-2026-will-be-the-year-of-the-ai-agent/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2022/09/SJM-Z-UCSDHall-0904.jpg?w=1024&h=706",
+            "publishedAt": "2026-03-03T17:55:05Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -1368,6 +1464,15 @@
             "url": "https://www.businesswire.com/news/home/20260302933706/en/Yubico-Establishes-Singapore-as-Third-Global-Headquarters-Accelerating-Asia-Pacific-Growth",
             "urlToImage": "https://mms.businesswire.com/media/20260302933706/en/2735171/22/yubico-logo-512x239-76b93d_%281%29.jpg",
             "publishedAt": "2026-03-03T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "norfolkdailynews"
+            },
+            "title": "As AI Thermal Demands Surge, Rapidaccu Emerges as Key Player in Precision Liquid Cooling Component Manufacturing",
+            "url": "https://norfolkdailynews.com/online_features/press_releases/as-ai-thermal-demands-surge-rapidaccu-emerges-as-key-player-in-precision-liquid-cooling-component/article_7a4cc85c-a192-56a2-aec4-8ca71600d447.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/0/f1/0f1998fc-6886-5954-8c86-646291b3a12c/69a73f3695df5.image.jpg?resize=300%2C225",
+            "publishedAt": "2026-03-03 18:35:05"
         },
         {
             "source": {
@@ -3402,87 +3507,6 @@
             "url": "https://www.messenger-inquirer.com/news/national/middle-east-fighting-overshadows-world-telecom-show/article_7cedfcce-4687-551f-850c-6a7dccea904c.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/0/a1/0a1c101a-8251-5ad7-acb8-972475133e26/69a5634b2e4a4.image.jpg?resize=300%2C200",
             "publishedAt": "2026-03-02 17:33:48"
-        },
-        {
-            "source": {
-                "name": "kdhnews"
-            },
-            "title": "Middle East fighting overshadows world telecom show",
-            "url": "https://kdhnews.com/news/nation/middle-east-fighting-overshadows-world-telecom-show/article_c239f17b-7913-509d-b0e2-63859eb8ce9d.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/1/f7/1f7e8c2b-cc12-5c94-82af-4316fce33ad1/69a5632e7e315.image.jpg?resize=400%2C266",
-            "publishedAt": "2026-03-02 17:33:48"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Why Edge Computing Is Becoming Critical for AI, IoT and Real-Time Systems",
-            "url": "https://hackernoon.com/why-edge-computing-is-becoming-critical-for-ai-iot-and-real-time-systems",
-            "urlToImage": "https://substackcdn.com/image/fetch/$s_!w1Vf!,f_auto,q_auto:good,fl_progressive:steep/https:%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F659f7712-6f04-49e9-8ce0-467509e0a2fa_1440x810.avif",
-            "publishedAt": "2026-03-02 16:38:51"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Amazon’s $21B Spain Bet Ignites Europe’s AI Infrastructure Race",
-            "url": "https://www.analyticsinsight.net/news/amazons-21b-spain-bet-ignites-europes-ai-infrastructure-race",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2026-03-02%2Flq1kxxq7%2FAmazon%E2%80%99s-21B-Spain-Bet-Ignites-Europe%E2%80%99s-AI-Infrastructure-Race?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "publishedAt": "2026-03-02 15:45:00"
-        },
-        {
-            "source": {
-                "name": "cornelledu"
-            },
-            "title": "Experts to examine the use of generative AI in science",
-            "url": "https://news.cornell.edu/stories/2026/03/experts-examine-use-generative-ai-science",
-            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_home/public/2025-10/ai_lightbulb_istock-2164746643.jpg?itok=E4EfhhS6",
-            "publishedAt": "2026-03-02 15:21:17"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "MediaTek to Debut World’s First 6G Radio Demo & AI-Powered Smart Glasses at MWC 2026",
-            "url": "https://www.androidheadlines.com/2026/03/mediatek-to-debut-worlds-first-6g-radio-demo-ai-powered-smart-glasses-at-mwc-2026.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/02/AH-Mediatek-Logo-3-1420x799.webp",
-            "publishedAt": "2026-03-02 14:06:26"
-        },
-        {
-            "source": {
-                "name": "norfolkdailynews"
-            },
-            "title": "Stagwell Launches Stagwell Search+: The Industry's First Agentic Platform To Win AI Search",
-            "url": "https://norfolkdailynews.com/online_features/press_releases/stagwell-launches-stagwell-search-the-industrys-first-agentic-platform-to-win-ai-search/article_c39ce45b-1a1a-5c80-a802-8639c366a086.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/f/f0/ff019b4c-1374-5545-91b5-adf3cabf67f3/69a5a06c599c6.image.png",
-            "publishedAt": "2026-03-02 13:30:00"
-        },
-        {
-            "source": {
-                "name": "technologyreview"
-            },
-            "title": "The Download: protesting AI, and what’s floating in space",
-            "url": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
-            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/03/PXL_20260228_140922914-EDIT.jpg?resize=1200%2C600",
-            "publishedAt": "2026-03-02 13:20:00"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "MediaTek outlines 6G, edge AI and data centre ambitions at MWC 2026",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/mediatek-outlines-6g-edge-ai-and-data-centre-ambitions-at-mwc-2026/articleshow/128944885.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-113672,resizemode-75,msid-128944885/magazines/panache/mediatek-outlines-6g-edge-ai-and-data-centre-ambitions-at-mwc-2026.jpg",
-            "publishedAt": "2026-03-02 11:18:24"
-        },
-        {
-            "source": {
-                "name": "gadgets360"
-            },
-            "title": "MediaTek Set to Demonstrate 6G, 5G-Advanced, Edge AI Innovations at ‘AI For Life’ Showcase at MWC 2026",
-            "url": "https://www.gadgets360.com/mobiles/news/mediatek-showcase-6g-5g-advanced-edge-ai-innovations-mwc-2026-11158621",
-            "urlToImage": "https://i.gadgets360cdn.com/large/mediatek_logo_mediatek_1758012011780.jpg?downsize=400%3A%2A",
-            "publishedAt": "2026-03-02 11:07:20"
         }
     ]
 }
