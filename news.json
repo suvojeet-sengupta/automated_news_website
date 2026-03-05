@@ -1,6 +1,174 @@
 {
-    "lastUpdatedAt": "2026-03-05T15:45:43.962216Z",
+    "lastUpdatedAt": "2026-03-05T17:59:12.509461Z",
     "articles": [
+        {
+            "source": {
+                "id": "e743cde6ee986921721e83d3957862dc",
+                "name": "Zee News",
+                "url": "https://zeenews.india.com",
+                "country": "in"
+            },
+            "title": "Morgan Stanley lays off 2,500 employees across divisions: Report",
+            "url": "https://zeenews.india.com/economy/morgan-stanley-lays-off-2500-employees-across-divisions-report-3023879.html",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/03/05/1914095-firing-ians.jpg",
+            "publishedAt": "2026-03-05T05:55:31Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nvidia halts China-bound H200 output, shifts TSMC capacity to Vera Rubin, FT reports",
+            "url": "https://www.marketscreener.com/news/nvidia-halts-china-bound-h200-output-shifts-tsmc-capacity-to-vera-rubin-ft-reports-ce7e5fdade89f623",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-29T050245Z_1_LYNXMPEL7S059_RTROPTP_4_NVIDIA-RESULTS-CHINA.JPG",
+            "publishedAt": "2026-03-05T05:39:23Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Broadcom Shares Surge In Post Market Trade After Strong Q1 Earnings",
+            "url": "https://www.ndtvprofit.com/technology/broadcom-shares-surge-in-post-market-trade-after-strong-q1-earnings-11170770",
+            "urlToImage": "https://c.ndtvimg.com/2026-03/80ll8vl8_broadcom_625x300_05_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
+            "publishedAt": "2026-03-05T05:37:07Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "AI vs freshers: Are entry-level jobs disappearing for graduates?",
+            "url": "https://www.indiatoday.in/jobs/story/ai-vs-freshers-are-entry-level-jobs-disappearing-for-graduates-educ-2877580-2026-03-05",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/is-ai-shrinking-the-first-job-opportunity-for-young-graduates-051042994-16x9_0.jpg?VersionId=qmsXbTw8mpSdr6K3O7d52cT_MPAL6B_b",
+            "publishedAt": "2026-03-05T05:36:33Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "AI giants promise Trump to pay for increased energy needs",
+            "url": "https://www.thehindu.com/sci-tech/technology/ai-giants-promise-trump-to-pay-for-increased-energy-needs/article70705774.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/2dh3p0/article70705777.ece/alternates/LANDSCAPE_1200/2024-12-17T201805Z_1701442807_RC2FQBAVTPTT_RTRMADP_3_USA-TRUMP-POLL.JPG",
+            "publishedAt": "2026-03-05T05:33:52Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Amazon layoffs: robotics team hit in latest cuts",
+            "url": "https://economictimes.indiatimes.com/tech/technology/amazon-layoffs-robotics-team-hit-in-latest-cuts/articleshow/129070612.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-163522,resizemode-75,msid-129070612/tech/technology/amazon-layoffs-robotics-team-hit-in-latest-cuts.jpg",
+            "publishedAt": "2026-03-05T05:24:28Z"
+        },
+        {
+            "source": {
+                "id": "0efa652ad857b0970d5f941368f29ba0",
+                "name": "DefenseNews.com",
+                "url": "https://www.defensenews.com",
+                "country": "us"
+            },
+            "title": "Novel interceptor drones bend air-defense economics in Ukraine’s favor",
+            "url": "https://www.defensenews.com/global/europe/2026/03/05/novel-interceptor-drones-bend-air-defense-economics-in-ukraines-favor/",
+            "urlToImage": "https://www.armytimes.com/resizer/v2/DTYKQR7BR5AIZKYT5WR3O5R72M.jpg?width=1200&auth=57460cf012992fc99ec0d486632867875e5d08ed4d88dd8df8bceeaba61e52a1",
+            "publishedAt": "2026-03-05T05:00:00Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "AI pinpoints why vaccine responses vary globally",
+            "url": "https://www.news-medical.net/news/20260304/AI-pinpoints-why-vaccine-responses-vary-globally.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2018/7/antibody_in_pink_and_red_background_selective_focus_3d_art_-_Mirror-Images_A1_71b890c58eb74b42a6490cfe1b003dce-620x480.jpg",
+            "publishedAt": "2026-03-05T04:40:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "OpenAI tops $25 billion in annualized revenue, The Information reports",
+            "url": "https://www.marketscreener.com/news/openai-tops-25-billion-in-annualized-revenue-the-information-reports-ce7e5fdadf8cf02c",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-14T180131Z_1_LYNXMPEL3D0UM_RTROPTP_4_OPENAI-CHATGPT.JPG",
+            "publishedAt": "2026-03-05T04:07:05Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "S$45 million grant to help healthcare providers meet new data-sharing, cybersecurity rules",
+            "url": "https://www.channelnewsasia.com/singapore/healthcare-grant-cybersecurity-clinics-hia-nehr-5972421",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--h8_PDAEK--/c_crop,h_843,w_1499,x_1,y_157/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2021-10/cal_3861.jpg?itok=mju6q-LR",
+            "publishedAt": "2026-03-05T04:05:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "GAC Achieves Global First with DAkkS-Accredited ASIL D Functional Safety and Cybersecurity Certification for Quark E-Drive",
+            "url": "https://www.manilatimes.net/2026/03/05/tmt-newswire/pr-newswire/gac-achieves-global-first-with-dakks-accredited-asil-d-functional-safety-and-cybersecurity-certification-for-quark-e-drive/2293651",
+            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-03-05T04:04:59Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "US Military Relying on AI as Key Tool to Speed Iran Operations",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-05/us-military-relying-on-ai-as-key-tool-to-speed-iran-operations",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9mdWTxWZ.1M/v1/1200x800.jpg",
+            "publishedAt": "2026-03-05T04:03:22Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Amazon's fresh round of layoffs 2 months after tech giant's 16,000 job cuts",
+            "url": "https://www.indiatoday.in/jobs/story/amazon-layoffs-hit-robotics-division-ai-push-focus-job-cuts-2877547-2026-03-05",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/amazon-office-055239815-16x9_0.jpg?VersionId=05iA6V7KLtGIIvox_WeuX1Unsnp_YaTD",
+            "publishedAt": "2026-03-05T03:57:28Z"
+        },
+        {
+            "source": {
+                "id": "8749653ef849c3df2e467a8e0f0c6672",
+                "name": "NBC10 Boston",
+                "url": "https://www.nbcboston.com",
+                "country": "us"
+            },
+            "title": "War in Iran raises cybersecurity concerns",
+            "url": "https://www.nbcboston.com/investigations/consumer/war-in-iran-raises-cybersecurity-concerns/3910805/",
+            "urlToImage": "https://media.nbcboston.com/2023/07/107273043-1689694877439-gettyimages-1086245672-8.jpeg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2026-03-05T03:53:21Z"
+        },
         {
             "source": {
                 "id": "c73686fdf0e30639d57eddaf7a77236e",
@@ -3366,174 +3534,6 @@
             "url": "https://www.tribuneindia.com/news/business/domus-academy-launches-two-new-master-programmes-design-x-ai-and-design-futures/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ0NmY2MjIwLTE2ZTQtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
             "publishedAt": "2026-03-03T09:33:39Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Domus Academy launches two new Master programmes: Design x AI and Design Futures",
-            "url": "https://www.manilatimes.net/2026/03/03/tmt-newswire/pr-newswire/domus-academy-launches-two-new-master-programmes-design-x-ai-and-design-futures/2291942",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/03/957851.jpg",
-            "publishedAt": "2026-03-03T09:33:24Z"
-        },
-        {
-            "source": {
-                "id": "5ac5f32ba74846cef441099f666f2d98",
-                "name": "Fast Company",
-                "url": "https://www.fastcompany.com",
-                "country": "us"
-            },
-            "title": "Why AI won’t replace strategy",
-            "url": "https://www.fastcompany.com/91498609/ai-wont-replace-strategy-it-will-expose-it",
-            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-1-91498609-ai-wont-replace-strategy-it-will-expose-it.jpg",
-            "publishedAt": "2026-03-03T09:30:00Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "AI SCAMS: What they are and how to spot them",
-            "url": "https://wjla.com/news/local/ai-scams-postal-inspection-phishing-deepfake-social-engineering-investment-scams-romance-scams-fraud-prevention",
-            "urlToImage": "https://wjla.com/resources/media/17f77285-6eac-42fb-a9f1-0a84eedefb1a-jumbo16x9_AP23208848796901.jpg",
-            "publishedAt": "2026-03-03T09:30:00Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "How Agnikul's AI data centre in space would work: Co-founder explains",
-            "url": "https://theprint.in/india/how-agnikuls-ai-data-centre-in-space-would-work-co-founder-explains/2868734/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-03-03T09:15:03Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "We’re Not in a Sci-Fi Thriller. We’re in the First Draft.",
-            "url": "https://techbullion.com/were-not-in-a-sci-fi-thriller-were-in-the-first-draft/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/image-7-1-925x600.png",
-            "publishedAt": "2026-03-03T09:06:47Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US government's transition to ChatGPT from Anthropic starts, read memo",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-governments-transition-to-chatgpt-from-anthropic-starts-read-memo/articleshow/128963069.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128963062,width-1280,height-720,imgsize-18812,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-03T08:56:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Ericsson CEO says Europe is tech ‘museum’ and China ahead on AI",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/03/ericsson-ceo-says-europe-is-tech-museum-and-china-ahead-on-ai",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/03/3795550.jpg",
-            "publishedAt": "2026-03-03T08:54:00Z"
-        },
-        {
-            "source": {
-                "id": "c8c865ed042eb14694b8d596e22efe99",
-                "name": "Spokane Spokesman-Review",
-                "url": "https://www.spokesman.com",
-                "country": "us"
-            },
-            "title": "An Ohio newspaper has a new star writer. It isn’t human.",
-            "url": "https://www.spokesman.com/stories/2026/mar/03/an-ohio-newspaper-has-a-new-star-writer-it-isnt-hu/",
-            "urlToImage": "https://thumb.spokesman.com/l2sMHX5ZvY-IivJJOF8GNS33NSY=/600x0/media.spokesman.com/graphics/2020/08/sr_placeholder.png",
-            "publishedAt": "2026-03-03T08:54:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "EIB Signs €60m Loan to Boost Prosegur’s AI, Cybersecurity Push",
-            "url": "https://www.devdiscourse.com/article/business/3824461-eib-signs-60m-loan-to-boost-prosegurs-ai-cybersecurity-push",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_06_2025_16_28_39_7691152.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-03T08:31:29Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Prasoon Joshi Discusses the Impact of AI on Creativity at DNPA Conclave 2026",
-            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prasoon-joshi-on-ai-and-creativity-at-dnpa-conclave-2026/articleshow/128961996.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-128961996,width-1280,height-720,imgsize-71554,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-03T08:19:00Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Musk’s X and xAI to repay $17.5bn debt",
-            "url": "https://www.thenews.com.pk/latest/1394416-musks-x-and-xai-to-repay-175bn-debt",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-03/1394416_011803_updates.jpg",
-            "publishedAt": "2026-03-03T08:11:51Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "US agencies switch to OpenAI after White House orders Anthropic exit",
-            "url": "https://www.firstpost.com/tech/us-agencies-switch-to-openai-after-white-house-orders-anthropic-exit-13985795.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/01/OpenAI-2026-01-f7822a76bf2cb6c47920c24a500748fa-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-03-03T08:06:23Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Reimagining tax compliance with AI, data integrity, and intelligent reporting",
-            "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/reimagining-tax-compliance-with-ai-data-integrity-and-intelligent-reporting/articleshow/128962190.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-128962149,width-1200,height-630,imgsize-61654,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-03-03T08:06:00Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "Nvidia to invest $4B into 2 optics firms",
-            "url": "https://www.arkansasonline.com/news/2026/mar/03/nvidia-to-invest-4b-into-2-optics-firms/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
-            "publishedAt": "2026-03-03T08:02:00Z"
         }
     ]
 }
