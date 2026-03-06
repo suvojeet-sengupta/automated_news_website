@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-03-06T16:35:28.166256Z",
+    "lastUpdatedAt": "2026-03-06T17:30:53.546734Z",
     "articles": [
+        {
+            "source": {
+                "id": "e743cde6ee986921721e83d3957862dc",
+                "name": "Zee News",
+                "url": "https://zeenews.india.com",
+                "country": "in"
+            },
+            "title": "What is ChatGPT 5.4? Check features, capabilities, and what Open AI’s new model can do",
+            "url": "https://zeenews.india.com/technology/what-is-chatgpt-5-4-check-features-capabilities-and-what-open-ai-s-new-model-can-do-3024245.html",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/03/06/1914518-chatgpt-5.4.jpg",
+            "publishedAt": "2026-03-06T05:14:36Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "OpenAI launches GPT 5.4 in ChatGPT; claimed to support up to 1M tokens of context",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-launches-gpt-5-4-in-chatgpt-claimed-to-support-up-to-1m-tokens-of-context/articleshow/129133389.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129133285,width-1280,height-720,imgsize-468991,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-06T05:04:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Samsung's India R&D centres played pivotal role in Galaxy S26 development",
+            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/samsungs-india-rd-centres-played-pivotal-role-in-galaxy-s26-development/articleshow/129133055.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-129133310,width-1200,height-630,imgsize-63446,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-03-06T04:57:00Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -3495,42 +3531,6 @@
             "url": "https://www.businesswire.com/news/home/20260304892485/en/The-Oasis-Group-Releases-AI-Readiness-Index-First-Maturity-Benchmark-for-Wealth-Management-Industry",
             "urlToImage": "https://mms.businesswire.com/media/20260304892485/en/2736780/22/OasisGroupLogo_TransparentPNG.jpg",
             "publishedAt": "2026-03-04T12:03:00Z"
-        },
-        {
-            "source": {
-                "id": "f9f961786025ff5c7fa216bb67952025",
-                "name": "Vox.com",
-                "url": "https://www.vox.com",
-                "country": "us"
-            },
-            "title": "The AI industry’s civil war",
-            "url": "https://www.vox.com/politics/481229/anthropic-pentagon-openai-amodei-ai",
-            "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/03/gettyimages-2185274774.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-04T12:00:00Z"
-        },
-        {
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            },
-            "title": "Amazon AWS Data Centres Hit by Iranian Drone Strikes - How Digital Transactions Are Affected in UAE and Bahrain",
-            "url": "https://www.ibtimes.com/amazon-aws-data-centres-hit-iranian-drone-strikes-how-digital-transactions-are-affected-uae-3798342",
-            "urlToImage": "https://d.ibtimes.com/en/full/4644180/adcb.png",
-            "publishedAt": "2026-03-04T11:54:51Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Chennai IIT BS degree student, who used Covid lockdown to get two degrees, is a teaching assistant at Harvard today. Who is Shreya Singhal?",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/chennai-iit-bs-degree-student-who-used-covid-lockdown-to-get-two-degrees-is-a-teaching-assistant-at-harvard-today-who-is-shreya-singhal/articleshow/129024142.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-129024146,width-1200,height-630,imgsize-18850,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2026-03-04T11:33:00Z"
         }
     ]
 }
