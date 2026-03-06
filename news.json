@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-03-06T21:25:26.572414Z",
+    "lastUpdatedAt": "2026-03-06T22:23:11.087985Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI investments fuelling global patent growth: UN",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-investments-fuelling-global-patent-growth-un/articleshow/129147332.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-10950,resizemode-75,msid-129147332/tech/artificial-intelligence/ai-investments-fuelling-global-patent-growth-un.jpg",
+            "publishedAt": "2026-03-06T10:14:57Z"
+        },
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "The ‘secretary of war’ and a tech CEO shouldn’t be the only ones debating ethical use of AI | Editorial",
+            "url": "https://www.inquirer.com/opinion/editorials/anthropic-artificial-intelligence-claude-war-hegseth-surveillance-20260306.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/6PXR2UB6MVD2HE6Y56NDTLAHEY.jpg?auth=fdfa0934c70b435cbba123c5fc26baa89f3cc799717deb2e5c8d18aef6fb6ff1&width=760&height=507&smart=true",
+            "publishedAt": "2026-03-06T10:01:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Microsoft Retains Anthropic Technology Following Pentagon Supply Chain Warning",
+            "url": "https://www.marketscreener.com/news/microsoft-retains-anthropic-technology-following-pentagon-supply-chain-warning-ce7e5fd8d88ef12c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-03-06T10:00:52Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Netflix brings AI filmmaking to Hollywood",
+            "url": "https://www.thenews.com.pk/latest/1394796-netflix-brings-ai-filmmaking-to-hollywood",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-06/1394796_030716_updates.jpg",
+            "publishedAt": "2026-03-06T10:00:16Z"
+        },
+        {
+            "source": {
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Fig Security Raises $38M to Tackle 'Silent' Security Failures",
+            "url": "https://www.businessinsider.com/fig-security-raises-38-m-pitch-deck-2026-3",
+            "urlToImage": "https://i.insider.com/69a702c2fd4fbd083f296a73?width=924&format=jpeg",
+            "publishedAt": "2026-03-06T10:00:01Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "STEVE FORBES: The AI Cold War has begun and America cannot afford to lose",
+            "url": "https://www.foxnews.com/opinion/steve-forbes-ai-cold-war-has-begun-america-cannot-afford-lose",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/ai.jpg",
+            "publishedAt": "2026-03-06T10:00:00Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -683,6 +755,18 @@
             "title": "Contrastive learning for passive acoustic monitoring: A framework for sound source discovery and cross-site comparison in marine soundscapes",
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014005",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014005.g008&size=inline",
+            "publishedAt": "2026-03-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "From tests to truth: A misclassification-aware machine learning framework for estimating brucellosis seroprevalence in wild canids",
+            "url": "https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014029",
+            "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014029.strk&size=inline",
             "publishedAt": "2026-03-06T00:00:00Z"
         },
         {
@@ -3423,90 +3507,6 @@
             "url": "https://www.bnnbloomberg.ca/business/2026/03/04/fact-file-claim-that-toyota-is-moving-us-plant-to-canada-is-false-company-says/",
             "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/RICKTL3EDLGHTSRVSRR2BNHQPA.jpg?smart=true&auth=e720cc3df121c0d0ba72767e02a82b7626582989a4cc7025678dfaeec358af79&width=1200&height=630",
             "publishedAt": "2026-03-04T19:10:20Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "Dueling documentaries illuminate the promise and perils of artificial intelligence",
-            "url": "https://www.courant.com/2026/03/04/artificial-intelligence-documentary-treatment/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/03/India_AI_Summit_48122.jpg?w=1024&h=683",
-            "publishedAt": "2026-03-04T18:49:53Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Blackstone Taps Private Credit to Fund Champions Group Buyout",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-04/blackstone-taps-private-credit-to-fund-champions-group-buyout",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irDNkVQKyhXc/v1/1200x800.jpg",
-            "publishedAt": "2026-03-04T18:45:22Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Lawsuit Alleges Google's Gemini Guided Man to Consider 'Mass Casualty' Event Before Suicide",
-            "url": "https://www.usnews.com/news/business/articles/2026-03-04/lawsuit-alleges-googles-gemini-guided-man-to-consider-mass-casualty-event-before-suicide",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/a7a158c/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F40%2F8b931b847a746f775f05f330863621%2Fa667cdf023864e16b6c2ffc6b20bf0b2India_AI_Summit_27632.jpg",
-            "publishedAt": "2026-03-04T18:44:00Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "Snapchat research provides insight for movie marketing",
-            "url": "https://www.socialmediatoday.com/news/snapchat-research-provides-insight-for-movie-marketing/813853/",
-            "urlToImage": "https://imgproxy.divecdn.com/E-71-QoZl2akI6f7hC4I0YgXJaqIoUytjFi3-Fk99oc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zbmFwY2hhdF9tb3ZpZV9yZXNlYXJjaF8yLnBuZw==.webp",
-            "publishedAt": "2026-03-04T18:38:26Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "PagerDuty CEO Tejada Says AI Disruption Concerns 'Overbaked'",
-            "url": "https://www.marketscreener.com/news/pagerduty-ceo-tejada-says-ai-disruption-concerns-overbaked-ce7e5fdad88ef12d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-03-04T18:29:16Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "AI disruption will challenge lending decisions in coming years, Goldman exec says",
-            "url": "https://www.reuters.com/business/finance/ai-disruption-will-challenge-lending-decisions-coming-years-goldman-exec-says-2026-03-04/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/OCR5U42EGJJGTLL5CI4RST4YWQ.jpg?auth=07155b3525995653f9944934ca2276c3f2c8a30a99cd62cbd8f0001fe221e9af&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-04T18:24:41Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Vatican warns AI could lead to 'social control'",
-            "url": "https://www.manilatimes.net/2026/03/05/world/vatican-warns-ai-could-lead-to-social-control/2293462",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/05/960567.jpg",
-            "publishedAt": "2026-03-04T18:23:00Z"
         }
     ]
 }
