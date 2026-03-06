@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-03-06T07:35:27.520433Z",
+    "lastUpdatedAt": "2026-03-06T08:32:21.711468Z",
     "articles": [
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "How Applied AI Is Reshaping Finance: Jiazhao Shi’s View on Financial Intelligence and LLM",
+            "url": "https://techbullion.com/how-applied-ai-is-reshaping-finance-jiazhao-shis-view-on-financial-intelligence-and-llm/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/Screenshot-2026-03-05-at-1.27.18-PM-1000x600.png",
+            "publishedAt": "2026-03-05T20:27:58Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "Pentagon informs Anthropic it is a supply chain risk",
+            "url": "https://www.channelnewsasia.com/world/pentagon-anthropic-claude-supply-chain-risks-us-ai-5974986",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--vCKtbvss--/c_crop,h_900,w_1600,x_0,y_53/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/06/pentagon.jpg?itok=I9O_OfzN",
+            "publishedAt": "2026-03-05T20:13:00Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "US Drafts Rules to Expand Control of World Chip Trade",
+            "url": "https://www.newsmax.com/newsfront/united-states-chips-artificial-intelligence/2026/03/05/id/1248478/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6898781e-a4dc-4e27-b361-3ac0d618a91a&SiteName=Newsmax",
+            "publishedAt": "2026-03-05T20:12:37Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "STPI to turn 68 centres into AI hubs as it expands startup incubation",
+            "url": "https://www.financialexpress.com/business/start-ups/stpi-to-turn-68-centres-into-ai-hubs-as-it-expands-startup-incubation/4163784/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/03/diya-0001-2025-09-30T200614.146_20260116115935_20260209170438_20260305194945.jpg",
+            "publishedAt": "2026-03-05T19:52:18Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Meta to allow AI rivals on WhatsApp for one year: Here’s why",
+            "url": "https://www.thenews.com.pk/latest/1394719-meta-to-allow-ai-rivals-on-whatsapp-for-one-year-heres-why",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-06/1394719_124824_updates.jpg",
+            "publishedAt": "2026-03-05T19:48:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Proposed New York law would bar AI chatbots from posing as lawyers, allow duped users to sue",
+            "url": "https://www.reuters.com/legal/government/proposed-new-york-law-would-bar-ai-chatbots-posing-lawyers-allow-duped-users-sue-2026-03-05/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/JTCWDGTR3BIVTHVGCVJ2YFMRXE.jpg?auth=151acad30d3512c56d98374ab634374026d35bb74c1aaf253db816c90e5d1370&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-05T19:43:39Z"
+        },
+        {
+            "source": {
+                "id": "3271eb2093cfa66b030a37cf84a8df5e",
+                "name": "Baltimore Sun",
+                "url": "https://www.baltimoresun.com",
+                "country": "us"
+            },
+            "title": "Dueling documentaries illuminate the promise and perils of artificial intelligence",
+            "url": "https://www.baltimoresun.com/2026/03/05/dueling-documentaries-illuminate-the-promise-and-perils-of-artificial-intelligence/",
+            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2026/03/India_AI_Summit_48122.jpg?w=1024&h=683",
+            "publishedAt": "2026-03-05T19:36:05Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -1608,6 +1692,24 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/03/05/broadcom-sees-revenue-above-estimates-as-ai-fuels-custom-chip-demand",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/05/3798181.jpg",
             "publishedAt": "2026-03-05T00:12:00Z"
+        },
+        {
+            "source": {
+                "name": "brookings"
+            },
+            "title": "How the U.S. can maintain its edge in AI without leaving workers behind | Brookings",
+            "url": "https://www.brookings.edu/articles/how-the-u-s-can-maintain-its-edge-in-ai-without-leaving-workers-behind/",
+            "urlToImage": "https://www.brookings.edu/wp-content/uploads/2023/06/image-work-research.png?quality=75&w=500",
+            "publishedAt": "2026-03-05 19:58:16"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AMD Targets Entry-Level Discrete Graphics Market with Upcoming Ryzen AI 400 Desktop Chips",
+            "url": "https://www.webpronews.com/amd-targets-entry-level-discrete-graphics-market-with-upcoming-ryzen-ai-400-desktop-chips/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-11778-1772693598-300x300.jpeg",
+            "publishedAt": "2026-03-05 19:50:18"
         },
         {
             "source": {
@@ -3435,114 +3537,6 @@
             "url": "https://www.reuters.com/world/asia-pacific/head-alibabas-qwen-ai-division-resigns-2026-03-04/",
             "urlToImage": "https://www.reuters.com/resizer/v2/YN3QYHR43ZIPDI4THOXMJUER5M.jpg?auth=998006c15796a5f34b102144c693d6c1650e878381ad9625843f5934cb24df8b&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2026-03-04T02:36:57Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Head of Alibaba's Qwen AI division resigns",
-            "url": "https://www.marketscreener.com/news/head-of-alibaba-s-qwen-ai-division-resigns-ce7e5cd3db8cf124",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-03-04T02:36:17Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Mobile chiefs reckon with AI boom and geopolitics at MWC 2026",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/04/mobile-chiefs-reckon-with-ai-boom-and-geopolitics-at-mwc-2026",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/04/3796493.jpg",
-            "publishedAt": "2026-03-04T02:15:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Australian Fund Colonial First State Rethinks US Tech Exposure",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-04/australian-fund-colonial-first-state-rethinks-us-tech-exposure",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWsoDqsd.kqM/v0/1200x800.jpg",
-            "publishedAt": "2026-03-04T01:26:26Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Alibaba's Tech Lead for Qwen, Who Warned of OpenAI Gap, Steps Down",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-04/alibaba-qwen-head-who-warned-of-openai-gap-steps-down",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6s0MuLT.hOY/v0/1200x800.jpg",
-            "publishedAt": "2026-03-04T01:25:58Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "Cleveland's largest newspaper is using AI to write some stories",
-            "url": "https://www.bostonglobe.com/2026/03/03/business/cleveland-plain-dealer-ai/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/L3OIKC42MY6HZQR7TFUYLAP6NU.jpg?auth=286cb40c9453c2eda78604ed9892719400ef4defd744c4c8e5bdf5039b3c054b&width=1440",
-            "publishedAt": "2026-03-04T01:23:54Z"
-        },
-        {
-            "source": {
-                "id": "d4773b92da0613b8ffc2fc9c46229534",
-                "name": "Business Wire",
-                "url": "https://www.businesswire.com",
-                "country": "us"
-            },
-            "title": "Resecurity Exhibited at SANS Cyber Threat Intelligence Summit & Training 2026",
-            "url": "https://www.businesswire.com/news/home/20260303544847/en/Resecurity-Exhibited-at-SANS-Cyber-Threat-Intelligence-Summit-Training-2026",
-            "urlToImage": "https://mms.businesswire.com/media/20260303544847/en/2737234/22/sans_logo.jpg",
-            "publishedAt": "2026-03-04T01:18:00Z"
-        },
-        {
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            },
-            "title": "Pro-Iran ‘hacktivists’ could target Canadian organizations, cybersecurity experts warn",
-            "url": "https://www.theglobeandmail.com/business/economy/article-pro-iran-hacktivists-could-target-canadian-organizations-cybersecurity/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/NJ4F6KNQ2NFD7DEKIPMJCXO7BQ.jpg?auth=48ab77e2ad1e6672aa97aefe2e2d9eb3c919dfe7bc6253480064f9e19550899f&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2026-03-04T01:14:18Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Underused GPUs raise questions about IndiaAI capacity build",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/underused-gpus-raise-questions-about-indiaai-capacity-build-out/articleshow/128981840.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-74050,resizemode-75,msid-128981840/tech/artificial-intelligence/underused-gpus-raise-questions-about-indiaai-capacity-build-out.jpg",
-            "publishedAt": "2026-03-04T00:31:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Altman Tells Staff OpenAI Has No Say Over Pentagon Decisions",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-04/altman-tells-staff-openai-has-no-say-over-pentagon-decisions",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSmrTCAxekeI/v1/1200x800.jpg",
-            "publishedAt": "2026-03-04T00:22:50Z"
         }
     ]
 }
