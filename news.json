@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-03-07T04:59:56.942794Z",
+    "lastUpdatedAt": "2026-03-07T05:43:39.828889Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Anthropic vows legal fight against Pentagon sanction in AI feud",
+            "url": "https://www.latimes.com/business/story/2026-03-06/anthropic-vows-legal-fight-against-pentagon-sanction-in-ai-feud",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/3a166bf/2147483647/strip/true/crop/2629x1380+0+186/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc8%2Ff7%2Fa1431b44440d83ebaa03fc915473%2Fai-prophets-20343.jpg",
+            "publishedAt": "2026-03-06T17:41:26Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Artificial intelligence in Indian agriculture: The bus India cannot afford to miss",
+            "url": "https://economictimes.indiatimes.com/news/economy/agriculture/artificial-intelligence-in-indian-agriculture-the-bus-india-cannot-afford-to-miss/articleshow/129168914.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-129169132,width-1200,height-630,imgsize-55042,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-03-06T17:34:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Fed's Schmid says hiring is on pause amid AI, aging",
+            "url": "https://www.reuters.com/business/feds-schmid-says-hiring-is-pause-amid-ai-aging-2026-03-06/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/NHAT6EZRGBIEBFQG76LMUZT7JQ.jpg?auth=9b3402078c45ab644cc9390d3c575902b578eaa03565735c4af49c1358513be3&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-06T17:32:17Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Fed's Schmid says hiring is on pause amid AI, aging",
+            "url": "https://www.marketscreener.com/news/fed-s-schmid-says-hiring-is-on-pause-amid-ai-aging-ce7e5fd8df8bff23",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-25T130140Z_1_LYNXNPEL8O0O0_RTROPTP_4_USA-FED-JACKSONHOLE.JPG",
+            "publishedAt": "2026-03-06T17:31:18Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Research company claims spyware posing as Israel's Red Alert Android app targeting users",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/research-company-claims-spyware-posing-as-israels-red-alert-android-app-targeting-users/articleshow/129168157.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129168112,width-1280,height-720,imgsize-153152,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-06T17:11:00Z"
+        },
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "AI agents could pose a risk to humanity. We must act to prevent that future",
+            "url": "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life",
+            "urlToImage": "https://i.guim.co.uk/img/media/c4adb460629803ccc6d4fafb416e4a1759229832/632_0_6335_5068/master/6335.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f9765d5e6cd061d1c7e35c2da152e04e",
+            "publishedAt": "2026-03-06T17:00:27Z"
+        },
         {
             "source": {
                 "id": "aaa6f2928e430ec2ed450ed89cc822f5",
@@ -1320,6 +1392,15 @@
             "url": "https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014029",
             "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014029.strk&size=inline",
             "publishedAt": "2026-03-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Scientists, diplomats should discuss evolution of quantum computing: Marilyne Andersen",
+            "url": "https://www.thehindu.com/sci-tech/technology/scientists-diplomats-should-discuss-evolution-of-quantum-computing-marilyne-andersen/article70712589.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/1pqw29/article70713410.ece/alternates/LANDSCAPE_1200/13_Marilyne_Andersen_06_03_Delhi.jpg",
+            "publishedAt": "2026-03-06 17:19:20"
         },
         {
             "source": {
@@ -3468,72 +3549,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/03/05/tech-giants-sign-energy-pledge-at-white-house-ahead-of-midterms",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/05/3798183.jpg",
             "publishedAt": "2026-03-05T00:25:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Broadcom sees over $100 billion in AI chip sales by 2027 on robust custom chip demand",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/05/broadcom-sees-revenue-above-estimates-as-ai-fuels-custom-chip-demand",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/05/3798181.jpg",
-            "publishedAt": "2026-03-05T00:12:00Z"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "AWS Launches Revolutionary AI Agent Platform to Transform Healthcare Administration",
-            "url": "https://bitcoinworld.co.in/aws-ai-agent-healthcare-platform/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/aws-ai-agent-healthcare-platform.jpg",
-            "publishedAt": "2026-03-05 22:10:12"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "The infrastructure bottleneck: Why enterprise AI needs a ‘hyperspeed’ pivot",
-            "url": "https://siliconangle.com/2026/03/05/infrastructure-bottleneck-enterprise-ai-needs-hyperspeed-pivot/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/hyperframe.png",
-            "publishedAt": "2026-03-05 21:59:22"
-        },
-        {
-            "source": {
-                "name": "brookings"
-            },
-            "title": "How the U.S. can maintain its edge in AI without leaving workers behind | Brookings",
-            "url": "https://www.brookings.edu/articles/how-the-u-s-can-maintain-its-edge-in-ai-without-leaving-workers-behind/",
-            "urlToImage": "https://www.brookings.edu/wp-content/uploads/2023/06/image-work-research.png?quality=75&w=500",
-            "publishedAt": "2026-03-05 19:58:16"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AMD Targets Entry-Level Discrete Graphics Market with Upcoming Ryzen AI 400 Desktop Chips",
-            "url": "https://www.webpronews.com/amd-targets-entry-level-discrete-graphics-market-with-upcoming-ryzen-ai-400-desktop-chips/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-11778-1772693598-300x300.jpeg",
-            "publishedAt": "2026-03-05 19:50:18"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Microsoft’s Calculated Pause: Why the Windows 12 Roadmap Has Shifted to 2026",
-            "url": "https://www.webpronews.com/microsofts-calculated-pause-why-the-windows-12-roadmap-has-shifted-to-2026/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-11774-1772689264-300x300.jpeg",
-            "publishedAt": "2026-03-05 19:20:08"
-        },
-        {
-            "source": {
-                "name": "newsweek"
-            },
-            "title": "Supreme Court Refuses to Overturn High-Stakes AI Copyright Ruling",
-            "url": "https://www.newsweek.com/supreme-court-refuses-to-overturn-ai-copyright-ruling-11626401",
-            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/03/GettyImages-2207141986-1.jpg?w=1200crop%3D1",
-            "publishedAt": "2026-03-05 18:55:00"
         }
     ]
 }
