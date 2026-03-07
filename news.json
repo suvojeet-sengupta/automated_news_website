@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-03-07T18:27:28.175542Z",
+    "lastUpdatedAt": "2026-03-07T19:18:27.104427Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Amazon joins Google and Microsoft in sending 'Anthropic message' to customers",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-joins-google-and-microsoft-in-sending-anthropic-message-to-customers/articleshow/129197901.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129197879,width-1280,height-720,imgsize-69438,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-07T06:53:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "China's Jiangsu touts AI industrial push as Xi urges province to lead",
+            "url": "https://www.reuters.com/world/asia-pacific/chinas-jiangsu-touts-ai-industrial-push-xi-urges-province-lead-2026-03-07/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/7NGAKHYXE5LGZAGUYX7XDXDTXI.jpg?auth=cd40684b61ae5338ca4420a602f262f5f193898eb7b7c4d04fff39f03214eee6&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-07T06:36:41Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Oracle and OpenAI drop Texas data centre expansion plan: Report",
+            "url": "https://www.thehindu.com/sci-tech/technology/oracle-and-openai-drop-texas-data-centre-expansion-plan-report/article70714607.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/cqf9yq/article70714608.ece/alternates/LANDSCAPE_1200/2026-03-05T180502Z_2118915851_RC2EOGARLZSW_RTRMADP_3_ORACLE-LAYOFFS.JPG",
+            "publishedAt": "2026-03-07T06:28:01Z"
+        },
         {
             "source": {
                 "id": "680f00482cbf9f314921fefd917871d9",
@@ -324,6 +360,15 @@
             "url": "https://www.usnews.com/news/business/articles/2026-03-06/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare",
             "urlToImage": "https://www.usnews.com/dims4/USNEWS/61be126/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fbb%2F4c9c8b61d794004be98310d7e7beda%2F6b60314d6edf4bd48b5fcb12a81b7544Pentagon-AI-Anthropic_81966.jpg",
             "publishedAt": "2026-03-07T00:14:00Z"
+        },
+        {
+            "source": {
+                "name": "newsbytesapp"
+            },
+            "title": "OpenAI, Oracle scrap plans to expand flagship data center",
+            "url": "https://www.newsbytesapp.com/news/science/openai-oracle-scrap-texas-ai-data-center-expansion-plans/story",
+            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l49920260307121757.jpeg",
+            "publishedAt": "2026-03-07 07:06:09"
         },
         {
             "source": {
@@ -3477,54 +3522,6 @@
             "url": "https://www.devdiscourse.com/article/science-environment/3827113-ai-surge-germanys-mittelstand-companies-embrace-technology",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/08_04_2025_08_05_56_9168158.png?width=920&format=jpeg",
             "publishedAt": "2026-03-05T11:43:31Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Major Tech Group Reportedly Voices Concern Over Anthropic's 'Supply Chain Risk' Label",
-            "url": "https://www.marketscreener.com/news/major-tech-group-reportedly-voices-concern-over-anthropic-s-supply-chain-risk-label-ce7e5fdbd98ff723",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-03-05T11:38:04Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Tailoring digital safety to the child’s developmental stage",
-            "url": "https://www.news-medical.net/news/20260305/Tailoring-digital-safety-to-the-childe28099s-developmental-stage.aspx",
-            "urlToImage": "https://www.news-medical.net/images/tags/TagImage-3347-458389964760995353448-620x480.jpg",
-            "publishedAt": "2026-03-05T11:35:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Launching a United Front: The Global Quantum Threat Alliance Emerges",
-            "url": "https://www.devdiscourse.com/article/technology/3827068-launching-a-united-front-the-global-quantum-threat-alliance-emerges",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_47_4854533.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-05T11:23:27Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Flying Wedge tests 'India’s first autonomous swarm interceptor' for counter-drone warfare",
-            "url": "https://economictimes.indiatimes.com/news/defence/flying-wedge-tests-indias-first-autonomous-swarm-interceptor-for-counter-drone-warfare/articleshow/129087442.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-129087632,width-1200,height-630,imgsize-56969,overlay-etdefence/articleshow.jpg",
-            "publishedAt": "2026-03-05T11:23:00Z"
         }
     ]
 }
