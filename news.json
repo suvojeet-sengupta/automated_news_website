@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-03-07T01:41:13.144544Z",
+    "lastUpdatedAt": "2026-03-07T03:56:54.492845Z",
     "articles": [
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "N.H. judges dismisses governor candidate Jon Kiper's AI lawsuit",
+            "url": "https://www.bostonglobe.com/2026/03/06/metro/nh-kiper-ai-lawsuit-dismissed/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/6U4L23QHKB6P2M47KNP4YA4ZPA.jpg?auth=38a92c277be909ea22b9fcf0751aa0f0be371885b72e265319745faf93ea3b10&width=1440",
+            "publishedAt": "2026-03-06T15:40:43Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Anthropic vows court fight with Pentagon",
+            "url": "https://www.bnnbloomberg.ca/business/2026/03/06/anthropic-vows-court-fight-in-pentagon-row/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/UDEY6IANBQFCU26VVTOM4HIXKY.jpg?smart=true&auth=08f118f9d64b2143bc5bcb17568a85a0a051e5417f88bfe6246a2f31b86a1956&width=1200&height=630",
+            "publishedAt": "2026-03-06T15:10:58Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Anthropic vows court fight with Pentagon",
+            "url": "https://www.cp24.com/news/world/2026/03/06/anthropic-vows-court-fight-in-pentagon-row/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/UDEY6IANBQFCU26VVTOM4HIXKY.jpg?smart=true&auth=08f118f9d64b2143bc5bcb17568a85a0a051e5417f88bfe6246a2f31b86a1956&width=1200&height=630",
+            "publishedAt": "2026-03-06T15:10:58Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "China's largest provincial economy vows to reshape industry with AI",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-largest-provincial-economy-vows-to-reshape-industry-with-ai/articleshow/129162620.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-372248,resizemode-75,msid-129162620/tech/artificial-intelligence/chinas-largest-provincial-economy-vows-to-reshape-industry-with-ai.jpg",
+            "publishedAt": "2026-03-06T15:08:43Z"
+        },
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "Machine learning algorithm predicts Bitcoin price for March 31, 2026",
+            "url": "https://finbold.com/machine-learning-algorithm-predicts-bitcoin-price-for-march-31-2026/",
+            "urlToImage": "https://assets.finbold.com/uploads/2026/03/Machine-learning-algorithm-predicts-Bitcoin-price-for-March-31-2026.jpg",
+            "publishedAt": "2026-03-06T14:57:07Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "China's largest provincial economy vows to reshape industry with AI",
+            "url": "https://www.reuters.com/world/asia-pacific/chinas-largest-provincial-economy-vows-reshape-industry-with-ai-2026-03-06/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/BOK3LLJNTZJ3BDH4W27T4YECOI.jpg?auth=bc21c90df16a165313fac2fdc29b3fb93736e9e28b345124989d677f847f6a12&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-06T14:52:03Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Guangdong Aims to Transform Economy with AI Revolution",
+            "url": "https://www.devdiscourse.com/article/technology/3828924-guangdong-aims-to-transform-economy-with-ai-revolution",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/03_07_2025_05_23_20_7354014.png?width=920&format=jpeg",
+            "publishedAt": "2026-03-06T14:50:25Z"
+        },
+        {
+            "source": {
+                "id": "6330fe7e7b8cfc9b8540c05881fcc289",
+                "name": "U.Today",
+                "url": "https://u.today",
+                "country": "ae"
+            },
+            "title": "Cardano Foundation CEO Calls Attention to AI Accountability Gap, What's Missing?",
+            "url": "https://u.today/cardano-foundation-ceo-calls-attention-to-ai-accountability-gap-whats-missing",
+            "urlToImage": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2026-03/1000063024.jpg",
+            "publishedAt": "2026-03-06T14:26:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Fortinet to Webcast Investor Briefing Session",
+            "url": "https://www.manilatimes.net/2026/03/06/tmt-newswire/globenewswire/fortinet-to-webcast-investor-briefing-session/2294933",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/06/963238.jpg",
+            "publishedAt": "2026-03-06T14:21:50Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Maharashtra Unveils Futuristic Policing and Governance Vision",
+            "url": "https://www.devdiscourse.com/article/law-order/3828815-maharashtra-unveils-futuristic-policing-and-governance-vision",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/11_04_2025_05_49_44_1427187.png?width=920&format=jpeg",
+            "publishedAt": "2026-03-06T13:51:39Z"
+        },
+        {
+            "source": {
+                "id": "3d24c816061d69b2e23b8583aed9b447",
+                "name": "Euronews",
+                "url": "https://www.euronews.com",
+                "country": "fr"
+            },
+            "title": "Watch the video: How is artificial intelligence used in warfare right now?",
+            "url": "https://www.euronews.com/2026/03/06/watch-the-video-how-is-artificial-intelligence-used-in-warfare-right-now",
+            "urlToImage": "https://images.euronews.com/articles/stories/09/67/50/48/1200x675_cmsv2_0cdfbba2-3afb-5fc5-9502-5e9fd65c10f0-9675048.jpg",
+            "publishedAt": "2026-03-06T13:43:39Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -1032,6 +1164,60 @@
             "url": "https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014029",
             "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014029.strk&size=inline",
             "publishedAt": "2026-03-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "t_g"
+            },
+            "title": "What is AI automation? Key benefits and use cases",
+            "url": "http://shelbyville.staging.communityq.com/premium/stacker/stories/what-is-ai-automation-key-benefits-and-use-cases,209782",
+            "urlToImage": "https://images.stacker.com/s/720/1280/images/stories/2025/12/01/quiq-what-is-ai-automation.jpg",
+            "publishedAt": "2026-03-06 14:05:15"
+        },
+        {
+            "source": {
+                "name": "santafenewmexican"
+            },
+            "title": "What is AI automation? Key benefits and use cases",
+            "url": "https://www.santafenewmexican.com/life/features/what-is-ai-automation-key-benefits-and-use-cases/article_f06d41bd-3049-5be4-80fb-807b3a191dbe.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/7/9d/79d219d6-137e-5caa-a643-48d13ff400b5/69aae502662ff.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-03-06 14:05:15"
+        },
+        {
+            "source": {
+                "name": "lexingtonchronicle"
+            },
+            "title": "What is AI automation? Key benefits and use cases",
+            "url": "https://www.lexingtonchronicle.com/premium/stories/what-is-ai-automation-key-benefits-and-use-cases,170790",
+            "urlToImage": "https://images.stacker.com/s/720/1280/images/stories/2025/12/01/quiq-what-is-ai-automation.jpg",
+            "publishedAt": "2026-03-06 14:05:15"
+        },
+        {
+            "source": {
+                "name": "mexicoledger"
+            },
+            "title": "What is AI automation? Key benefits and use cases",
+            "url": "https://mexicoledger.com/premium/stories/what-is-ai-automation-key-benefits-and-use-cases,157290",
+            "urlToImage": "https://images.stacker.com/s/720/1280/images/stories/2025/12/01/quiq-what-is-ai-automation.jpg",
+            "publishedAt": "2026-03-06 14:05:15"
+        },
+        {
+            "source": {
+                "name": "easttexasnews"
+            },
+            "title": "What is AI automation? Key benefits and use cases",
+            "url": "https://www.easttexasnews.com/premium/stories/what-is-ai-automation-key-benefits-and-use-cases,81428",
+            "urlToImage": "https://images.stacker.com/s/720/1280/images/stories/2025/12/01/quiq-what-is-ai-automation.jpg",
+            "publishedAt": "2026-03-06 14:05:15"
+        },
+        {
+            "source": {
+                "name": "community_news"
+            },
+            "title": "What is AI automation? Key benefits and use cases",
+            "url": "https://www.community-news.com/premium/stories/what-is-ai-automation-key-benefits-and-use-cases,159699",
+            "urlToImage": "https://images.stacker.com/s/720/1280/images/stories/2025/12/01/quiq-what-is-ai-automation.jpg",
+            "publishedAt": "2026-03-06 14:05:15"
         },
         {
             "source": {
@@ -3309,198 +3495,6 @@
             "url": "https://emitpost.com/mit-breakthrough-tech-2026/",
             "urlToImage": "https://emitpost.com/wp-content/uploads/2025/12/Emit-post-150x150.png",
             "publishedAt": "2026-03-05 06:33:29"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Why Theft is Becoming a Major Concern for AI Companies",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/why-theft-is-becoming-a-major-concern-for-ai-companies",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2026-03-03%2F3vt46c21%2FWhy-Theft-Is-Becoming-a-Major-Concern-for-AI-Companies.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2026-03-05 03:00:00"
-        },
-        {
-            "source": {
-                "name": "telecom_economictimes"
-            },
-            "title": "Connectivity must become universally affordable, says Scindia at MWC 2026",
-            "url": "https://telecom.economictimes.indiatimes.com/news/policy/connectivity-must-be-affordable-for-all-insights-from-scindia-at-mwc-2026/129063162",
-            "urlToImage": "https://etimg.etb2bimg.com/photo/129063201.cms",
-            "publishedAt": "2026-03-05 02:26:49"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "\"Designing the Future with AI\" -- Smart Tech Korea 2026 Brings Together Six Shows Shaping the Next Era of Smart & Connected Industries",
-            "url": "https://www.prnewswire.com/apac/news-releases/designing-the-future-with-ai--smart-tech-korea-2026-brings-together-six-shows-shaping-the-next-era-of-smart--connected-industries-302703670.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2925786/135254_JK202609.jpg?p=original",
-            "publishedAt": "2026-03-05 01:00:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "\"Designing the Future with AI\" -- Smart Tech Korea 2026 Brings Together Six Shows Shaping the Next Era of Smart & Connected Industries",
-            "url": "https://en.prnasia.com/story/524105-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2925786/135254_JK202609.jpg?p=medium600",
-            "publishedAt": "2026-03-05 01:00:00"
-        },
-        {
-            "source": {
-                "id": "911cd82c5544b3cdb8eaa024eb17b8b5",
-                "name": "FOX 9",
-                "url": "https://www.fox9.com",
-                "country": "us"
-            },
-            "title": "AI pricing: Pay more than your neighbor?",
-            "url": "https://www.fox9.com/news/ai-pricing-pay-more-than-your-neighbor",
-            "urlToImage": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/03/1200/630/9-v-screen-time-preschool-kindergarter-_-hoggard_00.00.00.48.jpg?ve=1&tl=1",
-            "publishedAt": "2026-03-04T23:53:12Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "AI rivalry: Anthropic investors push to de-escalate Pentagon clash over AI safeguards, sources say",
-            "url": "https://www.thenews.com.pk/latest/1394606-ai-rivalry-anthropic-investors-push-to-de-escalate-pentagon-clash-over-ai-safeguards-sources-say",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-05/1394606_044137_updates.jpg",
-            "publishedAt": "2026-03-04T23:42:00Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Trump says deal on data centers will lower electricity prices as tech companies vow to cover costs",
-            "url": "https://wtop.com/virginia/2026/03/trump-says-deal-on-data-centers-will-lower-electricity-costs-but-offers-few-details/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/03/Trump_25422-scaled.jpg",
-            "publishedAt": "2026-03-04T23:31:57Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "Tech companies, Trump sign pledge to protect consumers from rising electricity costs",
-            "url": "https://edition.cnn.com/2026/03/04/politics/electric-bill-costs-trump-pledge",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264819452.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-03-04T23:23:11Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "Trump, tech companies sign voluntary pledge to protect consumers from rising electricity costs",
-            "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/03/04/trump-tech-companies-sign-voluntary-pledge-to-protect-consumers-from-rising-electricity-costs/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
-            "publishedAt": "2026-03-04T23:23:11Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "Solomon tells OpenAI CEO Sam Altman that Tumbler Ridge deserves apology",
-            "url": "https://www.sootoday.com/national-news/solomon-tells-openai-ceo-sam-altman-that-tumbler-ridge-deserves-apology-11958893",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/03/f93afff9fd2ca5a4edc0c6adf7adca914dd8968dc7442417afc0c66fafd8de67.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-03-04T23:15:53Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Solomon tells OpenAI CEO Sam Altman that Tumbler Ridge deserves apology",
-            "url": "https://www.baytoday.ca/national-news/solomon-tells-openai-ceo-sam-altman-that-tumbler-ridge-deserves-apology-11958893",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/03/f93afff9fd2ca5a4edc0c6adf7adca914dd8968dc7442417afc0c66fafd8de67.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-03-04T23:15:53Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "HealthRecon Connect Achieves HITRUST r2 Certification Demonstrating the Highest Level of Information Protection Assurance",
-            "url": "https://www.manilatimes.net/2026/03/05/tmt-newswire/globenewswire/healthrecon-connect-achieves-hitrust-r2-certification-demonstrating-the-highest-level-of-information-protection-assurance/2293601",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/05/960763.png",
-            "publishedAt": "2026-03-04T23:08:55Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "How the Recent Geopolitical Flashpoint Adds a Relevance Boost for CrowdStrike Stock (CRWD)",
-            "url": "https://markets.businessinsider.com/news/stocks/how-the-recent-geopolitical-flashpoint-adds-a-relevance-boost-for-crowdstrike-stock-crwd-1035898269",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/03/image-460.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-03-04T22:58:43Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI helps wealthtech firms do more with leaner teams",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/ai-helps-wealthtech-firms-do-more-with-leaner-teams/articleshow/129055066.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129055128,width-1280,height-720,imgsize-1462568,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-04T22:43:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Former Splunk CEO: The Cybersecurity Industry’s $119 Billion Record Year Is Masking a Structural Crisis",
-            "url": "https://www.manilatimes.net/2026/03/05/tmt-newswire/globenewswire/former-splunk-ceo-the-cybersecurity-industrys-119-billion-record-year-is-masking-a-structural-crisis/2293593",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/05/960750.jpg",
-            "publishedAt": "2026-03-04T22:28:24Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
-            "url": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/04/03/technology/IRINN_20260301_200000-trim-image/IRINN_20260301_200000-trim-image-facebookJumbo.jpg",
-            "publishedAt": "2026-03-04T22:24:09Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Meta Plans to Develop Custom Chips to Train Its AI Models",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-04/meta-plans-to-develop-custom-chips-to-train-its-ai-models",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iScZj_SKOBt0/v1/1200x800.jpg",
-            "publishedAt": "2026-03-04T21:57:32Z"
         }
     ]
 }
