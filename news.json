@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-03-07T10:19:07.263808Z",
+    "lastUpdatedAt": "2026-03-07T11:16:12.565300Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Oracle and OpenAI drop Texas data center expansion plan, Bloomberg News reports",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/07/oracle-and-openai-end-plans-to-expand-texas-data-center-site-bloomberg-news-reports",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/07/3801479.jpg",
+            "publishedAt": "2026-03-06T23:15:00Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Indian-origin surgeon leads UK's first long-distance robotic surgeries",
+            "url": "https://www.dailyexcelsior.com/indian-origin-surgeon-leads-uks-first-long-distance-robotic-surgeries/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/03/robotic-surgery.jpg",
+            "publishedAt": "2026-03-06T22:35:54Z"
+        },
+        {
+            "source": {
+                "id": "979e74ee88ce49ccc427aa90ec068196",
+                "name": "Us Weekly",
+                "url": "https://www.usmagazine.com",
+                "country": "us"
+            },
+            "title": "Christian School Teacher Used AI to Make Sexual Pics of Kids",
+            "url": "https://www.usmagazine.com/crime-news/news/christian-school-teacher-used-ai-to-make-sexual-pics-of-kids/",
+            "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2026/03/North-Carolina-Christian-School-Teacher-Used-AI-to-Make-Sexual-Images-of-Children.jpg?crop=0px%2C395px%2C2000px%2C1050px&resize=1200%2C630&quality=86&strip=all",
+            "publishedAt": "2026-03-06T22:20:35Z"
+        },
         {
             "source": {
                 "id": "0cecf842c67e3d7cc093daca6d9bdf9c",
@@ -3498,42 +3534,6 @@
             "url": "https://www.thenews.com.pk/latest/1394647-openai-annualized-revenue-hits-25-billion-milestone-amid-global-adoption-sur",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-05/1394647_114044_updates.jpg",
             "publishedAt": "2026-03-05T06:40:00Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "What the Extraordinary Market Volatility in Asia Says About Energy and A.I.",
-            "url": "https://www.nytimes.com/2026/03/05/business/stocks-asia-iran-energy.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/03/05/multimedia/00Biz-Iran-AI-Energy-cght/00Biz-Iran-AI-Energy-cght-facebookJumbo.jpg",
-            "publishedAt": "2026-03-05T06:35:40Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Tesla says it could build the first humanoid AGI",
-            "url": "https://www.moneycontrol.com/world/tesla-says-it-could-build-the-first-humanoid-agi-article-13851365.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/03/20260305063119_tsa.jpg",
-            "publishedAt": "2026-03-05T06:31:56Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "China’s parents are outsourcing the homework grind to AI",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/05/chinas-parents-are-outsourcing-the-homework-grind-to-ai",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/05/3798477.jpg",
-            "publishedAt": "2026-03-05T06:30:00Z"
         }
     ]
 }
