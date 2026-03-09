@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-03-09T16:53:20.536835Z",
+    "lastUpdatedAt": "2026-03-09T17:43:11.577964Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "AEWIN Unveils AI Infrastructure at 2026 RSA Conference",
+            "url": "https://www.manilatimes.net/2026/03/09/tmt-newswire/pr-newswire/aewin-unveils-ai-infrastructure-at-2026-rsa-conference/2295632",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/09/964810.jpg",
+            "publishedAt": "2026-03-09T05:42:54Z"
+        },
+        {
+            "source": {
+                "id": "93a4f054e09bde095cda5265e575a952",
+                "name": "Telegraph India",
+                "url": "https://www.telegraphindia.com",
+                "country": "in"
+            },
+            "title": "Data trails: Artificial intelligence is changing the way India borrows",
+            "url": "https://www.telegraphindia.com/business/data-trails-artificial-intelligence-is-changing-the-way-india-borrows-prnt/cid/2150506",
+            "urlToImage": "https://assets.telegraphindia.com/telegraph/2025/Feb/1739371184_1709624831_artificial-intelligence.jpg",
+            "publishedAt": "2026-03-09T05:35:45Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "SoftBank Group CDS Widens, Shares Slump on Stargate AI Concerns",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-09/softbank-group-cds-widens-shares-slump-on-stargate-ai-concerns",
+            "urlToImage": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.d7363fa9.png",
+            "publishedAt": "2026-03-09T05:31:28Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "RunAnywhere Is Building the Infrastructure Layer for On-Device AI at Scale",
+            "url": "https://techbullion.com/runanywhere-is-building-the-infrastructure-layer-for-on-device-ai-at-scale/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/RunAnywhere-1000x600.png",
+            "publishedAt": "2026-03-09T05:21:06Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "X-PHY Partners with RoBridgeAI to Strengthen Cybersecurity in India",
+            "url": "https://www.devdiscourse.com/article/technology/3830802-x-phy-partners-with-robridgeai-to-strengthen-cybersecurity-in-india",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/24_07_2025_17_22_45_0821184.png?width=920&format=jpeg",
+            "publishedAt": "2026-03-09T05:21:05Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "PHY Inc Appoints RoBridgeAI as Official Channel Partner for India",
+            "url": "https://www.tribuneindia.com/news/business/x-phy-inc-appoints-robridgeai-as-official-channel-partner-for-india/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI4MTMzOTUwLTFiNzgtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
+            "publishedAt": "2026-03-09T05:20:03Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Navigating the structural challenges of AI in radiology",
+            "url": "https://www.news-medical.net/news/20260309/Navigating-the-structural-challenges-of-AI-in-radiology.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
+            "publishedAt": "2026-03-09T05:05:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -108,6 +192,15 @@
             "url": "https://economictimes.indiatimes.com/tech/information-tech/ai-software-plugins-likely-to-weigh-on-it-roles-for-next-12-18-months-experts-say/articleshow/129282751.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3099410,resizemode-75,msid-129282751/tech/information-tech/ai-software-plugins-likely-to-weigh-on-it-roles-for-next-12-18-months-experts-say.jpg",
             "publishedAt": "2026-03-09T00:30:00Z"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Eros Innovation and enQase partner to develop a quantum-safe trust architecture for AI and digital assets",
+            "url": "https://www.expresscomputer.in/news/eros-innovation-and-enqase-partner-to-develop-a-quantum-safe-trust-architecture-for-ai-and-digital-assets/133415/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/02/24194322/Agentic-AI.png",
+            "publishedAt": "2026-03-09 05:02:23"
         },
         {
             "source": {
@@ -3456,102 +3549,6 @@
             "url": "https://manilastandard.net/news/314712092/ilo-generative-ai-likely-to-affect-womens-jobs-more-than-mens.html",
             "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2026/03/AI-women-at-work.webp",
             "publishedAt": "2026-03-06T02:22:36Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "‘This Is About AI Spending,’ Says Barclays on Oracle (ORCL) Layoff Report",
-            "url": "https://markets.businessinsider.com/news/stocks/this-is-about-ai-spending-says-barclays-on-oracle-orcl-layoff-report-1035904477",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/03/image-601.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-03-06T02:13:38Z"
-        },
-        {
-            "source": {
-                "id": "6536182115f7e8188f38d864bab0e1c6",
-                "name": "DAWN.com",
-                "url": "https://www.dawn.com",
-                "country": "pk"
-            },
-            "title": "Mobile banking cyberattacks rise by 56pc in 2025: report",
-            "url": "https://www.dawn.com/news/1978843/mobile-banking-cyberattacks-rise-by-56pc-in-2025-report",
-            "urlToImage": "https://i.dawn.com/large/2026/03/06130225cd2ec43.webp",
-            "publishedAt": "2026-03-06T02:05:14Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Pentagon Designates Anthropic A 'Supply Chain Risk' After Deal Turndown",
-            "url": "https://www.ndtv.com/world-news/pentagon-designates-ai-company-anthropic-a-supply-chain-risk-after-deal-turndown-11175220",
-            "urlToImage": "https://c.ndtvimg.com/2026-03/q1puf3dc_anthropic_625x300_06_March_26.jpeg",
-            "publishedAt": "2026-03-06T02:04:26Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "REFILE-UPDATE 2-Pentagon informed Anthropic it is a supply chain risk",
-            "url": "https://www.devdiscourse.com/article/technology/3827948-refile-update-2-pentagon-informed-anthropic-it-is-a-supply-chain-risk",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_02_16_4468374.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-03-06T01:46:43Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "UPDATE 2-Pentagon informed Anthropic it is a supply chain risk,",
-            "url": "https://www.devdiscourse.com/article/technology/3827947-update-2-pentagon-informed-anthropic-it-is-a-supply-chain-risk",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-06T01:44:45Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Pentagon says it is labeling AI company Anthropic a supply chain risk ‘effective immediately’",
-            "url": "https://wtop.com/news/2026/03/pentagon-says-it-is-labeling-ai-company-anthropic-a-supply-chain-risk-effective-immediately/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/02/Anthropic_64886-scaled.jpg",
-            "publishedAt": "2026-03-06T01:31:20Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "US defense department told Anthropic it is a supply chain risk, CEO says",
-            "url": "https://www.reuters.com/technology/us-defense-department-told-anthropic-it-is-supply-chain-risk-ceo-says-2026-03-06/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/LGY3YUWC2ZIJTIYV7ETBIEKABE.jpg?auth=fd8860a46a8ebb2ed553cda74af9febecb08566aaf33a823dfccae2a1673aa32&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-06T00:53:30Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "Pentagon says it is labeling AI company Anthropic a supply chain risk 'effective immediately'",
-            "url": "https://www.ajc.com/news/2026/03/pentagon-says-it-is-labeling-ai-company-anthropic-a-supply-chain-risk-effective-immediately/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/H4SJTUQ2AVAU5G2CGQ73RNCSEQ.jpg?auth=699da75ff04c3a03bacbfc177b7f73fb643e4af69824d7cc59ddbe2b8306a4af&width=1200&height=630&smart=true",
-            "publishedAt": "2026-03-06T00:51:16Z"
         }
     ]
 }
