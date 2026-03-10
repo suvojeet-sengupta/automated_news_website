@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-03-10T05:41:46.729454Z",
+    "lastUpdatedAt": "2026-03-10T06:42:09.814359Z",
     "articles": [
+        {
+            "source": {
+                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
+                "name": "Social Media Today",
+                "url": "https://www.socialmediatoday.com",
+                "country": "us"
+            },
+            "title": "More scrutiny for xAI’s Grok following racist remarks",
+            "url": "https://www.socialmediatoday.com/news/more-scrutiny-for-xais-grok-following-racist-remarks/814260/",
+            "urlToImage": "https://imgproxy.divecdn.com/Z-1kj98Dl-pggSaIlcIzPe_LHJw_3xyxD1rqvVTCaxA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ncm9rX2xvZ28ucG5n.webp",
+            "publishedAt": "2026-03-09T18:37:52Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "OpenAI to buy cybersecurity startup Promptfoo to safeguard AI agents",
+            "url": "https://www.cnbc.com/2026/03/09/open-ai-cybersecurity-promptfoo-ai-agents.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108267416-1772222217094-108267416-1771518692599-gettyimages-2261852386-INDIA_AI_SUMMIT.jpeg?v=1773077163&w=1920&h=1080",
+            "publishedAt": "2026-03-09T18:32:58Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "ElevenLabs Aims to Be IPO-Ready in 2-3 Years",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-09/ai-startup-elevenlabs-aims-to-be-ipo-ready-in-two-or-three-years",
+            "urlToImage": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.d7363fa9.png",
+            "publishedAt": "2026-03-09T18:31:12Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "Anthropic sues Trump administration seeking to undo 'supply chain risk' designation on AI company",
+            "url": "https://www.barchart.com/story/news/644275/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation-on-ai-company",
+            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/4d2c385baff44354aa422a0cc968ee00/4d2c385baff44354aa422a0cc968ee00_main_pentagon-ai-anthropic_81966.jpg",
+            "publishedAt": "2026-03-09T18:21:43Z"
+        },
+        {
+            "source": {
+                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
+                "name": "FinanzNachrichten",
+                "url": "https://www.finanznachrichten.de",
+                "country": "de"
+            },
+            "title": "Black Book Research: Black Book Releases HIMSS26 Floor Guide Grouping Top Client-Rated Exhibitors by Strategic Category",
+            "url": "https://www.finanznachrichten.de/nachrichten-2026-03/67893449-black-book-research-black-book-releases-himss26-floor-guide-grouping-top-client-rated-exhibitors-by-strategic-category-200.htm",
+            "urlToImage": "https://www.finanznachrichten.de/content/g/fb.png",
+            "publishedAt": "2026-03-09T18:02:00Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Texas Gov Abbott issues warning of Chinese spying in medical tech",
+            "url": "https://www.foxnews.com/politics/texas-gov-abbott-issues-warning-chinese-spying-medical-tech",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/texas-gop-governor-greg-abbott-chinese-spying.jpg",
+            "publishedAt": "2026-03-09T17:57:43Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -3456,78 +3528,6 @@
             "url": "https://www.marketscreener.com/news/marvell-s-q4-earnings-call-boosts-confidence-in-ai-connectivity-xpu-transitions-by-major-customers-ce7e5fd8dc81f623",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
             "publishedAt": "2026-03-06T16:16:16Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "India vital leader in AI transformation: Siemens AG board member Dr Koerte",
-            "url": "https://www.thehindu.com/business/india-vital-leader-in-ai-transformation-siemens-ag-board-member-dr-koerte/article70713040.ece",
-            "urlToImage": "https://th-i.thgim.com/public/business/co3otx/article70713225.ece/alternates/LANDSCAPE_1200/siemens.jpeg",
-            "publishedAt": "2026-03-06T16:14:04Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Netflix acquires Ben Affleck's AI film-tech firm",
-            "url": "https://www.manilatimes.net/2026/03/07/business/foreign-business/netflix-acquires-ben-afflecks-ai-film-tech-firm/2294746",
-            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-03-06T16:10:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Marvell Technology's Near-Term Fundamentals are 'Robust' Amid Growing Interconnect Demand, Morgan Stanley Says",
-            "url": "https://www.marketscreener.com/news/marvell-technology-s-near-term-fundamentals-are-robust-amid-growing-interconnect-demand-morgan-st-ce7e5fd8dc8ef22d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-03-06T16:09:26Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Caterpillar Underappreciated as Physical AI Play, Oppenheimer Says",
-            "url": "https://www.marketscreener.com/news/caterpillar-underappreciated-as-physical-ai-play-oppenheimer-says-ce7e5fd8dc8ef222",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-03-06T16:09:13Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Former Pentagon official warns on banning Anthropic, says: One of the biggest differences between the US military and China's military is America's ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/former-pentagon-official-warns-on-banning-anthropic-says-one-of-the-biggest-differences-between-the-us-military-and-chinas-military-is-americas-/articleshow/129165049.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129165271,width-1280,height-720,imgsize-24646,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-06T16:08:00Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "‘Never felt more alive’: Elon Musk's xAI engineer’s 19 hour shift ignites work life balance debate",
-            "url": "https://www.businesstoday.in/latest/trends/story/never-felt-more-alive-elon-musks-xai-engineers-19-hour-shift-ignites-work-life-balance-debate-519538-2026-03-06",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202603/69aafba34d81a-critics-argued-that-the-post-reflected-a-growing-trend-in-tech-culture-where-extreme-work-schedules-060653569-16x9.jpg",
-            "publishedAt": "2026-03-06T16:07:31Z"
         }
     ]
 }
