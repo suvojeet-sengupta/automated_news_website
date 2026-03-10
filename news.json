@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-10T16:57:46.056519Z",
+    "lastUpdatedAt": "2026-03-10T17:48:32.322355Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Ex-Meta AI chief Yann LeCun's AMI raises $1.03 billion for alternative AI approach",
+            "url": "https://www.reuters.com/business/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-alternative-ai-approach-2026-03-10/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/GRERQIGH25K5DF3COTAL5AXP6E.jpg?auth=4ae19373fa24b3381c82878e680825590dce3f63b37623b2d672ca58bbc1a4de&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-10T05:01:31Z"
+        },
+        {
+            "source": {
+                "id": "6b5c45eb50a6698dcc6711c82d72fb2e",
+                "name": "Oxford Mail",
+                "url": "https://www.oxfordmail.co.uk",
+                "country": "gb"
+            },
+            "title": "Oxford artist pays homage to Ada Lovelace at Balliol College",
+            "url": "https://www.oxfordmail.co.uk/news/25919803.oxford-artist-pays-homage-ada-lovelace-balliol-college/",
+            "urlToImage": "https://www.oxfordmail.co.uk/resources/images/20635605.jpg?type=og-image&xType=0&yType=2217",
+            "publishedAt": "2026-03-10T05:00:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3495,30 +3519,6 @@
             "url": "https://www.arkansasonline.com/news/2026/mar/07/militarys-ai-use-has-been-critical-to-iran-war/",
             "urlToImage": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
             "publishedAt": "2026-03-07T09:39:00Z"
-        },
-        {
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
-                "country": "in"
-            },
-            "title": "Hyderabad Emerging as Global Hub for AI-Driven Financial Innovation: Sridhar Babu",
-            "url": "https://www.deccanchronicle.com/southern-states/telangana/hyderabad-emerging-as-global-hub-for-ai-driven-financial-innovation-sridhar-babu-1942128",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/11/04/1974708-sridhar-babu.jpg",
-            "publishedAt": "2026-03-07T09:37:59Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Karnataka Budget 2026-27: A Leap Towards Economic Growth and Digital Innovation",
-            "url": "https://www.devdiscourse.com/article/business/3829570-karnataka-budget-2026-27-a-leap-towards-economic-growth-and-digital-innovation",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_03_2025_16_53_12_9720518.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-07T08:33:41Z"
         }
     ]
 }
