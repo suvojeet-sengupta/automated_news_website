@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-03-11T07:40:02.419644Z",
+    "lastUpdatedAt": "2026-03-11T08:35:36.080527Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Oracle beats quarterly revenue estimates, shares rise",
+            "url": "https://www.marketscreener.com/news/oracle-beats-quarterly-revenue-estimates-shares-rise-ce7e5fdfdc8bf424",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-09T200929Z_1_LYNXNPEL880ZX_RTROPTP_4_ORACLE-RESULTS.JPG",
+            "publishedAt": "2026-03-10T20:12:19Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Reliance Global Group Reports 2025 Results and Provides Strategic Update on Scale51 Initiative and Launch of EZRA International Group",
+            "url": "https://www.manilatimes.net/2026/03/11/tmt-newswire/globenewswire/reliance-global-group-reports-2025-results-and-provides-strategic-update-on-scale51-initiative-and-launch-of-ezra-international-group/2297411",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/11/968028.jpg",
+            "publishedAt": "2026-03-10T20:07:06Z"
+        },
+        {
+            "source": {
+                "id": "09dc1bda762f4f787cec10477a894d96",
+                "name": "Toronto Sun",
+                "url": "https://torontosun.com",
+                "country": "ca"
+            },
+            "title": "Canada’s economic future risks strategic drift without AI policy",
+            "url": "https://torontosun.com/opinion/columnists/canadas-economic-future-strategic-drift-ai-policy",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/03/StevenMurphy2022-19-scaled-e1773164241150.jpg",
+            "publishedAt": "2026-03-10T20:00:05Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Future of AI in Japan's tourism industry starts with human ties",
+            "url": "https://japantoday.com/category/tech/future-of-ai-in-japan%27s-tourism-industry-starts-with-human-ties",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2026-03-10T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Future of AI in Japan's tourism industry starts with human ties",
+            "url": "https://japantoday.com/category/tech/future-of-ai-in-japan's-tourism-industry-starts-with-human-ties",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2026-03-10T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Nielsen's Gracenote sues OpenAI over use of metadata in AI training",
+            "url": "https://www.reuters.com/business/media-telecom/nielsens-gracenote-sues-openai-over-use-metadata-ai-training-2026-03-10/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/OEIFJD4H2FKCLLXCSC3RP6MQI4.jpg?auth=3dfde9be67d9a9c21d6a98d9cfb3db5eb6e4d542f61d04f85b51f21b5aa83e04&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-10T19:59:50Z"
+        },
+        {
+            "source": {
+                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
+                "name": "Social Media Today",
+                "url": "https://www.socialmediatoday.com",
+                "country": "us"
+            },
+            "title": "LinkedIn is a leading source for AI answers",
+            "url": "https://www.socialmediatoday.com/news/linkedin-is-a-leading-source-for-ai-answers/814388/",
+            "urlToImage": "https://imgproxy.divecdn.com/FRnIzuwWhUdz93BOqC3H7_2QMdq-sunQOUUETAr0Dxo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9saW5rZWRpbl9wcm9mb3VuZDIucG5n.webp",
+            "publishedAt": "2026-03-10T19:40:34Z"
+        },
         {
             "source": {
                 "id": "b419a989918b3665a34559f5047546b6",
@@ -1704,6 +1788,15 @@
             "url": "https://www.hospimedica.com/critical-care/articles/294808731/machine-learning-model-predicts-preeclampsia-in-late-pregnancy.html",
             "urlToImage": "https://www.hospimedica.com/images/stories/articles/article_images/2026-03-10/66254889_m.jpg",
             "publishedAt": "2026-03-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "Amazon Admits Extensive AI Use Is Wreaking Havoc on Its Core Business",
+            "url": "https://futurism.com/artificial-intelligence/amazon-ai-tools-business",
+            "urlToImage": "https://futurism.com/wp-content/uploads/2026/03/amazon-ai-tools-business.jpg?quality=85",
+            "publishedAt": "2026-03-10 20:22:37"
         },
         {
             "source": {
@@ -3450,99 +3543,6 @@
             "url": "https://www.thehindu.com/sci-tech/technology/openai-robotics-manager-resigns-over-pentagon-deal/article70721064.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/dlfty0/article70721065.ece/alternates/LANDSCAPE_1200/2026-03-03T224930Z_29841773_RC2LU7A7E4S1_RTRMADP_3_OPENAI-PRODUCTS-MICROSOFT.JPG",
             "publishedAt": "2026-03-09T04:01:27Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Oracle Stock vs. AMD Stock: What Is the Best AI Stock to Buy Right Now?",
-            "url": "https://markets.businessinsider.com/news/stocks/oracle-stock-vs-amd-stock-what-is-the-best-ai-stock-to-buy-right-now-1035909374",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/03/Screenshot-2026-03-09-at-14.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-03-09T03:12:42Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "Nurses to boycott duty in Kerala private hospitals today; protest to hit 5 districts",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/09/nurses-strike-to-hit-over-100-private-hospitals-in-five-districts-of-kerala.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/2/21/una-nurse-strike.jpg",
-            "publishedAt": "2026-03-09T02:48:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Samsung consumer device CEO TM Roh says company betting big on AI: 'Consumers are not...'",
-            "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/samsung-consumer-device-ceo-tm-roh-says-company-betting-big-on-ai-consumers-are-not-/articleshow/129287882.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129287851,width-1280,height-720,imgsize-66326,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-09T02:03:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Tech leaders are all in on AI. The public, not so much.",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/09/tech-leaders-are-all-in-on-ai-the-public-not-so-much",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/02/3793788.jpg",
-            "publishedAt": "2026-03-09T02:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI and machine learning drive digital transformation across global mining operations",
-            "url": "https://www.devdiscourse.com/article/technology/3828110-ai-and-machine-learning-drive-digital-transformation-across-global-mining-operations",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/06_03_2026_11_17_58_8617151.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-09T01:55:26Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Bond traders already had their hands full, ‘then a war breaks out’",
-            "url": "https://www.afr.com/markets/debt-markets/bond-traders-already-had-their-hands-full-then-a-war-breaks-out-20260309-p5o8qn",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/7ad77619d340bedf01d65f62faf44baaa51b6509",
-            "publishedAt": "2026-03-09T01:10:01Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI software plugins likely to weigh on IT roles for next 12",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/ai-software-plugins-likely-to-weigh-on-it-roles-for-next-12-18-months-experts-say/articleshow/129282751.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3099410,resizemode-75,msid-129282751/tech/information-tech/ai-software-plugins-likely-to-weigh-on-it-roles-for-next-12-18-months-experts-say.jpg",
-            "publishedAt": "2026-03-09T00:30:00Z"
-        },
-        {
-            "source": {
-                "name": "brookings"
-            },
-            "title": "What national AI plans get wrong and how to fix them | Brookings",
-            "url": "https://www.brookings.edu/articles/what-national-ai-plans-get-wrong-and-how-to-fix-them/",
-            "urlToImage": "https://www.brookings.edu/wp-content/uploads/2026/02/LoneThomasky-BitsBaumeDistortedLake-Trees-2560x3612-1.jpg",
-            "publishedAt": "2026-03-09 19:57:52"
         }
     ]
 }
