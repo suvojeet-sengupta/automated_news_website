@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-03-12T07:42:38.098961Z",
+    "lastUpdatedAt": "2026-03-12T08:36:52.118407Z",
     "articles": [
+        {
+            "source": {
+                "id": "010284b7a4ddb4771793c29b39893951",
+                "name": "CHEK News",
+                "url": "https://cheknews.ca",
+                "country": "ca"
+            },
+            "title": "Tumbler Ridge MP backs mother's lawsuit against OpenAI, blaming it for shooting role",
+            "url": "https://cheknews.ca/tumbler-ridge-mp-backs-mothers-lawsuit-against-openai-blaming-it-for-shooting-role-1310868/",
+            "urlToImage": "https://i0.wp.com/cheknews.ca/wp-content/uploads/2026/03/52a315e7d048fdbde570d11233031a3791c971e7394357be5d7f8f14098236ef-e1773259231472.jpg?fit=1400%2C790&quality=89&ssl=1",
+            "publishedAt": "2026-03-11T20:15:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Netflix to pay as much as $600 million for AI filmmaking firm InterPositive, Bloomberg News reports",
+            "url": "https://www.marketscreener.com/news/netflix-to-pay-as-much-as-600-million-for-ai-filmmaking-firm-interpositive-bloomberg-news-reports-ce7e5fdcd081f424",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-03-11T20:14:21Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "iTWire TV: How a Cybersecurity Company Ended Up on McLaren's F1 Car (And Why It's Smarter Than You Think)",
+            "url": "https://itwire.com/guest-articles/guest-interviews/itwire-tv-how-a-cybersecurity-company-ended-up-on-mclaren-s-f1-car-and-why-it-s-smarter-than-you-think.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/b732a7e48a08b791c51017e0f4e1f3af_XS.jpg",
+            "publishedAt": "2026-03-11T19:49:36Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -1692,6 +1728,33 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014077",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014077.g006&size=inline",
             "publishedAt": "2026-03-11T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "yale"
+            },
+            "title": "Funding next-generation engineering in bioelectronics, AI, and ‘extreme materials’",
+            "url": "https://engineering.yale.edu/news-and-events/news/roberts-innovation-fund-backs-next-generation-engineering-bioelectronics-ai-extreme-materials",
+            "urlToImage": "https://engineering.yale.edu/application/files/thumbnails/custom_512x512_exact/8817/7316/3300/yale-engineering-roberts-innovation-fund-news-thumbnail.webp",
+            "publishedAt": "2026-03-11 20:14:16"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "What to expect at KubeCon + CloudNativeCon EU: Join theCUBE March 24–26",
+            "url": "https://siliconangle.com/2026/03/11/cloud-native-ai-kubernetes-take-shape-kubeconeu/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/KubeCon.png",
+            "publishedAt": "2026-03-11 20:03:23"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Met Office ‘supercomputing as a service’ one year old",
+            "url": "https://www.computerweekly.com/news/366639900/Met-Office-supercomputing-as-a-service-one-year-old",
+            "urlToImage": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/Met-Office-operations-centre-PR-hero.jpg",
+            "publishedAt": "2026-03-11 20:01:00"
         },
         {
             "source": {
@@ -3459,78 +3522,6 @@
             "url": "https://www.reuters.com/sustainability/climate-energy/german-start-up-plans-30-megawatt-ai-data-centre-boost-sovereign-control-2026-03-10/",
             "urlToImage": "https://www.reuters.com/resizer/v2/UOPQ5OYMB5OPVMIBDVBTEAS5OI.jpg?auth=857fd63ef1d08b1c3fe8899bb91164c00e97f7206ad69e62c30e0a97d27b33a9&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2026-03-10T06:02:43Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "LabVantage Solutions introduces LabVantage CORTEX, advancing its LIMS platform for AI-driven laboratory operations",
-            "url": "https://www.news-medical.net/news/20260310/LabVantage-Solutions-introduces-LabVantage-CORTEX-advancing-its-LIMS-platform-for-AI-driven-laboratory-operations.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg",
-            "publishedAt": "2026-03-10T05:53:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "AGIBOT signs strategic cooperation agreement with Singtel Enterprise",
-            "url": "https://www.manilatimes.net/2026/03/10/tmt-newswire/pr-newswire/agibot-signs-strategic-cooperation-agreement-with-singtel-enterprise/2296536",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/10/966553.jpg",
-            "publishedAt": "2026-03-10T05:49:44Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Ex-Meta AI chief Yann LeCun's AMI raises $1.03 billion for alternative AI approach",
-            "url": "https://www.reuters.com/business/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-alternative-ai-approach-2026-03-10/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/GRERQIGH25K5DF3COTAL5AXP6E.jpg?auth=4ae19373fa24b3381c82878e680825590dce3f63b37623b2d672ca58bbc1a4de&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-10T05:01:31Z"
-        },
-        {
-            "source": {
-                "id": "6b5c45eb50a6698dcc6711c82d72fb2e",
-                "name": "Oxford Mail",
-                "url": "https://www.oxfordmail.co.uk",
-                "country": "gb"
-            },
-            "title": "Oxford artist pays homage to Ada Lovelace at Balliol College",
-            "url": "https://www.oxfordmail.co.uk/news/25919803.oxford-artist-pays-homage-ada-lovelace-balliol-college/",
-            "urlToImage": "https://www.oxfordmail.co.uk/resources/images/20635605.jpg?type=og-image&xType=0&yType=2217",
-            "publishedAt": "2026-03-10T05:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Empowering Everyday People with Practical AI Knowledge",
-            "url": "https://www.manilatimes.net/2026/03/10/tmt-newswire/globenewswire/empowering-everyday-people-with-practical-ai-knowledge/2296525",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/10/966520.jpg",
-            "publishedAt": "2026-03-10T04:43:13Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Anthropic reveals six human-centric jobs Artificial Intelligence is least likely to replace soon: Is yours on the list?",
-            "url": "https://www.financialexpress.com/life/technology-anthropic-reveals-six-human-centric-jobs-artificial-intelligence-is-least-likely-to-replace-soon-is-yours-on-the-list-4167823/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/03/Untitled-design-7.jpg",
-            "publishedAt": "2026-03-10T04:42:55Z"
         }
     ]
 }
