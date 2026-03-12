@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-03-12T10:35:32.883460Z",
+    "lastUpdatedAt": "2026-03-12T11:28:37.313203Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI weather models show promise for hurricane forecasts, but new study finds key physical limitations",
+            "url": "https://phys.org/news/2026-03-ai-weather-hurricane-key-physical.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-weather-models-show-1.jpg",
+            "publishedAt": "2026-03-11T23:10:01Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Atlassian layoffs affected employees severance package, changes in top management and total job cuts expenses: Which regions will be hit?",
+            "url": "https://economictimes.indiatimes.com/news/international/us/atlassian-layoffs-affected-employees-severance-package-changes-in-top-management-and-total-job-cuts-expenses-which-regions-will-be-hit-ai-driven-products-staff-artificial-intelligence-and-enterprise-sales/articleshow/129483968.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-129484108,width-1200,height-630,imgsize-24947,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-03-11T23:05:00Z"
+        },
+        {
+            "source": {
+                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
+                "name": "FinanzNachrichten",
+                "url": "https://www.finanznachrichten.de",
+                "country": "de"
+            },
+            "title": "GetFeatured: Hillbilly Auto Supply LLC Launches Hillbilly Parts Helper, an AI Agent for Ford Truck Parts Identification",
+            "url": "https://www.finanznachrichten.de/nachrichten-2026-03/67920239-getfeatured-hillbilly-auto-supply-llc-launches-hillbilly-parts-helper-an-ai-agent-for-ford-truck-parts-identification-296.htm",
+            "urlToImage": "https://www.finanznachrichten.de/content/g/fb.png",
+            "publishedAt": "2026-03-11T23:02:00Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Pentagon Opens Door to Anthropic Use Beyond 6-Month Phaseout",
+            "url": "https://www.newsmax.com/finance/streettalk/pentagon-anthropic-ai/2026/03/11/id/1249196/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=04d3a3ee-b4ad-41ee-a58e-d28aa59bbc7e&SiteName=Newsmax",
+            "publishedAt": "2026-03-11T22:54:46Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -3471,54 +3519,6 @@
             "url": "https://www.freepressjournal.in/indore/indore-news-india-posts-gen-z-makeover",
             "urlToImage": "https://media.assettype.com/freepressjournal/2026-03-09/v7ad0vkc/Mahima-–-DAVV-genz.jpg",
             "publishedAt": "2026-03-10T08:34:32Z"
-        },
-        {
-            "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
-                "country": "in"
-            },
-            "title": "Cyient Forms Strategic Partnership with Prospecta for AI-Driven Data Management Solutions",
-            "url": "https://scanx.trade/stock-market-news/stocks/cyient-forms-strategic-partnership-with-prospecta-for-ai-driven-data-management-solutions/34676878",
-            "urlToImage": "http://news-images.dhan.co/cyient-forms-strategic-partnership-with-prospecta-for-ai-driven-data-management-solutions.jpg",
-            "publishedAt": "2026-03-10T08:27:58Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "From cloud shifts to quantum readiness: Palo Alto Networks Executive Vice President, Anand Oswal decodes the future of cybersecurity",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-cloud-shifts-to-quantum-readiness-palo-alto-networks-executive-vice-president-anand-oswal-decodes-the-future-of-cybersecurity/articleshow/129382830.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-658408,resizemode-75,msid-129382830/tech/artificial-intelligence/from-cloud-shifts-to-quantum-readiness-palo-alto-networks-executive-vice-president-anand-oswal-decodes-the-future-of-cybersecurity.jpg",
-            "publishedAt": "2026-03-10T08:01:54Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "'Uncover what's really going on': UFO researcher in Manitoba supports AI tracking",
-            "url": "https://www.baytoday.ca/national-news/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking-11981143",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/03/3c36a5f4b41c920e3ca7899eea59ae83653ec43ac8a3e271ecd1fe11b5561737.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-03-10T08:00:16Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "'Uncover what's really going on': UFO researcher in Manitoba supports AI tracking",
-            "url": "https://www.sootoday.com/national-news/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking-11981143",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/03/3c36a5f4b41c920e3ca7899eea59ae83653ec43ac8a3e271ecd1fe11b5561737.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-03-10T08:00:16Z"
         }
     ]
 }
