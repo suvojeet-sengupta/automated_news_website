@@ -1,6 +1,150 @@
 {
-    "lastUpdatedAt": "2026-03-12T21:28:27.196752Z",
+    "lastUpdatedAt": "2026-03-12T22:21:09.292305Z",
     "articles": [
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "AI writes buggy code. A Silicon Valley startup wants to fix it",
+            "url": "https://triblive.com/business/technology/ai-writes-buggy-code-a-silicon-valley-startup-wants-to-fix-it/",
+            "urlToImage": "https://assets-varnish.triblive.com/2026/03/9380328_web1_ptr-techjobs-020921.jpg",
+            "publishedAt": "2026-03-12T10:18:19Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI Battlefield: Healthcare Systems vs Insurers",
+            "url": "https://www.devdiscourse.com/article/technology/3835441-ai-battlefield-healthcare-systems-vs-insurers",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/15_07_2025_14_46_55_3028319.png?width=920&format=jpeg",
+            "publishedAt": "2026-03-12T10:11:28Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US insurers and hospitals turn to new AI for age-old battle over charges vs payments",
+            "url": "https://www.reuters.com/legal/litigation/us-insurers-hospitals-turn-new-ai-age-old-battle-over-charges-vs-payments-2026-03-12/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/3DQUWZTVIFJIHHQXCVGBVPLOTE.jpg?auth=4d083e8d207d797cfbdcbdb392dd149a02c47c03a43851d6d6fddd33b48e0d2f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-12T10:08:12Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "US insurers and hospitals turn to new AI for age-old battle over charges vs payments",
+            "url": "https://www.marketscreener.com/news/us-insurers-and-hospitals-turn-to-new-ai-for-age-old-battle-over-charges-vs-payments-ce7e5fdddf88f127",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-12T100942Z_2_LYNXMPEM2B0JI_RTROPTP_4_USA-HEALTH-AI.JPG",
+            "publishedAt": "2026-03-12T10:04:14Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Software companies fight back against fears that AI will kill them",
+            "url": "https://www.reuters.com/business/software-companies-fight-back-against-fears-that-ai-will-kill-them-2026-03-12/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/KFAAUFGIAVNN3K3FVZDJAXAMHY.jpg?auth=5178d963b8814e1f0fd9dceaa45df119037e0837a66e045952fa881e2b844487&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-12T10:03:28Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Software companies fight back against fears that AI will kill them",
+            "url": "https://www.marketscreener.com/news/software-companies-fight-back-against-fears-that-ai-will-kill-them-ce7e5fdddf88f224",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-12T100313Z_1_LYNXMPEM2B0J8_RTROPTP_4_TECH-CONFERENCE-MWC.JPG",
+            "publishedAt": "2026-03-12T10:02:37Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Canada's main stock index captures investor attention as AI disruption hedge",
+            "url": "https://www.marketscreener.com/news/canada-s-main-stock-index-captures-investor-attention-as-ai-disruption-hedge-ce7e5fdddf88f321",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-23T114325Z_1_LYNXMPEL3M0MD_RTROPTP_4_CANADA-STOCKS.JPG",
+            "publishedAt": "2026-03-12T10:02:18Z"
+        },
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "Amid OpenClaw frenzy, China’s central bank adds to cybersecurity warnings",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3346352/amid-openclaw-frenzy-chinas-central-bank-adds-cybersecurity-warnings",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/03/12/43d1172f-a8b1-4d44-a003-9e582fae7833_6faf6b4e.jpg?itok=unR51Tc_&v=1773306018",
+            "publishedAt": "2026-03-12T10:00:15Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "The wacky beliefs of the tech elite shaping global society",
+            "url": "https://nypost.com/2026/03/12/us-news/the-wacky-beliefs-of-the-tech-elite-shaping-global-society/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/03/newspress-collage-hibcwdi6r-1773265599606.jpg?quality=75&strip=all&1773251391&w=1200",
+            "publishedAt": "2026-03-12T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f4967fce32bfc735983f0f39dcdba127",
+                "name": "pv magazine",
+                "url": "https://www.pv-magazine.com",
+                "country": "de"
+            },
+            "title": "New simulation platform lets energy operators train against realistic cyberattacks",
+            "url": "https://www.pv-magazine.com/2026/03/12/new-simulation-platform-lets-energy-operators-train-against-realistic-cyberattacks/",
+            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2026/03/78029ef1-d858-4350-b19e-db6680c23589-1200x800.png",
+            "publishedAt": "2026-03-12T09:59:54Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Pentagon allows rare exemptions for Anthropic AI tools despite ban",
+            "url": "https://www.thenews.com.pk/latest/1395438-pentagon-allows-rare-exemptions-for-anthropic-ai-tools-despite-ban",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-12/1395438_030311_updates.jpg",
+            "publishedAt": "2026-03-12T09:54:45Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Italy's Leonardo steps up move into digital defence as it lifts growth targets",
+            "url": "https://www.marketscreener.com/news/italy-s-leonardo-steps-up-move-into-digital-defence-as-it-lifts-growth-targets-ce7e5fdddc80fe25",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-20T102713Z_1_LYNXMPEL4J0FL_RTROPTP_4_LEONARDO-RESULTS.JPG",
+            "publishedAt": "2026-03-12T09:50:29Z"
+        },
         {
             "source": {
                 "id": "fd3677545b80d5db7541de8e111d27ba",
@@ -3360,150 +3504,6 @@
             "url": "https://www.thehindu.com/news/national/karnataka/deloitte-opens-cyber-security-facility-in-bengaluru/article70727366.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/a3whsh/article70728352.ece/alternates/LANDSCAPE_1200/iStock-1455658894.jpg",
             "publishedAt": "2026-03-10T18:46:42Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "BioXcel Therapeutics Announces Approximately $8.0 Million Registered Direct Offering",
-            "url": "https://www.manilatimes.net/2026/03/11/tmt-newswire/globenewswire/bioxcel-therapeutics-announces-approximately-80-million-registered-direct-offering/2297384",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/11/967986.png",
-            "publishedAt": "2026-03-10T18:46:04Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Senate Confirms General Rudd: Navigating Leadership in Cybersecurity",
-            "url": "https://www.devdiscourse.com/article/law-order/3833349-senate-confirms-general-rudd-navigating-leadership-in-cybersecurity",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_52_07_9391333.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-03-10T18:27:59Z"
-        },
-        {
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
-            },
-            "title": "Mandiant's founder just raised $190M for his autonomous AI agent security startup",
-            "url": "https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-660679544.jpg?resize=1200,863",
-            "publishedAt": "2026-03-10T18:21:07Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Meta Acquires Moltbook, the Social Network Just for A.I. Bots",
-            "url": "https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/03/10/multimedia/10BIZ-META-Moltbook-2-fbqk/10BIZ-META-Moltbook-2-fbqk-facebookJumbo.jpg",
-            "publishedAt": "2026-03-10T18:19:41Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Using a smartwatch to detect changes in brain health",
-            "url": "https://www.news-medical.net/news/20260310/Using-a-smartwatch-to-detect-changes-in-brain-health.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-            "publishedAt": "2026-03-10T18:14:00Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "How AI is integrated into clinical workflow lowers medical liability perception",
-            "url": "https://medicalxpress.com/news/2026-03-ai-clinical-workflow-lowers-medical.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-solving-medical-cas.jpg",
-            "publishedAt": "2026-03-10T18:00:01Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "Cyber attack reported at Community College of Beaver County",
-            "url": "https://triblive.com/local/regional/cyber-attack-reported-at-community-college-of-beaver-county/",
-            "urlToImage": "https://assets-varnish.triblive.com/2026/03/9374528_web1_gtr-cybersecurity.jpg",
-            "publishedAt": "2026-03-10T17:47:58Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Morgan Stanley Expects One Of The 'Most Expensive' Cybersecurity Stocks To Outperform Long Term",
-            "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51167607/morgan-stanley-expects-one-of-the-most-expensive-cybersecurity-stocks-to-outperform-long-term",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/03/10/CrowdStrike-Holdings--Inc-.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2026-03-10T17:36:09Z"
-        },
-        {
-            "source": {
-                "id": "09dc1bda762f4f787cec10477a894d96",
-                "name": "Toronto Sun",
-                "url": "https://torontosun.com",
-                "country": "ca"
-            },
-            "title": "City of Toronto seeks use of AI for faster pothole repairs",
-            "url": "https://torontosun.com/news/local-news/toronto-ai-faster-pothole-repairs",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/03/Potholes-files-March10.jpg",
-            "publishedAt": "2026-03-10T17:32:43Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Amazon launches healthcare AI assistant on its website, app",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-launches-healthcare-ai-assistant-on-its-website-app/articleshow/129410122.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-32598,resizemode-75,msid-129410122/tech/artificial-intelligence/amazon-launches-healthcare-ai-assistant-on-its-website-app.jpg",
-            "publishedAt": "2026-03-10T17:28:23Z"
-        },
-        {
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            },
-            "title": "Meta acquires AI agent social network Moltbook",
-            "url": "https://www.theguardian.com/technology/2026/mar/10/meta-acquires-moltbook-ai-agent-social-network",
-            "urlToImage": "https://i.guim.co.uk/img/media/64be740bc3f3d1c6e5e9f34a03a27197c76ef77f/119_0_3841_3072/master/3841.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c705c792fa59aac968482e2b97b0cfa6",
-            "publishedAt": "2026-03-10T17:27:54Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Amazon reviews outages linked to the use of AI-assisted code",
-            "url": "https://www.marketscreener.com/news/amazon-reviews-outages-linked-to-the-use-of-ai-assisted-code-ce7e5fdfda8ff520",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-01-28T114906Z_1_LYNXMPEM0R0RP_RTROPTP_4_AMAZON-EUROPE-CLOUD.JPG",
-            "publishedAt": "2026-03-10T17:27:25Z"
         }
     ]
 }
