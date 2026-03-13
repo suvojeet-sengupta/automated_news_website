@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-03-13T19:28:07.285167Z",
+    "lastUpdatedAt": "2026-03-13T20:29:01.023442Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "AI goes rogue: Tests show agents can leak passwords and disable security tools",
+            "url": "https://www.thenews.com.pk/latest/1395525-ai-goes-rogue-tests-show-agents-can-leak-passwords-and-disable-security-tools",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-13/1395525_010644_updates.jpg",
+            "publishedAt": "2026-03-13T08:07:00Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "Hackers Infiltrated CRPF's Internal Email Network? Cybersecurity Warning Issued | Exclusive",
+            "url": "https://www.news18.com/india/hackers-infiltrated-crpfs-internal-email-network-cybersecurity-warning-issued-exclusive-ws-l-9958417.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/02/Untitled-design-2026-02-20T020335.925-2026-02-8a7bbf85d515e9e2d4f4c7c128cf8504-16x9.jpg",
+            "publishedAt": "2026-03-13T08:02:34Z"
+        },
+        {
+            "source": {
+                "id": "614a4b10b69af6cc657068ec6a59eaff",
+                "name": "Lawfare",
+                "url": "https://www.lawfaremedia.org",
+                "country": "us"
+            },
+            "title": "Trump's Cyber Strategy… Great, Amazing, The Best Yet",
+            "url": "https://www.lawfaremedia.org/article/trump's-cyber-strategy--great--amazing--the-best-yet",
+            "urlToImage": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/trump6366a07f-060a-4ff5-b1e2-3df10cae57ff.jpg?sfvrsn=56c28440_11",
+            "publishedAt": "2026-03-13T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "614a4b10b69af6cc657068ec6a59eaff",
+                "name": "Lawfare",
+                "url": "https://www.lawfaremedia.org",
+                "country": "us"
+            },
+            "title": "Trump's Cyber Strategy… Great, Amazing, The Best Yet",
+            "url": "https://www.lawfaremedia.org/article/trumps-cyber-strategy--great--amazing--the-best-yet",
+            "urlToImage": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/trump6366a07f-060a-4ff5-b1e2-3df10cae57ff.jpg?sfvrsn=56c28440_11",
+            "publishedAt": "2026-03-13T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Supreme Court to do away with human intervention, will deploy AI for case listing and bench allocation",
+            "url": "https://www.livemint.com/news/india/supreme-court-to-deploy-ai-for-case-listing-and-bench-allocation-11773387456355.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/Supreme-Court-3_1770271910541_1770271928968_1773387940990.jpg",
+            "publishedAt": "2026-03-13T07:59:04Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Elon Musk warns 'kids, mentally unwell' users to avoid ChatGPT amid AI safety row",
+            "url": "https://www.firstpost.com/business/elon-musk-warns-kids-mentally-unwell-users-to-avoid-chatgpt-amid-ai-safety-row-13989087.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/01/Untitled-design-70-2026-01-542a0947162fa4f73a2a065c02a7c957-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-03-13T07:41:32Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "Pay For AI Like Electricity? Sam Altman Says Intelligence Could Soon Be Metered",
+            "url": "https://www.timesnownews.com/technology-science/pay-for-ai-like-electricity-sam-altman-says-intelligence-could-soon-be-metered-article-153825928",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-153825928,width-1280,height-720,resizemode-75/153825928.jpg",
+            "publishedAt": "2026-03-13T07:36:32Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -3441,90 +3525,6 @@
             "url": "https://www.manilatimes.net/2026/03/12/business/foreign-business/oracle-sees-ai-boom-through-at-least-2027/2297927",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/11/969073.jpg",
             "publishedAt": "2026-03-11T16:09:00Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Meta preparing to deploy four new homegrown chips to handle AI",
-            "url": "https://www.mercurynews.com/2026/03/11/meta-four-new-homegrown-chips-handle-ai/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2023/12/Election_2024_Meta_09153.jpg?w=1024&h=683",
-            "publishedAt": "2026-03-11T16:04:44Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Google backs Animaj Studio using AI to make content for kids on YouTube",
-            "url": "https://www.mercurynews.com/2026/03/11/google-animaj-studio-ai-content-kids-youtube/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/01/Google-AI-Associated-Press_25531.jpg?w=1024&h=698",
-            "publishedAt": "2026-03-11T16:04:22Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Synopsys rolls out new software tools for designing AI chips",
-            "url": "https://www.reuters.com/business/synopsys-rolls-out-new-software-tools-designing-ai-chips-2026-03-11/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/B6DZWARXNJIADJMU2SPMALIWCI.jpg?auth=e873e39e9ec7e94ae2ce08412c5ff1549898babfea3bc76af40f58426a7dea85&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-11T16:02:01Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Predictive Lead Scoring: Machine Learning Models, Propensity Analytics, and Sales-Marketing Alignment Technology",
-            "url": "https://techbullion.com/predictive-lead-scoring-machine-learning-models-propensity-analytics-and-sales-marketing-alignment-technology/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/art163-1000x600.png",
-            "publishedAt": "2026-03-11T16:01:23Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Synopsys rolls out new software tools for designing AI chips",
-            "url": "https://www.marketscreener.com/news/synopsys-rolls-out-new-software-tools-for-designing-ai-chips-ce7e5fdcde8ff32d",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-11T160152Z_1_LYNXMPEM2A149_RTROPTP_4_SYNOPSYS-TECH.JPG",
-            "publishedAt": "2026-03-11T16:01:10Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "The teacher still beats AI",
-            "url": "https://www.thestar.com.my/news/nation/2026/03/12/the-teacher-still-beats-ai",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/12/3808660.jpg",
-            "publishedAt": "2026-03-11T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Nebius Group stock surges 15% - here’s what’s fueling the sudden rally",
-            "url": "https://economictimes.indiatimes.com/news/international/us/nebius-group-stock-surges-15-heres-whats-fueling-the-sudden-rally/articleshow/129469596.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-129469596,width-1200,height-630,imgsize-11672,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-03-11T15:58:00Z"
         }
     ]
 }
