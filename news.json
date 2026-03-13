@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-03-13T10:31:57.768297Z",
+    "lastUpdatedAt": "2026-03-13T11:27:30.021840Z",
     "articles": [
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "PIB Jammu holds workshop on role of AI in journalism",
+            "url": "https://www.dailyexcelsior.com/pib-jammu-holds-workshop-on-role-of-ai-in-journalism/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/03/Page5-6-10.jpg",
+            "publishedAt": "2026-03-12T23:22:51Z"
+        },
+        {
+            "source": {
+                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
+                "name": "Anchorage Daily News",
+                "url": "https://www.adn.com",
+                "country": "us"
+            },
+            "title": "Iran-linked hackers take aim at U.S. and other targets, raising risk of cyberattacks during war",
+            "url": "https://www.adn.com/nation-world/2026/03/12/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/",
+            "urlToImage": "https://www.adn.com/resizer/v2/WC2AQWU73FLL24FL4CM2QLKYNM.jpg?smart=true&auth=7db72f03d5c0ece46c6e7a1a25507389ea7d067b3e210df5e4f095c417736dc3&width=1200&height=630",
+            "publishedAt": "2026-03-12T23:10:36Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Chinese banks boost loans to tech sector as Beijing ramps up AI push",
+            "url": "https://www.reuters.com/business/finance/chinese-banks-boost-loans-tech-sector-beijing-ramps-up-ai-push-2026-03-12/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/WBXYTXBXOBJLPK7HKNSYCPUUEI.jpg?auth=f26d2145efdefd649f31a8732a3af40a09649442884fe3627e563df75ac2b301&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-12T23:04:23Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Chinese banks boost loans to tech sector as Beijing ramps up AI push",
+            "url": "https://www.marketscreener.com/news/chinese-banks-boost-loans-to-tech-sector-as-beijing-ramps-up-ai-push-ce7e5fd2dc89f127",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-12T230410Z_1_LYNXMPEM2B1GI_RTROPTP_4_CHINA-PARLIAMENT-TECH-BANKS.JPG",
+            "publishedAt": "2026-03-12T23:01:31Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Ukraine Unlocks Battlefield Data to Supercharge Drone AI Development",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
+            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
+            "publishedAt": "2026-03-12T22:58:23Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Ukraine to Make Drone Videos Available for Training AI Models",
+            "url": "https://www.nytimes.com/2026/03/12/world/europe/ukraine-drones-ai-models-training.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/03/12/multimedia/12int-ukraine-AI-1-vtcg/12int-ukraine-AI-1-vtcg-facebookJumbo.jpg",
+            "publishedAt": "2026-03-12T22:51:16Z"
+        },
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "Telus probes cybersecurity incident that 'ShinyHunters' group claims responsibility for",
+            "url": "https://www.cbc.ca/news/business/telus-cybersecurity-incident-shinyhunters-9.7126627",
+            "urlToImage": "https://i.cbc.ca/ais/2667e126-8d87-4353-9267-befc2b5d0d82,1773354036461/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1071%2C7193%2C4046%29%3BResize%3D620",
+            "publishedAt": "2026-03-12T22:50:00Z"
+        },
         {
             "source": {
                 "id": "79e9a45376a66fd7e1a4e68bba928c39",
@@ -2043,6 +2127,96 @@
         },
         {
             "source": {
+                "name": "nvdaily"
+            },
+            "title": "WIRobotics Selected for the Physical AI Fellowship Powered by AWS, NVIDIA, and MassRobotics",
+            "url": "https://www.nvdaily.com/online_features/press_releases/wirobotics-selected-for-the-physical-ai-fellowship-powered-by-aws-nvidia-and-massrobotics/article_d668aa3f-1dd7-52bc-9b22-53d1d9d4313d.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/1/19/119a101c-2a46-5b98-9722-91c9309bc9ac/69b3aff59d663.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-03-12 23:00:00"
+        },
+        {
+            "source": {
+                "name": "samessenger"
+            },
+            "title": "WIRobotics Selected for the Physical AI Fellowship Powered by AWS, NVIDIA, and MassRobotics",
+            "url": "https://www.samessenger.com/online_features/press_releases/wirobotics-selected-for-the-physical-ai-fellowship-powered-by-aws-nvidia-and-massrobotics/article_acc6da70-477a-53a8-9245-26f2ec77dca0.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/samessenger.com/content/tncms/assets/v3/editorial/d/d8/dd874840-1930-58c0-95eb-87a9db2b9f67/69b3b0b135c4a.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-03-12 23:00:00"
+        },
+        {
+            "source": {
+                "name": "ricentral"
+            },
+            "title": "WIRobotics Selected for the Physical AI Fellowship Powered by AWS, NVIDIA, and MassRobotics",
+            "url": "https://www.ricentral.com/online_features/press_releases/wirobotics-selected-for-the-physical-ai-fellowship-powered-by-aws-nvidia-and-massrobotics/article_689e533b-8707-5093-8243-325917d9c2c8.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/ricentral.com/content/tncms/assets/v3/editorial/d/c4/dc4a3405-76c3-5959-b715-20707cd41187/69b3b1f087d39.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-03-12 23:00:00"
+        },
+        {
+            "source": {
+                "name": "courier-tribune"
+            },
+            "title": "WIRobotics Selected for the Physical AI Fellowship Powered by AWS, NVIDIA, and MassRobotics",
+            "url": "https://www.courier-tribune.com/online_features/press_releases/wirobotics-selected-for-the-physical-ai-fellowship-powered-by-aws-nvidia-and-massrobotics/article_7aea1aa3-9b69-5a65-b2b3-7fb0596b3af6.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/courier-tribune.com/content/tncms/assets/v3/editorial/5/58/558efa8d-1921-5d93-82eb-48b0089f0e49/69b3b0dc8ef58.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-03-12 23:00:00"
+        },
+        {
+            "source": {
+                "name": "mtairynews"
+            },
+            "title": "WIRobotics Selected for the Physical AI Fellowship Powered by AWS, NVIDIA, and MassRobotics",
+            "url": "https://www.mtairynews.com/online_features/press_releases/wirobotics-selected-for-the-physical-ai-fellowship-powered-by-aws-nvidia-and-massrobotics/article_c5b2c3c9-5404-5804-b52f-d092453b3832.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtairynews.com/content/tncms/assets/v3/editorial/e/8a/e8afc6d5-ddc1-5135-97ab-fc90ffca323f/69b3b3c2b5eca.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-03-12 23:00:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "WIRobotics Selected for the Physical AI Fellowship Powered by AWS, NVIDIA, and MassRobotics",
+            "url": "https://en.prnasia.com/story/525124-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2932354/ALLEX_WIRobotics__humanoid_robot__Photo_courtesy_WIRobotics.jpg?p=medium600",
+            "publishedAt": "2026-03-12 23:00:00"
+        },
+        {
+            "source": {
+                "name": "thepilotnews"
+            },
+            "title": "WIRobotics Selected for the Physical AI Fellowship Powered by AWS, NVIDIA, and MassRobotics",
+            "url": "https://www.thepilotnews.com/online_features/press_releases/wirobotics-selected-for-the-physical-ai-fellowship-powered-by-aws-nvidia-and-massrobotics/article_36271ce8-f6f4-574b-b67e-07a22bfd2081.html",
+            "urlToImage": "https://rt.prnewswire.com/rt.gif?DateId=20260312&NewsItemId=CN08742&Transmission_Id=202603121900PR_NEWS_USPR_____CN08742",
+            "publishedAt": "2026-03-12 23:00:00"
+        },
+        {
+            "source": {
+                "name": "journal_news"
+            },
+            "title": "WIRobotics Selected for the Physical AI Fellowship Powered by AWS, NVIDIA, and MassRobotics",
+            "url": "https://www.journal-news.net/online_features/press_releases/wirobotics-selected-for-the-physical-ai-fellowship-powered-by-aws-nvidia-and-massrobotics/article_46d1a55e-d519-519a-8b2e-afed455ffd38.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journal-news.net/content/tncms/assets/v3/editorial/a/b5/ab5ed56d-58f1-5090-a434-6a49c026bc1e/69b3b32b4ebf0.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-03-12 23:00:00"
+        },
+        {
+            "source": {
+                "name": "thechronicle"
+            },
+            "title": "WIRobotics Selected for the Physical AI Fellowship Powered by AWS, NVIDIA, and MassRobotics",
+            "url": "https://www.thechronicle.com/online_features/press_releases/wirobotics-selected-for-the-physical-ai-fellowship-powered-by-aws-nvidia-and-massrobotics/article_395d79a9-0ada-5c96-8d0d-8345814c7ea3.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thechronicle.com/content/tncms/assets/v3/editorial/a/94/a942ba21-80b4-58ee-a23e-d26292f6e6a9/69b3b31ce6b4f.image.jpg?resize=888%2C500",
+            "publishedAt": "2026-03-12 23:00:00"
+        },
+        {
+            "source": {
+                "name": "thewesterlysun"
+            },
+            "title": "WIRobotics Selected for the Physical AI Fellowship Powered by AWS, NVIDIA, and MassRobotics",
+            "url": "https://www.thewesterlysun.com/online_features/press_releases/wirobotics-selected-for-the-physical-ai-fellowship-powered-by-aws-nvidia-and-massrobotics/article_a42d1c03-b897-5e92-83cd-7e490a3a40f3.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thewesterlysun.com/content/tncms/assets/v3/editorial/c/d5/cd5fab0a-c0a3-51cb-9e64-5a95b4656700/69b3b2124b680.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-03-12 23:00:00"
+        },
+        {
+            "source": {
                 "name": "newsweek"
             },
             "title": "AI Impact: Is AI Actually Intelligent? Stephen Fry Weighs in",
@@ -3363,210 +3537,6 @@
             "url": "https://www.marketscreener.com/news/canal-taps-google-and-openai-for-ai-driven-video-production-content-recommendation-ce7e5fdcda8bff25",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-06T064757Z_1_LYNXNPEL5508H_RTROPTP_4_FRANCE-MEDIAS.JPG",
             "publishedAt": "2026-03-11T09:51:57Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "If AI writes code, what happens to jobs for computer science graduates?",
-            "url": "https://www.indiatoday.in/jobs/story/if-ai-writes-code-what-happens-to-jobs-for-computer-science-graduates-educ-2880320-2026-03-11",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/if-ai-writes-code--what-happens-to-jobs-for-computer-science-graduates-112717305-16x9_0.jpg?VersionId=ObSHaKaDmGckXxj5UC0mYK5mt6OYlVim",
-            "publishedAt": "2026-03-11T09:27:53Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "South Korea hints at expanding AI ties with UAE following the Middle East conflict",
-            "url": "https://www.thenews.com.pk/latest/1395294-south-korea-hints-at-expanding-ai-ties-with-uae-following-the-middle-east-conflict",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-11/1395294_021915_updates.jpg",
-            "publishedAt": "2026-03-11T09:18:00Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "Pulsar International board to consider venture into precision farming",
-            "url": "https://www.thehindubusinessline.com/companies/pulsar-international-board-to-consider-venture-into-precision-farming/article70730049.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/ambgf6/article70730358.ece/alternates/LANDSCAPE_1200/IMG_Smart_agriculture__v_2_1_U6DPU9ML.jpg",
-            "publishedAt": "2026-03-11T09:00:23Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Indian IT industry likely to emerge stronger despite Gen",
-            "url": "https://www.tribuneindia.com/news/business/indian-it-industry-likely-to-emerge-stronger-despite-gen-ai-disruption-nuvama/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY0YjA5NDYwLTFkMjctMTFmMS04ZmJiLWQ3YWM5ZTFmZWNhOC5qcGc=",
-            "publishedAt": "2026-03-11T08:50:39Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "Blaze AI: The Intelligence Core Powering the Next Era of Security Operations",
-            "url": "https://www.republicworld.com/tech/blaze-ai-the-intelligence-core-powering-the-next-era-of-security-operations",
-            "urlToImage": "https://img.republicworld.com/all_images/2026/03/cyber-1773218128595-1280x720.webp",
-            "publishedAt": "2026-03-11T08:35:38Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Meta faces backlash over fake AI videos",
-            "url": "https://www.thenews.com.pk/latest/1395290-meta-faces-backlash-over-fake-ai-videos",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-11/1395290_014611_updates.jpg",
-            "publishedAt": "2026-03-11T08:25:35Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Wondershare's EdrawMax and MobileTrans Win Gold Stevie® Awards for Productivity Innovation",
-            "url": "https://www.manilatimes.net/2026/03/11/tmt-newswire/pr-newswire/wondershares-edrawmax-and-mobiletrans-win-gold-stevie-awards-for-productivity-innovation/2297635",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/11/968470.jpg",
-            "publishedAt": "2026-03-11T08:17:04Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Patreon CEO says AI can unlock creativity, but lack of regulation is destroying creative people",
-            "url": "https://www.indiatoday.in/jobs/story/patreon-ceo-says-ai-can-unlock-creativity-but-lack-of-regulation-is-destroying-creative-people-tchc-2880268-2026-03-11",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/patreon-ceo-jack-conte-110322234-16x9_0.png?VersionId=ZSgozdYinL1z2LXLWPPd4GGmjxdZ9VMr",
-            "publishedAt": "2026-03-11T08:07:01Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Patreon CEO says AI can unlock creativity, but lack of regulation is destroying creative people",
-            "url": "https://www.indiatoday.in/technology/news/story/patreon-ceo-says-ai-can-unlock-creativity-but-lack-of-regulation-is-destroying-creative-people-2880268-2026-03-11",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/patreon-ceo-jack-conte-110322234-16x9_0.png?VersionId=ZSgozdYinL1z2LXLWPPd4GGmjxdZ9VMr",
-            "publishedAt": "2026-03-11T08:07:01Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Scott Dylan: The AI Cybersecurity Arms Race - Why Businesses Are Losing and What Needs to Change",
-            "url": "https://techbullion.com/scott-dylan-the-ai-cybersecurity-arms-race-why-businesses-are-losing-and-what-needs-to-change/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/scott-dylan-cybersecurity-ai-threat-landscape-1000x600.jpg",
-            "publishedAt": "2026-03-11T08:06:37Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Newfoundland and Labrador overhauls procurement after report errors thought to be AI",
-            "url": "https://www.baytoday.ca/national-news/newfoundland-and-labrador-overhauls-procurement-after-report-errors-thought-to-be-ai-11987006",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/03/fc4859d0e6b7b9d1ef13e0300c86752c69316d7b2c86b0f2d043be01d821cb3b.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-03-11T08:00:15Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Empyrean Sky Partners Achieves Fastest First Close of 2026, Secures $90 Million for Global Technology Fund",
-            "url": "https://www.manilatimes.net/2026/03/11/tmt-newswire/pr-newswire/empyrean-sky-partners-achieves-fastest-first-close-of-2026-secures-90-million-for-global-technology-fund/2297627",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/11/968435.jpg",
-            "publishedAt": "2026-03-11T07:56:58Z"
-        },
-        {
-            "source": {
-                "id": "df3038aaa802741cdad6eb4698aa1552",
-                "name": "Al-Monitor",
-                "url": "https://www.al-monitor.com",
-                "country": "us"
-            },
-            "title": "South Korea Presidential aide says AI cooperation with UAE could accelerate after conflict",
-            "url": "https://www.al-monitor.com/originals/2026/03/south-korea-presidential-aide-says-ai-cooperation-uae-could-accelerate-after",
-            "urlToImage": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-03/2026-03-11T075401Z_2_LYNXMPEM2A0F5_RTROPTP_4_INDIA-IT.JPG?h=542328fa&itok=DrNr9obu",
-            "publishedAt": "2026-03-11T07:54:01Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Digital Lutera: The New Face of UPI Fraud",
-            "url": "https://www.devdiscourse.com/article/technology/3833787-digital-lutera-the-new-face-of-upi-fraud",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-11T07:42:08Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Can AI tell if your food is ultra-processed? CMC Vellore doctor breaks down what studies found",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/can-ai-tell-if-your-food-is-ultra-processed-cmc-vellore-doctor-breaks-down-what-studies-found/articleshow/129445346.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-129446380,width-1200,height-630,imgsize-95606,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2026-03-11T07:38:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Futurionex AI Wealth Management Function Launched, Creating a New Paradigm for Intelligent Asset Allocation",
-            "url": "https://www.manilatimes.net/2026/03/11/tmt-newswire/globenewswire/futurionex-ai-wealth-management-function-launched-creating-a-new-paradigm-for-intelligent-asset-allocation/2297617",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/11/968423.jpg",
-            "publishedAt": "2026-03-11T07:32:35Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "Harish Rana: Passive euthanasia still ensures medical care and is no abandonment; here's how",
-            "url": "https://www.onmanorama.com/health/healthcare/2026/03/11/harish-rana-supreme-court-passive-euthanasia-next-steps.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/health/healthcare/images/2026/3/11/harish-rana-active-euthanasia.jpg",
-            "publishedAt": "2026-03-11T07:31:32Z"
         }
     ]
 }
