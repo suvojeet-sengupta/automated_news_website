@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-14T06:39:47.092068Z",
+    "lastUpdatedAt": "2026-03-14T07:31:59.335563Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "xAI in Internal Crisis: Elon Musk Suggests a Complete Rebuild",
+            "url": "https://www.marketscreener.com/news/xai-in-internal-crisis-elon-musk-suggests-a-complete-rebuild-ce7e5fd3dd8df724",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-02-03T022932Z_2_LYNXMPEM1203N_RTROPTP_4_SPACEX-IPO-FINANCIALS.JPG",
+            "publishedAt": "2026-03-13T19:19:12Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Intuitive Surgical Reveals Cybersecurity Incident",
+            "url": "https://www.marketscreener.com/news/intuitive-surgical-reveals-cybersecurity-incident-ce7e5fd3dd8bf025",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-03-13T19:04:15Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -1284,6 +1308,15 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001288",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001288.g006&size=inline",
             "publishedAt": "2026-03-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "aboutamazon"
+            },
+            "title": "AWS and Cerebras collaboration aims to set a new standard for AI inference speed and performance in the cloud",
+            "url": "https://www.aboutamazon.com/news/aws/aws-cerebras-ai-inference",
+            "urlToImage": "https://assets.aboutamazon.com/24/97/b732b6fd4db5ae8b87899367bfbe/aws-cerebras-ck031326.jpg",
+            "publishedAt": "2026-03-13 19:17:50"
         },
         {
             "source": {
@@ -3516,42 +3549,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/03/12/microsoft-launches-new-us99-per-month-ai-focused-software-bundle",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/11/3807885.jpg",
             "publishedAt": "2026-03-12T01:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Supawriter Announces Guide Presenting AI Content Writing Platforms for SEO and Digital Publishing Workflows",
-            "url": "https://www.manilatimes.net/2026/03/12/tmt-newswire/plentisoft/supawriter-announces-guide-presenting-ai-content-writing-platforms-for-seo-and-digital-publishing-workflows/2298373",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/12/969780.jpg",
-            "publishedAt": "2026-03-12T00:54:17Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI founders must move fast to stay on top of tech stacks: Resolve AI CEO Spiros Xanthos",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-founders-must-move-fast-to-stay-on-top-of-tech-stacks-resolve-ai-ceo-spiros-xanthos/articleshow/129474791.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-151942,resizemode-75,msid-129474791/tech/artificial-intelligence/ai-founders-must-move-fast-to-stay-on-top-of-tech-stacks-resolve-ai-ceo-spiros-xanthos.jpg",
-            "publishedAt": "2026-03-12T00:30:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Atlassian to cut roughly 10% jobs in pivot to AI",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/12/atlassian-to-cut-roughly-10-jobs-in-pivot-to-ai",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/12/3808967.jpg",
-            "publishedAt": "2026-03-12T00:15:00Z"
         }
     ]
 }
