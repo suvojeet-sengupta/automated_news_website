@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-14T08:29:07.054031Z",
+    "lastUpdatedAt": "2026-03-14T09:27:57.069955Z",
     "articles": [
+        {
+            "source": {
+                "id": "8fac888ae06647c3a7d6093c60c9d9b5",
+                "name": "San Diego Union-Tribune",
+                "url": "https://www.sandiegouniontribune.com",
+                "country": "us"
+            },
+            "title": "How a San Diego investment firm beat the market betting on AI - without a single share of Nvidia",
+            "url": "https://www.sandiegouniontribune.com/2026/03/13/how-a-san-diego-investment-firm-beat-the-market-betting-on-ai-without-a-single-share-of-nvidia/",
+            "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/03/karmel-office-1.jpg?w=1024&h=680",
+            "publishedAt": "2026-03-13T21:27:32Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Days after Pentagon's fight with Anthropic, China warns America on AI use in military; says: Excessive use of artificial intelligence in military can ...",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/days-after-pentagons-fight-with-anthropic-china-warns-america-on-ai-use-in-military-says-excessive-use-of-artificial-intelligence-in-military-can-/articleshow/129564489.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129564490,width-1280,height-720,imgsize-135652,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-13T20:31:00Z"
+        },
         {
             "source": {
                 "id": "95a96a1867c4dac6f720e9d08d4c1b96",
@@ -1320,6 +1344,15 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001288",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001288.g006&size=inline",
             "publishedAt": "2026-03-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "therobotreport"
+            },
+            "title": "Ed Mehr on transforming manufacturing at Machina Labs; AW26 Recap",
+            "url": "https://www.therobotreport.com/ed-mehr-transforming-manufacturing-machina-labs-aw26-recap/",
+            "urlToImage": "https://www.therobotreport.com/wp-content/uploads/2026/03/Ed_Mehr_Headshot-250.jpg",
+            "publishedAt": "2026-03-13 20:46:05"
         },
         {
             "source": {
@@ -3513,42 +3546,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-completes-acquisition-of-israeli-cybersecurity-company-wiz-whose-ceo-walked-away-from-the-deal-two-years-ago-saying-he-felt-/articleshow/129489698.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-129489652,width-1280,height-720,imgsize-106132,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-03-12T03:38:00Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Letters | US war with Iran underscores need for global governance of AI",
-            "url": "https://www.scmp.com/opinion/letters/article/3346204/us-war-iran-underscores-need-global-governance-ai",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/03/11/8159e779-29b6-4a62-8d92-6954f234fe11_fbd27c77.jpg?itok=t38B1gxd&v=1773215194",
-            "publishedAt": "2026-03-12T03:30:08Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI euphoria: How India's old economy is giving FIIs a safe hiding place",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-euphoria-how-indias-old-economy-is-giving-fiis-a-safe-hiding-place/articleshow/129489930.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-129489912,width-1200,height-630,imgsize-43812,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-03-12T03:25:00Z"
-        },
-        {
-            "source": {
-                "id": "c85e15f10f76e6bbc0ee7df63f5e2b27",
-                "name": "Watts Up With That",
-                "url": "https://wattsupwiththat.com",
-                "country": "us"
-            },
-            "title": "The Nuclear Regulatory Commission’s Defining Moment",
-            "url": "https://wattsupwiththat.com/2026/03/11/the-nuclear-regulatory-commissions-defining-moment/",
-            "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/03/Agency_headquarters_Graphic.webp?fit=1024%2C512&quality=75&ssl=1",
-            "publishedAt": "2026-03-12T01:00:00Z"
         }
     ]
 }
