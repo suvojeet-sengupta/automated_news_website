@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-03-14T12:40:53.873988Z",
+    "lastUpdatedAt": "2026-03-14T13:41:47.860806Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Meta Planning Sweeping Layoffs as AI Costs Mount",
+            "url": "https://www.newsmax.com/finance/streettalk/meta-ai-mark-zuckerberg/2026/03/13/id/1249469/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=16f3d757-88f0-46f1-be27-a9f4761cb44c&SiteName=Newsmax",
+            "publishedAt": "2026-03-14T01:01:28Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -3531,18 +3543,6 @@
             "url": "https://www.manilatimes.net/2026/03/12/business/foreign-business/uber-plans-tokyo-robotaxi-trial-with-nissan-and-britains-wayve/2298443",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/12/969924.jpg",
             "publishedAt": "2026-03-12T05:45:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Bursa Malaysia: Broker-level cyber incidents contained",
-            "url": "https://www.thestar.com.my/business/business-news/2026/03/12/bursa-malaysia-broker-level-cyber-incidents-contained",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/12/3809324.jpg",
-            "publishedAt": "2026-03-12T05:24:00Z"
         }
     ]
 }
