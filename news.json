@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-15T12:42:43.907048Z",
+    "lastUpdatedAt": "2026-03-15T13:43:15.735757Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "How Google helped Levi’s turn employee’s hackathon idea into AI tool that helps shoppers",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-google-helped-levis-turn-employees-hackathon-idea-into-ai-tool-that-helps-shoppers/articleshow/129583449.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129583453,width-1280,height-720,imgsize-85156,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-15T01:08:00Z"
+        },
+        {
+            "source": {
+                "id": "5ef93dac613cd24454e0d42ebc372612",
+                "name": "ScienceAlert",
+                "url": "https://www.sciencealert.com",
+                "country": "au"
+            },
+            "title": "Over-Reliance on AI May Harm Your Cognitive Ability, Experts Warn",
+            "url": "https://www.sciencealert.com/over-reliance-on-ai-may-harm-your-cognitive-ability-experts-warn",
+            "urlToImage": "https://www.sciencealert.com/images/2026/03/digital_brain_header.jpg",
+            "publishedAt": "2026-03-15T01:00:26Z"
+        },
         {
             "source": {
                 "id": "1290fbc1799ff6b270a6f8b7e9761c18",
@@ -3504,30 +3528,6 @@
             "url": "https://journalstar.com/news/local/education/article_8f6acf80-06a7-4758-9920-e7e5d43bfe55.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/8/f6/8f6acf80-06a7-4758-9920-e7e5d43bfe55/69b2ca252a093.preview.jpg?crop=1697%2C891%2C0%2C165&resize=1200%2C630&order=crop%2Cresize",
             "publishedAt": "2026-03-12T15:00:00Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "Democrats ask Pentagon about Iran school strike and role of AI",
-            "url": "https://www.nbcnews.com/politics/national-security/democrats-ask-pentagon-iran-school-strike-role-ai-rcna263083",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260312-trump-hegseth-mb-1255-767544.jpg",
-            "publishedAt": "2026-03-12T15:00:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Marvell Technology, Mojo Vision Collaborate on Micro-LED Data Center Connectivity",
-            "url": "https://www.marketscreener.com/news/marvell-technology-mojo-vision-collaborate-on-micro-led-data-center-connectivity-ce7e5fd2d98afe26",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-03-12T14:50:43Z"
         }
     ]
 }
