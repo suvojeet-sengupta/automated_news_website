@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-15T22:22:33.458705Z",
+    "lastUpdatedAt": "2026-03-15T23:24:30.101579Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Oscars’ top prize is up for grabs as unease hangs over Hollywood",
+            "url": "https://www.cnbc.com/2026/03/15/oscars-top-prize-is-up-for-grabs-as-unease-hangs-over-hollywood.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108278073-17735702332026-03-15t075637z_1361397589_rc211kaf7e23_rtrmadp_0_awards-oscars.jpeg?v=1773570294&w=1920&h=1080",
+            "publishedAt": "2026-03-15T10:31:08Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "collar jobs so quickly: Raghuram Rajan",
+            "url": "https://www.lokmattimes.com/technology/ai-may-not-destroy-white-collar-jobs-so-quickly-raghuram-rajan-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202603153708944_202603.jpg",
+            "publishedAt": "2026-03-15T10:29:20Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -3504,30 +3528,6 @@
             "url": "https://www.bangkokpost.com/business/general/3215764/ai-boom-drives-tech-investment-surge",
             "urlToImage": "https://static.bangkokpost.com/media/content/20260313/c1_3215764_260313004409_700.jpg",
             "publishedAt": "2026-03-12T17:11:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Empowering Rajasthan: Virtual Programme Amplifies Women's Safety",
-            "url": "https://www.devdiscourse.com/article/law-order/3836135-empowering-rajasthan-virtual-programme-amplifies-womens-safety",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_03_2025_16_47_59_2068842.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-12T17:04:00Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Microsoft's top Office executive Rajesh Jha retiring after 35 years",
-            "url": "https://www.cnbc.com/2026/03/12/microsofts-top-office-executive-rajesh-jha-retiring-after-35-years.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108277337-1773332466772-gettyimages-2153471541-MICROSOFT_BUILD.jpeg?v=1773332490&w=1920&h=1080",
-            "publishedAt": "2026-03-12T17:00:35Z"
         }
     ]
 }
