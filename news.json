@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-03-15T06:03:32.847103Z",
+    "lastUpdatedAt": "2026-03-15T07:42:00.236790Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Are we outsourcing our souls to artificial intelligence?",
+            "url": "https://www.abc.net.au/news/2026-03-15/outsourcing-our-souls-to-ai/106442290",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d181e04b3f63e5c681ee184c12a365d4?impolicy=wcms_watermark_news&cropH=506&cropW=900&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-03-14T19:24:35Z"
+        },
+        {
+            "source": {
+                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+                "name": "The Verge",
+                "url": "https://www.theverge.com",
+                "country": "us"
+            },
+            "title": "Palantir’s Maven Smart System is an AI-powered Kanban board for killing people.",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/895030/palantirs-maven-smart-system-is-an-ai-powered-kanban-board-for-killing-people",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+            "publishedAt": "2026-03-14T19:04:22Z"
+        },
+        {
+            "source": {
+                "id": "f6c2179332ca0ae400ff2a52227265f3",
+                "name": "Essentially Sports",
+                "url": "https://www.essentiallysports.com",
+                "country": "us"
+            },
+            "title": "Kyrie Irving Puts Billionaire Sam Altman on Blast for Business Plan",
+            "url": "https://www.essentiallysports.com/nba-active-basketball-news-kyrie-irving-puts-billionaire-sam-altman-on-blast-for-business-plan/",
+            "urlToImage": "https://image-cdn.essentiallysports.com/wp-content/uploads/Kyrie-Irving-and-Sam-Altman.jpg",
+            "publishedAt": "2026-03-14T18:39:24Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3492,42 +3528,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/why-investors-are-turning-to-canadas-main-stock-index-after-claude-ai-tools-wiped-trillions-from-stock-markets-globally/articleshow/129510720.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-129510635,width-1280,height-720,imgsize-1032438,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-03-12T13:39:00Z"
-        },
-        {
-            "source": {
-                "id": "99e7373ae0bd64167072ee76b85a79f3",
-                "name": "LADbible",
-                "url": "https://www.ladbible.com",
-                "country": "gb"
-            },
-            "title": "Cambridge Professor explains why you should always say 'please' and 'thank you' to AI",
-            "url": "https://www.ladbible.com/news/technology/cambridge-professor-ai-please-thank-you-artificial-intelligence-144681-20260312",
-            "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltc29b63efa38a5742/69b2bfdcc4c5a41afbe31d1d/AI-technology-please-thank-you.jpg",
-            "publishedAt": "2026-03-12T13:31:09Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Google overhauls its Maps app, more AI features",
-            "url": "https://www.bnnbloomberg.ca/business/2026/03/12/google-overhauls-its-maps-app-adding-in-more-ai-features-to-help-people-get-around/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/LMVB5XD5X2YJS32PPPPJKEE7NU.jpg?smart=true&auth=40172170e1c49892babf70bf61685a61e0fb488abb7ab5a2d919a6b5c61aea77&width=1200&height=630",
-            "publishedAt": "2026-03-12T13:27:12Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Britain to tighten investment screening for water and semiconductor sectors",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/britain-to-tighten-investment-screening-for-water-and-semiconductor-sectors/articleshow/129509943.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-28076,resizemode-75,msid-129509943/tech/artificial-intelligence/britain-to-tighten-investment-screening-for-water-and-semiconductor-sectors.jpg",
-            "publishedAt": "2026-03-12T13:18:26Z"
         }
     ]
 }
