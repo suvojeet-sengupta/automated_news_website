@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-15T17:23:45.666011Z",
+    "lastUpdatedAt": "2026-03-15T18:32:57.290945Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Shopify CEO uses Claude AI to build MRI viewer",
+            "url": "https://www.thenews.com.pk/latest/1395717-shopify-ceo-uses-ai-to-build-mri-viewer-skips-windows-software",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-15/1395717_113721_updates.jpg",
+            "publishedAt": "2026-03-15T06:22:17Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Perplexity AI CEO Aravind Srinivas backs viral post saying AI is pulling computer science back to maths and physics",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/perplexity-ai-ceo-aravind-srinivas-backs-viral-post-saying-ai-is-pulling-computer-science-back-to-maths-and-physics/articleshow/129585384.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-129585367,width-1200,height-630,imgsize-22494,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-03-15T05:51:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -3504,30 +3528,6 @@
             "url": "https://foxbaltimore.com/station/share/majority-of-americans-view-ai-as-a-net-negative-for-humanity-new-survey-finds-artifical-intelligence",
             "urlToImage": "https://foxbaltimore.com/resources/media/06b10af3-1362-48e9-9c14-624939ecce5d-jumbo16x9_AP24134775174210.jpg",
             "publishedAt": "2026-03-12T16:50:19Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "Americans have little confidence in lawmakers managing AI policy",
-            "url": "https://wjla.com/news/nation-world/majority-of-americans-view-ai-as-a-net-negative-for-humanity-new-survey-finds-artifical-intelligence",
-            "urlToImage": "https://wjla.com/resources/media/06b10af3-1362-48e9-9c14-624939ecce5d-jumbo16x9_AP24134775174210.jpg",
-            "publishedAt": "2026-03-12T16:50:19Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Meta to acquire Moltbook, the social network for AI agents",
-            "url": "https://www.manilatimes.net/2026/03/13/business/foreign-business/meta-to-acquire-moltbook-the-social-network-for-ai-agents/2298161",
-            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-03-12T16:05:00Z"
         }
     ]
 }
