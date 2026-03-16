@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-16T07:10:32.257729Z",
+    "lastUpdatedAt": "2026-03-16T08:51:20.738946Z",
     "articles": [
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "Meta 20% Workforce Cut Could Reshape Tech Giant as AI Spending Surges",
+            "url": "https://usaherald.com/meta-20-workforce-cut-could-reshape-tech-giant-as-ai-spending-surges/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2026-03-15T20:27:57Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "US Firm Tracks Suspected North Korean IT Worker",
+            "url": "https://www.newsmax.com/us/nisos-north-korea-china/2026/03/15/id/1249585/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=52863781-b983-4edf-8205-164231f388d3&SiteName=Newsmax",
+            "publishedAt": "2026-03-15T19:30:42Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -456,6 +480,15 @@
             "url": "https://www.rappler.com/people/profiles/dado-banatao-foundation-artifical-intelligence/",
             "urlToImage": "https://www.rappler.com/tachyon/2026/03/3DFDC4BB-1C26-4CFB-B209-AEF42DB80268.jpeg",
             "publishedAt": "2026-03-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "navhindtimes"
+            },
+            "title": "MediaTek exemplifies AI and connectivity leadership at MWC 2026",
+            "url": "https://navhindtimes.in/bnc-news/mediatek-exemplifies-ai-and-connectivity-leadership-at-mwc-2026/",
+            "urlToImage": "https://navhindtimes.in/wp-content/uploads/2026/03/7e26cdbf32ff402584670a9c515bfe8f-150x150.jpg",
+            "publishedAt": "2026-03-15 19:35:14"
         },
         {
             "source": {
@@ -3492,42 +3525,6 @@
             "url": "https://www.cp24.com/news/canada/2026/03/12/telus-says-it-is-investigating-hack-of-its-systems/",
             "urlToImage": "https://www.cp24.com/resizer/v2/AS47F5OG5HCFTD27TRNC7HQKKM.jpg?smart=true&auth=200d8b113749e1b545fe9668bdc5624330b2aead2e41007e6539bf8b794eb00c&width=1200&height=630",
             "publishedAt": "2026-03-12T18:37:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Angelic Intelligence: Why Virtue-Native AI Makes Guardrails Obsolete",
-            "url": "https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/angelic-intelligence-why-virtue-native-ai-makes-guardrails-obsolete/2299176",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/13/971351.jpg",
-            "publishedAt": "2026-03-12T18:36:20Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "China’s OpenClaw Frenzy Tests Xi’s Approach to Regulate AI",
-            "url": "https://www.livemint.com/companies/chinas-openclaw-frenzy-tests-xi-s-approach-to-regulate-ai-11773340563593.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
-            "publishedAt": "2026-03-12T18:36:03Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Chinese leaders project stability despite war",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/chinese-leaders-project-stability-despite-war/articleshow/129520873.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-129520949,width-1200,height-630,imgsize-212760,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-03-12T18:34:00Z"
         }
     ]
 }
