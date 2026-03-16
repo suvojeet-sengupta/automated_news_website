@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-03-16T11:42:32.508833Z",
+    "lastUpdatedAt": "2026-03-16T13:01:47.886859Z",
     "articles": [
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Darktrace Appoints Ed Jennings as President and CEO",
+            "url": "https://itwire.com/it-people-news/people-moves/darktrace-appoints-ed-jennings-as-president-and-ceo.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/8620aa6c639c8fba26a09e4b86089422_XS.jpg",
+            "publishedAt": "2026-03-15T23:53:26Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Tata consulting chief bets on data centres to navigate AI disruption",
+            "url": "https://www.afr.com/technology/tata-consulting-chief-bets-on-data-centres-to-navigate-ai-disruption-20260310-p5o904",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2879%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_61%2C$y_230/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f9746f82b1b839189b7c06e4045042414a01ccd7",
+            "publishedAt": "2026-03-15T23:51:08Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "The Week in Breakingviews: Preparing for the worst",
+            "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-03-15/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/MRDXH7ONERLNLM2EAEOLBJOLF4.jpg?auth=a1844fd9f56360809ca9b2bca097c35589415c260b60bf4977090f997f9ad813&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-15T23:47:08Z"
+        },
+        {
+            "source": {
+                "id": "3fac65098bad206a4847f7fdbac9f170",
+                "name": "New York Daily News",
+                "url": "https://www.nydailynews.com",
+                "country": "us"
+            },
+            "title": "Conan O’Brien takes shots at AI, Chalamet in monologue",
+            "url": "https://www.nydailynews.com/2026/03/15/conan-obrien-hosts-the-2026-oscars-taking-opening-shots-at-ai-and-chalamet/",
+            "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2026/03/98th_Academy_Awards_-_Show_01239_c3de5d-1.jpg?w=1024&h=683",
+            "publishedAt": "2026-03-15T23:45:09Z"
+        },
         {
             "source": {
                 "id": "3271eb2093cfa66b030a37cf84a8df5e",
@@ -3474,54 +3522,6 @@
             "url": "https://theprovince.com/cybersecurity/telus-investigating-cyber-breach/wcm/9435ac16-b6e9-40f8-ae8c-d967d1e41246",
             "urlToImage": "https://smartcdn.gprod.postmedia.digital/theprovince/wp-content/uploads/2026/03/0313-mg-telus.jpg",
             "publishedAt": "2026-03-12T19:59:10Z"
-        },
-        {
-            "source": {
-                "id": "38b40ff4fcdaca70654e132d33d3cb7a",
-                "name": "Vancouver Sun",
-                "url": "https://vancouversun.com",
-                "country": "ca"
-            },
-            "title": "Vancouver-based telecom Telus says it’s investigating a cyber-breach",
-            "url": "https://vancouversun.com/cybersecurity/telus-investigating-cyber-breach/wcm/28a2c6fb-5e2b-4b7c-bcf4-7d8dfb774a34",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2026/03/0313-mg-telus.jpg",
-            "publishedAt": "2026-03-12T19:59:10Z"
-        },
-        {
-            "source": {
-                "id": "d9e5f124fd3af657d83b8787fbbae53d",
-                "name": "Raw Story",
-                "url": "https://www.rawstory.com",
-                "country": "us"
-            },
-            "title": "Hegseth's 'maximum lethality' strategy under fire after elementary school massacre",
-            "url": "https://www.rawstory.com/hegseth-s-maximum-lethality-strategy-under-fire-after-elementary-school-massacre/",
-            "urlToImage": "https://www.rawstory.com/media-library/pete-hegseth.jpg?id=61683120&width=1200&height=600&coordinates=0%2C467%2C0%2C467",
-            "publishedAt": "2026-03-12T19:25:15Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "Facebook adds AI-powered updates to Marketplace",
-            "url": "https://www.socialmediatoday.com/news/facebook-adds-ai-powered-updates-to-marketplace/814639/",
-            "urlToImage": "https://imgproxy.divecdn.com/SvF2az8HCWxI8Sp8wVVeSrEkRIXInFJZuk2s43hFofc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYl9tYXJrZXRwbGFjZV9BSV9saXN0aW5nczIucG5n.webp",
-            "publishedAt": "2026-03-12T19:14:26Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "LinkedIn tests out AI-powered interview screening",
-            "url": "https://www.socialmediatoday.com/news/linkedin-tests-out-ai-powered-interview-screening/814636/",
-            "urlToImage": "https://imgproxy.divecdn.com/xGcte1bVNuj51RzfjKmlpubxAzOeCAHKjY5LzFALLDw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9saW5rZWRpbl9sb2dvMi5qcGc=.webp",
-            "publishedAt": "2026-03-12T19:08:35Z"
         }
     ]
 }
