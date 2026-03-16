@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-03-16T22:28:12.631187Z",
+    "lastUpdatedAt": "2026-03-16T23:27:42.965966Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Alibaba CEO takes helm of new AI-focused business group",
+            "url": "https://www.reuters.com/world/asia-pacific/alibaba-ceo-takes-helm-new-ai-focused-business-group-2026-03-16/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/PBAPK4H6QNPIRCQYASIMYSWH5U.jpg?auth=cf9fec6f36de54404e0bed7a4624ed752ee6119bd9462f4957686b89514cc929&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-16T11:24:52Z"
+        },
+        {
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            },
+            "title": "AI Stocks: Nvidia GTC News Could Jolt Broadcom, Dell, CoreWeave, Arista, Lumentum",
+            "url": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-nvidia-gtc-3162026/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2017/12/Stock-ArtifIntel-01-shutt.jpg",
+            "publishedAt": "2026-03-16T11:21:58Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Teens use AI to diet, learn calorie intake, nutrition",
+            "url": "https://www.cp24.com/news/world/2026/03/16/teens-using-ai-to-diet-may-be-told-to-eat-almost-700-fewer-daily-calories-than-they-need/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/HRJ52Z3D2BAMDIHOTO4IJNSFK4.JPG?smart=true&auth=abdf13e83a64ec8b3a7bccb5f420919b54ef78c82afe47ce339485b09fabfe0e&width=1200&height=630",
+            "publishedAt": "2026-03-16T11:18:02Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "8 ways students can use AI prompts to study smarter",
+            "url": "https://timesofindia.indiatimes.com/education/news/8-ways-students-can-use-ai-prompts-to-study-smarter/articleshow/129607831.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129608201,width-1280,height-720,imgsize-7028,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-16T11:15:00Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Ramp Product Chief Says Employees Who Don't Use AI Tools Are 'Probably Underperforming'",
+            "url": "https://www.ndtvprofit.com/technology/ramp-product-chief-says-employees-who-dont-use-ai-tools-are-probably-underperforming-11221857",
+            "urlToImage": "https://c.ndtvimg.com/2026-02/nli8936g_brian-ai_625x300_11_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
+            "publishedAt": "2026-03-16T11:10:31Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "DayOne Data Centers Nears Confidential US IPO Filing, Sources Say",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-16/asia-s-dayone-data-centers-is-said-to-near-confidential-filing-for-us-ipo",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8fv3FamG67U/v1/1200x673.jpg",
+            "publishedAt": "2026-03-16T11:09:15Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "Maharashtra partners with Wadhwani AI to deploy artificial intelligence in public health services",
+            "url": "https://www.thehindubusinessline.com/news/maharashtra-partners-with-wadhwani-ai-to-deploy-artificial-intelligence-in-public-health-services/article70749648.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/ak30i8/article70749702.ece/alternates/LANDSCAPE_1200/DSC_9120A.JPG",
+            "publishedAt": "2026-03-16T11:08:06Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Derwent London announces Network pre-let to Databricks",
+            "url": "https://www.marketscreener.com/news/derwent-london-announces-network-pre-let-to-databricks-ce7e5edadd88ff20",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-03-16T11:01:55Z"
+        },
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "Chris Heck: While Washington huddles, Pa. makes its AI play",
+            "url": "https://triblive.com/opinion/chris-heck-while-washington-huddles-pa-makes-its-ai-play/",
+            "urlToImage": "https://assets-varnish.triblive.com/2026/03/9383031_web1_gtr-cmns-Schrager-120325.jpg",
+            "publishedAt": "2026-03-16T11:00:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "CCI issues guidance note advising enterprises to conduct self-audits on AI tools to avoid competition risks",
+            "url": "https://economictimes.indiatimes.com/news/economy/policy/cci-issues-guidance-note-advising-enterprises-to-conduct-self-audits-on-ai-tools-to-avoid-competition-risks/articleshow/129606636.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-129607858,width-1200,height-630,imgsize-93276,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-03-16T11:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Government Cyber Resilience Summit Ph convenes national leaders to strengthen country’s cybersecurity, digital resilience",
+            "url": "https://www.manilatimes.net/2026/03/16/tmt-newswire/government-cyber-resilience-summit-ph-convenes-national-leaders-to-strengthen-countrys-cybersecurity-digital-resilience/2300598",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/16/974512.jpg",
+            "publishedAt": "2026-03-16T10:54:00Z"
+        },
         {
             "source": {
                 "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
@@ -3426,138 +3558,6 @@
             "url": "https://www.tribuneindia.com/news/business/maharashtra-to-emerge-as-global-leader-in-data-centres-within-three-years-maharashtra-minister-for-marketing-and-protocol/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWUxYTNhNjEwLTFlYWQtMTFmMS04ZmJiLWQ3YWM5ZTFmZWNhOC5qcGc=",
             "publishedAt": "2026-03-13T07:25:52Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "ByteDance Uses Nvidia's Top Chips for AI Servers Despite US Export Ban",
-            "url": "https://www.marketscreener.com/news/bytedance-uses-nvidia-s-top-chips-for-ai-servers-despite-us-export-ban-ce7e5fd2de88f725",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-03-13T07:23:24Z"
-        },
-        {
-            "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
-                "country": "in"
-            },
-            "title": "Valiant Communications Announces Strategic Collaboration with Fortytwo42 Labs for Quantum-Safe Cryptography",
-            "url": "https://scanx.trade/stock-market-news/companies/valiant-communications-partners-with-fortytwoforty-labs-for-quantum-safe-cryptography-solutions/34930766",
-            "urlToImage": "http://news-images.dhan.co/valiant-communications-partners-with-fortytwoforty-labs-for-quantum-safe-cryptography-solutions.jpg",
-            "publishedAt": "2026-03-13T07:05:47Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "US sees India as trusted partner in emerging 'Pax Silica' tech era: US Envoy to India Sergio Gor",
-            "url": "https://www.thehindubusinessline.com/news/us-sees-india-as-trusted-partner-in-emerging-pax-silica-tech-era-us-envoy-to-india-sergio-gor/article70738359.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/z11zyp/article70738362.ece/alternates/LANDSCAPE_1200/20260220066L.jpg",
-            "publishedAt": "2026-03-13T07:05:24Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "AsiaInfo Launches Global Brand AIStorm: Empowering Worldwide Industrial Intelligence with AI-Native Security",
-            "url": "https://www.manilatimes.net/2026/03/13/tmt-newswire/pr-newswire/asiainfo-launches-global-brand-aistorm-empowering-worldwide-industrial-intelligence-with-ai-native-security/2299431",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/13/971738.jpg",
-            "publishedAt": "2026-03-13T06:50:49Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "AI agent OpenClaw grips China with ‘lobster fever’ despite cybersecurity risks",
-            "url": "https://www.straitstimes.com/asia/east-asia/ai-agent-openclaw-grips-china-with-lobster-fever-despite-cybersecurity-risks",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/8b03487debc733bda7a3b61313a3ae4dd38270bcdaa0eaee05383181b572f2c2",
-            "publishedAt": "2026-03-13T06:35:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "US sees India as trusted partner in emerging 'Pax Silica' tech era: US Envoy to India Sergio Gor",
-            "url": "https://www.tribuneindia.com/news/world/us-sees-india-as-trusted-partner-in-emerging-pax-silica-tech-era-us-envoy-to-india-sergio-gor/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFkOTUzYzQwLTFlYTYtMTFmMS04ZmJiLWQ3YWM5ZTFmZWNhOC5qcGc=",
-            "publishedAt": "2026-03-13T06:30:17Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Witnessing breakthroughs and breakdowns: India Today Chairman Aroon Purie on paradox of modern times",
-            "url": "https://www.indiatoday.in/india/story/india-today-conclave-delhi-2026-chairman-aroon-purie-artificial-intelligence-breakthrough-war-global-order-paradox-of-modern-times-2881321-2026-03-13",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/aroon-purie--chairman-and-editor-in-chief-of-the-india-today-group--addressing-the-india-today-concl-132517476-16x9_0.jpg?VersionId=Uh3Clw_WMAgCN4V2ZBLGj2_9ZGzWmXCS",
-            "publishedAt": "2026-03-13T06:22:03Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "XA20R: The Easy Way to Unlock 200% Bonus Potential",
-            "url": "https://techbullion.com/xa20r-the-easy-way-to-unlock-200-bonus-potential/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/Picture1-25.png",
-            "publishedAt": "2026-03-13T06:21:14Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Global CISO Council: A New Era in Cybersecurity Leadership",
-            "url": "https://www.devdiscourse.com/article/technology/3836553-global-ciso-council-a-new-era-in-cybersecurity-leadership",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2024_12_30_38_0943469.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-13T06:02:10Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Council Establishes Global CISO Council to Address AI Governance and Emerging Technology Risks",
-            "url": "https://www.tribuneindia.com/news/business/ec-council-establishes-global-ciso-council-to-address-ai-governance-and-emerging-technology-risks-2-2/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZjMDMwYWYwLTFlYTItMTFmMS04ZmJiLWQ3YWM5ZTFmZWNhOC5qcGc=",
-            "publishedAt": "2026-03-13T06:01:04Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Software companies fight back against fears that AI will kill them",
-            "url": "https://www.thehindu.com/sci-tech/technology/software-companies-fight-back-against-fears-that-ai-will-kill-them/article70737879.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/iv2wys/article70737881.ece/alternates/LANDSCAPE_1200/2026-03-12T115136Z_122290260_RC2Y2KA5Q6C3_RTRMADP_3_USA-TECH-AI-SOFTWARE.JPG",
-            "publishedAt": "2026-03-13T05:55:13Z"
         }
     ]
 }
