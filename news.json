@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-03-16T19:00:55.982004Z",
+    "lastUpdatedAt": "2026-03-16T20:33:46.139476Z",
     "articles": [
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Indian-origin Engineer Aman Gottumukkala joins xAI, Musk welcomes him to the team",
+            "url": "https://www.firstpost.com/tech/indian-origin-engineer-aman-gottumukkala-joins-xai-musk-welcomes-him-to-the-team-13990009.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/03/Untitled-design-84-2026-03-5904764a6a1c8e80335e25f9055ce865-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-03-16T08:33:27Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Taiwan tech giant Foxconn posts 24% jump in annual net profit",
+            "url": "https://www.thehindu.com/sci-tech/technology/taiwan-tech-giant-foxconn-posts-24-jump-in-annual-net-profit/article70749171.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/31juex/article70749174.ece/alternates/LANDSCAPE_1200/Taiwan_Economy_24137.jpg",
+            "publishedAt": "2026-03-16T08:26:43Z"
+        },
+        {
+            "source": {
+                "id": "31da3e9a4dc2d696d957aebbe485bb7d",
+                "name": "Express & Star",
+                "url": "https://www.expressandstar.com",
+                "country": "gb"
+            },
+            "title": "Free event to help local businesses build skills in AI and cybersecurity",
+            "url": "https://www.expressandstar.com/your-world/2026/03/16/free-event-to-help-local-businesses-build-skills-in-ai-and-cybersecurity/",
+            "urlToImage": "https://resizer.nationalworld.com/19f87049-5c3e-4b2c-a653-f1feade41906.jpg?tr=w-1200",
+            "publishedAt": "2026-03-16T08:18:41Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Moody's economist Mark Zandi on thousands of layoffs at Jack Dorsey's Block; If companies cut workers as Block did, outright job losses appear to be ...",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/moodys-economist-mark-zandi-on-thousands-of-layoffs-at-jack-dorseys-block-if-companies-cut-workers-as-block-did-outright-job-losses-appear-to-be-/articleshow/129604009.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129603999,width-1280,height-720,imgsize-44860,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-16T07:58:00Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "The More I Look At Quantum Computing, The More I Like It: Upgrading To “Buy” (QUBT)",
+            "url": "https://seekingalpha.com/article/4882617-more-i-look-at-quantum-computing-more-i-like-it-upgrading-to-buy",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254534450/image_2254534450.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-03-16T07:48:04Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Foxconn Quarterly Profit Falls Despite Higher Revenue",
+            "url": "https://www.marketscreener.com/news/foxconn-quarterly-profit-falls-despite-higher-revenue-ce7e5edad880f62c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-03-16T07:08:24Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "South Korea in early talks with Anthropic on AI cooperation",
+            "url": "https://www.tribuneindia.com/news/business/south-korea-in-early-talks-with-anthropic-on-ai-cooperation/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY0OGZiZDkwLTIxMDUtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+            "publishedAt": "2026-03-16T07:01:23Z"
+        },
         {
             "source": {
                 "id": "c73686fdf0e30639d57eddaf7a77236e",
@@ -432,6 +516,15 @@
             "url": "https://timesofindia.indiatimes.com/city/nagpur/ai-powered-fire-detection-system-to-guard-tiger-reserves-pench-first-to-implement-tech/articleshow/129595321.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-117593258,width-1280,height-720,imgsize-102318,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-03-16T01:15:00Z"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "NTT DATA launches GCC Innovation Acceleration Program to support innovation creation by global companies",
+            "url": "https://www.expresscomputer.in/news/ntt-data-launches-gcc-innovation-acceleration-program-to-support-innovation-creation-by-global-companies/133599/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2019/05/28235714/Idea-Innovation.jpg",
+            "publishedAt": "2026-03-16 07:55:11"
         },
         {
             "source": {
@@ -3471,90 +3564,6 @@
             "url": "https://www.marketscreener.com/news/meta-delays-rollout-of-new-ai-model-code-named-avocado-nyt-reports-ce7e5fd2dc8df227",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-02T113640Z_1_LYNXNPEL510IX_RTROPTP_4_META-PLATFORMS-MESSAGING-WHATSAPP.JPG",
             "publishedAt": "2026-03-13T00:27:30Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "SentinelOne's quarterly profit forecast falls short of estimates amid stiff competition",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/13/sentinelone039s-quarterly-profit-forecast-falls-short-of-estimates-amid-stiff-competition",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/13/3811067.jpg",
-            "publishedAt": "2026-03-13T00:18:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "China AI Giants Offer Better Value Than US Peers, Top Fund Says",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-13/china-ai-giants-offer-better-value-than-us-peers-top-fund-says",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i22ZSIfel2d4/v1/1200x800.jpg",
-            "publishedAt": "2026-03-13T00:14:19Z"
-        },
-        {
-            "source": {
-                "id": "29618dc11c8773b8e936b14d95c652a8",
-                "name": "Church Times",
-                "url": "https://www.churchtimes.co.uk",
-                "country": "gb"
-            },
-            "title": "Book review: AI Shepherds and Electric Sheep: Leading and teaching in the age of artificial intelligence by Sean O’Callaghan and Paul A. Hoffman",
-            "url": "https://www.churchtimes.co.uk/articles/2026/13-march/books-arts/book-reviews/book-review-ai-shepherds-and-electric-sheep-leading-and-teaching-in-the-age-of-artificial-intelligence-by-sean-o-callaghan-and-paul-a-hoffman",
-            "urlToImage": "https://www.churchtimes.co.uk/media/5705735/ocallaghanshoffmanp_aishepherdsandelectricsheep-20260227183707874_web.jpg?center=0.60650406504065035,0.53170731707317076&mode=crop&width=1200&height=628&rnd=134178015330000000",
-            "publishedAt": "2026-03-13T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Interpretable machine learning for predicting delays in seeking abortion among reproductive-aged women in Ethiopia: A study using EDHS 2016 data",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001288",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001288.g006&size=inline",
-            "publishedAt": "2026-03-13T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Why Adobe CEO Shantanu Narayen is confident we’ll all adapt to AI",
-            "url": "https://us.headtopics.com/news/why-adobe-ceo-shantanu-narayen-is-confident-we-ll-all-adapt-80958145",
-            "urlToImage": "https://i.headtopics.com/images/2026/3/13/verge/why-adobe-ceo-shantanu-narayen-is-confident-we-ll--why-adobe-ceo-shantanu-narayen-is-confident-we-ll--BC411DAE28668314FBA1FEB124D4429F.webp",
-            "publishedAt": "2026-03-13 21:38:28"
-        },
-        {
-            "source": {
-                "name": "therobotreport"
-            },
-            "title": "Ed Mehr on transforming manufacturing at Machina Labs; AW26 Recap",
-            "url": "https://www.therobotreport.com/ed-mehr-transforming-manufacturing-machina-labs-aw26-recap/",
-            "urlToImage": "https://www.therobotreport.com/wp-content/uploads/2026/03/Ed_Mehr_Headshot-250.jpg",
-            "publishedAt": "2026-03-13 20:46:05"
-        },
-        {
-            "source": {
-                "name": "aboutamazon"
-            },
-            "title": "AWS and Cerebras collaboration aims to set a new standard for AI inference speed and performance in the cloud",
-            "url": "https://www.aboutamazon.com/news/aws/aws-cerebras-ai-inference",
-            "urlToImage": "https://assets.aboutamazon.com/24/97/b732b6fd4db5ae8b87899367bfbe/aws-cerebras-ck031326.jpg",
-            "publishedAt": "2026-03-13 19:17:50"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "The IT Department Isn’t Dying — It’s Being Dismembered and Rebuilt From the Inside Out",
-            "url": "https://www.webpronews.com/the-it-department-isnt-dying-its-being-dismembered-and-rebuilt-from-the-inside-out/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-12322-1773426223-300x300.jpeg",
-            "publishedAt": "2026-03-13 18:23:48"
         }
     ]
 }
