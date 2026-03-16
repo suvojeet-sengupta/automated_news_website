@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-03-16T14:55:08.938146Z",
+    "lastUpdatedAt": "2026-03-16T16:01:29.272459Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Who covers AI business blunders? Some insurers cautiously step up",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/16/who-covers-ai-business-blunders-some-insurers-cautiously-step-up",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/16/3814913.jpg",
+            "publishedAt": "2026-03-16T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "M'sia boosting high-tech capabilities to ensure national resilience amid geopolitical crises",
+            "url": "https://www.thestar.com.my/news/nation/2026/03/16/m039sia-boosting-high-tech-capabilities-to-ensure-national-resilience-amid-geopolitical-crises",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/16/3815040.JPG",
+            "publishedAt": "2026-03-16T03:54:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Exclusive: China’s No. 2 chipmaker readies 7 nm production as Beijing ramps up self-suffiency drive",
+            "url": "https://www.reuters.com/world/asia-pacific/chinas-no-2-chipmaker-readies-7-nm-production-beijing-ramps-up-self-suffiency-2026-03-16/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ZBDTT7MZBNLV3FHDETBOI4FQDY.jpg?auth=e16521efe13ed8127e4b798649693aaf89b7dc707d88a7d9160321eda4a506fe&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-16T03:48:06Z"
+        },
+        {
+            "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+            },
+            "title": "Concerns young Australians are turning to influencers, artificial intelligence for financial advice",
+            "url": "https://www.sbs.com.au/news/article/concerns-young-australians-are-turning-to-influencers-artificial-intelligence-for-financial-advice/gc8vdjtt2",
+            "urlToImage": "https://assets.sbs.com.au/dims4/default/62d8228/2147483647/strip/true/crop/5615x3158+0+421/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fec%2F9c%2Fb7aa2df5448eaf9d966a30b1340e%2Fphone.jpg",
+            "publishedAt": "2026-03-16T03:16:50Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Trump accuses Iran of using AI to spread disinformation",
+            "url": "https://www.marketscreener.com/news/trump-accuses-iran-of-using-ai-to-spread-disinformation-ce7e5edad98ef520",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-16T025328Z_1_LYNXMPEM2F062_RTROPTP_4_USA-TRUMP.JPG",
+            "publishedAt": "2026-03-16T02:58:37Z"
+        },
+        {
+            "source": {
+                "id": "df3038aaa802741cdad6eb4698aa1552",
+                "name": "Al-Monitor",
+                "url": "https://www.al-monitor.com",
+                "country": "us"
+            },
+            "title": "Trump accuses Iran of using AI to spread disinformation",
+            "url": "https://www.al-monitor.com/originals/2026/03/trump-accuses-iran-using-ai-spread-disinformation",
+            "urlToImage": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-03/2026-03-16T025713Z_2_LYNXMPEM2F062_RTROPTP_4_USA-TRUMP.JPG?h=4ecd895c&itok=cQqYBPN9",
+            "publishedAt": "2026-03-16T02:57:13Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "Trump accuses Iran of using AI to spread disinformation",
+            "url": "https://www.straitstimes.com/world/middle-east/trump-accuses-iran-of-using-ai-to-spread-disinformation",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/bf294065443d1a6e332c2e3a2766fb1241cdb6b1aee0bf60a019f51ac883ad80",
+            "publishedAt": "2026-03-16T02:56:44Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -3438,90 +3522,6 @@
             "url": "https://www.nytimes.com/2026/03/12/world/europe/ukraine-drones-ai-models-training.html",
             "urlToImage": "https://static01.nyt.com/images/2026/03/12/multimedia/12int-ukraine-AI-1-vtcg/12int-ukraine-AI-1-vtcg-facebookJumbo.jpg",
             "publishedAt": "2026-03-12T22:51:16Z"
-        },
-        {
-            "source": {
-                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
-                "name": "CBC.ca",
-                "url": "https://www.cbc.ca",
-                "country": "ca"
-            },
-            "title": "Telus probes cybersecurity incident that 'ShinyHunters' group claims responsibility for",
-            "url": "https://www.cbc.ca/news/business/telus-cybersecurity-incident-shinyhunters-9.7126627",
-            "urlToImage": "https://i.cbc.ca/ais/2667e126-8d87-4353-9267-befc2b5d0d82,1773354036461/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1071%2C7193%2C4046%29%3BResize%3D620",
-            "publishedAt": "2026-03-12T22:50:00Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "Iran-linked hackers take aim at US and other targets, raising risk of cyberattacks during war",
-            "url": "https://www.ajc.com/news/2026/03/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/VDIZSCAZJNC7FDH4SPOPRYPYFE.jpg?auth=5162902f7e803d448581f8f6dd6f13eb28fed9fc6fa26c85d1ed0cb52e92c677&width=1200&height=630&smart=true",
-            "publishedAt": "2026-03-12T22:01:49Z"
-        },
-        {
-            "source": {
-                "id": "435d508bebcc8689d5c7711d44865b80",
-                "name": "Activist Post",
-                "url": "https://www.activistpost.com",
-                "country": "us"
-            },
-            "title": "AI Can Now Build The Next Generation Of Itself - What Does That Mean For The Future Of Humanity?",
-            "url": "https://www.activistpost.com/ai-can-now-build-the-next-generation-of-itself-what-does-that-mean-for-the-future-of-humanity/",
-            "urlToImage": "https://www.activistpost.com/wp-content/uploads/2026/02/Snip20260211_63.jpg",
-            "publishedAt": "2026-03-12T22:00:00Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Humans are now getting paid to train AI bots how to act human",
-            "url": "https://nypost.com/2026/03/12/lifestyle/humans-are-now-getting-paid-to-train-ai-bots-how-to-act-human/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/03/123398832.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-03-12T21:58:34Z"
-        },
-        {
-            "source": {
-                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
-                "name": "USA Herald",
-                "url": "https://usaherald.com",
-                "country": "us"
-            },
-            "title": "Palantir and Nvidia Partnership Unveiled as AI Alliances Expand at AIPCon 9",
-            "url": "https://usaherald.com/palantir-and-nvidia-partnership-unveiled-as-ai-alliances-expand-at-aipcon-9/",
-            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-            "publishedAt": "2026-03-12T21:54:37Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Delivery firms cut costs by embracing AI tech",
-            "url": "https://www.bangkokpost.com/business/general/3215674/delivery-firms-cut-costs-by-embracing-ai-tech",
-            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/03/13/6003194_700.jpg",
-            "publishedAt": "2026-03-12T21:36:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "SentinelOne's quarterly profit forecast falls short of estimates amid stiff competition",
-            "url": "https://www.reuters.com/business/sentinelones-quarterly-profit-forecast-falls-short-estimates-amid-stiff-2026-03-12/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/MPLO7XBIKJKYJE7QE2MDJF3PAY.jpg?auth=b20e1d0f2d026dd80bfe9c38a2e5b816d51ad007d433782ac3861e397b7de586&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-12T21:03:54Z"
         }
     ]
 }
