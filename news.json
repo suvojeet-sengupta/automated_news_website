@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-03-17T09:51:58.616282Z",
+    "lastUpdatedAt": "2026-03-17T10:45:45.827317Z",
     "articles": [
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk",
+                "country": "gb"
+            },
+            "title": "Rachel Reeves' solution to our flatlining economy? Closer ties with the ailing EU",
+            "url": "https://www.dailymail.co.uk/news/article-15651565/Rachel-Reeves-solution-flatlining-economy-Closer-ties-ailing-EU.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2026/03/16/17/107182875-0-image-a-9_1773683439516.jpg",
+            "publishedAt": "2026-03-16T22:30:49Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Reeves Pledges Fastest AI Adoption in G7 in UK Growth Vision",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-16/reeves-pledges-fastest-ai-adoption-in-g7-in-uk-growth-vision",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJuqbKhcNpbc/v1/1200x800.jpg",
+            "publishedAt": "2026-03-16T22:30:00Z"
+        },
+        {
+            "source": {
+                "id": "8749653ef849c3df2e467a8e0f0c6672",
+                "name": "NBC10 Boston",
+                "url": "https://www.nbcboston.com",
+                "country": "us"
+            },
+            "title": "WPI researchers using AI to predict Alzheimer's disease early",
+            "url": "https://www.nbcboston.com/news/local/wpi-researchers-using-ai-to-predict-alzheimers-disease-early/3916722/",
+            "urlToImage": "https://media.nbcboston.com/2026/03/Alzheimers-031626.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2026-03-16T22:09:41Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "Commentary: Tech companies are blaming massive layoffs on AI. What’s really going on?",
+            "url": "https://www.channelnewsasia.com/commentary/ai-job-disruption-tech-companies-layoff-meta-amazon-5996221",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Cl96hT5n--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-11T225907Z_2_LYNXMPEM2A1IG_RTROPTP_3_USA-CORPBONDS-QUALTRICS.JPG?itok=BasrXqdL",
+            "publishedAt": "2026-03-16T21:58:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -108,6 +156,18 @@
             "url": "https://www.live5news.com/2026/03/16/developing-technology-creates-dangers-ai-generated-child-sex-abuse-material/",
             "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/ZSTUGYO33FBUJEEKY2UYQFQSAI.png?auth=be1a0e8a1a66aad7102b35270e8e207e97d4a23ececee3a71eea50e2fa31e6e6&width=1200&height=600&smart=true",
             "publishedAt": "2026-03-16T20:50:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "MSI Launches XpertStation WS300 on NVIDIA DGX Station Architecture",
+            "url": "https://www.manilatimes.net/2026/03/17/tmt-newswire/pr-newswire/msi-launches-xpertstation-ws300-on-nvidia-dgx-station-architecture/2301243",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/17/975625.jpg",
+            "publishedAt": "2026-03-16T20:49:08Z"
         },
         {
             "source": {
@@ -1584,6 +1644,15 @@
             "url": "https://timesofindia.indiatimes.com/city/nagpur/ai-powered-fire-detection-system-to-guard-tiger-reserves-pench-first-to-implement-tech/articleshow/129595321.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-117593258,width-1280,height-720,imgsize-102318,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-03-16T01:15:00Z"
+        },
+        {
+            "source": {
+                "name": "platodata"
+            },
+            "title": "Top Startup and Tech Funding News – March 16, 2025",
+            "url": "https://platodata.ai/w3ai/4884803/artificial-intelligence/top-startup-and-tech-funding-news-march-16-2025/",
+            "urlToImage": "https://platodata.ai/wp-content/uploads/2026/03/top-startup-and-tech-funding-news-march-16-2025-1.jpg",
+            "publishedAt": "2026-03-16 22:08:02"
         },
         {
             "source": {
@@ -3420,66 +3489,6 @@
             "url": "https://www.newsmax.com/finance/streettalk/meta-ai-mark-zuckerberg/2026/03/13/id/1249469/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=16f3d757-88f0-46f1-be27-a9f4761cb44c&SiteName=Newsmax",
             "publishedAt": "2026-03-14T01:01:28Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Exclusive: Meta planning sweeping layoffs as AI costs mount",
-            "url": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/OSRJC6M4XVOIHB4KDDHRLD7QLI.jpg?auth=fe6d5b08cf39d8deeb8f3f9879c56be76f5c3d5e184e7141972b122b5188f488&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-14T00:17:17Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Meta planning sweeping layoffs as AI costs mount",
-            "url": "https://www.marketscreener.com/news/meta-planning-sweeping-layoffs-as-ai-costs-mount-ce7e5fd3df8af125",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-14T001705Z_1_LYNXMPEM2D00D_RTROPTP_4_TECH-AI-META-LAYOFFS.JPG",
-            "publishedAt": "2026-03-14T00:16:52Z"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Explore the Future of AI: Top Events at the Washington D.C. AI Conference 2026",
-            "url": "https://techannouncer.com/explore-the-future-of-ai-top-events-at-the-washington-d-c-ai-conference-2026/",
-            "urlToImage": "https://contenu.nyc3.cdn.digitaloceanspaces.com/journalist%2F1568cdd2-7754-433e-afc7-6212a67d04f9%2Fthumbnail.jpeg",
-            "publishedAt": "2026-03-14 16:04:11"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "The futurist who helped define tech trend reports just killed them (literally)",
-            "url": "https://www.fastcompany.com/91507234/amy-webb-trend-report-death-sxsw",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-2-91507234-amy-webb-trend-report-death-sxsw.jpg",
-            "publishedAt": "2026-03-14 15:29:52"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Must-Know Machine Learning Libraries for 2026",
-            "url": "https://www.analyticsinsight.net/machine-learning/must-know-machine-learning-libraries-for-2026",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2026-03-14%2Flwkf336j%2FMust-Know-Machine-Learning-Libraries-for-2026-Pardeep.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2026-03-14 13:30:00"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "After saying 'we are fine' for months, Nvidia seemingly 'accepts' that Google and Meta are coming for it",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-saying-we-are-fine-for-months-nvidia-seemingly-accepts-that-google-and-meta-are-coming-for-it/articleshow/129570451.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129570446,imgsize-32168,width-400,resizemode-4/ceo-of-nvidia-jensen-huang.jpg",
-            "publishedAt": "2026-03-14 07:05:06"
         }
     ]
 }
