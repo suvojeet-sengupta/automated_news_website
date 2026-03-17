@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-03-17T05:56:04.371698Z",
+    "lastUpdatedAt": "2026-03-17T07:01:49.607025Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Why Bigger Isn’t Always Better in AI",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-03-16/why-bigger-isn-t-always-better-in-ai",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6hPIkb4fprw/v1/1200x800.jpg",
+            "publishedAt": "2026-03-16T19:00:02Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Man believed Google chatbot was his ‘AI wife’",
+            "url": "https://www.cp24.com/news/world/2026/03/16/inside-the-ai-companion-lawsuits-man-believed-google-chatbot-was-his-ai-wife/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/CYFWKJMGHFCVHMHBUVOHCE7VK4.JPG?smart=true&auth=b45e472d0eecc165b2208d93cdd97d5fbcb42b02499dc3f9614bba115212ad2c&width=1200&height=630",
+            "publishedAt": "2026-03-16T18:49:49Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI moves to the frontline as India backs killer robots, drone swarms and cyberwarfare",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-military-ai-policy-killer-robots-drone-swarms-cyberwarfare/articleshow/129617383.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-129617517,width-1200,height-630,imgsize-219262,overlay-etdefence/articleshow.jpg",
+            "publishedAt": "2026-03-16T18:47:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Cognizant Expands AI Infrastructure Capabilities with Launch of Cognizant AI Factory",
+            "url": "https://www.manilatimes.net/2026/03/17/tmt-newswire/pr-newswire/cognizant-expands-ai-infrastructure-capabilities-with-launch-of-cognizant-ai-factory/2301121",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/17/975414.jpg",
+            "publishedAt": "2026-03-16T18:28:32Z"
+        },
+        {
+            "source": {
+                "id": "31177620c1e6e610b5d2b67916ed3615",
+                "name": "PBS News",
+                "url": "https://www.pbs.org",
+                "country": "us"
+            },
+            "title": "Tax scams are up this season compared to previous years. Here's what to know",
+            "url": "https://www.pbs.org/newshour/nation/tax-scams-are-up-this-season-compared-to-previous-years-heres-what-to-know",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/04/GettyImages-1299993561-1024x684.jpg",
+            "publishedAt": "2026-03-16T18:14:35Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Watch live: Nvidia CEO Jensen Huang gives GTC 2026 keynote",
+            "url": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-jensen-huang-keynote.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108278465-1773679670944-gettyimages-2266422243-2026_mar_16_keynote_0276.jpeg?v=1773679707&w=1920&h=1080",
+            "publishedAt": "2026-03-16T18:04:17Z"
+        },
         {
             "source": {
                 "id": "0c9364fff53c0e5a3450947d9a54e795",
@@ -1284,6 +1356,15 @@
             "url": "https://timesofindia.indiatimes.com/city/nagpur/ai-powered-fire-detection-system-to-guard-tiger-reserves-pench-first-to-implement-tech/articleshow/129595321.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-117593258,width-1280,height-720,imgsize-102318,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-03-16T01:15:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "NVIDIA Faces GPU Crunch as Explosive AI Demand Hits GTC Stage",
+            "url": "https://www.analyticsinsight.net/news/nvidia-faces-gpu-crunch-as-explosive-ai-demand-hits-gtc-stage",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-03-19%2Fa0mwjoz2%2FNvidias-AI-Breakthrough-Jensen-Huang-Unveils-Rubin-Chips-at-GTC-2025.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2026-03-16 17:56:45"
         },
         {
             "source": {
@@ -3438,90 +3519,6 @@
             "url": "https://www.manilatimes.net/2026/03/14/business/foreign-business/chinese-banks-boost-loans-to-tech-sector-as-beijing-ramps-up-ai-push/2299688",
             "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
             "publishedAt": "2026-03-13T16:08:00Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "Intuitive Surgical stock falls on cyber breach (ISRG:NASDAQ)",
-            "url": "https://seekingalpha.com/news/4564410-intuitive-surgical-falls-after-reporting-cybersecurity-incident",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2233776792/image_2233776792.jpg?io=getty-c-w630",
-            "publishedAt": "2026-03-13T16:06:37Z"
-        },
-        {
-            "source": {
-                "id": "c477009a98f37b19212d8ae20ce8c018",
-                "name": "POLITICO",
-                "url": "https://www.politico.com",
-                "country": "us"
-            },
-            "title": "How ‘The Pitt’ spotlights the growing cyber threat to hospitals",
-            "url": "https://www.politico.com/news/2026/03/13/the-pitt-hospital-cyberattacks-00827725",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb9%2F24%2F662c6eda4a34b990edac4b1c79a3%2Fmain-cyber-thepitt.jpg",
-            "publishedAt": "2026-03-13T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "d9acc08d8066fc3620da5e6b20b406ad",
-                "name": "Boulder Daily Camera",
-                "url": "https://www.dailycamera.com",
-                "country": "us"
-            },
-            "title": "CU to consider new policy on AI",
-            "url": "https://www.dailycamera.com/2026/03/13/cu-ai-policy-regent-chatgpt/",
-            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2021/04/DCC-L-CUCampusArt__TH17261.jpg.jpg?w=1024&h=682",
-            "publishedAt": "2026-03-13T15:42:08Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "Students share thoughts on AI, mental health at Woodland Hills summit",
-            "url": "https://triblive.com/news/education-classroom/students-share-thoughts-on-ai-mental-health-at-woodland-hills-summit/",
-            "urlToImage": "https://assets-varnish.triblive.com/2026/03/9385438_web1_ptr-WoodyStudentSummit005-031426.jpg",
-            "publishedAt": "2026-03-13T15:37:09Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "AI Newsletter: AI-powered platform to track vaccine side effects",
-            "url": "https://www.foxnews.com/tech/ai-newsletter-fda-rolls-out-ai-powered-vaccine-platform",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/fda-marty-makary-robert-f-kennedy-jr.jpg",
-            "publishedAt": "2026-03-13T15:36:33Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Beyond Software: The Physical Buildout Behind AI Expansion",
-            "url": "https://techbullion.com/beyond-software-the-physical-buildout-behind-ai-expansion/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/pexels-googledeepmind-17485657.jpg",
-            "publishedAt": "2026-03-13T15:36:24Z"
-        },
-        {
-            "source": {
-                "id": "eaeed30dacd1269c1893de860c94a7e7",
-                "name": "USA TODAY",
-                "url": "https://www.usatoday.com",
-                "country": "us"
-            },
-            "title": "Zach Braff criticizes AI chatbot dating rumors",
-            "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/03/13/zach-braff-ai-chatbot-dating-rumors/89135016007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/13/USAT/89135112007-2264648721.jpg?crop=4999,2812,x0,y260&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2026-03-13T15:31:40Z"
         }
     ]
 }
