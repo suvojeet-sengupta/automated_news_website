@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-03-17T21:33:24.048583Z",
+    "lastUpdatedAt": "2026-03-17T22:28:37.184294Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Alibaba launches agentic AI tool for businesses with Slack, Teams integration plans",
+            "url": "https://www.cnbc.com/2026/03/17/alibaba-wukong-ai-enterprise-tool-restructuring-qwen-exits.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108278750-1773735331322-gettyimages-2263465138-tang-notitle260228_nphMv.jpeg?v=1773735341&w=1920&h=1080",
+            "publishedAt": "2026-03-17T10:24:06Z"
+        },
+        {
+            "source": {
+                "id": "e98c4d2585c4c5661ffe60fed4d51930",
+                "name": "BOL News",
+                "url": "https://www.bolnews.com",
+                "country": "pk"
+            },
+            "title": "Wukong debuts: Alibaba’s bold move into enterprise AI agents",
+            "url": "https://www.bolnews.com/technology/wukong-debuts-alibabas-bold-move-into-enterprise-ai-agents/",
+            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2026/03/Alibaba.webp",
+            "publishedAt": "2026-03-17T10:18:57Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "US Pacific Fleet to deploy wall-climbing, flying robots on ships",
+            "url": "https://www.straitstimes.com/world/us-pacific-fleet-to-deploy-wall-climbing-flying-robots-on-ships",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/0a32cc5cd0386b8d8ac99d9d6c9eb7b414e5a0357121e97253dd29a26315e33e",
+            "publishedAt": "2026-03-17T10:17:10Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US Pacific Fleet to deploy wall-climbing, flying robots on ships",
+            "url": "https://www.reuters.com/world/us/us-pacific-fleet-deploy-wall-climbing-flying-robots-ships-2026-03-17/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-17T10:11:48Z"
+        },
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "Steven Spielberg says AI cannot replace creativity",
+            "url": "https://www.rte.ie/entertainment/2026/0317/1563819-steven-spielberg-says-ai-cannot-replace-creativity/",
+            "urlToImage": "https://www.rte.ie/images/002412fd-1600.jpg",
+            "publishedAt": "2026-03-17T09:53:14Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Germany seeks doubling of AI data centres by 2030",
+            "url": "https://www.reuters.com/sustainability/climate-energy/germany-seeks-doubling-ai-data-centres-by-2030-2026-03-17/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/DVK2TAQ6XZMGNGSFYBORXCZ7ZQ.jpg?auth=9b7cb2059a081934020db33a4ec022713ee1b9579775d555b80e2f0876f1251a&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-17T09:49:24Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Germany seeks doubling of AI data centres by 2030",
+            "url": "https://www.marketscreener.com/news/germany-seeks-doubling-of-ai-data-centres-by-2030-ce7e5edbdc8bf023",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-17T094911Z_1_LYNXMPEM2G0HD_RTROPTP_4_GERMANY-POLITICS-CABINET.JPG",
+            "publishedAt": "2026-03-17T09:47:38Z"
+        },
+        {
+            "source": {
+                "id": "f4967fce32bfc735983f0f39dcdba127",
+                "name": "pv magazine",
+                "url": "https://www.pv-magazine.com",
+                "country": "de"
+            },
+            "title": "Italian solar sector gears up for cybersecurity regulations on PV systems over 100 kW",
+            "url": "https://www.pv-magazine.com/2026/03/17/italian-solar-sector-gears-up-for-cybersecurity-regulations-on-pv-systems-over-100-kw/",
+            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2026/03/derek-sutton-rfgsYFb_5ow-unsplash-1200x899.jpg",
+            "publishedAt": "2026-03-17T09:43:43Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -756,6 +852,24 @@
             "url": "https://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1012091",
             "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1012091.g006&size=inline",
             "publishedAt": "2026-03-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "artificialintelligence_news"
+            },
+            "title": "Goldman Sachs sees AI investment shift to data centres",
+            "url": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
+            "urlToImage": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/Goldman-Sachs-sees-AI-investment-shift-to-data-centres-scaled-e1773724963206.jpg",
+            "publishedAt": "2026-03-17 10:00:00"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "GTC 2026: Jensen Huang’s AI future goes beyond just chat",
+            "url": "https://www.digit.in/features/general/nvidia-gtc-2026-jensen-huang-ai-future-goes-beyond-just-chat.html",
+            "urlToImage": "https://static.digit.in/jensen-huang-nvidia-gtc-2026.png",
+            "publishedAt": "2026-03-17 09:50:31"
         },
         {
             "source": {
@@ -3315,126 +3429,6 @@
             "url": "https://www.denverpost.com/2026/03/15/legislature-midpoint-budget-bills/",
             "urlToImage": "https://www.denverpost.com/wp-content/uploads/2026/01/TDP-L-legislative-session-RJS-11314.jpg?w=1024&h=787",
             "publishedAt": "2026-03-15T12:00:00Z"
-        },
-        {
-            "source": {
-                "id": "d86acd5a472cad336b1f19dca3331ef5",
-                "name": "M Live Michigan ",
-                "url": "https://www.mlive.com",
-                "country": "us"
-            },
-            "title": "Fake AI images, videos fooled many after Michigan tornadoes. Why that’s a problem.",
-            "url": "https://www.mlive.com/news/kalamazoo/2026/03/fake-ai-images-videos-fooled-many-after-michigan-tornadoes-why-thats-a-problem.html",
-            "urlToImage": "https://www.mlive.com/resizer/v2/BW3OYRDDSZCAXIWYCT4ESK7GUY.JPG?auth=ca344ee076d3b1e6916f5533e37f7efc62dd67612a9232bfc51d5443886e09dc&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-03-15T11:45:00Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "OpenClaw breathes new life into this Chinese tech stock ahead of earnings",
-            "url": "https://www.cnbc.com/2026/03/15/openclaw-breathes-new-life-into-this-chinese-tech-stock-ahead-of-earnings.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108277072-1773306097354-gettyimages-2265479402-AFP_A2T73YW.jpeg?v=1773410710&w=1920&h=1080",
-            "publishedAt": "2026-03-15T11:38:03Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Oscars’ top prize is up for grabs as unease hangs over Hollywood",
-            "url": "https://www.cnbc.com/2026/03/15/oscars-top-prize-is-up-for-grabs-as-unease-hangs-over-hollywood.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108278073-17735702332026-03-15t075637z_1361397589_rc211kaf7e23_rtrmadp_0_awards-oscars.jpeg?v=1773570294&w=1920&h=1080",
-            "publishedAt": "2026-03-15T10:31:08Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "collar jobs so quickly: Raghuram Rajan",
-            "url": "https://www.lokmattimes.com/technology/ai-may-not-destroy-white-collar-jobs-so-quickly-raghuram-rajan-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202603153708944_202603.jpg",
-            "publishedAt": "2026-03-15T10:29:20Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "What is Yann LeCun planning with his startup AMI Labs?",
-            "url": "https://www.marketscreener.com/news/what-is-yann-lecun-planning-with-his-startup-ami-labs-ce7e5fd3d08cf022",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-11-19T215323Z_2_LYNXMPELAI1A0_RTROPTP_4_META-PLATFORMS-YANN-LECUN.JPG",
-            "publishedAt": "2026-03-15T10:06:21Z"
-        },
-        {
-            "source": {
-                "id": "a264eb6813d0472e83bde84a1aef630a",
-                "name": "Akron Beacon Journal",
-                "url": "https://www.beaconjournal.com",
-                "country": "us"
-            },
-            "title": "Could AI replace your doctor? Experts share serious ethical concerns",
-            "url": "https://www.beaconjournal.com/story/news/healthcare/2026/03/15/experts-say-ai-in-hospitals-must-be-regulated-implemented-carefully/89071958007/",
-            "urlToImage": "https://www.beaconjournal.com/gcdn/authoring/authoring-images/2026/02/26/NABJ/88878213007-8-db-375-a-81-cfb-4-e-74862282-bb-450-bccaa.jpeg?crop=999,562,x0,y0&width=999&height=562&format=pjpg&auto=webp",
-            "publishedAt": "2026-03-15T10:03:04Z"
-        },
-        {
-            "source": {
-                "id": "d9683cf085c2c005e453c8b6169374d7",
-                "name": "Asheville Citizen-Times",
-                "url": "https://www.citizen-times.com",
-                "country": "us"
-            },
-            "title": "Artificial intelligence is a threat to humanity",
-            "url": "https://www.citizen-times.com/story/opinion/contributors/2026/03/15/opinion-artificial-intelligence-is-a-threat-to-humanity/89110993007/",
-            "urlToImage": "https://www.citizen-times.com/tangstatic/sites/pash/og-image-q1a2z3a6e97135.png",
-            "publishedAt": "2026-03-15T09:01:09Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "OpenAI CEO Sam Altman agrees with President Donald Trump's 'image warning' for AI companies; and is worried that nobody knows what to do about it",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-agrees-with-president-donald-trumps-image-warning-for-ai-companies-and-is-worried-that-nobody-knows-what-to-do-about-it/articleshow/129586737.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129586723,width-1280,height-720,imgsize-1966090,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-15T08:12:00Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "Rethinking options of school choice",
-            "url": "https://www.arkansasonline.com/news/2026/mar/15/rethinking-options-of-school-choice/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
-            "publishedAt": "2026-03-15T06:54:00Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Shopify CEO uses Claude AI to build MRI viewer",
-            "url": "https://www.thenews.com.pk/latest/1395717-shopify-ceo-uses-ai-to-build-mri-viewer-skips-windows-software",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-15/1395717_113721_updates.jpg",
-            "publishedAt": "2026-03-15T06:22:17Z"
         }
     ]
 }
