@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-03-18T05:59:49.725931Z",
+    "lastUpdatedAt": "2026-03-18T07:13:39.793756Z",
     "articles": [
+        {
+            "source": {
+                "id": "2492bcb79914b2ce3d9867453dae22ac",
+                "name": "Financial Post",
+                "url": "https://financialpost.com",
+                "country": "ca"
+            },
+            "title": "Microsoft shakes up AI operation to streamline offerings",
+            "url": "https://financialpost.com/technology/tech-news/microsoft-shakes-up-ai-operation",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/0318-mg-microsoft.jpg",
+            "publishedAt": "2026-03-17T19:11:44Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Baidu joins China's OpenClaw frenzy with new AI agents in latest technology push",
+            "url": "https://www.thenews.com.pk/latest/1396009-baidu-joins-chinas-openclaw-frenzy-with-new-ai-agents",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-17/1396009_121627_updates.jpg",
+            "publishedAt": "2026-03-17T18:58:00Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Orlando Bravo pushes back on private markets criticism: 'Everybody's extremely comfortable'",
+            "url": "https://www.cnbc.com/2026/03/17/orlando-bravo-pushes-back-on-private-markets-criticism-everybodys-extremely-comfortable.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107128581-1770836416021-107128581-1664833391865-IMG_9221r.jpg?v=1770836423&w=1920&h=1080",
+            "publishedAt": "2026-03-17T18:54:43Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036",
+            "url": "https://www.reuters.com/business/amazon-ceo-sees-ai-doubling-his-prior-aws-sales-projections-600-billion-by-2036-2026-03-17/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/2GI2YZ5XJJKBTKFF6G5WYC2QNU.jpg?auth=bd24646dab832f25a8142865c2ff00d682b032788707b0b663792ff7457b0cb1&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-17T18:48:35Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036",
+            "url": "https://www.marketscreener.com/news/amazon-ceo-sees-ai-doubling-his-prior-aws-sales-projections-to-600-billion-by-2036-ce7e5ed8db88f027",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-17T184824Z_1_LYNXMPEM2G16T_RTROPTP_4_MEDIA-SUNVALLEY.JPG",
+            "publishedAt": "2026-03-17T18:47:32Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "JPMorgan Halts Qualtrics $5.3 Billion Debt Deal on Software Pain",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-17/jpmorgan-halts-qualtrics-5-3-billion-debt-deal-on-software-pain",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii14KKnW95WQ/v0/1200x800.jpg",
+            "publishedAt": "2026-03-17T18:03:58Z"
+        },
         {
             "source": {
                 "id": "2492bcb79914b2ce3d9867453dae22ac",
@@ -1440,6 +1512,15 @@
             "url": "https://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1012091",
             "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1012091.g006&size=inline",
             "publishedAt": "2026-03-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The 4.5x Multiplier: How AI-Powered Fraud Is Rewriting the Economics of Cybercrime",
+            "url": "https://www.webpronews.com/the-4-5x-multiplier-how-ai-powered-fraud-is-rewriting-the-economics-of-cybercrime/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-12441-1773772267.jpeg",
+            "publishedAt": "2026-03-17 18:31:11"
         },
         {
             "source": {
@@ -3396,90 +3477,6 @@
             "url": "https://www.marketscreener.com/news/trump-accuses-iran-of-using-ai-to-spread-disinformation-ce7e5edad98ef520",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-16T025328Z_1_LYNXMPEM2F062_RTROPTP_4_USA-TRUMP.JPG",
             "publishedAt": "2026-03-16T02:58:37Z"
-        },
-        {
-            "source": {
-                "id": "df3038aaa802741cdad6eb4698aa1552",
-                "name": "Al-Monitor",
-                "url": "https://www.al-monitor.com",
-                "country": "us"
-            },
-            "title": "Trump accuses Iran of using AI to spread disinformation",
-            "url": "https://www.al-monitor.com/originals/2026/03/trump-accuses-iran-using-ai-spread-disinformation",
-            "urlToImage": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-03/2026-03-16T025713Z_2_LYNXMPEM2F062_RTROPTP_4_USA-TRUMP.JPG?h=4ecd895c&itok=cQqYBPN9",
-            "publishedAt": "2026-03-16T02:57:13Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "Trump accuses Iran of using AI to spread disinformation",
-            "url": "https://www.straitstimes.com/world/middle-east/trump-accuses-iran-of-using-ai-to-spread-disinformation",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/bf294065443d1a6e332c2e3a2766fb1241cdb6b1aee0bf60a019f51ac883ad80",
-            "publishedAt": "2026-03-16T02:56:44Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Trump accuses Iran of using AI to spread disinformation",
-            "url": "https://www.reuters.com/business/media-telecom/trump-accuses-iran-using-ai-spread-disinformation-2026-03-16/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/OFSLIFLUMVKVNC33JKNA4JNFIY.jpg?auth=da05a99342428e615fa1f22562c37060a98f2906abb2174210552942f573ed88&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-16T02:53:36Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Trump Accuses Iran of Weaponizing AI in War Propaganda",
-            "url": "https://www.devdiscourse.com/article/technology/3839386-trump-accuses-iran-of-weaponizing-ai-in-war-propaganda",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_03_2026_15_13_51_6246961.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-03-16T02:51:57Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Polish Researcher Stunned After GPT-5.4 Cracks 20-Year Math Problem",
-            "url": "https://www.ndtv.com/feature/deeply-impressed-polish-researcher-stunned-after-gpt-5-4-cracks-20-year-math-problem-11220589",
-            "urlToImage": "https://c.ndtvimg.com/2026-03/85iu659_ai_625x300_16_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2026-03-16T02:49:20Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "Rubrik: Cybersecurity Growth Story Facing A Narrative Problem",
-            "url": "https://seekingalpha.com/article/4882552-rubrik-cybersecurity-growth-story-facing-a-narrative-problem",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1219304815/image_1219304815.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-03-16T02:25:35Z"
-        },
-        {
-            "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
-                "country": "in"
-            },
-            "title": "Iran War LIVE Updates: Flights suspended at Dubai Airport after drone sparks fire",
-            "url": "https://www.indiatvnews.com/news/world/us-israel-iran-war-day-17-live-updates-tensions-continue-in-middle-east-west-asia-oil-supply-hit-strait-of-hormuz-damages-death-count-donald-trump-2026-03-16-1033892",
-            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/03/iran-war-1773627477.jpg",
-            "publishedAt": "2026-03-16T02:18:34Z"
         }
     ]
 }
