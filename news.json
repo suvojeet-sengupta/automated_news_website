@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-03-18T04:21:54.120679Z",
+    "lastUpdatedAt": "2026-03-18T05:59:49.725931Z",
     "articles": [
+        {
+            "source": {
+                "id": "2492bcb79914b2ce3d9867453dae22ac",
+                "name": "Financial Post",
+                "url": "https://financialpost.com",
+                "country": "ca"
+            },
+            "title": "Tailscale turns to mergers amid AI agents flooding networks",
+            "url": "https://financialpost.com/cybersecurity/cyber-startup-tailscale-turns-to-mergers",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/0318-mg-coding.jpg",
+            "publishedAt": "2026-03-17T17:45:07Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Court temporarily allows Perplexity AI shopping 'agents' on Amazon",
+            "url": "https://www.reuters.com/legal/litigation/court-temporarily-allows-perplexity-ai-shopping-agents-amazon-2026-03-17/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/O2MVOHFH45MX3EBWYVS7J7P37I.jpg?auth=d84d5a1aa2293f98612e8bb9296cdcd8f852e0ca7175f0dab725ec26c42fe50b&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-17T17:39:00Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Rajasthan: Teachers and students in govt schools to be empowered by AI​",
+            "url": "https://www.lokmattimes.com/national/rajasthan-teachers-and-students-in-govt-schools-to-be-empowered-by-ai/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202603173711807_202603.jpg",
+            "publishedAt": "2026-03-17T17:01:40Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Rajasthan: Teachers and students in govt schools to be empowered by AI​",
+            "url": "https://www.lokmattimes.com/technology/rajasthan-teachers-and-students-in-govt-schools-to-be-empowered-by-ai-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202603173711807_202603.jpg",
+            "publishedAt": "2026-03-17T17:01:40Z"
+        },
+        {
+            "source": {
+                "id": "f0360861ad060808ced5bf37f8412c57",
+                "name": "Medical News Today",
+                "url": "https://www.medicalnewstoday.com",
+                "country": "us"
+            },
+            "title": "AI tool may predict disease with high precision",
+            "url": "https://www.medicalnewstoday.com/articles/ai-tool-predicts-alzheimers-using-brain-scans",
+            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/03/Predicting-Alzheimers-Stocksy_txpb1359511efF400_Medium_4333654-Facebook.jpg",
+            "publishedAt": "2026-03-17T17:00:00Z"
+        },
+        {
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            },
+            "title": "Up to 86% Off Surfshark One - Lock in This All-in-One Cybersecurity Deal",
+            "url": "https://gizmodo.com/up-to-86-off-surfshark-one-lock-in-this-all-in-one-cybersecurity-deal-2000734635",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Surfshark.jpg",
+            "publishedAt": "2026-03-17T16:46:53Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Baidu joins China's OpenClaw frenzy with new AI agents",
+            "url": "https://www.reuters.com/business/media-telecom/baidu-joins-chinas-openclaw-frenzy-with-new-ai-agents-2026-03-17/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/WEP6TSV4FJNL5EPC7RDBRXIAIY.jpg?auth=37a78df169aaab216152b7248b50305f814ce57c882876af34bd9b409e769b9e&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-17T16:29:05Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Ukrainian PM Zelensky warns of Russian weapons tech in British visit",
+            "url": "https://www.breitbart.com/news/ukrainian-pm-zelensky-warns-of-russian-weapons-tech-in-british-visit/",
+            "urlToImage": "https://media.breitbart.com/media/2026/03/wi/upi/ukrainian-pm-zelensky-warns-of-russian-weapons-tech-british-visit-ukrainian-pm-zelensky-warns-of.jpg",
+            "publishedAt": "2026-03-17T16:26:26Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -1344,6 +1440,51 @@
             "url": "https://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1012091",
             "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1012091.g006&size=inline",
             "publishedAt": "2026-03-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "NVIDIA Enters Production with Dynamo, the Broadly Adopted Inference Operating System for AI Factories",
+            "url": "https://www.hpcwire.com/off-the-wire/nvidia-enters-production-with-dynamo-the-broadly-adopted-inference-operating-system-for-ai-factories/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2025/05/Nvidia-Santa.jpg",
+            "publishedAt": "2026-03-17 17:57:53"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "A List Of All 103 AI Native Companies Nvidia’s Jensen Huang Presented",
+            "url": "https://www.forbes.com/sites/josipamajic/2026/03/17/a-list-of-all-103-ai-native-companies-nvidias-jensen-huang-presented/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69b9921dcf6c6be38074a400/0x0.jpg",
+            "publishedAt": "2026-03-17 17:47:53"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "AI was supposed to kill off consultants. It’s not happening, Capgemini’s strategy chief says",
+            "url": "https://fortune.com/2026/03/17/ai-death-of-management-consulting-not-happening-capgemini-fernando-alvarez-says/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1472630402-e1773765240286.jpg?w=2048",
+            "publishedAt": "2026-03-17 17:23:29"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "The intelligent green: How AWS and the PGA Tour are reimagining the fan experience through agentic AI",
+            "url": "https://siliconangle.com/2026/03/17/intelligent-green-aws-pga-tour-reimagining-fan-experience-agentic-ai/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/TOURCAST-Range-Top.png",
+            "publishedAt": "2026-03-17 17:22:40"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "DARPA’s Plan to Program Life With Light and Take It to Market",
+            "url": "https://hackernoon.com/darpas-plan-to-program-life-with-light-and-take-it-to-market",
+            "urlToImage": "https://hackernoon.imgix.net/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-oh83ejt.jpeg",
+            "publishedAt": "2026-03-17 16:45:23"
         },
         {
             "source": {
@@ -3339,138 +3480,6 @@
             "url": "https://www.indiatvnews.com/news/world/us-israel-iran-war-day-17-live-updates-tensions-continue-in-middle-east-west-asia-oil-supply-hit-strait-of-hormuz-damages-death-count-donald-trump-2026-03-16-1033892",
             "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/03/iran-war-1773627477.jpg",
             "publishedAt": "2026-03-16T02:18:34Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "Peter Thiel’s secretive Rome conference draws Church attention",
-            "url": "https://www.japantimes.co.jp/news/2026/03/16/world/thiel-rome-conference-church/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/03/16/529387.jpg?v=3.1",
-            "publishedAt": "2026-03-16T02:08:36Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "How machine learning and IoT are building factories of future",
-            "url": "https://www.devdiscourse.com/article/business/3833754-how-machine-learning-and-iot-are-building-factories-of-future",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/11_03_2026_12_55_41_1538232.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-16T02:05:52Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "Trump: Iran Using AI to Spread War Disinformation",
-            "url": "https://www.newsmax.com/world/globaltalk/donald-trump-iran-ai/2026/03/15/id/1249602/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=ba8f5e29-c8ca-4fda-9c06-0c163c852132&SiteName=Newsmax",
-            "publishedAt": "2026-03-16T02:02:18Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Conan O'Brien's Oscars Night: Humor, AI, and Cultural Jabs",
-            "url": "https://www.devdiscourse.com/article/entertainment/3839340-conan-obriens-oscars-night-humor-ai-and-cultural-jabs",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_29_06_9517358.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-03-16T01:49:32Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI-powered fire detection system to guard tiger reserves; Pench first to implement tech",
-            "url": "https://timesofindia.indiatimes.com/city/nagpur/ai-powered-fire-detection-system-to-guard-tiger-reserves-pench-first-to-implement-tech/articleshow/129595321.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-117593258,width-1280,height-720,imgsize-102318,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-16T01:15:00Z"
-        },
-        {
-            "source": {
-                "name": "platodata"
-            },
-            "title": "Top Startup and Tech Funding News – March 16, 2025",
-            "url": "https://platodata.ai/w3ai/4884803/artificial-intelligence/top-startup-and-tech-funding-news-march-16-2025/",
-            "urlToImage": "https://platodata.ai/wp-content/uploads/2026/03/top-startup-and-tech-funding-news-march-16-2025-1.jpg",
-            "publishedAt": "2026-03-16 22:08:02"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "DLSS 5 backlash with almost 100% negative YouTube comments",
-            "url": "https://startupnews.fyi/2026/03/17/dlss-5-backlash-with-almost-100-negative-youtube-comments/",
-            "urlToImage": "https://i0.wp.com/cdn.mos.cms.futurecdn.net/kMU5DsXkYydtbLCL4oK7YC-2560-80.jpg?resize=1920%2C0&ssl=1&w=1920",
-            "publishedAt": "2026-03-16 21:30:06"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "CATCHES Launches Generative AI with Physics-Based Sizing Technology for Fashion E-Commerce with AMIRI Powered by NVIDIA",
-            "url": "https://www.hastingstribune.com/ap/business/catches-launches-generative-ai-with-physics-based-sizing-technology-for-fashion-e-commerce-with-amiri/article_3208c038-78b9-5dd0-8d26-b0c4067f5346.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2026-03-16 21:27:59"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "CATCHES Launches Generative AI with Physics-Based Sizing Technology for Fashion E-Commerce with AMIRI Powered by NVIDIA",
-            "url": "https://www.postregister.com/businessreport/technology/catches-launches-generative-ai-with-physics-based-sizing-technology-for-fashion-e-commerce-with-amiri/article_18e196b7-f211-5c69-8939-753da4611aba.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2026-03-16 21:27:59"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Nvidia expands Vera Rubin platform, details Groq integration",
-            "url": "https://www.computerweekly.com/news/366640398/Nvidia-expands-Vera-Rubin-platform-details-Groq-integration",
-            "urlToImage": "https://www.computerweekly.com/visuals/LeMagIT/hero_article/AI-bot-AdobeStock_909560265_searchsitetablet_520X173.jpg",
-            "publishedAt": "2026-03-16 21:15:00"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "Lenovo Accelerates Production-Ready Enterprise AI with NVIDIA—From AI Inferencing to Gigawatt-Scale AI Factories",
-            "url": "https://www.hastingstribune.com/ap/business/lenovo-accelerates-production-ready-enterprise-ai-with-nvidia-from-ai-inferencing-to-gigawatt-scale-ai/article_5472ae34-61f5-5cee-98e9-ff8139c86398.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2026-03-16 21:11:47"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Meta is secretly working on an AI detection tool after unleashing AI slop avalanche",
-            "url": "https://www.digitaltrends.com/computing/meta-is-secretly-working-on-an-ai-detection-tool-after-unleashing-ai-slop-avalanche/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/03/meta-ai-detector-tool.jpg?resize=1200%2C630",
-            "publishedAt": "2026-03-16 21:05:37"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "ORCA Computing Advances Photonic Quantum Simulation with NVIDIA cuTensorNet",
-            "url": "https://www.hpcwire.com/off-the-wire/orca-computing-advances-photonic-quantum-simulation-with-nvidia-cutensornet/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2025/12/ORCA-Computing.png",
-            "publishedAt": "2026-03-16 20:30:27"
         }
     ]
 }
