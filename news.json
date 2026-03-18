@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-03-18T16:10:03.475588Z",
+    "lastUpdatedAt": "2026-03-18T17:57:32.668001Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI vs ransomware: High-stakes cybersecurity showdown",
+            "url": "https://www.devdiscourse.com/article/technology/3840901-ai-vs-ransomware-high-stakes-cybersecurity-showdown",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/17_03_2026_11_26_36_7749198.png?width=920&format=jpeg",
+            "publishedAt": "2026-03-18T05:39:15Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "OpenClaw is ‘the next ChatGPT,’ says Nvidia CEO",
+            "url": "https://www.thenews.com.pk/latest/1396051-nvidia-ceo-calls-openclaw-the-next-chatgpt",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-18/1396051_103138_updates.jpg",
+            "publishedAt": "2026-03-18T05:25:09Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "India's digital economy to account for 20% of GDP by 2030: MeitY Secy",
+            "url": "https://economictimes.indiatimes.com/small-biz/security-tech/technology/indias-digital-economy-to-account-for-20-of-gdp-by-2030-meity-secy/articleshow/129647858.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-129648058,width-1200,height-630,imgsize-56312,overlay-etrise/articleshow.jpg",
+            "publishedAt": "2026-03-18T05:13:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "AI Labs Talk Safety. Headcount Tells a Different Story",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-03-18/ai-companies-talk-safety-headcount-of-safety-teams-tells-a-different-story",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igbYYWKqwpAI/v1/1200x800.jpg",
+            "publishedAt": "2026-03-18T05:00:16Z"
+        },
+        {
+            "source": {
+                "id": "3e29a1cf81727e4aa5687d46a4b429c4",
+                "name": "Bangor Daily News",
+                "url": "https://www.bangordailynews.com",
+                "country": "us"
+            },
+            "title": "Maine’s courts push for more cybersecurity as all records move online",
+            "url": "https://www.bangordailynews.com/2026/03/18/state/state-police-courts/online-court-records-security-joam40zk0w/",
+            "urlToImage": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/03/4.jpg?fit=1200%2C800&ssl=1",
+            "publishedAt": "2026-03-18T05:00:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Kering Names Digital, AI, Information Technology Chief",
+            "url": "https://www.marketscreener.com/news/kering-names-digital-ai-information-technology-chief-ce7e5ed8df81f427",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-03-18T04:52:14Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nvidia Readies Version of Groq AI Chip for Sale to China",
+            "url": "https://www.marketscreener.com/news/nvidia-readies-version-of-groq-ai-chip-for-sale-to-china-ce7e5ed8df8eff23",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-03-18T04:34:16Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Work, worker, workplace change all for real AI gains",
+            "url": "https://timesofindia.indiatimes.com/technology/times-techies/work-worker-workplace-change-all-for-real-ai-gains/articleshow/129647112.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129647189,width-1280,height-720,imgsize-179297,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-18T04:32:00Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "Mayors Sound Alarm: AI Data Centers Push U.S. Toward Blackouts and Water Shortages",
+            "url": "https://www.naturalnews.com/2026-03-18-ai-data-centers-push-us-blackouts-water-shortages.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/03/data-center-expansion-artificial-intelligence-infrastructure-electricity-demand-525-original.jpg",
+            "publishedAt": "2026-03-18T04:29:33Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "Zerodha’s Nithin Kamath Reveals Why He Skips Net Banking Apps On Mobile",
+            "url": "https://www.news18.com/business/banking-finance/zerodhas-nithin-kamath-reveals-why-he-skips-net-banking-apps-on-mobile-ws-l-9983484.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/01/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2026-01-15T100453.772-2026-01-c45155761f1abb5053a2f931cb75f358-16x9.png",
+            "publishedAt": "2026-03-18T04:25:06Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -3342,126 +3462,6 @@
             "url": "https://www.ndtvprofit.com/technology/ramp-product-chief-says-employees-who-dont-use-ai-tools-are-probably-underperforming-11221857",
             "urlToImage": "https://c.ndtvimg.com/2026-02/nli8936g_brian-ai_625x300_11_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
             "publishedAt": "2026-03-16T11:10:31Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "DayOne Data Centers Nears Confidential US IPO Filing, Sources Say",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-16/asia-s-dayone-data-centers-is-said-to-near-confidential-filing-for-us-ipo",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8fv3FamG67U/v1/1200x673.jpg",
-            "publishedAt": "2026-03-16T11:09:15Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "Maharashtra partners with Wadhwani AI to deploy artificial intelligence in public health services",
-            "url": "https://www.thehindubusinessline.com/news/maharashtra-partners-with-wadhwani-ai-to-deploy-artificial-intelligence-in-public-health-services/article70749648.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/ak30i8/article70749702.ece/alternates/LANDSCAPE_1200/DSC_9120A.JPG",
-            "publishedAt": "2026-03-16T11:08:06Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Derwent London announces Network pre-let to Databricks",
-            "url": "https://www.marketscreener.com/news/derwent-london-announces-network-pre-let-to-databricks-ce7e5edadd88ff20",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-03-16T11:01:55Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "Chris Heck: While Washington huddles, Pa. makes its AI play",
-            "url": "https://triblive.com/opinion/chris-heck-while-washington-huddles-pa-makes-its-ai-play/",
-            "urlToImage": "https://assets-varnish.triblive.com/2026/03/9383031_web1_gtr-cmns-Schrager-120325.jpg",
-            "publishedAt": "2026-03-16T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "CCI issues guidance note advising enterprises to conduct self-audits on AI tools to avoid competition risks",
-            "url": "https://economictimes.indiatimes.com/news/economy/policy/cci-issues-guidance-note-advising-enterprises-to-conduct-self-audits-on-ai-tools-to-avoid-competition-risks/articleshow/129606636.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-129607858,width-1200,height-630,imgsize-93276,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-03-16T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Government Cyber Resilience Summit Ph convenes national leaders to strengthen country’s cybersecurity, digital resilience",
-            "url": "https://www.manilatimes.net/2026/03/16/tmt-newswire/government-cyber-resilience-summit-ph-convenes-national-leaders-to-strengthen-countrys-cybersecurity-digital-resilience/2300598",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/16/974512.jpg",
-            "publishedAt": "2026-03-16T10:54:00Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Taiwan’s Foxconn bets on AI server boom for 2026 growth as geopolitical volatility clouds outlook",
-            "url": "https://www.firstpost.com/business/taiwans-foxconn-bets-on-ai-server-boom-for-2026-growth-as-geopolitical-volatility-clouds-outlook-13990079.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/03/AFP__20260316__A3EY39E__v1__MidRes__FilesTaiwanTechnologyFoxconnEarnings-1-2026-03-5a29a7739113ea91c31368af75207b4b.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-03-16T10:27:15Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Meta Delays Launch of AI Model Due to Performance Concerns",
-            "url": "https://www.marketscreener.com/news/meta-delays-launch-of-ai-model-due-to-performance-concerns-ce7e5edada8ef32c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-03-16T10:25:47Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "From Monitoring to Healing: 'Save the foot' App Empowers Doctors and Patients in the Fight Against DFU",
-            "url": "https://www.tribuneindia.com/news/business/from-monitoring-to-healing-save-the-foot-app-empowers-doctors-and-patients-in-the-fight-against-dfu/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc2YjI3ZTkwLTIxMjItMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-03-16T10:25:25Z"
-        },
-        {
-            "source": {
-                "id": "f4967fce32bfc735983f0f39dcdba127",
-                "name": "pv magazine",
-                "url": "https://www.pv-magazine.com",
-                "country": "de"
-            },
-            "title": "Power Electronics Secures JC Star‑1 Certification, Strengthening Cybersecurity for Energy Storage Systems in Japan",
-            "url": "https://www.pv-magazine.com/press-releases/power-electronics-secures-jc-star%e2%80%911-certification-strengthening-cybersecurity-for-energy-storage-systems-in-japan/",
-            "urlToImage": "https://www.pv-magazine.com/wp-content/themes/pvmagazine/_/img/pv-magazine-logo.png",
-            "publishedAt": "2026-03-16T10:21:21Z"
         }
     ]
 }
