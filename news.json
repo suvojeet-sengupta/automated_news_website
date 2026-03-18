@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-03-18T07:13:39.793756Z",
+    "lastUpdatedAt": "2026-03-18T08:42:14.694870Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Amazon's AI Vision: Doubling AWS's Future",
+            "url": "https://www.devdiscourse.com/article/technology/3842016-amazons-ai-vision-doubling-awss-future",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/22_06_2025_10_36_28_3838694.png?width=920&format=jpeg",
+            "publishedAt": "2026-03-17T19:50:10Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "From Research Lab to Hackathon Victory: How University of Cincinnati AI/ML Engineer Lazizbek Built a Winning Solution and What the Data Reveals About the Future of Innovation Competitions",
+            "url": "https://techbullion.com/from-research-lab-to-hackathon-victory-how-university-of-cincinnati-ai-ml-engineer-lazizbek-built-a-winning-solution-and-what-the-data-reveals-about-the-future-of-innovation-competitions/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/Lazizbek-Ravshanov-e1773776507727-1000x600.jpg",
+            "publishedAt": "2026-03-17T19:47:41Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Health Records and Human-Made Labels: The Latest in AI",
+            "url": "https://www.usnews.com/news/u-s-news-decision-points/articles/2026-03-17/health-records-and-human-made-labels-the-latest-in-ai",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/a627b20/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F4e%2F46%2F032321b04bcfa03ad9865d684f01%2Fgettyimages-2259896254.jpg",
+            "publishedAt": "2026-03-17T19:40:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Former CIA Advisor Releases New Video Warning April 29 Could Mark a Turning Point for the AI Boom",
+            "url": "https://www.manilatimes.net/2026/03/18/tmt-newswire/globenewswire/former-cia-advisor-releases-new-video-warning-april-29-could-mark-a-turning-point-for-the-ai-boom/2302207",
+            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-03-17T19:32:55Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US lawmakers send 'complaint letter' to ByteDance CEO about company's AI app; say: Seedance 2.0 poses a direct threat to the American ...",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-lawmakers-send-complaint-letter-to-bytedance-ceo-on-companys-ai-app-say-seedance-2-0-poses-a-direct-threat-to-the-american-/articleshow/129641301.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129641299,width-1280,height-720,imgsize-238028,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-17T19:31:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nvidia sales opportunity for Blackwell, Rubin chips more than $1 trillion by 2027",
+            "url": "https://www.marketscreener.com/news/nvidia-sales-opportunity-for-blackwell-rubin-chips-more-than-1-trillion-by-2027-ce7e5ed8db8df325",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-17T191532Z_2_LYNXMPEM2G17K_RTROPTP_4_NVIDIA-GTC.JPG",
+            "publishedAt": "2026-03-17T19:15:17Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Nvidia sales opportunity for Blackwell, Rubin chips more than $1 trillion by 2027",
+            "url": "https://www.reuters.com/business/nvidia-sales-opportunity-blackwell-rubin-chips-more-than-1-trillion-by-2027-2026-03-17/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/GGIMFC2GPVOEVFQVRQCT55PJNQ.jpg?auth=4fe035ad268de0591e2645da8669aaa873e51b4da1b97f91f3aff6d1a4990d22&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-17T19:15:16Z"
+        },
+        {
+            "source": {
+                "id": "8500efae8310099b1bcee1ef95a0434e",
+                "name": "KABC-TV",
+                "url": "https://abc7.com",
+                "country": "us"
+            },
+            "title": "AI tools can transform resumes for job seekers. Here's what to know",
+            "url": "https://abc7.com/post/artificial-intelligence-tools-can-transform-resumes-job-seekers-heres-what-know/18725750/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/18722825_031626-kabc-6am-7oys-ai-cover-letters-vid.jpg?w=1600",
+            "publishedAt": "2026-03-17T19:14:29Z"
+        },
         {
             "source": {
                 "id": "2492bcb79914b2ce3d9867453dae22ac",
@@ -1512,6 +1608,15 @@
             "url": "https://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1012091",
             "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1012091.g006&size=inline",
             "publishedAt": "2026-03-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "mit"
+            },
+            "title": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
+            "url": "https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317",
+            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-ibm-seed-to-signal.jpg?itok=KhVDGaMj",
+            "publishedAt": "2026-03-17 20:35:44"
         },
         {
             "source": {
@@ -3369,114 +3474,6 @@
             "url": "https://www.thenews.com.pk/latest/1395819-ai-powers-new-experiment-to-treat-canine-cancer",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-16/1395819_110238_updates.jpg",
             "publishedAt": "2026-03-16T05:44:11Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "Aussie firm to roll out AI-in-a-box in regional areas",
-            "url": "https://www.perthnow.com.au/news/technology/aussie-firm-to-roll-out-ai-in-a-box-in-regional-areas-c-21959584",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-21959584/a588688c4785c09dec951da3c3354c26ca7169d7-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-03-16T04:45:37Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Europe takes first step to banning AI-generated child sexual abuse images",
-            "url": "https://www.thehindu.com/sci-tech/technology/europe-takes-first-step-to-banning-ai-generated-child-sexual-abuse-images/article70748560.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/wfo7l9/article70748562.ece/alternates/LANDSCAPE_1200/2026-03-10T093627Z_796964435_RC2MX8A3N9I1_RTRMADP_3_ECB-POLICY-MULLER.JPG",
-            "publishedAt": "2026-03-16T04:29:21Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "IIT Bombay Alumnus Joins Elon Musk's SpaceX & xAI: Who Is Devendra Singh Chaplot?",
-            "url": "https://www.freepressjournal.in/tech/iit-bombay-alumnus-joins-elon-musks-spacex-xai-who-is-devendra-singh-chaplot",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-03-16/s6sfolyz/HDU3jE3aMAAkHM6.jpg",
-            "publishedAt": "2026-03-16T04:12:38Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Alibaba Creates AI Tool for Companies to Ride China Agent Craze",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-16/alibaba-creates-ai-tool-for-companies-to-ride-china-agent-craze",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWUfrdvbMRhw/v0/1200x800.jpg",
-            "publishedAt": "2026-03-16T04:04:22Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Who covers AI business blunders? Some insurers cautiously step up",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/16/who-covers-ai-business-blunders-some-insurers-cautiously-step-up",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/16/3814913.jpg",
-            "publishedAt": "2026-03-16T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "M'sia boosting high-tech capabilities to ensure national resilience amid geopolitical crises",
-            "url": "https://www.thestar.com.my/news/nation/2026/03/16/m039sia-boosting-high-tech-capabilities-to-ensure-national-resilience-amid-geopolitical-crises",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/16/3815040.JPG",
-            "publishedAt": "2026-03-16T03:54:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Exclusive: China’s No. 2 chipmaker readies 7 nm production as Beijing ramps up self-suffiency drive",
-            "url": "https://www.reuters.com/world/asia-pacific/chinas-no-2-chipmaker-readies-7-nm-production-beijing-ramps-up-self-suffiency-2026-03-16/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ZBDTT7MZBNLV3FHDETBOI4FQDY.jpg?auth=e16521efe13ed8127e4b798649693aaf89b7dc707d88a7d9160321eda4a506fe&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-16T03:48:06Z"
-        },
-        {
-            "source": {
-                "id": "94466d37d8c67a438250646866df36df",
-                "name": "SBS Australia",
-                "url": "https://www.sbs.com.au",
-                "country": "au"
-            },
-            "title": "Concerns young Australians are turning to influencers, artificial intelligence for financial advice",
-            "url": "https://www.sbs.com.au/news/article/concerns-young-australians-are-turning-to-influencers-artificial-intelligence-for-financial-advice/gc8vdjtt2",
-            "urlToImage": "https://assets.sbs.com.au/dims4/default/62d8228/2147483647/strip/true/crop/5615x3158+0+421/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fec%2F9c%2Fb7aa2df5448eaf9d966a30b1340e%2Fphone.jpg",
-            "publishedAt": "2026-03-16T03:16:50Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Trump accuses Iran of using AI to spread disinformation",
-            "url": "https://www.marketscreener.com/news/trump-accuses-iran-of-using-ai-to-spread-disinformation-ce7e5edad98ef520",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-16T025328Z_1_LYNXMPEM2F062_RTROPTP_4_USA-TRUMP.JPG",
-            "publishedAt": "2026-03-16T02:58:37Z"
         }
     ]
 }
