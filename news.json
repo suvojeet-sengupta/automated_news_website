@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-18T10:47:56.495370Z",
+    "lastUpdatedAt": "2026-03-18T11:41:41.279813Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Exclusive-Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/18/exclusive-amazon-ceo-sees-ai-doubling-prior-aws-sales-projections-to-600-billion-by-2036",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/18/3818798.jpg",
+            "publishedAt": "2026-03-17T23:35:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say",
+            "url": "https://www.reuters.com/world/china/nvidia-preparing-groq-chips-that-can-be-sold-chinese-market-sources-say-2026-03-17/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/4SFIIGVDTZOFLJUBSBM4ZEXFXE.jpg?auth=a7f7da1d669b4d63f7f52ad1753b0bf2efee8ca0ddbf36f6ea86ac29ab8ef06e&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-17T22:51:11Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -3450,30 +3474,6 @@
             "url": "https://www.manilatimes.net/2026/03/16/tmt-newswire/globenewswire/ligolab-highlights-ai-and-automation-insights-at-ligoverse-2026/2300440",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/16/974144.png",
             "publishedAt": "2026-03-16T06:49:36Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "New Nvidia AI chip design raises questions over HBM demand: Report",
-            "url": "https://www.tribuneindia.com/news/business/new-nvidia-ai-chip-design-raises-questions-over-hbm-demand-report/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJiMTI2NzQwLTIxMDMtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-03-16T06:45:23Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Ruthenium prices hit record high as AI boom squeezes supply",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/16/ruthenium-prices-hit-record-high-as-ai-boom-squeezes-supply",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/16/3815259.jpg",
-            "publishedAt": "2026-03-16T06:21:00Z"
         }
     ]
 }
