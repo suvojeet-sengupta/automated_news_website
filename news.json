@@ -1,6 +1,75 @@
 {
-    "lastUpdatedAt": "2026-03-18T11:41:41.279813Z",
+    "lastUpdatedAt": "2026-03-18T13:01:46.078028Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Trump administration defends Anthropic blacklisting in US court",
+            "url": "https://www.reuters.com/legal/government/trump-administration-defends-anthropic-blacklisting-us-court-2026-03-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/6XSLR6EKFNNXDIS35OX4PIK7TI.jpg?auth=f30eb5b2e18f9dd45f556200209a4e773484da1969d3dc9393f03133f31cbc48&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-18T00:42:54Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Trump administration defends Anthropic blacklisting in US court",
+            "url": "https://www.marketscreener.com/news/trump-administration-defends-anthropic-blacklisting-in-us-court-ce7e5ed8dc80f32c",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-30T200202Z_1_LYNXNPEL4T10W_RTROPTP_4_ANTHROPIC-AI.JPG",
+            "publishedAt": "2026-03-18T00:41:16Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI race shifts from size to reliability, says Emergence AI CEO",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-race-shifts-from-size-to-reliability-says-emergence-ai-ceo/articleshow/129638171.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-567413,resizemode-75,msid-129638171/tech/artificial-intelligence/ai-race-shifts-from-size-to-reliability-says-emergence-ai-ceo.jpg",
+            "publishedAt": "2026-03-18T00:30:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Rising component cost to keep hardware prices elevated in near term, Lenovo executive says",
+            "url": "https://economictimes.indiatimes.com/tech/technology/rising-component-cost-to-keep-hardware-prices-elevated-in-near-term-lenovo-executive-says/articleshow/129638561.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-824143,resizemode-75,msid-129638561/tech/technology/rising-component-cost-to-keep-hardware-prices-elevated-in-near-term-lenovo-executive-says.jpg",
+            "publishedAt": "2026-03-18T00:30:00Z"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "Compal Introduces High-Density NVIDIA HGX Rubin NVL8 Integrated Solution at GTC 2026",
+            "url": "https://www.hpcwire.com/off-the-wire/compal-introduces-high-density-nvidia-hgx-rubin-nvl8-integrated-solution-at-gtc-2026/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2026/03/1000004802-scaled.jpg",
+            "publishedAt": "2026-03-18 00:21:38"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Nvidia sales opportunity for Blackwell, Rubin chips more than $1 trillion by 2027",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/18/nvidia-sales-opportunity-for-blackwell-rubin-chips-more-than-1-trillion-by-2027",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/18/3818820.jpg",
+            "publishedAt": "2026-03-17T23:49:00Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -1755,6 +1824,15 @@
         },
         {
             "source": {
+                "name": "hpcwire"
+            },
+            "title": "Nvidia Details Its Healthcare AI Stack at GTC",
+            "url": "https://www.hpcwire.com/2026/03/17/nvidia-details-its-healthcare-ai-stack-at-gtc/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2026/03/life-sciences-shutterstock_2147469069.jpg",
+            "publishedAt": "2026-03-17 23:59:35"
+        },
+        {
+            "source": {
                 "name": "mit"
             },
             "title": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
@@ -3390,90 +3468,6 @@
             "url": "https://www.expressandstar.com/your-world/2026/03/16/free-event-to-help-local-businesses-build-skills-in-ai-and-cybersecurity/",
             "urlToImage": "https://resizer.nationalworld.com/19f87049-5c3e-4b2c-a653-f1feade41906.jpg?tr=w-1200",
             "publishedAt": "2026-03-16T08:18:41Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Moody's economist Mark Zandi on thousands of layoffs at Jack Dorsey's Block; If companies cut workers as Block did, outright job losses appear to be ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/moodys-economist-mark-zandi-on-thousands-of-layoffs-at-jack-dorseys-block-if-companies-cut-workers-as-block-did-outright-job-losses-appear-to-be-/articleshow/129604009.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129603999,width-1280,height-720,imgsize-44860,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-16T07:58:00Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "The More I Look At Quantum Computing, The More I Like It: Upgrading To “Buy” (QUBT)",
-            "url": "https://seekingalpha.com/article/4882617-more-i-look-at-quantum-computing-more-i-like-it-upgrading-to-buy",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254534450/image_2254534450.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-03-16T07:48:04Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Foxconn Quarterly Profit Falls Despite Higher Revenue",
-            "url": "https://www.marketscreener.com/news/foxconn-quarterly-profit-falls-despite-higher-revenue-ce7e5edad880f62c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-03-16T07:08:24Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "South Korea in early talks with Anthropic on AI cooperation",
-            "url": "https://www.tribuneindia.com/news/business/south-korea-in-early-talks-with-anthropic-on-ai-cooperation/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY0OGZiZDkwLTIxMDUtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-03-16T07:01:23Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "AI vs jobs: Atlassian India employee got promoted and fired within 24 hours",
-            "url": "https://www.indiatoday.in/jobs/story/ai-vs-jobs-atlassian-india-employee-got-promoted-and-fired-within-24-hours-2882594-2026-03-16",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/atlassian-layoffs-16505263-16x9_0.png?VersionId=ncKo9VAmYgy2Nx3qSPEldPnvaVIwPDvf",
-            "publishedAt": "2026-03-16T06:55:20Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "China Eyes Smarter Tax Enforcement Through AI and Structured Risk Analysis",
-            "url": "https://www.devdiscourse.com/article/technology/3836468-china-eyes-smarter-tax-enforcement-through-ai-and-structured-risk-analysis",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_03_2026_09_44_58_10738.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-16T06:53:29Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "LigoLab Highlights AI and Automation Insights at LigoVerse 2026",
-            "url": "https://www.manilatimes.net/2026/03/16/tmt-newswire/globenewswire/ligolab-highlights-ai-and-automation-insights-at-ligoverse-2026/2300440",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/16/974144.png",
-            "publishedAt": "2026-03-16T06:49:36Z"
         }
     ]
 }
