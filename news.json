@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-03-19T18:52:11.022906Z",
+    "lastUpdatedAt": "2026-03-19T19:42:55.034859Z",
     "articles": [
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "US government registers aliens.gov domain after Trump's UFO files claim",
+            "url": "https://www.cnbctv18.com/world/us-government-registers-aliens-gov-domain-after-trump-ufo-files-claim-ws-el-19871495.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/03/image-2026-03-3f85e209b11c8fc518f215a732a78d59.jpg?im=FitAndFill,width=500,height=300",
+            "publishedAt": "2026-03-19T07:41:59Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "STL Digital Unveils Securennov: A Next-Gen Cybersecurity Solution",
+            "url": "https://www.devdiscourse.com/article/technology/3842981-stl-digital-unveils-securennov-a-next-gen-cybersecurity-solution",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=920&format=jpeg",
+            "publishedAt": "2026-03-19T07:34:54Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "STL Digital Launches Securennov™, a Next",
+            "url": "https://www.tribuneindia.com/news/business/stl-digital-launches-securennov-a-next-gen-cybersecurity-suite/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE5MTQ0M2YwLTIzNjYtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+            "publishedAt": "2026-03-19T07:33:19Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI warfare: How China is integrating tech into aerial refuelling after deadly US tanker crash",
+            "url": "https://timesofindia.indiatimes.com/defence/international/ai-warfare-how-china-is-integrating-tech-into-aerial-refuelling-after-deadly-us-tanker-crash/articleshow/129672922.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129673389,width-1280,height-720,imgsize-1117154,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-19T07:21:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "EU moves to ban AI that creates nonconsensual sexual images",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/19/eu-moves-to-ban-ai-that-creates-nonconsensual-sexual-images",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/19/3821112.JPG",
+            "publishedAt": "2026-03-19T07:00:00Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -324,6 +384,33 @@
             "url": "https://techbullion.com/what-to-look-for-in-dealer-ai-software/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/68d421347adab49160ed8363_Whisk_7cb8af5e8e08bab80224af6ef4dc694ddr-1000x600.jpeg",
             "publishedAt": "2026-03-19T00:09:53Z"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Tencent Cloud and 3D AI Studio Scale Generative AI 3D Content Creation Following Strategic Partnership",
+            "url": "https://www.prnewswire.com/apac/news-releases/tencent-cloud-and-3d-ai-studio-scale-generative-ai-3d-content-creation-following-strategic-partnership-302718207.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2937680/Tencent_Cloud_x_3D_AI_Studio.jpg?p=original",
+            "publishedAt": "2026-03-19 07:00:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Tencent Cloud and 3D AI Studio Scale Generative AI 3D Content Creation Following Strategic Partnership",
+            "url": "https://en.prnasia.com/story/525934-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2937680/Tencent_Cloud_x_3D_AI_Studio.jpg?p=medium600",
+            "publishedAt": "2026-03-19 07:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Tencent Cloud and 3D AI Studio Scale Generative AI 3D Content Creation Following Strategic Partnership",
+            "url": "https://www.prnewswire.com/news-releases/tencent-cloud-and-3d-ai-studio-scale-generative-ai-3d-content-creation-following-strategic-partnership-302718208.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2936895/Tencent_Cloud_x_3D_AI_Studio.jpg?p=publish",
+            "publishedAt": "2026-03-19 07:00:00"
         },
         {
             "source": {
@@ -3360,102 +3447,6 @@
             "url": "https://www.prnewswire.co.uk/news-releases/finastra-strengthens-ai-capabilities-with-new-center-of-excellence-and-leadership-appointment-302715901.html",
             "urlToImage": "https://mma.prnewswire.com/media/2935818/Chris_McClellen.jpg?p=facebook",
             "publishedAt": "2026-03-17T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Nvidia bets on revenue hitting US$1 trillion",
-            "url": "https://www.bnnbloomberg.ca/business/2026/03/17/nvidia-bets-on-ai-inference-as-chip-revenue-opportunity-hits-us1-trillion/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/YHA7TKPJZW66G6DXTKWJHH4BE4.jpg?smart=true&auth=37825b7bc618f08d955e76da30f7da7cbaf12fd52a57affb922a95a409fb401d&width=1200&height=630",
-            "publishedAt": "2026-03-17T12:51:57Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Israeli cyber firm Surf AI raises $57 million in private funding round",
-            "url": "https://economictimes.indiatimes.com/tech/funding/israeli-cyber-firm-surf-ai-raises-57-million-in-private-funding-round/articleshow/129633287.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-12472,resizemode-75,msid-129633287/tech/funding/israeli-cyber-firm-surf-ai-raises-57-million-in-private-funding-round.jpg",
-            "publishedAt": "2026-03-17T12:49:09Z"
-        },
-        {
-            "source": {
-                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
-                "name": "The Philadelphia Inquirer",
-                "url": "https://www.inquirer.com",
-                "country": "us"
-            },
-            "title": "David Tudor, the West Philly native who made music with 'AI' before AI was a thing",
-            "url": "https://www.inquirer.com/arts/david-tudor-centenary-exhibition-drexel-20260317.html",
-            "urlToImage": "https://www.inquirer.com/resizer/v2/ZNCX2CY37FE7NG4JXQ3BDJMTLA.jpg?auth=99c4ef849bca3cf6f2b9156cfbd8ef4bcc6a1a13e2c15402f0aebda3372d4178&width=760&height=507&smart=true",
-            "publishedAt": "2026-03-17T12:01:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Cycurion, Inc. Statement Regarding Unauthorized Press Release, Fabrication of Investor Relations Contact, and Related Market Activity - Litigation Counsel Engaged to Address Short Selling and Manipula",
-            "url": "https://www.manilatimes.net/2026/03/17/tmt-newswire/globenewswire/cycurion-inc-statement-regarding-unauthorized-press-release-fabrication-of-investor-relations-contact-and-related-market-activity-litigation-counsel-engaged-to-address-short-selling-and-manipulation/2301671",
-            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-03-17T11:59:08Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Zerodha's Nithin Kamath Questions Banking App Permissions, Calls for Privacy-First Security",
-            "url": "https://www.ndtvprofit.com/business/zerodhas-nithin-kamath-questions-banking-app-permissions-calls-for-privacy-first-security-11227829",
-            "urlToImage": "https://c.ndtvimg.com/2026-03/7t25nbj_nithin-kamath_625x300_17_March_26.png?im=FitAndFill,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-03-17T11:28:14Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Man Created AI Reel With Nitish Kumar's Son And MLA Maithili Thakur, Arrested",
-            "url": "https://www.ndtv.com/india-news/man-created-ai-reel-with-nitish-kumars-son-nishant-kumar-and-mla-maithili-thakur-arrested-11227795",
-            "urlToImage": "https://c.ndtvimg.com/2026-03/lf9j5nes_gaya-arrest-_625x300_17_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2026-03-17T11:22:52Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "AI-First Branding: How Machine Learning Is Reshaping Brand Identity",
-            "url": "https://techbullion.com/ai-first-branding-how-machine-learning-is-reshaping-brand-identity/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/CE3A246D-3731-45CE-981B-5A125F2541C9-1000x600.png",
-            "publishedAt": "2026-03-17T11:19:27Z"
-        },
-        {
-            "source": {
-                "id": "3d24c816061d69b2e23b8583aed9b447",
-                "name": "Euronews",
-                "url": "https://www.euronews.com",
-                "country": "fr"
-            },
-            "title": "Nvidia forecasts $1tn in AI-driven orders by 2027",
-            "url": "https://www.euronews.com/business/2026/03/17/nvidia-forecasts-1tn-in-ai-driven-orders-by-2027",
-            "urlToImage": "https://images.euronews.com/articles/stories/09/68/83/55/1200x675_cmsv2_0fad8f3d-d9e4-5bd5-b7dd-2bcc1b9a6aa2-9688355.jpg",
-            "publishedAt": "2026-03-17T11:05:04Z"
         }
     ]
 }
