@@ -1,6 +1,150 @@
 {
-    "lastUpdatedAt": "2026-03-19T01:54:18.239741Z",
+    "lastUpdatedAt": "2026-03-19T04:20:54.395917Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Chicken Soup for the Soul publisher sues tech companies over AI training",
+            "url": "https://www.reuters.com/legal/transactional/chicken-soup-soul-publisher-sues-tech-companies-over-ai-training-2026-03-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/SQUZXZF6CZMMTPIENRGTEBHGXM.jpg?auth=f4fdf86b19ee647ec415d1fa3c35b82eaf6f4422da7d57d8933252a7668d5619&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-18T16:19:38Z"
+        },
+        {
+            "source": {
+                "id": "911cd82c5544b3cdb8eaa024eb17b8b5",
+                "name": "FOX 9",
+                "url": "https://www.fox9.com",
+                "country": "us"
+            },
+            "title": "More tech layoffs: Dell cuts 10% of workforce in past fiscal year",
+            "url": "https://www.fox9.com/news/more-tech-layoffs-dell-cuts-10-workforce-past-fiscal-year",
+            "urlToImage": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/03/1200/630/dell-headquarters.jpg?ve=1&tl=1",
+            "publishedAt": "2026-03-18T16:17:56Z"
+        },
+        {
+            "source": {
+                "id": "4bff0292330df9581a5e2014068ca2d2",
+                "name": "FOX 4 News",
+                "url": "https://www.fox4news.com",
+                "country": "us"
+            },
+            "title": "More tech layoffs: Dell cuts 10% of workforce in past fiscal year",
+            "url": "https://www.fox4news.com/news/more-tech-layoffs-dell-cuts-10-workforce-past-fiscal-year",
+            "urlToImage": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/03/1200/630/dell-headquarters.jpg?ve=1&tl=1",
+            "publishedAt": "2026-03-18T16:17:56Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/19/bmg-sues-anthropic-for-using-bruno-mars-rolling-stones-lyrics-in-ai-training",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/19/3820495.jpg",
+            "publishedAt": "2026-03-18T16:16:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training",
+            "url": "https://www.reuters.com/legal/litigation/bmg-sues-anthropic-using-bruno-mars-rolling-stones-lyrics-ai-training-2026-03-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/SOESZCJWSVJKTD7SJPQE6PWP7U.jpg?auth=d6627d71bd5f54ff59b3f63d254c0b1d51eba48b1d99a1aa2207f3059b11b569&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-18T16:09:13Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "AI expert: Political will vital in advancing proactive health care",
+            "url": "https://www.manilatimes.net/2026/03/19/news/national/ai-expert-political-will-vital-in-advancing-proactive-health-care/2302956",
+            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-03-18T16:09:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036",
+            "url": "https://www.manilatimes.net/2026/03/19/business/foreign-business/amazon-ceo-sees-ai-doubling-prior-aws-sales-projections-to-600-billion-by-2036/2303030",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/18/978776.jpg",
+            "publishedAt": "2026-03-18T16:09:00Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Threats to art, culture discussed at summit",
+            "url": "https://www.cp24.com/news/canada/2026/03/18/national-summit-on-ai-culture-openly-discusses-potential-threats-to-canadian-artists/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/AUP2QWHHWVHTDK57I5QGSUJG6Y.JPG?smart=true&auth=1595731cd141ad2883f98f6f6bcbb6bc53d756bc4326c82d30be6e2c0a0f09c5&width=1200&height=630",
+            "publishedAt": "2026-03-18T16:08:57Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training",
+            "url": "https://www.marketscreener.com/news/bmg-sues-anthropic-for-using-bruno-mars-rolling-stones-lyrics-in-ai-training-ce7e5ed9dd88f222",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-18T160933Z_2_LYNXMPEM2H12Z_RTROPTP_4_BMG-ANTHROPIC-COPYRIGHT-LAWSUIT.JPG",
+            "publishedAt": "2026-03-18T16:07:36Z"
+        },
+        {
+            "source": {
+                "id": "9ab210a1da58b160b3d40bd353f54b38",
+                "name": "St. Paul Pioneer Press",
+                "url": "https://www.twincities.com",
+                "country": "us"
+            },
+            "title": "Cryptocurrency, AI tested influence in Illinois. It didn't go well",
+            "url": "https://www.twincities.com/2026/03/18/election-2026-tech-illinois/",
+            "urlToImage": "https://www.twincities.com/wp-content/uploads/2026/03/US_Election_2026_Illinois_11283-1.jpg?w=1024&h=683",
+            "publishedAt": "2026-03-18T16:05:36Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Smaller businesses overlooking printer security face rising data risks: HP report",
+            "url": "https://timesofindia.indiatimes.com/technology/appliances/smaller-businesses-overlooking-printer-security-face-rising-data-risks-hp-report/articleshow/129660637.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129660647,width-1280,height-720,imgsize-45380,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-18T15:52:00Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "AI Hacks Up 89%, Cloud Attacks Up 266%",
+            "url": "https://www.benzinga.com/etfs/sector-etfs/26/03/51335526/ai-hacks-cloud-attacks-cybersecurity-etfs",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/03/18/Cybersecurity-Phishing-Scam-Hacker-Conce.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-03-18T14:16:00Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -1128,6 +1272,87 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014100",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014100.g005&size=inline",
             "publishedAt": "2026-03-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "invenglobal"
+            },
+            "title": "NVIDIA Signs Strategic Partnership With Adobe",
+            "url": "https://www.invenglobal.com/articles/20322/nvidia-signs-strategic-partnership-with-adobe",
+            "urlToImage": "https://static.invenglobal.com/upload/image/2026/03/18/i1773849881242801.jpeg",
+            "publishedAt": "2026-03-18 16:06:29"
+        },
+        {
+            "source": {
+                "name": "businesswire"
+            },
+            "title": "Dyno Therapeutics Launches Dyno Psi-Phi, an Agentic AI Suite for Protein Binder Design, at NVIDIA GTC 2026",
+            "url": "http://www.businesswire.com/news/home/20260318369291/en/Dyno-Therapeutics-Launches-Dyno-Psi-Phi-an-Agentic-AI-Suite-for-Protein-Binder-Design-at-NVIDIA-GTC-2026/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
+            "urlToImage": "https://mms.businesswire.com/media/20260318369291/en/2750812/22/Dyno2025LogoBlack_%281%29.jpg",
+            "publishedAt": "2026-03-18 16:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Global Data Center Market Enters High-Growth Era Driven by Artificial Intelligence",
+            "url": "https://www.prnewswire.com/news-releases/global-data-center-market-enters-high-growth-era-driven-by-artificial-intelligence-302717660.html",
+            "urlToImage": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=original",
+            "publishedAt": "2026-03-18 15:51:00"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Global Data Center Market Enters High-Growth Era Driven By Artificial Intelligence",
+            "url": "https://menafn.com/1110879807/Global-Data-Center-Market-Enters-High-Growth-Era-Driven-By-Artificial-Intelligence",
+            "urlToImage": "https://menafn.com/includes/img/logo.jpg",
+            "publishedAt": "2026-03-18 15:05:32"
+        },
+        {
+            "source": {
+                "name": "livescience"
+            },
+            "title": "New AI image generator runs using 10 times fewer steps than today's best models — and it's coming to smartphones and laptops",
+            "url": "https://www.livescience.com/technology/artificial-intelligence/new-ai-image-generator-runs-using-10-times-fewer-steps-than-todays-best-models-and-its-coming-to-smartphones-and-laptops",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/c5PghMUwPdw6SfiTST3phj-1280-80.jpg",
+            "publishedAt": "2026-03-18 15:00:00"
+        },
+        {
+            "source": {
+                "name": "windowscentral"
+            },
+            "title": "My favorite free Windows 11 app just got another great update — what's new in PowerToys v0.98",
+            "url": "https://www.windowscentral.com/software-apps/my-favorite-free-windows-11-app-just-got-another-great-update-whats-new-in-powertoys-v0-98",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WmYpAKCRKqdWGmmtDsSaZ5-1280-80.jpg",
+            "publishedAt": "2026-03-18 14:23:33"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "AI Data Center Market worth $2,023.52 billion by 2032 - Exclusive Report by MarketsandMarketsTM",
+            "url": "https://www.prnewswire.com/news-releases/ai-data-center-market-worth-2-023-52-billion-by-2032---exclusive-report-by-marketsandmarkets-302717347.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1868219/MarketsandMarkets_Logo.jpg?p=original",
+            "publishedAt": "2026-03-18 14:15:00"
+        },
+        {
+            "source": {
+                "name": "business2business_co_in"
+            },
+            "title": "Amazon commits $230 million to support emerging generative AI startups - b2b",
+            "url": "https://www.business2business.co.in/article/5171/amazon-commits-230-million-to-support-emerging-generative-ai-startups",
+            "urlToImage": "https://business2business.co.in/uploads/2024/06/df473baaab4b5ccf516d72790dfc74b9.jpeg",
+            "publishedAt": "2026-03-18 14:14:29"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Reply announces a partnership with Mistral AI to develop sovereign and enterprise-grade artificial intelligence solutions",
+            "url": "https://www.prnewswire.com/news-releases/reply-announces-a-partnership-with-mistral-ai-to-develop-sovereign-and-enterprise-grade-artificial-intelligence-solutions-302716256.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2618584/Reply_Logo.jpg?p=original",
+            "publishedAt": "2026-03-18 14:00:00"
         },
         {
             "source": {
@@ -3234,195 +3459,6 @@
             "url": "https://www.techradar.com/computing/gpu/i-thought-this-video-was-an-april-fools-joke-but-its-still-march-nvidia-reveals-dlss-5-to-supercharge-graphics-with-ai-and-the-hate-pours-forth",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/iH6Sehz2iwz8bH5Yrpprb6-1280-80.jpg",
             "publishedAt": "2026-03-17 12:39:31"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Adobe and NVIDIA Announce Strategic Partnership to Deliver the Next Generation of Firefly Models and Creative, Marketing and Agentic Workflows",
-            "url": "https://www.analyticsinsight.net/press-release/adobe-and-nvidia-announce-strategic-partnership-to-deliver-the-next-generation-of-firefly-models-and-creative-marketing-and-agentic-workflows",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-03-17/wir3bikl/Adobe-and-NVIDIA-Partership.jpg",
-            "publishedAt": "2026-03-17 12:33:27"
-        },
-        {
-            "source": {
-                "name": "newsable_asianetnews"
-            },
-            "title": "AI infrastructure demand to hit $1 trillion by 2027, says Nvidia CEO",
-            "url": "https://newsable.asianetnews.com/business/ai-infrastructure-demand-to-hit-1-trillion-by-2027-says-nvidia-ceo-articleshow-sdtiqzc",
-            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-e61756f4-a126-478b-85e6-8e502446589b.jpg",
-            "publishedAt": "2026-03-17 12:00:52"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "HOPPRTM AI Foundry Expands Medical Imaging AI With NVIDIA Accelerated Computing and Foundation Models",
-            "url": "https://www.prnewswire.com/news-releases/hoppr-ai-foundry-expands-medical-imaging-ai-with-nvidia-accelerated-computing-and-foundation-models-302715509.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2712053/HOPPR_logo.jpg?p=original",
-            "publishedAt": "2026-03-17 12:00:00"
-        },
-        {
-            "source": {
-                "name": "socialsamosa"
-            },
-            "title": "Adobe and NVIDIA partner to build next-gen AI creative and marketing tools",
-            "url": "https://www.socialsamosa.com/industry-updates/adobe-nvidia-partner-next-gen-ai-creative-marketing-tools-11221073",
-            "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/socialsamosa/media/media_files/2026/03/17/40-1-2026-03-17-16-30-28.jpg",
-            "publishedAt": "2026-03-17 11:00:35"
-        },
-        {
-            "source": {
-                "name": "artificialintelligence_news"
-            },
-            "title": "Goldman Sachs sees AI investment shift to data centres",
-            "url": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
-            "urlToImage": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/Goldman-Sachs-sees-AI-investment-shift-to-data-centres-scaled-e1773724963206.jpg",
-            "publishedAt": "2026-03-17 10:00:00"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "GTC 2026: Jensen Huang’s AI future goes beyond just chat",
-            "url": "https://www.digit.in/features/general/nvidia-gtc-2026-jensen-huang-ai-future-goes-beyond-just-chat.html",
-            "urlToImage": "https://static.digit.in/jensen-huang-nvidia-gtc-2026.png",
-            "publishedAt": "2026-03-17 09:50:31"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Persistent Launches AI-Powered Generative Molecules and Virtual Screening Solution Powered by NVIDIA",
-            "url": "https://www.prnewswire.com/news-releases/persistent-launches-ai-powered-generative-molecules-and-virtual-screening-solution-powered-by-nvidia-302715826.html",
-            "urlToImage": "https://mma.prnewswire.com/media/1022385/5725639/Persistent_Systems_Logo.jpg?p=publish",
-            "publishedAt": "2026-03-17 09:28:00"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "NetApp targets E-Series at AI and neoclouds with EF50 and EF80",
-            "url": "https://www.computerweekly.com/news/366640454/NetApp-targets-E-Series-at-AI-era-with-EF50-and-EF80",
-            "urlToImage": "https://cdn.ttgtmedia.com/visuals/German/article/GPU-datacentre-2-adobe.jpg",
-            "publishedAt": "2026-03-17 09:00:00"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "Groq 3 LPU, Vera CPU, DLSS 5: Every major announcement from Jensen Huang’s keynote at Nvidia GTC 2026",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/every-major-reveal-nvidia-gtc-2026-jensen-huang-keynote-10586373/",
-            "urlToImage": "https://images.indianexpress.com/2026/03/Tech-featured-image162.jpg",
-            "publishedAt": "2026-03-17 08:53:10"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | Fractal Introduces LLM Studio to Bring Enterprise-Grade GenAI Customization with NVIDIA NeMo and NVIDIA NIM Microservices",
-            "url": "https://www.latestly.com/agency-news/business-news-fractal-introduces-llm-studio-to-bring-enterprise-grade-genai-customization-with-nvidia-nemo-and-nvidia-nim-microservices-7357324.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/03/ANI-20260317075906.jpg",
-            "publishedAt": "2026-03-17 08:20:25"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "HOPPRTM AI Foundry Expands Medical Imaging AI With NVIDIA Accelerated Computing And Foundation Models",
-            "url": "https://menafn.com/1110872040/HOPPRTM-AI-Foundry-Expands-Medical-Imaging-AI-With-NVIDIA-Accelerated-Computing-And-Foundation-Models",
-            "urlToImage": "https://menafn.com/includes/img/logo.jpg",
-            "publishedAt": "2026-03-17 08:01:43"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "Fractal Introduces LLM Studio to Bring Enterprise-Grade GenAI Customization with NVIDIA NeMo and NVIDIA NIM Microservices",
-            "url": "https://www.prnewswire.com/apac/news-releases/fractal-introduces-llm-studio-to-bring-enterprise-grade-genai-customization-with-nvidia-nemo-and-nvidia-nim-microservices-302715727.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2931510/5858548/Fractal_Logo.jpg?p=publish",
-            "publishedAt": "2026-03-17 07:52:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Fractal Introduces LLM Studio to Bring Enterprise-Grade GenAI Customization with NVIDIA NeMo and NVIDIA NIM Microservices",
-            "url": "https://www.prnewswire.com/news-releases/fractal-introduces-llm-studio-to-bring-enterprise-grade-genai-customization-with-nvidia-nemo-and-nvidia-nim-microservices-302715700.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2931510/5858548/Fractal_Logo.jpg?p=publish",
-            "publishedAt": "2026-03-17 07:31:00"
-        },
-        {
-            "source": {
-                "name": "norfolkdailynews"
-            },
-            "title": "Fractal Introduces LLM Studio to Bring Enterprise-Grade GenAI Customization with NVIDIA NeMo and NVIDIA NIM Microservices",
-            "url": "https://norfolkdailynews.com/online_features/press_releases/fractal-introduces-llm-studio-to-bring-enterprise-grade-genai-customization-with-nvidia-nemo-and-nvidia/article_8fb4bc36-c57b-5fc4-867b-deb5859bc87f.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/f/8d/f8dffdbe-2a07-5779-943a-ed20935f042d/69b912c3a227b.image.jpg?resize=200%2C200",
-            "publishedAt": "2026-03-17 07:31:00"
-        },
-        {
-            "source": {
-                "name": "businesstoday"
-            },
-            "title": "TCS launches AI platform powered by Nvidia to speed enterprise adoption",
-            "url": "https://www.businesstoday.in/technology/story/tcs-launches-ai-platform-powered-by-nvidia-to-speed-enterprise-adoption-520929-2026-03-17",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202603/69b9021fea1a9-tcs-said-the-platform-includes-tools-for-predictive-analytics--generative-ai--computer-vision-and-so-172618439-16x9.png?size=1280:720",
-            "publishedAt": "2026-03-17 07:29:14"
-        },
-        {
-            "source": {
-                "name": "ndtv"
-            },
-            "title": "TCS Collaborates With Nvidia To Launch AI Platform 'TCS Rapid Outcome AI'",
-            "url": "https://www.ndtvprofit.com/business/tcs-collaborates-with-nvidia-for-ai-driven-platform-launches-tcs-rapid-outcome-ai-for-enterprises-11226327",
-            "urlToImage": "https://c.ndtvimg.com/2025-11/a58384n_tcs-layoffs_625x300_17_November_25.jpg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-03-17 06:50:47"
-        },
-        {
-            "source": {
-                "name": "moneycontrol"
-            },
-            "title": "India may corner more of global data centre market amid Gulf crisis",
-            "url": "https://www.moneycontrol.com/news/business/india-may-corner-more-of-global-data-centre-market-amid-gulf-crisis-13861686.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/02/20260205111356_data-centre-rep.jpg",
-            "publishedAt": "2026-03-17 06:42:52"
-        },
-        {
-            "source": {
-                "name": "the_tob"
-            },
-            "title": "Kioxia Announces New SSD Model Optimized for AI GPU-Initiated Workloads",
-            "url": "https://www.thetimesofbengal.com/national/kioxia-announces-new-ssd-model-optimized-for-ai-gpu-initiated-workloads/",
-            "urlToImage": "https://www.thetimesofbengal.com/wp-content/uploads/2026/03/06ddd3df-b27e-4315-83e6-90df4d9da919.jpg",
-            "publishedAt": "2026-03-17 06:24:27"
-        },
-        {
-            "source": {
-                "name": "norfolkdailynews"
-            },
-            "title": "Compal Introduces High-Density NVIDIA HGXTM Rubin NVL8 Integrated Solution at GTC 2026",
-            "url": "https://norfolkdailynews.com/online_features/press_releases/compal-introduces-high-density-nvidia-hgx-rubin-nvl8-integrated-solution-at-gtc-2026/article_ba7d8d04-ab9d-5567-815a-78d9103b2002.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/c/83/c83b6858-b932-5dbf-8e0c-acf822ccc894/69b8f645603c3.image.jpg?crop=225%2C225%2C87%2C0&resize=200%2C200&order=crop%2Cresize",
-            "publishedAt": "2026-03-17 06:19:00"
-        },
-        {
-            "source": {
-                "name": "norfolkdailynews"
-            },
-            "title": "CloudMile Showcases the Future of Agentic AI at AI+ Renaissance 2026, Positioning Asia as the Global Foundry for Enterprise AI Assets",
-            "url": "https://norfolkdailynews.com/online_features/press_releases/cloudmile-showcases-the-future-of-agentic-ai-at-ai-renaissance-2026-positioning-asia-as-the/article_c607916b-7a81-5e92-95b9-c90eb06feacc.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/custom/image/72aed2a4-e15d-11e5-99a9-77342f37c000.jpg?resize=600%2C315",
-            "publishedAt": "2026-03-17 05:30:03"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "Nvidia lets its 'claws' out: NemoClaw brings security, scale to the agent platform taking over AI",
-            "url": "https://venturebeat.com/technology/nvidia-lets-its-claws-out-nemoclaw-brings-security-scale-to-the-agent",
-            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/6g0TY4IIzzdII3HUQzogRU/f4318bdd98411cb0fdfd9191fb5c2125/Gemini_Generated_Image_bdsrvubdsrvubdsr.png?w=800&q=75",
-            "publishedAt": "2026-03-17 04:00:00"
         }
     ]
 }
