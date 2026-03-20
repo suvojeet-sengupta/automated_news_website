@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-03-20T07:42:26.778566Z",
+    "lastUpdatedAt": "2026-03-20T08:35:42.893115Z",
     "articles": [
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Hochul admits she uses AI ‘lightly’ at the office — including to figure out NY gas prices",
+            "url": "https://nypost.com/2026/03/19/us-news/hochul-admits-she-uses-ai-lightly-at-the-office-including-to-figure-out-ny-gas-prices/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/03/newspress-collage-wxi10c18w-1773950379218.jpg?quality=75&strip=all&1773936001&w=1200",
+            "publishedAt": "2026-03-19T20:02:50Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Your ID on the Blockchain Can Fight Tinder Fakes",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-03-19/your-id-on-the-blockchain-can-fight-tinder-fakes",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHNIlOlu_aSc/v1/1200x800.jpg",
+            "publishedAt": "2026-03-19T20:00:04Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Nvidia’s DLSS 5 is the (glossy) subject of memes and backlash from gamers",
+            "url": "https://japantoday.com/category/tech/nvidia%E2%80%99s-dlss-5-is-the-(glossy)-subject-of-memes-and-backlash-from-gamers",
+            "urlToImage": "https://media.japantoday.com/img/store/7e/6d/f40898e344ae2a0e12c1f615cdfbd9664e84/download-1/_w1700.jpeg",
+            "publishedAt": "2026-03-19T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Jeff Bezos Seeks to Raise $100 Billion for AI Manufacturing Fund",
+            "url": "https://www.marketscreener.com/news/jeff-bezos-seeks-to-raise-100-billion-for-ai-manufacturing-fund-ce7e5eded18bfe26",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-03-19T19:52:19Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -1272,6 +1320,15 @@
             "url": "https://techbullion.com/what-to-look-for-in-dealer-ai-software/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/68d421347adab49160ed8363_Whisk_7cb8af5e8e08bab80224af6ef4dc694ddr-1000x600.jpeg",
             "publishedAt": "2026-03-19T00:09:53Z"
+        },
+        {
+            "source": {
+                "name": "informationweek"
+            },
+            "title": "Why CIOs can't let users wait on IT",
+            "url": "https://www.informationweek.com/it-leadership/why-cios-can-t-let-users-wait-on-it",
+            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt1db6a5a5ea35c3a9/69bc48e079ee6b79399e087d/032026_citizendevelopment_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+            "publishedAt": "2026-03-19 20:30:59"
         },
         {
             "source": {
@@ -3429,51 +3486,6 @@
             "url": "https://fortune.com/2026/03/18/how-lumen-technologies-is-using-ai-to-help-cut-1-billion-in-network-costs/",
             "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Jim-Fowler-headshot-copy-e1773850250258.jpeg?w=2048",
             "publishedAt": "2026-03-18 16:31:02"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "The AI workforce is now ‘hirable’: How Nvidia is rewiring healthcare from the inside out",
-            "url": "https://siliconangle.com/2026/03/18/ai-workforce-now-hirable-nvidia-rewiring-healthcare-inside/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Kim-Powell.jpg",
-            "publishedAt": "2026-03-18 16:27:20"
-        },
-        {
-            "source": {
-                "name": "invenglobal"
-            },
-            "title": "NVIDIA Signs Strategic Partnership With Adobe",
-            "url": "https://www.invenglobal.com/articles/20322/nvidia-signs-strategic-partnership-with-adobe",
-            "urlToImage": "https://static.invenglobal.com/upload/image/2026/03/18/i1773849881242801.jpeg",
-            "publishedAt": "2026-03-18 16:06:29"
-        },
-        {
-            "source": {
-                "name": "businesswire"
-            },
-            "title": "Dyno Therapeutics Launches Dyno Psi-Phi, an Agentic AI Suite for Protein Binder Design, at NVIDIA GTC 2026",
-            "url": "http://www.businesswire.com/news/home/20260318369291/en/Dyno-Therapeutics-Launches-Dyno-Psi-Phi-an-Agentic-AI-Suite-for-Protein-Binder-Design-at-NVIDIA-GTC-2026/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
-            "urlToImage": "https://mms.businesswire.com/media/20260318369291/en/2750812/22/Dyno2025LogoBlack_%281%29.jpg",
-            "publishedAt": "2026-03-18 16:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Global Data Center Market Enters High-Growth Era Driven by Artificial Intelligence",
-            "url": "https://www.prnewswire.com/news-releases/global-data-center-market-enters-high-growth-era-driven-by-artificial-intelligence-302717660.html",
-            "urlToImage": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=original",
-            "publishedAt": "2026-03-18 15:51:00"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "Global Data Center Market Enters High-Growth Era Driven By Artificial Intelligence",
-            "url": "https://menafn.com/1110879807/Global-Data-Center-Market-Enters-High-Growth-Era-Driven-By-Artificial-Intelligence",
-            "urlToImage": "https://menafn.com/includes/img/logo.jpg",
-            "publishedAt": "2026-03-18 15:05:32"
         }
     ]
 }
