@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-03-20T16:37:59.374559Z",
+    "lastUpdatedAt": "2026-03-20T17:32:23.902707Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Accenture’s AI momentum strong, but revenue growth signals caution for IT sector: Sudip Bandyopadhyay",
+            "url": "https://economictimes.indiatimes.com/markets/expert-view/accentures-ai-momentum-strong-but-revenue-growth-signals-caution-for-it-sector-sudip-bandyopadhyay/articleshow/129692697.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-129692678,width-1200,height-630,imgsize-19516,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-03-20T05:10:00Z"
+        },
         {
             "source": {
                 "id": "26269dbc42635df9af8c24f3cdab8e37",
@@ -264,6 +276,15 @@
             "url": "https://www.newsmax.com/politics/anthropic-ai-dhs/2026/03/19/id/1250140/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=95bd2901-6767-4b4d-af83-1989b3353ced&SiteName=Newsmax",
             "publishedAt": "2026-03-20T00:08:19Z"
+        },
+        {
+            "source": {
+                "name": "firstpost"
+            },
+            "title": "AI bots could outnumber humans online by 2027, warns Cloudflare CEO",
+            "url": "https://www.firstpost.com/tech/ai-bots-could-outnumber-humans-online-by-2027-warns-cloudflare-ceo-13991445.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/03/Cloudfare-CEO-Prince-Matthew-2026-03-fadc62e5803f09fa6e836a46be578abf-1200x675.jpg",
+            "publishedAt": "2026-03-20 05:06:25"
         },
         {
             "source": {
@@ -3495,30 +3516,6 @@
             "url": "https://www.thehindu.com/sci-tech/technology/amazon-ceo-sees-ai-doubling-prior-aws-sales-projections-to-600-billion-by-2036/article70756604.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/bs40lm/article70756619.ece/alternates/LANDSCAPE_1200/2026-03-13T144220Z_1177514508_RC2KP6A9SKCB_RTRMADP_3_CEREBRAS-AMAZON-COM.JPG",
             "publishedAt": "2026-03-18T06:23:05Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "PNP sets limits on AI use; warns public vs. malicious content",
-            "url": "https://manilastandard.net/news/314717209/pnp-sets-limits-on-ai-use-warns-public-vs-malicious-content.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2026/02/chief-pnp-jose-melencio-nartatez.jpg",
-            "publishedAt": "2026-03-18T06:05:32Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "PNP sets rules on cops’ AI use for online posts",
-            "url": "https://manilastandard.net/news/314717209/pnp-sets-rules-on-cops-ai-use-for-online-posts.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2026/02/chief-pnp-jose-melencio-nartatez.jpg",
-            "publishedAt": "2026-03-18T06:05:32Z"
         }
     ]
 }
