@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-03-20T12:51:29.108088Z",
+    "lastUpdatedAt": "2026-03-20T13:58:45.046785Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQBJ9uKBu.9Y/v0/1200x800.jpg",
+            "publishedAt": "2026-03-20T01:47:55Z"
+        },
         {
             "source": {
                 "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
@@ -132,6 +144,15 @@
             "url": "https://www.newsmax.com/politics/anthropic-ai-dhs/2026/03/19/id/1250140/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=95bd2901-6767-4b4d-af83-1989b3353ced&SiteName=Newsmax",
             "publishedAt": "2026-03-20T00:08:19Z"
+        },
+        {
+            "source": {
+                "name": "ndtv"
+            },
+            "title": "India's AI Future Is Bright, But Not Immediate",
+            "url": "https://www.ndtvprofit.com/economy/artificial-intelligence-india-ai-future-is-bright-but-not-immediate-11240396",
+            "urlToImage": "https://c.ndtvimg.com/2026-03/cdkm05_ai_625x300_20_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1080,height=607",
+            "publishedAt": "2026-03-20 01:00:01"
         },
         {
             "source": {
@@ -3498,30 +3519,6 @@
             "url": "https://www.naturalnews.com/2026-03-18-ai-data-centers-push-us-blackouts-water-shortages.html",
             "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/03/data-center-expansion-artificial-intelligence-infrastructure-electricity-demand-525-original.jpg",
             "publishedAt": "2026-03-18T04:29:33Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "Zerodha’s Nithin Kamath Reveals Why He Skips Net Banking Apps On Mobile",
-            "url": "https://www.news18.com/business/banking-finance/zerodhas-nithin-kamath-reveals-why-he-skips-net-banking-apps-on-mobile-ws-l-9983484.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/01/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2026-01-15T100453.772-2026-01-c45155761f1abb5053a2f931cb75f358-16x9.png",
-            "publishedAt": "2026-03-18T04:25:06Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Tencent Music Entertainment Shares Plunge on Guidance Miss, AI Fears",
-            "url": "https://www.marketscreener.com/news/tencent-music-entertainment-shares-plunge-on-guidance-miss-ai-fears-ce7e5ed8df8ef623",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-03-18T03:59:16Z"
         }
     ]
 }
