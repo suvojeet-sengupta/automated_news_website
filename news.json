@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-03-20T22:23:55.061177Z",
+    "lastUpdatedAt": "2026-03-20T23:25:00.444826Z",
     "articles": [
+        {
+            "source": {
+                "id": "3d24c816061d69b2e23b8583aed9b447",
+                "name": "Euronews",
+                "url": "https://www.euronews.com",
+                "country": "fr"
+            },
+            "title": "Europe seeks to turn talent and AI into a competitive advantage over US and China",
+            "url": "https://www.euronews.com/next/2026/03/20/europe-seeks-to-turn-talent-and-ai-into-a-competitive-advantage-over-us-and-china",
+            "urlToImage": "https://images.euronews.com/articles/stories/09/69/23/29/1200x675_cmsv2_d17f7cca-2ff4-52ae-91c8-59afc9999641-9692329.jpg",
+            "publishedAt": "2026-03-20T11:07:48Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Project Sunrise: Jeff Bezos's Blue Origin to build 51,000-satellite constellation",
+            "url": "https://www.indiatoday.in/science/story/project-sunrise-jeff-bezoss-blue-origin-to-build-51000-satellite-constellation-2884799-2026-03-20",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/jeff-bezos-205403224-16x9_0.jpg?VersionId=Ea7c3gl78d7MHpib9VPjfrGABb_0U28v",
+            "publishedAt": "2026-03-20T10:56:59Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "I AM SECURE launches cybersecurity push vs intelligent threats",
+            "url": "https://manilastandard.net/tech/314718120/i-am-secure-launches-cybersecurity-push-vs-intelligent-threats.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2026/03/isog-executives.jpg",
+            "publishedAt": "2026-03-20T10:50:00Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "Nvidia’s $20 billion Groq deal queried by Warren, Blumenthal",
+            "url": "https://www.spokesman.com/stories/2026/mar/20/nvidias-20-billion-groq-deal-queried-by-warren-blu/",
+            "urlToImage": "https://thumb.spokesman.com/AFu8ayI-zCttjUVUEkqIhtzBzsI=/1200x630/smart/media.spokesman.com/photos/2026/03/20/69bd9aed0eb12.hires.jpg",
+            "publishedAt": "2026-03-20T10:41:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Westport’s Statement on Cybersecurity Incident",
+            "url": "https://www.manilatimes.net/2026/03/20/tmt-newswire/globenewswire/westports-statement-on-cybersecurity-incident/2304338",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/20/981462.jpg",
+            "publishedAt": "2026-03-20T10:32:11Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -636,6 +696,42 @@
             "url": "https://www.caixinglobal.com/2026-03-20/in-depth-openclaw-craze-fuels-fresh-ai-ambitions-fears-in-china-102425383.html",
             "urlToImage": "https://img.caixin.com/2026-03-20/177400701905099_560_373.jpg",
             "publishedAt": "2026-03-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Amazon and OpenAI Forge Major Partnership: What it Means for the Future of AI",
+            "url": "https://techannouncer.com/amazon-and-openai-forge-major-partnership-what-it-means-for-the-future-of-ai/",
+            "urlToImage": "https://contenu.nyc3.cdn.digitaloceanspaces.com/journalist%2Ffb6d8ef2-2817-4813-b492-3dcee95cccbc%2Fthumbnail.jpeg",
+            "publishedAt": "2026-03-20 11:12:04"
+        },
+        {
+            "source": {
+                "name": "moneycontrol"
+            },
+            "title": "Amazon plans smartphone comeback more than a decade after Fire Phone flop",
+            "url": "https://www.moneycontrol.com/news/business/amazon-plans-smartphone-comeback-more-than-a-decade-after-fire-phone-flop-13866117.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/02/20260219091637_amazon-new.jpg",
+            "publishedAt": "2026-03-20 11:02:06"
+        },
+        {
+            "source": {
+                "name": "macworld"
+            },
+            "title": "WWDC 2026 guide: Expected date, how to watch and new product rumors",
+            "url": "https://www.macworld.com/article/678333/wwdc-ios-macos-watchos-hardware-keynote.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/03/WWDC-LOGO-2.jpg?quality=50&strip=all",
+            "publishedAt": "2026-03-20 11:01:30"
+        },
+        {
+            "source": {
+                "name": "fierce_network"
+            },
+            "title": "Podcast: Nvidia GTC highlights - Top AI & GPU news explained",
+            "url": "https://www.fierce-network.com//cloud/five-nine-nvidia-gtc-highlights-top-ai-gpu-announcements-explained",
+            "urlToImage": "https://qtxasset.com/quartz/qcloud4/oembed_thumbnails/hTZInmOMG6ntC00BiAwKxSmHW6fskX3VSXV6CbWmyjs.jpg?VersionId=.aDXwh_bhHfvqxtRPxBnOsL5XUSyV7Lm",
+            "publishedAt": "2026-03-20 10:33:00"
         },
         {
             "source": {
@@ -3384,114 +3480,6 @@
             "url": "https://www.thenews.com.pk/latest/1396088-ai-understands-human-emotionsbut-should-you-trust-it",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-18/1396088_041550_updates.jpg",
             "publishedAt": "2026-03-18T11:16:00Z"
-        },
-        {
-            "source": {
-                "id": "ca0ac0e9c1dc28f0363e86d46cc022aa",
-                "name": "Kiplinger",
-                "url": "https://www.kiplinger.com",
-                "country": "us"
-            },
-            "title": "5 Things to Know about the Pentagon-Anthropic Feud",
-            "url": "https://www.kiplinger.com/business/things-to-know-about-the-pentagon-anthropic-feud",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FEHvuiKF566tqdKWuA5bki-1024-80.jpg",
-            "publishedAt": "2026-03-18T11:15:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Powered Immigration, Work & Study Abroad Guidance",
-            "url": "https://www.tribuneindia.com/news/business/bengaluru-based-terratern-emerges-as-a-global-hub-for-ai-powered-immigration-work-study-abroad-guidance-2-2/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTllMjZkNWQwLTIyYmItMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-03-18T11:13:32Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Powered Immigration, Work & Study Abroad Guidance",
-            "url": "https://www.tribuneindia.com/news/business/bengaluru-based-terratern-emerges-as-a-global-hub-for-ai-powered-immigration-work-study-abroad-guidance/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE3NDAxMzYwLTIyYmItMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-03-18T11:10:30Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "AI Adoption Saved the Financial Sector $120 Billion in 2025: The ROI of Machine Learning in Finance",
-            "url": "https://techbullion.com/ai-adoption-saved-the-financial-sector-120-billion-in-2025-the-roi-of-machine-learning-in-finance/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/tb-412-v2-1000x504.jpg",
-            "publishedAt": "2026-03-18T10:50:48Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India uniquely placed in AI: Cognizant chief AI exec cites nation's tech",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-uniquely-placed-in-ai-cognizant-chief-ai-exec-cites-nations-tech-savvy-pool-deep-foundation/articleshow/129654194.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-53842,resizemode-75,msid-129654194/tech/artificial-intelligence/india-uniquely-placed-in-ai-cognizant-chief-ai-exec-cites-nations-tech-savvy-pool-deep-foundation.jpg",
-            "publishedAt": "2026-03-18T10:50:31Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "88% of Leading Fintech Startups Use AI: How Artificial Intelligence Became Table Stakes",
-            "url": "https://techbullion.com/88-of-leading-fintech-startups-use-ai-how-artificial-intelligence-became-table-stakes/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/tb-385-v2-1000x504.jpg",
-            "publishedAt": "2026-03-18T10:50:09Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "AurenixAI Strengthens Research and Development of Multi-Strategy AI Trading Frameworks",
-            "url": "https://www.manilatimes.net/2026/03/18/tmt-newswire/plentisoft/aurenixai-strengthens-research-and-development-of-multi-strategy-ai-trading-frameworks/2302559",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/18/978114.jpg",
-            "publishedAt": "2026-03-18T10:49:44Z"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie",
-                "country": "ie"
-            },
-            "title": "Business leaders concerned about AI - Expleo survey",
-            "url": "https://www.rte.ie/news/business/2026/0318/1563959-expleo-ai-pulse-sentiment-tracker/",
-            "urlToImage": "https://www.rte.ie/images/001b9527-1600.jpg",
-            "publishedAt": "2026-03-18T10:44:57Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Navigating Digital Threats: Greek Shipowners on High Alert Amid Cybersecurity Concerns",
-            "url": "https://www.devdiscourse.com/article/technology/3842625-navigating-digital-threats-greek-shipowners-on-high-alert-amid-cybersecurity-concerns",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_08_2025_14_15_24_4605153.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-18T10:38:43Z"
         }
     ]
 }
