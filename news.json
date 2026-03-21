@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-03-21T18:30:15.616586Z",
+    "lastUpdatedAt": "2026-03-21T19:20:17.141927Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "SoftBank CEO Son unveils $500 bil AI data center investment in Ohio",
+            "url": "https://japantoday.com/category/tech/softbank-group's-son-unveils-500-bil.-ai-data-center-investment-in-ohio",
+            "urlToImage": "https://media.japantoday.com/img/store/f8/d4/2cadea5d25bd27a4473fe9d334d20967bf42/ap26079000749758/_w1700.jpeg",
+            "publishedAt": "2026-03-21T07:04:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "SoftBank CEO Son unveils $500 bil AI data center investment in Ohio",
+            "url": "https://japantoday.com/category/tech/softbank-group%27s-son-unveils-500-bil.-ai-data-center-investment-in-ohio",
+            "urlToImage": "https://media.japantoday.com/img/store/f8/d4/2cadea5d25bd27a4473fe9d334d20967bf42/ap26079000749758/_w1700.jpeg",
+            "publishedAt": "2026-03-21T07:04:00Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "US new AI policy push signals shift for India",
+            "url": "https://www.lokmattimes.com/international/us-new-ai-policy-push-signals-shift-for-india/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202603213715654_202603.jpg",
+            "publishedAt": "2026-03-21T06:46:12Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "DoorDash’s new paid tasks turn couriers into AI and robot trainers",
+            "url": "https://www.spokesman.com/stories/2026/mar/21/doordashs-new-paid-tasks-turn-couriers-into-ai-and/",
+            "urlToImage": "https://thumb.spokesman.com/dYkJXVZNvWJMDLQOjFnow3rr_LY=/1200x630/smart/media.spokesman.com/photos/2026/03/20/69bdbbc79fb33.hires.jpg",
+            "publishedAt": "2026-03-21T06:46:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3405,54 +3453,6 @@
             "url": "https://www.news-leader.com/story/news/local/2026/03/19/city-of-springfield-tech-director-neil-slagle-retiring/89201880007/",
             "urlToImage": "https://www.news-leader.com/gcdn/authoring/authoring-images/2026/03/17/NTHM/89201969007-slagle-neil-1072.jpg?crop=2399,1350,x0,y300&width=2399&height=1350&format=pjpg&auto=webp",
             "publishedAt": "2026-03-19T08:46:41Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Rajnath cites global conflicts to urge self",
-            "url": "https://www.tribuneindia.com/news/india/rajnath-cites-global-conflicts-to-urge-self-reliance-in-drone-manufacturing/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE3NDI3NzkwLTIzNmYtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-03-19T08:39:01Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Samsung Electronics plans over $73 bln investment to lead in AI chip sector",
-            "url": "https://www.marketscreener.com/news/samsung-electronics-plans-over-73-bln-investment-to-lead-in-ai-chip-sector-ce7e5eded98df323",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-03-19T08:00:44Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Google launches free AI and cloud courses: Learn LLMs, image generation, and cloud engineering",
-            "url": "https://timesofindia.indiatimes.com/education/news/google-launches-free-ai-and-cloud-courses-learn-llms-image-generation-and-cloud-engineering/articleshow/129673948.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129673936,width-1280,height-720,imgsize-107272,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-19T07:53:00Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Sectra to deliver national training platform to all Norwegian health regions",
-            "url": "https://www.prnewswire.co.uk/news-releases/sectra-to-deliver-national-training-platform-to-all-norwegian-health-regions-302718508.html",
-            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-            "publishedAt": "2026-03-19T07:51:00Z"
         }
     ]
 }
