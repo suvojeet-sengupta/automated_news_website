@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-03-21T09:27:29.925443Z",
+    "lastUpdatedAt": "2026-03-21T10:21:43.330338Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Lawyers behind $1.5 billion Anthropic settlement slash fee bid after pushback from judge",
+            "url": "https://www.reuters.com/legal/government/lawyers-behind-15-billion-anthropic-settlement-slash-fee-bid-after-pushback-2026-03-20/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-20T21:47:24Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "US, Germany, Canada disrupt botnets that infected millions of devices",
+            "url": "https://www.livemint.com/news/us-germany-canada-disrupt-botnets-that-infected-millions-of-devices-11774042874472.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news_3_1733464427658_1733464446564.jpg",
+            "publishedAt": "2026-03-20T21:41:14Z"
+        },
+        {
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com",
+                "country": "us"
+            },
+            "title": "White House urges Congress to use a light touch on AI regulations",
+            "url": "https://www.chicagotribune.com/2026/03/20/white-house-congress-ai-regulations/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2026/03/Trump_21101.jpg?w=1024&h=682",
+            "publishedAt": "2026-03-20T21:34:57Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -1488,6 +1524,33 @@
             "url": "https://www.caixinglobal.com/2026-03-20/in-depth-openclaw-craze-fuels-fresh-ai-ambitions-fears-in-china-102425383.html",
             "urlToImage": "https://img.caixin.com/2026-03-20/177400701905099_560_373.jpg",
             "publishedAt": "2026-03-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Amazon wants to give another shot to the gadget that is widely considered as the company's 'biggest flop'",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-wants-to-give-another-shot-to-the-gadget-that-is-widely-considered-as-the-companys-biggest-flop/articleshow/129709653.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-129709633/129709633.jpg",
+            "publishedAt": "2026-03-20 22:12:23"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Navigating the Future: South Korea’s Bold AI Initiatives and Global Impact",
+            "url": "https://techannouncer.com/navigating-the-future-south-koreas-bold-ai-initiatives-and-global-impact/",
+            "urlToImage": "https://contenu.nyc3.cdn.digitaloceanspaces.com/journalist%2F1f4f3aee-f183-4929-a4c0-7ca37c2030f3%2Fthumbnail.jpeg",
+            "publishedAt": "2026-03-20 21:51:09"
+        },
+        {
+            "source": {
+                "name": "utexas"
+            },
+            "title": "Leaders in AI, Robotics and Ethical Innovation Come Together at UT Austin",
+            "url": "https://news.utexas.edu/2026/03/20/leaders-in-ai-robotics-and-ethical-innovation-come-together-at-ut-austin/",
+            "urlToImage": "https://news.utexas.edu/wp-content/uploads/2026/03/UT_Symposium2026_032-scaled.jpg",
+            "publishedAt": "2026-03-20 21:33:11"
         },
         {
             "source": {
@@ -3408,63 +3471,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/03/19/memory-chipmaker-micron039s-revenue-beats-estimates-on-demand-surge-from-ai-boom",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/19/3820809.jpg",
             "publishedAt": "2026-03-19T00:16:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "What to Look for in Dealer AI Software",
-            "url": "https://techbullion.com/what-to-look-for-in-dealer-ai-software/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/68d421347adab49160ed8363_Whisk_7cb8af5e8e08bab80224af6ef4dc694ddr-1000x600.jpeg",
-            "publishedAt": "2026-03-19T00:09:53Z"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "The new control plane: How the cloud-native ecosystem is shaping production AI",
-            "url": "https://siliconangle.com/2026/03/19/cloud-native-ecosystem-shaping-production-ai-kubeconeu/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/KubeCon-EU-Market-Insights-2026.png",
-            "publishedAt": "2026-03-19 22:04:18"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Europe’s Cloud Bosses Draw a Line in the Sand: 30+ CEOs Demand Brussels Stop Handing the Continent’s Digital Future to American Giants",
-            "url": "https://www.webpronews.com/europes-cloud-bosses-draw-a-line-in-the-sand-30-ceos-demand-brussels-stop-handing-the-continents-digital-future-to-american-giants/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-12601-1773954310.jpeg",
-            "publishedAt": "2026-03-19 21:05:16"
-        },
-        {
-            "source": {
-                "name": "informationweek"
-            },
-            "title": "Why CIOs can't let users wait on IT",
-            "url": "https://www.informationweek.com/it-leadership/why-cios-can-t-let-users-wait-on-it",
-            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt1db6a5a5ea35c3a9/69bc48e079ee6b79399e087d/032026_citizendevelopment_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
-            "publishedAt": "2026-03-19 20:30:59"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "AI Bot Traffic Will Dominate the Web by 2027, Cloudflare CEO Warns of Internet Infrastructure Crisis",
-            "url": "https://bitcoinworld.co.in/ai-bot-traffic-internet-2027-cloudflare/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/ai-bot-traffic-internet-2027-cloudflare.jpg",
-            "publishedAt": "2026-03-19 19:30:11"
-        },
-        {
-            "source": {
-                "name": "business2business_co_in"
-            },
-            "title": "Google unveils ChatGPT rival named 'Bard' | Check details here! - b2b",
-            "url": "https://www.business2business.co.in/article/3648/google-unveils-chatgpt-rival-named-bard-check-details-here",
-            "urlToImage": "https://business2business.co.in/uploads/2023/02/9a0aa958fae16c3731aed22fb24a9c12.jpg",
-            "publishedAt": "2026-03-19 15:56:53"
         }
     ]
 }
