@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-03-21T14:22:32.027306Z",
+    "lastUpdatedAt": "2026-03-21T15:21:19.951393Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "SoftBank and AEP plan massive Ohio gas-fired AI data center campus",
+            "url": "https://economictimes.indiatimes.com/news/international/business/softbank-and-aep-plan-massive-ohio-gas-fired-ai-data-center-campus/articleshow/129711524.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-129712301,width-1200,height-630,imgsize-152876,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-03-21T03:00:00Z"
+        },
         {
             "source": {
                 "id": "fd3677545b80d5db7541de8e111d27ba",
@@ -72,6 +84,15 @@
             "url": "https://www.newsmax.com/finance/streettalk/pentagon-palantir-ai/2026/03/20/id/1250260/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=85075a17-383c-44e7-8146-45dd60b3643b&SiteName=Newsmax",
             "publishedAt": "2026-03-21T00:02:52Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple’s Mac Business Just Posted Its Biggest Launch Quarter Ever — And Tim Cook Isn’t Done",
+            "url": "https://www.webpronews.com/apples-mac-business-just-posted-its-biggest-launch-quarter-ever-and-tim-cook-isnt-done/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-12683-1774060995.jpeg",
+            "publishedAt": "2026-03-21 02:43:20"
         },
         {
             "source": {
@@ -3435,30 +3456,6 @@
             "url": "https://www.thenews.com.pk/latest/1396172-parents-clueless-about-how-teens-use-ai-surveys-show",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-19/1396172_113710_updates.jpg",
             "publishedAt": "2026-03-19T06:29:36Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Apple iOS vulnerability chain exposes new attack pathway, researchers say",
-            "url": "https://www.thehindu.com/sci-tech/technology/apple-ios-vulnerability-chain-exposes-new-attack-pathway-researchers-say/article70760838.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/xxpak9/article70760799.ece/alternates/LANDSCAPE_1200/2025-05-01T113337Z_106316764_RC204AAVQNCA_RTRMADP_3_APPLE-OPTIS-PATENT.JPG",
-            "publishedAt": "2026-03-19T06:28:54Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "STL Digital enters cybersecurity market with Securennov suite",
-            "url": "https://www.thehindubusinessline.com/markets/stock-markets/stl-digital-enters-cybersecurity-market-with-securennov-suite/article70760781.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/kky8xq/article70758834.ece/alternates/LANDSCAPE_1200/iStock-2163506576.jpg",
-            "publishedAt": "2026-03-19T06:19:09Z"
         }
     ]
 }
