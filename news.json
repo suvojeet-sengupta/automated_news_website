@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-21T21:20:37.606851Z",
+    "lastUpdatedAt": "2026-03-21T22:19:33.211035Z",
     "articles": [
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "Hachette pulls horror novel ‘Shy Girl' over suspected AI use",
+            "url": "https://www.bostonglobe.com/2026/03/21/arts/shy-girl-mia-ballard/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/44KJSTSJOVD3VAW77QPIAXF4NM.jpg?auth=22bbe5aac246fef83b23392d9146fec4641f7ad4f805771ce9001ff054785010&width=1440",
+            "publishedAt": "2026-03-21T10:00:01Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "How engineers at Elon Musk's xAI are becoming 'salesmen' to take on OpenAI and Anthropic",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-engineers-at-elon-musks-xai-are-becoming-salesmen-to-take-on-openai-and-anthropic/articleshow/129715429.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129715515,width-1280,height-720,imgsize-27922,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-21T09:53:00Z"
+        },
         {
             "source": {
                 "id": "e894895ef041ab9c6cb7fe7223531f53",
@@ -336,6 +360,15 @@
             "url": "https://www.newsmax.com/finance/streettalk/pentagon-palantir-ai/2026/03/20/id/1250260/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=85075a17-383c-44e7-8146-45dd60b3643b&SiteName=Newsmax",
             "publishedAt": "2026-03-21T00:02:52Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "This New AI Model Could Replace Half Your Coding Workflow",
+            "url": "https://hackernoon.com/this-new-ai-model-could-replace-half-your-coding-workflow",
+            "urlToImage": "https://hackernoon.imgix.net/images/the-all-in-one-coding-built-for-real-world-software-teams-n9fcnrkhlos7lt4ni8o0g1or.png",
+            "publishedAt": "2026-03-21 09:46:57"
         },
         {
             "source": {
@@ -3411,42 +3444,6 @@
             "url": "https://www.outlookbusiness.com/corporate/cybersecurity-solutions-firm-kratikal-tech-strengthens-board-ahead-of-listing-plans",
             "urlToImage": "https://media.assettype.com/outlookbusiness/import/outlookmoney/public/uploads/article/gallery/c00128b3258df0f1df9c22f884247ada.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
             "publishedAt": "2026-03-19T10:04:57Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Beyond passwords and firewalls: Why the age of AI agents demands a new security playbook",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/beyond-passwords-and-firewalls-why-the-age-of-ai-agents-demands-a-new-security-playbook/articleshow/129676343.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129676389,width-1280,height-720,imgsize-152049,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-19T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f16dc396e088c7c707eabe9d7479e7a2",
-                "name": "The Washington Post",
-                "url": "https://www.washingtonpost.com",
-                "country": "us"
-            },
-            "title": "To Catholic thinkers, Pentagon’s AI demands violate ‘human dignity’",
-            "url": "https://www.washingtonpost.com/nation/2026/03/19/anthropic-war-ai-catholic-church/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AMEAOUO7IXPMCRMCZBUCY7SQF4_size-normalized.jpg&w=1440",
-            "publishedAt": "2026-03-19T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "NordVPN debuts first-ever physical retail presence in London and New York in partnership with Smartech and tm:rw",
-            "url": "https://www.prnewswire.co.uk/news-releases/nordvpn-debuts-first-ever-physical-retail-presence-in-london-and-new-york-in-partnership-with-smartech-and-tmrw-302718581.html",
-            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-            "publishedAt": "2026-03-19T10:00:00Z"
         }
     ]
 }
