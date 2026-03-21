@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-03-21T08:27:31.417108Z",
+    "lastUpdatedAt": "2026-03-21T09:27:29.925443Z",
     "articles": [
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "6 Ways AI is Revolutionizing Supply Chain and Delivery Operations",
+            "url": "https://techbullion.com/6-ways-ai-is-revolutionizing-supply-chain-and-delivery-operations/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/AI-Supply-Chain-and-Delivery-Operations-1000x600.png",
+            "publishedAt": "2026-03-20T21:21:16Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "China's Alibaba targets $100 bil in AI and cloud revenue over 5 years",
+            "url": "https://japantoday.com/category/tech/china's-alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years",
+            "urlToImage": "https://media.japantoday.com/img/store/82/f7/8f83601fa47cee7dd6dcbfc1e6d9522e7f31/download/_w1700.jpeg",
+            "publishedAt": "2026-03-20T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "China's Alibaba targets $100 bil in AI and cloud revenue over 5 years",
+            "url": "https://japantoday.com/category/tech/china%27s-alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years",
+            "urlToImage": "https://media.japantoday.com/img/store/82/f7/8f83601fa47cee7dd6dcbfc1e6d9522e7f31/download/_w1700.jpeg",
+            "publishedAt": "2026-03-20T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            },
+            "title": "Trump officials announce 10-gigawatt data center, gas plants for former Ohio uranium site",
+            "url": "https://www.ajc.com/news/2026/03/trump-officials-announce-10-gigawatt-data-center-gas-plants-for-former-ohio-uranium-site/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/HPJRPZW4LRCGLNAHXPKFERUTZ4.jpg?auth=9812c46683543f29587a94b5d9f39960326137b3f1e541e796197d930e9458c7&width=1200&height=630&smart=true",
+            "publishedAt": "2026-03-20T20:52:03Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "White House urges Congress to take a light touch on AI regulations in new legislative blueprint",
+            "url": "https://www.bostonglobe.com/2026/03/20/nation/white-house-urges-congress-take-light-touch-ai-regulations-new-legislative-blueprint/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/AO2SDXGGZB4YD7HWR52TX3V3KQ.jpg?auth=1a6206d69ab3d26db0938132b63b32f1c991874ec23dd6bf4c29118165a2eacc&width=1440",
+            "publishedAt": "2026-03-20T20:45:32Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "White House Pushes Congress to Override State AI Laws",
+            "url": "https://www.newsmax.com/politics/congress-ai-trump-administration/2026/03/20/id/1250231/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=931192cc-c587-4882-89e2-269ab5c34d7e&SiteName=Newsmax",
+            "publishedAt": "2026-03-20T20:32:32Z"
+        },
         {
             "source": {
                 "id": "35515662ec044d3f94b543cd8802d63f",
@@ -1416,6 +1488,24 @@
             "url": "https://www.caixinglobal.com/2026-03-20/in-depth-openclaw-craze-fuels-fresh-ai-ambitions-fears-in-china-102425383.html",
             "urlToImage": "https://img.caixin.com/2026-03-20/177400701905099_560_373.jpg",
             "publishedAt": "2026-03-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "AI raises stakes for cloud-native governance, ops maturity",
+            "url": "https://siliconangle.com/2026/03/20/cloud-native-ecosystem-k8s-ai-kubeconeu/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Cloud-native-ecosystem-2026.png",
+            "publishedAt": "2026-03-20 21:04:31"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Three ways AI is learning to understand the physical world",
+            "url": "https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/6uRIArWx4IfKizK1Zy2Plj/145eb916451c49f60f70526b62e4a882/World_models.jpg?w=800&q=75",
+            "publishedAt": "2026-03-20 20:30:00"
         },
         {
             "source": {
@@ -3375,78 +3465,6 @@
             "url": "https://www.business2business.co.in/article/3648/google-unveils-chatgpt-rival-named-bard-check-details-here",
             "urlToImage": "https://business2business.co.in/uploads/2023/02/9a0aa958fae16c3731aed22fb24a9c12.jpg",
             "publishedAt": "2026-03-19 15:56:53"
-        },
-        {
-            "source": {
-                "name": "business2business_co_in"
-            },
-            "title": "The Agentic Revolution: Why Salesforce Is Betting Its Future on AI Agents - b2b",
-            "url": "https://www.business2business.co.in/article/5542/salesforce-agentic-revolution-ai-agents-agentforce-360",
-            "urlToImage": "https://business2business.co.in/uploads/2025/11/5dc12c00acb4f4359bd215f29965ab55.jpg",
-            "publishedAt": "2026-03-19 15:56:53"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top Disruptive Tech Trends Businesses Can’t Ignore in 2026",
-            "url": "https://www.analyticsinsight.net/tech-news/top-disruptive-tech-trends-businesses-cant-ignore-in-2026",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-03-19/xk7nu7l8/Top-Disruptive-Tech-Trends-Businesses-Can%E2%80%99t-Ignore-in-2026.jpg",
-            "publishedAt": "2026-03-19 15:27:59"
-        },
-        {
-            "source": {
-                "name": "esecurityplanet"
-            },
-            "title": "Top 25 Cybersecurity Companies in 2026",
-            "url": "https://www.esecurityplanet.com/cybersecurity/top-cybersecurity-companies/",
-            "urlToImage": "https://assets.esecurityplanet.com/uploads/2023/12/esp_20231201-top-cybersecurity-companies.png?f=jpeg",
-            "publishedAt": "2026-03-19 15:23:07"
-        },
-        {
-            "source": {
-                "name": "pcmag"
-            },
-            "title": "Mark Zuckerberg's Metaverse Stumbles as Horizon Worlds Cuts VR Support",
-            "url": "https://www.pcmag.com/news/mark-zuckerbergs-metaverse-stumbles-as-horizon-worlds-cuts-vr-support",
-            "urlToImage": "https://i.pcmag.com/imagery/articles/014JOkl9qB7uRFnwSR51syZ-1..v1773927710.jpg",
-            "publishedAt": "2026-03-19 15:16:09"
-        },
-        {
-            "source": {
-                "name": "dcvelocity"
-            },
-            "title": "DHL expands white-glove logistics for construction of AI data centers",
-            "url": "https://www.dcvelocity.com/technology/artificial-intelligence/dhl-expands-white-glove-logistics-for-construction-of-ai-data-centers",
-            "urlToImage": "https://www.dcvelocity.com/media-library/photo-of-workers-handling-computer-parts.jpg?id=65321513&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
-            "publishedAt": "2026-03-19 14:55:12"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "Al Chip Market Dynamics And Revenue Forecast 2026 To 2035",
-            "url": "https://menafn.com/1110884665/Al-Chip-Market-Dynamics-And-Revenue-Forecast-2026-To-2035",
-            "urlToImage": "https://menafn.com/includes/img/logo.jpg",
-            "publishedAt": "2026-03-19 14:10:29"
-        },
-        {
-            "source": {
-                "name": "wallst_247"
-            },
-            "title": "AI Might Be Coming for Blue‐Collar Work—And These Robotics Stocks Still Look Wildly Underestimated",
-            "url": "https://247wallst.com/investing/2026/03/19/ai-might-be-coming-for-blue%E2%80%91collar-work-and-these-robotics-stocks-still-look-wildly-underestimated/",
-            "urlToImage": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-2455567219-huge-licensed-scaled.jpg",
-            "publishedAt": "2026-03-19 13:59:55"
-        },
-        {
-            "source": {
-                "name": "duke"
-            },
-            "title": "New report recommends path forward for Duke and artificial intelligence",
-            "url": "https://provost.duke.edu/news/new-report-recommends-path-forward-duke-and-artificial-intelligence/",
-            "urlToImage": "https://provost.duke.edu/duke-logo-blue.png",
-            "publishedAt": "2026-03-19 13:17:21"
         }
     ]
 }
