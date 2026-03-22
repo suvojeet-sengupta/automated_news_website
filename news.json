@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-03-22T04:16:33.490038Z",
+    "lastUpdatedAt": "2026-03-22T05:50:14.690271Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI Meets Justice: Striking a Balance in the Judiciary",
+            "url": "https://www.devdiscourse.com/article/law-order/3846057-ai-meets-justice-striking-a-balance-in-the-judiciary",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/29_08_2025_16_22_16_0688127.png?width=920&format=jpeg",
+            "publishedAt": "2026-03-21T17:31:57Z"
+        },
+        {
+            "source": {
+                "id": "c7b3fd167c575deb5133f19df6ed778f",
+                "name": "The Gateway Pundit",
+                "url": "https://www.thegatewaypundit.com",
+                "country": "us"
+            },
+            "title": "Pentagon Locks In Palantir AI to Power Future Military Operations",
+            "url": "https://www.thegatewaypundit.com/2026/03/pentagon-locks-palantir-ai-power-future-military-operations/",
+            "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2025/10/pete-hegseth-copy-1200x630.jpg",
+            "publishedAt": "2026-03-21T17:20:46Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "MAGA fans swoon over ‘Jessica Foster’ warship photos in Strait of Hormuz, but ‘US Army soldier’ never existed",
+            "url": "https://www.livemint.com/news/us-news/maga-fans-swoon-over-jessica-foster-warship-photos-in-strait-of-hormuz-but-us-army-soldier-never-existed-11774109534412.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/Untitled_design_-_2026-03-21T221751.550_1774111691862_1774111699350.png",
+            "publishedAt": "2026-03-21T16:49:50Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -684,6 +720,15 @@
             "url": "https://www.newsmax.com/finance/streettalk/pentagon-palantir-ai/2026/03/20/id/1250260/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=85075a17-383c-44e7-8146-45dd60b3643b&SiteName=Newsmax",
             "publishedAt": "2026-03-21T00:02:52Z"
+        },
+        {
+            "source": {
+                "name": "channelnewsasia"
+            },
+            "title": "OpenAI to introduce ads to all ChatGPT free and Go users in US",
+            "url": "https://www.channelnewsasia.com/business/openai-introduce-ads-all-chatgpt-free-and-go-users-in-us-6008901",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--nqJRsMXo--/c_fill,g_auto,h_338,w_600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-21T161835Z_1_LYNXMPEM2K08S_RTROPTP_3_TECH-OPENAI.JPG?itok=ZS6NFHeG",
+            "publishedAt": "2026-03-21 16:18:35"
         },
         {
             "source": {
@@ -3375,54 +3420,6 @@
             "url": "https://www.marketscreener.com/news/accenture-lifts-outlook-amid-ai-driven-growth-middle-east-worst-case-scenario-not-built-into-guidan-ce7e5ededf81f72c",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
             "publishedAt": "2026-03-19T16:06:24Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "New Hire At Meta Expresses Fear Of Dismissal Before Even Starting Amid Layoff Cycle",
-            "url": "https://www.ndtvprofit.com/technology/new-hire-at-meta-expresses-fear-of-dismissal-before-even-starting-amid-layoff-cycle-11239733",
-            "urlToImage": "https://c.ndtvimg.com/2026-02/d1b23fjc_keta_625x300_17_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-03-19T16:03:54Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "OpenAI to buy Python toolmaker Astral to take on Anthropic",
-            "url": "https://www.marketscreener.com/news/openai-to-buy-python-toolmaker-astral-to-take-on-anthropic-ce7e5ededf8ef226",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-03-19T16:00:36Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity startup Oasis Security raises $120M from Craft, Sequoia, Accel to tackle AI identity risks",
-            "url": "https://techstartups.com/2026/03/19/cybersecurity-startup-oasis-security-raises-120m-from-craft-sequoia-accel-to-tackle-ai-identity-risks/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2026/03/Oasis-founders.jpg",
-            "publishedAt": "2026-03-19T15:55:29Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "As PwC overhauls its services and pricing models, company’s US CEO Paul Griggs tells partners: You have no place in the company if you ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-pwc-overhauls-its-services-and-pricing-models-companys-us-ceo-paul-griggs-tells-partners-you-have-no-place-in-the-company-if-you-/articleshow/129682682.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129682709,width-1280,height-720,imgsize-43000,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-19T15:34:00Z"
         }
     ]
 }
