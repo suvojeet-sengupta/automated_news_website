@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-03-22T01:53:48.772591Z",
+    "lastUpdatedAt": "2026-03-22T04:16:33.490038Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Data sovereignty emerging as key challenge in AI and cloud era",
+            "url": "https://www.manilatimes.net/2026/03/22/business/sunday-business-it/data-sovereignty-emerging-as-key-challenge-in-ai-and-cloud-era/2304783",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/21/982492.jpg",
+            "publishedAt": "2026-03-21T16:07:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Crossing the ‘last mile’ of enterprise AI",
+            "url": "https://www.manilatimes.net/2026/03/22/business/sunday-business-it/crossing-the-last-mile-of-enterprise-ai/2304781",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/21/982490.jpg",
+            "publishedAt": "2026-03-21T16:05:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "SailPoint, AWS expand partnership to secure AI identities",
+            "url": "https://www.manilatimes.net/2026/03/22/business/sunday-business-it/sailpoint-aws-expand-partnership-to-secure-ai-identities/2304778",
+            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-03-21T16:03:00Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "AI-powered ‘vibe coding’ reshapes global software landscape",
+            "url": "https://www.nation.com.pk/21-Mar-2026/ai-powered-vibe-coding-reshapes-global-software-landscape",
+            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "publishedAt": "2026-03-21T15:53:50Z"
+        },
+        {
+            "source": {
+                "id": "e743cde6ee986921721e83d3957862dc",
+                "name": "Zee News",
+                "url": "https://zeenews.india.com",
+                "country": "in"
+            },
+            "title": "US new AI policy push signals shift for India",
+            "url": "https://zeenews.india.com/technology/us-new-ai-policy-push-signals-shift-for-india-3029094.html",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/03/21/1920767-ai-ians-1.jpg",
+            "publishedAt": "2026-03-21T15:15:38Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Netflix CEO Ted Sarandos says AI cannot replace human talent in this aspect of the entertainment industry: ‘The one thing that we find…’",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/netflix-ceo-ted-sarandos-says-ai-cannot-replace-human-talent-in-this-aspect-of-the-entertainment-industry-the-one-thing-that-we-find/articleshow/129717827.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129717824,width-1280,height-720,imgsize-40884,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-21T14:53:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI at work: Could the tools meant to help actually be harming your brain?",
+            "url": "https://timesofindia.indiatimes.com/education/news/ai-at-work-could-the-tools-meant-to-help-actually-be-harming-your-brain/articleshow/129720526.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129720654,width-1280,height-720,imgsize-31368,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-21T14:27:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -600,6 +684,33 @@
             "url": "https://www.newsmax.com/finance/streettalk/pentagon-palantir-ai/2026/03/20/id/1250260/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=85075a17-383c-44e7-8146-45dd60b3643b&SiteName=Newsmax",
             "publishedAt": "2026-03-21T00:02:52Z"
+        },
+        {
+            "source": {
+                "name": "norfolkdailynews"
+            },
+            "title": "BYAHT Inc. Pioneers Feedback-Driven AI Agent System to Revolutionize Influencer Marketing ROI",
+            "url": "https://norfolkdailynews.com/online_features/press_releases/byaht-inc-pioneers-feedback-driven-ai-agent-system-to-revolutionize-influencer-marketing-roi/article_d629b7a6-be52-514b-9189-4f620afb9589.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/6/1b/61ba67e2-18d1-54c0-8b77-1fbe8ecf169f/69beda1963c52.image.png?crop=1875%2C984%2C0%2C60&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-03-21 16:09:39"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "10 Innovative Data Science Projects Shaping the Future in 2026",
+            "url": "https://www.analyticsinsight.net/top-list/10-innovative-data-science-projects-shaping-the-future-in-2026",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-03-21/sajyuhze/10-Innovative-Data-Science-Projects-Shaping-the-Future-in-2026-Soham.jpg",
+            "publishedAt": "2026-03-21 14:30:00"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Biological Computer Market Size To Reach USD 14,248.9 Million In 2033",
+            "url": "https://menafn.com/1110890961/Biological-Computer-Market-Size-To-Reach-USD-142489-Million-In-2033",
+            "urlToImage": "https://menafn.com/includes/img/logo.jpg",
+            "publishedAt": "2026-03-21 14:08:40"
         },
         {
             "source": {
@@ -3312,126 +3423,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-pwc-overhauls-its-services-and-pricing-models-companys-us-ceo-paul-griggs-tells-partners-you-have-no-place-in-the-company-if-you-/articleshow/129682682.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-129682709,width-1280,height-720,imgsize-43000,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-03-19T15:34:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "China's Alibaba targets $100B in AI and cloud revenue over 5 years",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years/articleshow/129682650.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-363570,resizemode-75,msid-129682650/tech/artificial-intelligence/chinas-alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years.jpg",
-            "publishedAt": "2026-03-19T15:32:20Z"
-        },
-        {
-            "source": {
-                "id": "f4967fce32bfc735983f0f39dcdba127",
-                "name": "pv magazine",
-                "url": "https://www.pv-magazine.com",
-                "country": "de"
-            },
-            "title": "Panasonic claims world’s first trial of cybersecurity monitoring for grid-scale BESS",
-            "url": "https://www.pv-magazine.com/2026/03/19/panasonic-claims-worlds-first-trial-of-cybersecurity-monitoring-for-grid-scale-bess/",
-            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2026/03/Nirazuka_Battery_Storage_Power_Station_3-1200x675.jpg",
-            "publishedAt": "2026-03-19T15:28:13Z"
-        },
-        {
-            "source": {
-                "id": "abab8062417cb9b02ead633cc01bfb99",
-                "name": "HotNewHipHop",
-                "url": "https://www.hotnewhiphop.com",
-                "country": "us"
-            },
-            "title": "Lil Wayne Reveals Why He’s Not Afraid Of A.I.",
-            "url": "https://www.hotnewhiphop.com/984248-lil-wayne-not-afraid-ai",
-            "urlToImage": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/03/lil-wayne-not-afraid-ai.jpg",
-            "publishedAt": "2026-03-19T15:22:10Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "China's Alibaba targets $100B in AI and cloud revenue over 5 years",
-            "url": "https://www.clickondetroit.com/tech/2026/03/19/chinas-alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PP7XBZZV5RCXDGEV5MB5ZNWFE4.jpg?_a=DATAg1fkZAA0",
-            "publishedAt": "2026-03-19T15:15:38Z"
-        },
-        {
-            "source": {
-                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
-                "name": "NewsBreak",
-                "url": "https://www.newsbreak.com",
-                "country": "us"
-            },
-            "title": "China's Alibaba targets $100B in AI and cloud revenue over 5 years",
-            "url": "https://www.newsbreak.com/news/4548350480911-china-s-alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years",
-            "urlToImage": "https://img.particlenews.com/img/id/1fxsLL_19l0tD2Y00",
-            "publishedAt": "2026-03-19T15:15:38Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "China’s Alibaba targets $100B in AI and cloud revenue over 5 years",
-            "url": "https://apnews.com/article/china-alibaba-earnings-artificial-intelligence-3bc6b4b5545a9e51a723805fc31d7691",
-            "urlToImage": "https://dims.apnews.com/dims4/default/89763d8/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2F4e%2Fc5285596d22d2c5c892abad706dc%2F64672c1903f74235ba73de200a3047bf",
-            "publishedAt": "2026-03-19T15:15:38Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "China's Alibaba Targets $100B in AI and Cloud Revenue Over 5 Years",
-            "url": "https://www.usnews.com/news/technology/articles/2026-03-19/chinas-alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/17e6ae4/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F20%2Fe9639f9e5a0852f3f8013dfb551603%2F64672c1903f74235ba73de200a3047bfChina_Alibaba_Earnings_48919.jpg",
-            "publishedAt": "2026-03-19T15:15:00Z"
-        },
-        {
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
-            },
-            "title": "CISA urges companies to secure Microsoft Intune systems after hackers mass-wipe Stryker devices",
-            "url": "https://techcrunch.com/2026/03/19/cisa-urges-companies-to-secure-microsoft-intune-systems-after-hackers-mass-wipe-stryker-devices/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/crowdstrike-windows-glitch-v3.jpg?resize=1200,675",
-            "publishedAt": "2026-03-19T15:08:31Z"
-        },
-        {
-            "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            },
-            "title": "Cybersecurity needs more than human intervention in AI age: Nicole Quinn",
-            "url": "https://www.business-standard.com/companies/news/ai-threat-landscape-cuts-cyber-response-time-palo-alto-nicole-quinn-126031901201_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/19/thumb/fitandfill/1200X630/1773931695-8736.jpg",
-            "publishedAt": "2026-03-19T14:49:48Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "OpenAI to acquire developer tooling startup Astral",
-            "url": "https://www.cnbc.com/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108276814-1773254522162-gettyimages-2265991644-0d6a8221_0m2z4cha.jpeg?v=1773254624&w=1920&h=1080",
-            "publishedAt": "2026-03-19T14:34:02Z"
         }
     ]
 }
