@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-03-23T18:48:03.667218Z",
+    "lastUpdatedAt": "2026-03-23T19:44:39.017225Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "AI CEO era begins: Mark Zuckerberg building ‘smart assistant’ to help run Meta",
+            "url": "https://www.thenews.com.pk/latest/1396480-ai-ceo-era-begins-mark-zuckerberg-building-smart-assistant-to-help-run-meta",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-23/1396480_123501_updates.jpg",
+            "publishedAt": "2026-03-23T07:34:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Why Elon Musk is building ‘Tera-fab’, a mega chip factory to power his AI empire",
+            "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/why-elon-musk-is-building-tera-fab-mega-chip-factory-ai-empire-10596261/",
+            "urlToImage": "https://images.indianexpress.com/2026/01/US-1-41.jpg",
+            "publishedAt": "2026-03-23T06:59:59Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI has created a ‘new status game’ among engineers at IT companies that analysts say is 'expensive'",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-has-created-a-new-status-game-among-engineers-at-it-companies-that-analysts-say-is-expensive/articleshow/129745409.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129745406,width-1280,height-720,imgsize-40068,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-03-23T06:59:00Z"
+        },
         {
             "source": {
                 "id": "53145d6e104c81ebd118041fcf32414e",
@@ -191,6 +227,18 @@
             "title": "Clustering of disease trajectories with explainable machine learning: A case study on postoperative delirium phenotypes",
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001267",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001267.g010&size=inline",
+            "publishedAt": "2026-03-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "AI-guided prefusion stabilization of the human coronavirus OC43 spike protein enables universal embecovirus antigen design",
+            "url": "https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1013998",
+            "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013998.g007&size=inline",
             "publishedAt": "2026-03-23T00:00:00Z"
         },
         {
@@ -3459,54 +3507,6 @@
             "url": "https://variety.com/2026/film/markets-festivals/peter-chan-ai-hong-kong-filmart-panel-1236694595/",
             "urlToImage": "https://variety.com/wp-content/uploads/2026/03/Filmart-panel.jpg?w=1000&h=563&crop=1",
             "publishedAt": "2026-03-20T00:31:03Z"
-        },
-        {
-            "source": {
-                "id": "e6688d6db992f469baa7352aac100378",
-                "name": "Variety",
-                "url": "https://variety.com",
-                "country": "us"
-            },
-            "title": "Peter Chan Says AI Will Replace 'Any Blockbuster in Three Years'",
-            "url": "https://variety.com/2026/film/news/peter-chan-ai-hong-kong-filmart-panel-1236694595/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/03/Filmart-panel.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-03-20T00:31:03Z"
-        },
-        {
-            "source": {
-                "id": "e6688d6db992f469baa7352aac100378",
-                "name": "Variety",
-                "url": "https://variety.com",
-                "country": "us"
-            },
-            "title": "Peter Chan Says AI Will Replace 'Any Blockbuster in Three Years'",
-            "url": "https://variety.com/2026/film/asia/peter-chan-ai-hong-kong-filmart-panel-1236694595/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/03/Filmart-panel.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-03-20T00:31:03Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "tier IT riding large deal momentum as AI rejigs biz",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/nimble-mid-tier-it-riding-large-deal-momentum-as-ai-rejigs-biz/articleshow/129684609.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-103192,resizemode-75,msid-129684609/tech/information-tech/nimble-mid-tier-it-riding-large-deal-momentum-as-ai-rejigs-biz.jpg",
-            "publishedAt": "2026-03-20T00:30:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "EQT, Partners Group & ITC Info eye a chunk of Ashok Soota’s Happiest Minds",
-            "url": "https://economictimes.indiatimes.com/tech/technology/eqt-partners-group-itc-info-eye-a-chunk-of-ashok-sootas-happiest-minds/articleshow/129684855.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1601439,resizemode-75,msid-129684855/tech/technology/eqt-partners-group-itc-info-eye-a-chunk-of-ashok-sootas-happiest-minds.jpg",
-            "publishedAt": "2026-03-20T00:30:00Z"
         }
     ]
 }
