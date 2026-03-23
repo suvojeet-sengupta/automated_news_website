@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-03-23T20:33:41.294889Z",
+    "lastUpdatedAt": "2026-03-23T21:32:20.851531Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "From AI layoffs to hiring frenzy: OpenAI plans to double workforce by 2026",
+            "url": "https://www.thenews.com.pk/latest/1396483-from-ai-layoffs-to-hiring-frenzy-openai-plans-to-double-workforce-by-2026",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-23/1396483_022817_updates.jpg",
+            "publishedAt": "2026-03-23T09:28:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Meta’s Zuckerberg developing AI agent to help with his CEO duties: Report",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/metas-zuckerberg-developing-ai-agent-to-help-with-his-ceo-duties-report-10596571/",
+            "urlToImage": "https://images.indianexpress.com/2025/10/Mark-Zuckerberg.jpg",
+            "publishedAt": "2026-03-23T09:24:27Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Healthcare, education, manufacturing sectors see nearly half of cyberattacks: Report",
+            "url": "https://www.lokmattimes.com/health/healthcare-education-manufacturing-sectors-see-nearly-half-of-cyberattacks-report-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202603233717980_202603.jpg",
+            "publishedAt": "2026-03-23T09:22:35Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Healthcare, education, manufacturing sectors see nearly half of cyberattacks: Report",
+            "url": "https://www.lokmattimes.com/business/healthcare-education-manufacturing-sectors-see-nearly-half-of-cyberattacks-report/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202603233717980_202603.jpg",
+            "publishedAt": "2026-03-23T09:22:35Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Labor’s data centre rules spur fears billions could flow elsewhere",
+            "url": "https://www.afr.com/companies/infrastructure/labor-s-data-centre-rules-spur-fears-billions-could-flow-elsewhere-20260323-p5rmmk",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.1847%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e30dae2e4894b15a1e156207141f5a96fd87f242",
+            "publishedAt": "2026-03-23T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "E-Catalog and PriceHub.AI: The Evolution of Price Comparison Platforms",
+            "url": "https://techbullion.com/e-catalog-and-pricehub-ai-the-evolution-of-price-comparison-platforms/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/PriceHub-AI-1000x504.png",
+            "publishedAt": "2026-03-23T08:58:02Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "'AI Is Not Just a Tool, It Is Power'",
+            "url": "https://www.breitbart.com/clips/2026/03/23/code-red-author-wynton-hall-ai-is-not-just-a-tool-it-is-power/",
+            "urlToImage": "https://media.breitbart.com/media/2026/03/wall-dfg655-640x335.jpg",
+            "publishedAt": "2026-03-23T08:48:55Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -288,6 +372,24 @@
             "url": "https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1013998",
             "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013998.g007&size=inline",
             "publishedAt": "2026-03-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "theprint"
+            },
+            "title": "How India uses AI to empower the next billion users",
+            "url": "https://theprint.in/opinion/india-ai-public-good/2886340/",
+            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2025/02/Illustration-Prajna-Ghosh-ThePrint.jpg",
+            "publishedAt": "2026-03-23 08:45:41"
+        },
+        {
+            "source": {
+                "name": "etedge_insights"
+            },
+            "title": "NVIDIA partners with edForce to accelerate AI workforce upskilling in India",
+            "url": "https://etedge-insights.com/in-focus/trending/nvidia-partners-with-edforce-to-accelerate-ai-workforce-upskilling-in-india/",
+            "urlToImage": "https://etedge-insights.com/wp-content/uploads/2026/03/edForce-X-NVIDIA.jpg",
+            "publishedAt": "2026-03-23 08:37:24"
         },
         {
             "source": {
@@ -3396,114 +3498,6 @@
             "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/03/19/co-founder-of-tech-company-charged-with-diverting-2-5-billion-in-nvidia-ai-chips-to-china-in-violation-of-export-laws/",
             "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
             "publishedAt": "2026-03-20T04:01:19Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI Won't Kill Movies. Tom Cruise and Brad Pitt Can Relax",
-            "url": "https://www.bloomberg.com/opinion/articles/2026-03-20/ai-won-t-kill-movies-tom-cruise-and-brad-pitt-can-relax",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTPM5A3FOrAs/v1/1200x798.jpg",
-            "publishedAt": "2026-03-20T04:00:04Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Brain age from sleep patterns may signal future dementia risk",
-            "url": "https://www.news-medical.net/news/20260319/Brain-age-from-sleep-patterns-may-signal-future-dementia-risk.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2018/7/shutterstock_1028141632_649cad8889c647fc8d0bd83bf7503e08-620x480.jpg",
-            "publishedAt": "2026-03-20T03:45:00Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "OpenAI to buy Python toolmaker and revamp ChatGPT",
-            "url": "https://www.thehindu.com/sci-tech/technology/openai-chatgpt-revamp-python-buy/article70764152.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/1h25hu/article70764109.ece/alternates/LANDSCAPE_1200/2026-03-11T184738Z_999944580_RC2I2KAFZYMB_RTRMADP_3_USA-BLACKROCK.JPG",
-            "publishedAt": "2026-03-20T03:35:48Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "TCS, Infosys, Wipro, HCL Tech, TechM: Accenture Q2 takeaways for Indian IT firms",
-            "url": "https://www.businesstoday.in/markets/stocks/story/tcs-infosys-wipro-hcl-tech-techm-accenture-q2-takeaways-for-indian-it-firms-521499-2026-03-20",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202603/69bcb9dddcb79-accentures-managed-services-accounts-for-a-large-part-of-its-revenue--where-it-is-directly-in-compe-200703987-16x9.jpg",
-            "publishedAt": "2026-03-20T03:09:31Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Foster City services impacted by cyber security breach",
-            "url": "https://www.mercurynews.com/2026/03/19/foster-city-services-impacted-by-cyber-security-breach/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2021/07/Data_Services_Cyberattack_25157-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-03-20T03:06:56Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy",
-            "url": "https://economictimes.indiatimes.com/tech/technology/hegseth-wants-pentagon-to-dump-anthropics-claude-but-military-users-say-its-not-so-easy/articleshow/129690813.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-75312,resizemode-75,msid-129690813/tech/technology/hegseth-wants-pentagon-to-dump-anthropics-claude-but-military-users-say-its-not-so-easy.jpg",
-            "publishedAt": "2026-03-20T02:36:46Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Three men charged with conspiring to smuggle U.S. artificial intelligence to China",
-            "url": "https://www.thehindu.com/news/international/three-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/article70764084.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/12xmtw/article70764087.ece/alternates/LANDSCAPE_1200/AI_Server_Smuggling_China_28928.jpg",
-            "publishedAt": "2026-03-20T02:15:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "New nuclear race takes shape in Washington",
-            "url": "https://www.lokmattimes.com/international/new-nuclear-race-takes-shape-in-washington/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202603203714320_202603.jpg",
-            "publishedAt": "2026-03-20T02:04:59Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQBJ9uKBu.9Y/v0/1200x800.jpg",
-            "publishedAt": "2026-03-20T01:47:55Z"
         }
     ]
 }
