@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-03-24T20:36:43.394206Z",
+    "lastUpdatedAt": "2026-03-24T21:33:34.531127Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "College Graduates Are Facing the Grimmest Job Market in Years",
+            "url": "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/03/20/multimedia/00biz-first-jobs-01-mfqz/00biz-first-jobs-01-mfqz-facebookJumbo.jpg",
+            "publishedAt": "2026-03-24T09:01:20Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI Revolutionizes Weather Forecasting in India",
+            "url": "https://www.devdiscourse.com/article/science-environment/3848464-ai-revolutionizes-weather-forecasting-in-india",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/07_06_2024_13_50_11_7603756.png?width=920&format=jpeg",
+            "publishedAt": "2026-03-24T09:01:06Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "Global Space Cybersecurity Market to Reach USD 10.32 Billion by 2032, Growing at 10.24% CAGR, Says MarkNtel Advisors",
+            "url": "https://www.prnewswire.co.uk/news-releases/global-space-cybersecurity-market-to-reach-usd-10-32-billion-by-2032--growing-at-10-24-cagr-says-markntel-advisors-302721942.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2687299/MarkNtel_Advisors_Logo.jpg?p=facebook",
+            "publishedAt": "2026-03-24T09:01:00Z"
+        },
+        {
+            "source": {
+                "id": "c1903669db0b115cc673ce9c333a70dd",
+                "name": "Charleston Post and Courier",
+                "url": "https://www.postandcourier.com",
+                "country": "us"
+            },
+            "title": "Sen. Graham wants rules to govern responses to cyber attacks",
+            "url": "https://www.postandcourier.com/beaufort-county/news/lindsey-graham-cybersecurity-beaufort-sc/article_9abdfeee-783f-4ca4-a2a7-1c4fc43b557e.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/14/d14f467d-6353-498f-975c-4e11101ae0da/6903bd0bd985d.image.jpg?crop=1819%2C956%2C0%2C91&resize=1200%2C631&order=crop%2Cresize",
+            "publishedAt": "2026-03-24T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Inspira Joins Forces with Microsoft to Strengthen Cybersecurity Arsenal",
+            "url": "https://www.devdiscourse.com/article/technology/3848456-inspira-joins-forces-with-microsoft-to-strengthen-cybersecurity-arsenal",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=920&format=jpeg",
+            "publishedAt": "2026-03-24T08:58:24Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Inspira Enterprise Joins the Microsoft Intelligent Security Association",
+            "url": "https://www.tribuneindia.com/news/business/inspira-enterprise-joins-the-microsoft-intelligent-security-association-2-2/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI0MzAzMmIwLTI3NWYtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+            "publishedAt": "2026-03-24T08:56:31Z"
+        },
         {
             "source": {
                 "id": "91120a92e0d24e24fbffb6d0affabfe6",
@@ -420,6 +492,15 @@
             "url": "https://www.prnewswire.co.uk/news-releases/inspira-enterprise-joins-the-microsoft-intelligent-security-association-302722223.html",
             "urlToImage": "https://mma.prnewswire.com/media/2400111/Inspira_Enterprise_Logo.jpg?p=facebook",
             "publishedAt": "2026-03-24T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Meesho launches Gen-AI voice agent Vaani targeting tier-II, III users",
+            "url": "http://economictimes.indiatimes.com/tech/startups/meesho-launches-gen-ai-voice-agent-vaani-targeting-tier-ii-iii-users/articleshow/129771447.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34972,resizemode-75,msid-129771447/tech/startups/meesho-launches-gen-ai-voice-agent-vaani-targeting-tier-ii-iii-users.jpg",
+            "publishedAt": "2026-03-24 08:37:00"
         },
         {
             "source": {
@@ -3375,90 +3456,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-memo-says-dod-to-adopt-palantir-ai-as-core-military-system-what-is-companys-maven-tool-that-has-been-used-to-carry-out-thousands-of-strikes-against-iran/articleshow/129715531.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-129715522,width-1280,height-720,imgsize-34506,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-03-21T08:10:00Z"
-        },
-        {
-            "source": {
-                "id": "93a4f054e09bde095cda5265e575a952",
-                "name": "Telegraph India",
-                "url": "https://www.telegraphindia.com",
-                "country": "in"
-            },
-            "title": "Pentagon to adopt Palantir’s Maven artificial intelligence as core US military system",
-            "url": "https://www.telegraphindia.com/world/pentagon-to-adopt-palantirs-maven-artificial-intelligence-as-core-us-military-system-memo-says/cid/2152451",
-            "urlToImage": "https://assets.telegraphindia.com/telegraph/2026/Mar/1774079931_reuters-palantir-tech-ai-pentagon.gif",
-            "publishedAt": "2026-03-21T08:00:19Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "SoftBank CEO Son unveils $500 bil AI data center investment in Ohio",
-            "url": "https://japantoday.com/category/tech/softbank-group's-son-unveils-500-bil.-ai-data-center-investment-in-ohio",
-            "urlToImage": "https://media.japantoday.com/img/store/f8/d4/2cadea5d25bd27a4473fe9d334d20967bf42/ap26079000749758/_w1700.jpeg",
-            "publishedAt": "2026-03-21T07:04:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "SoftBank CEO Son unveils $500 bil AI data center investment in Ohio",
-            "url": "https://japantoday.com/category/tech/softbank-group%27s-son-unveils-500-bil.-ai-data-center-investment-in-ohio",
-            "urlToImage": "https://media.japantoday.com/img/store/f8/d4/2cadea5d25bd27a4473fe9d334d20967bf42/ap26079000749758/_w1700.jpeg",
-            "publishedAt": "2026-03-21T07:04:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "US new AI policy push signals shift for India",
-            "url": "https://www.lokmattimes.com/international/us-new-ai-policy-push-signals-shift-for-india/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202603213715654_202603.jpg",
-            "publishedAt": "2026-03-21T06:46:12Z"
-        },
-        {
-            "source": {
-                "id": "c8c865ed042eb14694b8d596e22efe99",
-                "name": "Spokane Spokesman-Review",
-                "url": "https://www.spokesman.com",
-                "country": "us"
-            },
-            "title": "DoorDash’s new paid tasks turn couriers into AI and robot trainers",
-            "url": "https://www.spokesman.com/stories/2026/mar/21/doordashs-new-paid-tasks-turn-couriers-into-ai-and/",
-            "urlToImage": "https://thumb.spokesman.com/dYkJXVZNvWJMDLQOjFnow3rr_LY=/1200x630/smart/media.spokesman.com/photos/2026/03/20/69bdbbc79fb33.hires.jpg",
-            "publishedAt": "2026-03-21T06:46:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "White House releases AI policy framework for Congress, with six guiding principles",
-            "url": "https://www.manilatimes.net/2026/03/21/world/americas-emea/white-house-releases-ai-policy-framework-for-congress-with-six-guiding-principles/2304770",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/21/982274.jpg",
-            "publishedAt": "2026-03-21T06:03:00Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Nature Over Code: Decentralization as humanity’s last hope",
-            "url": "https://www.naturalnews.com/2026-03-21-nature-over-code-decentralization-humanitys-last-hope.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/03/Nature-Over-Code.jpg",
-            "publishedAt": "2026-03-21T05:39:14Z"
         }
     ]
 }
