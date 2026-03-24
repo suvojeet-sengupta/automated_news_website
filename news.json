@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-03-24T08:46:13.815883Z",
+    "lastUpdatedAt": "2026-03-24T09:51:54.878512Z",
     "articles": [
+        {
+            "source": {
+                "id": "f1bf32bc7d2c9750240a24442fde5232",
+                "name": "Calgary Herald",
+                "url": "https://calgaryherald.com",
+                "country": "ca"
+            },
+            "title": "Braid: Smith big on artificial intelligence; does she see creepy side?",
+            "url": "https://calgaryherald.com/opinion/columnists/braid-premier-danielle-smith-all-in-artificial-intelligence-creepy-side",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/03/20260317DB002.EJ-copy.jpg",
+            "publishedAt": "2026-03-23T21:32:20Z"
+        },
+        {
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            },
+            "title": "How is Maryland preparing for AI layoffs?",
+            "url": "https://foxbaltimore.com/spotlight-on-maryland/how-is-maryland-preparing-for-ai-layoffs",
+            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/1920/1320/center/90/a2111c17-bd4e-4b6f-a7e4-96bcd42a0506-323_PATRICK_AIJOBS_PKG.00_00_12_16.Still002.jpg",
+            "publishedAt": "2026-03-23T21:00:01Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "How is Maryland preparing for AI layoffs?",
+            "url": "https://wjla.com/news/local/how-is-maryland-preparing-for-ai-layoffs",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/1920/1320/center/90/a2111c17-bd4e-4b6f-a7e4-96bcd42a0506-323_PATRICK_AIJOBS_PKG.00_00_12_16.Still002.jpg",
+            "publishedAt": "2026-03-23T21:00:01Z"
+        },
+        {
+            "source": {
+                "id": "3fac65098bad206a4847f7fdbac9f170",
+                "name": "New York Daily News",
+                "url": "https://www.nydailynews.com",
+                "country": "us"
+            },
+            "title": "NYC public schools to release guidelines for AI use in class",
+            "url": "https://www.nydailynews.com/2026/03/23/nyc-public-schools-ai-guidelines-classroom/",
+            "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2026/03/Kamar-Samuels.jpg?w=1024&h=576",
+            "publishedAt": "2026-03-23T20:56:57Z"
+        },
         {
             "source": {
                 "id": "732b46cdef66b68ee2fbc940e79f81de",
@@ -3378,54 +3426,6 @@
             "url": "https://www.livemint.com/news/us-germany-canada-disrupt-botnets-that-infected-millions-of-devices-11774042874472.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news_3_1733464427658_1733464446564.jpg",
             "publishedAt": "2026-03-20T21:41:14Z"
-        },
-        {
-            "source": {
-                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
-                "name": "Chicago Tribune",
-                "url": "https://www.chicagotribune.com",
-                "country": "us"
-            },
-            "title": "White House urges Congress to use a light touch on AI regulations",
-            "url": "https://www.chicagotribune.com/2026/03/20/white-house-congress-ai-regulations/",
-            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2026/03/Trump_21101.jpg?w=1024&h=682",
-            "publishedAt": "2026-03-20T21:34:57Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "6 Ways AI is Revolutionizing Supply Chain and Delivery Operations",
-            "url": "https://techbullion.com/6-ways-ai-is-revolutionizing-supply-chain-and-delivery-operations/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/AI-Supply-Chain-and-Delivery-Operations-1000x600.png",
-            "publishedAt": "2026-03-20T21:21:16Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "China's Alibaba targets $100 bil in AI and cloud revenue over 5 years",
-            "url": "https://japantoday.com/category/tech/china's-alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years",
-            "urlToImage": "https://media.japantoday.com/img/store/82/f7/8f83601fa47cee7dd6dcbfc1e6d9522e7f31/download/_w1700.jpeg",
-            "publishedAt": "2026-03-20T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "China's Alibaba targets $100 bil in AI and cloud revenue over 5 years",
-            "url": "https://japantoday.com/category/tech/china%27s-alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years",
-            "urlToImage": "https://media.japantoday.com/img/store/82/f7/8f83601fa47cee7dd6dcbfc1e6d9522e7f31/download/_w1700.jpeg",
-            "publishedAt": "2026-03-20T21:00:00Z"
         }
     ]
 }
