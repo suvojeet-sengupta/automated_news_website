@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-24T09:51:54.878512Z",
+    "lastUpdatedAt": "2026-03-24T10:47:28.859281Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "A man used AI to help make a cancer vaccine for his dog-an oncologist urges caution",
+            "url": "https://medicalxpress.com/news/2026-03-ai-cancer-vaccine-dog-oncologist.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/vaccine-1.jpg",
+            "publishedAt": "2026-03-23T22:30:04Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "FCC Bans New Chinese Routers to Protect U.S. Cybersecurity",
+            "url": "https://www.devdiscourse.com/article/technology/3848042-fcc-bans-new-chinese-routers-to-protect-us-cybersecurity",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_02_2201424.jpg?width=920&format=jpeg",
+            "publishedAt": "2026-03-23T22:18:20Z"
+        },
         {
             "source": {
                 "id": "f1bf32bc7d2c9750240a24442fde5232",
@@ -3402,30 +3426,6 @@
             "url": "https://www.dailyexcelsior.com/ai-key-to-reviving-agriculture-boosting-farmers-income-in-punjab-cm-mann/",
             "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2024/04/bhagwant-maan.jpg",
             "publishedAt": "2026-03-20T22:30:07Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Lawyers behind $1.5 billion Anthropic settlement slash fee bid after pushback from judge",
-            "url": "https://www.reuters.com/legal/government/lawyers-behind-15-billion-anthropic-settlement-slash-fee-bid-after-pushback-2026-03-20/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-20T21:47:24Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "US, Germany, Canada disrupt botnets that infected millions of devices",
-            "url": "https://www.livemint.com/news/us-germany-canada-disrupt-botnets-that-infected-millions-of-devices-11774042874472.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news_3_1733464427658_1733464446564.jpg",
-            "publishedAt": "2026-03-20T21:41:14Z"
         }
     ]
 }
