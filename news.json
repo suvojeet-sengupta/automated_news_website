@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-03-25T12:59:44.396994Z",
+    "lastUpdatedAt": "2026-03-25T14:20:22.541699Z",
     "articles": [
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Pentagon calls cybersecurity, digital networks a war weapon",
+            "url": "https://www.lokmattimes.com/international/pentagon-calls-cybersecurity-digital-networks-a-war-weapon/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202603253720206_202603.jpg",
+            "publishedAt": "2026-03-25T01:50:16Z"
+        },
+        {
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            },
+            "title": "Fire at Kuwait airport after drones hit fuel tank: aviation agency",
+            "url": "https://www.onmanorama.com/news/world/2026/03/25/kuwait-airport-hit-by-iran-drones-fuel-tank-damaged.html",
+            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/news/world/images/2026/3/25/kuwait-airport.jpg",
+            "publishedAt": "2026-03-25T01:28:33Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "Samsung Galaxy S26 Series makes AI effortless",
+            "url": "https://www.channelnewsasia.com/brand-studio/samsung-galaxy-s26-series-makes-ai-effortless-work-and-play-6006811",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--AejEAy85--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/24/bstudio_samsung_brandstory_herov2.jpg?itok=6HNjZtOt",
+            "publishedAt": "2026-03-25T01:26:28Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Why AI governance should be the accelerator, not the handbrake",
+            "url": "https://itwire.com/guest-articles/guest-opinion/why-ai-governance-should-be-the-accelerator-not-the-handbrake.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/28393b5b63fee74611adf73650737b5d_XS.jpg",
+            "publishedAt": "2026-03-25T01:11:18Z"
+        },
+        {
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            },
+            "title": "Judge questions Pentagon's motives for labeling Anthropic as a security threat in battle over AI",
+            "url": "https://www.ajc.com/news/2026/03/judge-questions-pentagons-motives-for-labeling-anthropic-as-a-security-threat-in-battle-over-ai/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/VSXWBYSGOBFWZGNAYZFLM4IUCI.jpg?auth=ad720430d6b3e779771219af1529e4056e80ba985dd4f161b97cd3741261ff76&width=1200&height=630&smart=true",
+            "publishedAt": "2026-03-25T01:01:48Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "Bridge Data Centres to invest up to S$5 billion in Singapore’s AI infrastructure",
+            "url": "https://www.channelnewsasia.com/advertorial/bridge-data-centres-invest-up-s5-billion-in-singapores-ai-infrastructure-6001301",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--SfJvndW8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/18/bstudio_bridge_data_centres_lead.jpg?itok=8nIcBkkE",
+            "publishedAt": "2026-03-25T01:00:00Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -72,6 +144,15 @@
             "url": "https://www.marketscreener.com/news/openreach-taps-google-ai-to-speed-fibre-rollout-cut-emissions-ce7e5ed2de8af622",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-25T000407Z_2_LYNXMPEM2O000_RTROPTP_4_BT-TELECOMS.JPG",
             "publishedAt": "2026-03-25T00:02:32Z"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Unpacking the Trends: Why Is Microsoft Dropping and What’s Next?",
+            "url": "https://techannouncer.com/unpacking-the-trends-why-is-microsoft-dropping-and-whats-next/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2026/03/TechAnnouncer.png",
+            "publishedAt": "2026-03-25 01:06:10"
         },
         {
             "source": {
@@ -3423,87 +3504,6 @@
             "url": "https://www.marketscreener.com/news/softbank-commits-500-billion-to-us-ai-data-center-project-ce7e5edcdb81ff24",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
             "publishedAt": "2026-03-23T01:35:51Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Traders overwhelmed by Iran news are turning to AI for help",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/23/traders-overwhelmed-by-iran-news-are-turning-to-ai-for-help",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/20/3822980.jpg",
-            "publishedAt": "2026-03-23T01:00:00Z"
-        },
-        {
-            "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            },
-            "title": "FII's India allocation unlikely to change in the near term: Rajat Rajgarhia",
-            "url": "https://www.business-standard.com/markets/news/fii-s-india-allocation-unlikely-to-change-in-the-near-term-rajat-rajgarhia-126032200618_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/misc/2026-03/22/thumb/fitandfill/1200X630/rajat-rajgarhia-md-ceo-motilal-oswal-institutional-equities-1774192945-9857670.jpg",
-            "publishedAt": "2026-03-23T00:45:56Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "For India, the costs of the Iran war beyond LPG",
-            "url": "https://indianexpress.com/article/opinion/editorials/for-india-the-costs-of-the-iran-war-beyond-lpg-10595676/",
-            "urlToImage": "https://images.indianexpress.com/2026/03/Express-view-Copy-3-13.jpeg",
-            "publishedAt": "2026-03-23T00:40:21Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Clustering of disease trajectories with explainable machine learning: A case study on postoperative delirium phenotypes",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001267",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001267.g010&size=inline",
-            "publishedAt": "2026-03-23T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "AI-guided prefusion stabilization of the human coronavirus OC43 spike protein enables universal embecovirus antigen design",
-            "url": "https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1013998",
-            "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013998.g007&size=inline",
-            "publishedAt": "2026-03-23T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "D-LIM: A neural network for interpretable gene-gene interactions",
-            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014107",
-            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014107.g009&size=inline",
-            "publishedAt": "2026-03-23T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Larry Fink’s Stark Warning: AI Could Split America Into Two Economic Classes Unless Wall Street Reinvents Who Gets to Invest",
-            "url": "https://www.webpronews.com/larry-finks-stark-warning-ai-could-split-america-into-two-economic-classes-unless-wall-street-reinvents-who-gets-to-invest/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-12868-1774289490.jpeg",
-            "publishedAt": "2026-03-23 18:11:34"
         }
     ]
 }
