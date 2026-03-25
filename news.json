@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-03-25T09:49:59.709093Z",
+    "lastUpdatedAt": "2026-03-25T10:43:29.968139Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Judge Calls Pentagon's Actions in AI Case 'Troubling'",
+            "url": "https://www.newsmax.com/newsfront/anthropic-pentagon-donald-trump/2026/03/24/id/1250647/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=8056f09c-f4e9-4c51-8ff5-55e2169df11b&SiteName=Newsmax",
+            "publishedAt": "2026-03-24T22:37:28Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Iran War for U.S. and Israel is a Test lab for ai Warfare",
+            "url": "https://www.dailyexcelsior.com/iran-war-for-u-s-and-israel-is-a-test-lab-for-ai-warfare/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/03/wr.gif",
+            "publishedAt": "2026-03-24T22:30:55Z"
+        },
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "Kentucky woman rejects $26 million offer to turn her farm into a data center",
+            "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+            "publishedAt": "2026-03-24T22:22:57Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Oracle reworks its suite of cloud software as 'agentic apps'",
+            "url": "https://www.marketscreener.com/news/oracle-reworks-its-suite-of-cloud-software-as-agentic-apps-ce7e5edddd80f621",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-09T202013Z_1_LYNXNPEL8810E_RTROPTP_4_ORACLE-RESULTS.JPG",
+            "publishedAt": "2026-03-24T22:20:01Z"
+        },
+        {
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com",
+                "country": "us"
+            },
+            "title": "OpenAI pulls the plug on Sora, the viral AI video app",
+            "url": "https://www.chicagotribune.com/2026/03/24/openai-shutting-down-sora-video-app/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2026/03/Media_AI_Journalism_40362.jpg?w=1024&h=682",
+            "publishedAt": "2026-03-24T22:18:36Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "OpenAI Pulls Plug on AI Video App Sora Over Deepfake Concerns",
+            "url": "https://www.newsmax.com/newsfront/openai-sora-artificial-intelligence/2026/03/24/id/1250644/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=87f8a5c1-37ac-4da8-b38d-8aff97cd8055&SiteName=Newsmax",
+            "publishedAt": "2026-03-24T22:05:54Z"
+        },
+        {
+            "source": {
+                "id": "5cfd646fbad1ee4fa352342ad739c263",
+                "name": "Billboard",
+                "url": "https://www.billboard.com",
+                "country": "us"
+            },
+            "title": "Music Publishers Say Anthropic AI Claude Training Violated Copyrights",
+            "url": "https://www.billboard.com/pro/music-publishers-anthropic-ai-claude-training-copyrights/",
+            "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/07/umg-santa-monica-office-2020-billboard-1800.jpg?w=1024",
+            "publishedAt": "2026-03-24T21:51:18Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -1620,6 +1704,15 @@
             "url": "https://www.prnewswire.co.uk/news-releases/inspira-enterprise-joins-the-microsoft-intelligent-security-association-302722223.html",
             "urlToImage": "https://mma.prnewswire.com/media/2400111/Inspira_Enterprise_Logo.jpg?p=facebook",
             "publishedAt": "2026-03-24T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "indianexpress"
+            },
+            "title": "HP unveils IQ as on-device AI, high-performance PCs to help accelerate enterprise AI adoption",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/hp-unveils-iq-as-on-device-ai-high-performance-pcs-to-help-accelerate-enterprise-ai-adoption-10599479/",
+            "urlToImage": "https://images.indianexpress.com/2026/03/WhatsApp-Image-2026-03-25-at-03.45.261.jpeg",
+            "publishedAt": "2026-03-24 22:28:24"
         },
         {
             "source": {
@@ -3375,78 +3468,6 @@
             "url": "https://celebrityhint.com/ibm-debuts-new-ai-enabled-digital-experiences-for-the-90th-masters-tournament/",
             "urlToImage": "https://mma.prnewswire.com/media/2939461/IBM_2026_Masters_1101_PressReleasePhoneImages_Vault_v05_alpha.jpg",
             "publishedAt": "2026-03-23 14:00:00"
-        },
-        {
-            "source": {
-                "name": "gyanhigyan"
-            },
-            "title": "Transformative Trends in Life Sciences: The Future of Pharmaceuticals and Biotechnology",
-            "url": "https://gyanhigyan.com/national/transformative-trends-in-life-sciences-the-future-of/cid18407497.htm",
-            "urlToImage": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/a060ecb6c2f2a4f08a70f8e7e056365a.png?width=1280&height=720&resizemode=4",
-            "publishedAt": "2026-03-23 13:30:59"
-        },
-        {
-            "source": {
-                "name": "androidpolice"
-            },
-            "title": "Your battery is paying the price for AI — here's the fix",
-            "url": "https://www.androidpolice.com/ai-battery-killers/",
-            "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/03/two-robotic-hands-holding-a-nearly-empty-red-battery-and-a-microchip-labeled-ai-against-a-blue-background.png?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-03-23 13:30:10"
-        },
-        {
-            "source": {
-                "name": "businesswire"
-            },
-            "title": "RapidFort Partners with Nutanix to Deliver Secure, Compliant Kubernetes at Development Speed for Enterprise AI Workloads",
-            "url": "http://www.businesswire.com/news/home/20260323243543/en/RapidFort-Partners-with-Nutanix-to-Deliver-Secure-Compliant-Kubernetes-at-Development-Speed-for-Enterprise-AI-Workloads/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
-            "urlToImage": "https://mms.businesswire.com/media/20260323243543/en/2753382/22/RapidFort_logo_%281%29.jpg",
-            "publishedAt": "2026-03-23 13:30:00"
-        },
-        {
-            "source": {
-                "name": "norfolkdailynews"
-            },
-            "title": "OpenLens Launches Free AI Visibility Platform to Track Brand Mentions Across ChatGPT, Claude, Google AI, Perplexity, and DeepSeek",
-            "url": "https://norfolkdailynews.com/online_features/press_releases/openlens-launches-free-ai-visibility-platform-to-track-brand-mentions-across-chatgpt-claude-google-ai/article_724a79a0-e957-5ce6-9de4-0ee09ffc9ac6.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/e/16/e165c34e-d94a-57a0-ac49-ca42cb611160/69c13b156e9c1.image.jpg?crop=720%2C378%2C0%2C13",
-            "publishedAt": "2026-03-23 12:50:06"
-        },
-        {
-            "source": {
-                "name": "technewsworld"
-            },
-            "title": "The Lenovo Auto AI Box: Plug-and-Play Savior of the Modern Car",
-            "url": "https://www.technewsworld.com/story/the-lenovo-auto-ai-box-plug-and-play-savior-of-the-modern-car-180247.html?rss=1",
-            "urlToImage": "https://www.technewsworld.com/wp-content/uploads/sites/3/2026/03/Lenovo-Auto-AI-Box.jpg",
-            "publishedAt": "2026-03-23 12:00:05"
-        },
-        {
-            "source": {
-                "name": "techgenyz"
-            },
-            "title": "Amazon Transformer Project Signals an Exciting New Era for Alexa AI Smartphones in 2026",
-            "url": "https://techgenyz.com/amazon-transformer-project-signals-exciting-new-era/",
-            "urlToImage": "https://techgenyz.com/wp-content/uploads/2026/03/Amazon-smartphone.webp",
-            "publishedAt": "2026-03-23 11:51:43"
-        },
-        {
-            "source": {
-                "name": "abplive"
-            },
-            "title": "Using ChatGPT For Free? Ads Are Coming To Your Screen Very Soon",
-            "url": "https://news.abplive.com/technology/chatgpt-ads-india-are-coming-openai-free-users-us-rollout-go-plans-1832586",
-            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/08/28/259dfc350145acfdfa27362f9e56c7eb17563589611571164_original.png?impolicy=abp_cdn&imwidth=1200&height=675",
-            "publishedAt": "2026-03-23 11:39:32"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Enterprise AI is becoming a coordination problem",
-            "url": "https://www.techtarget.com/searchcustomerexperience/feature/Enterprise-AI-is-becoming-a-coordination-problem",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/collab_a346805525.jpg",
-            "publishedAt": "2026-03-23 11:25:00"
         }
     ]
 }
