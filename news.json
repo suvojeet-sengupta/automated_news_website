@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-03-25T22:31:22.323422Z",
+    "lastUpdatedAt": "2026-03-25T23:30:07.563476Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Health Rounds: Fake X-rays created by AI fool radiologists and even AI itself",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/health-rounds-fake-x-rays-created-by-ai-fool-radiologists-even-ai-itself-2026-03-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/IZJSBY3TKBIO3BCMNLSCT4DELA.jpg?auth=98588749baf3657c02e93abcc9d7d4bdf09f60fb53031c487b18e03e682f73cc&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-25T11:23:10Z"
+        },
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "AI is coming for the sommeliers",
+            "url": "https://triblive.com/lifestyles/food-drink/ai-is-coming-for-the-sommeliers/",
+            "urlToImage": "https://assets-varnish.triblive.com/2026/03/9420636_web1_POUR-AI-SOMMELIERS-2-4.jpg",
+            "publishedAt": "2026-03-25T11:07:23Z"
+        },
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "Data science, AI slip as 53% of Hong Kong’s university subjects fall in QS rankings",
+            "url": "https://www.scmp.com/news/hong-kong/education/article/3347882/data-science-ai-slip-53-hong-kong-university-subjects-fall-qs-ranking",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/03/25/9ffec25a-f1b9-4f35-908c-13661c3a34f2_f1d72237.jpg?itok=3jMyYTdy&v=1774436552",
+            "publishedAt": "2026-03-25T11:06:25Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI-Generated X-rays: A New Frontier in Medical Imaging Deception",
+            "url": "https://www.devdiscourse.com/article/health/3850120-ai-generated-x-rays-a-new-frontier-in-medical-imaging-deception",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_01_27_1763153.jpg?width=920&format=jpeg",
+            "publishedAt": "2026-03-25T11:02:02Z"
+        },
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "Does Trump really have news about aliens and UFOs? That would be the first sign of intelligent life",
+            "url": "https://www.theguardian.com/commentisfree/2026/mar/25/trump-news-aliens-ufos-first-sign-of-intelligent-life",
+            "urlToImage": "https://i.guim.co.uk/img/media/2ff2b2d6850e748994591d286aa7bb215fe0f82b/0_0_5111_4089/master/5111.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=807f02e5f1d239fad08d779c8e227891",
+            "publishedAt": "2026-03-25T11:00:05Z"
+        },
+        {
+            "source": {
+                "id": "bb30de23eec2cc576488c93582eaeb76",
+                "name": "Outlook Money",
+                "url": "https://www.outlookmoney.com",
+                "country": "in"
+            },
+            "title": "Cyberattack Attempts On RBI Website Rise To 61 Million In Q3 Of FY26",
+            "url": "https://www.outlookmoney.com/banking/cyberattack-attempts-on-rbi-website-rise-to-61-million-in-q3-of-fy26",
+            "urlToImage": "https://media.assettype.com/outlookmoney/import/public/uploads/article/gallery/abd5deb5e2fa250dffbb3b206dfbb483.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-03-25T10:56:16Z"
+        },
+        {
+            "source": {
+                "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
+                "name": "indy100",
+                "url": "https://www.indy100.com",
+                "country": "gb"
+            },
+            "title": "OpenAI closes Sora video app amid fears over realistic deepfakes",
+            "url": "https://www.indy100.com/science-tech/openai-sora-shutting-videos-deepfakes",
+            "urlToImage": "https://www.indy100.com/media-library/latest-on-elon-musk-and-openai.jpg?id=51759950&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+            "publishedAt": "2026-03-25T10:55:30Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "German army eyes AI tools to expedite wartime decision-making",
+            "url": "https://www.straitstimes.com/world/europe/german-army-eyes-ai-tools-to-expedite-wartime-decision-making",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/7911adbcaaf378ea7ee4a262e83debfa2a761161df70805e4c88560e0aea109c",
+            "publishedAt": "2026-03-25T10:46:49Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "German army eyes AI tools to expedite wartime decision-making",
+            "url": "https://www.marketscreener.com/news/german-army-eyes-ai-tools-to-expedite-wartime-decision-making-ce7e5ed3d88ef127",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-25T104429Z_1_LYNXMPEM2O0IW_RTROPTP_4_GERMANY-DEFENCE-AI.JPG",
+            "publishedAt": "2026-03-25T10:45:09Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "German army eyes AI tools to expedite wartime decision-making",
+            "url": "https://www.reuters.com/technology/german-army-eyes-ai-tools-expedite-wartime-decision-making-2026-03-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/AH3X5RMZ2ZJTLO7TTPA35QJOVY.jpg?auth=e18854aad6b12be3b72f57f1a172d9303d678aa837eb592e787d52e24119b7cc&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-25T10:44:38Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Chinese AI firms threaten national security through illegal extraction from US companies: Anthropic",
+            "url": "https://www.lokmattimes.com/business/chinese-ai-firms-threaten-national-security-through-illegal-extraction-from-us-companies-anthropic/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202603253720887_202603.jpg",
+            "publishedAt": "2026-03-25T10:34:39Z"
+        },
         {
             "source": {
                 "id": "21468bec836de1ebb209ff6f78fbfe3e",
@@ -228,6 +360,18 @@
             "url": "https://www.statnews.com/2026/03/25/qualified-health-raises-125-million-help-hospitals-manage-ai/",
             "urlToImage": "https://www.statnews.com/wp-content/uploads/2023/06/STAT-Meta-Image-1-1024x576.png",
             "publishedAt": "2026-03-25T08:30:00Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Best Certification in Data Science for 2026",
+            "url": "https://techbullion.com/best-certification-in-data-science-for-2026/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/Certification-in-Data-Science-1000x600.png",
+            "publishedAt": "2026-03-25T08:17:39Z"
         },
         {
             "source": {
@@ -792,6 +936,24 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013728",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013728.g008&size=inline",
             "publishedAt": "2026-03-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Red Hat is approaching sovereign AI as a make-or-break enterprise concern",
+            "url": "https://siliconangle.com/2026/03/25/sovereign-ai-now-top-enterprise-priority-kubeconeu/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/IMG_8611-e1774435589427.jpg",
+            "publishedAt": "2026-03-25 11:01:03"
+        },
+        {
+            "source": {
+                "name": "sdxcentral"
+            },
+            "title": "Nvidia, hyperscaler-backed open standard for AI inference torch passed to Linux Foundation",
+            "url": "https://www.sdxcentral.com/news/nvidia-hyperscaler-backed-open-standard-for-ai-inference-torch-passed-to-linux-foundation/",
+            "urlToImage": "https://media.datacenterdynamics.com/media/images/YutongLiu-KingstonSchool_of_Art_T.2e16d0ba.fill-1200x630.jpg",
+            "publishedAt": "2026-03-25 10:48:27"
         },
         {
             "source": {
@@ -3318,174 +3480,6 @@
             "url": "https://www.news-medical.net/news/20260323/Machine-learning-speeds-up-AMP-discovery-for-treating-ulcerative-colitis.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/9/Digital_composite_of_highlighted_red_painful_intestine_of_woman__health_care_%26__-_mi_viri_M1_e6797484d65c4349af727c0f40f1116a-620x480.jpg",
             "publishedAt": "2026-03-23T17:36:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "The Global Fintech Workforce Expected to Exceed 10 Million Professionals",
-            "url": "https://techbullion.com/the-global-fintech-workforce-expected-to-exceed-10-million-professionals/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/global-fintech-workforce-10-million-1000x504.jpg",
-            "publishedAt": "2026-03-23T17:27:37Z"
-        },
-        {
-            "source": {
-                "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
-                "name": "indy100",
-                "url": "https://www.indy100.com",
-                "country": "gb"
-            },
-            "title": "AI is ‘renting humans’ for real world tasks it can’t do itself - and yes, it’s paid",
-            "url": "https://www.indy100.com/science-tech/ai-renting-humans-jobs-careers",
-            "urlToImage": "https://www.indy100.com/media-library/a-person-holds-a-phone-displaying-an-ai-chatbot-in-their-right-hand-while-taking-notes-at-a-desk-and-writing-with-their-left-ha.jpg?id=65346132&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
-            "publishedAt": "2026-03-23T17:18:36Z"
-        },
-        {
-            "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            },
-            "title": "American Maritime Strategy in Indian Ocean: Tracing US' post-Cold War shift",
-            "url": "https://www.business-standard.com/book/american-maritime-strategy-in-indian-ocean-tracing-us-post-cold-war-shift-126032301291_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/23/thumb/fitandfill/1200X630/1774282096-4368.jpg",
-            "publishedAt": "2026-03-23T17:02:25Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Some California judges will use AI as a pilot program - but humans will still rule",
-            "url": "https://www.mercurynews.com/2026/03/23/some-la-judges-will-use-ai-as-a-pilot-program-but-humans-will-still-rule/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/03/courts-generic-3.jpg?w=735&h=463",
-            "publishedAt": "2026-03-23T17:00:59Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "VikingCloud Wins 2026 Global InfoSec Market Disruptor Compliance Award for CCS Advantage",
-            "url": "https://www.prnewswire.co.uk/news-releases/vikingcloud-wins-2026-global-infosec-market-disruptor-compliance-award-for-ccs-advantage-302722057.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2924997/5875986/USE_THIS_LOGO__VikingCloud_Full_Logo_Stacked_Original__1___002_Logo.jpg?p=facebook",
-            "publishedAt": "2026-03-23T17:00:00Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "'First AI Pradesh': UP Signs Rs 25,000-Crore Deal To Expand Artificial Intelligence Infra In State",
-            "url": "https://www.ndtvprofit.com/technology/up-signs-rs-25-000-crore-ai-deal-with-puch-ai-plans-ai-parks-university-and-data-infrastructure-11256148",
-            "urlToImage": "https://c.ndtvimg.com/2026-01/3e9abcfd_sec-ai.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-03-23T16:56:01Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "AI may boost euro area productivity growth by 4% in 10 years, ECB says",
-            "url": "https://www.marketscreener.com/news/ai-may-boost-euro-area-productivity-growth-by-4-in-10-years-ecb-says-ce7e5eddd981ff2d",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-24T150345Z_1_LYNXMPELAN0QH_RTROPTP_4_MICHAEL-BURRY-SUBSTACK.JPG",
-            "publishedAt": "2026-03-23T16:52:43Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "US Digital Advertising and AI: How Machine Learning Is Optimising Ad Performance",
-            "url": "https://techbullion.com/us-digital-advertising-and-ai-how-machine-learning-is-optimising-ad-performance/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/us-digital-advertising-ai-machine-learning-ad-performance-vibrant-1000x504.jpg",
-            "publishedAt": "2026-03-23T16:49:18Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI becoming integral to how networks are designed, experienced: TRAI Chief",
-            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/ai-becoming-integral-to-how-networks-are-designed-experienced-trai-chief/articleshow/129757598.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-129757611,width-1200,height-630,imgsize-110412,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-03-23T16:24:00Z"
-        },
-        {
-            "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
-                "country": "us"
-            },
-            "title": "The passwordless future is years away.",
-            "url": "https://thenextweb.com/news/passwordless-future-years-away-business-password-management-2026",
-            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FPasspack-article.png&signature=a2836b0a9a24fbe1e452d23c386b42c6",
-            "publishedAt": "2026-03-23T16:22:22Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Nokod Security Named Winner of the Coveted Global InfoSec Awards during RSAC Conference 2026",
-            "url": "https://www.prnewswire.co.uk/news-releases/nokod-security-named-winner-of-the-coveted-global-infosec-awards-during-rsac-conference-2026-302722106.html",
-            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-            "publishedAt": "2026-03-23T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Delhi High Court Slams Unauthorised AI Use of Sonakshi Sinha's Likeness",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
-            "publishedAt": "2026-03-23T15:47:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "BlackRock's Fink warns AI boom could widen wealth divide without broader participation",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/blackrocks-fink-warns-ai-boom-could-widen-wealth-divide-without-broader-participation/articleshow/129756862.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-21904,resizemode-75,msid-129756862/tech/artificial-intelligence/blackrocks-fink-warns-ai-boom-could-widen-wealth-divide-without-broader-participation.jpg",
-            "publishedAt": "2026-03-23T15:41:24Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US needs more energy development to power AI, Google president says",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-needs-more-energy-development-to-power-ai-google-president-says/articleshow/129756508.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-19616,resizemode-75,msid-129756508/tech/artificial-intelligence/us-needs-more-energy-development-to-power-ai-google-president-says.jpg",
-            "publishedAt": "2026-03-23T15:35:07Z"
         }
     ]
 }
