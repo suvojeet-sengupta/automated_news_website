@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-03-25T19:43:22.716496Z",
+    "lastUpdatedAt": "2026-03-25T20:34:13.522046Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "India's Call for Digital Independence: Neeraj Dangi Advocates for Indigenous Search Engine",
+            "url": "https://www.devdiscourse.com/article/technology/3849900-indias-call-for-digital-independence-neeraj-dangi-advocates-for-indigenous-search-engine",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_02_2025_12_03_17_4302018.webp?width=920&format=jpeg",
+            "publishedAt": "2026-03-25T08:30:08Z"
+        },
+        {
+            "source": {
+                "id": "8867e8e7dcb6466620736bb48c455572",
+                "name": "STAT",
+                "url": "https://www.statnews.com",
+                "country": "us"
+            },
+            "title": "Qualified Health raises $125 million to help hospitals manage AI",
+            "url": "https://www.statnews.com/2026/03/25/qualified-health-raises-125-million-help-hospitals-manage-ai/",
+            "urlToImage": "https://www.statnews.com/wp-content/uploads/2023/06/STAT-Meta-Image-1-1024x576.png",
+            "publishedAt": "2026-03-25T08:30:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Meta Platforms Grants Stock Options to Top Executives",
+            "url": "https://www.marketscreener.com/news/meta-platforms-grants-stock-options-to-top-executives-ce7e5ed3d989f721",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-03-25T08:12:10Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "How AI Search Is Reshaping Car Shopping in the United States in 2026",
+            "url": "https://www.manilatimes.net/2026/03/25/tmt-newswire/plentisoft/how-ai-search-is-reshaping-car-shopping-in-the-united-states-in-2026/2307098",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/25/987089.jpg",
+            "publishedAt": "2026-03-25T08:06:35Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Confluence Local Marketing Reveals How AI-First SEO Is Reshaping Local Business Visibility",
+            "url": "https://www.manilatimes.net/2026/03/25/tmt-newswire/plentisoft/confluence-local-marketing-reveals-how-ai-first-seo-is-reshaping-local-business-visibility/2307096",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/25/987086.jpg",
+            "publishedAt": "2026-03-25T08:06:33Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "When will humanoid robots go mainstream? Between 2 and 10 years, Chinese industry players say",
+            "url": "https://www.channelnewsasia.com/east-asia/boao-humanoid-robots-ai-mainstream-challenges-risks-governance-6011081",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Ndw68qk3--/c_crop,h_510,w_907,x_87,y_9/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/25/image_2.png?itok=a-Sv-vjF",
+            "publishedAt": "2026-03-25T07:58:54Z"
+        },
+        {
+            "source": {
+                "id": "f4967fce32bfc735983f0f39dcdba127",
+                "name": "pv magazine",
+                "url": "https://www.pv-magazine.com",
+                "country": "de"
+            },
+            "title": "Smart meters are vulnerable gateways to cyberattacks",
+            "url": "https://www.pv-magazine.com/2026/03/25/smart-meters-are-vulnerable-gateways-to-cyberattacks/",
+            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2026/03/ChatGPT-Image-19.-Marz-2026-09_29_50.png",
+            "publishedAt": "2026-03-25T07:58:30Z"
+        },
         {
             "source": {
                 "id": "f4d035ae0463df22c36ae97972a33ba6",
@@ -504,6 +588,15 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013728",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013728.g008&size=inline",
             "publishedAt": "2026-03-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Meta Employees in Wearables and Ads Divisions Told To Work Remotely, HR Sends Email As Layoffs Loom",
+            "url": "https://www.latestly.com/technology/meta-employees-in-wearables-and-ads-divisions-told-to-work-remotely-hr-sends-email-as-layoffs-loom-7366960.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/01/ar-Zuckerberg.jpg",
+            "publishedAt": "2026-03-25 08:10:02"
         },
         {
             "source": {
@@ -3399,102 +3492,6 @@
             "url": "https://www.reuters.com/business/blackrock-ceo-fink-backs-staying-invested-amid-volatility-flags-ai-shift-2026-03-23/",
             "urlToImage": "https://www.reuters.com/resizer/v2/74TGA6IPFNPGLEIFX7FAABIQSI.jpg?auth=3eede74920194f30402b2f081233da2f92bb315765b5166441e0c6f019d9ee63&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2026-03-23T11:59:15Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "BlackRock CEO Fink backs staying invested amid volatility, flags AI shift",
-            "url": "https://www.marketscreener.com/news/blackrock-ceo-fink-backs-staying-invested-amid-volatility-flags-ai-shift-ce7e5edcde8cf621",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-23T115903Z_1_LYNXMPEM2M0L6_RTROPTP_4_BLACKROCK-CEO-MARKET-OUTLOOK.JPG",
-            "publishedAt": "2026-03-23T11:57:46Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "AI and Big Tech Advertising: How Machine Learning Optimises Ad Delivery",
-            "url": "https://techbullion.com/ai-and-big-tech-advertising-how-machine-learning-optimises-ad-delivery/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/ai-big-tech-advertising-machine-learning-ad-delivery-1000x504.jpg",
-            "publishedAt": "2026-03-23T11:38:34Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "Tracking The Sector Outperformers Of The Iran War",
-            "url": "https://seekingalpha.com/article/4884913-tracking-the-sector-outperformers-of-the-iran-war",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2222092414/image_2222092414.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-03-23T11:30:40Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "Sector winners from the Iran war: Energy, chemicals, satellites and cyber",
-            "url": "https://seekingalpha.com/news/4567263-sector-winners-from-the-iran-war-energy-chemicals-satellites-and-cyber",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2222092414/image_2222092414.jpg?io=getty-c-w630",
-            "publishedAt": "2026-03-23T11:29:50Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "India-Taiwan AI Collaboration Takes Center Stage at Convergence India 2026",
-            "url": "https://www.republicworld.com/tech/india-taiwan-ai-collaboration-takes-center-stage-at-convergence-india-2026",
-            "urlToImage": "https://img.republicworld.com/all_images/2026/03/india-taiwan-ai-collaboration-takes-center-stage-at-convergence-india-2026-1774265006716-1280x720.webp",
-            "publishedAt": "2026-03-23T11:23:40Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Microsoft-Backed OpenAI Sweetens Private-Equity Pitch to Compete With Anthropic",
-            "url": "https://www.marketscreener.com/news/microsoft-backed-openai-sweetens-private-equity-pitch-to-compete-with-anthropic-ce7e5edcdf80f625",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-03-23T11:06:09Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "AI finds existing drugs that may extend survival for ALS patients",
-            "url": "https://www.mercurynews.com/2026/03/23/ai-finds-existing-drugs-that-may-extend-survival-for-als-patients/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/03/EBT-L-ALSDRUGS-03XX-8.jpg?w=1024&h=694",
-            "publishedAt": "2026-03-23T11:05:51Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "False Alarm: Cyanide Gas Bomb Threat at Indore RTO",
-            "url": "https://www.devdiscourse.com/article/law-order/3847230-false-alarm-cyanide-gas-bomb-threat-at-indore-rto",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/02_10_2025_03_10_05_8577411.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-23T10:57:10Z"
         }
     ]
 }
