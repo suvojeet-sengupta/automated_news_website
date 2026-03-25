@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-03-25T21:34:28.297288Z",
+    "lastUpdatedAt": "2026-03-25T22:31:22.323422Z",
     "articles": [
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "UP’s ₹25,000 crore Puch AI MoU faces scrutiny over startup credentials",
+            "url": "https://www.hindustantimes.com/india-news/ups-25-000-crore-puch-ai-mou-faces-scrutiny-over-startup-credentials-101774434506295.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/03/25/550x309/Describing-the-company-as-a-bootstrap-startup--Inv_1774434500169.jpg",
+            "publishedAt": "2026-03-25T10:28:25Z"
+        },
+        {
+            "source": {
+                "id": "6c986e3fe05a2a40bce93be17fbd942e",
+                "name": "The Olive Press",
+                "url": "https://www.theolivepress.es",
+                "country": "es"
+            },
+            "title": "Even in the age of AI expats in Spain will still need the human touch of a trusted financial adviser",
+            "url": "https://www.theolivepress.es/spain-news/2026/03/25/even-in-the-age-of-ai-expats-in-spain-will-still-need-the-human-touch-of-a-trusted-financial-adviser/",
+            "urlToImage": "https://www.theolivepress.es/wp-content/uploads/2025/03/artificial-intelligence-3382521-scaled.jpg",
+            "publishedAt": "2026-03-25T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Arm jumps as new AI chip to drive billions in annual revenue",
+            "url": "https://www.reuters.com/business/arm-jumps-new-ai-chip-drive-billions-annual-revenue-2026-03-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/NJKCGNDM25LDNJBOMTXMYPVCKY.jpg?auth=471124189b23e2996b929365204ffc62d7d6d8d4eb51f299dd2752c0668367bc&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-25T09:56:03Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "OpenAI Ropes In JioHotstar CEO Kiran Mani To Head Asia-Pacific Operations",
+            "url": "https://www.freepressjournal.in/business/openai-ropes-in-jiohotstar-ceo-kiran-mani-to-head-asia-pacific-operations",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-03-25/ybgmmc3o/1200675-57.png",
+            "publishedAt": "2026-03-25T09:43:24Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "CoinSageAI Introduces AI-Driven Quantitative Framework for Evolving Digital Asset Markets",
+            "url": "https://www.manilatimes.net/2026/03/25/tmt-newswire/globenewswire/coinsageai-introduces-ai-driven-quantitative-framework-for-evolving-digital-asset-markets/2307202",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/25/987341.jpg",
+            "publishedAt": "2026-03-25T09:42:56Z"
+        },
         {
             "source": {
                 "id": "9b153bd4f54b13f67b1b831d646a1548",
@@ -732,6 +792,15 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013728",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013728.g008&size=inline",
             "publishedAt": "2026-03-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techspot"
+            },
+            "title": "OpenAI pulls the plug on Sora, ending $1 billion Disney deal in sudden pivot",
+            "url": "https://www.techspot.com/news/111812-openai-pulls-plug-sora-ending-1-billion-disney.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/03/2026-03-24-image-29.jpg",
+            "publishedAt": "2026-03-25 10:26:00"
         },
         {
             "source": {
@@ -3417,78 +3486,6 @@
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-needs-more-energy-development-to-power-ai-google-president-says/articleshow/129756508.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-19616,resizemode-75,msid-129756508/tech/artificial-intelligence/us-needs-more-energy-development-to-power-ai-google-president-says.jpg",
             "publishedAt": "2026-03-23T15:35:07Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "South China Morning Post",
-            "url": "https://www.scmp.com/news/world/middle-east/article/3347633/iran-built-camera-network-control-dissent-israel-made-it-targeting-tool",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_explainer/public/d8/images/canvas/2026/03/23/8010cfe3-bb6f-4c52-bada-f01744cff0ad_60d1dce5.jpg?itok=wQbaz7ME&v=1774280039",
-            "publishedAt": "2026-03-23T15:34:02Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI's Transformative Impact on India's Telecom Landscape",
-            "url": "https://www.devdiscourse.com/article/technology/3847712-ais-transformative-impact-on-indias-telecom-landscape",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/16_05_2025_12_02_33_3109045.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-23T15:22:22Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "CERAWEEK US needs more energy development to power AI, Google president says",
-            "url": "https://www.reuters.com/business/energy/ceraweek-us-needs-more-energy-development-power-ai-google-president-says-2026-03-23/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/V2UHKYV62VKYZO3Q7ICPUPVLTA.jpg?auth=f10931523cea83607ad60a4383bb464dfc1e8f671d55f458006926395f02ab09&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-23T15:20:16Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Synack Wins Global InfoSec Awards, Named Market Leader in AI-Powered Cybersecurity and Trailblazer in PTaaS",
-            "url": "https://www.prnewswire.co.uk/news-releases/synack-wins-global-infosec-awards-named-market-leader-in-ai-powered-cybersecurity-and-trailblazer-in-ptaas-302721419.html",
-            "urlToImage": "https://mma.prnewswire.com/media/838158/Synack_Logo_v2.jpg?p=facebook",
-            "publishedAt": "2026-03-23T15:00:00Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "Want to protect yourself from AI? Invest, says BlackRock’s Larry Fink",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2026/03/23/want-to-protect-yourself-from-ai-invest-says-blackrocks-larry-fink/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/03/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW4zNzYzbncwMDB6M2I2cnkyNDN3Nmh4-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbjM2ZTV4aDAwMnoyN3AwZDUwejkxbTg-860x573.jpg",
-            "publishedAt": "2026-03-23T14:43:26Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "Want to protect yourself from AI? Invest, says BlackRock’s Larry Fink",
-            "url": "https://edition.cnn.com/2026/03/23/business/ai-blackrock-larry-fink-shareholder-letter",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1501810489.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-03-23T14:43:26Z"
         }
     ]
 }
