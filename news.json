@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-03-25T08:43:51.473398Z",
+    "lastUpdatedAt": "2026-03-25T09:49:59.709093Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Tech Down on AI Financing Fears -- Tech Roundup",
+            "url": "https://www.marketscreener.com/news/tech-down-on-ai-financing-fears-tech-roundup-ce7e5ed2df8ef522",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-03-24T21:48:22Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "OpenAI pulls the plug on Sora video generator",
+            "url": "https://apnews.com/article/openai-closes-sora-ai-c60de960536923f33edc04b92ddbe1cd",
+            "urlToImage": "https://dims.apnews.com/dims4/default/cea8c6a/2147483647/strip/true/crop/5000x3332+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2Fba%2F457b3d6ae77b645f2cfdb9326614%2F23f5b97d8ced4a53a7d770917be3afc8",
+            "publishedAt": "2026-03-24T21:36:19Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns",
+            "url": "https://www.clickondetroit.com/business/2026/03/24/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ALRDIMMWLZCCLNZ455S6VRMLME.jpg?_a=DATAg1fkZAA0",
+            "publishedAt": "2026-03-24T21:36:19Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "OpenAI Pulls the Plug on Sora, the Viral AI Video App That Sparked Deepfake Concerns",
+            "url": "https://www.usnews.com/news/best-states/california/articles/2026-03-24/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/847a742/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F09%2F66e6ced388d934a1bc98b77ec0ec27%2F23f5b97d8ced4a53a7d770917be3afc8Media_AI_Journalism_40362.jpg",
+            "publishedAt": "2026-03-24T21:36:00Z"
+        },
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            },
+            "title": "Baltimore City sues X over Grok's A.I. role in non-consensual sexualized deepfakes",
+            "url": "https://www.cbsnews.com/baltimore/news/baltimore-city-sues-x-groks-a-i-role-non-consensual-sexualized-deepfakes/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/23/9e7fce50-705a-4996-91c5-97446f4a1a3d/thumbnail/1200x630/d0de2c93c39830e1933442b87b0dcff0/baltimore.png",
+            "publishedAt": "2026-03-24T21:27:00Z"
+        },
+        {
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            },
+            "title": "Databricks introduces Lakewatch SIEM, acquires two cybersecurity startups",
+            "url": "https://siliconangle.com/2026/03/24/databricks-introduces-lakewatch-siem-acquires-two-cybersecurity-startups/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Databricks.png",
+            "publishedAt": "2026-03-24T21:05:30Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -24,6 +96,18 @@
             "url": "https://www.manilatimes.net/2026/03/25/tmt-newswire/globenewswire/xmax-announces-strategic-expansion-into-artificial-intelligence-to-drive-growth-and-diversification/2306919",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/25/986769.jpg",
             "publishedAt": "2026-03-24T20:36:14Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Creating 'humble' medical AI systems that are more collaborative and forthcoming",
+            "url": "https://medicalxpress.com/news/2026-03-humble-medical-ai-collaborative-forthcoming.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/designing-ai-systems-f.jpg",
+            "publishedAt": "2026-03-24T20:20:05Z"
         },
         {
             "source": {
@@ -3363,69 +3447,6 @@
             "url": "https://www.techtarget.com/searchcustomerexperience/feature/Enterprise-AI-is-becoming-a-coordination-problem",
             "urlToImage": "https://www.techtarget.com/rms/onlineimages/collab_a346805525.jpg",
             "publishedAt": "2026-03-23 11:25:00"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Google CEO Sundar Pichai’s plan to make Gemini the only AI that matters",
-            "url": "https://www.fastcompany.com/91502632/google-most-innovative-companies-2026",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-3-91502632-google-most-innovative-companies-2026.jpg",
-            "publishedAt": "2026-03-23 11:00:00"
-        },
-        {
-            "source": {
-                "name": "timesnownews"
-            },
-            "title": "ChatGPT Free And Go Users In This Country Will Soon See Ads: All You Need To Know",
-            "url": "https://www.timesnownews.com/technology-science/chatgpt-free-and-go-users-in-this-country-will-soon-see-ads-all-you-need-to-know-article-153900626",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153900631,thumbsize-34660,width-1280,height-720,resizemode-75/153900631.jpg",
-            "publishedAt": "2026-03-23 10:41:36"
-        },
-        {
-            "source": {
-                "name": "theprint"
-            },
-            "title": "How India uses AI to empower the next billion users",
-            "url": "https://theprint.in/opinion/india-ai-public-good/2886340/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2025/02/Illustration-Prajna-Ghosh-ThePrint.jpg",
-            "publishedAt": "2026-03-23 08:45:41"
-        },
-        {
-            "source": {
-                "name": "etedge_insights"
-            },
-            "title": "NVIDIA partners with edForce to accelerate AI workforce upskilling in India",
-            "url": "https://etedge-insights.com/in-focus/trending/nvidia-partners-with-edforce-to-accelerate-ai-workforce-upskilling-in-india/",
-            "urlToImage": "https://etedge-insights.com/wp-content/uploads/2026/03/edForce-X-NVIDIA.jpg",
-            "publishedAt": "2026-03-23 08:37:24"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "Daily 'AI for Work' Pulse: 23rd of March",
-            "url": "https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-23rd-of-march/",
-            "urlToImage": "https://cdn.completeaitraining.com/newsletters/newsletter_2026-03-23_ghostwebsite.png",
-            "publishedAt": "2026-03-23 08:27:00"
-        },
-        {
-            "source": {
-                "name": "firstpost"
-            },
-            "title": "OpenAI to roll out ads for ChatGPT Free, Go users in US",
-            "url": "https://www.firstpost.com/tech/openai-to-roll-out-ads-for-chatgpt-free-go-users-in-us-13992182.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/01/2026-01-08T001507Z_1924435200_RC2LU7A9R3ZA_RTRMADP_3_OPENAI-STOCK-GRANT-2026-01-feaa3fd62ed5a4c2a50f5a80cd05ee34-1200x675.jpg",
-            "publishedAt": "2026-03-23 05:45:47"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "MiTAC Computing Accelerates AI Performance in the 33th Convergence India",
-            "url": "https://www.prnewswire.com/apac/news-releases/mitac-computing-accelerates-ai-performance-in-the-33th-convergence-india-302721362.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2938662/PR_image_1500_x_992_px.jpg?p=original",
-            "publishedAt": "2026-03-23 05:30:00"
         }
     ]
 }
