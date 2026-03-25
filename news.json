@@ -1,6 +1,246 @@
 {
-    "lastUpdatedAt": "2026-03-25T04:17:35.356839Z",
+    "lastUpdatedAt": "2026-03-25T05:57:33.520050Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Epic Games lays off more than 1,000 amid slowing Fortnite engagement",
+            "url": "https://japantoday.com/category/business/epic-games-lays-off-more-than-1-000-amid-slowing-fortnite-engagement",
+            "urlToImage": "https://media.japantoday.com/img/store/d4/28/b145431e8a21f6b8755e85c49d5aac37d7eb/download/_w1700.jpeg",
+            "publishedAt": "2026-03-24T17:50:05Z"
+        },
+        {
+            "source": {
+                "id": "046a50607901bb9bca25f6624dc87f76",
+                "name": "NBC 5 Chicago",
+                "url": "https://www.nbcchicago.com",
+                "country": "us"
+            },
+            "title": "‘The AI Doc’ reveals dangers and promise of artificial intelligence",
+            "url": "https://www.nbcchicago.com/entertainment/entertainment-news/oscar-winners-make-definitive-ai-documentary/3912924/",
+            "urlToImage": "https://media.nbcchicago.com/2026/03/GettyImages-2268079702.jpg?quality=85&strip=all&crop=0px%2C0px%2C3984px%2C2241px&resize=1200%2C675",
+            "publishedAt": "2026-03-24T17:33:48Z"
+        },
+        {
+            "source": {
+                "id": "8749653ef849c3df2e467a8e0f0c6672",
+                "name": "NBC10 Boston",
+                "url": "https://www.nbcboston.com",
+                "country": "us"
+            },
+            "title": "‘The AI Doc’ reveals dangers and promise of artificial intelligence",
+            "url": "https://www.nbcboston.com/entertainment/entertainment-news/oscar-winners-make-definitive-ai-documentary/3921225/",
+            "urlToImage": "https://media.nbcboston.com/2026/03/GettyImages-2268079702.jpg?quality=85&strip=all&crop=0px%2C0px%2C3984px%2C2241px&resize=1200%2C675",
+            "publishedAt": "2026-03-24T17:33:48Z"
+        },
+        {
+            "source": {
+                "id": "3fac65098bad206a4847f7fdbac9f170",
+                "name": "New York Daily News",
+                "url": "https://www.nydailynews.com",
+                "country": "us"
+            },
+            "title": "NYC schools OK AI for lesson planning, not grades or discipline",
+            "url": "https://www.nydailynews.com/2026/03/24/nyc-public-schools-ai-guidance-lesson-plans-grades-discipline/",
+            "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2026/01/shutterstock_2298167447.jpg?w=1024&h=683",
+            "publishedAt": "2026-03-24T17:26:04Z"
+        },
+        {
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            },
+            "title": "Youth held for morphing, sharing classmates' nude images on social media",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/youth-arrested-for-sharing-morhing-classmates-nude-images.html",
+            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/news/india/images/2023/3/23/crime-handcuff.jpg",
+            "publishedAt": "2026-03-24T17:19:57Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "OpenAI ChatGPT Foundation pledges $1B to ensure AI benefits all",
+            "url": "https://www.bnnbloomberg.ca/business/2026/03/24/openai-foundation-pledges-1b-in-grants-to-ensure-ai-benefits-all-of-humanity/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/OSVLZ3ZW2TC7D2AYFB7B7EXENM.jpg?smart=true&auth=197475567588f0df7ee0b47df919898f32d44baefb33ab81c6607e9208f58882&width=1200&height=630",
+            "publishedAt": "2026-03-24T17:18:42Z"
+        },
+        {
+            "source": {
+                "id": "70a0fed2567e1f81584197893e1068f9",
+                "name": "Boston.com",
+                "url": "https://www.boston.com",
+                "country": "us"
+            },
+            "title": "Young graduates face the grimmest job market in years",
+            "url": "https://www.boston.com/news/national-news/2026/03/24/young-graduates-face-the-grimmest-job-market-in-years/",
+            "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/https___nytapi.wieck_.com_feed-photos_6Xnlumg-69c2c6067e508-768x432.jpg",
+            "publishedAt": "2026-03-24T17:18:12Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Arm unveils new AI chip, expects it to add billions in annual revenue",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/arm-unveils-new-ai-chip-expects-it-to-add-billions-in-annual-revenue/articleshow/129782622.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-77120,resizemode-75,msid-129782622/tech/artificial-intelligence/arm-unveils-new-ai-chip-expects-it-to-add-billions-in-annual-revenue.jpg",
+            "publishedAt": "2026-03-24T17:16:10Z"
+        },
+        {
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            },
+            "title": "Surfshark launches HeyPolo, a privacy-first location sharing app to kill \"always-on\" tracking",
+            "url": "https://www.techradar.com/vpn/vpn-services/surfshark-launches-heypolo-a-privacy-first-location-sharing-app-to-kill-always-on-tracking",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dXkbXuHtogg2FMC9UX465e-1920-80.jpg",
+            "publishedAt": "2026-03-24T17:10:23Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Arm unveils new AI chip, expects it to add billions in annual revenue",
+            "url": "https://www.reuters.com/business/media-telecom/arm-unveils-new-ai-chip-expects-it-add-billions-annual-revenue-2026-03-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ZEP6X66ENRJP3OTYOU5HHDQTTY.jpg?auth=eeefb53a72598b1a056b6f64e6476411fe2848ea93f4c8af8897cc337858213e&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-24T17:02:41Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Arm unveils new AI chip, expects it to add billions in annual revenue",
+            "url": "https://www.marketscreener.com/news/arm-unveils-new-ai-chip-expects-it-to-add-billions-in-annual-revenue-ce7e5ed2da8bf322",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-07T204838Z_1_LYNXMPEL46141_RTROPTP_4_MALAYSIA-ARM-HOLDINGS.JPG",
+            "publishedAt": "2026-03-24T17:01:54Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "OpenAI Foundation pledges $1B in grants to ensure AI ‘benefits all of humanity’",
+            "url": "https://wtop.com/national/2026/03/openai-foundation-pledges-1b-in-grants-to-ensure-ai-benefits-all-of-humanity/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/03/Canada_Shooting_Lawsuit_26524-scaled.jpg",
+            "publishedAt": "2026-03-24T17:00:37Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "We're buying more of this cybersecurity stock as the market keeps getting it wrong",
+            "url": "https://www.cnbc.com/2026/03/24/were-buying-more-of-this-cybersecurity-stock-as-the-market-keeps-getting-it-wrong.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108255041-1769012713845-DSC02661.JPG?v=1769015146&w=1920&h=1080",
+            "publishedAt": "2026-03-24T16:38:33Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Escalating Cyber Threats: Poland Faces Unprecedented Attacks",
+            "url": "https://www.devdiscourse.com/article/technology/3849261-escalating-cyber-threats-poland-faces-unprecedented-attacks",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/10_06_2024_10_14_55_7326376.png?width=920&format=jpeg",
+            "publishedAt": "2026-03-24T16:29:21Z"
+        },
+        {
+            "source": {
+                "id": "bc49d994b41ac710f5c89f6e6adeece4",
+                "name": "The Boston Herald",
+                "url": "https://www.bostonherald.com",
+                "country": "us"
+            },
+            "title": "Trump administration bans import of new foreign-made routers",
+            "url": "https://www.bostonherald.com/2026/03/24/trump-administration-foreign-router-ban/",
+            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/03/Foreign_Router_Ban_12814-1.jpg?w=1024&h=682",
+            "publishedAt": "2026-03-24T16:20:34Z"
+        },
+        {
+            "source": {
+                "id": "9ab210a1da58b160b3d40bd353f54b38",
+                "name": "St. Paul Pioneer Press",
+                "url": "https://www.twincities.com",
+                "country": "us"
+            },
+            "title": "Trump administration bans import of new foreign-made routers",
+            "url": "https://www.twincities.com/2026/03/24/trump-administration-foreign-router-ban/",
+            "urlToImage": "https://www.twincities.com/wp-content/uploads/2026/03/Foreign_Router_Ban_12814-1.jpg?w=1024&h=682",
+            "publishedAt": "2026-03-24T16:20:34Z"
+        },
+        {
+            "source": {
+                "id": "d9acc08d8066fc3620da5e6b20b406ad",
+                "name": "Boulder Daily Camera",
+                "url": "https://www.dailycamera.com",
+                "country": "us"
+            },
+            "title": "Trump administration bans import of new foreign-made routers",
+            "url": "https://www.dailycamera.com/2026/03/24/trump-administration-foreign-router-ban/",
+            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2026/03/Foreign_Router_Ban_12814-1.jpg?w=1024&h=682",
+            "publishedAt": "2026-03-24T16:20:34Z"
+        },
+        {
+            "source": {
+                "id": "3271eb2093cfa66b030a37cf84a8df5e",
+                "name": "Baltimore Sun",
+                "url": "https://www.baltimoresun.com",
+                "country": "us"
+            },
+            "title": "Trump administration bans import of new foreign-made routers",
+            "url": "https://www.baltimoresun.com/2026/03/24/trump-administration-foreign-router-ban/",
+            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2026/03/Foreign_Router_Ban_12814-1.jpg?w=1024&h=682",
+            "publishedAt": "2026-03-24T16:20:34Z"
+        },
+        {
+            "source": {
+                "id": "494f687bd1dfaa9f7b4a705c860671d0",
+                "name": "Hartford Courant",
+                "url": "https://www.courant.com",
+                "country": "us"
+            },
+            "title": "Trump administration bans import of new foreign-made routers",
+            "url": "https://www.courant.com/2026/03/24/trump-administration-foreign-router-ban/",
+            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/03/Foreign_Router_Ban_12814-1.jpg?w=1024&h=682",
+            "publishedAt": "2026-03-24T16:20:34Z"
+        },
+        {
+            "source": {
+                "id": "b864cc599bc4ba1ff99463aba17ae502",
+                "name": "Reading Eagle",
+                "url": "https://www.readingeagle.com",
+                "country": "us"
+            },
+            "title": "Trump administration bans import of new foreign-made routers",
+            "url": "https://www.readingeagle.com/2026/03/24/trump-administration-foreign-router-ban/",
+            "urlToImage": "https://www.readingeagle.com/wp-content/uploads/2026/03/Foreign_Router_Ban_12814-1.jpg?w=1024&h=682",
+            "publishedAt": "2026-03-24T16:20:34Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -1092,6 +1332,33 @@
             "url": "https://www.prnewswire.co.uk/news-releases/inspira-enterprise-joins-the-microsoft-intelligent-security-association-302722223.html",
             "urlToImage": "https://mma.prnewswire.com/media/2400111/Inspira_Enterprise_Logo.jpg?p=facebook",
             "publishedAt": "2026-03-24T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google Gemini AI: Create Custom Avatars for Videos from Photos and Voice",
+            "url": "https://www.webpronews.com/google-gemini-ai-create-custom-avatars-for-videos-from-photos-and-voice/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-12963-1774372958.jpeg",
+            "publishedAt": "2026-03-24 17:22:43"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Exploring Current Topics About Technology: A 2026 Guide",
+            "url": "https://techannouncer.com/exploring-current-topics-about-technology-a-2026-guide/",
+            "urlToImage": "https://contenu.nyc3.cdn.digitaloceanspaces.com/journalist%2Fd8ca00c5-1543-4e10-96c4-adfbe127a8bc%2Fthumbnail.jpeg",
+            "publishedAt": "2026-03-24 17:09:15"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Microsoft to rent Texas data center dropped by Oracle and OpenAI: Report",
+            "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-to-rent-texas-data-center-dropped-by-oracle-and-openai-report/articleshow/129782176.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-94720,resizemode-75,msid-129782176/tech/technology/microsoft-to-rent-texas-data-center-dropped-by-oracle-and-openai-report.jpg",
+            "publishedAt": "2026-03-24 17:02:21"
         },
         {
             "source": {
@@ -3147,282 +3414,6 @@
             "url": "https://www.thetimes.com/business/technology/article/darktrace-boss-ed-jennings-jill-popelka-nd077m2qr",
             "urlToImage": "https://www.thetimes.com/imageserver/image/b210ea15-5762-4fcf-baa6-75b25b2b2e6b.jpg?strip=all&format=webp&crop=5200px%2C2925px%2C0px%2C259px&resize=1200",
             "publishedAt": "2026-03-22T18:12:39Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Analysis of 1.4 million interactions shows how employees achieve sophisticated AI collaboration",
-            "url": "https://phys.org/news/2026-03-analysis-million-interactions-employees-sophisticated.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg",
-            "publishedAt": "2026-03-22T17:00:07Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "We need to regulate the 'Wild West' of medical AI scribes",
-            "url": "https://medicalxpress.com/news/2026-03-wild-west-medical-ai-scribes.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/doctor-and-patient-and-1.jpg",
-            "publishedAt": "2026-03-22T17:00:05Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle",
-            "url": "https://www.manilatimes.net/2026/03/23/business/foreign-business/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle/2305030",
-            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-03-22T16:03:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Musk launches 'Terafab' project to make own AI chips",
-            "url": "https://www.manilatimes.net/2026/03/23/business/foreign-business/musk-launches-terafab-project-to-make-own-ai-chips/2305029",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/22/983070.png",
-            "publishedAt": "2026-03-22T16:02:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Reddit CEO Steve Huffman feels AI won't impact entry level jobs for new graduates - Here's why",
-            "url": "https://www.livemint.com/companies/news/reddit-ceo-steve-huffman-artificial-intelligence-productive-no-engineer-job-cuts-hire-ai-native-new-graduates-write-code-11774191994718.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/im-08179174_1729862615347_1774193917306.jpg",
-            "publishedAt": "2026-03-22T15:45:14Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "AI complicating choice between consumer safety and privacy",
-            "url": "https://nypost.com/2026/03/22/tech/as-ai-takes-over-consumers-face-a-hard-choice-between-safety-and-privacy/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/03/newspress-collage-4ij028vo2-1774191857372.jpg?quality=75&strip=all&1774177501&w=1200",
-            "publishedAt": "2026-03-22T15:05:47Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Is your brain aging faster than you are? Sleep may hold the key",
-            "url": "https://medicalxpress.com/news/2026-03-brain-aging-faster-key.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/sleep-1.jpg",
-            "publishedAt": "2026-03-22T15:00:02Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Top Gun star Val Kilmer returns on screen via AI after his death to appear in new film",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/top-gun-star-val-kilmer-returns-on-screen-via-ai-after-his-death-to-appear-in-new-film/articleshow/129734323.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-129734373,width-1200,height-630,imgsize-73242,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-03-22T14:35:00Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Bracing for the A.I. Economy to Come",
-            "url": "https://www.nytimes.com/2026/03/22/opinion/ai-economy-jobs.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/03/09/opinion/06raimondo/06raimondo-facebookJumbo.png",
-            "publishedAt": "2026-03-22T13:00:04Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "A Thrissur teacher's mission beyond classrooms to restore water",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/22/well-recharging-kerala-groundwater-vinod.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/3/22/water-wm-c.jpg",
-            "publishedAt": "2026-03-22T12:46:45Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Techie uses AI to simplify house hunting woes in Bengaluru, and it works",
-            "url": "https://www.indiatoday.in/trending-news/story/techie-uses-ai-to-simplify-house-hunting-woes-in-bengaluru-and-it-works-2885498-2026-03-22",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/bengaluru-house-224521649-16x9_0.jpg?VersionId=S0WaqJpNdlsH5XpHY_Ds9DwOlmOvTTYg",
-            "publishedAt": "2026-03-22T11:49:20Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Winning stocks in the AI race between China and the U.S., per Bernstein",
-            "url": "https://www.cnbc.com/2026/03/22/winning-stocks-in-the-ai-race-between-china-and-the-us-per-bernstein.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108280703-1773990383697-gettyimages-2255930014-cfoto-independ260115_np6ow.jpeg?v=1773990450&w=1920&h=1080",
-            "publishedAt": "2026-03-22T11:27:37Z"
-        },
-        {
-            "source": {
-                "id": "f1bf32bc7d2c9750240a24442fde5232",
-                "name": "Calgary Herald",
-                "url": "https://calgaryherald.com",
-                "country": "ca"
-            },
-            "title": "Alberta looking at legislation to rein in the harmful side of artificial intelligence, Smith says",
-            "url": "https://calgaryherald.com/news/danielle-smith-artificial-intelligence-deepfakes/wcm/b604695d-a85d-4bd6-bb1b-d712f8c8a5c7",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/03/danielle-smith--1.jpg",
-            "publishedAt": "2026-03-22T11:00:40Z"
-        },
-        {
-            "source": {
-                "id": "09dc1bda762f4f787cec10477a894d96",
-                "name": "Toronto Sun",
-                "url": "https://torontosun.com",
-                "country": "ca"
-            },
-            "title": "Alberta looking at legislation to rein in the harmful side of artificial intelligence, Smith says",
-            "url": "https://torontosun.com/news/danielle-smith-artificial-intelligence-deepfakes/wcm/dcf05cd7-90b8-4f4c-9d8c-8d41d2a564f9",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/03/danielle-smith-.jpg",
-            "publishedAt": "2026-03-22T11:00:40Z"
-        },
-        {
-            "source": {
-                "id": "ff08198bd1f06590c448195855068383",
-                "name": "Tulsa World",
-                "url": "https://tulsaworld.com",
-                "country": "us"
-            },
-            "title": "TPS bond proposal includes $104.7 million for technology, cybersecurity investments",
-            "url": "https://tulsaworld.com/news/local/education/article_532c8eec-cf95-4d32-8842-54c0f9453357.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/94/f94ffec0-4260-4fbd-98bb-b055fea44738/69b07a235ff1c.image.jpg?crop=1713%2C899%2C0%2C155&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2026-03-22T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
-                "name": "The Philadelphia Inquirer",
-                "url": "https://www.inquirer.com",
-                "country": "us"
-            },
-            "title": "💍 Marrying AI and wedding planning | Morning Newsletter",
-            "url": "https://www.inquirer.com/newsletters/morning/davids-bridal-artificial-intelligence-wedding-planning-temple-university-rome-campus-four-year-degrees-20260322.html",
-            "urlToImage": "https://www.inquirer.com/resizer/v2/FJGJW74YYVHDJIMHDNOQHLWD6E.jpg?auth=e8294aeb8005b61b565a46aa78fe815e2d9e30354e0d5cf7749750e806b38d9b&width=760&height=507&smart=true",
-            "publishedAt": "2026-03-22T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Google and security companies have warned iPhone users of DarkSword spy attack: What it is and how it may spy on iPhone users",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-and-security-companies-have-warned-iphone-users-of-darksword-spy-attack-what-it-is-and-how-it-may-spy-on-iphone-users/articleshow/129725037.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129725055,width-1280,height-720,imgsize-100284,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-22T08:59:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Indian firms lead global peers in AI adoption, but lag in expertise: Deloitte",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-firms-lead-global-peers-in-ai-adoption-but-lag-in-expertise-deloitte/articleshow/129730843.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-84028,resizemode-75,msid-129730843/tech/artificial-intelligence/indian-firms-lead-global-peers-in-ai-adoption-but-lag-in-expertise-deloitte.jpg",
-            "publishedAt": "2026-03-22T08:55:21Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "IP University launches M Tech robotics and AI course with 21 seats for 2026 intake",
-            "url": "https://timesofindia.indiatimes.com/education/news/ip-university-launches-m-tech-robotics-and-ai-course-with-21-seats-for-2026-intake/articleshow/129730850.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129730834,width-1280,height-720,imgsize-75142,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-22T08:55:00Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "This one app could compromise your Android phone: Hackers discover new security vulnerability",
-            "url": "https://www.financialexpress.com/life/technology-this-one-app-could-compromise-your-android-phones-hackers-discover-new-security-vulnerability-4180334/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/10/diya-0001-2025-10-13T062651.222-59.jpg",
-            "publishedAt": "2026-03-22T08:38:54Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "'CODE RED' Challenges AI's Claims on Faith",
-            "url": "https://www.breitbart.com/tech/2026/03/22/pinkerton-code-red-challenges-ais-claims-on-faith/",
-            "urlToImage": "https://media.breitbart.com/media/2026/03/Robot-praying-640x335.jpg",
-            "publishedAt": "2026-03-22T07:29:02Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "'CODE RED' Challenges AI's Claims on Faith",
-            "url": "https://www.breitbart.com/politics/2026/03/22/pinkerton-code-red-challenges-ais-claims-on-faith/",
-            "urlToImage": "https://media.breitbart.com/media/2026/03/Robot-praying-640x335.jpg",
-            "publishedAt": "2026-03-22T07:29:02Z"
-        },
-        {
-            "source": {
-                "id": "6f68e6d7cd20b33baacb487a0e911008",
-                "name": "Santa Rosa Press Democrat",
-                "url": "https://www.pressdemocrat.com",
-                "country": "us"
-            },
-            "title": "Lopez: A solemn promise: AI didn’t write this column",
-            "url": "https://www.pressdemocrat.com/2026/03/22/lopez-a-solemn-promise-ai-didnt-write-this-column/",
-            "urlToImage": "https://www.pressdemocrat.com/wp-content/uploads/2026/03/GettyImages-2207141986.jpg?w=1024&h=683",
-            "publishedAt": "2026-03-22T07:04:33Z"
         }
     ]
 }
