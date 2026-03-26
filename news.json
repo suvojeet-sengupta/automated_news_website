@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-03-26T14:59:15.665130Z",
+    "lastUpdatedAt": "2026-03-26T16:15:36.532362Z",
     "articles": [
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "Meta Plans Job Cuts As AI Spending Soars: Nearly 1,000 Roles At Risk",
+            "url": "https://www.timesnownews.com/business-economy/companies/meta-plans-job-cuts-as-ai-spending-soars-nearly-1000-roles-at-risk-article-153924033",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-153924033,width-1280,height-720,resizemode-75/153924033.jpg",
+            "publishedAt": "2026-03-26T04:06:45Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "A machine learning model may enable liver cancer risk prediction with routine clinical information",
+            "url": "https://medicalxpress.com/news/2026-03-machine-enable-liver-cancer-routine.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/liver-cancer.jpg",
+            "publishedAt": "2026-03-26T04:00:03Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "AI to power patent system overhaul: USPTO chief",
+            "url": "https://www.lokmattimes.com/international/ai-to-power-patent-system-overhaul-uspto-chief/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202603263721667_202603.jpeg",
+            "publishedAt": "2026-03-26T03:51:34Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "AI crocodile detection trials begin in north Queensland",
+            "url": "https://www.abc.net.au/news/2026-03-26/ai-crocodile-detection-trials-begin-in-the-wild/106492460",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e43d3519eafbcf468d26264d79df6049?impolicy=wcms_watermark_news&cropH=957&cropW=1701&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-03-26T03:36:15Z"
+        },
+        {
+            "source": {
+                "id": "e6688d6db992f469baa7352aac100378",
+                "name": "Variety",
+                "url": "https://variety.com",
+                "country": "us"
+            },
+            "title": "Or How I Became an Apocaloptimist': Scary and Essential",
+            "url": "https://variety.com/2026/film/reviews/the-ai-doc-or-how-i-became-an-apocaloptimist-review-1236698037/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/03/The_AI_Doc_Or_How_I_Became_an_Apocaloptimist-Still_1-H-2026.webp?w=1000&h=563&crop=1",
+            "publishedAt": "2026-03-26T03:04:29Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -132,6 +192,15 @@
             "url": "https://www.rappler.com/business/opinion-artificial-intelligence-social-good/",
             "urlToImage": "https://www.rappler.com/tachyon/2023/09/ns-artificial-intelligence.jpg",
             "publishedAt": "2026-03-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "executivebiz"
+            },
+            "title": "Samuel Unger Drives SAP NS2’s Push for Secure, Safe, Ethical AI",
+            "url": "https://www.executivebiz.com/articles/samuel-unger-interview-cloud-ai-cmmc-dow",
+            "urlToImage": "https://media.executivebiz.com/2026/03/samuel-unger-senior-director-sap-ns2.jpg",
+            "publishedAt": "2026-03-26 04:00:00"
         },
         {
             "source": {
@@ -3429,78 +3498,6 @@
             "url": "https://www.news18.com/india/news18-rising-bharat-summit-2026-logistics-at-the-core-of-indias-commerce-transformation-ws-l-9994613.html",
             "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/03/Logistics-2026-03-9f634ba0c48ad4ecf432765c270b620d-1200x675.jpg",
             "publishedAt": "2026-03-24T10:31:52Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "RBI website hit by 61 million cyberattack attempts in a single quarter, all blocked",
-            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-website-hit-by-61-million-cyberattack-attempts-in-a-single-quarter-all-blocked/articleshow/129773338.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-129773338,width-1200,height-630,imgsize-53996,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-03-24T10:18:00Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Why is Jeff Bezos raising $100 billion to bring AI to factories? Here's what to know",
-            "url": "https://www.latimes.com/business/story/2026-03-24/why-is-jeff-bezos-raising-100-billion-to-bring-ai-to-factories-heres-what-to-know",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/fe3013e/2147483647/strip/true/crop/5472x2873+0+388/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1b%2Ff9%2Fdd11c7364d3ca747d8887b21c1d4%2Fap-17214744572610.JPG",
-            "publishedAt": "2026-03-24T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "bc002b453215c04fa081a97f2c6679b9",
-                "name": "The Hacker News",
-                "url": "https://thehackernews.com",
-                "country": "us"
-            },
-            "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
-            "url": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQpYFvavgLT2A2jdfoBL7Wp9ezuo1HDTIJiE8s2Pa5KXH-TOCWZqUGhcg6xb2WBpXtHUpH-tqYI3zUXmr-rWNM_crdZHIda5PaWdxskk39iOZqxz0ltvvh-VenOPTRqpUxX8J2uLL86_eljgWE-AOZPbm7OSrhsj23k7usKY2BTvHDTsscJ8GyQClclZA/s1700-e365/cloud-network.jpg",
-            "publishedAt": "2026-03-24T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f4967fce32bfc735983f0f39dcdba127",
-                "name": "pv magazine",
-                "url": "https://www.pv-magazine.com",
-                "country": "de"
-            },
-            "title": "Solar cyber threats expand, but inverters still stay in the crosshairs",
-            "url": "https://www.pv-magazine.com/2026/03/24/solar-cyber-threats-expand-but-inverters-still-stay-in-the-crosshairs/",
-            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2026/02/Plant_with_SolarMax_Inverters.v1.jpg",
-            "publishedAt": "2026-03-24T09:42:06Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Yes, People Are Already Worshipping AI as a Deity",
-            "url": "https://www.breitbart.com/tech/2026/03/24/code-red-yes-people-are-already-worshipping-ai-as-a-deity/",
-            "urlToImage": "https://media.breitbart.com/media/2026/03/AI-religion-640x335.jpg",
-            "publishedAt": "2026-03-24T09:40:13Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "College Graduates Are Facing the Grimmest Job Market in Years",
-            "url": "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/03/20/multimedia/00biz-first-jobs-01-mfqz/00biz-first-jobs-01-mfqz-facebookJumbo.jpg",
-            "publishedAt": "2026-03-24T09:01:20Z"
         }
     ]
 }
