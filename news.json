@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-03-26T10:49:30.066166Z",
+    "lastUpdatedAt": "2026-03-26T11:46:20.854112Z",
     "articles": [
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            },
+            "title": "Deep fake demonstration shows sophistication of AI editing tools scammers use to commit identity theft",
+            "url": "https://www.cbsnews.com/losangeles/news/deep-fakes-ai-tools-scammers-identity-theft-cybersecurity/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/03/25/da5064cb-bc93-4eba-af0d-f23dd0b98382/thumbnail/1200x630/b6eeb8a9f1c566823f10ff7d5c18dfbb/cyberfraud.png",
+            "publishedAt": "2026-03-25T23:37:28Z"
+        },
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            },
+            "title": "Deep fake demonstration shows sophistication of AI editing tools scammers use to commit identity theft",
+            "url": "https://www.cbsnews.com/news/deep-fakes-ai-tools-scammers-identity-theft-cybersecurity/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/03/25/da5064cb-bc93-4eba-af0d-f23dd0b98382/thumbnail/1200x630/b6eeb8a9f1c566823f10ff7d5c18dfbb/cyberfraud.png",
+            "publishedAt": "2026-03-25T23:37:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI tool predicts wildfire danger faster than current systems",
+            "url": "https://phys.org/news/2026-03-ai-tool-wildfire-danger-faster.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/ai-tool-predicts-wildf.jpg",
+            "publishedAt": "2026-03-25T23:10:01Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Barracuda Advances Cybersecurity Platform and Partner Program",
+            "url": "https://itwire.com/business-it-news/security/barracuda-advances-cybersecurity-platform-and-partner-program.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/0d1dc894ca1b3e9fb8208e3f825d0317_XS.jpg",
+            "publishedAt": "2026-03-25T23:06:39Z"
+        },
         {
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -1704,6 +1752,15 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013728",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013728.g008&size=inline",
             "publishedAt": "2026-03-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "Nvidia’s Shift from GPUs and AI ‘Inference King’ Economics",
+            "url": "https://www.hpcwire.com/2026/03/25/nvidias-shift-from-gpus-and-ai-inference-king-economics/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2026/03/Huang_inference-king.png",
+            "publishedAt": "2026-03-25 23:38:16"
         },
         {
             "source": {
@@ -3456,66 +3513,6 @@
             "url": "https://www.reuters.com/business/oracle-reworks-its-finance-procurement-apps-ai-agents-2026-03-24/",
             "urlToImage": "https://www.reuters.com/resizer/v2/7Z6LMXQOBBLM3OG7ZYF5V3SG3U.jpg?auth=94610f3591cf41543b470dcfda5915b3082fe9c2f09e251197d1a021ed3febca&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2026-03-24T06:01:35Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Who are Handala Hackers? Everything about Iran-linked cyber group using Telegram to spread malware",
-            "url": "https://www.financialexpress.com/life/technology-who-are-handala-hackers-everything-about-iran-linked-cyber-group-using-telegram-to-spread-malware-4182214/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/03/Untitled-design-6-2.jpg",
-            "publishedAt": "2026-03-24T06:01:06Z"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Why authenticity will be a luxury in Hollywood’s AI era",
-            "url": "https://www.thetimes.com/business/technology/article/authenticity-a-luxury-in-hollywood-ai-era-53h8pcrww",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/f2a96e27-320f-4e9b-960b-a3765bc3efc8.jpg?strip=all&format=webp&crop=1500px%2C843px%2C0px%2C78px&resize=1200",
-            "publishedAt": "2026-03-24T06:00:00Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Trend Micro’s Enterprise Business Is Now TrendAI",
-            "url": "https://itwire.com/business-it-sp-511/business-it/trend-micro%e2%80%99s-enterprise-business-is-now-trendai.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/95938f1d54c0b165866b3a1d2f5713a0_XS.jpg",
-            "publishedAt": "2026-03-24T05:55:20Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "U.S. bans new foreign-made routers over security risks",
-            "url": "https://seekingalpha.com/news/4567637-us-bans-new-foreign-made-routers-over-security-risks",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2202102706/image_2202102706.jpg?io=getty-c-w630",
-            "publishedAt": "2026-03-24T05:40:12Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Agentic AI may disrupt some software firms but also create opportunities, investors need to be selective: Goldman Sachs",
-            "url": "https://www.tribuneindia.com/news/business/agentic-ai-may-disrupt-some-software-firms-but-also-create-opportunities-investors-need-to-be-selective-goldman-sachs/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTUyZDVlZTQwLTI3NDMtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-03-24T05:35:46Z"
         }
     ]
 }
