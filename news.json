@@ -1,6 +1,81 @@
 {
-    "lastUpdatedAt": "2026-03-26T11:46:20.854112Z",
+    "lastUpdatedAt": "2026-03-26T13:04:51.515193Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Google to verify apps, help track finfluencers: Sebi",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/google-to-verify-apps-help-track-finfluencers-sebi/articleshow/129813983.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-129813982,width-1200,height-630,imgsize-55652,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-03-26T00:27:00Z"
+        },
+        {
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            },
+            "title": "Melania Trump Escorted by Talking Humanoid Robot at White House Tech Summit",
+            "url": "https://www.cnet.com/tech/first-lady-melania-trump-humanoid-robot-childrens-technology-educational-summit/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/dcb035e63e2d03464377e1b26ed1a1dd75a2e32b/hub/2026/03/25/b9c0c607-10d3-463f-87dd-d63c410c59a6/gettyimages-2267794879.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-03-26T00:05:11Z"
+        },
+        {
+            "source": {
+                "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+                "name": "Rappler",
+                "url": "https://www.rappler.com",
+                "country": "ph"
+            },
+            "title": "[Good Business] AI as a social good",
+            "url": "https://www.rappler.com/business/opinion-artificial-intelligence-social-good/",
+            "urlToImage": "https://www.rappler.com/tachyon/2023/09/ns-artificial-intelligence.jpg",
+            "publishedAt": "2026-03-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The SOC Is Dead. Long Live the SOC: How AI Is Rewriting the Rules of Cybersecurity Operations",
+            "url": "https://www.webpronews.com/the-soc-is-dead-long-live-the-soc-how-ai-is-rewriting-the-rules-of-cybersecurity-operations/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-13106-1774485340.jpeg",
+            "publishedAt": "2026-03-26 00:35:45"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The AI Industry’s Dirty Secret: Model Collapse Is Already Here, and Nobody Wants to Talk About It",
+            "url": "https://www.webpronews.com/the-ai-industrys-dirty-secret-model-collapse-is-already-here-and-nobody-wants-to-talk-about-it/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-13105-1774485196.jpeg",
+            "publishedAt": "2026-03-26 00:33:22"
+        },
+        {
+            "source": {
+                "name": "platodata"
+            },
+            "title": "Jake Loosararian: Robotics must prioritize data collection for efficiency, the impact of Nvidia’s dominance on hardware diversity, and the crucial role of determinism in future advancements | TWIST",
+            "url": "https://platodata.ai/w3ai/4922745/blockchain/jake-loosararian-robotics-must-prioritize-data-collection-for-efficiency-the-impact-of-nvidias-dominance-on-hardware-diversity-and-the-crucial-role-of-determinism-in-future-advancements/",
+            "urlToImage": "https://platodata.ai/wp-content/uploads/2026/03/jake-loosararian-robotics-must-prioritize-data-collection-for-efficiency-the-impact-of-nvidias-dominance-on-hardware-diversity-and-the-crucial-role-of-determinism-in-future-advancements.png",
+            "publishedAt": "2026-03-26 00:16:00"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence Misuse: Teen Scandal at Exclusive Pennsylvania School",
+            "url": "https://www.devdiscourse.com/article/law-order/3851053-artificial-intelligence-misuse-teen-scandal-at-exclusive-pennsylvania-school",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/08_09_2025_12_03_59_7844778.png?width=920&format=jpeg",
+            "publishedAt": "2026-03-25T23:50:34Z"
+        },
         {
             "source": {
                 "id": "3a3847d645a619320aa3b3484581e395",
@@ -3429,90 +3504,6 @@
             "url": "https://www.timesnownews.com/technology-science/artificial-intelligence/agi-explained-what-it-is-and-how-it-is-different-from-artificial-intelligence-ai-article-153908054",
             "urlToImage": "https://images.timesnownews.com/thumb/msid-153908054,width-1280,height-720,resizemode-75/153908054.jpg",
             "publishedAt": "2026-03-24T08:04:34Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "How SBIT's AI and Machine Learning Center of Excellence with Airo Digital Labs Prepares Students for Industry Careers",
-            "url": "https://www.timesnownews.com/bizz-impact/how-sbits-ai-and-machine-learning-center-of-excellence-with-airo-digital-labs-prepares-students-for-industry-careers-article-153907925",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153907925,width-1280,height-720,resizemode-75/153907925.jpg",
-            "publishedAt": "2026-03-24T07:42:45Z"
-        },
-        {
-            "source": {
-                "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
-                "name": "Proto Thema",
-                "url": "https://en.protothema.gr",
-                "country": "gr"
-            },
-            "title": "AKTOR AI: New artificial intelligence company by the AKTOR Group with expanded role and strategic growth",
-            "url": "https://en.protothema.gr/2026/03/24/aktor-ai-new-artificial-intelligence-company-by-the-aktor-group-with-expanded-role-and-strategic-growth/",
-            "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/03/exarxou-aktor-3.jpg-3.jpg",
-            "publishedAt": "2026-03-24T07:41:38Z"
-        },
-        {
-            "source": {
-                "id": "93a4f054e09bde095cda5265e575a952",
-                "name": "Telegraph India",
-                "url": "https://www.telegraphindia.com",
-                "country": "in"
-            },
-            "title": "US bans new foreign-made Internet routers over cybersecurity risks, targets China-linked devices",
-            "url": "https://www.telegraphindia.com/world/us-bans-new-foreign-made-internet-routers-over-cybersecurity-risks-targets-china-linked-devices/cid/2152884",
-            "urlToImage": "https://assets.telegraphindia.com/telegraph/2026/Mar/1774336322_reuters-router.gif",
-            "publishedAt": "2026-03-24T07:19:50Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "Scientific Research & Innovation: Advancing Knowledge For A Better Future",
-            "url": "https://www.republicworld.com/initiatives/scientific-research-innovation-advancing-knowledge-for-a-better-future",
-            "urlToImage": "https://img.republicworld.com/all_images/2026/03/scientific-research-innovation-advancing-knowledge-for-a-better-future-1774336373247-1280x720.webp",
-            "publishedAt": "2026-03-24T07:12:59Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "Palo Alto Networks: Buy Other Battered Cybersecurity Stocks Instead (NASDAQ:PANW)",
-            "url": "https://seekingalpha.com/article/4885180-palo-alto-networks-buy-other-battered-cybersecurity-stocks-instead-downgrade",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1303238193/image_1303238193.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-03-24T06:22:13Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Oracle reworks its finance, procurement apps for AI agents",
-            "url": "https://www.marketscreener.com/news/oracle-reworks-its-finance-procurement-apps-for-ai-agents-ce7e5edddd80f621",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-09T202013Z_1_LYNXNPEL8810E_RTROPTP_4_ORACLE-RESULTS.JPG",
-            "publishedAt": "2026-03-24T06:01:51Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Oracle reworks its finance, procurement apps for AI agents",
-            "url": "https://www.reuters.com/business/oracle-reworks-its-finance-procurement-apps-ai-agents-2026-03-24/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/7Z6LMXQOBBLM3OG7ZYF5V3SG3U.jpg?auth=94610f3591cf41543b470dcfda5915b3082fe9c2f09e251197d1a021ed3febca&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-24T06:01:35Z"
         }
     ]
 }
