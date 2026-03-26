@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-03-26T21:27:22.172675Z",
+    "lastUpdatedAt": "2026-03-26T22:24:35.044821Z",
     "articles": [
+        {
+            "source": {
+                "id": "63fec970d50112ee9b8bc1418d9c5872",
+                "name": "Scientific Computing World",
+                "url": "https://www.scientific-computing.com",
+                "country": "us"
+            },
+            "title": "Ericsson and Forschungszentrum Jülich to develop advanced AI for 6G",
+            "url": "https://www.scientific-computing.com/article/ericsson-forschungszentrum-julich-develop-advanced-ai-6g",
+            "urlToImage": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
+            "publishedAt": "2026-03-26T10:21:15Z"
+        },
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "White House Unveils National AI Policy to Guide Congress",
+            "url": "https://usaherald.com/white-house-unveils-national-ai-policy-to-guide-congress/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2026-03-26T10:12:07Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Pentathlon Ventures announces final close of second fund at Rs 255 crore",
+            "url": "https://www.dailyexcelsior.com/pentathlon-ventures-announces-final-close-of-second-fund-at-rs-255-crore/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/03/ph.jpg",
+            "publishedAt": "2026-03-26T10:02:58Z"
+        },
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "'The Pitt' shows reality of hospital cyberattacks",
+            "url": "https://www.inquirer.com/health/expert-opinions/the-pitt-hbo-hospital-cyberattack-realistic-portrayal-20260326.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/QNPKE5XIS5XVCI3TDKWNYSGBCE.jpg?auth=2d326e9318f2a6d5bc9bdcded52b8ec4c24f973167c239c22e6d02e30e337ad0&width=760&height=507&smart=true",
+            "publishedAt": "2026-03-26T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The Grease and the Data: Why AtomBite.AI's RaaS Fleet is Building the Ultimate Robotics Dataset",
+            "url": "https://techbullion.com/the-grease-and-the-data-why-atombite-ais-raas-fleet-is-building-the-ultimate-robotics-dataset/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/real_0b57dc13-d807-4bee-8020-a4b8bd6af054-1000x600.jpeg",
+            "publishedAt": "2026-03-26T09:50:34Z"
+        },
+        {
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            },
+            "title": "Sachin Pilot questions CPM’s silence on BJP, says Pinarayi targets Rahul to please Modi",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/26/sachin-pilot-kochi-attack-kerala-govt-bjp-cpm-silence-pinarayi-targets-rahul-modi.html",
+            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/3/26/sachin-pilot.jpg",
+            "publishedAt": "2026-03-26T09:48:23Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Embee Software: Pioneering Cybersecurity Revolution in India",
+            "url": "https://www.devdiscourse.com/article/technology/3851409-embee-software-pioneering-cybersecurity-revolution-in-india",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_56_2660097.png?width=920&format=jpeg",
+            "publishedAt": "2026-03-26T09:37:18Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Embee Software Expands Cybersecurity Portfolio with Advanced Microsoft Security Stack and Zero Trust Frameworks",
+            "url": "https://www.tribuneindia.com/news/business/embee-software-expands-cybersecurity-portfolio-with-advanced-microsoft-security-stack-and-zero-trust-frameworks-2-2/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE5NTA5NjIwLTI4ZjctMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+            "publishedAt": "2026-03-26T09:35:54Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -624,6 +720,24 @@
             "url": "https://www.rappler.com/business/opinion-artificial-intelligence-social-good/",
             "urlToImage": "https://www.rappler.com/tachyon/2023/09/ns-artificial-intelligence.jpg",
             "publishedAt": "2026-03-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "AI boosted one of the worst forms of abusive content on the internet",
+            "url": "https://www.digitaltrends.com/computing/ai-boosted-one-of-the-worst-forms-of-abusive-content-on-the-internet/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/02/Faces-in-a-grid-generated-by-Gemini.jpg?resize=1200%2C630",
+            "publishedAt": "2026-03-26 10:10:36"
+        },
+        {
+            "source": {
+                "name": "business-standard"
+            },
+            "title": "What are AI tokens and why China is winning the global pricing race",
+            "url": "https://www.business-standard.com/technology/tech-news/ai-tokens-explained-china-pricing-global-ai-market-competition-126032600608_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/hp/home-page/2026-03/26/9343/full/1772375884-3396.jpg",
+            "publishedAt": "2026-03-26 10:02:51"
         },
         {
             "source": {
@@ -3348,126 +3462,6 @@
             "url": "https://www.techradar.com/vpn/vpn-services/surfshark-launches-heypolo-a-privacy-first-location-sharing-app-to-kill-always-on-tracking",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/dXkbXuHtogg2FMC9UX465e-1920-80.jpg",
             "publishedAt": "2026-03-24T17:10:23Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Arm unveils new AI chip, expects it to add billions in annual revenue",
-            "url": "https://www.reuters.com/business/media-telecom/arm-unveils-new-ai-chip-expects-it-add-billions-annual-revenue-2026-03-24/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ZEP6X66ENRJP3OTYOU5HHDQTTY.jpg?auth=eeefb53a72598b1a056b6f64e6476411fe2848ea93f4c8af8897cc337858213e&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-24T17:02:41Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Arm unveils new AI chip, expects it to add billions in annual revenue",
-            "url": "https://www.marketscreener.com/news/arm-unveils-new-ai-chip-expects-it-to-add-billions-in-annual-revenue-ce7e5ed2da8bf322",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-07T204838Z_1_LYNXMPEL46141_RTROPTP_4_MALAYSIA-ARM-HOLDINGS.JPG",
-            "publishedAt": "2026-03-24T17:01:54Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "OpenAI Foundation pledges $1B in grants to ensure AI ‘benefits all of humanity’",
-            "url": "https://wtop.com/national/2026/03/openai-foundation-pledges-1b-in-grants-to-ensure-ai-benefits-all-of-humanity/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/03/Canada_Shooting_Lawsuit_26524-scaled.jpg",
-            "publishedAt": "2026-03-24T17:00:37Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "We're buying more of this cybersecurity stock as the market keeps getting it wrong",
-            "url": "https://www.cnbc.com/2026/03/24/were-buying-more-of-this-cybersecurity-stock-as-the-market-keeps-getting-it-wrong.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108255041-1769012713845-DSC02661.JPG?v=1769015146&w=1920&h=1080",
-            "publishedAt": "2026-03-24T16:38:33Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Escalating Cyber Threats: Poland Faces Unprecedented Attacks",
-            "url": "https://www.devdiscourse.com/article/technology/3849261-escalating-cyber-threats-poland-faces-unprecedented-attacks",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/10_06_2024_10_14_55_7326376.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-24T16:29:21Z"
-        },
-        {
-            "source": {
-                "id": "bc49d994b41ac710f5c89f6e6adeece4",
-                "name": "The Boston Herald",
-                "url": "https://www.bostonherald.com",
-                "country": "us"
-            },
-            "title": "Trump administration bans import of new foreign-made routers",
-            "url": "https://www.bostonherald.com/2026/03/24/trump-administration-foreign-router-ban/",
-            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/03/Foreign_Router_Ban_12814-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-03-24T16:20:34Z"
-        },
-        {
-            "source": {
-                "id": "9ab210a1da58b160b3d40bd353f54b38",
-                "name": "St. Paul Pioneer Press",
-                "url": "https://www.twincities.com",
-                "country": "us"
-            },
-            "title": "Trump administration bans import of new foreign-made routers",
-            "url": "https://www.twincities.com/2026/03/24/trump-administration-foreign-router-ban/",
-            "urlToImage": "https://www.twincities.com/wp-content/uploads/2026/03/Foreign_Router_Ban_12814-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-03-24T16:20:34Z"
-        },
-        {
-            "source": {
-                "id": "d9acc08d8066fc3620da5e6b20b406ad",
-                "name": "Boulder Daily Camera",
-                "url": "https://www.dailycamera.com",
-                "country": "us"
-            },
-            "title": "Trump administration bans import of new foreign-made routers",
-            "url": "https://www.dailycamera.com/2026/03/24/trump-administration-foreign-router-ban/",
-            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2026/03/Foreign_Router_Ban_12814-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-03-24T16:20:34Z"
-        },
-        {
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com",
-                "country": "us"
-            },
-            "title": "Trump administration bans import of new foreign-made routers",
-            "url": "https://www.baltimoresun.com/2026/03/24/trump-administration-foreign-router-ban/",
-            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2026/03/Foreign_Router_Ban_12814-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-03-24T16:20:34Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "Trump administration bans import of new foreign-made routers",
-            "url": "https://www.courant.com/2026/03/24/trump-administration-foreign-router-ban/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/03/Foreign_Router_Ban_12814-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-03-24T16:20:34Z"
         }
     ]
 }
