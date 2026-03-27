@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-03-27T20:33:42.781385Z",
+    "lastUpdatedAt": "2026-03-27T21:29:32.122371Z",
     "articles": [
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "AI drives financial inclusion in India, but risks widening inequality: Industrialist Ajay Piramal",
+            "url": "https://www.channelnewsasia.com/asia/artificial-intelligence-credit-rural-india-inequality-ajay-piramal-6020996",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--aGLy3uph--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/27/piramal-1.png?itok=Fr6lmTZe",
+            "publishedAt": "2026-03-27T09:18:49Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Scaler School of Technology Launches India's First Undergraduate Program in AI and Business",
+            "url": "https://www.tribuneindia.com/news/business/scaler-school-of-technology-launches-indias-first-undergraduate-program-in-ai-and-business/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFlMWE4MTQwLTI5YmMtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+            "publishedAt": "2026-03-27T09:05:30Z"
+        },
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "Nvidia Bets Big on AI Agents With New Tools, Hardware Push",
+            "url": "https://usaherald.com/nvidia-bets-big-on-ai-agents-with-new-tools-hardware-push/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2026-03-27T08:58:50Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "AI comes for CEOs: Coca-Cola, Walmart leaders step down",
+            "url": "https://www.thenews.com.pk/latest/1396873-ai-comes-for-ceos-coca-cola-walmart-leaders-step-down",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-27/1396873_023338_updates.jpg",
+            "publishedAt": "2026-03-27T08:54:29Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "What's Going On With Rapid7 Stock Friday?",
+            "url": "https://www.benzinga.com/m-a/26/03/51505891/rapid7-buys-kenzo-security-to-launch-autonomous-ai-security-operations",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/03/27/Stuttgart--Germany---04-13-2024-Smartpho.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-03-27T08:53:00Z"
+        },
         {
             "source": {
                 "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
@@ -528,6 +588,18 @@
             "url": "https://www.usnews.com/news/entertainment/articles/2026-03-26/us-book-critics-honor-nobel-laureate-and-south-korean-novelist-han-kang",
             "urlToImage": "https://www.usnews.com/dims4/USNEWS/d20715a/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F5b%2F72010dccd60774473c98c11593efa5%2F9f2fcd71acdf411186ad27f4575d6facBook_Critic_Awards_36332.jpg",
             "publishedAt": "2026-03-27T00:10:00Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "An improved dataset for predicting mammal infecting viruses from genetic sequence information",
+            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014125",
+            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014125.g008&size=inline",
+            "publishedAt": "2026-03-27T00:00:00Z"
         },
         {
             "source": {
@@ -3444,78 +3516,6 @@
             "url": "https://www.marketscreener.com/news/meta-s-rollout-of-new-ray-ban-smart-glasses-in-eu-hits-battery-ai-regulation-supply-snags-ce7e5ed3d98ff124",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
             "publishedAt": "2026-03-25T09:15:24Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Navi AI emerges from stealth to accelerate pilot training with AI",
-            "url": "https://www.marketscreener.com/news/navi-ai-emerges-from-stealth-to-accelerate-pilot-training-with-ai-ce7e5ed3d98cf12c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-03-25T09:08:20Z"
-        },
-        {
-            "source": {
-                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
-                "name": "USA Herald",
-                "url": "https://usaherald.com",
-                "country": "us"
-            },
-            "title": "Parents Think They Understand How Kids Use AI",
-            "url": "https://usaherald.com/parents-think-they-understand-how-kids-use-ai-but-they-dont/",
-            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-            "publishedAt": "2026-03-25T09:07:38Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "In Marathon, A.I. Is Everywhere and Humanity Is an Anomaly",
-            "url": "https://www.nytimes.com/2026/03/25/arts/marathon-ai-artificial-intelligence.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/03/24/multimedia/24cul-marathon-notebook-fbjh/24cul-marathon-notebook-fbjh-facebookJumbo.jpg",
-            "publishedAt": "2026-03-25T09:01:50Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Meta’s new display glasses withheld from EU over battery rules, supply shortages",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/25/metas-new-display-glasses-withheld-from-eu-over-battery-rules-supply-shortages",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/25/3829171.jpg",
-            "publishedAt": "2026-03-25T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-                "name": "Washington Examiner",
-                "url": "https://www.washingtonexaminer.com",
-                "country": "us"
-            },
-            "title": "Trump’s unified approach is the right AI regulatory path",
-            "url": "https://www.washingtonexaminer.com/opinion/editorials/4501757/trump-unified-approach-right-ai-regulatory-path/",
-            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2026/02/iStock-2210036360-e1773687022760.jpg?resize=1200,683",
-            "publishedAt": "2026-03-25T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Anthropic boss Dario Amodei to meet Chalmers, Albanese in Canberra",
-            "url": "https://www.afr.com/politics/federal/anthropic-boss-dario-amodei-to-meet-chalmers-albanese-in-canberra-20260325-p5xnjs",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.6851%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_37%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/04d615da107cb9824c9b55d2473a3d81fe34b5c24c183c455c5c325594725977",
-            "publishedAt": "2026-03-25T09:00:00Z"
         }
     ]
 }
