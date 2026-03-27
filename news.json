@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-03-27T06:10:32.898281Z",
+    "lastUpdatedAt": "2026-03-27T07:57:55.760163Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "ByteDance quietly rolls out SeeDance 2.0 globally",
+            "url": "https://japantoday.com/category/tech/bytedance-quietly-rolls-out-seedance-2.0-globally",
+            "urlToImage": "https://media.japantoday.com/img/store/b3/d4/adb8207d6e9c1b6d9649da4640b09978e37f/935c1e539d1d722473699e3e00589352e0dabd67/_w1700.jpeg",
+            "publishedAt": "2026-03-26T19:56:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Sen. Jim Banks Warns U.S. Must Win AI Race Against China to Prevent Global Domination",
+            "url": "https://www.breitbart.com/national-security/2026/03/26/exclusive-sen-banks-on-ai-u-s-must-beat-china-or-theyll-seize-the-moment-and-dominate-us/",
+            "urlToImage": "https://media.breitbart.com/media/2026/03/pexels-darlene-alderson-AI-Design-640x335.jpeg",
+            "publishedAt": "2026-03-26T19:47:15Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "How AI Is Enhancing Financial Personalisation",
+            "url": "https://techbullion.com/how-ai-is-enhancing-financial-personalisation/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/ai-financial-personalisation-1000x504.jpg",
+            "publishedAt": "2026-03-26T19:40:04Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Generative AI for polymer design passes lab tests with a new dielectric material",
+            "url": "https://phys.org/news/2026-03-generative-ai-polymer-lab-dielectric.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/researchers-create-fir-1.jpg",
+            "publishedAt": "2026-03-26T19:30:01Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Agents are giving bad advice, new study finds",
+            "url": "https://www.cp24.com/news/world/2026/03/26/ai-is-giving-bad-advice-to-flatter-its-users-says-new-study-on-dangers-of-overly-agreeable-chatbots/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/66NRS2UAF4CGKQ7V6T66EU5NH4.jpg?smart=true&auth=7972b2f191b6aad625e5652e72f9f3e21eea49562e6c4f6f797c7e44260b2ff6&width=1200&height=630",
+            "publishedAt": "2026-03-26T19:02:42Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "The Innocent Lives Foundation Has a New CEO",
+            "url": "https://www.manilatimes.net/2026/03/27/tmt-newswire/globenewswire/the-innocent-lives-foundation-has-a-new-ceo/2308785",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/27/990268.jpg",
+            "publishedAt": "2026-03-26T18:44:45Z"
+        },
+        {
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+            },
+            "title": "ScaleFlux opens Bengaluru centre to expand AI, storage innovation",
+            "url": "https://www.newindianexpress.com/business/2026/Mar/26/scaleflux-opens-bengaluru-centre-to-expand-ai-storage-innovation",
+            "urlToImage": "https://media.newindianexpress.com/newindianexpress%2F2026-03-26%2F73cexn6y%2FScaleFlux.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-03-26T18:38:42Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US stocks: Apple plans to open Siri to rival AI services, Bloomberg News reports",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports/articleshow/129832615.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-129832664,width-1200,height-630,imgsize-37494,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-03-26T18:33:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Apple plans to open Siri to rival AI services, Bloomberg News reports",
+            "url": "https://www.reuters.com/business/apple-plans-open-siri-rival-ai-services-bloomberg-news-reports-2026-03-26/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/AMMIIZMMZFPIFGZBX6546OI4WU.jpg?auth=d3452954c225dffaa3bfefa8adb965ee91da6884217550f94dc14dc247f2a438&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-26T18:30:39Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Apple plans to open Siri to rival AI services, Bloomberg News reports",
+            "url": "https://www.marketscreener.com/news/apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports-ce7e51dad08df52c",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-24T150129Z_1_LYNXMPEM2N0XQ_RTROPTP_4_APPLE-ADVERTISING.JPG",
+            "publishedAt": "2026-03-26T18:28:21Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "US book critics honor Nobel laureate and South Korean novelist Han Kang",
+            "url": "https://www.breitbart.com/news/us-book-critics-honor-nobel-laureate-and-south-korean-novelist-han-kang/",
+            "urlToImage": "https://media.breitbart.com/media/2026/03/wi/ap/book-critic-awards-36332-book-critic-awards-nobel-laureate-literature-han-kang-speaks-nobel-banquet-640x335.jpg",
+            "publishedAt": "2026-03-26T18:26:26Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -3369,105 +3501,6 @@
             "url": "https://us.headtopics.com/news/is-the-metaverse-finally-dead-and-buried-what-s-really-81448026",
             "urlToImage": "https://i.headtopics.com/images/2026/3/25/livescience/is-the-metaverse-finally-dead-and-buried-what-s-re-is-the-metaverse-finally-dead-and-buried-what-s-re-C5FC06E8A26D9762C393BEE1B6352F62.webp",
             "publishedAt": "2026-03-25 17:19:48"
-        },
-        {
-            "source": {
-                "name": "natlawreview"
-            },
-            "title": "AI, Energy, and the Future of Data Centers: Key Takeaways from the Questions Shaping the Market",
-            "url": "https://natlawreview.com/article/ai-energy-and-future-data-centers-key-takeaways-questions-shaping-market",
-            "urlToImage": "https://natlawreview.com/sites/default/files/2026-03/server%20room%20data%20center%20computing%20cybersecurity.jpg",
-            "publishedAt": "2026-03-25 17:15:09"
-        },
-        {
-            "source": {
-                "name": "cornelledu"
-            },
-            "title": "Cornell Tech partners with Mastercard to advance AI governance standards",
-            "url": "https://news.cornell.edu/stories/2026/03/cornell-tech-partners-mastercard-advance-ai-governance-standards",
-            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-03/0325_mastercard_tnd.jpg?itok=LH6opEHz",
-            "publishedAt": "2026-03-25 16:03:39"
-        },
-        {
-            "source": {
-                "name": "livescience"
-            },
-            "title": "Is the metaverse finally dead and buried? What's really going on with the embattled idea of living in virtual worlds.",
-            "url": "https://www.livescience.com/technology/mixed-reality/is-the-metaverse-finally-dead-and-buried-whats-really-going-on-with-the-embattled-idea-of-living-in-virtual-worlds",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GZ4LtiFwTew6SvpVzke6bQ-1280-80.jpg",
-            "publishedAt": "2026-03-25 16:00:00"
-        },
-        {
-            "source": {
-                "name": "blogs_sap"
-            },
-            "title": "🧰👷♂️ The SAP S/4HANA RISE & SAP BTP - Toolbox 👷♂️🧰",
-            "url": "https://community.sap.com/t5/technology-blog-posts-by-members/%EF%B8%8F-the-sap-s-4hana-rise-amp-sap-btp-toolbox-%EF%B8%8F/ba-p/13944069",
-            "urlToImage": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
-            "publishedAt": "2026-03-25 15:41:23"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Alliance for OpenUSD Announces New Member Milestones and Industrial Momentum Following Core Specification 1.0",
-            "url": "https://www.prnewswire.com/news-releases/alliance-for-openusd-announces-new-member-milestones-and-industrial-momentum-following-core-specification-1-0--302725028.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2942239/The_Linux_Foundation_aousd_logo.jpg?p=original",
-            "publishedAt": "2026-03-25 15:30:00"
-        },
-        {
-            "source": {
-                "name": "inc42"
-            },
-            "title": "OpenAI Pulls The Plug On Sora: What This Means for AI Video?",
-            "url": "https://inc42.com/features/openai-pulls-the-plug-on-sora-what-this-means-for-ai-video/",
-            "urlToImage": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/OpenAI-Sora-app-shutdown-story.jpg",
-            "publishedAt": "2026-03-25 14:30:14"
-        },
-        {
-            "source": {
-                "name": "abacusnews"
-            },
-            "title": "Why OpenAI Abruptly Killed Sora and Blindsided Disney",
-            "url": "https://www.abacusnews.com/why-openai-abruptly-killed-sora-and-blindsided-disney/",
-            "urlToImage": "https://www.abacusnews.com/wp-content/uploads/2026/03/OpenAI-discontinues-Sora.png",
-            "publishedAt": "2026-03-25 14:11:31"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Corsokane Launches \"Enterprise-Alpha\" – A Groundbreaking Analytical Engine for Corporate AI Integration and Market Dynamics",
-            "url": "https://www.benzinga.com/pressreleases/26/03/g51455528/corsokane-launches-enterprise-alpha-a-groundbreaking-analytical-engine-for-corporate-ai-integratio",
-            "urlToImage": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
-            "publishedAt": "2026-03-25 13:22:56"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Bolster AI Powers New Brand Guardian Solution to Combat AI-Driven Fraud",
-            "url": "https://www.prnewswire.com/news-releases/bolster-ai-powers-new-brand-guardian-solution-to-combat-ai-driven-fraud-302723987.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2703923/Bolster_AI_Logo.jpg?p=original",
-            "publishedAt": "2026-03-25 12:00:00"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Exclusive: Normal Computing raises $50M from Samsung Catalyst to tackle soaring AI chip costs and power demands",
-            "url": "https://fortune.com/2026/03/25/normal-computing-raises-50m-from-samsung-catalyst-ai-chip-costs-power-demands/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/B0004596-e1774371960216.jpg?w=2048",
-            "publishedAt": "2026-03-25 12:00:00"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "Alliance For Openusd Announces New Member Milestones And Industrial Momentum Following Core Specification 1.0",
-            "url": "https://menafn.com/1110906137/Alliance-For-Openusd-Announces-New-Member-Milestones-And-Industrial-Momentum-Following-Core-Specification-10",
-            "urlToImage": "https://menafn.com/includes/img/logo.jpg",
-            "publishedAt": "2026-03-25 11:47:03"
         }
     ]
 }
