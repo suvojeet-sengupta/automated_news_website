@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-27T08:57:45.955047Z",
+    "lastUpdatedAt": "2026-03-27T09:56:45.271820Z",
     "articles": [
+        {
+            "source": {
+                "id": "911cd82c5544b3cdb8eaa024eb17b8b5",
+                "name": "FOX 9",
+                "url": "https://www.fox9.com",
+                "country": "us"
+            },
+            "title": "AI replacement soft landing: Proposed law would require companies to give workers 90 days notice",
+            "url": "https://www.fox9.com/news/ai-replacement-soft-landing-law-require-companies-workers-90-days-notice-march-26",
+            "urlToImage": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/03/1200/630/getty-artificial-intelligence.jpg?ve=1&tl=1",
+            "publishedAt": "2026-03-26T21:22:41Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "AI is giving bad advice to flatter its users, says new study on dangers of overly agreeable chatbots",
+            "url": "https://japantoday.com/category/tech/ai-is-giving-bad-advice-to-flatter-its-users-says-new-study-on-dangers-of-overly-agreeable-chatbots",
+            "urlToImage": "https://media.japantoday.com/img/store/2d/45/cfb33c77a252a9b133e06f2a249f7a874547/download/_w1700.jpeg",
+            "publishedAt": "2026-03-26T21:00:00Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -3492,30 +3516,6 @@
             "url": "https://www.straitstimes.com/business/companies-markets/openai-discontinues-support-for-sora-winds-down-disney-deal",
             "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/03556acc2d6220f298d4b46e747f5a11e3872841d0368d9465d478d524f93a36",
             "publishedAt": "2026-03-25T00:10:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Openreach taps Google AI to speed fibre rollout, cut emissions",
-            "url": "https://www.reuters.com/business/media-telecom/openreach-taps-google-ai-speed-fibre-rollout-cut-emissions-2026-03-25/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/5MYICJ3R3ROARAKNB6FDIJU6EM.jpg?auth=b103de1806743d8927ce670fcbb233540c65af8cd1c29a87a5005fa63bda3394&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-25T00:03:51Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Openreach taps Google AI to speed fibre rollout, cut emissions",
-            "url": "https://www.marketscreener.com/news/openreach-taps-google-ai-to-speed-fibre-rollout-cut-emissions-ce7e5ed2de8af622",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-25T000407Z_2_LYNXMPEM2O000_RTROPTP_4_BT-TELECOMS.JPG",
-            "publishedAt": "2026-03-25T00:02:32Z"
         }
     ]
 }
