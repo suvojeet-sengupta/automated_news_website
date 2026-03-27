@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-03-27T07:57:55.760163Z",
+    "lastUpdatedAt": "2026-03-27T08:57:45.955047Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Meta to invest $10bn in Texas AI data center",
+            "url": "https://www.marketscreener.com/news/meta-to-invest-10bn-in-texas-ai-data-center-ce7e51dbd98bf020",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-06-13T032957Z_1_LYNXMPEL5C058_RTROPTP_4_FRANCE-TECH.JPG",
+            "publishedAt": "2026-03-26T20:41:28Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Southeast Asia revisits nuclear power plans for AI data centers",
+            "url": "https://japantoday.com/category/business/southeast-asia-revisits-nuclear-power-plans-for-ai-data-centers-iran-war-disrupts-energy-supplies",
+            "urlToImage": "https://media.japantoday.com/img/store/d7/e9/c2568055412459582c5f5b5f2ec98c98f2fc/download/_w1700.jpeg",
+            "publishedAt": "2026-03-26T20:40:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Meta, Nvidia, Roblox sued by 3D artist over AI training",
+            "url": "https://www.reuters.com/legal/government/meta-nvidia-roblox-sued-by-3d-artist-over-ai-training-2026-03-26/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ZY3JDXTU7VIM7I5MWYZVLCIYFA.jpg?auth=435de0d4491f83dd17a9485c283f6f8eb00a55d0f8296b83ee59f2df1f842774&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-03-26T20:34:50Z"
+        },
+        {
+            "source": {
+                "id": "bc49d994b41ac710f5c89f6e6adeece4",
+                "name": "The Boston Herald",
+                "url": "https://www.bostonherald.com",
+                "country": "us"
+            },
+            "title": "Bots full of flattery, bad advice",
+            "url": "https://www.bostonherald.com/2026/03/26/bots-full-of-flattery-bad-advice/",
+            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/03/AP26084270429798.jpg?w=1024&h=683",
+            "publishedAt": "2026-03-26T20:27:52Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Rapid7 Reports Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
+            "url": "https://www.manilatimes.net/2026/03/27/tmt-newswire/globenewswire/rapid7-reports-inducement-grants-under-nasdaq-listing-rule-5635c4/2308851",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/27/990348.jpg",
+            "publishedAt": "2026-03-26T20:26:24Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Why AI Is Becoming Core Financial Infrastructure",
+            "url": "https://techbullion.com/why-ai-is-becoming-core-financial-infrastructure/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/ai-core-financial-infrastructure-1000x504.jpg",
+            "publishedAt": "2026-03-26T19:58:38Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -1428,6 +1500,24 @@
             "url": "https://www.rappler.com/business/opinion-artificial-intelligence-social-good/",
             "urlToImage": "https://www.rappler.com/tachyon/2023/09/ns-artificial-intelligence.jpg",
             "publishedAt": "2026-03-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "theatlantic"
+            },
+            "title": "Welcome to a Multidimensional Economic Disaster",
+            "url": "https://www.theatlantic.com/technology/2026/03/ai-boom-polycrisis/686559/",
+            "urlToImage": "https://cdn.theatlantic.com/thumbor/IVFBCxc2jIXqe2KB2LEnwKydNPU=/media/img/mt/2026/03/2026_03_26_datacenter_mpg/original.jpg",
+            "publishedAt": "2026-03-26 20:44:54"
+        },
+        {
+            "source": {
+                "name": "businesswire"
+            },
+            "title": "Veritone Reports Preliminary, Unaudited Q4 2025 Results and Announces Strategic Deal with Oracle",
+            "url": "http://www.businesswire.com/news/home/20260326168249/en/Veritone-Reports-Preliminary-Unaudited-Q4-2025-Results-and-Announces-Strategic-Deal-with-Oracle/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+            "urlToImage": "https://mms.businesswire.com/media/20260326168249/en/2758721/22/veritone_logo_bizwire.jpg",
+            "publishedAt": "2026-03-26 20:30:00"
         },
         {
             "source": {
@@ -3426,81 +3516,6 @@
             "url": "https://www.marketscreener.com/news/openreach-taps-google-ai-to-speed-fibre-rollout-cut-emissions-ce7e5ed2de8af622",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-25T000407Z_2_LYNXMPEM2O000_RTROPTP_4_BT-TELECOMS.JPG",
             "publishedAt": "2026-03-25T00:02:32Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Overcoming extrapolation challenges of deep learning by incorporating physics in protein sequence-function modeling",
-            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013728",
-            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013728.g008&size=inline",
-            "publishedAt": "2026-03-25T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "Nvidia’s Shift from GPUs and AI ‘Inference King’ Economics",
-            "url": "https://www.hpcwire.com/2026/03/25/nvidias-shift-from-gpus-and-ai-inference-king-economics/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2026/03/Huang_inference-king.png",
-            "publishedAt": "2026-03-25 23:38:16"
-        },
-        {
-            "source": {
-                "name": "dallasinnovates"
-            },
-            "title": "Patented: IBM’s Simulated State of a Digital Twin as Password and More North Texas Inventive Activity",
-            "url": "https://s24806.pcdn.co/ibms-simulated-state-of-a-digital-twin-as-password-and-more-north-texas-inventive-activity/",
-            "urlToImage": "https://s24806.pcdn.co/wp-content/uploads/2026/03/Patent-week-of-022426.jpg",
-            "publishedAt": "2026-03-25 21:34:16"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Qualcomm’s Next Two Flagships Just Leaked — And They Signal a War on Two Fronts",
-            "url": "https://www.webpronews.com/qualcomms-next-two-flagships-just-leaked-and-they-signal-a-war-on-two-fronts/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-13051-1774463131.jpeg",
-            "publishedAt": "2026-03-25 18:25:36"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "The Quiet Workhorse: Why Old-School Machine Learning Still Drives Most Enterprise Revenue While AI Agents Grab Headlines",
-            "url": "https://www.webpronews.com/the-quiet-workhorse-why-old-school-machine-learning-still-drives-most-enterprise-revenue-while-ai-agents-grab-headlines/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-13038-1774461445.jpeg",
-            "publishedAt": "2026-03-25 17:57:30"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "SenseTime Turns Profitable at the Operating Level — And It Tells a Bigger Story About China’s AI Ambitions",
-            "url": "https://www.webpronews.com/sensetime-turns-profitable-at-the-operating-level-and-it-tells-a-bigger-story-about-chinas-ai-ambitions/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-13035-1774461199.jpeg",
-            "publishedAt": "2026-03-25 17:53:26"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "The ROI for AI isn’t one-size-fits-all, says data storage CTO",
-            "url": "https://fortune.com/2026/03/25/the-roi-for-ai-isnt-one-size-fits-all-says-data-storage-cto/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/CIO-Intelligence-Everpure.jpg?w=2048",
-            "publishedAt": "2026-03-25 17:31:13"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Is the metaverse finally dead and buried? What's really going on with the embattled idea of living in virtual worlds.",
-            "url": "https://us.headtopics.com/news/is-the-metaverse-finally-dead-and-buried-what-s-really-81448026",
-            "urlToImage": "https://i.headtopics.com/images/2026/3/25/livescience/is-the-metaverse-finally-dead-and-buried-what-s-re-is-the-metaverse-finally-dead-and-buried-what-s-re-C5FC06E8A26D9762C393BEE1B6352F62.webp",
-            "publishedAt": "2026-03-25 17:19:48"
         }
     ]
 }
