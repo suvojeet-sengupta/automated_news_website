@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-03-28T09:33:04.008837Z",
+    "lastUpdatedAt": "2026-03-28T10:27:45.389285Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "From dot-com darling to tech pariah, Yahoo bets everything on AI and Scout",
+            "url": "https://www.latimes.com/business/story/2026-03-27/from-dot-com-darling-to-tech-pariah-yahoo-bets-everything-on-ai-scout",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/aea0f27/2147483647/strip/true/crop/3124x1640+0+221/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2F1d%2F45ef44af41b3a750a374aeb302a4%2Fa53c73c408be45b58363e06b70026f69.jpg",
+            "publishedAt": "2026-03-27T21:54:47Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Tech Down as Alphabet AI Breakthrough Hits Chip Stocks -- Tech Roundup",
+            "url": "https://www.marketscreener.com/news/tech-down-as-alphabet-ai-breakthrough-hits-chip-stocks-tech-roundup-ce7e51d8db8cf023",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-03-27T21:39:13Z"
+        },
         {
             "source": {
                 "id": "33cb25fa0c188e2a4e90fce288b4ce49",
@@ -1656,6 +1680,15 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014125",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014125.g008&size=inline",
             "publishedAt": "2026-03-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Time to rethink cloud architecture for enterprise AI",
+            "url": "https://www.techtarget.com/searchenterpriseai/post/Time-to-rethink-cloud-architecture-for-enterprise-AI",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/cloud_g943065362.jpg",
+            "publishedAt": "2026-03-27 22:02:00"
         },
         {
             "source": {
@@ -3492,33 +3525,6 @@
             "url": "https://garhwalpost.in/graphic-era-becomes-indias-first-genai-powered-campus/",
             "urlToImage": "https://garhwalpost.in/wp-content/uploads/2026/03/pic-1b-scaled.jpg",
             "publishedAt": "2026-03-26 11:58:21"
-        },
-        {
-            "source": {
-                "name": "thehackernews"
-            },
-            "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
-            "url": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOuz5FhCwEEsebWV1fHdF2VE-lnNBee6FrzMYsTdEODBsw07F76vTo3-UJKUz7QENWIUU_J7IdNj2vlhZbbdL5Chz6Vt6SyEbIwH-vw3J76SlUT02eZwbGHG5egcJNFeaKBd3sdLrp7egajwLniaeBMwZdXAMv3la2Ywzxin4gLiZK6lHbdPSzUDFCuWHF/s1700-e365/tday-main.jpg",
-            "publishedAt": "2026-03-26 11:45:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "WhiteFiber, Inc. Reports Fourth Quarter and Full Year 2025 Results",
-            "url": "https://www.prnewswire.com/news-releases/whitefiber-inc-reports-fourth-quarter-and-full-year-2025-results-302725537.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2745795/WhiteFiber_Logo.jpg?p=original",
-            "publishedAt": "2026-03-26 11:00:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "AI boosted one of the worst forms of abusive content on the internet",
-            "url": "https://www.digitaltrends.com/computing/ai-boosted-one-of-the-worst-forms-of-abusive-content-on-the-internet/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/02/Faces-in-a-grid-generated-by-Gemini.jpg?resize=1200%2C630",
-            "publishedAt": "2026-03-26 10:10:36"
         }
     ]
 }
