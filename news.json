@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-03-29T08:35:04.926082Z",
+    "lastUpdatedAt": "2026-03-29T09:32:33.941636Z",
     "articles": [
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "South China Morning Post",
+            "url": "https://www.scmp.com/opinion/asia-opinion/article/3347725/ai-infrastructure-front-line-lessons-asean-iran-war",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/03/26/23700a47-2cb8-4e35-a9c9-50eb14677e58_d84036e1.jpg?itok=ItmFsHQD&v=1774515173",
+            "publishedAt": "2026-03-28T21:30:10Z"
+        },
         {
             "source": {
                 "id": "680f00482cbf9f314921fefd917871d9",
@@ -552,6 +564,15 @@
             "url": "https://wjla.com/news/nation-world/ai-artificial-intelligence-overly-friengly-chatbot-agreeable-study-relations-harmful-behavior-science-convictions-sycophancy-choices-information-inaccurate-kids-teens-adults-doctors",
             "urlToImage": "https://wjla.com/resources/media2/16x9/6000/1320/0x313/90/45ec7254-03a3-4b0a-b79f-f7939bc5ae43-GettyImages2261974003.jpg",
             "publishedAt": "2026-03-28T00:23:04Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Apple is opening Siri to pick AI models, but there’s only only that makes sense to me",
+            "url": "https://www.digitaltrends.com/phones/apple-is-opening-siri-to-pick-ai-models-but-theres-only-only-that-makes-sense-to-me/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/03/iPhone-with-Active-Siri.jpg?resize=1200%2C630",
+            "publishedAt": "2026-03-28 21:00:00"
         },
         {
             "source": {
@@ -3501,30 +3522,6 @@
             "url": "https://techbullion.com/why-young-entrepreneurs-are-reshaping-business-technology/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/Why-Young-Entrepreneurs-Are-Reshaping-Business-Technology-1000x600.png",
             "publishedAt": "2026-03-26T09:20:38Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Eviden IAM Awarded the Cybersecurity Made In Europe Label",
-            "url": "https://www.globenewswire.com/news-release/2026/03/26/3262791/0/en/Eviden-IAM-Awarded-the-Cybersecurity-Made-In-Europe-Label-from-the-European-Cyber-Security-Organisation-ECSO.html",
-            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/1347e127-f9d4-42fc-b5ce-3fe7dd5b0dcb",
-            "publishedAt": "2026-03-26T09:20:10Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "OpenAI Backs Startup Deploying AI Agents in Fintech, Biotech Industries",
-            "url": "https://www.marketscreener.com/news/openai-backs-startup-deploying-ai-agents-in-fintech-biotech-industries-ce7e51dadb8cf62c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-03-26T09:16:07Z"
         }
     ]
 }
