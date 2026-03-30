@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-03-30T17:51:04.971758Z",
+    "lastUpdatedAt": "2026-03-30T18:54:12.847697Z",
     "articles": [
+        {
+            "source": {
+                "id": "d5a5a1853c19ba5e406c8ff87abdfd80",
+                "name": "The Quint",
+                "url": "https://www.thequint.com",
+                "country": "in"
+            },
+            "title": "How Pakistan-Linked Accounts Are Running a Disinformation Campaign Against India",
+            "url": "https://www.thequint.com/news/webqoof/how-pakistan-linked-accounts-spreading-disinformation-campaign-against-india-analysis",
+            "urlToImage": "https://media.assettype.com/thequint%2F2026-03-26%2Fx98dxvhp%2FAbhishekWQ5-2026-03-26T172501.228.jpg",
+            "publishedAt": "2026-03-30T06:27:13Z"
+        },
+        {
+            "source": {
+                "id": "cf119ed600a8a7c8e23575950f071fec",
+                "name": "The Irish Sun",
+                "url": "https://www.thesun.ie",
+                "country": "ie"
+            },
+            "title": "If your job is largely text-based, AI is coming for it",
+            "url": "https://www.thesun.ie/news/16751365/ai-jobs-ireland-workers-sidney-gibney/",
+            "urlToImage": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/03/newspress-collage-2xi2uuy42-1774810480227.jpg?quality=90&strip=all&1774814107&w=1920&h=1080&crop=1",
+            "publishedAt": "2026-03-30T06:00:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Bluesky introduces Attie, a new app that lets users vibe-code their own social feed",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/bluesky-introduces-attie-ai-agent-social-media-app-details-10609074/",
+            "urlToImage": "https://images.indianexpress.com/2026/03/Tech-featured-image172.jpg",
+            "publishedAt": "2026-03-30T05:57:06Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "One man, his dog, and ChatGPT: Australia's AI vaccine saga",
+            "url": "https://www.channelnewsasia.com/world/chatgpt-ai-dog-cancer-treatment-6025186",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--2vjdCeaq--/c_crop,h_381,w_677,x_1,y_62/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/30/image-13398d68.jpeg?itok=Jd-cGBB-",
+            "publishedAt": "2026-03-30T05:53:00Z"
+        },
         {
             "source": {
                 "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
@@ -168,6 +216,15 @@
             "url": "https://theconversation.com/we-analyzed-philly-street-scenes-and-identified-signs-of-gentrification-using-machine-learning-trained-on-longtime-residents-observations-277704",
             "urlToImage": "https://images.theconversation.com/files/723742/original/file-20260313-57-5b5kqo.png?ixlib=rb-4.1.0&rect=23%2C69%2C1287%2C643&q=45&auto=format&w=1356&h=668&fit=crop",
             "publishedAt": "2026-03-30T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "theweek"
+            },
+            "title": "RAMageddon is ravashing the tech industry",
+            "url": "https://theweek.com/tech/ramageddon-tech-industry-ram-shortage-memory",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/RLQhNzuAseCAGMHrpvNneL-1280-80.jpg",
+            "publishedAt": "2026-03-30 06:00:00"
         },
         {
             "source": {
@@ -3402,66 +3459,6 @@
             "url": "https://www.livemint.com/brand-stories/qpiai-achieves-high-speed-quantum-error-correction-on-superconducting-systems-with-new-decoder-platform-11774609307374.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/QpiAI_Team_With_QpiAI_QEC_1774609830896_1774609843239.jpg",
             "publishedAt": "2026-03-27 11:24:16"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Federal judge temporarily blocks the Pentagon from branding AI firm Anthropic a supply chain risk",
-            "url": "https://wtop.com/national/2026/03/federal-judge-temporarily-blocks-the-pentagon-from-branding-ai-firm-anthropic-a-supply-chain-risk/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/02/Anthropic_04555-scaled.jpg",
-            "publishedAt": "2026-03-26T23:55:38Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How Artificial Intelligence Is Transforming Financial Services",
-            "url": "https://techbullion.com/how-artificial-intelligence-is-transforming-financial-services/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/how-artificial-intelligence-is-transforming-financial-services-1-1000x504.jpg",
-            "publishedAt": "2026-03-26T23:31:12Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Why Machine Learning Is Critical to Fintech Innovation",
-            "url": "https://techbullion.com/why-machine-learning-is-critical-to-fintech-innovation/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/why-machine-learning-is-critical-to-fintech-innovation-1000x504.jpg",
-            "publishedAt": "2026-03-26T23:31:05Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Why Fintech Companies Are Investing in Artificial Intelligence",
-            "url": "https://techbullion.com/why-fintech-companies-are-investing-in-artificial-intelligence/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/03/why-fintech-companies-are-investing-in-artificial-intelligence-1000x504.jpg",
-            "publishedAt": "2026-03-26T23:30:50Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI agent accelerates catalyst discovery for sustainable fuel development",
-            "url": "https://phys.org/news/2026-03-ai-agent-catalyst-discovery-sustainable.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-agent-accelerates-c.jpg",
-            "publishedAt": "2026-03-26T23:30:05Z"
         }
     ]
 }
