@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-03-30T20:40:16.902125Z",
+    "lastUpdatedAt": "2026-03-30T21:37:48.556203Z",
     "articles": [
+        {
+            "source": {
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            },
+            "title": "What I Learned From \"the AI Doc: or How I Became an Apocaloptimist\"",
+            "url": "https://www.businessinsider.com/ai-doc-apocaloptimist-lessons-sam-altman-demis-hassabis-dario-amodei-2026-3",
+            "urlToImage": "https://i.insider.com/69c98dae8e5f53c45ea2d39d?width=1200&format=jpeg",
+            "publishedAt": "2026-03-30T09:31:01Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "India Bans Chinese CCTV Makers Amid Security Concern; Move To Aid Domestic Industry",
+            "url": "https://www.ndtvprofit.com/business/india-bans-chinese-cctv-makers-to-boost-security-and-domestic-industry-11285293",
+            "urlToImage": "https://c.ndtvimg.com/2026-03/g31d46nk_cctv_625x300_30_March_26.jpeg",
+            "publishedAt": "2026-03-30T09:28:40Z"
+        },
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "Why Tech CEOs Are Suddenly Pointing to AI for Massive Layoffs?",
+            "url": "https://usaherald.com/why-tech-ceos-are-suddenly-pointing-to-ai-for-massive-layoffs/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2026-03-30T09:25:05Z"
+        },
+        {
+            "source": {
+                "id": "ca0ac0e9c1dc28f0363e86d46cc022aa",
+                "name": "Kiplinger",
+                "url": "https://www.kiplinger.com",
+                "country": "us"
+            },
+            "title": "Warfare Revolution: How The Military Uses AI",
+            "url": "https://www.kiplinger.com/politics/warfare-revolution-how-the-military-uses-ai",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Zd42hETEPppoH6JDZQ9D8h-2121-80.jpg",
+            "publishedAt": "2026-03-30T09:15:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "scale layoffs yet, bigger changes likely ahead: Report",
+            "url": "https://www.tribuneindia.com/news/business/ai-reshaping-jobs-globally-without-large-scale-layoffs-yet-bigger-changes-likely-ahead-report/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTk5ZTc1MmEwLTJjMTctMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+            "publishedAt": "2026-03-30T09:05:23Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "China’s DeepSeek AI chatbot suffers longest outage since viral rise in early 2025",
+            "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/chinas-deepseek-ai-chatbot-suffers-longest-outage-since-viral-rise-in-early-2025-10609431/",
+            "urlToImage": "https://images.indianexpress.com/2025/09/Huawei-13.jpg",
+            "publishedAt": "2026-03-30T09:05:12Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "One man, his dog, and ChatGPT: Australia's AI vaccine saga",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/30/one-man-his-dog-and-chatgpt-australia039s-ai-vaccine-saga",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/30/3836403.JPG",
+            "publishedAt": "2026-03-30T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Tech CEOs blames AI to justify job cuts",
+            "url": "https://www.thenews.com.pk/latest/1397150-tech-ceos-blames-ai-to-justify-job-cuts",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-30/1397150_020922_updates.jpg",
+            "publishedAt": "2026-03-30T08:57:17Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -360,6 +456,24 @@
             "url": "https://theconversation.com/we-analyzed-philly-street-scenes-and-identified-signs-of-gentrification-using-machine-learning-trained-on-longtime-residents-observations-277704",
             "urlToImage": "https://images.theconversation.com/files/723742/original/file-20260313-57-5b5kqo.png?ixlib=rb-4.1.0&rect=23%2C69%2C1287%2C643&q=45&auto=format&w=1356&h=668&fit=crop",
             "publishedAt": "2026-03-30T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "neowin"
+            },
+            "title": "Microsoft Copilot is now injecting ads into pull requests on GitHub",
+            "url": "https://www.neowin.net/forum/topic/1464962-microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github/?comment=599049042&do=findComment",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/05/1747482490_github-mascot_story.jpg",
+            "publishedAt": "2026-03-30 08:52:02"
+        },
+        {
+            "source": {
+                "name": "neowin"
+            },
+            "title": "Microsoft Copilot is now injecting ads into pull requests on GitHub, GitLab",
+            "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/05/1747482490_github-mascot_story.jpg",
+            "publishedAt": "2026-03-30 08:52:01"
         },
         {
             "source": {
@@ -3390,111 +3504,6 @@
             "url": "https://www.newsmax.com/us/anthropic-ban-ai/2026/03/26/id/1250958/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9bd336c5-9586-4774-bc75-7359fc7ba66e&SiteName=Newsmax",
             "publishedAt": "2026-03-27T00:25:33Z"
-        },
-        {
-            "source": {
-                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-                "name": "SFGATE",
-                "url": "https://www.sfgate.com",
-                "country": "us"
-            },
-            "title": "Federal judge temporarily blocks the Pentagon from branding AI firm Anthropic a supply chain risk",
-            "url": "https://www.sfgate.com/business/article/federal-judge-temporarily-blocks-the-pentagon-22154481.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/63/41/42/30283937/6/rawImage.jpg",
-            "publishedAt": "2026-03-27T00:14:14Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "US book critics honor Nobel laureate and South Korean novelist Han Kang",
-            "url": "https://apnews.com/article/book-critics-award-han-kang-3323cae464ea92b642bf8936b636f86e",
-            "urlToImage": "https://dims.apnews.com/dims4/default/4448261/2147483647/strip/true/crop/8256x5501+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5c%2F9a%2F237b88f9a90cb5fa612f6bc83072%2F9f2fcd71acdf411186ad27f4575d6fac",
-            "publishedAt": "2026-03-27T00:10:50Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "US book critics honor Nobel laureate and South Korean novelist Han Kang",
-            "url": "https://www.clickondetroit.com/entertainment/2026/03/27/us-book-critics-honor-nobel-laureate-and-south-korean-novelist-han-kang/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/X2F5EYGZQJCI7GAXUM5DH7KTCI.jpg?_a=DATAg1fkZAA0",
-            "publishedAt": "2026-03-27T00:10:49Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "US Book Critics Honor Nobel Laureate and South Korean Novelist Han Kang",
-            "url": "https://www.usnews.com/news/entertainment/articles/2026-03-26/us-book-critics-honor-nobel-laureate-and-south-korean-novelist-han-kang",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/d20715a/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F5b%2F72010dccd60774473c98c11593efa5%2F9f2fcd71acdf411186ad27f4575d6facBook_Critic_Awards_36332.jpg",
-            "publishedAt": "2026-03-27T00:10:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "An improved dataset for predicting mammal infecting viruses from genetic sequence information",
-            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014125",
-            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014125.g008&size=inline",
-            "publishedAt": "2026-03-27T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "Crusoe to build 900-megawatt AI data center for Microsoft in Texas",
-            "url": "https://startupnews.fyi/2026/03/28/crusoe-to-build-900-megawatt-ai-data-center-for-microsoft-in-texas/",
-            "urlToImage": "https://i2.wp.com/img.etimg.com/thumb/width-1200,height-900,imgsize-228866,resizemode-75,msid-129850849/tech/artificial-intelligence/crusoe-to-build-900-megawatt-ai-data-center-for-microsoft-in-texas.jpg?ssl=1",
-            "publishedAt": "2026-03-27 22:45:02"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Time to rethink cloud architecture for enterprise AI",
-            "url": "https://www.techtarget.com/searchenterpriseai/post/Time-to-rethink-cloud-architecture-for-enterprise-AI",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/cloud_g943065362.jpg",
-            "publishedAt": "2026-03-27 22:02:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google’s AI-Powered Compression Could Slash Your Cloud Storage Bill — And Reshape How the Internet Moves Data",
-            "url": "https://www.webpronews.com/googles-ai-powered-compression-could-slash-your-cloud-storage-bill-and-reshape-how-the-internet-moves-data/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-13192-1774644070.jpeg",
-            "publishedAt": "2026-03-27 20:41:16"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "SoftBank’s $40 Billion AI Bet Signals Massive OpenAI Push",
-            "url": "https://www.analyticsinsight.net/news/softbanks-40-billion-ai-bet-signals-massive-openai-push",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-03-27/6q2h4fgz/SoftBank-Secures-40B-Loan-for-AI.jpg",
-            "publishedAt": "2026-03-27 19:45:00"
-        },
-        {
-            "source": {
-                "name": "californiatelegraph"
-            },
-            "title": "Top of the slop The Sora slide could trigger an AI avalanche",
-            "url": "http://californiatelegraph.com/news/278948592/top-of-the-slop-the-sora-slide-could-trigger-an-ai-avalanche",
-            "urlToImage": "https://image.chitra.live/api/v1/wps/d3d15b2/e5d2fb37-e266-4aed-98ca-20ccc5986bab/0/ZmE2MmUzNmUtMDU-600x315.jpg",
-            "publishedAt": "2026-03-27 19:43:47"
         }
     ]
 }
