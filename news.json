@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-03-31T10:01:48.806362Z",
+    "lastUpdatedAt": "2026-03-31T11:43:38.792407Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "AI race enters a new phase",
+            "url": "https://www.cnbc.com/2026/03/31/cnbcs-china-connection-newsletter-ai-race-enters-a-new-phase.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108284576-1774851674022-gettyimages-2259191292-vcg111618332056.jpeg?v=1774851733&w=1920&h=1080",
+            "publishedAt": "2026-03-30T23:03:38Z"
+        },
         {
             "source": {
                 "id": "0d429ea54fdbe8e34c582aa31bc81aba",
@@ -12,6 +24,18 @@
             "url": "https://www.bostonglobe.com/2026/03/30/business/private-credit-wobbles-could-prove-perilous-trump/",
             "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/TTEJAM7IWP324THHN2YMTMM7HY.jpg?auth=88b6e1aa512dadb8e719e41adbb07583de88f03f9cd3cbfef1544d64a518c596&width=1440",
             "publishedAt": "2026-03-30T21:50:22Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Emotions in motion: How movement may signal mental health issues",
+            "url": "https://medicalxpress.com/news/2026-03-emotions-motion-movement-mental-health.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/emotions-in-motion-how.jpg",
+            "publishedAt": "2026-03-30T21:50:01Z"
         },
         {
             "source": {
@@ -1272,6 +1296,24 @@
             "url": "https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014156",
             "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014156.g018&size=inline",
             "publishedAt": "2026-03-30T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "theatlantic"
+            },
+            "title": "The Ancient Chinese Game That Led to the AI Boom",
+            "url": "https://www.theatlantic.com/technology/2026/03/alphago-ai-boom/686618/",
+            "urlToImage": "https://cdn.theatlantic.com/thumbor/U6SJyTz_GY-KuSqVbSFKPc_JlQM=/media/img/mt/2026/03/2026_03_27_AI2_mpg/original.jpg",
+            "publishedAt": "2026-03-30 22:27:37"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Midjourney engineer debuts new vibe coded, open source standard Pretext to revolutionize web design",
+            "url": "https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/2CoM3NWQlDLDvtdleEg1ss/30f0f204cc653ad61f99d1ae524afa5d/Gemini_Generated_Image_z7et1iz7et1iz7et.png?w=800&q=75",
+            "publishedAt": "2026-03-30 22:20:00"
         },
         {
             "source": {
@@ -3429,54 +3471,6 @@
             "url": "https://www.siliconrepublic.com/enterprise/integrity360-security-first-event-dublin-ai",
             "urlToImage": "https://www.siliconrepublic.com/wp-content/uploads/2026/03/INTEGRITY360_SECURITY_FIRST_EVENT.png",
             "publishedAt": "2026-03-27T15:30:18Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Cyber stocks fall on report Anthropic is testing a powerful new model",
-            "url": "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108274236-1772723676353-gettyimages-2264080846-omarques_03032026_tech_11_of_15.jpeg?v=1772723700&w=1920&h=1080",
-            "publishedAt": "2026-03-27T15:24:52Z"
-        },
-        {
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity Stocks Hit By New Anthropic Worries Amid 'Mythos' Reports",
-            "url": "https://www.investors.com/news/technology/cybersecurity-stocks-anthropic-claude-mythos-accenture-databricks/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/09/stock-CrowdStrike-02-shutter.jpg",
-            "publishedAt": "2026-03-27T15:11:39Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Fortinet Stock Falls As Anthropic AI Leak Pressures Cybersecurity Stocks",
-            "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51521050/fortinet-stock-falls-as-anthropic-ai-leak-pressures-cybersecurity-stocks",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/03/27/Ottawa--On--Canada---October-15--2023-Fo.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2026-03-27T14:53:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Cybersecurity Stocks Fall on Leak About New Claude Model's Cyber Capabilities",
-            "url": "https://www.marketscreener.com/news/cybersecurity-stocks-fall-on-leak-about-new-claude-model-s-cyber-capabilities-ce7e51dbd08af72c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-03-27T14:51:25Z"
         }
     ]
 }
