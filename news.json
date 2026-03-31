@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-03-31T16:06:00.023648Z",
+    "lastUpdatedAt": "2026-03-31T17:52:57.539338Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Price of tungsten, sulfur and helium",
+            "url": "https://www.cnbc.com/2026/03/31/commodities-price-of-tungsten-sulfur-and-helium.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108285106-1774923089296-IMG-20260320-WA0021.jpg?v=1774923150&w=1920&h=1080",
+            "publishedAt": "2026-03-31T05:29:11Z"
+        },
+        {
+            "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+            },
+            "title": "How safe are children in the digital world in Australia?",
+            "url": "https://www.sbs.com.au/language/urdu/en/podcast-episode/%DA%88%DB%8C%D8%AC%DB%8C%D9%B9%D9%84-%D8%AF%D9%86%DB%8C%D8%A7-%D9%85%DB%8C%DA%BA-%D8%A8%DA%86%DB%92-%DA%A9%D8%AA%D9%86%DB%92-%D9%85%D8%AD%D9%81%D9%88%D8%B8-%D8%A2%D8%B3%D9%B9%D8%B1%DB%8C%D9%84%DB%8C%D8%A7-%D9%85%DB%8C%DA%BA-%D8%A7%DB%8C-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D9%B9-%D9%85%DB%81%D9%85-%DA%A9%D8%A7-%D8%A2%D8%BA%D8%A7%D8%B2/l4dn47mjs",
+            "urlToImage": "https://assets.sbs.com.au/dims4/default/42adc55/2147483647/strip/true/crop/772x434+30+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fdrupal%2Fyourlanguage%2Fpublic%2Fesafety_0.jpg",
+            "publishedAt": "2026-03-31T05:09:30Z"
+        },
+        {
+            "source": {
+                "id": "f4967fce32bfc735983f0f39dcdba127",
+                "name": "pv magazine",
+                "url": "https://www.pv-magazine.com",
+                "country": "de"
+            },
+            "title": "U.S. national laboratories lead multi-agency push for solar cybersecurity standards",
+            "url": "https://www.pv-magazine.com/2026/03/31/u-s-national-laboratories-lead-multi-agency-push-for-solar-cybersecurity-standards/",
+            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2026/03/Screenshot-2026-03-30-170228.png",
+            "publishedAt": "2026-03-31T05:00:36Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Will AI eliminate most tech jobs? Here are the 4 roles that will last and why",
+            "url": "https://www.financialexpress.com/life/technology-will-ai-eliminate-most-tech-jobs-here-are-the-4-roles-that-will-last-and-why-4190105/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/03/artificial-intelligence_20251212180956_20260317094347_20260326133538.jpg",
+            "publishedAt": "2026-03-31T04:44:56Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Using machine learning to scan post-cancer health risks",
+            "url": "https://www.news-medical.net/news/20260331/Using-machine-learning-to-scan-post-cancer-health-risks.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2026-03-31T04:28:00Z"
+        },
         {
             "source": {
                 "id": "e553cce06d349ac1f7fbb7618a979256",
@@ -168,6 +228,15 @@
             "url": "https://www.freepressjournal.in/indore/indore-news-cas-discuss-on-ai-risks-in-bank-audit-at-national-conference",
             "urlToImage": "https://media.assettype.com/freepressjournal/2026-03-30/co4frgcl/CA-Audit-Manish-1.jpg",
             "publishedAt": "2026-03-31T01:30:00Z"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "The evolution of edge AI: a path to smarter, sustainable technology",
+            "url": "https://www.expresscomputer.in/guest-blogs/the-evolution-of-edge-ai-a-path-to-smarter-sustainable-technology/133977/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/03/31103559/Stephane_Henry.png",
+            "publishedAt": "2026-03-31 05:06:27"
         },
         {
             "source": {
@@ -3396,78 +3465,6 @@
             "url": "https://www.bostonherald.com/2026/03/27/climate-goals-technology-companies/",
             "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/03/Energy_Power_Plants_Big_Data_2318_-1.jpg?w=1024&h=682",
             "publishedAt": "2026-03-27T17:29:15Z"
-        },
-        {
-            "source": {
-                "id": "d9acc08d8066fc3620da5e6b20b406ad",
-                "name": "Boulder Daily Camera",
-                "url": "https://www.dailycamera.com",
-                "country": "us"
-            },
-            "title": "AI’s arrival complicates Big Tech climate goals, and some worry it’s locking in more fossil fuels",
-            "url": "https://www.dailycamera.com/2026/03/27/climate-goals-technology-companies/",
-            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2026/03/Energy_Power_Plants_Big_Data_2318_-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-03-27T17:29:15Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Kratikal Tech gets BSE approval to raise funds through an SME IPO",
-            "url": "https://www.livemint.com/market/stock-market-news/kratikal-tech-gets-bse-approval-to-raise-funds-through-an-sme-ipo-11774631273784.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/SME_IPO_1757393434059_1757393439445_1774631835915.png",
-            "publishedAt": "2026-03-27T17:22:19Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Cybersecurity Breach Hits European Commission’s Cloud Infrastructure",
-            "url": "https://www.devdiscourse.com/article/technology/3853458-cybersecurity-breach-hits-european-commissions-cloud-infrastructure",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/24_06_2024_07_34_58_6030224.png?width=920&format=jpeg",
-            "publishedAt": "2026-03-27T17:08:45Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Cybersecurity stocks retreat on fears surrounding Anthropic AI model",
-            "url": "https://www.marketscreener.com/news/cybersecurity-stocks-retreat-on-fears-surrounding-anthropic-ai-model-ce7e51d8d98bfe24",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-07-10T213829Z_1_LYNXMPEL69120_RTROPTP_4_USA-HACKERS-LITIGATION.JPG",
-            "publishedAt": "2026-03-27T16:36:42Z"
-        },
-        {
-            "source": {
-                "id": "2492bcb79914b2ce3d9867453dae22ac",
-                "name": "Financial Post",
-                "url": "https://financialpost.com",
-                "country": "ca"
-            },
-            "title": "Tech stocks sink on report Anthropic AI poses security risks",
-            "url": "https://financialpost.com/cybersecurity/cyber-stocks-sink-on-anthropic-security-risk",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/0328-mg-claude.jpg",
-            "publishedAt": "2026-03-27T16:30:31Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Machine learning model can predict 28-day mortality in sepsis patients",
-            "url": "https://www.news-medical.net/news/20260327/Machine-learning-model-can-predict-28-day-mortality-in-sepsis-patients.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2018/9/By_royaltystockphoto_d68ea3ab1d0440e8ab54454b7f5609db-620x480.jpg",
-            "publishedAt": "2026-03-27T16:20:00Z"
         }
     ]
 }
