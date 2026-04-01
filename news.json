@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-04-01T05:20:41.404063Z",
+    "lastUpdatedAt": "2026-04-01T07:14:23.611349Z",
     "articles": [
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "The Hidden Cost of Hesitation in Entrepreneurship",
+            "url": "https://www.ibtimes.com/hidden-cost-hesitation-entrepreneurship-3800621",
+            "urlToImage": "https://d.ibtimes.com/en/full/4646883/rajiv-sharma.jpg",
+            "publishedAt": "2026-03-31T18:47:11Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "In White Stadium debate, AI enters the chat",
+            "url": "https://www.bostonglobe.com/2026/03/31/metro/white-stadium-ai-franklin-park-defenders-bots-search/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/FWIZR7PCYVOFZCE3MEWQV6RBRI.JPG?auth=31750fd756f12212690a09da13c68d2d65cfe4632f3f0cc74cf53293479928f6&width=1440",
+            "publishedAt": "2026-03-31T18:46:27Z"
+        },
+        {
+            "source": {
+                "id": "ab6b7d957a91e0dbf63976cb1b9c26f5",
+                "name": "Santa Clarita Valley Signal",
+                "url": "https://signalscv.com",
+                "country": "us"
+            },
+            "title": "Newsom signs order requiring AI companies to prevent misuse",
+            "url": "https://signalscv.com/2026/03/newsom-signs-order-requiring-ai-companies-to-prevent-misuse/",
+            "urlToImage": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2026/01/08120124/010826_NEWSOMSOTCA_CM_Gavin_Newsom_01-scaled.jpg",
+            "publishedAt": "2026-03-31T18:30:26Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Frank Masotti of Masotti AI today announced the Masotti AI System, powered by the Blended Dominance Method, an AI infrastructure and inclusion system designed to ensure businesses are understood, incl",
+            "url": "https://www.manilatimes.net/2026/04/01/tmt-newswire/globenewswire/frank-masotti-of-masotti-ai-today-announced-the-masotti-ai-system-powered-by-the-blended-dominance-method-an-ai-infrastructure-and-inclusion-system-designed-to-ensure-businesses-are-understood-included-and-recommended-by-ai/2311912",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/01/996475.png",
+            "publishedAt": "2026-03-31T17:36:17Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "How AI Can Run Your Business While You Sleep: Here Are Some Best Tools For Startups",
+            "url": "https://www.timesnownews.com/technology-science/how-ai-can-run-your-business-while-you-sleep-here-are-some-best-tools-for-startups-article-153967141",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-153967141,width-1280,height-720,resizemode-75/153967141.jpg",
+            "publishedAt": "2026-03-31T17:26:35Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -972,6 +1032,15 @@
             "url": "https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014159",
             "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014159.strk&size=inline",
             "publishedAt": "2026-03-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "business-standard"
+            },
+            "title": "Increasing AI adoption puts humanities and critical thinking back in focus",
+            "url": "https://www.business-standard.com/economy/analysis/increasing-ai-adoption-puts-humanities-and-critical-thinking-back-in-focus-126033101323_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/26/full/1769413502-1981.jpg",
+            "publishedAt": "2026-03-31 17:56:18"
         },
         {
             "source": {
@@ -3396,78 +3465,6 @@
             "url": "https://www.thenews.com.pk/latest/1396994-perplexity-ai-ceo-shares-sam-altmans-simple-career-advice",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-03-28/1396994_063811_updates.jpg",
             "publishedAt": "2026-03-28T13:18:43Z"
-        },
-        {
-            "source": {
-                "id": "75ca59dd354694befc1cf6038cf9ca33",
-                "name": "CoinDesk",
-                "url": "https://www.coindesk.com",
-                "country": "us"
-            },
-            "title": "Here's what next as Anthropic's most powerful AI model leaked via unsecured data cache",
-            "url": "https://www.coindesk.com/tech/2026/03/28/here-s-what-next-as-anthropic-s-most-powerful-ai-model-leaked-via-unsecured-data-cache",
-            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/afc941bd1015fb2f2474a476cf8092286ee403cd-1500x1000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-            "publishedAt": "2026-03-28T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "New study finds work-based learning key to closing the cybersecurity skills gap",
-            "url": "https://phys.org/news/2026-03-based-key-cybersecurity-skills-gap.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/new-study-finds-work-b.jpg",
-            "publishedAt": "2026-03-28T12:30:01Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "What is Anthropic Claude Mythos? Everything to know about viral leaked AI model that set alarms in cybersecurity",
-            "url": "https://www.financialexpress.com/life/technology-what-is-anthropic-claude-mythos-everything-to-know-about-viral-leaked-ai-model-that-set-alarms-in-cybersecurity-4187074/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/03/Claude-Mythos-AI.jpg",
-            "publishedAt": "2026-03-28T12:10:17Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "How AI can help South Asian nations sail through global energy shocks",
-            "url": "https://www.firstpost.com/opinion/ai-energy-security-south-asia-global-shocks-13994100.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/11/The-battle-for-Kyiv-2025-11-03T191109.557-2025-11-fd258f3aafeb7a9d8767ab688d266deb-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-03-28T11:58:37Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Between fear and possibility: reimagining a world shaped by artificial intelligence",
-            "url": "https://indianexpress.com/article/cities/chandigarh/artificial-intelligence-reimagine-world-shaped-fear-possibility-10606549/",
-            "urlToImage": "https://images.indianexpress.com/2026/03/AI-genz-mel.jpg",
-            "publishedAt": "2026-03-28T11:41:18Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "ICITIIT’26 concludes at IIIT Kottayam with global participation",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/28/icipit26-it-conference-kottayam-campus.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/3/28/iiit-kottayam.jpg",
-            "publishedAt": "2026-03-28T11:14:49Z"
         }
     ]
 }
