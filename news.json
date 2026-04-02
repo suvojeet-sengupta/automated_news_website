@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-04-02T19:47:19.649242Z",
+    "lastUpdatedAt": "2026-04-02T20:30:44.579091Z",
     "articles": [
+        {
+            "source": {
+                "id": "fe2fa8ff85fc4fdc739c5f2171409296",
+                "name": "Aberdeen News",
+                "url": "https://www.aberdeennews.com",
+                "country": "us"
+            },
+            "title": "SDSU readies new center for artificial intelligence",
+            "url": "https://www.aberdeennews.com/story/news/education/campus/2026/04/02/sdsu-readies-new-center-for-artificial-intelligence/89416444007/",
+            "urlToImage": "https://www.aberdeennews.com/gcdn/authoring/authoring-images/2026/01/14/PSTC/88184051007-sd-brookings.jpg?crop=919,517,x0,y40&width=919&height=517&format=pjpg&auto=webp",
+            "publishedAt": "2026-04-02T08:30:33Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "SpaceX AI satellites plan raises doubts after Microsoft setback",
+            "url": "https://www.thenews.com.pk/latest/1397478-spacex-ai-satellites-plan-raises-doubts-after-microsoft-setback",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-02/1397478_012746_updates.jpg",
+            "publishedAt": "2026-04-02T08:24:36Z"
+        },
+        {
+            "source": {
+                "id": "143b993b193f72147f3de29ebcfbf505",
+                "name": "India TV News",
+                "url": "https://www.indiatvnews.com",
+                "country": "in"
+            },
+            "title": "Meta builds Elite AI team to boost Instagram, Facebook engagement: Report",
+            "url": "https://www.indiatvnews.com/technology/news/meta-builds-elite-ai-team-to-boost-instagram-facebook-engagement-report-2026-04-02-1036034",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/04/meta-1775116453.jpg",
+            "publishedAt": "2026-04-02T08:23:40Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Vidya Bharati: The Catalyst for India's National Education Policy",
+            "url": "https://www.devdiscourse.com/article/education/3859920-vidya-bharati-the-catalyst-for-indias-national-education-policy",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_06_2025_15_05_10_9346048.png?width=920&format=jpeg",
+            "publishedAt": "2026-04-02T08:17:36Z"
+        },
+        {
+            "source": {
+                "id": "e98e9648a83f865332ab00d9eab8cf1f",
+                "name": "Evening Standard",
+                "url": "https://www.standard.co.uk",
+                "country": "gb"
+            },
+            "title": "As Disney’s deal with OpenAI falls apart, what next for AI in Hollywood?",
+            "url": "https://www.standard.co.uk/brave-new-world/disney-open-ai-hollywood-film-future-b1277331.html",
+            "urlToImage": "https://static.standard.co.uk/2026/04/01/10/23/bravenewworldlondinstandard020426-qmr2y7hw.jpeg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2026-04-02T08:00:42Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "IBM, Arm Form Partnership to Deploy AI in Enterprise Computing",
+            "url": "https://www.marketscreener.com/news/ibm-arm-form-partnership-to-deploy-ai-in-enterprise-computing-ce7e51dcdf81f726",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-04-02T08:00:18Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -336,6 +408,33 @@
             "url": "https://www.onmanorama.com/news/india/2026/04/02/vijay-karur-stampede-conspiracy-conspiracy.html",
             "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/news/india/images/2026/1/19/vijay-tvk-rally-c.jpg",
             "publishedAt": "2026-04-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Reply Signs Strategic Collaboration Agreement with AWS to Accelerate AI-Driven Cloud Transformation",
+            "url": "https://www.postregister.com/businessreport/technology/reply-signs-strategic-collaboration-agreement-with-aws-to-accelerate-ai-driven-cloud-transformation/article_957b4552-7aa1-5418-9f0d-711a156bbed5.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2026-04-02 08:02:35"
+        },
+        {
+            "source": {
+                "name": "norfolkdailynews"
+            },
+            "title": "Reply Signs Strategic Collaboration Agreement with AWS to Accelerate AI-Driven Cloud Transformation",
+            "url": "https://norfolkdailynews.com/online_features/press_releases/reply-signs-strategic-collaboration-agreement-with-aws-to-accelerate-ai-driven-cloud-transformation/article_a0d3bd2e-5ec8-5738-9dc2-8c68dda3b4fd.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/custom/image/72aed2a4-e15d-11e5-99a9-77342f37c000.jpg?resize=600%2C315",
+            "publishedAt": "2026-04-02 08:00:00"
+        },
+        {
+            "source": {
+                "name": "businesswire"
+            },
+            "title": "Reply Signs Strategic Collaboration Agreement with AWS to Accelerate AI-Driven Cloud Transformation",
+            "url": "http://www.businesswire.com/news/home/20260402597802/en/Reply-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Accelerate-AI-Driven-Cloud-Transformation/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+            "urlToImage": "https://mms.businesswire.com/media/20260402597802/en/2764134/22/AWS.jpg",
+            "publishedAt": "2026-04-02 08:00:00"
         },
         {
             "source": {
@@ -3393,102 +3492,6 @@
             "url": "https://campusutra.com/emerging-trends-in-engineering-and-technology/",
             "urlToImage": "https://campusutra.com/wp-content/uploads/engineering-trneds.jpg",
             "publishedAt": "2026-03-31 08:33:20"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "Commentary: Are we prepared for a world where AI isn’t at work?",
-            "url": "https://www.hastingstribune.com/ap/health/commentary-are-we-prepared-for-a-world-where-ai-isn-t-at-work/article_213c23ae-f082-5c81-81ed-0e31872ef7fe.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2026-03-31 08:03:51"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "Oracle Unveils AI Data Platform For US Federal Government",
-            "url": "https://menafn.com/1110923504/Oracle-Unveils-AI-Data-Platform-For-US-Federal-Government",
-            "urlToImage": "https://menafn.com/includes/img/logo.jpg",
-            "publishedAt": "2026-03-31 08:02:24"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "The evolution of edge AI: a path to smarter, sustainable technology",
-            "url": "https://www.expresscomputer.in/guest-blogs/the-evolution-of-edge-ai-a-path-to-smarter-sustainable-technology/133977/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/03/31103559/Stephane_Henry.png",
-            "publishedAt": "2026-03-31 05:06:27"
-        },
-        {
-            "source": {
-                "name": "businessworld"
-            },
-            "title": "How Savi Soin Quietly Made Qualcomm India's Essential Tech Stack",
-            "url": "https://www.businessworld.in/article/qualcomm-india-savi-soin-ev-ai-semiconductor-tech-stack-600040",
-            "urlToImage": "https://static.businessworld.in/soin_COVER_lead_v2_20260331102638_ogImage_28.jpg",
-            "publishedAt": "2026-03-31 00:00:00"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "AI race enters a new phase",
-            "url": "https://www.cnbc.com/2026/03/31/cnbcs-china-connection-newsletter-ai-race-enters-a-new-phase.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108284576-1774851674022-gettyimages-2259191292-vcg111618332056.jpeg?v=1774851733&w=1920&h=1080",
-            "publishedAt": "2026-03-30T23:03:38Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "Credit Wobbles Could Prove Perilous for Trump",
-            "url": "https://www.bostonglobe.com/2026/03/30/business/private-credit-wobbles-could-prove-perilous-trump/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/TTEJAM7IWP324THHN2YMTMM7HY.jpg?auth=88b6e1aa512dadb8e719e41adbb07583de88f03f9cd3cbfef1544d64a518c596&width=1440",
-            "publishedAt": "2026-03-30T21:50:22Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Emotions in motion: How movement may signal mental health issues",
-            "url": "https://medicalxpress.com/news/2026-03-emotions-motion-movement-mental-health.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/emotions-in-motion-how.jpg",
-            "publishedAt": "2026-03-30T21:50:01Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "What to Know About California’s Executive Order on A.I.",
-            "url": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/03/30/multimedia/30biz-AI-EO-ckjv/30biz-AI-EO-ckjv-facebookJumbo.jpg",
-            "publishedAt": "2026-03-30T21:45:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Cyber Pirates at Large, India Readies Moats",
-            "url": "https://economictimes.indiatimes.com/et-front/cyber-pirates-at-large-india-readies-moats/articleshow/129911318.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-129911318,width-1200,height-630,imgsize-58284,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-03-30T21:43:00Z"
         }
     ]
 }
