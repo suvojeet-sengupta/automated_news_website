@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-04-02T14:51:53.101006Z",
+    "lastUpdatedAt": "2026-04-02T15:56:44.472700Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Wipro bets big on AI, launches new unit weeks after Claude update crashed SaaS stocks",
+            "url": "https://www.indiatoday.in/technology/news/story/wipro-bets-big-on-ai-launches-new-unit-weeks-after-claude-update-crashed-saas-stocks-2890475-2026-04-02",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/wipro-023443734-16x9_0.png?VersionId=oD2vBaYuIne0uxQJO9HpuYGS87omhyiv",
+            "publishedAt": "2026-04-02T03:40:37Z"
+        },
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "Want to stay employable? India's top skills for the next 5 years revealed",
+            "url": "https://www.business-standard.com/finance/personal-finance/want-to-stay-employable-india-s-top-skills-for-the-next-5-years-revealed-126040200170_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/10/thumb/featurecrop/1200X630/1773162008-2314.jpg",
+            "publishedAt": "2026-04-02T03:22:47Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "NIH funds AI project to advance Alzheimer’s research and treatment",
+            "url": "https://www.news-medical.net/news/20260401/NIH-funds-AI-project-to-advance-Alzheimere28099s-research-and-treatment.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2026-04-02T03:01:00Z"
+        },
+        {
+            "source": {
+                "id": "df3038aaa802741cdad6eb4698aa1552",
+                "name": "Al-Monitor",
+                "url": "https://www.al-monitor.com",
+                "country": "us"
+            },
+            "title": "What's real anymore? AI warps truth of Middle East war",
+            "url": "https://www.al-monitor.com/originals/2026/04/whats-real-anymore-ai-warps-truth-middle-east-war",
+            "urlToImage": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-03/c544c4face92b23d24d294aecf8c91b1e52f0ae6.jpg?h=69f2b9d0&itok=RpQh8So7",
+            "publishedAt": "2026-04-02T03:00:59Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -3447,54 +3495,6 @@
             "url": "https://edition.cnn.com/2026/03/30/climate/data-centers-are-having-an-underrported",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2250204873.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2026-03-30T17:34:09Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI tools are widely used by federal judges, study finds",
-            "url": "https://phys.org/news/2026-03-ai-tools-widely-federal.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/judge-3.jpg",
-            "publishedAt": "2026-03-30T17:30:01Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Discovery of noma-linked bacteria opens path to early diagnosis and prevention",
-            "url": "https://medicalxpress.com/news/2026-03-discovery-noma-linked-bacteria-path.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/world-first-discovery.jpg",
-            "publishedAt": "2026-03-30T17:20:05Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Why our cybersecurity stocks are rebounding after getting hammered last week",
-            "url": "https://www.cnbc.com/2026/03/30/why-our-cybersecurity-stocks-are-rebounding-after-getting-hammered-last-week-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108254163-1768912053914-gettyimages-2256652156-AFP_93C92NF.jpeg?v=1774888456&w=1920&h=1080",
-            "publishedAt": "2026-03-30T16:34:42Z"
-        },
-        {
-            "source": {
-                "id": "2b5db686603d0197d748f18d2dc01aec",
-                "name": "Bloomberg Tax News",
-                "url": "https://news.bloombergtax.com",
-                "country": "us"
-            },
-            "title": "UK Watchdog Issues First Guidance on Generative AI in Audit",
-            "url": "https://news.bloombergtax.com/daily-tax-report/uk-watchdog-issues-first-guidance-on-generative-ai-in-audit",
-            "urlToImage": "https://bwrite-static.bloombergindustry.com/dims4/default/4f31bf8/2147483647/legacy_thumbnail/960x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Ff7%2Fd9%2F1a9a945f4b22ae1dcda2d06a5df8%2Fai-lead-brain.png",
-            "publishedAt": "2026-03-30T16:24:21Z"
         }
     ]
 }
