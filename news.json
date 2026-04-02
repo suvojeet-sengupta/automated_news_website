@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-04-02T20:30:44.579091Z",
+    "lastUpdatedAt": "2026-04-02T21:33:15.408870Z",
     "articles": [
+        {
+            "source": {
+                "id": "e185a9e522f5881b82bc4bd40cbea8e0",
+                "name": "MassLive",
+                "url": "https://www.masslive.com",
+                "country": "us"
+            },
+            "title": "New report reveals the true danger of AI, and it’s not what you think",
+            "url": "https://www.masslive.com/news/2026/04/new-report-reveals-the-true-danger-of-ai-and-its-not-what-you-think.html",
+            "urlToImage": "https://www.masslive.com/resizer/v2/64U7W2Y3RJA5FB2MRQW5S6R5CU.jpg?auth=b17d54cea0dced8cc64e1e5b38c4402acac4eacb2df16faba95dac983c545ed7&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-04-02T09:33:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "For top tech pay, a PhD is fast becoming essential",
+            "url": "https://timesofindia.indiatimes.com/technology/times-techies/for-top-tech-pay-a-phd-is-fast-becoming-essential/articleshow/129973809.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129973858,width-1280,height-720,imgsize-143496,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-02T09:32:00Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
+            "url": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/03/27/multimedia/00biz-ai-two-employees-02-ljzk/00biz-ai-two-employees-02-ljzk-facebookJumbo.jpg",
+            "publishedAt": "2026-04-02T09:02:30Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Karnataka's Commitment to Cybersecurity and Drug Prevention",
+            "url": "https://www.devdiscourse.com/article/law-order/3859985-karnatakas-commitment-to-cybersecurity-and-drug-prevention",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_04_2026_12_26_24_7224247.jpg?width=920&format=jpeg",
+            "publishedAt": "2026-04-02T09:02:01Z"
+        },
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "Meta faces $310 billion market value drop on legal, AI concerns",
+            "url": "https://www.inquirer.com/business/meta-facebook-instagram-legal-risk-court-ai-spending-investors-concern-market-value-20260402.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/FPPRMUYAYSPQAMZH5EXM3PL7BA.jpg?auth=2733b9ee836ab492ae1ccc9fe0d9f9ed00941273404f1c06386cd51caf74631c&width=760&height=507&smart=true",
+            "publishedAt": "2026-04-02T09:01:01Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Building the Missing Layer in Artificial Intelligence Where Memory Becomes Infrastructure",
+            "url": "https://www.ibtimes.com/building-missing-layer-artificial-intelligence-where-memory-becomes-infrastructure-3800761",
+            "urlToImage": "https://d.ibtimes.com/en/full/4646992/brainapi.png",
+            "publishedAt": "2026-04-02T08:41:45Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "‘Market’s Latest Shiny Objects’: Optical Stocks Get AI Momentum",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-02/-market-s-latest-shiny-objects-optical-stocks-get-ai-momentum",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6vGuGaPw2uQ/v0/1200x800.jpg",
+            "publishedAt": "2026-04-02T08:35:12Z"
+        },
         {
             "source": {
                 "id": "fe2fa8ff85fc4fdc739c5f2171409296",
@@ -408,6 +492,15 @@
             "url": "https://www.onmanorama.com/news/india/2026/04/02/vijay-karur-stampede-conspiracy-conspiracy.html",
             "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/news/india/images/2026/1/19/vijay-tvk-rally-c.jpg",
             "publishedAt": "2026-04-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cioinfluence"
+            },
+            "title": "Reply Signs Strategic Collaboration Agreement with AWS to Accelerate AI-Driven Cloud Transformation",
+            "url": "https://cioinfluence.com/cloud/reply-signs-strategic-collaboration-agreement-with-aws-to-accelerate-ai-driven-cloud-transformation/",
+            "urlToImage": "https://cioinfluence.com/wp-content/uploads/2026/04/3d-render-composite-image-lumino.jpg",
+            "publishedAt": "2026-04-02 08:41:34"
         },
         {
             "source": {
@@ -3420,78 +3513,6 @@
             "url": "https://www.business-standard.com/economy/analysis/increasing-ai-adoption-puts-humanities-and-critical-thinking-back-in-focus-126033101323_1.html",
             "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/26/full/1769413502-1981.jpg",
             "publishedAt": "2026-03-31 17:56:18"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top Software Development Courses to Take in 2026",
-            "url": "https://www.analyticsinsight.net/ampstories/courses/top-software-development-courses-to-take-in-2026",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-03-31/0ac38u9j/Top-Software-Development-Courses-to-Take-in-2026.jpg",
-            "publishedAt": "2026-03-31 14:40:00"
-        },
-        {
-            "source": {
-                "name": "pcgamer"
-            },
-            "title": "Hands-on with Nvidia's new Dynamic Multi Frame Generation: 5x and 6x modes push frame rates even higher than before, though you can have too much of a good thing",
-            "url": "https://www.pcgamer.com/hardware/graphics-cards/hands-on-with-nvidias-new-dynamic-multi-frame-generation-5x-and-6x-modes-push-frame-rates-even-higher-than-before-though-you-can-have-too-much-of-a-good-thing/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qfGsTmyjPxZHfa2p8NykHM-1280-80.jpg",
-            "publishedAt": "2026-03-31 13:03:15"
-        },
-        {
-            "source": {
-                "name": "businesswire"
-            },
-            "title": "Leostream Demos Remote Desktop Platform 2025.2 for First Time at Nutanix .NEXT Conference",
-            "url": "http://www.businesswire.com/news/home/20260331123075/en/Leostream-Demos-Remote-Desktop-Platform-2025.2-for-First-Time-at-Nutanix-.NEXT-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
-            "urlToImage": "https://mms.businesswire.com/media/20260331123075/en/1762301/22/Leostream_Logo_-_Light_Horizontal.jpg",
-            "publishedAt": "2026-03-31 12:56:00"
-        },
-        {
-            "source": {
-                "name": "windowscentral"
-            },
-            "title": "The Surface Pro X was ahead of its time — Now it’s time for a 2026 comeback",
-            "url": "https://www.windowscentral.com/hardware/surface/the-surface-pro-x-was-ahead-of-its-time-now-its-time-for-a-2026-comeback",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/iRZfZQAiojWbbqyiwQ37vH-1280-80.jpg",
-            "publishedAt": "2026-03-31 11:52:54"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Adobe Gives Illustrator a Third Dimension — And It Changes How Designers Think About Flat Art",
-            "url": "https://www.webpronews.com/adobe-gives-illustrator-a-third-dimension-and-it-changes-how-designers-think-about-flat-art/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/03/article-13460-1774889606.jpeg",
-            "publishedAt": "2026-03-31 11:40:07"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "10 AI Startups Fueling India’s Self‐Reliance Revolution",
-            "url": "https://www.analyticsinsight.net/startups/10-ai-startups-fueling-indias-selfreliance-revolution",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-03-31/6gtqf5yi/10-AI-Startups-Fueling-India%E2%80%99s-Self%E2%80%91Reliance-Revolution.jpg",
-            "publishedAt": "2026-03-31 10:48:21"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "Google Invites AI Startups in India for Accelerator Programme: What It Offers and Who Can Apply",
-            "url": "https://www.republicworld.com/tech/google-invites-ai-startups-in-india-for-accelerator-programme-what-it-offers-and-who-can-apply",
-            "urlToImage": "https://img.republicworld.com/all_images/2026/03/google-1774946270916-1280x720.webp?tr=f-jpeg",
-            "publishedAt": "2026-03-31 08:38:00"
-        },
-        {
-            "source": {
-                "name": "campusutra"
-            },
-            "title": "Emerging Trends in Engineering and Technology",
-            "url": "https://campusutra.com/emerging-trends-in-engineering-and-technology/",
-            "urlToImage": "https://campusutra.com/wp-content/uploads/engineering-trneds.jpg",
-            "publishedAt": "2026-03-31 08:33:20"
         }
     ]
 }
