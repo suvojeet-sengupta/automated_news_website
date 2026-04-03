@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-04-03T04:32:58.103099Z",
+    "lastUpdatedAt": "2026-04-03T06:09:49.096589Z",
     "articles": [
+        {
+            "source": {
+                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
+                "name": "Social Media Today",
+                "url": "https://www.socialmediatoday.com",
+                "country": "us"
+            },
+            "title": "Google Vids adds new AI features",
+            "url": "https://www.socialmediatoday.com/news/google-vids-adds-new-ai-features/816552/",
+            "urlToImage": "https://imgproxy.divecdn.com/pZMDtTrLy3WNu3XRcSmAXYJxkwIqUDMZ338xgkdB1wM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nb29nbGVfdmlkczMucG5n.webp",
+            "publishedAt": "2026-04-02T18:07:56Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "The AGI Awakening: AI’s accelerated evolution and the dawn of a new era",
+            "url": "https://www.naturalnews.com/2026-04-02-the-agi-awakening-artificial-intelligence-accelerated-evolution.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/The-AGI-Awakening.jpg",
+            "publishedAt": "2026-04-02T17:51:25Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "From files to algorithms, experts discuss digital governance at summit",
+            "url": "https://www.thehindu.com/education/from-files-to-algorithms-experts-discuss-digital-governance-at-summit/article70817013.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/gvanr2/article70817195.ece/alternates/LANDSCAPE_1200/2501_2_4_2026_19_2_55_3_DSC_5118.JPEG",
+            "publishedAt": "2026-04-02T17:27:53Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Survey: AI Pushes Students to Rethink Degrees",
+            "url": "https://www.newsmax.com/finance/newsfront/survey-college-students-degrees/2026/04/02/id/1251652/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b040ba2f-052d-4c35-bd98-52928c7cfead&SiteName=Newsmax",
+            "publishedAt": "2026-04-02T16:55:27Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Survey: AI Pushes Students to Rethink Degrees",
+            "url": "https://www.newsmax.com/newsfront/survey-college-students-degrees/2026/04/02/id/1251652/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b040ba2f-052d-4c35-bd98-52928c7cfead&SiteName=Newsmax",
+            "publishedAt": "2026-04-02T16:55:27Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "house AI models as it takes on OpenAI, Google and Anthropic",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-launches-in-house-ai-models-as-it-takes-on-openai-google-and-anthropic/articleshow/129984512.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-129984628,width-1280,height-720,imgsize-88744,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-02T16:53:00Z"
+        },
+        {
+            "source": {
+                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+                "name": "The Verge",
+                "url": "https://www.theverge.com",
+                "country": "us"
+            },
+            "title": "PlayStation is acquiring Cinemersive Labs, a “machine learning and computer vision company.”",
+            "url": "https://www.theverge.com/games/905958/playstation-is-acquiring-cinemersive-labs-a-machine-learning-and-computer-vision-company",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+            "publishedAt": "2026-04-02T16:51:52Z"
+        },
+        {
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            },
+            "title": "Introduction of AI, computational thinking will make India's school curriculum among the world's best: Dharmendra Pradhan",
+            "url": "https://www.theweek.in/news/india/2026/04/02/introduction-of-ai-computational-thinking-will-make-indias-school-curriculum-among-the-worlds-best-dharmendra-pradhan.html",
+            "urlToImage": "https://www.theweek.in/content/dam/week/week/news/india/images/2025/3/2/dharmendra-pradhan030225.jpg",
+            "publishedAt": "2026-04-02T16:47:28Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Microsoft aims to create large cutting-edge AI models by 2027",
+            "url": "https://www.mercurynews.com/2026/04/02/microsoft-aims-to-create-large-cutting-edge-ai-models-by-2027/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2024/07/Worldwide_Internet_Outage_52208.jpg?w=1024&h=682",
+            "publishedAt": "2026-04-02T16:47:03Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Trump administration appeals ruling that blocked Pentagon action against Anthropic over AI dispute",
+            "url": "https://www.clickondetroit.com/tech/2026/04/02/trump-administration-appeals-ruling-that-blocked-pentagon-action-against-anthropic-over-ai-dispute/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QLJYQMFXHJCK5CUBO5DQHAGM44.jpg?_a=DATAg1fkZAA0",
+            "publishedAt": "2026-04-02T16:42:08Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Trump administration appeals ruling that blocked Pentagon action against Anthropic over AI dispute",
+            "url": "https://apnews.com/article/ai-pentagon-anthropic-claude-hegseth-trump-b24b0197f87658d0e8a60790a4c969a2",
+            "urlToImage": "https://dims.apnews.com/dims4/default/77c3d3a/2147483647/strip/true/crop/4203x2801+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8e%2Fa4%2F0ea9e6a964d7a40d87751d2914f0%2F988844e73ab044f0a6a8598b38f2b429",
+            "publishedAt": "2026-04-02T16:42:08Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3369,138 +3501,6 @@
             "url": "https://www.newsweek.com/why-new-apple-music-feature-is-laughably-bad-11757901",
             "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/03/GettyImages-2189838573.jpg?w=1200crop=1",
             "publishedAt": "2026-03-31T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Palo Alto CEO Nikesh Arora Warns OpenAI, Anthropic Models Could Boost Cyberattacks Within Six Months- 'Th",
-            "url": "https://www.benzinga.com/markets/tech/26/03/51561985/palo-alto-nikesh-arora-warns-ai-may-slash-cyberattack-time-to-25-minutes-fight-ai-with-ai",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/03/31/Nikesh-Arora-Arrives-At-2023-Asia-Societ.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2026-03-31T10:58:16Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI boom strains Taiwan's SMC capacity, opens door for Samsung in chip race",
-            "url": "https://www.tribuneindia.com/news/business/ai-boom-strains-taiwans-smc-capacity-opens-door-for-samsung-in-chip-race/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBmOTgzZDMwLTJjZWUtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-03-31T10:40:33Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "China's Zhipu posts 132% rise in annual revenue on AI boom",
-            "url": "https://www.reuters.com/world/asia-pacific/chinas-zhipu-posts-132-rise-annual-revenue-ai-boom-2026-03-31/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-31T10:35:18Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "There Is an Inherent Bias Toward the Left 'Baked In' AI",
-            "url": "https://www.breitbart.com/clips/2026/03/31/code-red-author-wynton-hall-there-is-an-inherent-bias-toward-the-left-baked-in-ai/",
-            "urlToImage": "https://media.breitbart.com/media/2026/03/Screenshot-2026-03-20-043046-640x335.jpg",
-            "publishedAt": "2026-03-31T10:30:44Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "S&P 500 heads for worst quarter since 2022 as Iran war, rate worries rattle Wall Street",
-            "url": "https://www.reuters.com/business/finance/sp-500-heads-worst-quarter-since-2022-iran-war-rate-worries-rattle-wall-street-2026-03-31/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/VE4SVIOXA5KJLBYGVH2UMAY3SY.jpg?auth=4b7c685cccd5b31fd3fa6bd95e5cb38406fde978d4a232e3bdaaa8913ec46070&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-31T10:29:20Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Applications Open For 243 Scientist B Posts",
-            "url": "https://www.ndtv.com/education/national-informatic-center-nic-recruitment-2026-applications-open-for-243-scientist-b-posts-11290970",
-            "urlToImage": "https://c.ndtvimg.com/2026-03/c8dj37gk_nic_625x300_31_March_26.jpeg",
-            "publishedAt": "2026-03-31T10:28:15Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Layoffs are just one of the worries that Americans have about AI, there are many others including Pentagon and ..",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/layoffs-are-just-one-of-the-worries-that-americans-have-about-ai-there-are-many-others-including-pentagon-and-/articleshow/129922874.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129922823,width-1280,height-720,imgsize-481232,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-31T10:26:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "7 in 10 Americans fear AI will kill jobs, 30% think theirs may be next",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/7-in-10-americans-fear-ai-will-kill-jobs-30-think-theirs-may-be-next/articleshow/129922874.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129922823,width-1280,height-720,imgsize-481232,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-03-31T10:26:00Z"
-        },
-        {
-            "source": {
-                "id": "10216cb8fabd0accd5eb967c97fc37ab",
-                "name": "MacRumors",
-                "url": "https://www.macrumors.com",
-                "country": "us"
-            },
-            "title": "Ollama Now Runs Faster on Macs Thanks to Apple's MLX Framework",
-            "url": "https://www.macrumors.com/2026/03/31/ollama-now-runs-faster-apple-silicon-macs/",
-            "urlToImage": "https://images.macrumors.com/t/B1rxFBjBG1fboMOdWv8FuH5s1yY=/1920x/article-new/2026/03/ollama-logo-mac.jpeg",
-            "publishedAt": "2026-03-31T10:22:24Z"
-        },
-        {
-            "source": {
-                "id": "0c9364fff53c0e5a3450947d9a54e795",
-                "name": "Daily Mail Online",
-                "url": "https://www.dailymail.co.uk",
-                "country": "gb"
-            },
-            "title": "Is NASA's Artemis II mission safe? Scientists raise concerns about the Orion capsule's heat shield - and warn 'there's no chance of escape' for the astronauts if anything goes wrong",
-            "url": "https://www.dailymail.co.uk/sciencetech/article-15694087/NASA-Artemis-II-mission-safe-orion.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2026/03/31/10/105936509-0-The_most_dangerous_moment_will_occur_during_re_entry_as_Orion_s_-a-183_1774950613612.jpg",
-            "publishedAt": "2026-03-31T10:00:30Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Oracle Details AI-Powered Business Platform for Restaurants",
-            "url": "https://www.marketscreener.com/news/oracle-details-ai-powered-business-platform-for-restaurants-ce7e51dedb8aff25",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-03-31T09:42:18Z"
         }
     ]
 }
