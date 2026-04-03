@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-04-03T16:34:48.082959Z",
+    "lastUpdatedAt": "2026-04-03T17:30:07.468712Z",
     "articles": [
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "Microsoft to invest $10 billion in Japan for AI, cybersecurity push",
+            "url": "https://www.business-standard.com/technology/tech-news/microsoft-to-invest-10-billion-in-japan-for-ai-cybersecurity-push-126040300243_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/04/full/1741065679-2901.JPG",
+            "publishedAt": "2026-04-03T05:29:25Z"
+        },
+        {
+            "source": {
+                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+                "name": "Crypto News",
+                "url": "https://crypto.news",
+                "country": "lt"
+            },
+            "title": "OpenAI buys tech talk show TBPN as it builds out communication strategy",
+            "url": "https://crypto.news/openai-buys-tech-talk-show-tbpn-as-it-builds-out-communication-strategy/",
+            "urlToImage": "https://media.crypto.news/2025/11/crypto-news-The-next-standard-in-blockchain-is-code-neutrality-option02.webp",
+            "publishedAt": "2026-04-03T05:27:04Z"
+        },
+        {
+            "source": {
+                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+                "name": "The Dallas Morning News",
+                "url": "https://www.dallasnews.com",
+                "country": "us"
+            },
+            "title": "Texas should plan for managing data center growth",
+            "url": "https://www.dallasnews.com/opinion/editorials/article/texas-make-plan-managing-data-center-growth-22185912.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/65/40/72/30805659/3/rawImage.jpg",
+            "publishedAt": "2026-04-03T05:02:00Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "Microsoft announces US$10B AI investment plan in Japan",
+            "url": "https://seekingalpha.com/news/4572416-microsoft-announces-us10b-ai-investment-plan-in-japan",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1408775753/image_1408775753.jpg?io=getty-c-w630",
+            "publishedAt": "2026-04-03T04:53:48Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Fertility Clinic Chain Leads the Way With AI-Powered Infertility Solutions",
+            "url": "https://www.ndtv.com/health/glaudium-ivf-to-use-ai-tools-in-infertility-treatment-11302830",
+            "urlToImage": "https://c.ndtvimg.com/2026-04/443rpr28_fertility-chain_625x300_03_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2026-04-03T04:53:20Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "Google Confirms Texas Gas Plant Partnership for AI Datacenter Amid Revised Climate Strategy",
+            "url": "https://www.naturalnews.com/2026-04-03-google-texas-gas-plant-partnership-ai-datacenter.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/google-confirms-texas-791-original.jpg",
+            "publishedAt": "2026-04-03T04:45:32Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI startup Sarvam close to raising $300 million at $1.5 billion valuation",
+            "url": "https://economictimes.indiatimes.com/tech/startups/ai-startup-sarvam-close-to-raising-300-million-at-1-5-billion-valuation/articleshow/129994098.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29198,resizemode-75,msid-129994098/tech/startups/ai-startup-sarvam-close-to-raising-300-million-at-1-5-billion-valuation.jpg",
+            "publishedAt": "2026-04-03T04:39:41Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -195,6 +279,33 @@
         },
         {
             "source": {
+                "name": "cnbc"
+            },
+            "title": "Japan's Sakura Internet jumps 20% as Microsoft plans $10 billion AI push with SoftBank",
+            "url": "https://www.cnbc.com/2026/04/03/sakura-internet-microsoft-ai-japan-softbank-investment.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108287018-1775193545233-gettyimages-2268954940-AFP_A6MJ79E.jpeg?v=1775193564&w=1200&h=675",
+            "publishedAt": "2026-04-03 05:19:48"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Microsoft plans $10 billion investment in Japan to grow AI, train 1 million workers by 2030",
+            "url": "https://www.livemint.com/companies/news/microsoft-plans-10-billion-investment-in-japan-to-grow-ai-train-1-million-workers-by-2030-11775190635744.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/04/03/1600x900/logo/JAPAN-TECHNOLOGY-MICROSOFT-0_1775193272372_1775193370794.jpg",
+            "publishedAt": "2026-04-03 05:19:41"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Why Enterprise AI will depend on sovereign compute infrastructure",
+            "url": "https://www.expresscomputer.in/guest-blogs/why-enterprise-ai-will-depend-on-sovereign-compute-infrastructure/134072/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/04/03102252/Renu-Raman-Founder-CEO-Proximal-Cloud-.jpeg",
+            "publishedAt": "2026-04-03 04:54:17"
+        },
+        {
+            "source": {
                 "name": "norfolkdailynews"
             },
             "title": "Graphics Processing Unit (GPU) As A Service Market Expanding With $19.34 Billion at 27.2% CAGR by 2030",
@@ -237,6 +348,18 @@
             "url": "https://www.thestar.com.my/starpicks/2026/04/03/shaping-the-next-generation-of-cybersecurity-experts",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/04/02/3841608.jpg",
             "publishedAt": "2026-04-02T23:30:00Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "A new biomarker helps assess the aggressiveness of glioblastoma",
+            "url": "https://medicalxpress.com/news/2026-04-biomarker-aggressiveness-glioblastoma.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/a-new-biomarker-helps.jpg",
+            "publishedAt": "2026-04-02T22:20:01Z"
         },
         {
             "source": {
@@ -3363,129 +3486,6 @@
             "url": "https://www.computerweekly.com/news/366641133/AI-driven-operating-model-key-to-cloud-native-autonomous-networks",
             "urlToImage": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/telecoms-engineer-mobile-mast-aetb-adobe.jpg",
             "publishedAt": "2026-04-01 10:23:00"
-        },
-        {
-            "source": {
-                "name": "cioandleader"
-            },
-            "title": "“Infrastructure without embedded security is not deployment; it is exposure.”—Anuj Bhalla, Cognizant",
-            "url": "https://www.cioandleader.com/infrastructure-without-embedded-security-is-not-deployment-it-is-exposure-anuj-bhalla-cognizant/",
-            "urlToImage": "https://www.cioandleader.com/wp-content/uploads/2026/04/Anuj-Bhalla.webp",
-            "publishedAt": "2026-04-01 09:22:58"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "From near bankruptcy to a $4 trillion empire: The 51 moments that defined Apple",
-            "url": "https://www.tomsguide.com/computing/the-50-moments-that-defined-apple",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UqLXuXcvCCKMcWpJSDHRgJ-1280-80.jpg",
-            "publishedAt": "2026-04-01 08:00:00"
-        },
-        {
-            "source": {
-                "name": "mit"
-            },
-            "title": "Preview tool helps makers visualize 3D-printed objects",
-            "url": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
-            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-VisiPrint-Preview-A1.jpg?itok=2ckh0mm0",
-            "publishedAt": "2026-04-01 04:00:00"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Indian-origin Mangala Kuppa named CIO of US Labour Department",
-            "url": "https://www.dailyexcelsior.com/indian-origin-mangala-kuppa-named-cio-of-us-labour-department/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/03/Mangala-Kuppa.jpg",
-            "publishedAt": "2026-03-31T22:35:12Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Anthropic to sign deal with Australia on AI safety and economic data tracking",
-            "url": "https://www.reuters.com/world/asia-pacific/anthropic-sign-deal-with-australia-ai-safety-economic-data-tracking-2026-03-31/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/6XSLR6EKFNNXDIS35OX4PIK7TI.jpg?auth=f30eb5b2e18f9dd45f556200209a4e773484da1969d3dc9393f03133f31cbc48&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-03-31T22:33:57Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "Federal government strikes major deal with US-based AI giant Anthropic for research, investments",
-            "url": "https://www.perthnow.com.au/news/technology/federal-government-strikes-major-deal-with-us-based-ai-giant-anthropic-for-research-investments-c-22078532",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-22078532/cfbc6d446e99473ffeeae60ce090126a70d3ef95-16x9-x0y96w1024h576.jpg?imwidth=1200",
-            "publishedAt": "2026-03-31T22:33:02Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Anthropic to sign deal with Australia on AI safety and economic data tracking",
-            "url": "https://www.marketscreener.com/news/anthropic-to-sign-deal-with-australia-on-ai-safety-and-economic-data-tracking-ce7e51dfd98cff26",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-30T200202Z_1_LYNXNPEL4T10W_RTROPTP_4_ANTHROPIC-AI.JPG",
-            "publishedAt": "2026-03-31T22:31:24Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Dragos Appoints Kaori Nieda as Country Manager to Drive Expansion in Japan",
-            "url": "https://www.manilatimes.net/2026/04/01/tmt-newswire/pr-newswire/dragos-appoints-kaori-nieda-as-country-manager-to-drive-expansion-in-japan/2312113",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/01/996765.jpg",
-            "publishedAt": "2026-03-31T22:29:24Z"
-        },
-        {
-            "source": {
-                "id": "840efb5642a2fd3ae6da920bb4981626",
-                "name": "Santa Ana Orange County Register",
-                "url": "https://www.ocregister.com",
-                "country": "us"
-            },
-            "title": "On artificial intelligence policy, it’s California versus Congress",
-            "url": "https://www.ocregister.com/2026/03/31/on-artificial-intelligence-policy-its-california-versus-congress/",
-            "urlToImage": "https://www.ocregister.com/wp-content/uploads/2024/06/Perplexity_AI_81696.jpg?w=1024&h=682",
-            "publishedAt": "2026-03-31T22:27:08Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "India’s education technology sector faces a ‘structural reset’. What does it mean for investors, learners?",
-            "url": "https://www.channelnewsasia.com/asia/india-schools-edtech-online-learning-ai-upgrad-unacademy-6027696",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--H07RDB2y--/c_crop,h_900,w_1600,x_0,y_34/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/31/india_online_education_-_afp.jpg?itok=TzcO75LI",
-            "publishedAt": "2026-03-31T22:00:00Z"
-        },
-        {
-            "source": {
-                "id": "6d317e2944258f799763413d14b479f4",
-                "name": "AL.com",
-                "url": "https://www.al.com",
-                "country": "us"
-            },
-            "title": "Dyson introduces new robot vacuum with artificial intelligence",
-            "url": "https://www.al.com/shopping/2026/03/dyson-introduces-new-robot-vacuum-with-artificial-intelligence.html",
-            "urlToImage": "https://www.al.com/resizer/v2/4P6XFRJRWNGM5NBP3HRTFIAPEA.jpg?auth=4149a73f24fa64a77bd327c33b6e98a47c750fabdcf28c27e342bde60c1c7379&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-03-31T21:15:45Z"
         }
     ]
 }
