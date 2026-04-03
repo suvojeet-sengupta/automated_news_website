@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-04-03T10:38:45.193301Z",
+    "lastUpdatedAt": "2026-04-03T11:34:14.728403Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Shaping the next generation of cybersecurity experts",
+            "url": "https://www.thestar.com.my/starpicks/2026/04/03/shaping-the-next-generation-of-cybersecurity-experts",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/04/02/3841608.jpg",
+            "publishedAt": "2026-04-02T23:30:00Z"
+        },
         {
             "source": {
                 "id": "79baacd62152cf257ee35e8c0bec19a2",
@@ -3477,18 +3489,6 @@
             "url": "https://www.cbsnews.com/losangeles/news/california-gavin-newsom-ai-guardrails-executive-order/",
             "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/31/39967422-9238-4d93-b175-771b57c8b507/thumbnail/1200x630/cce1a6d810ba0405f44acd69affbd3ee/gettyimages-2267483204.jpg",
             "publishedAt": "2026-03-31T15:26:44Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US Stocks: Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition; shares rise",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nvidia-bets-2-billion-on-marvell-as-rising-ai-adoption-fuels-competition-shares-rise/articleshow/129930476.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-129930476,width-1200,height-630,imgsize-62934,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-03-31T15:26:00Z"
         }
     ]
 }
