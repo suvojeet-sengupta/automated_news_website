@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-04-04T22:25:27.996052Z",
+    "lastUpdatedAt": "2026-04-04T23:27:17.371125Z",
     "articles": [
+        {
+            "source": {
+                "id": "b98becfda029f124cf65538c8af36d20",
+                "name": "BGR",
+                "url": "https://www.bgr.com",
+                "country": "us"
+            },
+            "title": "This New AI Bill Would Do More Than Just Ban Surveilling Americans",
+            "url": "https://www.bgr.com/2134999/ai-bill-bans-mass-surveillance-kill-decisions/",
+            "urlToImage": "https://www.bgr.com/img/gallery/this-new-ai-bill-would-do-more-than-just-ban-surveilling-americans/l-intro-1774420338.jpg",
+            "publishedAt": "2026-04-04T10:47:00Z"
+        },
         {
             "source": {
                 "id": "21468bec836de1ebb209ff6f78fbfe3e",
@@ -3450,18 +3462,6 @@
             "url": "https://economictimes.indiatimes.com/news/international/us/why-is-anthropic-racing-to-contain-the-claude-code-leakis-it-exposing-trade-secrets-empowering-hackers-and-letting-rivals-clone-its-ai-agent-faster-than-ever/articleshow/129956045.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-129956138,width-1200,height-630,imgsize-18266,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2026-04-01T15:52:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "European Union bans its employees from using videos and photos in official communication with …",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/european-union-bans-its-employees-from-using-videos-and-photos-in-official-communication-with-/articleshow/129955960.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129955958,width-1280,height-720,imgsize-2613583,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-01T15:39:00Z"
         }
     ]
 }
