@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-04-04T05:53:54.942349Z",
+    "lastUpdatedAt": "2026-04-04T06:55:08.249479Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
+            "url": "https://www.reuters.com/business/finance/musk-asks-spacex-ipo-banks-buy-grok-ai-subscriptions-nyt-reports-2026-04-03/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/F6PRFB5KYFIOPFH4225EQN7MY4.jpg?auth=1d2abdf589bbda6bf4453537dbab95fd3f954a339e5e7df4b94df71b78f00680&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-03T18:15:52Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "China moves to regulate digital humans, bans addictive services for children",
+            "url": "https://economictimes.indiatimes.com/tech/technology/china-moves-to-regulate-digital-humans-bans-addictive-services-for-children/articleshow/130007441.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-87080,resizemode-75,msid-130007441/tech/technology/china-moves-to-regulate-digital-humans-bans-addictive-services-for-children.jpg",
+            "publishedAt": "2026-04-03T18:13:55Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
+            "url": "https://www.marketscreener.com/news/musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-nyt-reports-ce7e51d2d98ef326",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-02/2026-02-06T001146Z_1_LYNXMPEM1500G_RTROPTP_4_XAI-M-A-SPACEX-STRUCTURE.JPG",
+            "publishedAt": "2026-04-03T18:13:16Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Sony's latest acquisition is an AI lab that'll help it develop PlayStation's visuals, with AI",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/sonys-latest-acquisition-is-an-ai-lab-thatll-help-it-develop-playstations-visualswith-ai/articleshow/130000543.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130000543,width-1280,height-720,imgsize-40144,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-03T18:00:00Z"
+        },
         {
             "source": {
                 "id": "5b6f0ebae6849a492c43bf298cf595ef",
@@ -840,6 +888,24 @@
             "url": "https://morningstaronline.co.uk/article/artificial-intelligence-threat-jobs-or-humanity-itself",
             "urlToImage": "https://morningstaronline.co.uk/sites/default/files/styles/wide/public/2026-04/PA-71577564.jpg.webp?itok=cGLaWvyq",
             "publishedAt": "2026-04-03T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "AMD MLPerf Submission Highlights MI355X Gains, Multinode Inference Performance",
+            "url": "https://www.hpcwire.com/off-the-wire/amd-mlperf-submission-highlights-mi355x-gains-multinode-inference-performance/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2021/10/shutterstock_amd_hq.jpg",
+            "publishedAt": "2026-04-03 18:00:39"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Microsoft Plans $10 Billion Japan Investment for AI, Data Centers, and Cybersecurity",
+            "url": "https://www.analyticsinsight.net/news/microsoft-plans-10-billion-japan-investment-for-ai-data-centers-and-cybersecurity",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2025-11-04/kbk0tbpa/Microsoft-unveils-15-2-billion-AI-investments-in-UAE.jpg",
+            "publishedAt": "2026-04-03 18:00:00"
         },
         {
             "source": {
@@ -3429,78 +3495,6 @@
             "url": "https://www.spokesman.com/stories/2026/apr/01/google-faces-calls-to-prohibit-ai-videos-for-kids-/",
             "urlToImage": "https://thumb.spokesman.com/GDwvBxlYS3sitE6GpqIiz5z9Mhs=/1200x630/smart/media.spokesman.com/photos/2026/04/01/69cd65d052de6.hires.jpg",
             "publishedAt": "2026-04-01T09:44:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Anthropic Reportedly Accidentally Leaks Certain Claude Code Internal Source Code",
-            "url": "https://www.marketscreener.com/news/anthropic-reportedly-accidentally-leaks-certain-claude-code-internal-source-code-ce7e51dfdd8bf12c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-04-01T09:30:33Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "BOE Warns on Escalating Risks From AI, Fallout From Iran War",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-01/boe-warns-on-escalating-risks-from-ai-fallout-from-iran-war",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCLk4g1ziQq8/v0/1200x800.jpg",
-            "publishedAt": "2026-04-01T09:30:01Z"
-        },
-        {
-            "source": {
-                "id": "2ecd1f56187ac56ca5291d4a630b32e8",
-                "name": "Funds Europe",
-                "url": "https://funds-europe.com",
-                "country": "gb"
-            },
-            "title": "Where global economies sit in the AI stack",
-            "url": "https://funds-europe.com/where-global-economies-sit-in-the-ai-stack/",
-            "urlToImage": "https://funds-europe.com/wp-content/uploads/2026/03/ting-dina-cmyk.jpg",
-            "publishedAt": "2026-04-01T09:24:33Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "IIT Madras BS Students Can Now Pursue PG Courses At University Of Canterbury",
-            "url": "https://www.news18.com/education-career/iit-madras-bs-students-can-now-pursue-pg-courses-at-university-of-canterbury-10009222.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/09/iitmadras-2025-09-4d193295630d3233601f38be379c4009-16x9.jpg",
-            "publishedAt": "2026-04-01T09:17:37Z"
-        },
-        {
-            "source": {
-                "id": "e743cde6ee986921721e83d3957862dc",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com",
-                "country": "in"
-            },
-            "title": "Job security shaken: Oracle layoffs spark fear among tech employees",
-            "url": "https://zeenews.india.com/personal-finance/job-security-shaken-oracle-layoffs-spark-fear-among-tech-employees-3032649.html",
-            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/04/01/1925967-ailayoff970x545.jpg",
-            "publishedAt": "2026-04-01T08:59:01Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "New committee to guide the use of artificial intelligence in Singapore’s higher education sector",
-            "url": "https://www.straitstimes.com/singapore/parenting-education/new-committee-to-guide-the-use-of-artificial-intelligence-in-singapores-higher-education-sector",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/88078e3d2549431d23d79cdb85dbb1b34193066331376c893dde24c2b50ab5dc",
-            "publishedAt": "2026-04-01T08:50:00Z"
         }
     ]
 }
