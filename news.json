@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-04-05T15:27:40.512281Z",
+    "lastUpdatedAt": "2026-04-05T16:31:49.301517Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Britain woos Anthropic expansion after US defence clash, FT says",
+            "url": "https://www.reuters.com/world/uk/britain-woos-expansion-effort-by-anthropic-after-us-defence-clash-ft-says-2026-04-05/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/NWESCFJX4VINLJAHR2Y67NXV2Y.jpg?auth=7fe8b1afb9a46f2061164ccf2883d0e5ce2b6c853e74819102c23ad7cf3d9691&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-05T04:29:28Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Multi-agency initiative brings AI-powered robots to Brunei Hari Raya celebration",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/05/multi-agency-initiative-brings-ai-powered-robots-to-brunei-hari-raya-celebration",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/04/05/3844846.jpg",
+            "publishedAt": "2026-04-05T03:37:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -12,6 +36,18 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-pauses-all-work-with-ai-recruiting-startup-mercor-after-10-billion-company-confirms-hacking/articleshow/130033252.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-130033247,width-1280,height-720,imgsize-17456,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-04-05T03:24:00Z"
+        },
+        {
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            },
+            "title": "Iran targets energy facilities across Gulf as regional conflict widens",
+            "url": "https://www.onmanorama.com/news/world/2026/04/05/iran-attacks-gulf-infrastructure-regional-conflict-widens.html",
+            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/4/3/iran-missile-attack.jpg",
+            "publishedAt": "2026-04-05T02:43:00Z"
         },
         {
             "source": {
@@ -3417,42 +3453,6 @@
             "url": "https://japantoday.com/category/features/health/life-with-ai-causing-human-brain-'fry'",
             "urlToImage": "https://media.japantoday.com/img/store/14/69/b2c06498fb748629418332a114e34d92267d/c7b2c4d7c39e02651190d0598192a0a254874767/_w1700.jpeg",
             "publishedAt": "2026-04-01T20:39:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Life with AI causing human brain 'fry'",
-            "url": "https://japantoday.com/category/features/health/life-with-ai-causing-human-brain-%27fry%27",
-            "urlToImage": "https://media.japantoday.com/img/store/14/69/b2c06498fb748629418332a114e34d92267d/c7b2c4d7c39e02651190d0598192a0a254874767/_w1700.jpeg",
-            "publishedAt": "2026-04-01T20:39:00Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "Pro-AI Super PACs Spend Millions on Texas House Races",
-            "url": "https://www.newsmax.com/newsfront/texas-artificial-intelligence-colin-allred/2026/04/01/id/1251560/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=37f37f9e-3c58-49d0-8dcb-c70219da3e26&SiteName=Newsmax",
-            "publishedAt": "2026-04-01T20:36:54Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "TransUnion Completes Acquisition of the Mobile Division of RealNetworks",
-            "url": "https://www.manilatimes.net/2026/04/02/tmt-newswire/globenewswire/transunion-completes-acquisition-of-the-mobile-division-of-realnetworks/2312952",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/02/998405.png",
-            "publishedAt": "2026-04-01T20:06:56Z"
         }
     ]
 }
