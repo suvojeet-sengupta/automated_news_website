@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-04-05T18:37:21.076400Z",
+    "lastUpdatedAt": "2026-04-05T19:30:13.026999Z",
     "articles": [
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "UK eyes Anthropic - Firstpost",
+            "url": "https://www.firstpost.com/world/uk-eyes-anthropic-as-us-rift-deepens-over-military-use-of-ai-13996751.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/02/Anthropic-logo-rep-Reuters-2026-02-e774e7ba1dffcd86cdd302303ed57901.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-04-05T07:16:34Z"
+        },
+        {
+            "source": {
+                "id": "69a24b80e5bce5a07f808f5ea84c434b",
+                "name": "Arkansas Online",
+                "url": "https://www.arkansasonline.com",
+                "country": "us"
+            },
+            "title": "Data centers delayed by infrastructure",
+            "url": "https://www.arkansasonline.com/news/2026/apr/05/data-centers-delayed-by-infrastructure/",
+            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/212591392_1G-OpenAi-0405-RGB_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+            "publishedAt": "2026-04-05T06:56:00Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Britain woos Anthropic after US defence clash",
+            "url": "https://www.thenews.com.pk/latest/1397797-britain-woos-anthropic-after-us-defence-clash",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-05/1397797_120150_updates.jpg",
+            "publishedAt": "2026-04-05T06:40:51Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -3417,42 +3453,6 @@
             "url": "https://www.devdiscourse.com/article/law-order/3859494-strategic-collaboration-south-korea-and-frances-innovation-pursuit",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/04_05_2025_08_34_38_9958111.png?width=920&format=jpeg",
             "publishedAt": "2026-04-01T22:53:51Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "South Korea's Lee says he seeks to work together with France on AI, nuclear energy",
-            "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-he-seeks-work-together-with-france-ai-nuclear-energy-2026-04-01/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ZVSDBHKATZOFXCOC663SGER4JM.jpg?auth=5880b3660c766ddf3616ef4c31bd99f585a4bf96475b02caffa886970536fb17&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-04-01T22:52:43Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Fox News Poll: Broad anxiety about AI doesn’t extend to jobs",
-            "url": "https://www.foxnews.com/politics/fox-news-poll-broad-anxiety-about-ai-doesnt-extend-jobs",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/ai-job-replacement-autonomous-weapon-split.jpg",
-            "publishedAt": "2026-04-01T22:00:02Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Handshakes aren’t enough: Why Australia must play hardball on AI",
-            "url": "https://www.afr.com/technology/handshakes-aren-t-enough-why-australia-must-play-hardball-on-ai-20260401-p5zkm7",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.4938%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_603%2C$y_234/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/5bd0b184b414ac3ac18be80c36ac46fb13cd079d",
-            "publishedAt": "2026-04-01T22:00:00Z"
         }
     ]
 }
