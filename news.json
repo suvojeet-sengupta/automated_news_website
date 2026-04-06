@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-04-06T15:41:24.379393Z",
+    "lastUpdatedAt": "2026-04-06T16:40:50.356926Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "AI Leadership: organisational redesign comes first",
+            "url": "https://www.bangkokpost.com/business/general/3231650/ai-leadership-organisational-redesign-comes-first",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260406/c1_3231650_700.jpeg",
+            "publishedAt": "2026-04-06T04:33:00Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Harvard launches 6 free online courses in AI, web development and programming: Check details inside",
+            "url": "https://www.financialexpress.com/life/technology-harvard-launches-6-free-online-courses-in-ai-web-development-and-programming-check-details-inside-4196701/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/02/artificial-intelligence-1_20251231171633_20260103172945_20260125175337_20260205172933_20260211172102_20260219155437_20260220081911_20260220184924_20260225160921.jpg",
+            "publishedAt": "2026-04-06T04:16:29Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Britain woos Anthropic expansion after U.S. defence clash: Report",
+            "url": "https://www.thehindu.com/sci-tech/technology/britain-woos-anthropic-expansion-after-us-defence-clash-report/article70828783.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/vtmtb3/article70828787.ece/alternates/LANDSCAPE_1200/2026-04-05T045754Z_1494292903_RC2EWJATGXAQ_RTRMADP_3_BRITAIN-ANTHROPIC.JPG",
+            "publishedAt": "2026-04-06T04:09:46Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -60,6 +96,15 @@
             "url": "https://www.financialexpress.com/market/stock-insights/hidden-gems/the-rs-1000-crore-small-cap-powering-the-invisible-layer-behind-data-centres-smart-grids-and-defence/4196017/",
             "urlToImage": "https://images.financialexpressdigital.com/2026/04/Untitled-design93.jpg",
             "publishedAt": "2026-04-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "asiatimes"
+            },
+            "title": "All AI, all the time",
+            "url": "https://asiatimes.com/2026/04/all-ai-all-the-time/",
+            "urlToImage": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/04/Will-Smith-AI-Robots-Robotics.jpg?fit=1200%2C799&quality=89&ssl=1",
+            "publishedAt": "2026-04-06 04:10:13"
         },
         {
             "source": {
@@ -3438,54 +3483,6 @@
             "url": "https://www.devdiscourse.com/article/education/3859920-vidya-bharati-the-catalyst-for-indias-national-education-policy",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_06_2025_15_05_10_9346048.png?width=920&format=jpeg",
             "publishedAt": "2026-04-02T08:17:36Z"
-        },
-        {
-            "source": {
-                "id": "e98e9648a83f865332ab00d9eab8cf1f",
-                "name": "Evening Standard",
-                "url": "https://www.standard.co.uk",
-                "country": "gb"
-            },
-            "title": "As Disney’s deal with OpenAI falls apart, what next for AI in Hollywood?",
-            "url": "https://www.standard.co.uk/brave-new-world/disney-open-ai-hollywood-film-future-b1277331.html",
-            "urlToImage": "https://static.standard.co.uk/2026/04/01/10/23/bravenewworldlondinstandard020426-qmr2y7hw.jpeg?width=1200&auto=webp&quality=75",
-            "publishedAt": "2026-04-02T08:00:42Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "IBM, Arm Form Partnership to Deploy AI in Enterprise Computing",
-            "url": "https://www.marketscreener.com/news/ibm-arm-form-partnership-to-deploy-ai-in-enterprise-computing-ce7e51dcdf81f726",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-04-02T08:00:18Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Microsoft Establishes 'Skill Center' at Chandigarh University",
-            "url": "https://www.tribuneindia.com/news/business/microsoft-establishes-skill-center-at-chandigarh-university/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJmM2VhNWYwLTJlNjMtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-04-02T07:15:30Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "It’s International Fact-Checking Day. Refresh your AI identification skills",
-            "url": "https://triblive.com/news/world/its-international-fact-checking-day-refresh-your-ai-identification-skills/",
-            "urlToImage": "https://assets-varnish.triblive.com/2026/04/9445139_web1_9445139-d336af7564924baebdcd08329a8c0596.jpg",
-            "publishedAt": "2026-04-02T06:49:47Z"
         }
     ]
 }
