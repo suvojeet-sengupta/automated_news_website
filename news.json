@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-04-07T16:52:33.279864Z",
+    "lastUpdatedAt": "2026-04-07T17:55:08.531335Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "OpenAI, Anthropic, Google Collaborate to Fight Against Chinese Model Imitations",
+            "url": "https://www.marketscreener.com/news/openai-anthropic-google-collaborate-to-fight-against-chinese-model-imitations-ce7e51d3db80f724",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-04-07T05:52:24Z"
+        },
         {
             "source": {
                 "id": "91120a92e0d24e24fbffb6d0affabfe6",
@@ -180,6 +192,15 @@
             "url": "https://www.morningstar.com/stocks/how-nvidias-partnership-is-creating-momentum-marvell-technology-stock",
             "urlToImage": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/c-yAYiIa9hAHqyS3r8OBtP3tHoU=/2400x1350/cloudfront-us-east-1.images.arcpublishing.com/morningstar/SNXMACAN35AOREDEB3YCYI77P4.png",
             "publishedAt": "2026-04-07T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The Mesa Graphics Project Just Drew a Hard Line on AI-Generated Code — And the Open Source World Is Watching",
+            "url": "https://www.webpronews.com/the-mesa-graphics-project-just-drew-a-hard-line-on-ai-generated-code-and-the-open-source-world-is-watching/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/04/article-14122-1775538192.jpeg",
+            "publishedAt": "2026-04-07 05:05:12"
         },
         {
             "source": {
@@ -3471,30 +3492,6 @@
             "url": "https://www.naturalnews.com/2026-04-03-google-texas-gas-plant-partnership-ai-datacenter.html",
             "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/google-confirms-texas-791-original.jpg",
             "publishedAt": "2026-04-03T04:45:32Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI startup Sarvam close to raising $300 million at $1.5 billion valuation",
-            "url": "https://economictimes.indiatimes.com/tech/startups/ai-startup-sarvam-close-to-raising-300-million-at-1-5-billion-valuation/articleshow/129994098.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29198,resizemode-75,msid-129994098/tech/startups/ai-startup-sarvam-close-to-raising-300-million-at-1-5-billion-valuation.jpg",
-            "publishedAt": "2026-04-03T04:39:41Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "China Stocks Tumble Amid Global Tensions",
-            "url": "https://www.devdiscourse.com/article/headlines/3861148-china-stocks-tumble-amid-global-tensions",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/04_07_2024_01_39_03_7195726.png?width=920&format=jpeg",
-            "publishedAt": "2026-04-03T04:17:37Z"
         }
     ]
 }
