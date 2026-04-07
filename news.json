@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-04-06T23:31:00.449627Z",
+    "lastUpdatedAt": "2026-04-07T02:01:19.076940Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Stagwell's HarrisQuest Launches AI Analyst for Brand Tracking Platform",
+            "url": "https://www.marketscreener.com/news/stagwell-s-harrisquest-launches-ai-analyst-for-brand-tracking-platform-ce7e51d2d180f021",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-04-06T13:58:28Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Harvard issues cyber alert as hackers impersonate IT staff to target users, steal login credentials",
+            "url": "https://timesofindia.indiatimes.com/education/news/harvard-issues-cyber-alert-as-hackers-impersonate-it-staff-to-target-users-steal-login-credentials/articleshow/130053422.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130053601,width-1280,height-720,imgsize-317382,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-06T13:30:00Z"
+        },
+        {
+            "source": {
+                "id": "ae2702c2a2dec11fe1079f1a797d178a",
+                "name": "Manchester Evening News",
+                "url": "https://www.manchestereveningnews.co.uk",
+                "country": "gb"
+            },
+            "title": "How to talk to your kids about artificial intelligence, according to the NSPCC",
+            "url": "https://www.manchestereveningnews.co.uk/news/parenting/nspcc-issues-advice-artificial-intelligence-33722364",
+            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/article33667759.ece/ALTERNATES/s1200d/2_GettyImages-1349480283.jpg",
+            "publishedAt": "2026-04-06T13:22:00Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Amity, Ashoka join IITs in shaping the Cognitive Science revolution, driving Artificial Intelligence",
+            "url": "https://www.indiatoday.in/impact-feature/story/amity-ashoka-join-iits-in-shaping-the-cognitive-science-revolution-driving-artificial-intelligence-2892151-2026-04-06",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/img-061638598-16x9_0.jpg?VersionId=LtYBNW9C4AUEiTdfWwiBaKvXem6SyYfZ",
+            "publishedAt": "2026-04-06T12:17:02Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "AI has a big problem when it comes to financial advice: MIT professor",
+            "url": "https://www.cnbc.com/2026/04/06/ai-has-a-big-problem-when-it-comes-to-financial-advice-mit-professor.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108285533-1774976345801-gettyimages-2004891058-2388.jpeg?v=1774976364&w=1920&h=1080",
+            "publishedAt": "2026-04-06T12:15:01Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "proof” kids: Why creativity and curiosity matter more than ever",
+            "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/raising-robot-proof-kids-why-creativity-and-curiosity-matter-more-than-ever/articleshow/130057342.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130057354,width-1280,height-720,imgsize-34862,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-06T11:31:00Z"
+        },
         {
             "source": {
                 "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
@@ -432,6 +504,42 @@
             "url": "https://www.financialexpress.com/market/stock-insights/hidden-gems/the-rs-1000-crore-small-cap-powering-the-invisible-layer-behind-data-centres-smart-grids-and-defence/4196017/",
             "urlToImage": "https://images.financialexpressdigital.com/2026/04/Untitled-design93.jpg",
             "publishedAt": "2026-04-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Generative AI Server Market worth $448.60 billion by 2030 - Exclusive Report by MarketsandMarketsTM",
+            "url": "https://www.prnewswire.com/news-releases/generative-ai-server-market-worth-448-60-billion-by-2030---exclusive-report-by-marketsandmarkets-302734590.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1868219/MarketsandMarkets_Logo.jpg?p=publish",
+            "publishedAt": "2026-04-06 14:01:00"
+        },
+        {
+            "source": {
+                "name": "yourstory"
+            },
+            "title": "Fulcrum Digital bets on agentic AI to drive growth",
+            "url": "https://yourstory.com/enterprise-story/2026/04/fulcrum-digital-bets-on-agentic-ai-to-drive-growth",
+            "urlToImage": "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/Google16-1740571970623.png",
+            "publishedAt": "2026-04-06 13:34:07"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "25th Annual Bio-IT World Conference & Expo in Boston Leads the Conversation on Operationalizing AI Across Real-World Drug Discovery Environments",
+            "url": "https://www.prnewswire.com/news-releases/25th-annual-bio-it-world-conference--expo-in-boston-leads-the-conversation-on-operationalizing-ai-across-real-world-drug-discovery-environments-302734649.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1998964/Bio_IT_World_Logo.jpg?p=original",
+            "publishedAt": "2026-04-06 13:01:00"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "3 E Network Announces Progress Update on Finland AI Data Centre Project: Site Clearance Completed and Earthworks Underway",
+            "url": "https://www.benzinga.com/pressreleases/26/04/g51654584/3-e-network-announces-progress-update-on-finland-ai-data-centre-project-site-clearance-completed-a",
+            "urlToImage": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
+            "publishedAt": "2026-04-06 11:50:00"
         },
         {
             "source": {
@@ -3354,126 +3462,6 @@
             "url": "https://www.reuters.com/lifestyle/ai-animation-studio-toonstar-harpercollins-team-up-animated-book-projects-2026-04-02/",
             "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2026-04-02T15:58:52Z"
-        },
-        {
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Tech layoffs are at their worst since 2023, and AI is a big reason",
-            "url": "https://www.businessinsider.com/tech-layoffs-q1-march-data-ai-impact-2026-4",
-            "urlToImage": "https://i.insider.com/69ce80236a864f6fcd7bcb81?width=1200&format=jpeg",
-            "publishedAt": "2026-04-02T15:56:51Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "ESET Previews New AI Security Features to Secure Chatbot Communications and AI Workflows",
-            "url": "https://www.manilatimes.net/2026/04/02/tmt-newswire/globenewswire/eset-previews-new-ai-security-features-to-secure-chatbot-communications-and-ai-workflows/2313645",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/02/999762.png",
-            "publishedAt": "2026-04-02T15:23:55Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Global Virus Network Meeting Advances a Science-Driven Agenda for Pandemic Preparedness",
-            "url": "https://www.manilatimes.net/2026/04/02/tmt-newswire/globenewswire/global-virus-network-meeting-advances-a-science-driven-agenda-for-pandemic-preparedness/2313624",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/02/999715.jpg",
-            "publishedAt": "2026-04-02T15:03:09Z"
-        },
-        {
-            "source": {
-                "id": "996b4ad0804caad8f61702c5d7917ec0",
-                "name": "City A.M.",
-                "url": "https://www.cityam.com",
-                "country": "gb"
-            },
-            "title": "Reply Signs Strategic Collaboration Agreement with AWS to Accelerate AI-Driven Cloud Transformation",
-            "url": "https://www.cityam.com/reply-signs-strategic-collaboration-agreement-with-aws-to-accelerate-ai-driven-cloud-transformation/",
-            "urlToImage": "https://mms.businesswire.com/media/20260402597802/en/2764134/4/AWS.jpg",
-            "publishedAt": "2026-04-02T15:02:19Z"
-        },
-        {
-            "source": {
-                "id": "f4967fce32bfc735983f0f39dcdba127",
-                "name": "pv magazine",
-                "url": "https://www.pv-magazine.com",
-                "country": "de"
-            },
-            "title": "France introduces cybersecurity, sustainability requirements in solar tenders",
-            "url": "https://www.pv-magazine.com/2026/04/02/france-introduces-cybersecurity-sustainability-requirements-in-solar-tenders/",
-            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2022/02/eiffel-tower-3500338_1280-1200x800.jpg",
-            "publishedAt": "2026-04-02T15:00:00Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Study introduces biomarker to characterize aggressiveness of brain tumors",
-            "url": "https://www.news-medical.net/news/20260402/Study-introduces-biomarker-to-characterize-aggressiveness-of-brain-tumors.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Magnetic_Resonance_Imaging-620x480.jpg",
-            "publishedAt": "2026-04-02T14:42:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Where the jobs are heading: Digital, data and cybersecurity skills top India’s hiring list",
-            "url": "https://timesofindia.indiatimes.com/education/news/where-the-jobs-are-heading-digital-data-and-cybersecurity-skills-top-indias-hiring-list/articleshow/129981540.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129982103,width-1280,height-720,imgsize-21436,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-02T14:34:00Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "AI Hacks: 5 Free AI Tools Students Can Use To Complete School Projects",
-            "url": "https://www.timesnownews.com/technology-science/ai-hacks-5-free-ai-tools-students-can-use-to-complete-school-projects-photo-gallery-153983821",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153983821,width-1280,height-720,resizemode-75/153983821.jpg",
-            "publishedAt": "2026-04-02T14:30:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Blue Owl limits withdrawals in two funds after historic surge in redemption requests",
-            "url": "https://economictimes.indiatimes.com/tech/technology/blue-owl-limits-withdrawals-in-two-funds-after-historic-surge-in-redemption-requests/articleshow/129981179.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3820308,resizemode-75,msid-129981179/tech/technology/blue-owl-limits-withdrawals-in-two-funds-after-historic-surge-in-redemption-requests.jpg",
-            "publishedAt": "2026-04-02T13:51:15Z"
-        },
-        {
-            "source": {
-                "id": "bc002b453215c04fa081a97f2c6679b9",
-                "name": "The Hacker News",
-                "url": "https://thehackernews.com",
-                "country": "us"
-            },
-            "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
-            "url": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht9hzOUmn8npVxC_AyWUe1DLsv1VkWHox2PmDxZnVuG_XnQt7R5l7CZHlYu9m9BcwAib4L0j0x877sDuCF2shmSH3ef0Me-m0sbKDtu-ZEw5RLqLGNsjGJ0o-b_CuKtFg86fMFb-GKVBud7S8PfpsoL4HCqEZypO1NcWfx6ljXcUhC5O4GIjRbhRcG-fIi/s1700-e365/threatsday.jpg",
-            "publishedAt": "2026-04-02T12:45:00Z"
         }
     ]
 }
