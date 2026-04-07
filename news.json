@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-04-07T20:51:31.946488Z",
+    "lastUpdatedAt": "2026-04-07T21:38:34.816826Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Jeff Bezos’s startup lab hires xAI co",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezoss-startup-lab-hires-xai-co-founder-who-had-joined-openai/articleshow/130081987.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130081989,width-1280,height-720,imgsize-795460,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-07T09:11:00Z"
+        },
+        {
+            "source": {
+                "id": "b41851fb2662ea502db29f71ec4d1583",
+                "name": "NPR",
+                "url": "https://www.npr.org",
+                "country": "us"
+            },
+            "title": "AI in the mental health care workforce is met with fear, pushback — and enthusiasm",
+            "url": "https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-artificial-intelligence-ai",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2033x1144+0+112/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2Fe1%2F2f5e2e244a11a2cb7b7d74dd3b95%2Fgettyimages-1609437924.jpg",
+            "publishedAt": "2026-04-07T09:00:00Z"
+        },
         {
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -396,6 +420,24 @@
             "url": "https://www.morningstar.com/stocks/how-nvidias-partnership-is-creating-momentum-marvell-technology-stock",
             "urlToImage": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/c-yAYiIa9hAHqyS3r8OBtP3tHoU=/2400x1350/cloudfront-us-east-1.images.arcpublishing.com/morningstar/SNXMACAN35AOREDEB3YCYI77P4.png",
             "publishedAt": "2026-04-07T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "The AI talent wars explained: What CIOs need to know",
+            "url": "https://www.techtarget.com/searchcio/feature/The-AI-talent-wars-explained-What-CIOs-need-to-know",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/competition_a164834714.jpg",
+            "publishedAt": "2026-04-07 09:20:00"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "What you need to know before emissions regulators come knocking",
+            "url": "https://www.computerweekly.com/opinion/What-you-need-to-know-before-emissions-regulators-come-knocking",
+            "urlToImage": "https://www.computerweekly.com/visuals/LeMagIT/hero_article/surveillance-fotolia.jpg",
+            "publishedAt": "2026-04-07 09:06:00"
         },
         {
             "source": {
@@ -3441,54 +3483,6 @@
             "url": "https://abc17news.com/money/cnn-business-consumer/2026/04/03/anthropics-next-model-could-be-a-watershed-moment-for-cybersecurity-experts-say-that-could-also-be-a-concern/",
             "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
             "publishedAt": "2026-04-03T09:30:55Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "Anthropic’s next model could be a ‘watershed moment’ for cybersecurity. Experts say that could also be a concern",
-            "url": "https://edition.cnn.com/2026/04/03/tech/anthropic-mythos-ai-cybersecurity",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-02t143302z-881123838-rc2ewjag3x2b-rtrmadp-3-usa-pentagon-anthropic.JPG?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-04-03T09:30:55Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Microsoft Charts $10 Billion of Outlays In AI-Eager Japan",
-            "url": "https://www.ndtvprofit.com/world/microsoft-charts-10-billion-of-outlays-in-ai-eager-japan-11306284",
-            "urlToImage": "https://c.ndtvimg.com/2026-04/1vnvbu78_brad-smith-in-tokyo-on-april-3-photographer-shoko-takayasubloomberg_625x300_03_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-04-03T09:02:20Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Economists Are Drawing Stronger Connections Between A.I. and Jobs",
-            "url": "https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/04/03/business/00ai-jobs/00ai-jobs-facebookJumbo.jpg",
-            "publishedAt": "2026-04-03T09:02:10Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Rethinking Talent and AI in HR: Insights from SRIF HR Summit 2026",
-            "url": "https://www.tribuneindia.com/news/business/rethinking-talent-and-ai-in-hr-insights-from-srif-hr-summit-2026/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE2YjA4ZmUwLTJmMzgtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-04-03T08:35:31Z"
         }
     ]
 }
