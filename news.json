@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-04-07T10:06:55.748397Z",
+    "lastUpdatedAt": "2026-04-07T11:50:44.860319Z",
     "articles": [
+        {
+            "source": {
+                "id": "e185a9e522f5881b82bc4bd40cbea8e0",
+                "name": "MassLive",
+                "url": "https://www.masslive.com",
+                "country": "us"
+            },
+            "title": "Brockton Hospital diverts ambulances, cancels services amid cybersecurity incident",
+            "url": "https://www.masslive.com/news/2026/04/brockton-hospital-diverts-ambulances-cancels-services-amid-cybersecurity-incident.html",
+            "urlToImage": "https://www.masslive.com/resizer/v2/7XZEWZNBJRFMJNOW5FMWFZ7USY.jpg?auth=9f1863d8aac2133649eb088abaaa05d2858f63ff00ae123d6cafb764f8a7b626&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-04-06T23:49:07Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "IT Secy reviews implementation of Meghraj, Mini SOC",
+            "url": "https://www.dailyexcelsior.com/it-secy-reviews-implementation-of-meghraj-mini-soc/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/IT-Secretary-reviews-implementation-of-Meghraj-Mini-SOC-6.jpg",
+            "publishedAt": "2026-04-06T23:17:37Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "True partnership targets AI adoption in Thai companies",
+            "url": "https://www.bangkokpost.com/business/general/3232080/true-partnership-targets-ai-adoption-in-thai-companies",
+            "urlToImage": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+            "publishedAt": "2026-04-06T23:07:00Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "AI layoffs hit U.S. but not China jobs",
+            "url": "https://www.cnbc.com/2026/04/07/ai-jobs-layoffs-us-china-engineers-hiring.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108285143-1774937449153-gettyimages-2268078260-zt190610_xdbgxidk.jpeg?v=1774937473&w=1920&h=1080",
+            "publishedAt": "2026-04-06T23:02:23Z"
+        },
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "AI, pay, workload to be debated at ASTI convention",
+            "url": "https://www.rte.ie/news/education/2026/0407/1566925-ai-pay-workload-to-be-debated-at-asti-convention/",
+            "urlToImage": "https://www.rte.ie/images/0023cc79-1600.jpg",
+            "publishedAt": "2026-04-06T23:00:01Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Chennai college asks students to declare AI use in assignments",
+            "url": "https://timesofindia.indiatimes.com/city/chennai/chennai-college-asks-students-to-declare-ai-use-in-assignments/articleshow/130069965.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130069942,width-1280,height-720,imgsize-14506,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-06T22:59:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Samsung flags eightfold jump in Q1 profit as AI chip demand drives up prices",
+            "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/samsung-flags-eight-fold-jump-q1-profit-ai-chip-demand-drives-up-prices-2026-04-06/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/3BEAFXW6JNI3VE57QIVTDWRCM4.jpg?auth=60c284d891d9fc5b0ef82dc3f3bd78157296d7be9ecabedebe70027c63736428&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-06T22:45:09Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Samsung flags eightfold jump in Q1 profit as AI chip demand drives up prices",
+            "url": "https://www.marketscreener.com/news/samsung-flags-eight-fold-jump-in-q1-profit-as-ai-chip-demand-drives-up-prices-ce7e51d3d88df423",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-14T084750Z_1_LYNXMPELAD0D0_RTROPTP_4_SAMSUNG-ELEC-CHIPS.JPG",
+            "publishedAt": "2026-04-06T22:44:25Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Broadcom signs long-term deal to develop Google’s custom AI chips",
+            "url": "https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/XGUMTQNVURJQ7HZLX4RP6HW444.jpg?auth=275bdc8efda0292fd5027e0a6fd9d716b13ec90c4eae3eeff3b2f2781b84c5fc&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-06T22:37:55Z"
+        },
+        {
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            },
+            "title": "Google’s quantum warning suggests Bitcoin encryption may fail sooner as reduced qubit requirements shift assumptions about future cybersecurity risks",
+            "url": "https://www.techradar.com/pro/we-want-to-raise-awareness-on-this-issue-google-warns-quantum-computers-could-break-bitcoin-encryption-much-sooner-than-expected",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Qn87yWq2nVmwuXotPPqbeR-1920-80.jpg",
+            "publishedAt": "2026-04-06T22:25:00Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Rapid AI evolution collides with sophisticated scams",
+            "url": "https://www.bangkokpost.com/business/general/3232075/rapid-ai-evolution-collides-with-sophisticated-scams",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260407/c1_3232075_260407051404_700.jpg",
+            "publishedAt": "2026-04-06T22:13:00Z"
+        },
         {
             "source": {
                 "id": "09131c39169c9c96230862dc4c1fa727",
@@ -936,6 +1068,15 @@
             "url": "https://www.financialexpress.com/market/stock-insights/hidden-gems/the-rs-1000-crore-small-cap-powering-the-invisible-layer-behind-data-centres-smart-grids-and-defence/4196017/",
             "urlToImage": "https://images.financialexpressdigital.com/2026/04/Untitled-design93.jpg",
             "publishedAt": "2026-04-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Meta’s Open-Source AI Wager: Why Zuckerberg Is Giving Away What Rivals Sell",
+            "url": "https://www.webpronews.com/metas-open-source-ai-wager-why-zuckerberg-is-giving-away-what-rivals-sell/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/04/article-14078-1775515049.jpeg",
+            "publishedAt": "2026-04-06 22:37:33"
         },
         {
             "source": {
@@ -3351,114 +3492,6 @@
             "url": "https://www.psypost.org/job-seekers-mask-their-emotions-and-act-more-analytical-when-evaluated-by-artifi-2026-03-26/",
             "urlToImage": "https://www.psypost.org/wp-content/uploads/2025/02/artificial-intelligence.jpg",
             "publishedAt": "2026-04-03 22:00:52"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "ACM AI Letters Journal Publishes First Issue",
-            "url": "https://www.hpcwire.com/off-the-wire/acm-ai-letters-journal-publishes-first-issue/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2022/11/ACM-logo.png",
-            "publishedAt": "2026-04-03 20:32:22"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "AWS and Siemens Energy Team Up to Advance Energy Sector Digital Transformation",
-            "url": "https://www.hpcwire.com/off-the-wire/aws-and-siemens-energy-team-up-to-advance-energy-sector-digital-transformation/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2021/10/aws_shutterstock-1522399373_692x-e1725981691712.jpg",
-            "publishedAt": "2026-04-03 19:50:55"
-        },
-        {
-            "source": {
-                "name": "informationweek"
-            },
-            "title": "Confidential computing resurfaces as security priority for CIOs",
-            "url": "https://www.informationweek.com/cybersecurity/confidential-computing-resurfaces-as-security-priority-for-cios",
-            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/bltbb17f2eefc870e04/69d01c3a4df06e51a9b78f86/040626_IWK_confidentialcomputing_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
-            "publishedAt": "2026-04-03 19:47:05"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Microsoft Sold the World on Copilot — Then Buried a Disclaimer Saying Don’t Trust It",
-            "url": "https://www.webpronews.com/microsoft-sold-the-world-on-copilot-then-buried-a-disclaimer-saying-dont-trust-it/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/04/article-13761-1775243716.jpeg",
-            "publishedAt": "2026-04-03 19:15:21"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "AMD MLPerf Submission Highlights MI355X Gains, Multinode Inference Performance",
-            "url": "https://www.hpcwire.com/off-the-wire/amd-mlperf-submission-highlights-mi355x-gains-multinode-inference-performance/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2021/10/shutterstock_amd_hq.jpg",
-            "publishedAt": "2026-04-03 18:00:39"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Microsoft Plans $10 Billion Japan Investment for AI, Data Centers, and Cybersecurity",
-            "url": "https://www.analyticsinsight.net/news/microsoft-plans-10-billion-japan-investment-for-ai-data-centers-and-cybersecurity",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2025-11-04/kbk0tbpa/Microsoft-unveils-15-2-billion-AI-investments-in-UAE.jpg",
-            "publishedAt": "2026-04-03 18:00:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "The Rise of AI Pentesting: Exploring the Next Phase of Cybersecurity",
-            "url": "https://www.digitaltrends.com/contributor-content/the-rise-of-ai-pentesting-exploring-the-next-phase-of-cybersecurity/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/04/image1-6.png?resize=1200%2C630",
-            "publishedAt": "2026-04-03 15:06:29"
-        },
-        {
-            "source": {
-                "name": "tweaktown"
-            },
-            "title": "Sony just bought an AI startup that turns photos into 3D volumes to make its first-party games more immersive",
-            "url": "https://www.tweaktown.com/news/110858/sony-just-bought-an-ai-startup-that-turns-photos-into-3d-volumes-to-make-its-first-party-games-more-immersive/index.html",
-            "urlToImage": "https://static.tweaktown.com/news/1/1/110858_4_sony-buys-machine-learning-company_full.png",
-            "publishedAt": "2026-04-03 15:00:05"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "IT's budgetary nightmare: Tech buyers face AI pricing variance",
-            "url": "https://www.techtarget.com/searchcustomerexperience/opinion/ITs-budgetary-nightmare-Tech-buyers-face-AI-pricing-variance",
-            "urlToImage": "https://www.techtarget.com/ITKE/images/logos/TTlogo-379x201.png",
-            "publishedAt": "2026-04-03 13:22:00"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "Oracle launches AI data platform for U.S. federal agencies with expanded GPU options and financial management tools",
-            "url": "https://completeaitraining.com/news/oracle-launches-ai-data-platform-for-us-federal-agencies/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/oracle-launches-ai-data-platform-for-u-s-federal-agencies-with-expanded-gpu-opti_2026-04-03.jpg",
-            "publishedAt": "2026-04-03 10:49:29"
-        },
-        {
-            "source": {
-                "name": "macworld"
-            },
-            "title": "Enough looking back, what do Apple’s next 10 years look like?",
-            "url": "https://www.macworld.com/article/3093881/enough-anniversary-talk-what-do-apples-next-10-years-look-like.html",
-            "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/04/apple-different-60.png?w=1024",
-            "publishedAt": "2026-04-03 10:30:00"
-        },
-        {
-            "source": {
-                "name": "daijiworld"
-            },
-            "title": "Microsoft to invest $10 billion in Japan to boost AI, cybersecurity",
-            "url": "https://daijiworld.com/news/newsDisplay?newsID=1310889",
-            "urlToImage": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/micro_030426_1.jpg",
-            "publishedAt": "2026-04-03 08:40:23"
         }
     ]
 }
