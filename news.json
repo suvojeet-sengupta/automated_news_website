@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-04-07T15:03:23.550328Z",
+    "lastUpdatedAt": "2026-04-07T16:52:33.279864Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Experts warn over growing dependence on conversational AI",
+            "url": "https://www.bangkokpost.com/life/tech/3232259/experts-warn-over-growing-dependence-on-conversational-ai",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260407/c1_3232259_700.jpeg",
+            "publishedAt": "2026-04-07T04:26:00Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Public trust in AI in health care is slipping, survey finds",
+            "url": "https://medicalxpress.com/news/2026-04-ai-health-survey.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/public-comfort-with-ai.jpg",
+            "publishedAt": "2026-04-07T04:10:02Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "UOB Asset Management Highlights Three Potential Market Paths as Geopolitical Risk Rise",
+            "url": "https://www.manilatimes.net/2026/04/07/tmt-newswire/pr-newswire/uob-asset-management-highlights-three-potential-market-paths-as-geopolitical-risk-rise/2315082",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/07/1003004.jpg",
+            "publishedAt": "2026-04-07T03:45:10Z"
+        },
+        {
+            "source": {
+                "id": "ca35c66a2b26e8274365e937357cf9c5",
+                "name": "SlashGear",
+                "url": "https://www.slashgear.com",
+                "country": "us"
+            },
+            "title": "That Old Smartphone Sitting In A Drawer Could Be A Disaster Waiting To Happen",
+            "url": "https://www.slashgear.com/2137419/why-old-smartphone-could-be-fire-risk/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/that-old-smartphone-sitting-in-a-drawer-could-be-a-disaster-waiting-to-happen/l-intro-1775017027.jpg",
+            "publishedAt": "2026-04-07T03:45:00Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Study explores role of AI automation in psychotherapy practice",
+            "url": "https://www.news-medical.net/news/20260406/Study-explores-role-of-AI-automation-in-psychotherapy-practice.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/4/By_Phonlamai_Photo_034cc2a48c3c4bd2a57e29e397b7210a-620x480.jpg",
+            "publishedAt": "2026-04-07T03:16:00Z"
+        },
         {
             "source": {
                 "id": "8749653ef849c3df2e467a8e0f0c6672",
@@ -108,6 +168,27 @@
             "url": "https://www.bangkokpost.com/business/general/3232030/synnex-predicts-10-growth-as-prices-rise",
             "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/04/07/6038585_700.jpeg",
             "publishedAt": "2026-04-07T00:03:00Z"
+        },
+        {
+            "source": {
+                "id": "d889fcdc98f3dab0a934bbe252002562",
+                "name": "Morningstar",
+                "url": "https://www.morningstar.com",
+                "country": "us"
+            },
+            "title": "How Nvidia’s Partnership Is Creating Momentum for Marvell Technology Stock",
+            "url": "https://www.morningstar.com/stocks/how-nvidias-partnership-is-creating-momentum-marvell-technology-stock",
+            "urlToImage": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/c-yAYiIa9hAHqyS3r8OBtP3tHoU=/2400x1350/cloudfront-us-east-1.images.arcpublishing.com/morningstar/SNXMACAN35AOREDEB3YCYI77P4.png",
+            "publishedAt": "2026-04-07T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Microsoft’s AI Investments Fuel 30% Azure Growth to $31.8B in Q3",
+            "url": "https://www.webpronews.com/microsofts-ai-investments-fuel-30-azure-growth-to-31-8b-in-q3/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/04/article-14114-1775537194.jpeg",
+            "publishedAt": "2026-04-07 04:50:06"
         },
         {
             "source": {
@@ -3414,90 +3495,6 @@
             "url": "https://www.devdiscourse.com/article/headlines/3861148-china-stocks-tumble-amid-global-tensions",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/04_07_2024_01_39_03_7195726.png?width=920&format=jpeg",
             "publishedAt": "2026-04-03T04:17:37Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "NICSI Internship Programme 2026 opens: Apply for roles in AI, cybersecurity and e",
-            "url": "https://timesofindia.indiatimes.com/education/news/nicsi-internship-programme-2026-opens-apply-for-roles-in-ai-cybersecurity-and-e-governance-direct-link-here/articleshow/129993510.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-129993484,width-1280,height-720,imgsize-2459737,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-03T04:01:00Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion",
-            "url": "https://www.thehindubusinessline.com/info-tech/microsoft-to-invest-10-billion-in-japan-for-ai-and-cyber-defence-expansion/article70818568.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/irnboh/article70818592.ece/alternates/LANDSCAPE_1200/2026-03-31T124310Z_116335882_RC2NFKAES3Z9_RTRMADP_3_BRITAIN-CLOUD-REGULATIONS.JPG",
-            "publishedAt": "2026-04-03T03:51:42Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Trump admin appeals ruling that blocked Pentagon action against Anthropic over AI dispute",
-            "url": "https://www.firstpost.com/tech/trump-admin-appeals-ruling-that-blocked-pentagon-action-against-anthropic-over-ai-dispute-13996096.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/03/2026-03-11T223216Z_2_LYNXMPEM2A1IL_RTROPTP_4_PENTAGON-ANTHROPIC-EXEMPTION-2026-03-c2a4d1d4949480b3648ad88cadaf5f3e-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-04-03T03:47:01Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion",
-            "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-to-invest-10-billion-in-japan-for-ai-and-cyber-defence-expansion/articleshow/129993387.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-157430,resizemode-75,msid-129993387/tech/technology/microsoft-to-invest-10-billion-in-japan-for-ai-and-cyber-defence-expansion.jpg",
-            "publishedAt": "2026-04-03T03:43:43Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion",
-            "url": "https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/RWOFPM6VY5NPHAR7EC4QLJLB6U.jpg?auth=0b8675b6df2f871feb6cc15a7b4542f829a85bf6983782b4581fda0fc13b6e55&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-04-03T03:37:26Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion",
-            "url": "https://www.marketscreener.com/news/microsoft-to-invest-10-billion-in-japan-for-ai-and-cyber-defence-expansion-ce7e51ddde8af327",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-03T033715Z_1_LYNXMPEM32039_RTROPTP_4_JAPAN-MICROSOFT.JPG",
-            "publishedAt": "2026-04-03T03:29:17Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "Microsoft drafts $10 billion investment plan in AI-hungry Japan",
-            "url": "https://www.japantimes.co.jp/business/2026/04/03/companies/microsoft-ai-japan-investment/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/03/532984.jpg?v=3.1",
-            "publishedAt": "2026-04-03T03:19:03Z"
         }
     ]
 }
