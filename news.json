@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-04-08T11:51:12.035862Z",
+    "lastUpdatedAt": "2026-04-08T13:12:27.724660Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Anthropic’s Restraint Is a Terrifying Warning Sign",
+            "url": "https://www.nytimes.com/2026/04/07/opinion/anthropic-ai-claude-mythos.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/04/07/opinion/07friedman/07friedman-facebookJumbo.jpg",
+            "publishedAt": "2026-04-08T01:02:10Z"
+        },
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "New research institute to ramp up efforts as Hong Kong pursues ‘AI for all’",
+            "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349304/new-research-institute-ramp-efforts-hong-kong-pursues-ai-all",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/07/3247fc52-a0e0-4b5d-9b39-4131adec75b2_04dc7787.jpg?itok=SS0ULhW9&v=1775576759",
+            "publishedAt": "2026-04-08T00:30:09Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Anthropic pits bot against bot in AI cyberwar with powerful new model",
+            "url": "https://www.afr.com/technology/anthropic-pits-bot-against-bot-in-ai-cyberwar-with-powerful-new-model-20260408-p5zm2f",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.6391%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_206%2C$y_3/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6b430b5665c6f83a7095f90c1b8a2378c19f69c1",
+            "publishedAt": "2026-04-07T23:56:10Z"
+        },
         {
             "source": {
                 "id": "0d429ea54fdbe8e34c582aa31bc81aba",
@@ -3426,42 +3462,6 @@
             "url": "https://www.arkansasonline.com/news/2026/apr/05/data-centers-delayed-by-infrastructure/",
             "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/212591392_1G-OpenAi-0405-RGB_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
             "publishedAt": "2026-04-05T06:56:00Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Britain woos Anthropic after US defence clash",
-            "url": "https://www.thenews.com.pk/latest/1397797-britain-woos-anthropic-after-us-defence-clash",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-05/1397797_120150_updates.jpg",
-            "publishedAt": "2026-04-05T06:40:51Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Indian film studios are using AI to cut costs, speed production, despite mixed audience reactions",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-studios-use-ai-to-cut-costs-speed-production-despite-mixed-audience-reactions/articleshow/130034364.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-75194,resizemode-75,msid-130034364/tech/artificial-intelligence/indian-studios-use-ai-to-cut-costs-speed-production-despite-mixed-audience-reactions.jpg",
-            "publishedAt": "2026-04-05T06:01:21Z"
-        },
-        {
-            "source": {
-                "id": "c8c865ed042eb14694b8d596e22efe99",
-                "name": "Spokane Spokesman-Review",
-                "url": "https://www.spokesman.com",
-                "country": "us"
-            },
-            "title": "Judges are increasingly using AI to draft rulings and prepare for hearings",
-            "url": "https://www.spokesman.com/stories/2026/apr/05/judges-are-increasingly-using-ai-to-draft-rulings-/",
-            "urlToImage": "https://thumb.spokesman.com/5KVX4O6XAatZu4nBidqB7wlGhIk=/1200x630/smart/media.spokesman.com/photos/2026/04/03/63fd201a6ed98.hires.jpg",
-            "publishedAt": "2026-04-05T05:04:00Z"
         }
     ]
 }
