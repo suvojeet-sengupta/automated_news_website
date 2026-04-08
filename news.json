@@ -1,6 +1,246 @@
 {
-    "lastUpdatedAt": "2026-04-08T05:07:21.025623Z",
+    "lastUpdatedAt": "2026-04-08T07:11:47.501808Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "With sights on huge gains, Biocon to scale up AI focus",
+            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/with-sights-on-huge-gains-biocon-to-scale-up-ai-focus/articleshow/130095933.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-130096022,width-1200,height-630,imgsize-805762,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-04-07T19:08:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Anthropic Launches Project Glasswing After Frontier Model Claude Mythos Preview Expands Cybersecurity Capabilities",
+            "url": "https://www.marketscreener.com/news/anthropic-launches-project-glasswing-after-frontier-model-claude-mythos-preview-expands-cybersecurit-ce7e50dad988f021",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-04-07T19:05:22Z"
+        },
+        {
+            "source": {
+                "id": "b683218c3952d77a76b7bda7512f2f6e",
+                "name": "WIRED",
+                "url": "https://www.wired.com",
+                "country": "us"
+            },
+            "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+            "url": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+            "urlToImage": "https://media.wired.com/photos/69d4e951d8b67218cd4b81ad/191:100/w_1280,c_limit/04072026_New%20Anthropic%20Industry%20Coalition%20Racing%20to%20Use%20Private%20Claude%20Mythos%20Model%20To%20Secure%20Software.jpg",
+            "publishedAt": "2026-04-07T18:49:50Z"
+        },
+        {
+            "source": {
+                "id": "92f73865e835e33ed68c11447777c939",
+                "name": "9to5Mac",
+                "url": "https://9to5mac.com",
+                "country": "us"
+            },
+            "title": "Anthropic unveils powerful Mythos AI model, working with Apple in cybersecurity initiative",
+            "url": "https://9to5mac.com/2026/04/07/anthropic-unveils-powerful-mythos-ai-model-working-with-apple-in-cybersecurity-initiative/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/claude-code-auto-mode.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-04-07T18:41:39Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Newest Anthropic AI 'Claude' exposes software weaknesses",
+            "url": "https://www.cp24.com/news/world/2026/04/07/latest-anthropic-ai-model-finds-cracks-in-software-defences/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/D3HP7HUSVSRPSMRNTHQLRV6NDQ.jpg?smart=true&auth=4f22283bb295190ce767641b40b906dfa521467ac2ff5c809b07e7bbbc66861d&width=1200&height=630",
+            "publishedAt": "2026-04-07T18:32:41Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "AI tool predicts Barrett’s esophagus recurrence with high accuracy",
+            "url": "https://www.news-medical.net/news/20260407/AI-tool-predicts-Barrette28099s-esophagus-recurrence-with-high-accuracy.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2026-04-07T18:30:00Z"
+        },
+        {
+            "source": {
+                "id": "df3038aaa802741cdad6eb4698aa1552",
+                "name": "Al-Monitor",
+                "url": "https://www.al-monitor.com",
+                "country": "us"
+            },
+            "title": "Iranian hackers' targeting of US critical infrastructure has escalated since start of war, US says",
+            "url": "https://www.al-monitor.com/originals/2026/04/iranian-hackers-targeting-us-critical-infrastructure-has-escalated-start-war-us",
+            "urlToImage": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-04/2026-04-07T182642Z_1_LYNXMPEM3610H_RTROPTP_4_IRAN-CRISIS-USA-CYBER.JPG?h=fc56e84b&itok=2bwYeyLI",
+            "publishedAt": "2026-04-07T18:26:42Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Anthropic’s latest AI model could let hackers carry out attacks faster than ever. It wants companies to put up defenses first",
+            "url": "https://edition.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261589651.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-04-07T18:26:33Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "Anthropic’s latest AI model could let hackers carry out attacks faster than ever. It wants companies to put up defenses first",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2026/04/07/anthropics-latest-ai-model-could-let-hackers-carry-out-attacks-faster-than-ever-it-wants-companies-to-put-up-defenses-first/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
+            "publishedAt": "2026-04-07T18:26:33Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "Iranian hackers' targeting of US critical infrastructure has escalated since start of war, US says",
+            "url": "https://www.straitstimes.com/world/middle-east/iranian-hackers-targeting-of-us-critical-infrastructure-has-escalated-since-start-of-war-us-says",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/e38fcb7624ac6820a7a01546864fad14e5f9d54680985af16e81ee103b85b084",
+            "publishedAt": "2026-04-07T18:25:40Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Iranian hackers' targeting of US critical infrastructure has escalated since start of war, US says",
+            "url": "https://www.reuters.com/world/middle-east/iranian-hackers-targeting-us-critical-infrastructure-has-escalated-since-start-2026-04-07/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/VE7QO7I2CNMUNEBQBX7TNTBBQA.jpg?auth=4c67c4d0af60615cacb85047785dcbe67de0ebaef90392909e82fcfad155a572&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-07T18:25:26Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Iranian hackers' targeting of US critical infrastructure has escalated since start of war, US says",
+            "url": "https://www.marketscreener.com/news/iranian-hackers-targeting-of-us-critical-infrastructure-has-escalated-since-start-of-war-us-says-ce7e50dad989f621",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-30T221030Z_1_LYNXMPEL5T18O_RTROPTP_4_USA-IRAN-CYBER.JPG",
+            "publishedAt": "2026-04-07T18:24:17Z"
+        },
+        {
+            "source": {
+                "id": "da182982e3ceb53c6eb8df72aa2030c3",
+                "name": "Indiatimes",
+                "url": "https://www.indiatimes.com",
+                "country": "in"
+            },
+            "title": "From engineers to AI experts: Here's how much Meta is paying top hires",
+            "url": "https://www.indiatimes.com/technology/from-engineers-to-ai-experts-heres-how-much-meta-is-paying-top-hires/articleshow/130094231.html",
+            "urlToImage": "https://staticimg.publishstory.co/thumb/130094231.cms?imgsize=30424&width=1280&height=720&resizemode=8",
+            "publishedAt": "2026-04-07T18:10:12Z"
+        },
+        {
+            "source": {
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
+                "country": "us"
+            },
+            "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly - so it built Project Glasswing",
+            "url": "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/6SaGXxoA2WaaomE4o3ATIx/e0ed70fe2b8554b83f11998884a52c0b/nuneybits_Vector_art_of_a_retro_CRT_computer_image_in_burnt_ora_f8676585-ba7c-4170-bb90-6ad2e8a2668e.webp?w=800&q=75",
+            "publishedAt": "2026-04-07T18:03:28Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Anthropic Lets Apple, Amazon Test More Powerful Mythos AI Model",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-07/anthropic-lets-apple-amazon-test-more-powerful-mythos-ai-model",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_LfA4f6aDio/v0/1200x800.jpg",
+            "publishedAt": "2026-04-07T18:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Maharashtra Cabinet Approves Dedicated Department Of Electronics, IT And AI With 427 Cadre Posts And ₹133 Crore Annual Outlay",
+            "url": "https://www.freepressjournal.in/mumbai/maharashtra-cabinet-approves-dedicated-department-of-electronics-it-and-ai-with-427-cadre-posts-and-133-crore-annual-outlay",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-03-24/v10drqp7/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-03-24T212055.470.jpg",
+            "publishedAt": "2026-04-07T17:39:07Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "AI Helped Fuel $21 Billion in Cybercrime Losses in 2025",
+            "url": "https://www.newsmax.com/us/ai-scams-fraud/2026/04/07/id/1252096/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9009cc2d-dcc1-4c28-ac4e-47381b7bb58b&SiteName=Newsmax",
+            "publishedAt": "2026-04-07T17:36:02Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "AI Helped Fuel $21 Billion in Cybercrime Losses in 2025",
+            "url": "https://www.newsmax.com/finance/us/ai-scams-fraud/2026/04/07/id/1252096/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9009cc2d-dcc1-4c28-ac4e-47381b7bb58b&SiteName=Newsmax",
+            "publishedAt": "2026-04-07T17:36:02Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Meta salaries disclosed: How much engineers, AI experts and product leaders earn - roles paying up to $650,000",
+            "url": "https://www.livemint.com/companies/news/meta-salaries-disclosed-how-much-engineers-ai-experts-and-product-leaders-earn-roles-paying-up-to-650000-11775580994371.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/04/07/1600x900/logo/Social-Media-Kids-Trial-15_1775581017279_1775581026881.jpg",
+            "publishedAt": "2026-04-07T17:19:02Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Anthropic Commits $200 Million To AI Venture With Private Equity Titans",
+            "url": "https://www.benzinga.com/markets/private-markets/26/04/51687101/anthropic-commits-200-million-to-ai-venture-with-private-equity-titans",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/04/07/October-11--2023--Brazil--In-This-Photo-.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-04-07T17:17:29Z"
+        },
         {
             "source": {
                 "id": "e553cce06d349ac1f7fbb7618a979256",
@@ -960,6 +1200,42 @@
             "url": "https://www.morningstar.com/stocks/how-nvidias-partnership-is-creating-momentum-marvell-technology-stock",
             "urlToImage": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/c-yAYiIa9hAHqyS3r8OBtP3tHoU=/2400x1350/cloudfront-us-east-1.images.arcpublishing.com/morningstar/SNXMACAN35AOREDEB3YCYI77P4.png",
             "publishedAt": "2026-04-07T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "Anthropic Signs Google, Broadcom Deal to Add Multi-Gigawatt TPU Capacity",
+            "url": "https://www.hpcwire.com/off-the-wire/anthropic-signs-google-broadcom-deal-to-add-multi-gigawatt-tpu-capacity/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2025/02/Anthropic-ai-logo-vector.png",
+            "publishedAt": "2026-04-07 18:52:10"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "The App Killer: How 'Agentic AI' Is Turning Your Smartphone Into A Digital Employee",
+            "url": "https://www.benzinga.com/markets/tech/26/04/51689027/the-app-killer-how-agentic-ai-is-turning-your-smartphone-into-a-digital-employee",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/04/07/AI-Agents-Boost-Efficiency.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-04-07 18:16:32"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google’s AI Overviews Have an Accuracy Problem — and Millions of Searches Are Affected",
+            "url": "https://www.webpronews.com/googles-ai-overviews-have-an-accuracy-problem-and-millions-of-searches-are-affected/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/04/article-14210-1775584947.jpeg",
+            "publishedAt": "2026-04-07 18:02:32"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The Software Apocalypse That Isn’t: Why Salesforce and Microsoft Are Betting Billions That AI Won’t Kill Their Cash Cows",
+            "url": "https://www.webpronews.com/the-software-apocalypse-that-isnt-why-salesforce-and-microsoft-are-betting-billions-that-ai-wont-kill-their-cash-cows/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/04/article-14190-1775581885.jpeg",
+            "publishedAt": "2026-04-07 17:11:30"
         },
         {
             "source": {
@@ -3174,294 +3450,6 @@
             "url": "https://phys.org/news/2026-04-climate-conditions-endangered-butternut-tree.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/new-study-pinpoints-cl.jpg",
             "publishedAt": "2026-04-04T15:00:01Z"
-        },
-        {
-            "source": {
-                "id": "93a4f054e09bde095cda5265e575a952",
-                "name": "Telegraph India",
-                "url": "https://www.telegraphindia.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence drives new era of Indian film production",
-            "url": "https://www.telegraphindia.com/india/artificial-intelligence-drives-new-era-of-indian-film-production/cid/2154635",
-            "urlToImage": "https://assets.telegraphindia.com/telegraph/2026/Apr/1775313494_ai-movies.jpg",
-            "publishedAt": "2026-04-04T14:59:59Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Creators push ‘human-made’ labels as AI content floods internet",
-            "url": "https://www.thenews.com.pk/latest/1397765-creators-push-human-made-labels-as-ai-content-floods-internet",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-04/1397765_072139_updates.jpg",
-            "publishedAt": "2026-04-04T14:09:38Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "AI Stocks Are Exiting an Era of Blind Faith and Entering a Year of Strict Numbers: What Investors Need to Watch This Earnings Season",
-            "url": "https://www.barchart.com/story/news/1144966/ai-stocks-are-exiting-an-era-of-blind-faith-and-entering-a-year-of-strict-numbers-what-investors-need-to-watch-this-earnings-season",
-            "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Computer%20memory%20by%20Zoomik%20via%20Shutterstock.jpg",
-            "publishedAt": "2026-04-04T14:00:02Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "AI with human traits may be safer, Anthropic study finds",
-            "url": "https://www.thenews.com.pk/latest/1397761-ai-with-human-traits-may-be-safer-anthropic-study-finds",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-04/1397761_065054_updates.jpg",
-            "publishedAt": "2026-04-04T13:45:05Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How AI Tools Have Helped Reduce the Burden of Teachers",
-            "url": "https://techbullion.com/how-ai-tools-have-helped-reduce-the-burden-of-teachers/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/04/ED8C1A51-A22D-4760-92BE-EF1C572398BD-1000x600.png",
-            "publishedAt": "2026-04-04T13:08:09Z"
-        },
-        {
-            "source": {
-                "id": "6d317e2944258f799763413d14b479f4",
-                "name": "AL.com",
-                "url": "https://www.al.com",
-                "country": "us"
-            },
-            "title": "Alabama HBCU 1 of 5 in the nation tapped for new Amazon program",
-            "url": "https://www.al.com/news/2026/04/alabama-hbcu-1-of-5-in-the-nation-tapped-for-new-amazon-program.html",
-            "urlToImage": "https://www.al.com/resizer/v2/7LTV6XSD4NDMBNNIRTXQAXEGVQ.jpg?auth=29ba6ce74b2beb137963efe154f70dfce95ebdcbf2734d046baa2dce228577ee&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-04-04T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
-            },
-            "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
-            "url": "https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/Mikko-Hypponen-Black-Hat-USA-2025.jpg?resize=1200,891",
-            "publishedAt": "2026-04-04T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "0c9364fff53c0e5a3450947d9a54e795",
-                "name": "Daily Mail Online",
-                "url": "https://www.dailymail.co.uk",
-                "country": "gb"
-            },
-            "title": "The Chinese innovation that could give Xi Jinping an 'enormous' edge in warfare that has the Pentagon scrambling",
-            "url": "https://www.dailymail.co.uk/news/article-15678041/ai-pentagon-china-xi-jinping.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2026/03/25/13/107406395-0-image-a-9_1774445527925.jpg",
-            "publishedAt": "2026-04-04T12:22:10Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Who are Delve founders Karun Kaushik and Selin Kocalar?",
-            "url": "https://economictimes.indiatimes.com/tech/startups/who-are-delve-founders-karun-kaushik-and-selin-kocalar/articleshow/130018693.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-859837,resizemode-75,msid-130018693/tech/startups/who-are-delve-founders-karun-kaushik-and-selin-kocalar.jpg",
-            "publishedAt": "2026-04-04T11:45:07Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "End Of Stealth? Chinese AI Firms Market Real-Time Intelligence On US Forces In Iran",
-            "url": "https://www.freepressjournal.in/world/jilin-1-constellation-china-ai-intelligence-us-osnit-operation-epic-fury-iran",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-03-07/ya8wycmn/Untitled-design-2026-03-07T124947.875.jpg",
-            "publishedAt": "2026-04-04T11:44:09Z"
-        },
-        {
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            },
-            "title": "Elon Musk Highlights Grok AI's Ability to Generate Better Prompts for Images and Videos in 2026 Viral X Post",
-            "url": "https://www.ibtimes.com/elon-musk-highlights-grok-ais-ability-generate-better-prompts-images-videos-2026-viral-x-post-3800870",
-            "urlToImage": "https://d.ibtimes.com/en/full/4647062/elon-musk-highlights-grok-ais-ability-generate-better-prompts.jpg",
-            "publishedAt": "2026-04-04T11:31:50Z"
-        },
-        {
-            "source": {
-                "id": "b98becfda029f124cf65538c8af36d20",
-                "name": "BGR",
-                "url": "https://www.bgr.com",
-                "country": "us"
-            },
-            "title": "This New AI Bill Would Do More Than Just Ban Surveilling Americans",
-            "url": "https://www.bgr.com/2134999/ai-bill-bans-mass-surveillance-kill-decisions/",
-            "urlToImage": "https://www.bgr.com/img/gallery/this-new-ai-bill-would-do-more-than-just-ban-surveilling-americans/l-intro-1774420338.jpg",
-            "publishedAt": "2026-04-04T10:47:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Harnessing Gandhi's Legacy: Innovate with Heart and Purpose",
-            "url": "https://www.devdiscourse.com/article/education/3862275-harnessing-gandhis-legacy-innovate-with-heart-and-purpose",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_10_2025_15_24_57_9922707.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-04-04T10:36:06Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Can AI be your therapist? Here’s what a psychologist wants you to know: ‘We need to stop…’",
-            "url": "https://www.hindustantimes.com/lifestyle/health/can-ai-be-your-therapist-here-s-what-a-psychologist-wants-you-to-know-101775297350870.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/04/04/550x309/photo-1573497491208-6b1acb260507_1775297567581_1775297581671.jpg",
-            "publishedAt": "2026-04-04T10:23:04Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "China develops AI VF tools to raise birth rates",
-            "url": "https://www.thenews.com.pk/latest/1397740-bgi-genomics-integrates-ai-with-embryo-screening-to-improve-ivf-outcomes",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-04/1397740_024818_updates.jpg",
-            "publishedAt": "2026-04-04T09:42:07Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Krazimo Helps Businesses Get the Most Out of Artificial Intelligence",
-            "url": "https://techbullion.com/krazimo-helps-businesses-get-the-most-out-of-artificial-intelligence/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/04/IMG_4805-1000x600.jpeg",
-            "publishedAt": "2026-04-04T07:33:15Z"
-        },
-        {
-            "source": {
-                "id": "e743cde6ee986921721e83d3957862dc",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com",
-                "country": "in"
-            },
-            "title": "Microsoft new AI models: Create transcriptions, voice, and images with MAI-Transcribe 1, MAI-Voice 1, MAI-Image 2",
-            "url": "https://zeenews.india.com/technology/microsoft-new-ai-models-create-transcriptions-voice-and-images-with-mai-transcribe-1-mai-voice-1-mai-image-2-3033544.html",
-            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/04/04/1926989-microsoft.jpg",
-            "publishedAt": "2026-04-04T06:10:24Z"
-        },
-        {
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            },
-            "title": "NordVPN had a busy start to 2026 - here's a recap of all the releases you may have missed",
-            "url": "https://www.techradar.com/vpn/vpn-services/nordvpn-had-a-busy-start-to-2026-heres-a-recap-of-all-the-releases-you-may-have-missed",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zmJ2RgmxhzQ8HMH2mDJdXi-1280-80.jpg",
-            "publishedAt": "2026-04-04T06:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Bridging the STEM Gap on Australian Corporate Boards",
-            "url": "https://www.devdiscourse.com/article/business/3862064-bridging-the-stem-gap-on-australian-corporate-boards",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/02_09_2025_13_13_24_3403163.png?width=920&format=jpeg",
-            "publishedAt": "2026-04-04T05:46:23Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Envision Institute: Celebrating 27 Years of Technical Excellence in Education",
-            "url": "https://www.devdiscourse.com/article/education/3862053-envision-institute-celebrating-27-years-of-technical-excellence-in-education",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_19_01_7721992.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-04-04T05:36:29Z"
-        },
-        {
-            "source": {
-                "id": "e743cde6ee986921721e83d3957862dc",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com",
-                "country": "in"
-            },
-            "title": "Google ‘Gemma 4’ AI model: This new AI tool can build AI agents for you and handle text, image, audio tasks",
-            "url": "https://zeenews.india.com/technology/google-gemma-4-ai-model-this-new-ai-tool-can-build-ai-agents-for-you-and-handle-text-image-audio-tasks-3033524.html",
-            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/04/04/1926969-google-gemma-4.jpg",
-            "publishedAt": "2026-04-04T05:01:21Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Microsoft to invest $10 billion for Japan AI data centres",
-            "url": "https://www.thehindu.com/sci-tech/technology/microsoft-to-invest-10-billion-for-japan-ai-data-centres/article70822242.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/licavg/article70822246.ece/alternates/LANDSCAPE_1200/2026-03-26T181948Z_2137825233_RC2BODAM5OKQ_RTRMADP_3_MICROSOFT-WORKFORCE.JPG",
-            "publishedAt": "2026-04-04T04:56:34Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "1995 vs 2026: Jeff Bezos and Elon Musk react after Amazon's first-ever customer's bill goes viral. What was the first order on Amazon?",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/1995-vs-2026-jeff-bezos-and-elon-musk-react-after-amazons-first-ever-customers-bill-goes-viral-what-was-the-first-order-on-amazon/articleshow/130012704.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-130012855,width-1200,height-630,imgsize-35384,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2026-04-04T04:19:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "TESDA launches creative co-working hub for women, aspiring creatives",
-            "url": "https://www.manilatimes.net/2026/04/04/news/tesda-launches-creative-co-working-hub-for-women-aspiring-creatives/2314205",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/04/1000985.jpg",
-            "publishedAt": "2026-04-04T03:00:00Z"
         }
     ]
 }
