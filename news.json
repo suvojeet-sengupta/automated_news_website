@@ -1,6 +1,150 @@
 {
-    "lastUpdatedAt": "2026-04-09T04:30:56.820552Z",
+    "lastUpdatedAt": "2026-04-09T06:18:53.290574Z",
     "articles": [
+        {
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            },
+            "title": "Anthropic Says Its New AI Model Is So Good at Finding Security Risks, You Can't Use It",
+            "url": "https://www.cnet.com/tech/services-and-software/anthropic-project-glasswing-claude-mythos-preview/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/00184e8cea90ff5f8032feb48b1c4d009cb545f7/hub/2026/04/08/804b499f-8447-48cf-85df-0ad802358b53/project-glasswing.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-04-08T18:17:12Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Meta launches Muse Spark to reboot its artificial intelligence strategy",
+            "url": "https://www.marketscreener.com/news/meta-launches-muse-spark-to-reboot-its-artificial-intelligence-strategy-ce7e50dbd88ef424",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-11-26T131142Z_1_LYNXMPELAP0OM_RTROPTP_4_META-FINE-SPAIN.JPG",
+            "publishedAt": "2026-04-08T17:36:31Z"
+        },
+        {
+            "source": {
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            },
+            "title": "What Cybersecurity Pros Are Saying About Anthropic's Claude Mythos",
+            "url": "https://www.businessinsider.com/claude-mythos-preview-anthropic-cybersecurity-reaction-glasswing-2026-4",
+            "urlToImage": "https://i.insider.com/69d676f01a512d0a63e738c0?width=1200&format=jpeg",
+            "publishedAt": "2026-04-08T17:36:19Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Appeals court rebuffs Anthropic in latest round of its AI battle with the Trump administration",
+            "url": "https://www.breitbart.com/news/appeals-court-rebuffs-anthropic-in-latest-round-of-its-ai-battle-with-the-trump-administration/",
+            "urlToImage": "https://media.breitbart.com/media/2026/04/wi/ap/pentagon-ai-anthropic-6155-pentagon-ai-anthropic-anthropic-website-company-logo-displayed-640x335.jpg",
+            "publishedAt": "2026-04-08T17:33:18Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Latest Anthropic AI model finds cracks in software defenses",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/latest-anthropic-ai-model-finds-cracks-in-software-defenses/articleshow/130120454.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-17066,resizemode-75,msid-130120454/tech/artificial-intelligence/latest-anthropic-ai-model-finds-cracks-in-software-defenses.jpg",
+            "publishedAt": "2026-04-08T17:28:42Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "Researchers Find AI Chatbots Influence Cognitive Processes",
+            "url": "https://www.naturalnews.com/2026-04-08-researchers-find-ai-chatbots-influence-cognitive-processes.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/ai-chatbots-cognitive-processes-human-reasoning-836-original.jpg",
+            "publishedAt": "2026-04-08T17:20:31Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Meta debuts first AI model from new Superintelligence group",
+            "url": "https://www.mercurynews.com/2026/04/08/meta-debuts-first-ai-model-from-new-superintelligence-group/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2021/10/SJM-L-META-1029-6.jpg?w=1024&h=683",
+            "publishedAt": "2026-04-08T17:08:28Z"
+        },
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "Pitt selected to follow Artemis II’s Orion spacecraft journey",
+            "url": "https://triblive.com/news/education-classroom/pitt-selected-to-follow-artemis-iis-orion-spacecraft-journey/",
+            "urlToImage": "https://assets-varnish.triblive.com/2026/04/9464003_web1_ptr-PittArtemis.jpg",
+            "publishedAt": "2026-04-08T17:00:41Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Goldman Embraces ‘Picks and Shovels’ of AI With More Capex Ahead",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-08/goldman-embraces-picks-and-shovels-of-ai-with-more-capex-ahead",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNm_jqLeJets/v0/1200x800.jpg",
+            "publishedAt": "2026-04-08T16:55:09Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Meta's Muse Spark: A New AI Era Unveiled",
+            "url": "https://www.devdiscourse.com/article/technology/3867078-metas-muse-spark-a-new-ai-era-unveiled",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=920&format=jpeg",
+            "publishedAt": "2026-04-08T16:52:07Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Meta Platforms Rises on Release of New AI Model",
+            "url": "https://www.marketscreener.com/news/meta-platforms-rises-on-release-of-new-ai-model-ce7e50dbd88cf62c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-04-08T16:48:19Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Meta Launches Its First Major AI Model Since Investing $14B in Scale AI",
+            "url": "https://markets.businessinsider.com/news/stocks/meta-launches-its-first-major-ai-model-since-investing-14b-in-scale-ai-1036005228",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/04/image-661.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-04-08T16:27:57Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -876,6 +1020,33 @@
             "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349304/new-research-institute-ramp-efforts-hong-kong-pursues-ai-all",
             "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/07/3247fc52-a0e0-4b5d-9b39-4131adec75b2_04dc7787.jpg?itok=SS0ULhW9&v=1775576759",
             "publishedAt": "2026-04-08T00:30:09Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Google’s Flan AI Makes Language Models Smarter Without More Data",
+            "url": "https://hackernoon.com/googles-flan-ai-makes-language-models-smarter-without-more-data",
+            "urlToImage": "https://hackernoon.imgix.net/images/googles-flan-ai-makes-language-models-smarter-without-more-data-kr4r6zsywe7w311wnlguful5.png",
+            "publishedAt": "2026-04-08 17:50:42"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Daily 'AI for Work' Pulse: 8th of April",
+            "url": "https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-8th-of-april/",
+            "urlToImage": "https://cdn.completeaitraining.com/newsletters/newsletter_2026-04-08_ghostwebsite.png",
+            "publishedAt": "2026-04-08 17:50:12"
+        },
+        {
+            "source": {
+                "name": "morningstar_com"
+            },
+            "title": "The Best AI Stocks to Buy Now",
+            "url": "https://www.morningstar.com/stocks/best-ai-stocks-buy-now",
+            "urlToImage": "https://media.morningstar.com/resizer/v2/MJ3FSXZXVFDYPHHGXT7LMKSZD4.png?auth=f0627bb4be6cf5be15df15e2979d98bf47c7c1869ed355e423d6f5495eb2cfc1&smart=true&height=500",
+            "publishedAt": "2026-04-08 16:35:05"
         },
         {
             "source": {
@@ -3306,186 +3477,6 @@
             "url": "https://techbullion.com/how-automation-is-changing-the-way-cyber-risks-are-managed/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2026/04/Screenshot-2026-04-06-195542.png",
             "publishedAt": "2026-04-06T14:57:24Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI, Sustainable Food Production in Focus at DY Patil Conference",
-            "url": "https://timesofindia.indiatimes.com/education/news/ai-sustainable-food-production-in-focus-at-dy-patil-conference/articleshow/130063949.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-130063935,width-1280,height-720,imgsize-47716,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-06T14:32:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Stagwell's HarrisQuest Launches AI Analyst for Brand Tracking Platform",
-            "url": "https://www.marketscreener.com/news/stagwell-s-harrisquest-launches-ai-analyst-for-brand-tracking-platform-ce7e51d2d180f021",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-04-06T13:58:28Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Harvard issues cyber alert as hackers impersonate IT staff to target users, steal login credentials",
-            "url": "https://timesofindia.indiatimes.com/education/news/harvard-issues-cyber-alert-as-hackers-impersonate-it-staff-to-target-users-steal-login-credentials/articleshow/130053422.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-130053601,width-1280,height-720,imgsize-317382,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-06T13:30:00Z"
-        },
-        {
-            "source": {
-                "id": "ae2702c2a2dec11fe1079f1a797d178a",
-                "name": "Manchester Evening News",
-                "url": "https://www.manchestereveningnews.co.uk",
-                "country": "gb"
-            },
-            "title": "How to talk to your kids about artificial intelligence, according to the NSPCC",
-            "url": "https://www.manchestereveningnews.co.uk/news/parenting/nspcc-issues-advice-artificial-intelligence-33722364",
-            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/article33667759.ece/ALTERNATES/s1200d/2_GettyImages-1349480283.jpg",
-            "publishedAt": "2026-04-06T13:22:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Amity, Ashoka join IITs in shaping the Cognitive Science revolution, driving Artificial Intelligence",
-            "url": "https://www.indiatoday.in/impact-feature/story/amity-ashoka-join-iits-in-shaping-the-cognitive-science-revolution-driving-artificial-intelligence-2892151-2026-04-06",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/img-061638598-16x9_0.jpg?VersionId=LtYBNW9C4AUEiTdfWwiBaKvXem6SyYfZ",
-            "publishedAt": "2026-04-06T12:17:02Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "AI has a big problem when it comes to financial advice: MIT professor",
-            "url": "https://www.cnbc.com/2026/04/06/ai-has-a-big-problem-when-it-comes-to-financial-advice-mit-professor.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108285533-1774976345801-gettyimages-2004891058-2388.jpeg?v=1774976364&w=1920&h=1080",
-            "publishedAt": "2026-04-06T12:15:01Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "proof” kids: Why creativity and curiosity matter more than ever",
-            "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/raising-robot-proof-kids-why-creativity-and-curiosity-matter-more-than-ever/articleshow/130057342.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-130057354,width-1280,height-720,imgsize-34862,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-06T11:31:00Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "Court bans AI tools like ChatGPT, Gemini for judges' work, warns of strict action",
-            "url": "https://www.cnbctv18.com/legal/court-bans-ai-tools-like-chatgpt-gemini-for-judges-work-warns-of-strict-action-ws-l-19881340.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/03/1772685607_8mQrDMhugb-artificialintelligenceaitechnologyMar05jpg-DYJfXkvF3a.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2026-04-06T11:16:41Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "ever Q1 sales at USD 66.62 billion on strong AI demand",
-            "url": "https://www.tribuneindia.com/news/business/foxconn-reports-highest-ever-q1-sales-at-usd-66-62-billion-on-strong-ai-demand/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg2ZjIyOTQwLTMxYTgtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-04-06T11:05:26Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "What Is Storytelling In Data Science And How To Build A Career In It?",
-            "url": "https://www.news18.com/education-career/what-is-storytelling-in-data-science-and-how-to-build-a-career-in-it-10017024.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/03/image-2026-03-0f0198f0ef16baf4c246b7f5200cd624-1200x675.jpg",
-            "publishedAt": "2026-04-06T10:16:06Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Donald Trump may have just told America's Cyber Security Agency: You are not doing your job right and so I am going to …",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/donald-trump-may-have-just-told-americas-cyber-security-agency-you-are-not-doing-your-job-right-and-so-i-am-going-to-/articleshow/130057703.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-130057692,width-1280,height-720,imgsize-39672,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-06T10:12:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Rapid Roof Help Launches AI-Powered Instant Roofing Estimate and Smart Contractor Matching Platform",
-            "url": "https://techbullion.com/rapid-roof-help-launches-ai-powered-instant-roofing-estimate-and-smart-contractor-matching-platform/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/04/rapidroofhelpfeaturedtechbullion-1000x600.png",
-            "publishedAt": "2026-04-06T10:07:34Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Neuro-symbolic AI breakthrough cuts energy consumption by 100x",
-            "url": "https://www.thenews.com.pk/latest/1397941-neuro-symbolic-ai-breakthrough-cuts-energy-consumption-by-100x",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-06/1397941_030348_updates.jpg",
-            "publishedAt": "2026-04-06T10:04:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Training programme on ‘Artificial Intelligence in Classroom’ organised",
-            "url": "https://www.tribuneindia.com/news/schools/training-programme-on-artificial-intelligence-in-classroom-organised/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNkOWE3NjIwLTMxOWItMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-04-06T09:34:23Z"
-        },
-        {
-            "source": {
-                "id": "f4967fce32bfc735983f0f39dcdba127",
-                "name": "pv magazine",
-                "url": "https://www.pv-magazine.com",
-                "country": "de"
-            },
-            "title": "‘Photovoltaics are, first and foremost, about energy security’",
-            "url": "https://www.pv-magazine.com/2026/04/06/photovoltaics-are-first-and-foremost-about-energy-security/",
-            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2026/04/Screenshot-2026-04-04-121503.png",
-            "publishedAt": "2026-04-06T09:30:26Z"
         }
     ]
 }
