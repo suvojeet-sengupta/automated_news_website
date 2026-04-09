@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-04-09T21:41:54.327515Z",
+    "lastUpdatedAt": "2026-04-09T22:36:42.681285Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Amazon cloud unit's AI revenue run rate exceeds $15 billion, CEO says",
+            "url": "https://www.reuters.com/business/retail-consumer/amazon-says-annual-revenue-run-rate-chips-business-now-over-20-billion-2026-04-09/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/A462RRY2ZRO4XNVQVYZFLDB27M.jpg?auth=f5ad3336be9994fad82fc3f0848b5671faf8f7b2f56f1c667e8a3367f4aa3cce&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-09T10:20:08Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "What is the Claude Mythos AI model by Anthropic and why is this strongest-ever AI model sparking global cybersecurity fears and massive concern worldwide?",
+            "url": "https://economictimes.indiatimes.com/news/international/us/what-is-the-claude-mythos-ai-model-by-anthropic-and-why-is-this-strongest-ever-ai-model-sparking-global-cybersecurity-fears-and-massive-concern-worldwide/articleshow/130139294.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-130139576,width-1200,height-630,imgsize-1416468,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-04-09T10:18:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Microsoft-Backed OpenAI Plans Limited Release of Upcoming Model",
+            "url": "https://www.marketscreener.com/news/microsoft-backed-openai-plans-limited-release-of-upcoming-model-ce7e50dbde8ff427",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-04-09T10:14:13Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Reskilling, education reforms needed to harness AI potential: K V Kamath",
+            "url": "https://www.dailyexcelsior.com/reskilling-education-reforms-needed-to-harness-ai-potential-k-v-kamath/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/Kalmal.jpg",
+            "publishedAt": "2026-04-09T10:11:59Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Pentagon's ouster of Anthropic opens doors for small AI rivals",
+            "url": "https://www.reuters.com/legal/government/pentagons-ouster-anthropic-opens-doors-small-ai-rivals-2026-04-09/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/OLER7IQKAJPBVFOCTGGIM6YNHU.jpg?auth=ee8e0d8023ebfc40b69132c7e6762a3e18a513d0064c801ea262872f9e32b7d9&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-09T10:03:34Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "What Is Project Glasswing and How Will Anthropic’s AI Change Cybersecurity?",
+            "url": "https://www.outlookbusiness.com/ampstories/deeptech/what-is-project-glasswing-and-how-will-anthropics-ai-change-cybersecurity",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-04-09/nlp13y3s/sas.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-04-09T09:52:08Z"
+        },
         {
             "source": {
                 "id": "60c457b35b486691319f105c3a760060",
@@ -612,6 +684,15 @@
             "url": "https://www.newsmax.com/finance/streettalk/pentagon-anthropic-ai/2026/04/08/id/1252298/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=35b66c26-04a1-4fd7-a5e4-fe0b40a87496&SiteName=Newsmax",
             "publishedAt": "2026-04-09T00:04:09Z"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Physical AI device shipments to reach 145 million units by 2035",
+            "url": "https://www.computerweekly.com/news/366641229/Physical-AI-device-shipments-to-reach-145-million-units-by-2035",
+            "urlToImage": "https://cdn.ttgtmedia.com/visuals/German/article/industry-factory-robots-adobe.jpg",
+            "publishedAt": "2026-04-09 10:27:00"
         },
         {
             "source": {
@@ -3417,90 +3498,6 @@
             "url": "https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-artificial-intelligence-ai",
             "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2033x1144+0+112/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2Fe1%2F2f5e2e244a11a2cb7b7d74dd3b95%2Fgettyimages-1609437924.jpg",
             "publishedAt": "2026-04-07T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Anthropic partners with Broadcom and Google for AI chips",
-            "url": "https://www.thehindu.com/sci-tech/technology/anthropic-partners-with-broadcom-and-google-for-ai-chips/article70833501.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/tpicsb/article70833510.ece/alternates/LANDSCAPE_1200/Nearby1--13-_GSGSDFP0TK9.3.jpg.jpg",
-            "publishedAt": "2026-04-07T08:35:50Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Samsung posts record Q1 earnings on AI memory boom, profit jumps 755%",
-            "url": "https://www.tribuneindia.com/news/business/samsung-posts-record-q1-earnings-on-ai-memory-boom-profit-jumps-755/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWMwYTMzZWUwLTMyNWMtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-            "publishedAt": "2026-04-07T08:35:32Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Maharashtra Charts Digital Future with New IT and AI Department",
-            "url": "https://www.devdiscourse.com/article/technology/3864865-maharashtra-charts-digital-future-with-new-it-and-ai-department",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/16_09_2025_14_50_33_6024725.png?width=920&format=jpeg",
-            "publishedAt": "2026-04-07T08:31:32Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Huawei Cloud Accelerates AI Adoption Across Thailand's Public Sector, Showcasing Real-World Impact in Government Services",
-            "url": "https://www.manilatimes.net/2026/04/07/tmt-newswire/pr-newswire/huawei-cloud-accelerates-ai-adoption-across-thailands-public-sector-showcasing-real-world-impact-in-government-services/2315188",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/07/1003174.jpg",
-            "publishedAt": "2026-04-07T08:26:21Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Huawei Cloud official launch MaaS in Thailand and introduce Full-Stack AI Capabilities to Drive Thailand's Intelligent Transformation",
-            "url": "https://www.manilatimes.net/2026/04/07/tmt-newswire/pr-newswire/huawei-cloud-official-launch-maas-in-thailand-and-introduce-full-stack-ai-capabilities-to-drive-thailands-intelligent-transformation/2315172",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/07/1003158.jpg",
-            "publishedAt": "2026-04-07T08:06:15Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Microsoft-Backed OpenAI, Google, Anthropic Reportedly Team Up to Block Chinese AI Data Theft",
-            "url": "https://www.marketscreener.com/news/microsoft-backed-openai-google-anthropic-reportedly-team-up-to-block-chinese-ai-data-theft-ce7e51d3da80ff23",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-04-07T07:56:34Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Want to learn AI and quantum? IIT Delhi opens certification courses for graduates",
-            "url": "https://www.indiatoday.in/education-today/news/story/iit-delhi-ai-leadership-and-quantum-courses-2026-fees-duration-eligibility-and-dates-2892633-2026-04-07",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/iit-delhi-191518765-16x9.jpg?VersionId=WFAglOWIDcsNUWbmCyf7uD.7hacuAHvV",
-            "publishedAt": "2026-04-07T07:51:29Z"
         }
     ]
 }
