@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-04-09T13:17:25.696403Z",
+    "lastUpdatedAt": "2026-04-09T15:18:06.517596Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Analyst firm BNP Paribas gives 'Outperform' rating to Amazon stock; tells investors don't go by concerns on ...",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/analyst-firm-bnp-paribas-gives-outperform-rating-to-amazon-stock-tells-investors-dont-go-by-concerns-on-/articleshow/130128138.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130128137,width-1280,height-720,imgsize-27206,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-09T03:01:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "AI’s Doomsday Hype Highlights the Dark Art of Marketing",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-04-09/ai-s-doomsday-hype-highlights-the-dark-arts-of-marketing",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5rLk6rdmEYE/v1/1200x800.jpg",
+            "publishedAt": "2026-04-09T03:00:04Z"
+        },
+        {
+            "source": {
+                "id": "aaa6f2928e430ec2ed450ed89cc822f5",
+                "name": "Salt Lake City Deseret News",
+                "url": "https://www.deseret.com",
+                "country": "us"
+            },
+            "title": "How Utah AI sandbox could break deadlock on Trump's AI framework",
+            "url": "https://www.deseret.com/politics/2026/04/08/trump-artificial-intelligence-federal-framework-stalls-in-congress-as-utah-lawmakers-look-for-bipartisan-solution-modeled-on-utah-ai-policy-lab/",
+            "urlToImage": "https://www.deseret.com/resizer/v2/GPNVBW6JXNEVTL3Z6TUMFRQOCQ.JPG?focal=1084%2C732&auth=3aa4f1c0e5f31e805088bf82bea44e857a3643ff193544ce0f323621d3ee9fa8&width=630&height=331",
+            "publishedAt": "2026-04-09T03:00:01Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Appeals court rebuffs Anthropic in latest round of its AI battle with Trump administration",
+            "url": "https://www.firstpost.com/tech/appeals-court-rebuffs-anthropic-in-latest-round-of-its-ai-battle-with-trump-administration-13998235.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/04/Anthropic-2026-04-e104edeb7e1e5b31b7f94a1178500759-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-04-09T02:43:33Z"
+        },
+        {
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            },
+            "title": "Appeals court rebuffs Anthropic in latest round of its AI battle with the Trump administration",
+            "url": "https://www.ajc.com/news/2026/04/appeals-court-rebuffs-anthropic-in-latest-round-of-its-ai-battle-with-the-trump-administration/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/GPV6O2PGMZCZ3D6KBETH4MTPUQ.jpg?auth=905ac03be0b861d07f8a95d8afe53f34dc92c7034c48f9da1f9c5e401bfe9b2f&width=1200&height=630&smart=true",
+            "publishedAt": "2026-04-09T02:11:44Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Lowe CEO Marvin Ellison has a 'reality check' for Silicon Valley spending billions on AI; says: AI can write your emails, but it cannot ...",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/lowe-ceo-marvin-ellison-has-a-reality-check-for-silicon-valley-spending-billions-on-ai-says-ai-can-write-your-emails-but-it-cannot-/articleshow/130127131.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130127130,width-1280,height-720,imgsize-17552,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-09T01:35:00Z"
+        },
         {
             "source": {
                 "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
@@ -132,6 +204,96 @@
             "url": "https://www.newsmax.com/finance/streettalk/pentagon-anthropic-ai/2026/04/08/id/1252298/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=35b66c26-04a1-4fd7-a5e4-fe0b40a87496&SiteName=Newsmax",
             "publishedAt": "2026-04-09T00:04:09Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Waiting for DeepSeek: new model to test China's AI ambitions",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/waiting-for-deepseek-new-model-to-test-chinas-ai-ambitions/articleshow/130128064.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-32382,resizemode-75,msid-130128064/tech/artificial-intelligence/waiting-for-deepseek-new-model-to-test-chinas-ai-ambitions.jpg",
+            "publishedAt": "2026-04-09 02:56:34"
+        },
+        {
+            "source": {
+                "name": "hendersondispatch"
+            },
+            "title": "Waiting for DeepSeek: new model to test China's AI ambitions",
+            "url": "https://www.hendersondispatch.com/news/national/waiting-for-deepseek-new-model-to-test-chinas-ai-ambitions/article_f5eae51b-01e5-5016-a22c-8e2bb07efb60.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hendersondispatch.com/content/tncms/assets/v3/editorial/f/c1/fc175106-f019-5b2c-9666-6328f50f8f7f/69d71a0e699e1.image.jpg?crop=338%2C338%2C87%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2026-04-09 02:36:14"
+        },
+        {
+            "source": {
+                "name": "ttownmedia"
+            },
+            "title": "Waiting for DeepSeek: new model to test China's AI ambitions",
+            "url": "https://www.ttownmedia.com/news/national/waiting-for-deepseek-new-model-to-test-chinas-ai-ambitions/article_ef681834-442b-5f65-aa74-d959c31c431c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/ttownmedia.com/content/tncms/assets/v3/editorial/c/f7/cf792ec4-d31a-5b2f-bd48-8cb7a0f00e05/69d719e580835.image.jpg?crop=338%2C338%2C87%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2026-04-09 02:36:14"
+        },
+        {
+            "source": {
+                "name": "mtdemocrat"
+            },
+            "title": "Waiting for DeepSeek: new model to test China's AI ambitions",
+            "url": "https://www.mtdemocrat.com/news/national/waiting-for-deepseek-new-model-to-test-chinas-ai-ambitions/article_f1b80b7e-5580-59f7-ac1b-0cc8208df19c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtdemocrat.com/content/tncms/assets/v3/editorial/2/c8/2c8957db-10fe-5ab6-a829-174354b02d58/69d719fdee6dd.image.jpg?crop=338%2C338%2C87%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2026-04-09 02:36:14"
+        },
+        {
+            "source": {
+                "name": "dailygazette"
+            },
+            "title": "Waiting for DeepSeek: new model to test China's AI ambitions",
+            "url": "https://www.dailygazette.com/news/national/waiting-for-deepseek-new-model-to-test-chinas-ai-ambitions/article_c34b049d-5da7-56ae-8ffb-7a223535413f.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/c/45/c458dbd3-9e00-59c2-918a-f74876bc045c/69d71a0822888.image.jpg?crop=338%2C338%2C87%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2026-04-09 02:36:14"
+        },
+        {
+            "source": {
+                "name": "postguam"
+            },
+            "title": "Waiting for DeepSeek: new model to test China's AI ambitions",
+            "url": "https://www.postguam.com/news/national/waiting-for-deepseek-new-model-to-test-chinas-ai-ambitions/article_dc6c8154-ea43-5965-8ebd-9c23c3c802de.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/3/dd/3dd21c10-3410-5c3c-bf51-d28969102202/69d719cdc93a9.image.jpg?crop=338%2C338%2C87%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2026-04-09 02:36:14"
+        },
+        {
+            "source": {
+                "name": "rrdailyherald"
+            },
+            "title": "Waiting for DeepSeek: new model to test China's AI ambitions",
+            "url": "https://www.rrdailyherald.com/news/national/waiting-for-deepseek-new-model-to-test-chinas-ai-ambitions/article_8643b8f9-7974-53c2-9eb0-9a7e86e970f2.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rrdailyherald.com/content/tncms/assets/v3/editorial/c/28/c28a4b37-1899-574c-8ef6-cc04a91acd08/69d719d034693.image.jpg?crop=338%2C338%2C87%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2026-04-09 02:36:14"
+        },
+        {
+            "source": {
+                "name": "columbiagorgenews"
+            },
+            "title": "Waiting for DeepSeek: new model to test China's AI ambitions",
+            "url": "https://www.columbiagorgenews.com/news/national/waiting-for-deepseek-new-model-to-test-chinas-ai-ambitions/article_c3cd8bfb-16db-5b48-8881-aea653efb480.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/columbiagorgenews.com/content/tncms/assets/v3/editorial/6/4d/64df5cbb-a4d5-5ff0-81b1-a18d9d5d08a8/69d71a26ccba9.image.jpg?crop=338%2C338%2C87%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2026-04-09 02:36:14"
+        },
+        {
+            "source": {
+                "name": "emporiagazette"
+            },
+            "title": "Waiting for DeepSeek: new model to test China's AI ambitions",
+            "url": "https://www.emporiagazette.com/news/national/article_dc1b2ac3-0299-5f4b-aab1-fd52a14996da.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/assets/v3/editorial/f/69/f699b92b-40c3-53fd-89af-7e46138ca689/69d71a4a5f06b.image.jpg?crop=338%2C338%2C87%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2026-04-09 02:36:14"
+        },
+        {
+            "source": {
+                "name": "messenger_inquirer"
+            },
+            "title": "Waiting for DeepSeek: new model to test China's AI ambitions",
+            "url": "https://www.messenger-inquirer.com/news/national/waiting-for-deepseek-new-model-to-test-chinas-ai-ambitions/article_e3f855a8-00ea-5a0f-b403-db6eb235c8df.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/2/df/2df546da-559b-5730-80f5-f81e35288e60/69d71a5e71ba1.image.jpg?crop=338%2C338%2C87%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2026-04-09 02:36:14"
         },
         {
             "source": {
@@ -3315,156 +3477,6 @@
             "url": "https://www.analyticsinsight.net/artificial-intelligence/how-india-can-be-a-global-leader-in-innovation-and-digital-economy",
             "urlToImage": "https://media.assettype.com/analyticsinsight/2026-04-07/dfop2ok2/How-India-Can-Be-a-Global-Leader-in-Innovation-and-Digital-Economy.jpg",
             "publishedAt": "2026-04-07 15:51:01"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "LinkedIn reportedly scanning thousands of browser extensions without user permission — here's what LinkedIn says",
-            "url": "https://www.tomsguide.com/computing/online-security/linkedin-reportedly-extracting-the-customer-lists-of-thousands-of-software-companies-from-their-users-browsers-and-its-not-asking-for-permission",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/92oyoMCPovdYvgSqsuSCyP-1280-80.jpg",
-            "publishedAt": "2026-04-07 15:01:06"
-        },
-        {
-            "source": {
-                "name": "windowscentral"
-            },
-            "title": "Is this the perfect Windows app to emulate? Microsoft needs to take notes.",
-            "url": "https://www.windowscentral.com/software-apps/is-this-the-perfect-windows-app-to-emulate-microsoft-needs-to-take-notes",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jZKUscyb7xtz24ebP95jAG-1280-80.jpg",
-            "publishedAt": "2026-04-07 14:40:08"
-        },
-        {
-            "source": {
-                "name": "gamedeveloper"
-            },
-            "title": "Sony to acquire machine learning company Cinemersive Labs",
-            "url": "https://www.gamedeveloper.com/business/sony-to-acquire-machine-learning-company-cinemersive-labs",
-            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8103e003749737e0/69d51764e509d8598680fccd/sony-interactive-entertainment-logo-scaled.jpg?width=1280&auto=webp&quality=80&disable=upscale",
-            "publishedAt": "2026-04-07 14:38:11"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "Intel Promotes Santhosh Viswanathan to Lead Asia Pacific and Japan Operations",
-            "url": "https://www.thehansindia.com/technology/tech-news/intel-promotes-santhosh-viswanathan-to-lead-asia-pacific-and-japan-operations-1063533",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2026/04/07/1643062-santhosh-viswanathan.webp",
-            "publishedAt": "2026-04-07 13:34:26"
-        },
-        {
-            "source": {
-                "name": "gamesindustry"
-            },
-            "title": "Sony to acquire AI and computer vision company Cinemersive Labs",
-            "url": "https://www.gamesindustry.biz/sony-to-acquire-ai-and-computer-vision-company-cinemersive-labs",
-            "urlToImage": "https://assetsio.gnwcdn.com/SIE.blog_SIE-Banner_Grey_5R2ACse.webp?width=690&quality=85&format=jpg&auto=webp",
-            "publishedAt": "2026-04-07 13:22:38"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Take the next step in AI skills building with new CompTIA AI Agent Essentials",
-            "url": "https://www.prnewswire.com/news-releases/take-the-next-step-in-ai-skills-building-with-new-comptia-ai-agent-essentials-302735512.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2950537/CompTIA_logo_2_Logo.jpg?p=original",
-            "publishedAt": "2026-04-07 13:05:00"
-        },
-        {
-            "source": {
-                "name": "itdigest"
-            },
-            "title": "Information Security in 2026: How Enterprises Protect Data, Systems and Digital Trust in an Evolving Threat Landscape",
-            "url": "https://itdigest.com/staff-writer/information-security-in-2026-how-enterprises-protect-data-systems-and-digital-trust-in-an-evolving-threat-landscape/",
-            "urlToImage": "https://itdigest.com/wp-content/uploads/2026/04/Information-Security-in-2026.webp",
-            "publishedAt": "2026-04-07 12:51:46"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "Anthropic Turns to Google Chips, Signaling Shift in AI Hardware Race",
-            "url": "https://www.thehansindia.com/technology/tech-news/anthropic-turns-to-google-chips-signaling-shift-in-ai-hardware-race-1063492",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2026/04/07/1643028-anthropic.webp",
-            "publishedAt": "2026-04-07 12:03:43"
-        },
-        {
-            "source": {
-                "name": "ciol"
-            },
-            "title": "West Asia Data Centres Under Threat As Iran Escalates Warnings",
-            "url": "https://www.ciol.com/news/iran-threatens-ai-data-centre-stargate-middle-east-11474486",
-            "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/ciol/media/media_files/2026/04/07/07-04-26-1-2026-04-07-15-10-04.png",
-            "publishedAt": "2026-04-07 09:41:18"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "The AI talent wars explained: What CIOs need to know",
-            "url": "https://www.techtarget.com/searchcio/feature/The-AI-talent-wars-explained-What-CIOs-need-to-know",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/competition_a164834714.jpg",
-            "publishedAt": "2026-04-07 09:20:00"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "What you need to know before emissions regulators come knocking",
-            "url": "https://www.computerweekly.com/opinion/What-you-need-to-know-before-emissions-regulators-come-knocking",
-            "urlToImage": "https://www.computerweekly.com/visuals/LeMagIT/hero_article/surveillance-fotolia.jpg",
-            "publishedAt": "2026-04-07 09:06:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Which security camera has the best AI? We put six to the test from Google, Ring, Blink and others to find out",
-            "url": "https://www.tomsguide.com/home/smart-home/which-security-camera-has-the-best-ai-we-put-six-to-the-test-from-google-ring-blink-and-others-to-find-out",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CwFquZfpsHFBkmJU5RgRJ6-1280-80.jpg",
-            "publishedAt": "2026-04-07 08:00:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "The Mesa Graphics Project Just Drew a Hard Line on AI-Generated Code — And the Open Source World Is Watching",
-            "url": "https://www.webpronews.com/the-mesa-graphics-project-just-drew-a-hard-line-on-ai-generated-code-and-the-open-source-world-is-watching/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/04/article-14122-1775538192.jpeg",
-            "publishedAt": "2026-04-07 05:05:12"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Microsoft’s AI Investments Fuel 30% Azure Growth to $31.8B in Q3",
-            "url": "https://www.webpronews.com/microsofts-ai-investments-fuel-30-azure-growth-to-31-8b-in-q3/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/04/article-14114-1775537194.jpeg",
-            "publishedAt": "2026-04-07 04:50:06"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/07/nvidia-acquisition-of-schedmd-sparks-worry-among-ai-specialists-about-software-access",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/04/07/3847530.jpg",
-            "publishedAt": "2026-04-06T23:57:00Z"
-        },
-        {
-            "source": {
-                "id": "e185a9e522f5881b82bc4bd40cbea8e0",
-                "name": "MassLive",
-                "url": "https://www.masslive.com",
-                "country": "us"
-            },
-            "title": "Brockton Hospital diverts ambulances, cancels services amid cybersecurity incident",
-            "url": "https://www.masslive.com/news/2026/04/brockton-hospital-diverts-ambulances-cancels-services-amid-cybersecurity-incident.html",
-            "urlToImage": "https://www.masslive.com/resizer/v2/7XZEWZNBJRFMJNOW5FMWFZ7USY.jpg?auth=9f1863d8aac2133649eb088abaaa05d2858f63ff00ae123d6cafb764f8a7b626&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-04-06T23:49:07Z"
         }
     ]
 }
