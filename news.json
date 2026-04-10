@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-04-10T09:03:55.642169Z",
+    "lastUpdatedAt": "2026-04-10T10:49:43.692455Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Elon Musk's xAI sues Colorado over state's new AI law",
+            "url": "https://www.reuters.com/legal/government/elon-musks-xai-sues-colorado-over-states-new-ai-law-2026-04-09/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/WCKTBOY5KZM2DGFX24DMAZLY4A.jpg?auth=4237bf1929861b3b2a3b1a8caaf6866d5a8268832b64a8999c55b92be17989a4&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-09T22:37:04Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "Gen Z is using AI, but doesn’t feel great about it",
+            "url": "https://www.bostonglobe.com/2026/04/09/business/gen-z-ai-survey/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/6PO7QONZJQC6YOCT6RUXG5D6HM.jpg?auth=11ae33c87855b0299352e50e8365ae75c508c575987646c7d91a7c13a3a6e78c&width=1440",
+            "publishedAt": "2026-04-09T22:27:05Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Anthropic Says Mythos Update Heralds Cybersecurity Reckoning as AI Finds Flaws 'In Every Major Operating System'",
+            "url": "https://www.ibtimes.com/anthropic-says-mythos-update-heralds-cybersecurity-reckoning-ai-finds-flaws-every-major-3800983",
+            "urlToImage": "https://d.ibtimes.com/en/full/4626513/anthropic-ai.jpg",
+            "publishedAt": "2026-04-09T22:00:05Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Florida AG Uthmeier to probe OpenAI, ChatGPT role in FSU shooting",
+            "url": "https://www.upi.com/Top_News/US/2026/04/09/florida-ai/4341775762741/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi_com/4341775762741/2026/1/e0e47f62869c7988a25d064e07b0aacd/v1.5/Florida-AG-Uthmeier-to-probe-OpenAI-ChatGPT-role-in-FSU-shooting.jpg",
+            "publishedAt": "2026-04-09T21:46:56Z"
+        },
+        {
+            "source": {
+                "id": "010284b7a4ddb4771793c29b39893951",
+                "name": "CHEK News",
+                "url": "https://cheknews.ca",
+                "country": "ca"
+            },
+            "title": "Environment Canada to use AI in new weather forecasting model",
+            "url": "https://cheknews.ca/environment-canada-to-use-ai-in-new-weather-forecasting-model-1317669/",
+            "urlToImage": "https://cheknews.ca/wp-content/uploads/2026/04/215120ac801cb1336656e40c03950451a0db4dddc5938c163024830d2b7aa721-e1775770626818.jpg",
+            "publishedAt": "2026-04-09T21:37:52Z"
+        },
+        {
+            "source": {
+                "id": "89726dd24a4d78041c65af3b4a364b31",
+                "name": "Cointelegraph",
+                "url": "https://cointelegraph.com",
+                "country": "us"
+            },
+            "title": "US Treasury To Give Crypto Industry Cybersecurity Intelligence at 'No Cost'",
+            "url": "https://cointelegraph.com/news/us-treasury-cybersecurity-intel-crypto",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d4ae1-3733-7188-97ba-064f33283491.jpg",
+            "publishedAt": "2026-04-09T21:19:29Z"
+        },
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "What founders can learn from Anjuna’s layoffs and recovery",
+            "url": "https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/bms2e8-feature-pic.png?resize=1200,675",
+            "publishedAt": "2026-04-09T21:17:30Z"
+        },
         {
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -3381,90 +3465,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/04/08/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/04/08/3849402.jpg",
             "publishedAt": "2026-04-07T23:12:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Expert explains how AI could redefine the scope of engineering work",
-            "url": "https://phys.org/news/2026-04-expert-ai-redefine-scope.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/an-editorial-by-tsu-ja.jpg",
-            "publishedAt": "2026-04-07T23:00:05Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Toronto turning to AI to reduce traffic congestion",
-            "url": "https://www.cp24.com/politics/toronto-city-hall/2026/04/07/ai-controlled-traffic-lights-coming-to-yonge-street-as-part-of-torontos-plan-to-ease-gridlock/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/DRKFOV7WQJEKJGM3NDLUW2WEJM.png?smart=true&auth=b3e5e7b462eeb906a7984fd56803a9551511e9c2d04ba2c2d1e137dccf386545&width=1200&height=630",
-            "publishedAt": "2026-04-07T22:49:10Z"
-        },
-        {
-            "source": {
-                "id": "e185a9e522f5881b82bc4bd40cbea8e0",
-                "name": "MassLive",
-                "url": "https://www.masslive.com",
-                "country": "us"
-            },
-            "title": "Brockton Hospital continues diverting ambulances day after cybersecurity incident",
-            "url": "https://www.masslive.com/news/2026/04/brockton-hospital-continues-diverting-ambulances-day-after-cybersecurity-incident.html",
-            "urlToImage": "https://www.masslive.com/resizer/v2/7XZEWZNBJRFMJNOW5FMWFZ7USY.jpg?auth=9f1863d8aac2133649eb088abaaa05d2858f63ff00ae123d6cafb764f8a7b626&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-04-07T22:45:30Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "India's e-commerce market to hit USD 250 bn by 2030, driven by Gen Z and quick commerce",
-            "url": "https://www.dailyexcelsior.com/indias-e-commerce-market-to-hit-usd-250-bn-by-2030-driven-by-gen-z-and-quick-commerce/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2024/05/E-COMMERCE.jpg",
-            "publishedAt": "2026-04-07T22:30:19Z"
-        },
-        {
-            "source": {
-                "id": "8749653ef849c3df2e467a8e0f0c6672",
-                "name": "NBC10 Boston",
-                "url": "https://www.nbcboston.com",
-                "country": "us"
-            },
-            "title": "How AI is being used to improve recycling in Mass.",
-            "url": "https://www.nbcboston.com/news/local/how-ai-is-being-used-to-improve-recycling-in-mass/3929671/",
-            "urlToImage": "https://media.nbcboston.com/2026/04/Peabody-recycling-040726.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2026-04-07T22:29:42Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Anthropic Tests Latest Cybersecurity Tech With Big Tech, Banks",
-            "url": "https://www.benzinga.com/markets/private-markets/26/04/51694390/anthropic-teams-with-apple-microsoft-and-nvidia-to-test-latest-cybersecurity-tech",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/04/07/October-11--2023--Brazil--In-This-Photo-_1.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2026-04-07T21:51:32Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI-powered blood test paves the way for early diagnosis of leprosy",
-            "url": "https://medicalxpress.com/news/2026-04-ai-powered-blood-paves-early.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/blood-test-using-artif.jpg",
-            "publishedAt": "2026-04-07T21:30:01Z"
         }
     ]
 }
