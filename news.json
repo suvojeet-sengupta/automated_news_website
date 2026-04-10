@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-04-10T16:44:52.603816Z",
+    "lastUpdatedAt": "2026-04-10T17:43:15.667839Z",
     "articles": [
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "AMP leaders defend share price, tout AI future",
+            "url": "https://www.canberratimes.com.au/story/9219487/amp-leaders-defend-share-price-tout-ai-future/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/55533a70-76f9-482f-9f03-0b734c8b915b.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-04-10T05:42:02Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "TSMC's Q1 revenue jumps 35% y/y, beats market forecasts",
+            "url": "https://www.reuters.com/world/asia-pacific/tsmcs-q1-revenue-jumps-35-yy-beats-market-forecast-2026-04-10/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/YCOPUR6EDNKW3DSKO26CTGZVTU.jpg?auth=a2efb2861da0807c7e7dfa25c49caf6af627b560e35691bbf8daa890e549254c&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-10T05:36:28Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "OpenAI pauses UK Stargate data centre - a blow to Starmer's AI hub ambitions",
+            "url": "https://www.firstpost.com/tech/openai-pauses-uk-stargate-data-centre-a-blow-to-starmers-ai-hub-ambitions-13998749.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/01/2026-01-08T001507Z_1924435200_RC2LU7A9R3ZA_RTRMADP_3_OPENAI-STOCK-GRANT-2026-01-feaa3fd62ed5a4c2a50f5a80cd05ee34-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-04-10T05:31:29Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -3477,33 +3513,6 @@
             "url": "https://completeaitraining.com/news/ai-helps-researchers-cut-quantum-computing-resources-needed/",
             "urlToImage": "https://cdn.completeaitraining.com/news_images/ai-helps-researchers-cut-quantum-computing-resources-needed-to-break-encryption_2026-04-08.jpg",
             "publishedAt": "2026-04-08 22:36:14"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Microsoft Quietly Told Users Its AI Is ‘For Entertainment Only’ — And the Internet Had a Field Day",
-            "url": "https://www.webpronews.com/microsoft-quietly-told-users-its-ai-is-for-entertainment-only-and-the-internet-had-a-field-day/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/04/article-14304-1775684831.jpeg",
-            "publishedAt": "2026-04-08 21:47:16"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "CompTIA launches AI Agent Essentials course for non-technical workers",
-            "url": "https://completeaitraining.com/news/comptia-launches-ai-agent-essentials-course-for-non/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/comptia-launches-ai-agent-essentials-course-for-non-technical-workers_2026-04-08.jpg",
-            "publishedAt": "2026-04-08 19:23:50"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Meta releases first-ever AI model from one of its highest-paid teams, after spending billions; calls it first step on path to personal...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-releases-first-ever-ai-model-from-one-of-its-highest-paid-teams-after-spending-billions-calls-it-first-step-on-path-to-personal-/articleshow/130123011.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-130122995/130122995.jpg",
-            "publishedAt": "2026-04-08 18:59:06"
         }
     ]
 }
