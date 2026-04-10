@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-04-10T22:32:32.322624Z",
+    "lastUpdatedAt": "2026-04-10T23:30:37.152328Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "From 'BuddhaBot' to $1.99 chats with AI Jesus, the faith",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-buddhabot-to-1-99-chats-with-ai-jesus-the-faith-based-tech-boom-is-here/articleshow/130167681.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-63406,resizemode-75,msid-130167681/tech/artificial-intelligence/from-buddhabot-to-1-99-chats-with-ai-jesus-the-faith-based-tech-boom-is-here.jpg",
+            "publishedAt": "2026-04-10T11:06:30Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "University undergrads in tech courses to get more career support amid AI disruption",
+            "url": "https://www.straitstimes.com/tech/university-undergrads-in-tech-courses-to-get-more-career-support-amid-ai-disruption",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/6509affa350499fdfed035a2786a2730942a59190bc0cc140c8c2238bc60e18c",
+            "publishedAt": "2026-04-10T11:00:00Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Watch: As AI makes more health coverage decisions, the risks to patients grow",
+            "url": "https://www.news-medical.net/news/20260410/Watch-As-AI-makes-more-health-coverage-decisions-the-risks-to-patients-grow.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2026-04-10T10:57:00Z"
+        },
+        {
+            "source": {
+                "id": "3f75f2c1a43bc09718077ba1dd6df97f",
+                "name": "Richmond Times-Dispatch",
+                "url": "https://richmond.com",
+                "country": "us"
+            },
+            "title": "States must regulate AI because Washington isn't | J.B. Branch",
+            "url": "https://richmond.com/opinion/column/article_b7796132-d5b4-57c9-b2bb-c92de78aff7e.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/b/77/b7796132-d5b4-57c9-b2bb-c92de78aff7e/69d7c9d21c910.preview.jpg?crop=1605%2C844%2C3%2C81&resize=1200%2C631&order=crop%2Cresize",
+            "publishedAt": "2026-04-10T10:45:00Z"
+        },
+        {
+            "source": {
+                "id": "f68f975281ced878edef3dab628ecffd",
+                "name": "Missoula Missoulian",
+                "url": "https://missoulian.com",
+                "country": "us"
+            },
+            "title": "States must regulate AI because Washington isn't | J.B. Branch",
+            "url": "https://missoulian.com/opinion/column/article_6e2b173d-1648-5433-9900-a2754d17df0d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/6/e2/6e2b173d-1648-5433-9900-a2754d17df0d/69d7c9cfd020c.preview.jpg?crop=1605%2C844%2C3%2C81&resize=1200%2C631&order=crop%2Cresize",
+            "publishedAt": "2026-04-10T10:45:00Z"
+        },
+        {
+            "source": {
+                "id": "ff08198bd1f06590c448195855068383",
+                "name": "Tulsa World",
+                "url": "https://tulsaworld.com",
+                "country": "us"
+            },
+            "title": "States must regulate AI because Washington isn't | J.B. Branch",
+            "url": "https://tulsaworld.com/opinion/column/article_6588abc3-617d-53a7-a5aa-77ae646bda47.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/58/6588abc3-617d-53a7-a5aa-77ae646bda47/69d7c9d45f7e6.preview.jpg?crop=1605%2C844%2C3%2C81&resize=1200%2C631&order=crop%2Cresize",
+            "publishedAt": "2026-04-10T10:45:00Z"
+        },
+        {
+            "source": {
+                "id": "d409558fce7a4707e02365c77cc92dfc",
+                "name": "Lincoln Journal Star",
+                "url": "https://journalstar.com",
+                "country": "us"
+            },
+            "title": "States must regulate AI because Washington isn't | J.B. Branch",
+            "url": "https://journalstar.com/opinion/column/article_d1ac6ae3-194d-5dee-98e7-ab1db58e9042.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/d/1a/d1ac6ae3-194d-5dee-98e7-ab1db58e9042/69d7c9ced6775.preview.jpg?crop=1605%2C844%2C3%2C81&resize=1200%2C631&order=crop%2Cresize",
+            "publishedAt": "2026-04-10T10:45:00Z"
+        },
+        {
+            "source": {
+                "id": "e625db5625a6afdc9503f3777a0f9c15",
+                "name": "Sioux City Journal",
+                "url": "https://siouxcityjournal.com",
+                "country": "us"
+            },
+            "title": "States must regulate AI because Washington isn't | J.B. Branch",
+            "url": "https://siouxcityjournal.com/opinion/column/article_376bb75f-0b29-5546-9fd5-e57cebd25d76.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/3/76/376bb75f-0b29-5546-9fd5-e57cebd25d76/69d7c9d23c4c3.preview.jpg?crop=1605%2C844%2C3%2C81&resize=1200%2C631&order=crop%2Cresize",
+            "publishedAt": "2026-04-10T10:45:00Z"
+        },
+        {
+            "source": {
+                "id": "bb2e0405412a26dc91226e0f4dc363df",
+                "name": "Winston-Salem Journal",
+                "url": "https://journalnow.com",
+                "country": "us"
+            },
+            "title": "States must regulate AI because Washington isn't | J.B. Branch",
+            "url": "https://journalnow.com/opinion/column/article_9af94a22-8ff0-5ccf-b860-9eca36ba472b.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/af/9af94a22-8ff0-5ccf-b860-9eca36ba472b/69d7c9cf084f4.preview.jpg?crop=1605%2C844%2C3%2C81&resize=1200%2C631&order=crop%2Cresize",
+            "publishedAt": "2026-04-10T10:45:00Z"
+        },
+        {
+            "source": {
+                "id": "faae211f8347b5d3383266efe7f2f105",
+                "name": "Billings Gazette",
+                "url": "https://billingsgazette.com",
+                "country": "us"
+            },
+            "title": "States must regulate AI because Washington isn't | J.B. Branch",
+            "url": "https://billingsgazette.com/opinion/column/article_f10277c7-c0d7-579f-ab90-8ca65063d6fc.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/f/10/f10277c7-c0d7-579f-ab90-8ca65063d6fc/69d7c9cbc1f23.preview.jpg?crop=1605%2C844%2C3%2C81&resize=1200%2C631&order=crop%2Cresize",
+            "publishedAt": "2026-04-10T10:45:00Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -552,6 +672,15 @@
             "url": "https://www.onmanorama.com/travel/kerala/2026/04/10/kerala-tourism-peta-award-mechanical-elephant-safari.html",
             "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/travel/kerala/images/2026/4/10/mechanical-elephant-ride.jpg",
             "publishedAt": "2026-04-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "From Copilot keys to Agentic AI: How AI changed your laptop and why not everyone is buying it",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/from-copilot-keys-to-agentic-ai-how-ai-changed-your-laptop-and-why-not-everyone-is-buying-it/articleshow/130165343.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-130166011/130166011.jpg",
+            "publishedAt": "2026-04-10 10:33:31"
         },
         {
             "source": {
@@ -3372,138 +3501,6 @@
             "url": "https://www.ibtimes.com/palantirs-ai-powers-us-strikes-iran-war-speeding-kill-chain-first-major-ai-driven-conflict-3800993",
             "urlToImage": "https://d.ibtimes.com/en/full/4645766/palantir.jpg",
             "publishedAt": "2026-04-08T11:51:07Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AI giants go on charm offensive to avert public backlash",
-            "url": "https://www.livemint.com/ai/ai-giants-go-on-charm-offensive-to-avert-public-backlash-11775648652169.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/04/08/1600x900/logo/BRITAIN-AI-PROTEST-18_1775648758725_1775648779705.jpg",
-            "publishedAt": "2026-04-08T11:48:10Z"
-        },
-        {
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity Stocks Climb Amid Anthropic's Project Glasswing Launch",
-            "url": "https://www.investors.com/news/technology/cybersecuity-stocks-anthropic-mythos-project-glasswing/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2023/03/Stock-crowdstrike-01-adobe.jpg",
-            "publishedAt": "2026-04-08T11:43:01Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "World-shaking cyberattack could hit in 2026, Sam Altman issues dire warning",
-            "url": "https://www.thenews.com.pk/latest/1398192-world-shaking-cyberattack-could-hit-in-2026-sam-altman-issues-dire-warning",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-08/1398192_043934_updates.jpg",
-            "publishedAt": "2026-04-08T11:39:00Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Huawei Cloud Accelerates AI in Thailand’s Public Sector",
-            "url": "https://www.bangkokpost.com/thailand/pr/3233303/huawei-cloud-accelerates-ai-in-thailands-public-sector",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260408/c1_3233303_700.jpg",
-            "publishedAt": "2026-04-08T11:11:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Grab to lean on scale, AI to navigate rising fuel costs, CEO says",
-            "url": "https://www.reuters.com/world/asia-pacific/grab-lean-scale-ai-navigate-rising-fuel-costs-ceo-says-2026-04-08/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/EKZNFCUOT5KGNMXVQURMZRUXCQ.jpg?auth=61bbdd4d774b7e386955a2a27097be612ecbc3b918fda966ac041e7e3fe7de3f&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-04-08T10:33:51Z"
-        },
-        {
-            "source": {
-                "id": "3d24c816061d69b2e23b8583aed9b447",
-                "name": "Euronews",
-                "url": "https://www.euronews.com",
-                "country": "fr"
-            },
-            "title": "Why Anthropic’s most powerful AI model Mythos Preview is too dangerous for public release",
-            "url": "https://www.euronews.com/next/2026/04/08/why-anthropics-most-powerful-ai-model-mythos-preview-is-too-dangerous-for-public-release",
-            "urlToImage": "https://images.euronews.com/articles/stories/09/71/42/45/1200x675_cmsv2_78940bf0-a481-5dd3-8e12-103f2b4c244b-9714245.jpg",
-            "publishedAt": "2026-04-08T10:12:12Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Delta CEO says AI will not change flying experience but will tackle one of the biggest problems",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/delta-ceo-says-ai-will-not-change-flying-experience-but-will-tackle-one-of-the-biggest-problems/articleshow/130109374.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-130109347,width-1280,height-720,imgsize-656702,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-08T09:56:00Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "The Inference | When AI Workers Fail to Deliver; Hinglish Vinglish, And More",
-            "url": "https://www.outlookbusiness.com/newsletter/the-inference/when-ai-workers-fail-to-deliver-hinglish-vinglish-and-more",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-04-08/tfnm5jlr/newsletter120260408.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-04-08T09:47:39Z"
-        },
-        {
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            },
-            "title": "'A new frontier model trained by Anthropic that we believe could reshape cybersecurity': Project Glasswing wants to use AI to prevent AI cyberattacks — but will 'overeager' Claude Mythos do more damag",
-            "url": "https://www.techradar.com/pro/security/a-new-frontier-model-trained-by-anthropic-that-we-believe-could-reshape-cybersecurity-project-glasswing-wants-to-use-ai-to-prevent-ai-cyberattacks-but-will-overeager-claude-mythos-do-more-damage-than-help",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/g4rSJo2KyoM42vGic5MGrn-1920-80.png",
-            "publishedAt": "2026-04-08T09:38:20Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "New Malware Targets Android Devices, Stays Even After Reset: Are You Safe?",
-            "url": "https://www.timesnownews.com/technology-science/new-malware-targets-android-devices-stays-even-after-reset-are-you-safe-article-154026195",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-154026195,width-1280,height-720,resizemode-75/154026195.jpg",
-            "publishedAt": "2026-04-08T09:01:27Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Young New Yorkers Are Lining Up for Construction Apprenticeships",
-            "url": "https://www.nytimes.com/2026/04/08/realestate/young-new-yorkers-construction-jobs.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/04/08/multimedia/08re-construction-apprentices-bzgk/08re-construction-apprentices-bzgk-facebookJumbo.jpg",
-            "publishedAt": "2026-04-08T09:00:45Z"
         }
     ]
 }
