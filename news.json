@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-04-11T19:31:54.755941Z",
+    "lastUpdatedAt": "2026-04-11T20:27:52.914595Z",
     "articles": [
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "Liberal members will vote today on whether they'd like to see age restrictions for social media",
+            "url": "https://www.cbc.ca/news/politics/liberal-party-vote-on-social-media-age-restrictions-9.7159746",
+            "urlToImage": "https://i.cbc.ca/ais/eed8ba79-497c-4e5a-bd47-f8f727a94bb9,1775852975217/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C7375%2C4148%29%3BResize%3D620",
+            "publishedAt": "2026-04-11T08:00:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -3483,15 +3495,6 @@
             "url": "https://www.newsx.com/tech-and-auto/meta-introduces-muse-spark-multimodal-ai-model-for-advanced-reasoningknow-how-it-is-better-than-chatgpt-and-gemini-196136/",
             "urlToImage": "https://www.newsx.com/wp-content/uploads/2026/04/muse-spark.jpg",
             "publishedAt": "2026-04-09 06:11:16"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "PyTorch Foundation adds Safetensors as hosted project to reduce AI model security risks",
-            "url": "https://completeaitraining.com/news/pytorch-foundation-adds-safetensors-as-hosted-project-to/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/pytorch-foundation-adds-safetensors-as-hosted-project-to-reduce-ai-model-securit_2026-04-08.jpg",
-            "publishedAt": "2026-04-09 06:09:10"
         }
     ]
 }
