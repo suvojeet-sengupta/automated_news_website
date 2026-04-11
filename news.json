@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-04-11T10:29:59.512399Z",
+    "lastUpdatedAt": "2026-04-11T11:26:32.514771Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Banks Warned About Anthropic’s New, Powerful A.I. Technology",
+            "url": "https://www.nytimes.com/2026/04/10/business/anthropic-claude-mythos-preview-banks.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/04/10/multimedia/00banks-ai-lvzw/00banks-ai-lvzw-facebookJumbo.jpg",
+            "publishedAt": "2026-04-10T23:17:34Z"
+        },
+        {
+            "source": {
+                "id": "010284b7a4ddb4771793c29b39893951",
+                "name": "CHEK News",
+                "url": "https://cheknews.ca",
+                "country": "ca"
+            },
+            "title": "Minister says AI safety institute now looking at OpenAI protocols",
+            "url": "https://cheknews.ca/minister-says-ai-safety-institute-now-looking-at-openai-protocols-1318008/",
+            "urlToImage": "https://cheknews.ca/wp-content/uploads/2026/04/bc8714d8-3a12-481b-a63c-3d7b18ddfde7-scaled-e1775861027368.jpg",
+            "publishedAt": "2026-04-10T22:48:52Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Use of artificial intelligence in arbitration should be regulated, not shunned: CJI Surya Kant",
+            "url": "https://www.dailyexcelsior.com/use-of-artificial-intelligence-in-arbitration-should-be-regulated-not-shunned-cji-surya-kant/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/01/Justice-Surya-Kant.jpg",
+            "publishedAt": "2026-04-10T22:33:43Z"
+        },
         {
             "source": {
                 "id": "91120a92e0d24e24fbffb6d0affabfe6",
@@ -3425,42 +3461,6 @@
             "title": "Shaky ceasefire unlikely to stop cyberattacks from Iran-linked hackers for long",
             "url": "https://www.courant.com/2026/04/08/iran-us-cyberthreats/",
             "urlToImage": "https://www.courant.com/wp-content/uploads/2026/04/APTOPIX_Congress_Worldwide_Threats_70741-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-04-08T20:16:53Z"
-        },
-        {
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com",
-                "country": "us"
-            },
-            "title": "Shaky ceasefire unlikely to stop cyberattacks from Iran-linked hackers for long",
-            "url": "https://www.baltimoresun.com/2026/04/08/iran-us-cyberthreats/",
-            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2026/04/APTOPIX_Congress_Worldwide_Threats_70741-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-04-08T20:16:53Z"
-        },
-        {
-            "source": {
-                "id": "6f68e6d7cd20b33baacb487a0e911008",
-                "name": "Santa Rosa Press Democrat",
-                "url": "https://www.pressdemocrat.com",
-                "country": "us"
-            },
-            "title": "Shaky ceasefire unlikely to stop cyberattacks from Iran-linked hackers for long",
-            "url": "https://www.pressdemocrat.com/2026/04/08/iran-us-cyberthreats/",
-            "urlToImage": "https://www.pressdemocrat.com/wp-content/uploads/2026/04/APTOPIX_Congress_Worldwide_Threats_70741-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-04-08T20:16:53Z"
-        },
-        {
-            "source": {
-                "id": "8fac888ae06647c3a7d6093c60c9d9b5",
-                "name": "San Diego Union-Tribune",
-                "url": "https://www.sandiegouniontribune.com",
-                "country": "us"
-            },
-            "title": "Shaky ceasefire unlikely to stop cyberattacks from Iran-linked hackers for long",
-            "url": "https://www.sandiegouniontribune.com/2026/04/08/iran-us-cyberthreats/",
-            "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/04/APTOPIX_Congress_Worldwide_Threats_70741-1.jpg?w=1024&h=682",
             "publishedAt": "2026-04-08T20:16:53Z"
         }
     ]
