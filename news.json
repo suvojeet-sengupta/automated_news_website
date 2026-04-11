@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-04-11T13:52:41.684704Z",
+    "lastUpdatedAt": "2026-04-11T14:32:55.139733Z",
     "articles": [
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Sam Altman's home hit by Molotov cocktail, OpenAI CEO shares rare family photo in first reaction - ‘We try to be…’",
+            "url": "https://www.livemint.com/companies/people/sam-altmans-home-hit-by-molotov-cocktail-openai-ceo-shares-rare-family-photo-in-first-reaction-we-try-to-be-11775872359338.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/04/11/1600x900/logo/Sama_1775872965412_1775872965602.jpeg",
+            "publishedAt": "2026-04-11T02:04:53Z"
+        },
         {
             "source": {
                 "id": "214d496d625fc657723cf4da80cff8ce",
@@ -96,6 +108,15 @@
             "url": "https://www.bloomberg.com/news/articles/2026-04-11/former-openai-stargate-leaders-plan-to-join-meta-platforms",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVhv5Cf9wP0E/v0/1200x797.jpg",
             "publishedAt": "2026-04-11T00:30:52Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Anthropic explores designing its own AI chips as demand for Claude accelerates",
+            "url": "https://completeaitraining.com/news/anthropic-explores-designing-its-own-ai-chips-as-demand-for/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/anthropic-explores-designing-its-own-ai-chips-as-demand-for-claude-accelerates_2026-04-10.jpg",
+            "publishedAt": "2026-04-11 01:59:28"
         },
         {
             "source": {
@@ -3435,30 +3456,6 @@
             "url": "https://www.bloomberg.com/news/articles/2026-04-08/anthropic-fails-for-now-to-halt-us-label-as-a-supply-chain-risk",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3Pi1S8MHHBs/v0/1200x800.jpg",
             "publishedAt": "2026-04-08T23:01:43Z"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie",
-                "country": "ie"
-            },
-            "title": "AI use in Irish firms likely to lead to job losses",
-            "url": "https://www.rte.ie/news/business/2026/0409/1567303-ai-use-in-irish-firms-likely-to-lead-to-job-losses-esri/",
-            "urlToImage": "https://www.rte.ie/images/001f0d93-1600.jpg",
-            "publishedAt": "2026-04-08T23:01:00Z"
-        },
-        {
-            "source": {
-                "id": "f6c2179332ca0ae400ff2a52227265f3",
-                "name": "Essentially Sports",
-                "url": "https://www.essentiallysports.com",
-                "country": "us"
-            },
-            "title": "NASCAR Triggers a Controversial New Era in Massive Shakeup With Transformative Front-Office Hire",
-            "url": "https://www.essentiallysports.com/nascar-news-nascar-triggers-a-controversial-new-era-in-massive-shakeup-with-transformative-front-office-hire/",
-            "urlToImage": "https://image-cdn.essentiallysports.com/wp-content/uploads/imago1073674509.jpg-scaled.jpeg",
-            "publishedAt": "2026-04-08T22:30:21Z"
         }
     ]
 }
