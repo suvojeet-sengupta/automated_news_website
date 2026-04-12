@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-04-12T02:08:35.323610Z",
+    "lastUpdatedAt": "2026-04-12T05:19:26.097951Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Anthropic steals AI spotlight from OpenAI at HumanX",
+            "url": "https://www.thenews.com.pk/latest/1398577-anthropic-steals-ai-spotlight-from-openai-at-humanx",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-11/1398577_102505_updates.jpg",
+            "publishedAt": "2026-04-11T17:16:28Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "The AI energy crisis will force radical innovation in sustainable power",
+            "url": "https://www.manilatimes.net/2026/04/12/business/sunday-business-it/the-ai-energy-crisis-will-force-radical-innovation-in-sustainable-power/2318387",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/11/1009180.jpeg",
+            "publishedAt": "2026-04-11T16:03:00Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "NFL teams use AI tools to evaluate draft prospects",
+            "url": "https://www.thenews.com.pk/latest/1398563-nfl-teams-use-ai-tools-to-evaluate-draft-prospects",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-11/1398563_071032_updates.jpg",
+            "publishedAt": "2026-04-11T14:09:11Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -480,6 +516,24 @@
             "url": "https://www.bloomberg.com/news/articles/2026-04-11/former-openai-stargate-leaders-plan-to-join-meta-platforms",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVhv5Cf9wP0E/v0/1200x797.jpg",
             "publishedAt": "2026-04-11T00:30:52Z"
+        },
+        {
+            "source": {
+                "name": "theblaze"
+            },
+            "title": "The AI backlash is going viral. Here's how Trump wants to fix that.",
+            "url": "https://www.theblaze.com/return/the-ai-backlash-is-going-viral-here-s-how-trump-wants-to-fix-that",
+            "urlToImage": "https://www.theblaze.com/media-library/the-ai-backlash-is-going-viral-here-s-how-trump-wants-to-fix-that.jpg?id=65505292&width=980",
+            "publishedAt": "2026-04-11 16:30:00"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Applied Digital splits cloud unit into separate AI infrastructure company and breaks ground on 300 MW data center campus",
+            "url": "https://completeaitraining.com/news/applied-digital-splits-cloud-unit-into-separate-ai/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/applied-digital-splits-cloud-unit-into-separate-ai-infrastructure-company-and-br_2026-04-11.jpg",
+            "publishedAt": "2026-04-11 15:05:05"
         },
         {
             "source": {
@@ -3468,66 +3522,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/lowe-ceo-marvin-ellison-has-a-reality-check-for-silicon-valley-spending-billions-on-ai-says-ai-can-write-your-emails-but-it-cannot-/articleshow/130127131.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-130127130,width-1280,height-720,imgsize-17552,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-04-09T01:35:00Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "The finance talent crunch - and why hybrid global teams are winning",
-            "url": "https://www.afr.com/work-and-careers/careers/the-finance-talent-crunch-and-why-hybrid-global-teams-are-winning-20260401-p5zkm1",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.1791%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/345b596dfcd3f860f59add0084323331d4f6a3cc61de8a0c8ff8ab618b6358b7",
-            "publishedAt": "2026-04-09T01:00:44Z"
-        },
-        {
-            "source": {
-                "id": "cd80188579ee5a2180862a3115ebdca2",
-                "name": "FOX Weather",
-                "url": "https://www.foxweather.com",
-                "country": "us"
-            },
-            "title": "NOAA uses AI and satellites to map out global algae bloom",
-            "url": "https://www.foxweather.com/earth-space/noaa-ai-satellites-map-global-algae-bloom",
-            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/03/1024/512/GettyImages-1473975630.jpg?ve=1&tl=1",
-            "publishedAt": "2026-04-09T00:49:21Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Testing by JP Morgan, Apple, Google and 8 other companies that made Anthropic decide it cannot release its latest model Mythos to public",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/testing-by-jp-morgan-apple-google-and-8-other-companies-that-made-anthropic-decide-it-cannot-release-its-latest-model-mythos-to-public/articleshow/130122787.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-130122776,width-1280,height-720,imgsize-28590,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-09T00:46:00Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Appeals court rebuffs Anthropic in latest round of its AI battle with the Trump administration",
-            "url": "https://wtop.com/business-finance/2026/04/appeals-court-rebuffs-anthropic-in-latest-round-of-its-ai-battle-with-the-trump-administration/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/04/Pentagon_AI_Anthropic_6155_-scaled.jpg",
-            "publishedAt": "2026-04-09T00:32:28Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "TR Capital to deploy $1 billion in India secondaries; appoints Umang Agarwal as MD",
-            "url": "https://economictimes.indiatimes.com/tech/funding/tr-capital-to-deploy-1-billion-in-india-secondaries-appoints-umang-agarwal-as-md/articleshow/130121115.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1142267,resizemode-75,msid-130121115/tech/funding/tr-capital-to-deploy-1-billion-in-india-secondaries-appoints-umang-agarwal-as-md.jpg",
-            "publishedAt": "2026-04-09T00:30:00Z"
         }
     ]
 }
