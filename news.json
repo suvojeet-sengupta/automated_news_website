@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-04-12T18:40:37.693738Z",
+    "lastUpdatedAt": "2026-04-12T19:36:08.892319Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Did your AI co-worker take your appraisal this year?",
+            "url": "https://www.indiatoday.in/jobs/story/how-ai-is-changing-employee-appraisals-promotions-and-salary-growth-at-workplaces-educ-2894288-2026-04-12",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/ai-in-workplace-appraisals-india-125111729-16x9_0.png?VersionId=6yNJlIMqC1W3fpEeuOALnrwZIFCZqIlc",
+            "publishedAt": "2026-04-12T07:00:36Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "How Artificial Intelligence Is Transforming Insurance For Customers",
+            "url": "https://www.news18.com/business/banking-finance/how-artificial-intelligence-is-transforming-insurance-for-customers-ws-l-10028764.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/02/viralbhayani-2026-02-16T114303.976-2026-02-d566074aa6c658b3959f70131364ca8e-16x9.png",
+            "publishedAt": "2026-04-12T06:55:17Z"
+        },
         {
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -3426,30 +3450,6 @@
             "url": "https://www.thenews.com.pk/latest/1398296-claude-mythos-inside-the-secret-model-anthropic-is-hiding",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-09/1398296_014038_updates.jpg",
             "publishedAt": "2026-04-09T08:40:00Z"
-        },
-        {
-            "source": {
-                "id": "63fec970d50112ee9b8bc1418d9c5872",
-                "name": "Scientific Computing World",
-                "url": "https://www.scientific-computing.com",
-                "country": "us"
-            },
-            "title": "Vector Photonics demonstrates real-world optical communication using PCSEL technology",
-            "url": "https://www.scientific-computing.com/article/vector-photonics-demonstrates-real-world-optical-communication-using-pcsel-technology",
-            "urlToImage": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
-            "publishedAt": "2026-04-09T08:38:04Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "OpenAI CEO Sam Altman’s coworkers say he lacks experience in both programming and machine learning, often misuses ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altmans-coworkers-say-he-lacks-experience-in-both-programming-and-machine-learning-often-misuses-/articleshow/130135949.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-130135911,width-1280,height-720,imgsize-20544,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-09T08:36:00Z"
         }
     ]
 }
