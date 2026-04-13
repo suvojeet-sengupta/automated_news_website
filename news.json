@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-04-13T09:53:26.996667Z",
+    "lastUpdatedAt": "2026-04-13T11:14:04.652406Z",
     "articles": [
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "Writers shouldn’t be ashamed of using AI",
+            "url": "https://www.thetimes.com/comment/columnists/article/writers-shouldnt-ashamed-using-ai-bpndknkqk",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/9f1976b3-de8a-4b42-9947-ca2428685729.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
+            "publishedAt": "2026-04-12T23:01:00Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -3420,18 +3432,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/04/09/us-software-stocks-fall-as-anthropic039s-new-ai-model-revives-disruption-fears",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/04/09/3852687.jpg",
             "publishedAt": "2026-04-09T15:33:00Z"
-        },
-        {
-            "source": {
-                "id": "cf119ed600a8a7c8e23575950f071fec",
-                "name": "The Irish Sun",
-                "url": "https://www.thesun.ie",
-                "country": "ie"
-            },
-            "title": "AI threat to 200k highly-paid Irish jobs as positions most at risk revealed amid 'employment shock' warning",
-            "url": "https://www.thesun.ie/tech/16799302/ai-threat-irish-jobs-positions-risk-warning/",
-            "urlToImage": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/04/artificial-intelligence-robot-face-divided-943176494.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-            "publishedAt": "2026-04-09T15:32:16Z"
         }
     ]
 }
