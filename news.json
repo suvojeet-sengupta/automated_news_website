@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-04-14T07:24:31.179566Z",
+    "lastUpdatedAt": "2026-04-14T09:13:10.707255Z",
     "articles": [
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
+            "url": "https://www.baytoday.ca/national-news/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-12137037",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/4a32ca2a426025623abcc609ed6eab991082e283704873e4d7917c2405d97603.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-04-13T21:05:10Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
+            "url": "https://www.sootoday.com/national-news/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-12137037",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/4a32ca2a426025623abcc609ed6eab991082e283704873e4d7917c2405d97603.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-04-13T21:05:10Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "Court docs: Suspect in Molotov attack on OpenAI CEO's home opposed artificial intelligence",
+            "url": "https://wjla.com/news/nation-world/court-docs-suspect-in-molotov-attack-on-openai-ceos-home-opposed-artificial-intelligence-sam-altman-kash-patel-fbi-texas-daniel-moreno-gama-molotov-cocktail-property-damage-destruction",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/5004/1320/0x369/90/dd386058-0383-4e96-9412-bc7cb51f55c9-GettyImages2218344194.jpg",
+            "publishedAt": "2026-04-13T21:02:58Z"
+        },
+        {
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            },
+            "title": "Court docs: Suspect in Molotov attack on OpenAI CEO's home opposed artificial intelligence",
+            "url": "https://foxbaltimore.com/news/nation-world/court-docs-suspect-in-molotov-attack-on-openai-ceos-home-opposed-artificial-intelligence-sam-altman-kash-patel-fbi-texas-daniel-moreno-gama-molotov-cocktail-property-damage-destruction",
+            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/5004/1320/0x369/90/dd386058-0383-4e96-9412-bc7cb51f55c9-GettyImages2218344194.jpg",
+            "publishedAt": "2026-04-13T21:02:58Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Man accused in attack of OpenAI CEO's home, opposed AI",
+            "url": "https://www.cp24.com/news/world/2026/04/13/man-accused-in-molotov-cocktail-attack-of-openai-ceos-home-opposed-ai-court-documents-say/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/XTSNCYZTPJHVNZY3XAPNBOXPVM.jpg?smart=true&auth=7fc201083d6fe766ef43f69bbeb4d443163729f485b46cb6e9bcdaf7bcd084ae&width=1200&height=630",
+            "publishedAt": "2026-04-13T20:28:25Z"
+        },
+        {
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            },
+            "title": "High earners quietly slow down AI usage as new data shows accuracy beating speed in real workplace decision making",
+            "url": "https://www.techradar.com/pro/accuracy-over-volume-heres-why-high-value-pros-are-using-ai-to-work-slower-not-faster",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/EuE7LFkJbC9vXSWdvhQbMh-1920-80.png",
+            "publishedAt": "2026-04-13T20:15:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "As AI use increases at work, many employees still choose not to use it: Gallup poll",
+            "url": "https://japantoday.com/category/business/as-ai-use-increases-at-work-many-employees-still-choose-not-to-use-it-gallup-poll",
+            "urlToImage": "https://media.japantoday.com/img/store/d0/48/d41f7f75aa1d271b96e1b0f75798b4ec1eb4/download/_w1700.jpeg",
+            "publishedAt": "2026-04-13T20:11:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Investcorp AI Acquisition Corp. to Combine with Blue Finance Technology Holding Limited; Transaction to Create Irish Public Company Focused on Artificial Intelligence-Powered Digital Consumer Finance",
+            "url": "https://www.manilatimes.net/2026/04/14/tmt-newswire/globenewswire/investcorp-ai-acquisition-corp-to-combine-with-blue-finance-technology-holding-limited-transaction-to-create-irish-public-company-focused-on-artificial-intelligence-powered-digital-consumer-finance/2319390",
+            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-04-13T20:06:13Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "Man accused in Molotov cocktail attack of Sam Altman's home opposed AI, court documents say",
+            "url": "https://www.nbcnews.com/tech/tech-news/man-accused-molotov-cocktail-attack-sam-altmans-home-opposed-ai-court-rcna331610",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250805-sam-altman-aa-520-3f10fc.jpg",
+            "publishedAt": "2026-04-13T19:44:37Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "AI Boom Hits a Wall As Computing Power Runs Short And Costs Surge: Report",
+            "url": "https://www.ibtimes.com/ai-boom-hits-wall-computing-power-runs-short-costs-surge-report-3801180",
+            "urlToImage": "https://d.ibtimes.com/en/full/4646007/data-center.jpg",
+            "publishedAt": "2026-04-13T19:36:01Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -948,6 +1068,33 @@
             "url": "https://www.canberratimes.com.au/story/9221223/young-australians-turning-to-ai-for-mental-health-help/",
             "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/b390310c-6316-4dfc-a605-4b30076c629d.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
             "publishedAt": "2026-04-13T00:08:17Z"
+        },
+        {
+            "source": {
+                "name": "sdxcentral"
+            },
+            "title": "Nutanix looks to thread the VMware, Red Hat cloud-native needle",
+            "url": "https://www.sdxcentral.com/news/nutanix-looks-to-thread-the-vmware-red-hat-cloud-native-needle/",
+            "urlToImage": "https://media.datacenterdynamics.com/media/images/Dan_Ciruli.2e16d0ba.fill-1200x630.jpg",
+            "publishedAt": "2026-04-13 20:59:00"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Five attributes define effective AI strategies for banks, EY research finds",
+            "url": "https://completeaitraining.com/news/five-attributes-define-effective-ai-strategies-for-banks-ey/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/five-attributes-define-effective-ai-strategies-for-banks-ey-research-finds_2026-04-13.jpg",
+            "publishedAt": "2026-04-13 20:41:41"
+        },
+        {
+            "source": {
+                "name": "investing_us"
+            },
+            "title": "Space Race 2.0: AI’s Trillion-Dollar Escape Plan",
+            "url": "https://www.investing.com/analysis/space-race-20-ais-trilliondollar-escape-plan-200678353",
+            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+            "publishedAt": "2026-04-13 19:30:00"
         },
         {
             "source": {
@@ -3258,162 +3405,6 @@
             "url": "https://journalnow.com/opinion/column/article_9af94a22-8ff0-5ccf-b860-9eca36ba472b.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/af/9af94a22-8ff0-5ccf-b860-9eca36ba472b/69d7c9cf084f4.preview.jpg?crop=1605%2C844%2C3%2C81&resize=1200%2C631&order=crop%2Cresize",
             "publishedAt": "2026-04-10T10:45:00Z"
-        },
-        {
-            "source": {
-                "id": "faae211f8347b5d3383266efe7f2f105",
-                "name": "Billings Gazette",
-                "url": "https://billingsgazette.com",
-                "country": "us"
-            },
-            "title": "States must regulate AI because Washington isn't | J.B. Branch",
-            "url": "https://billingsgazette.com/opinion/column/article_f10277c7-c0d7-579f-ab90-8ca65063d6fc.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/f/10/f10277c7-c0d7-579f-ab90-8ca65063d6fc/69d7c9cbc1f23.preview.jpg?crop=1605%2C844%2C3%2C81&resize=1200%2C631&order=crop%2Cresize",
-            "publishedAt": "2026-04-10T10:45:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Musk's xAI Sues Colorado Over New AI Law",
-            "url": "https://www.marketscreener.com/news/musk-s-xai-sues-colorado-over-new-ai-law-ce7e50d8d18ff727",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2018-11-22T043956Z_1_LYNXNPEEAL05T_RTROPTP_3_GLOBAL-AUTOS.JPG",
-            "publishedAt": "2026-04-10T10:29:55Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "AI chatbots refilling psych meds sparks debate",
-            "url": "https://www.foxnews.com/tech/ai-chatbots-refilling-psych-meds-sparks-debate",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/ai-presecription-refills-1.jpg",
-            "publishedAt": "2026-04-10T10:26:30Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "Gujarat police roll out AI tool to sharpen probe in NDPS cases, boost conviction rates",
-            "url": "https://theprint.in/india/gujarat-police-roll-out-ai-tool-to-sharpen-probe-in-ndps-cases-boost-conviction-rates/2901508/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-04-10T10:18:32Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "US utility stocks are off to their best start since 2019. Can they keep it up?",
-            "url": "https://www.reuters.com/business/us-utility-stocks-are-off-their-best-start-since-2019-can-they-keep-it-up-2026-04-10/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/6ASCFODRQJOEXIEG52BIZXS7YM.jpg?auth=546d6958b50fe9e79f9b058f9c5cc8338d8b0967129666e845defa31a5e02ed1&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-04-10T10:07:15Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "American Gen Z losing trust in AI despite growing use of the tech: Study",
-            "url": "https://www.firstpost.com/tech/american-gen-z-losing-trust-in-ai-despite-growing-use-of-the-tech-study-13998864.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/03/Artificial-Intelligence-AI-workers-2025-03-9fc16a19f6f574d389504dbbbfc09eb4.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-04-10T09:56:37Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "CBSE Revamps Curriculum: What Will The New Education Roadmap Look Like? Key Changes From 2026",
-            "url": "https://www.news18.com/education-career/cbse-revamps-curriculum-what-will-the-new-education-roadmap-look-like-key-changes-from-2026-three-language-formula-ai-skills-ws-e-10025895.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/04/image-2026-04-98aad3f43ceb28c9c4064907fab05ab7-1200x675.jpg",
-            "publishedAt": "2026-04-10T09:41:33Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Deakin University and Aikam (Telangana AI Innovation Hub) Sign Strategic MoU to Advance Applied AI, Skilling, Research and Innovation",
-            "url": "https://www.tribuneindia.com/news/business/deakin-university-and-aikam-telangana-ai-innovation-hub-sign-strategic-mou-to-advance-applied-ai-skilling-research-and-innovation-2-2/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM3NmQ1NjQwLTM0YzEtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
-            "publishedAt": "2026-04-10T09:38:44Z"
-        },
-        {
-            "source": {
-                "id": "c8c865ed042eb14694b8d596e22efe99",
-                "name": "Spokane Spokesman-Review",
-                "url": "https://www.spokesman.com",
-                "country": "us"
-            },
-            "title": "Five large data centers eyed for Seattle",
-            "url": "https://www.spokesman.com/stories/2026/apr/10/five-large-data-centers-eyed-for-seattle/",
-            "urlToImage": "https://thumb.spokesman.com/l2sMHX5ZvY-IivJJOF8GNS33NSY=/600x0/media.spokesman.com/graphics/2020/08/sr_placeholder.png",
-            "publishedAt": "2026-04-10T09:35:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Alibaba, TAL Education, Baidu Back AI Video App Maker ShengShu in $293 Million Funding Round",
-            "url": "https://www.marketscreener.com/news/alibaba-tal-education-baidu-back-ai-video-app-maker-shengshu-in-293-million-funding-round-ce7e50d8de80f42c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-04-10T09:20:31Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Deakin University and Aikam (Telangana AI Innovation Hub) Sign Strategic MoU to Advance Applied AI, Skilling, Research and Innovation",
-            "url": "https://www.tribuneindia.com/news/business/deakin-university-and-aikam-telangana-ai-innovation-hub-sign-strategic-mou-to-advance-applied-ai-skilling-research-and-innovation/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRiNGZhODEwLTM0YmQtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
-            "publishedAt": "2026-04-10T09:15:39Z"
-        },
-        {
-            "source": {
-                "id": "3fac65098bad206a4847f7fdbac9f170",
-                "name": "New York Daily News",
-                "url": "https://www.nydailynews.com",
-                "country": "us"
-            },
-            "title": "Make AI pay for the jobs it takes from people",
-            "url": "https://www.nydailynews.com/2026/04/10/make-ai-pay-for-the-jobs-it-takes-from-people/",
-            "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2026/04/shutterstock_2668704345.jpg?w=1024&h=683",
-            "publishedAt": "2026-04-10T09:00:38Z"
-        },
-        {
-            "source": {
-                "id": "2c8545196b0294859cd11b7b020d53bc",
-                "name": "KFF Health News",
-                "url": "https://kffhealthnews.org",
-                "country": "us"
-            },
-            "title": "Watch: As AI Makes More Health Coverage Decisions, the Risks to Patients Grow",
-            "url": "https://kffhealthnews.org/news/article/watch-ai-artificial-intelligence-prior-authorization-insurance-coverage-decisions/",
-            "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/04/AI-Prior-Authorization_web.jpg",
-            "publishedAt": "2026-04-10T09:00:00Z"
         }
     ]
 }
