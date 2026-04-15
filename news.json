@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-04-15T07:24:52.411856Z",
+    "lastUpdatedAt": "2026-04-15T09:14:18.480395Z",
     "articles": [
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "AI chatbots give misleading medical advice 50% of the time, study finds",
+            "url": "https://triblive.com/news/world/ai-chatbots-give-misleading-medical-advice-50-of-the-time-study-finds/",
+            "urlToImage": "https://assets-varnish.triblive.com/2026/04/9481830_web1_AP24162711569524.jpg",
+            "publishedAt": "2026-04-14T21:10:06Z"
+        },
+        {
+            "source": {
+                "id": "49853ffafc28f405ff8ed06043290ae8",
+                "name": "Global News",
+                "url": "https://globalnews.ca",
+                "country": "ca"
+            },
+            "title": "Canada’s AI minister says Anthropic withholding Mythos is ‘responsible’",
+            "url": "https://globalnews.ca/news/11801374/evan-solomon-anthropic-mythos-meeting/",
+            "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/04/anthropic-ai-evan-solomon.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2026-04-14T21:04:49Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Over 70% of Japan high school students use AI, mostly as study assistant: survey",
+            "url": "https://japantoday.com/category/tech/over-70-of-japan-highschoolers-use-ai-mostly-as-study-assistant-survey",
+            "urlToImage": "https://media.japantoday.com/img/store/fd/3b/192ca5802e293539f93e07b6d53b454b99de/ap23138717768313/_w1700.jpeg",
+            "publishedAt": "2026-04-14T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Descartes Systems Group Expands Artificial Intelligence Capabilities with Fleet Data Intelligence Platform",
+            "url": "https://www.marketscreener.com/news/descartes-systems-group-expands-artificial-intelligence-capabilities-with-fleet-data-intelligence-pl-ce7e50dfd18bfe23",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-04-14T20:55:48Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Geminus Ai, Bapco Energies, and Slb Deploy Physics-Native Ai to Optimize Bahrain's Energy Infrastructure",
+            "url": "https://www.marketscreener.com/news/geminus-ai-bapco-energies-and-slb-deploy-physics-native-ai-to-optimize-bahrain-s-energy-infrastruc-ce7e50dfd18bf123",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-04-14T20:53:22Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Hegseth-Affiliated Pastor Rebukes Trump Over AI Jesus Image",
+            "url": "https://www.newsmax.com/us/pastor-doug-williams-trump-jesus/2026/04/14/id/1252912/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=bea2f325-f620-4db3-89f7-b9c35b864451&SiteName=Newsmax",
+            "publishedAt": "2026-04-14T20:10:48Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Microsoft Expands AI Capacity Deal With Nscale at Narvik Campus",
+            "url": "https://www.marketscreener.com/news/microsoft-expands-ai-capacity-deal-with-nscale-at-narvik-campus-ce7e50dfde8ef02d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-04-14T20:08:08Z"
+        },
         {
             "source": {
                 "id": "046a50607901bb9bca25f6624dc87f76",
@@ -876,6 +960,24 @@
             "url": "https://theconversation.com/industries-most-exposed-to-ai-are-not-only-seeing-productivity-gains-but-jobs-and-wage-growth-too-224487",
             "urlToImage": "https://images.theconversation.com/files/729245/original/file-20260410-57-npvutu.jpg?ixlib=rb-4.1.0&rect=0%2C178%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
             "publishedAt": "2026-04-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "news_fb"
+            },
+            "title": "Meta Partners With Broadcom to Co-Develop Custom AI Silicon",
+            "url": "https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/",
+            "urlToImage": "https://about.fb.com/wp-content/uploads/2026/04/Meta_Broadcom_Header.jpg?fit=1920%2C1080",
+            "publishedAt": "2026-04-14 21:05:14"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Meta extends custom chips deal with Broadcom to power AI ambitions",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-extends-custom-chips-deal-with-broadcom-to-power-ai-ambitions/articleshow/130270999.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-31638,resizemode-75,msid-130270999/tech/artificial-intelligence/meta-extends-custom-chips-deal-with-broadcom-to-power-ai-ambitions.jpg",
+            "publishedAt": "2026-04-14 20:17:14"
         },
         {
             "source": {
@@ -3354,114 +3456,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-fears-about-anthropics-ai-model-mythos-made-ceos-of-google-openai-microsoft-crowdstrike-and-others-do-a-concall-with-the-us-government/articleshow/130190138.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-130190234,width-1280,height-720,imgsize-119902,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-04-11T11:10:00Z"
-        },
-        {
-            "source": {
-                "id": "0c047612bc7bc0113342d2651f47b208",
-                "name": "GB News",
-                "url": "https://www.gbnews.com",
-                "country": "gb"
-            },
-            "title": "Spotify unleashes new feature to tackle surge of AI music",
-            "url": "https://www.gbnews.com/tech/spotify-unleashes-new-feature-to-tackle-surge-of-ai-generated-music",
-            "urlToImage": "https://www.gbnews.com/media-library/spotify-logo.jpg?id=65432931&width=1200&height=600&coordinates=0%2C19%2C0%2C48",
-            "publishedAt": "2026-04-11T10:16:49Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "PLDT backs AI integration across educationand enterprise",
-            "url": "https://manilastandard.net/business/314725780/pldt-backs-ai-integration-across-educationand-enterprise.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2026/04/S3-PLDT-AI.jpeg",
-            "publishedAt": "2026-04-11T10:05:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Chitkara University Partners with JAN AI to Drive Inclusive Innovation and AI",
-            "url": "https://www.tribuneindia.com/news/business/chitkara-university-partners-with-jan-ai-to-drive-inclusive-innovation-and-ai-led-entrepreneurship-2-2/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/assets/v22-12/dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9kZXNpZ246ZmF2aWNvbjJmOGNiY2MwLTQyODktMTFlZi04NjVmLTU3YzNkNjY2OGU0Ng==",
-            "publishedAt": "2026-04-11T10:04:05Z"
-        },
-        {
-            "source": {
-                "id": "69e66981fb6f154068fb205e915bfbe6",
-                "name": "ESPN",
-                "url": "https://www.espn.com",
-                "country": "us"
-            },
-            "title": "How AI is pushing NFL draft prep to 'a different level'",
-            "url": "https://www.espn.com/nfl/story/_/id/48446759/nfl-draft-combine-artificial-intelligence-caleb-downs-arvell-reese-david-bailey",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0410%2Fr1641422_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-04-11T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Top US banks warned about new Anthropic AI tool",
-            "url": "https://www.bangkokpost.com/business/general/3235335/top-us-banks-warned-about-new-anthropic-ai-tool",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260411/c1_3235335_260411165730_700.jpg",
-            "publishedAt": "2026-04-11T09:52:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "DHS: California ABC News Using AI to Push Bias, Bury Facts from Immigration Coverage",
-            "url": "https://www.breitbart.com/border/2026/04/11/dhs-california-abc-news-using-ai-to-push-bias-bury-facts-from-immigration-coverage/",
-            "urlToImage": "https://media.breitbart.com/media/2026/04/50044960247_e71ed15000_k-1-640x335.jpg",
-            "publishedAt": "2026-04-11T09:45:40Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "From 'BuddhaBot' to $1.99 chats with AI Jesus, the faith",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-buddhabot-to-1-99-chats-with-ai-jesus-the-faith-based-tech-boom-is-here/articleshow/130188057.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-63406,resizemode-75,msid-130188057/tech/artificial-intelligence/from-buddhabot-to-1-99-chats-with-ai-jesus-the-faith-based-tech-boom-is-here.jpg",
-            "publishedAt": "2026-04-11T08:58:32Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "workers’ built into all of its …",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/cia-wants-to-have-ai-co-workers-built-into-all-of-its-/articleshow/130186976.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-130186986,width-1280,height-720,imgsize-53660,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-11T08:43:00Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Can AI be trusted? New documentary sparks fresh debate",
-            "url": "https://www.thenews.com.pk/latest/1398523-can-ai-be-trusted-new-documentary-sparks-fresh-debate",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-11/1398523_014832_updates.jpg",
-            "publishedAt": "2026-04-11T08:41:11Z"
         }
     ]
 }
