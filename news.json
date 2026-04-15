@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-04-15T05:19:41.397244Z",
+    "lastUpdatedAt": "2026-04-15T07:24:52.411856Z",
     "articles": [
+        {
+            "source": {
+                "id": "046a50607901bb9bca25f6624dc87f76",
+                "name": "NBC 5 Chicago",
+                "url": "https://www.nbcchicago.com",
+                "country": "us"
+            },
+            "title": "Could artificial intelligence help with your taxes?",
+            "url": "https://www.nbcchicago.com/news/tech/could-artificial-intelligence-help-with-your-taxes-experts-say-you-need-to-be-cautious/3922792/",
+            "urlToImage": "https://media.nbcchicago.com/2026/04/GettyImages-2213179432.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2026-04-14T19:18:08Z"
+        },
+        {
+            "source": {
+                "id": "8749653ef849c3df2e467a8e0f0c6672",
+                "name": "NBC10 Boston",
+                "url": "https://www.nbcboston.com",
+                "country": "us"
+            },
+            "title": "Could artificial intelligence help with your taxes?",
+            "url": "https://www.nbcboston.com/news/tech/could-artificial-intelligence-help-with-your-taxes-experts-say-you-need-to-be-cautious/3933680/",
+            "urlToImage": "https://media.nbcboston.com/2026/04/GettyImages-2213179432.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2026-04-14T19:18:08Z"
+        },
+        {
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            },
+            "title": "AI Stocks: Why These Companies Are Leading Or Lagging In 2026",
+            "url": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-2026-leaders-laggards-april13/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2017/12/Stock-ArtifIntel-01-shutt.jpg",
+            "publishedAt": "2026-04-14T18:30:33Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "BoE's Bailey sees major cybersecurity risks in new Anthropic model",
+            "url": "https://www.reuters.com/world/uk/boes-bailey-sees-major-cybersecurity-risks-new-anthropic-model-2026-04-14/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/X6JPJJQ2RNMWZIR6DZVWXR2YSY.jpg?auth=e49babdf4f48f5f937139acd23b8d1e99c31b4f4eaefa4513a44b027a4b8655d&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-14T18:24:21Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "BoE's Bailey sees major cybersecurity risks in new Anthropic model",
+            "url": "https://www.marketscreener.com/news/boe-s-bailey-sees-major-cybersecurity-risks-in-new-anthropic-model-ce7e50dfdf80f620",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-01T153413Z_1_LYNXMPEM302L9_RTROPTP_4_BRITAIN-BOE-BAILEY.JPG",
+            "publishedAt": "2026-04-14T18:24:21Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "AI chatbots give misleading medical advice 50% of the time, study finds",
+            "url": "https://www.spokesman.com/stories/2026/apr/14/ai-chatbots-give-misleading-medical-advice-50-of-t/",
+            "urlToImage": "https://thumb.spokesman.com/6GrCLSvyQhOKP_yvLfSBpmuKilw=/1200x630/smart/media.spokesman.com/photos/2026/04/14/69df13ecd2886.hires.jpg",
+            "publishedAt": "2026-04-14T17:54:00Z"
+        },
         {
             "source": {
                 "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
@@ -804,6 +876,15 @@
             "url": "https://theconversation.com/industries-most-exposed-to-ai-are-not-only-seeing-productivity-gains-but-jobs-and-wage-growth-too-224487",
             "urlToImage": "https://images.theconversation.com/files/729245/original/file-20260410-57-npvutu.jpg?ixlib=rb-4.1.0&rect=0%2C178%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
             "publishedAt": "2026-04-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Samsung Increases Some Galaxy Prices as Cost Pressures Mount",
+            "url": "https://www.cnet.com/tech/mobile/samsung-increases-some-galaxy-prices-as-cost-pressures-mount/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f7d30f7e81fa598dd2ce6417874b195054f41e2a/hub/2026/03/13/c3b4cbe8-971f-465c-b683-057fb7652d00/samsung-galaxy-z-flip-7-amazon-spring-sale-edits-2026.png?auto=webp&fit=crop&height=614&width=1092",
+            "publishedAt": "2026-04-14 18:22:04"
         },
         {
             "source": {
@@ -3381,90 +3462,6 @@
             "url": "https://www.thenews.com.pk/latest/1398523-can-ai-be-trusted-new-documentary-sparks-fresh-debate",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-11/1398523_014832_updates.jpg",
             "publishedAt": "2026-04-11T08:41:11Z"
-        },
-        {
-            "source": {
-                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
-                "name": "CBC.ca",
-                "url": "https://www.cbc.ca",
-                "country": "ca"
-            },
-            "title": "Liberal members will vote today on whether they'd like to see age restrictions for social media",
-            "url": "https://www.cbc.ca/news/politics/liberal-party-vote-on-social-media-age-restrictions-9.7159746",
-            "urlToImage": "https://i.cbc.ca/ais/eed8ba79-497c-4e5a-bd47-f8f727a94bb9,1775852975217/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C7375%2C4148%29%3BResize%3D620",
-            "publishedAt": "2026-04-11T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "ChatGPT’s Sam Altman home attacked with Molotov cocktail: CEO shares family photo, says, “I love them more than anything”",
-            "url": "https://timesofindia.indiatimes.com/etimes/trending/chatgpts-sam-altman-home-attacked-with-molotov-cocktail-ceo-shares-family-photo-says-i-love-them-more-than-anything/articleshow/130186660.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-130186660,width-1280,height-720,imgsize-888302,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-11T07:21:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Chitkara University Partners with JAN AI to Drive Inclusive Innovation and AI",
-            "url": "https://www.tribuneindia.com/news/business/chitkara-university-partners-with-jan-ai-to-drive-inclusive-innovation-and-ai-led-entrepreneurship/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVlZWRhMjAwLTM1NzYtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
-            "publishedAt": "2026-04-11T07:20:29Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "27% of workers say AI replaces some job tasks: Survey",
-            "url": "https://www.thenews.com.pk/latest/1398510-27-of-workers-say-ai-replaces-some-job-tasks-survey",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-11/1398510_120957_updates.jpg",
-            "publishedAt": "2026-04-11T07:02:18Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "From complexity to clarity: How AI is transforming insurance for customers",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-complexity-to-clarity-how-ai-is-transforming-insurance-for-customers/articleshow/130185935.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-130185928,width-1200,height-630,imgsize-44324,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-04-11T06:23:00Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "OpenAI CEO Sam Altman Links Molotov Attack On Home To Rising 'AI Anxiety'",
-            "url": "https://www.freepressjournal.in/tech/openai-ceo-sam-altman-links-molotov-attack-on-home-to-rising-ai-anxiety",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-04-11/2tdzv7gg/Open-AI-Sam-Altman.jpg",
-            "publishedAt": "2026-04-11T06:22:24Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "Bound Action to Position UP as India's 'Deep",
-            "url": "https://www.outlookbusiness.com/corporate/adityanath-calls-for-time-bound-action-to-position-up-as-indias-deep-tech-capital",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2025-09-10/6lzb3ym1/Deep-tech.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-04-11T06:20:42Z"
         }
     ]
 }
