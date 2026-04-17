@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-04-17T19:56:02.362998Z",
+    "lastUpdatedAt": "2026-04-17T20:41:10.080977Z",
     "articles": [
+        {
+            "source": {
+                "id": "2b5db686603d0197d748f18d2dc01aec",
+                "name": "Bloomberg Tax News",
+                "url": "https://news.bloombergtax.com",
+                "country": "us"
+            },
+            "title": "AI-Focused Accounting Is Hindered by State CPA Licensing Laws",
+            "url": "https://news.bloombergtax.com/daily-tax-report/ai-focused-accounting-is-hindered-by-state-cpa-licensing-laws",
+            "urlToImage": "https://bwrite-static.bloombergindustry.com/dims4/default/beb3600/2147483647/strip/false/crop/957x369+1+0/resize/960x370!/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F8f%2Fcd%2F325cc0b44bed8cf4c8509bd1dd62%2Fbli-law-image4-958x369.png",
+            "publishedAt": "2026-04-17T08:30:06Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "Anthropic unveils Claude Opus 4.7 with enhanced reasoning and coding abilities",
+            "url": "https://www.nation.com.pk/17-Apr-2026/anthropic-unveils-claude-opus-4-7-enhanced-reasoning-coding-abilities",
+            "urlToImage": "https://www.nation.com.pk/digital_images/large/2026-04-17/anthropic-launches-claude-opus-4-7-intelligent-public-ai-model-1776414377-8681.png",
+            "publishedAt": "2026-04-17T08:26:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "MeitY selects 10 Indian AI startups to spearhead second cohort of the IndiaAI Startups Global Acceleration Programme",
+            "url": "https://www.tribuneindia.com/news/business/meity-selects-10-indian-ai-startups-to-spearhead-second-cohort-of-the-indiaai-startups-global-acceleration-programme/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQwZjYyNmEwLTNhMzQtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
+            "publishedAt": "2026-04-17T08:05:45Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Sandra Bullock reacts to AI-generated 'Practical Magic 2' trailer",
+            "url": "https://www.thenews.com.pk/latest/1399301-sandra-bullock-reacts-to-ai-generated-practical-magic-2-trailer",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-17/1399301_125912_updates.jpg",
+            "publishedAt": "2026-04-17T07:59:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3366,42 +3414,6 @@
             "url": "https://www.gurutrade.com/news/meta-extends-custom-chips-deal-with-broadcom-to-power-ai-ambitions-1776243705.html",
             "urlToImage": "https://www.gurutrade.com/files/imagemanager/8/2/6/8263b1fd602f9362b9e87bef9b3ffab5_b07afd4fa9dc2daebe1574499af08474.jpg",
             "publishedAt": "2026-04-15 06:00:33"
-        },
-        {
-            "source": {
-                "name": "telecomlive"
-            },
-            "title": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI",
-            "url": "https://telecomlive.in/web/2026/04/15/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai/",
-            "urlToImage": "https://telecomlive.in/wp-content/uploads/default.jpg",
-            "publishedAt": "2026-04-15 04:42:12"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "Meta extends custom chips deal with Broadcom to power AI ambitions",
-            "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-extends-custom-chips-deal-with-broadcom-to-power-ai-ambitions-10637261/",
-            "urlToImage": "https://images.indianexpress.com/2026/04/IE-2026-04-14T093019.130.jpg",
-            "publishedAt": "2026-04-15 04:06:05"
-        },
-        {
-            "source": {
-                "name": "firstpost"
-            },
-            "title": "Meta extends custom chips deal with Broadcom to power AI ambitions",
-            "url": "https://www.firstpost.com/tech/meta-extends-custom-chips-deal-with-broadcom-to-power-ai-ambitions-14000559.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/02/social3-2026-02-57b8a2f84f32ac3fa9719a81ff27a3f6.jpg",
-            "publishedAt": "2026-04-15 03:18:02"
-        },
-        {
-            "source": {
-                "name": "investing_us"
-            },
-            "title": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI",
-            "url": "https://www.investing.com/news/stock-market-news/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai-4614183",
-            "urlToImage": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E03D_L.jpg",
-            "publishedAt": "2026-04-15 03:13:22"
         }
     ]
 }
