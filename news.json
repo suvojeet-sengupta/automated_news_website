@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-04-17T15:56:07.389984Z",
+    "lastUpdatedAt": "2026-04-17T16:53:25.400870Z",
     "articles": [
+        {
+            "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
+                "country": "us"
+            },
+            "title": "Authors are slamming Reese Witherspoon for telling followers 'it's time to learn AI'",
+            "url": "https://www.newsbreak.com/los-angeles-times-521565/4596760708451-authors-are-slamming-reese-witherspoon-for-telling-followers-it-s-time-to-learn-ai",
+            "urlToImage": "https://img.particlenews.com/img/id/4c0seC_1AWnyjKi00",
+            "publishedAt": "2026-04-17T04:33:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "AI Adoption Accelerates in Finance But Capabilities Are Lagging Behind",
+            "url": "https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/17/1017284.jpg",
+            "publishedAt": "2026-04-17T04:16:20Z"
+        },
         {
             "source": {
                 "id": "91120a92e0d24e24fbffb6d0affabfe6",
@@ -3381,30 +3405,6 @@
             "url": "https://www.reuters.com/business/meta-inks-deal-with-broadcom-custom-ai-chips-2026-04-14/",
             "urlToImage": "https://www.reuters.com/resizer/v2/2ZA7AXNRHJO7ZN3HROZV32AZSM.jpg?auth=0557b0677c64adb8964f53d5c2a20e59d696954b93e76256231d4ac6f87adff2&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2026-04-14T21:19:05Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Broadcom Announces Extended Partnership with Meta to Deploy Technology to Support Multi-Gigawatts of Meta’s Custom Silicon, MTIA",
-            "url": "https://www.manilatimes.net/2026/04/15/tmt-newswire/globenewswire/broadcom-announces-extended-partnership-with-meta-to-deploy-technology-to-support-multi-gigawatts-of-metas-custom-silicon-mtia/2320496",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/15/1013500.jpg",
-            "publishedAt": "2026-04-14T21:15:30Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "AI chatbots give misleading medical advice 50% of the time, study finds",
-            "url": "https://triblive.com/news/world/ai-chatbots-give-misleading-medical-advice-50-of-the-time-study-finds/",
-            "urlToImage": "https://assets-varnish.triblive.com/2026/04/9481830_web1_AP24162711569524.jpg",
-            "publishedAt": "2026-04-14T21:10:06Z"
         }
     ]
 }
