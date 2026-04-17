@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-04-17T07:26:16.162184Z",
+    "lastUpdatedAt": "2026-04-17T09:12:39.593682Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "OpenAI announces restricted-access cybersecurity model",
+            "url": "https://japantoday.com/category/tech/openai-announces-restricted-access-cybersecurity-model",
+            "urlToImage": "https://media.japantoday.com/img/store/34/54/768d596cd59c8f843674cd8dfd09862d8f96/e18390710557e5a1402e939fbf8ac67452ef11a7/_w1700.jpeg",
+            "publishedAt": "2026-04-16T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "010284b7a4ddb4771793c29b39893951",
+                "name": "CHEK News",
+                "url": "https://cheknews.ca",
+                "country": "ca"
+            },
+            "title": "AI content should be labelled, heritage committee says",
+            "url": "https://cheknews.ca/ai-content-should-be-labelled-heritage-committee-says-1319215/",
+            "urlToImage": "https://cheknews.ca/wp-content/uploads/2026/04/50942dba7c6473b3e7c1bdd07da805693a17a852c95568a4ba79f38b891437f3-e1776372064313.jpg",
+            "publishedAt": "2026-04-16T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "federal heritage committee",
+            "url": "https://www.cp24.com/news/canada/2026/04/16/ai-content-should-be-labelled-heritage-committee-says/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/XPKAFCA54KB7B33IFJWTKJJSHM.jpg?smart=true&auth=f9efc893cf5ccfa225403422dca1345b170c8bfcd466860073cc04750c825512&width=1200&height=630",
+            "publishedAt": "2026-04-16T20:39:00Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "AI content should be labelled, heritage committee says",
+            "url": "https://www.sootoday.com/national-news/ai-content-should-be-labelled-heritage-committee-says-12153791",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/50942dba7c6473b3e7c1bdd07da805693a17a852c95568a4ba79f38b891437f3.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-04-16T20:33:52Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "AI content should be labelled, heritage committee says",
+            "url": "https://www.baytoday.ca/national-news/ai-content-should-be-labelled-heritage-committee-says-12153791",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/50942dba7c6473b3e7c1bdd07da805693a17a852c95568a4ba79f38b891437f3.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-04-16T20:33:52Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "RBC, Scotiabank pull back on climate goals",
+            "url": "https://www.bnnbloomberg.ca/business/2026/04/16/rbc-scotiabank-pull-back-on-climate-goals/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/FHX6V2QWYEO7N4JPZDU3DN6QTE.jpg?smart=true&auth=d21df1250efc790b8af0b468756035bb9becdcf49f24f7bd5b0bcb589c0f75a0&width=1200&height=630",
+            "publishedAt": "2026-04-16T20:20:40Z"
+        },
+        {
+            "source": {
+                "id": "d450a3b06d0af449e32342c47df2baf4",
+                "name": "Detroit Free Press",
+                "url": "https://www.freep.com",
+                "country": "us"
+            },
+            "title": "AI without regulation will delete jobs",
+            "url": "https://www.freep.com/story/money/cars/2026/04/16/uaw-fain-bernie-sanders-ai-regulation-jobs-labor-economy/89645780007/",
+            "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2025/09/01/PDTF/85930080007-20250901-labor-day-parade-fg-04.jpg?crop=2047,1152,x0,y106&width=2047&height=1152&format=pjpg&auto=webp",
+            "publishedAt": "2026-04-16T19:33:04Z"
+        },
         {
             "source": {
                 "id": "933344203c2b862af768b5e662a162a4",
@@ -1140,6 +1224,15 @@
             "url": "https://www.caixinglobal.com/2026-04-16/china-unveils-national-aieducation-plan-to-transform-classrooms-by-2030-102434567.html",
             "urlToImage": "https://img.caixin.com/2026-04-16/177629577040197_560_373.jpg",
             "publishedAt": "2026-04-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Are we getting what we paid for? How to turn AI momentum into measurable value",
+            "url": "https://venturebeat.com/infrastructure/are-we-getting-what-we-paid-for-how-to-turn-ai-momentum-into-measurable-value",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/DqtVqZttXPsQQAic9qim9/7c71a0677fefeb40a57eb76b6067caee/184_VentureBeats_RedHat_AISummitBoston_032626.jpg?w=800&q=75",
+            "publishedAt": "2026-04-16 19:55:13"
         },
         {
             "source": {
@@ -3327,102 +3420,6 @@
             "url": "https://www.manilatimes.net/2026/04/15/business/foreign-business/nissan-to-trim-global-car-lineup-boost-use-of-ai-driving-tech/2319725",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/14/1012136.jpg",
             "publishedAt": "2026-04-14T16:05:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "China's EV makers accelerate push into chips, AI amid global cooperation",
-            "url": "https://www.manilatimes.net/2026/04/15/business/foreign-business/chinas-ev-makers-accelerate-push-into-chips-ai-amid-global-cooperation/2319752",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/14/1012188.jpg",
-            "publishedAt": "2026-04-14T16:04:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "IMF Urges Nations to Stay at Frontier of Mounting AI Risks",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-14/imf-urges-nations-to-stay-at-frontier-of-mounting-ai-risks",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0KJYJu8rZho/v0/1200x800.jpg",
-            "publishedAt": "2026-04-14T15:29:28Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "CEOs are betting AI will augment work rather than displace all workers",
-            "url": "https://www.cnbc.com/2026/04/14/ceos-are-betting-ai-will-augment-work-rather-than-displace-all-workers.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108291032-1776170422892-gettyimages-2270740029-IMF_WORLD_BANK.jpeg?v=1776170454&w=1920&h=1080",
-            "publishedAt": "2026-04-14T15:17:24Z"
-        },
-        {
-            "source": {
-                "id": "72ea416416ab0eec8fe687d6262961e8",
-                "name": "Finbold",
-                "url": "https://finbold.com",
-                "country": "bg"
-            },
-            "title": "Machine learning algorithm predicts Nvidia stock price on April 30, 2026",
-            "url": "https://finbold.com/machine-learning-algorithm-predicts-nvidia-stock-price-on-april-30-2026/",
-            "urlToImage": "https://assets.finbold.com/uploads/2026/04/Machine-learning-algorithm-predicts-Nvidia-stock-price-on-April-30-2026.jpeg",
-            "publishedAt": "2026-04-14T14:20:22Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "'Likes to mix it up'",
-            "url": "https://nypost.com/2026/04/14/us-news/jd-vance-defends-trump-posting-ai-image-of-him-as-jesus-likes-to-mix-it-up/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/04/Vance-2.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-04-14T13:50:31Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Oracle to buy power from Bloom Energy for AI, company reveals it issued warrant for Oracle to …",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-to-buy-power-from-bloom-energy-for-ai-company-reveals-it-issued-warrant-for-oracle-to-/articleshow/130260879.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-130260858,width-1280,height-720,imgsize-15924,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-14T13:42:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI boom yet to lift global productivity: IMF",
-            "url": "https://www.lokmattimes.com/technology/ai-boom-yet-to-lift-global-productivity-imf-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202604143748340_202604.jpg",
-            "publishedAt": "2026-04-14T13:37:40Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI boom yet to lift global productivity: IMF",
-            "url": "https://www.lokmattimes.com/business/ai-boom-yet-to-lift-global-productivity-imf/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202604143748340_202604.jpg",
-            "publishedAt": "2026-04-14T13:37:40Z"
         }
     ]
 }
