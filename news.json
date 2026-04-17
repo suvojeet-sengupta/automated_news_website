@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-04-17T14:51:28.032152Z",
+    "lastUpdatedAt": "2026-04-17T15:56:07.389984Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "'AI shamans' tell the fortunes of curious South Koreans",
+            "url": "https://www.bangkokpost.com/life/tech/3238599/ai-shamans-tell-the-fortunes-of-curious-south-koreans",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260417/c1_6053364_700.jpg",
+            "publishedAt": "2026-04-17T03:45:00Z"
+        },
+        {
+            "source": {
+                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
+                "name": "Deadline",
+                "url": "https://deadline.com",
+                "country": "us"
+            },
+            "title": "Sandra Bullock Encourages Hollywood To \"Lean Into\" AI",
+            "url": "https://deadline.com/2026/04/sandra-bullock-encourages-hollywood-lean-into-ai-1236864020/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/P105JQRL-e1776396349802.jpg?w=1024",
+            "publishedAt": "2026-04-17T03:39:21Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -3381,30 +3405,6 @@
             "url": "https://triblive.com/news/world/ai-chatbots-give-misleading-medical-advice-50-of-the-time-study-finds/",
             "urlToImage": "https://assets-varnish.triblive.com/2026/04/9481830_web1_AP24162711569524.jpg",
             "publishedAt": "2026-04-14T21:10:06Z"
-        },
-        {
-            "source": {
-                "id": "49853ffafc28f405ff8ed06043290ae8",
-                "name": "Global News",
-                "url": "https://globalnews.ca",
-                "country": "ca"
-            },
-            "title": "Canada’s AI minister says Anthropic withholding Mythos is ‘responsible’",
-            "url": "https://globalnews.ca/news/11801374/evan-solomon-anthropic-mythos-meeting/",
-            "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/04/anthropic-ai-evan-solomon.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-            "publishedAt": "2026-04-14T21:04:49Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Over 70% of Japan high school students use AI, mostly as study assistant: survey",
-            "url": "https://japantoday.com/category/tech/over-70-of-japan-highschoolers-use-ai-mostly-as-study-assistant-survey",
-            "urlToImage": "https://media.japantoday.com/img/store/fd/3b/192ca5802e293539f93e07b6d53b454b99de/ap23138717768313/_w1700.jpeg",
-            "publishedAt": "2026-04-14T21:00:00Z"
         }
     ]
 }
