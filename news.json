@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-04-17T20:41:10.080977Z",
+    "lastUpdatedAt": "2026-04-17T21:37:37.208415Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Microsoft-Backed OpenAI Launches GPT-Rosalind AI Model For Medical Applications",
+            "url": "https://www.marketscreener.com/news/microsoft-backed-openai-launches-gpt-rosalind-ai-model-for-medical-applications-ce7e50d2dc8ef225",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-04-17T09:10:58Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "A Family Feud at an Oregon Winery Turns to Vinegar Over A.I. Slop",
+            "url": "https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/04/17/multimedia/17nat-AI-winery-1-hcjz/17nat-AI-winery-1-hcjz-facebookJumbo.jpg",
+            "publishedAt": "2026-04-17T09:02:40Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "The attack on Sam Altman exposed a dark underbelly of the anti-AI movement",
+            "url": "https://edition.cnn.com/2026/04/17/tech/anti-ai-attack-sam-altman",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/s260734718.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-04-17T09:00:55Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "The attack on Sam Altman exposed a dark underbelly of the anti-AI movement",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2026/04/17/the-attack-on-sam-altman-exposed-a-dark-underbelly-of-the-anti-ai-movement/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
+            "publishedAt": "2026-04-17T09:00:55Z"
+        },
+        {
+            "source": {
+                "id": "c1903669db0b115cc673ce9c333a70dd",
+                "name": "Charleston Post and Courier",
+                "url": "https://www.postandcourier.com",
+                "country": "us"
+            },
+            "title": "TasteSignal.ai uses AI to rank Charleston, SC, restaurants",
+            "url": "https://www.postandcourier.com/food/taste-signal-ai-best-charleston-sc-restaurants/article_06bbe84c-6694-4842-ad6c-e70fa7ec87dd.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/b9/ab979ddc-8134-407b-b1c6-8f9bbdcdf6dd/69df9697b1188.image.jpg?crop=1439%2C756%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-04-17T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "2c8545196b0294859cd11b7b020d53bc",
+                "name": "KFF Health News",
+                "url": "https://kffhealthnews.org",
+                "country": "us"
+            },
+            "title": "Listen: With Little Federal Regulation, States Are Left To Shape the Rules on AI in Health Care",
+            "url": "https://kffhealthnews.org/news/article/wamu-health-hub-ai-state-regulation-april-15-2026/",
+            "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/04/GettyImages-1406698352_3840x2560web.jpg",
+            "publishedAt": "2026-04-17T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk",
+                "country": "gb"
+            },
+            "title": "Bank of England to test the risk AI poses to country's financial stability - as Governor warns of Anthropic cyber threat",
+            "url": "https://www.dailymail.co.uk/money/markets/article-15741415/Bank-England-test-risk-AI-poses-countrys-financial-stability-Governor-warns-Anthropic-cyber-threat.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2026/04/17/09/107962519-0-image-a-8_1776413831716.jpg",
+            "publishedAt": "2026-04-17T08:41:44Z"
+        },
         {
             "source": {
                 "id": "2b5db686603d0197d748f18d2dc01aec",
@@ -276,6 +360,24 @@
             "url": "https://www.caixinglobal.com/2026-04-17/cx-daily-bytedances-billion-yuan-bet-on-chinas-first-ai-native-hospital-102434759.html",
             "urlToImage": "https://img.caixin.com/2026-04-07/177551811265789_560_373.jpg",
             "publishedAt": "2026-04-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Inside Amazon's AI Sprawl problem: More Tools, More Data, Less Control",
+            "url": "https://us.headtopics.com/news/inside-amazon-s-ai-sprawl-problem-more-tools-more-data-82334343",
+            "urlToImage": "https://i.headtopics.com/images/2026/4/17/businessinsider/inside-amazon-s-ai-sprawl-problem-more-tools-more--inside-amazon-s-ai-sprawl-problem-more-tools-more--511B768D905D44A82C59D09C950BC24D.webp",
+            "publishedAt": "2026-04-17 09:35:31"
+        },
+        {
+            "source": {
+                "name": "insider"
+            },
+            "title": "Amazon's AI boom is creating a mess of duplicate tools and data inside the company",
+            "url": "https://www.businessinsider.com/ai-sprawl-amazon-tool-duplication-data-risk-2026-4",
+            "urlToImage": "https://i.insider.com/69e0377a3c23517615b2f9ad?width=1200&format=jpeg",
+            "publishedAt": "2026-04-17 09:00:02"
         },
         {
             "source": {
@@ -3333,87 +3435,6 @@
             "url": "https://startupnews.fyi/2026/04/15/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai/",
             "urlToImage": "https://i1.wp.com/img.etimg.com/thumb/width-1200,height-900,imgsize-36998,resizemode-75,msid-130280959/tech/technology/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai.jpg?ssl=1",
             "publishedAt": "2026-04-15 11:15:08"
-        },
-        {
-            "source": {
-                "name": "techgenyz"
-            },
-            "title": "On-Device AI vs Cloud AI: Critical Differences That Matter in 2026",
-            "url": "https://techgenyz.com/on-device-ai-vs-cloud-ai-smartphone-features/",
-            "urlToImage": "https://techgenyz.com/wp-content/uploads/2026/04/on-device-and-cloude-ai.webp",
-            "publishedAt": "2026-04-15 11:00:00"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI",
-            "url": "https://economictimes.indiatimes.com/tech/technology/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai/articleshow/130280959.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1600,height-900,imgsize-36998,resizemode-75,msid-130280959/tech/technology/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai.jpg",
-            "publishedAt": "2026-04-15 10:31:43"
-        },
-        {
-            "source": {
-                "name": "communitynewspapergroup"
-            },
-            "title": "OpenAI announces restricted-access cybersecurity model",
-            "url": "https://www.communitynewspapergroup.com/news/nation/openai-announces-restricted-access-cybersecurity-model/article_d961385e-b335-5a3e-969a-ba215f7b5206.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/communitynewspapergroup.com/content/tncms/assets/v3/editorial/5/6d/56d28437-00e9-5945-8aa3-ac9a25ba69ea/69ca14f147b01.image.jpg?crop=341%2C341%2C85%2C0&resize=200%2C200&order=crop%2Cresize",
-            "publishedAt": "2026-04-15 09:56:11"
-        },
-        {
-            "source": {
-                "name": "postguam"
-            },
-            "title": "OpenAI announces restricted-access cybersecurity model",
-            "url": "https://www.postguam.com/news/national/openai-announces-restricted-access-cybersecurity-model/article_79ab782f-e561-5a5c-8461-60a6f1632710.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/8/6d/86d32591-c670-5e80-9023-ac439839e24c/69ca14f50ebe5.image.jpg?crop=341%2C341%2C85%2C0&resize=200%2C200&order=crop%2Cresize",
-            "publishedAt": "2026-04-15 09:56:11"
-        },
-        {
-            "source": {
-                "name": "themercury"
-            },
-            "title": "OpenAI announces restricted-access cybersecurity model",
-            "url": "https://themercury.com/news/national/openai-announces-restricted-access-cybersecurity-model/article_647251da-e4d8-5009-a2bb-295fc786cf15.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/assets/v3/editorial/5/8e/58eecda6-6f68-5878-8fcd-5e019981a37f/69ca154554b82.image.jpg?crop=341%2C341%2C85%2C0&resize=200%2C200&order=crop%2Cresize",
-            "publishedAt": "2026-04-15 09:56:11"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "The evidence is in your pocket, is the law ready to read it",
-            "url": "https://timesofindia.indiatimes.com/legal/news/the-evidence-is-in-your-pocket-is-the-law-ready-to-read-it/articleshow/130276499.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-130278926/130278926.jpg",
-            "publishedAt": "2026-04-15 08:58:27"
-        },
-        {
-            "source": {
-                "name": "itbrief_in"
-            },
-            "title": "Gigamon eyes AI-led surge in network observability",
-            "url": "https://itbrief.in/story/gigamon-eyes-ai-led-surge-in-network-observability",
-            "urlToImage": "https://itbrief.in/uploads/story/2026/04/15/compatible_flux-result-7e53bfb0-8762-42b1-973c-f943402140c5.jpg",
-            "publishedAt": "2026-04-15 08:15:00"
-        },
-        {
-            "source": {
-                "name": "brandiconimage"
-            },
-            "title": "DEEPX Deepens Hyundai Alliance as It Eyes IPO and AI Robotics Breakthroughs",
-            "url": "http://www.brandiconimage.com/2026/04/deepx-deepens-hyundai-alliance-as-it.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAMUK02hm9BQIVzO8mmQQogTx7OzECT2TQ0_qDHp_K2OfiZr0FXHQWbyXbxERRh7DiejVMubVa3UvdPsshff7E4zBUctiWIK6Oywyb4aRBc2q3ug0VcjJoLYQ-iUjZEn2OQQdhTi43sBSDAFF3rUSUWgqUtytkLrg6AxQTJwzh6clFSBfYMC-sO6RdHSM/w1200-h675-p-k-no-nu/1000421149.jpg",
-            "publishedAt": "2026-04-15 06:50:00"
-        },
-        {
-            "source": {
-                "name": "gurutrade"
-            },
-            "title": "Meta Extends Custom Chips Deal with Broadcom to Power AI Ambitions",
-            "url": "https://www.gurutrade.com/news/meta-extends-custom-chips-deal-with-broadcom-to-power-ai-ambitions-1776243705.html",
-            "urlToImage": "https://www.gurutrade.com/files/imagemanager/8/2/6/8263b1fd602f9362b9e87bef9b3ffab5_b07afd4fa9dc2daebe1574499af08474.jpg",
-            "publishedAt": "2026-04-15 06:00:33"
         }
     ]
 }
