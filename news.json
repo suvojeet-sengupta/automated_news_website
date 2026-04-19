@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-04-19T19:38:04.518110Z",
+    "lastUpdatedAt": "2026-04-19T20:32:24.126285Z",
     "articles": [
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "South China Morning Post",
+            "url": "https://www.scmp.com/opinion/world-opinion/article/3350030/ai-advancing-now-its-humans-redefine-their-worth",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/04/14/ed8a493d-9dae-4c21-a90f-dce6a8ac3ffc_db50fc1d.jpg?itok=tf-puETJ&v=1776155709",
+            "publishedAt": "2026-04-19T08:30:07Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "From using AI to deploying more pumps—how BMC is preparing for monsoon this year",
+            "url": "https://indianexpress.com/article/cities/mumbai/from-using-ai-to-deploying-more-pumps-how-bmc-preparing-for-monsoon-this-year-10644772/",
+            "urlToImage": "https://images.indianexpress.com/2026/04/BMC-mumbai-1.jpg",
+            "publishedAt": "2026-04-19T08:06:35Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "'It Was Purely A Gimmick': Varun Dhawan's Hai Jawani Toh Ishq Hona Hai Team Denies AI Use In Film Amid Row Over 'AI Babies' In Teaser",
+            "url": "https://www.freepressjournal.in/entertainment/it-was-purely-a-gimmick-varun-dhawans-hai-jawani-toh-ishq-hona-hai-team-denies-ai-use-in-film-amid-row-over-ai-babies-in-teaser",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-04-19/g0hbeta9/Screenshot-2026-04-19-130919.png",
+            "publishedAt": "2026-04-19T07:40:49Z"
+        },
         {
             "source": {
                 "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
@@ -3438,42 +3474,6 @@
             "url": "https://www.bangkokpost.com/business/general/3237740/semiconductor-shortage-driving-up-it-product-prices",
             "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/04/16/6050885_700.jpg",
             "publishedAt": "2026-04-16T00:12:00Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "FTI warns of semiconductor shortage",
-            "url": "https://www.bangkokpost.com/business/general/3237740/fti-warns-of-semiconductor-shortage",
-            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/04/16/6050885_700.jpg",
-            "publishedAt": "2026-04-16T00:12:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "TSMC set to post 50% quarterly profit jump, extend record earnings on insatiable AI demand",
-            "url": "https://www.reuters.com/world/asia-pacific/tsmc-set-post-50-quarterly-profit-jump-extend-record-earnings-on-insatiable-ai-2026-04-16/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/YCOPUR6EDNKW3DSKO26CTGZVTU.jpg?auth=a2efb2861da0807c7e7dfa25c49caf6af627b560e35691bbf8daa890e549254c&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-04-16T00:06:10Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "TSMC set to post 50% quarterly profit jump, extend record earnings on insatiable AI demand",
-            "url": "https://www.marketscreener.com/news/tsmc-set-to-post-50-quarterly-profit-jump-extend-record-earnings-on-insatiable-ai-demand-ce7e50ddd981f624",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-10T053612Z_1_LYNXMPEM3908A_RTROPTP_4_TSMC-RESULTS.JPG",
-            "publishedAt": "2026-04-16T00:02:02Z"
         }
     ]
 }
