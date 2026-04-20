@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-04-20T05:36:11.984520Z",
+    "lastUpdatedAt": "2026-04-20T07:59:42.503129Z",
     "articles": [
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "The Irish Times view on artificial intelligence: self-regulation is a dangerous myth",
+            "url": "https://www.irishtimes.com/opinion/editorials/2026/04/19/the-irish-times-view-on-artificial-intelligence-self-regulation-is-a-dangerous-myth/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/E4STLZ2ZQIUUAUYJNW4RLJ5ZOM.jpg?smart=true&auth=5d9afebb38b300c590aba7ab4c96018ecfebe226af70841c0087dd92425383f3&width=1200&height=630",
+            "publishedAt": "2026-04-19T19:30:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "M K Stalin unveils Chennai-focused 'Super Six' development promises ahead of Tamil Nadu polls",
+            "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/tamil-nadu/m-k-stalin-unveils-chennai-focused-super-six-development-plans/articleshow/130376980.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-130377344,width-1200,height-630,imgsize-84142,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-04-19T19:11:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Rajnath Singh's Germany visit focus: Defence Industry coop, weapons' coproduction",
+            "url": "https://economictimes.indiatimes.com/news/defence/rajnath-singhs-germany-visit-focus-defence-industry-coop-weapons-coproduction/articleshow/130376742.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-130376774,width-1200,height-630,imgsize-92990,overlay-etdefence/articleshow.jpg",
+            "publishedAt": "2026-04-19T18:26:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "When AI runs the firm, who pays tax?",
+            "url": "https://economictimes.indiatimes.com/opinion/et-editorial/when-ai-runs-the-firm-who-pays-tax/articleshow/130375594.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-26134,resizemode-75,msid-130375594/opinion/et-editorial/when-ai-runs-the-firm-who-pays-tax.jpg",
+            "publishedAt": "2026-04-19T17:42:48Z"
+        },
         {
             "source": {
                 "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
@@ -3417,54 +3465,6 @@
             "url": "https://www.news18.com/business/markets/allbirds-stock-skyrockets-582-in-a-day-on-plan-to-pivot-from-sneakers-to-ai-ws-l-10035887.html",
             "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/04/allbirds-160022295-16x9_0-2026-04-7d29dcefc190acd9dbe8fd32125ad80c-1200x675.jpg",
             "publishedAt": "2026-04-16T06:27:03Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "Sundar Pichai, Dario Amodei, Neal Mohan are among top tech leaders on Time 100 2026 list",
-            "url": "https://www.businesstoday.in/technology/story/sundar-pichai-dario-amodei-neal-mohan-are-among-top-tech-leaders-on-time-100-2026-list-525920-2026-04-16",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202604/69e080538dfc5-top-tech-leaders-on-time-100-2026-list-162309125-16x9.png",
-            "publishedAt": "2026-04-16T06:25:58Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "TOPSEC Deepens Presence in Hong Kong, Attends WIC Asia-Pacific Summit",
-            "url": "https://www.manilatimes.net/2026/04/16/tmt-newswire/pr-newswire/topsec-deepens-presence-in-hong-kong-attends-wic-asia-pacific-summit/2321633",
-            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-04-16T06:08:56Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure",
-            "url": "https://www.breitbart.com/news/chatgpt-maker-openai-shifts-its-focus-to-business-users-amid-anthropic-pressure/",
-            "urlToImage": "https://media.breitbart.com/media/2026/04/wi/ap/us-openai-164-us-openai-openai-logo-is-displayed-cell-phone-an-image-computer-monitor-generated-by-640x335.jpg",
-            "publishedAt": "2026-04-16T06:03:46Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Private Credit's Biggest User Is in an Even Worse Place",
-            "url": "https://www.bloomberg.com/opinion/articles/2026-04-16/private-equity-is-in-a-worse-place-than-private-credit-on-ai-threat",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCVHU8koOXIM/v2/1200x800.jpg",
-            "publishedAt": "2026-04-16T06:00:14Z"
         }
     ]
 }
