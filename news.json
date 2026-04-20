@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-04-20T14:44:39.499572Z",
+    "lastUpdatedAt": "2026-04-20T16:03:52.283655Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Siemens Threatens to Skip Europe for AI Spending Due to Rules",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-20/siemens-threatens-to-skip-europe-for-ai-spending-due-to-rules",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI9peCmwwLfI/v8/1200x800.jpg",
+            "publishedAt": "2026-04-20T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "US security agency is using Anthropic’s Mythos despite blacklist: Report",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/us-security-agency-is-using-anthropics-mythos-despite-blacklist-report-10645793/",
+            "urlToImage": "https://images.indianexpress.com/2026/03/IE-2026-03-06T092344.821_20260311212443.jpg",
+            "publishedAt": "2026-04-20T03:55:43Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Germany's Friedrich Merz says industrial AI needs less stringent EU regulation",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/germanys-friedrich-merz-says-industrial-ai-needs-less-stringent-eu-regulation/articleshow/130381672.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-608865,resizemode-75,msid-130381672/tech/artificial-intelligence/germanys-friedrich-merz-says-industrial-ai-needs-less-stringent-eu-regulation.jpg",
+            "publishedAt": "2026-04-20T03:25:28Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Trump wants to stop states from regulating AI. This Utah Republican isn't listening",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-wants-to-stop-states-from-regulating-ai-this-utah-republican-isnt-listening/articleshow/130381440.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7066,resizemode-75,msid-130381440/tech/artificial-intelligence/trump-wants-to-stop-states-from-regulating-ai-this-utah-republican-isnt-listening.jpg",
+            "publishedAt": "2026-04-20T03:05:49Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -3405,54 +3453,6 @@
             "url": "https://economictimes.indiatimes.com/tech/startups/amercian-express-to-buy-altman-backed-hyper-in-push-for-ai-powered-expense-tools/articleshow/130308811.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-113200,resizemode-75,msid-130308811/tech/startups/amercian-express-to-buy-altman-backed-hyper-in-push-for-ai-powered-expense-tools.jpg",
             "publishedAt": "2026-04-16T13:25:23Z"
-        },
-        {
-            "source": {
-                "id": "bff0cd3b8c64dceaada8841bea814f65",
-                "name": "The Telegraph",
-                "url": "https://www.telegraph.co.uk",
-                "country": "gb"
-            },
-            "title": "Britain’s stock market eclipsed by Taiwan on AI boom",
-            "url": "https://www.telegraph.co.uk/business/2026/04/16/britains-stock-market-eclipsed-by-taiwan-on-ai-boom/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2026/04/16/TELEMMGLPICT000476426690_17763455104630_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?impolicy=OG-Standard",
-            "publishedAt": "2026-04-16T13:24:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI turns plain-language prompts into lab-ready recipes for novel materials",
-            "url": "https://phys.org/news/2026-04-ai-plain-language-prompts-lab.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/researchers-use-large.jpg",
-            "publishedAt": "2026-04-16T13:20:05Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "AmEx to buy Altman-backed Hyper in push for AI-powered expense tools",
-            "url": "https://www.marketscreener.com/news/amex-to-buy-altman-backed-hyper-in-push-for-ai-powered-expense-tools-ce7e50ddde8ef220",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-17T110846Z_1_LYNXMPEL3G0G2_RTROPTP_4_FINANCE-AMERICAN-EXPRESS.JPG",
-            "publishedAt": "2026-04-16T13:17:55Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Hooking the future: Scientists deploys AI to track hilsa in Bengal-but fishers fear it may net more than it should",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/hooking-the-future-scientists-deploys-ai-to-track-hilsa-in-bengalbut-fishers-fear-it-may-net-more-than-it-should/articleshow/130307061.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-130307149,width-1200,height-630,imgsize-2155659,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-04-16T12:21:00Z"
         }
     ]
 }
