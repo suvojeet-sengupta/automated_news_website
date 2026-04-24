@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-04-24T15:04:10.009513Z",
+    "lastUpdatedAt": "2026-04-24T16:50:53.204684Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "DeepSeek’s Sequel Set to Extend China’s Reach in Open-Source A.I.",
+            "url": "https://www.nytimes.com/2026/04/24/business/china-ai-deepseek-open-source.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/04/10/multimedia/00Biz-DeepSeek-01-vfzw/00Biz-DeepSeek-01-vfzw-facebookJumbo.jpg",
+            "publishedAt": "2026-04-24T04:29:39Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Meta layoffs: 10pc workforce cut as company invests in AI and shuts thousands of open roles",
+            "url": "https://www.thenews.com.pk/latest/1400157-meta-layoffs-10pc-workforce-cut-as-company-invests-billions-in-ai-and-shuts-thousands-of-open-roles",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-24/1400157_092711_updates.jpg",
+            "publishedAt": "2026-04-24T04:25:57Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Meta to layoff 8,000 from its workforce, amid AI spending push: Report",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-to-layoff-8000-from-its-workforce-amid-ai-spending-push-report-10653052/",
+            "urlToImage": "https://images.indianexpress.com/2026/04/IE-2026-04-14T093019.130.jpg",
+            "publishedAt": "2026-04-24T03:57:39Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Trump administration vows crackdown on Chinese companies 'exploiting' AI models made in US",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-administration-announces-aggressive-action-against-chinese-theft-of-us-ai-technology/articleshow/130482919.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-130482980,width-1200,height-630,imgsize-69872,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-04-24T03:52:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "China's DeepSeek returns with new model, a year after viral rise",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-deepseek-returns-with-new-model-a-year-after-viral-rise/articleshow/130482795.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-148130,resizemode-75,msid-130482795/tech/artificial-intelligence/chinas-deepseek-returns-with-new-model-a-year-after-viral-rise.jpg",
+            "publishedAt": "2026-04-24T03:33:13Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Musk Is Chasing the Smart AI Money With $60 Billion Deal",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-04-24/spacex-ai-musk-is-chasing-the-smart-money-with-60-billion-cursor-deal",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iChVCP69Qf8A/v1/1200x800.jpg",
+            "publishedAt": "2026-04-24T03:30:18Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Meta to cut 10% of global workforce, and this is what the severance pay looks like",
+            "url": "https://www.firstpost.com/tech/meta-to-cut-10-of-global-workforce-and-this-is-what-the-severance-pay-looks-like-14003810.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/02/social3-2026-02-57b8a2f84f32ac3fa9719a81ff27a3f6.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-04-24T03:30:11Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Meta to lay off 8,000 employees amid increased AI apending",
+            "url": "https://www.tribuneindia.com/news/business/meta-to-lay-off-8000-employees-amid-increased-ai-apending/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIwOGQzOWEwLTNmOGQtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
+            "publishedAt": "2026-04-24T03:28:33Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "DeepSeek Unveils Newest Flagship AI Model a Year after Upending Silicon Valley",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYfZqUUSyRu8/v1/1200x826.jpg",
+            "publishedAt": "2026-04-24T03:15:33Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "China's AI darling DeepSeek previews new model adapted for Huawei chip technology",
+            "url": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/R3XMNYE4IRKD3O3ZBK7X4E4WLI.jpg?auth=12349468084cd531a26c1819933d1df33c76e47506ffd7448de7cba08c6ede9a&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-24T03:11:14Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -156,6 +276,15 @@
             "url": "https://www.livemint.com/market/china-tech-split-emerges-as-chinext-rally-beats-hong-kong-peer-11776989084705.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
             "publishedAt": "2026-04-24T00:04:44Z"
+        },
+        {
+            "source": {
+                "name": "france24"
+            },
+            "title": "US-China AI race intensifies as DeepSeek releases 'reduced' cost model",
+            "url": "https://www.france24.com/en/technology/20260424-us-china-ai-race-intensifies-as-deepseek-releases-new-reduced-cost-model",
+            "urlToImage": "https://s.france24.com/media/display/04213828-33bd-11f1-bfdf-005056bfb2b6/w:1280/p:16x9/ca270a4fbecdf04f8e9ce6b16ffa9d35ba9c1ac3.jpg",
+            "publishedAt": "2026-04-24 04:39:12"
         },
         {
             "source": {
@@ -3318,126 +3447,6 @@
             "url": "https://hackernoon.com/the-eternal-junior-why-ai-computes-but-does-not-think",
             "urlToImage": "https://hackernoon.imgix.net/images/VlDXwDcPdJVNsY33SrxUJMW6gD23-q883988.png",
             "publishedAt": "2026-04-22 04:55:08"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "Four southern universities form Mid-South AI Research Consortium to share resources and develop regional workforce",
-            "url": "https://completeaitraining.com/news/four-southern-universities-form-mid-south-ai-research/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/four-southern-universities-form-mid-south-ai-research-consortium-to-share-resour_2026-04-21.jpg",
-            "publishedAt": "2026-04-22 02:39:04"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "The Latest Generative AI News: Trends, Breakthroughs, and What’s Next",
-            "url": "https://techannouncer.com/the-latest-generative-ai-news-trends-breakthroughs-and-whats-next/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2026/04/897ccf33journalist2Fcd06ca4b-015b-4432-96a5-b6686a4f77e82Fthumbnail.jpeg",
-            "publishedAt": "2026-04-22 02:23:12"
-        },
-        {
-            "source": {
-                "name": "norfolkdailynews"
-            },
-            "title": "KIOXIA Unveils Value-Oriented QLC-based EG7 Series SSDs for PC OEMs",
-            "url": "https://norfolkdailynews.com/online_features/press_releases/kioxia-unveils-value-oriented-qlc-based-eg7-series-ssds-for-pc-oems/article_35003fd7-3fd1-513f-9373-33d921dbbc86.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/custom/image/72aed2a4-e15d-11e5-99a9-77342f37c000.jpg?resize=600%2C315",
-            "publishedAt": "2026-04-22 01:00:00"
-        },
-        {
-            "source": {
-                "name": "slashdot_org"
-            },
-            "title": "AI Tool Rips Off Open Source Software Without Violating Copyright",
-            "url": "https://news.slashdot.org/story/26/04/22/1631212/ai-tool-rips-off-open-source-software-without-violating-copyright",
-            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
-            "publishedAt": "2026-04-22 00:00:00"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "As homes get smarter, new global research names Aiper as the world's No.1 smart robotic pool cleaner brand",
-            "url": "https://www.manilatimes.net/2026/04/22/tmt-newswire/pr-newswire/as-homes-get-smarter-new-global-research-names-aiper-as-the-worlds-no1-smart-robotic-pool-cleaner-brand/2325579",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/22/1023512.jpg",
-            "publishedAt": "2026-04-21T23:49:33Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
-            "url": "https://www.straitstimes.com/world/florida-launches-criminal-probe-into-openai-and-chatgpt-over-deadly-shooting",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/a043b8c95de8192b7a335941bbed1c21effd20458009f125fc8ebaf56993d717",
-            "publishedAt": "2026-04-21T22:50:30Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
-            "url": "https://www.reuters.com/world/us/florida-launches-criminal-probe-into-openai-chatgpt-over-deadly-shooting-2026-04-21/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/YI7XUZXX6JNG5EDKUQWHJPI7EE.jpg?auth=99c4520e449f53723e4bc821f65fceff7c1366eb93e4f855dc963382ab7ff0cf&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-04-21T22:48:37Z"
-        },
-        {
-            "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
-                "country": "gb"
-            },
-            "title": "Meta to track workers' clicks and keystrokes to train AI",
-            "url": "https://www.bbc.com/news/articles/cvglyklz49jo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7c11/live/f3193ce0-3dd2-11f1-a40d-95806278e3fd.jpg",
-            "publishedAt": "2026-04-21T22:47:56Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
-            "url": "https://www.marketscreener.com/news/florida-launches-criminal-probe-into-openai-and-chatgpt-over-deadly-shooting-ce7f59dbd18df225",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-10T145825Z_1_LYNXMPEL590S0_RTROPTP_4_TECH-AI-OPENAI-ALPHABET.JPG",
-            "publishedAt": "2026-04-21T22:46:20Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "A.I. ‘Hallucinations’ Created Errors in Court Filing, Top Law Firm Says",
-            "url": "https://www.nytimes.com/2026/04/21/nyregion/sullivan-cromwell-ai-hallucination.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/04/21/multimedia/00met-ai-apology-jvtf/00met-ai-apology-jvtf-facebookJumbo.jpg",
-            "publishedAt": "2026-04-21T22:39:41Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "$12.5 billion ‘down payment’ brings air traffic control out of 1990s. Now, more money is needed for new software and AI",
-            "url": "https://abc17news.com/news/national-world/cnn-national/2026/04/21/12-5-billion-down-payment-brings-air-traffic-control-out-of-1990s-now-more-money-is-needed-for-new-software-and-ai/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/04/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW85NnVybnMwMDJrM2I2cXQ3NG5kd2lw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntbzk1ZGtoZTAwNjAyY3AzM2Zkb2JrNno-860x573.jpg",
-            "publishedAt": "2026-04-21T22:23:56Z"
         }
     ]
 }
