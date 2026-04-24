@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-04-24T09:43:34.489740Z",
+    "lastUpdatedAt": "2026-04-24T11:02:29.681689Z",
     "articles": [
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Meta to lay off 10% of workforce in AI push",
+            "url": "https://www.upi.com/Top_News/US/2026/04/23/Meta-layoffs-artificial-intelligence/4571776982803/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/4571776982803/2026/1/d234e26e5deb013e8966ea21a7d2b884/v1.5/Meta-to-lay-off-10-of-workforce-in-AI-push.jpg",
+            "publishedAt": "2026-04-23T22:46:03Z"
+        },
+        {
+            "source": {
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
+                "country": "us"
+            },
+            "title": "Meta to lay off 8,000 employees in AI investment pivot",
+            "url": "https://www.foxbusiness.com/technology/meta-informs-staff-layoffs-affecting-8000-employees-amid-ai-push",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/zuckerberg-meta-lawsuit.jpg?ve=1&tl=1",
+            "publishedAt": "2026-04-23T22:44:51Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Trump administration targets foreign exploitation of US AI models",
+            "url": "https://apnews.com/article/ai-china-us-model-distillation-kratsios-a5c40346394ef5fa9ae710c5aabdc62c",
+            "urlToImage": "https://dims.apnews.com/dims4/default/a5e0865/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Fd4%2F92df95a1ebaf688ba30443e55c0b%2Fa2b5880a16124b8d93e6497a5831d032",
+            "publishedAt": "2026-04-23T22:37:40Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Trump administration vows crackdown on Chinese companies ‘exploiting’ AI models made in US",
+            "url": "https://wtop.com/business-finance/2026/04/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/04/China_Artificial_Intelligence_82866-scaled.jpg",
+            "publishedAt": "2026-04-23T22:37:40Z"
+        },
+        {
+            "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
+                "country": "us"
+            },
+            "title": "Trump administration vows crackdown on Chinese companies ‘exploiting’ AI models made in US",
+            "url": "https://www.newsbreak.com/the-associated-press-510077/4609617907362-trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us",
+            "urlToImage": "https://img.particlenews.com/img/id/3F5jBD_1Ajl8rS600",
+            "publishedAt": "2026-04-23T22:37:40Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Trump administration vows crackdown on Chinese companies 'exploiting' AI models made in US",
+            "url": "https://www.clickondetroit.com/business/2026/04/23/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/V5ANBFUGYRCELOHPZFZBY5WE6M.jpg?_a=DATAg1fkZAA0",
+            "publishedAt": "2026-04-23T22:37:39Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Trump Administration Vows Crackdown on Chinese Companies 'Exploiting' AI Models Made in US",
+            "url": "https://www.usnews.com/news/business/articles/2026-04-23/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/d313912/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F4a%2Fdca14a9e149a6bf0b2c61b7c98c9da%2Fa2b5880a16124b8d93e6497a5831d032China_Artificial_Intelligence_82866.jpg",
+            "publishedAt": "2026-04-23T22:37:00Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Fox News Poll: Voters see AI as a risk to privacy and paychecks",
+            "url": "https://www.foxnews.com/politics/fox-news-poll-voters-see-ai-risk-privacy-paychecks",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/doctor-ai.jpg",
+            "publishedAt": "2026-04-23T22:00:02Z"
+        },
+        {
+            "source": {
+                "id": "3a753bd10cd98cf45fd60f4136c70766",
+                "name": "Ottawa Citizen",
+                "url": "https://ottawacitizen.com",
+                "country": "ca"
+            },
+            "title": "Feds launch flurry of new AI chatbots and tools",
+            "url": "https://ottawacitizen.com/public-service/federal-government-ai-chatbots-tools",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2026/04/ottbikessept13_288697762-1.jpg",
+            "publishedAt": "2026-04-23T21:47:39Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Elon Musk lays out Terafab AI chip project plan",
+            "url": "https://www.manilatimes.net/2026/04/24/business/sunday-business-it/elon-musk-lays-out-terafab-ai-chip-project-plan/2327677",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/24/1027085.jpg",
+            "publishedAt": "2026-04-23T21:46:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -1248,6 +1368,15 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/04/23/ibm-revenue-growth-slows-amid-ai-concerns-shares-fall",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/04/23/3873552.jpg",
             "publishedAt": "2026-04-23T00:17:00Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Cambridge researchers develop brain-inspired chip that cuts AI energy use by 70%",
+            "url": "https://completeaitraining.com/news/cambridge-researchers-develop-brain-inspired-chip-that-cuts/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/cambridge-researchers-develop-brain-inspired-chip-that-cuts-ai-energy-use-by-70_2026-04-23.jpg",
+            "publishedAt": "2026-04-23 22:00:40"
         },
         {
             "source": {
@@ -3315,138 +3444,6 @@
             "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4537621/maryland-expected-ban-surveillance-pricing-consumers/",
             "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/AP26099588798780.jpg?resize=1200,683",
             "publishedAt": "2026-04-21T18:56:46Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Criminal probe launched into ChatGPT's possible involvement in deadly mass shooting at Florida State University",
-            "url": "https://nypost.com/2026/04/21/us-news/criminal-probe-launched-into-chatgpts-possible-involvement-in-deadly-mass-shooting-at-florida-state-university/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/04/florida-governor-ron-desantis-left-126109610.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-04-21T18:48:03Z"
-        },
-        {
-            "source": {
-                "id": "6956007add5fc13a6721202ec906b1c4",
-                "name": "Decrypt",
-                "url": "https://decrypt.co",
-                "country": "us"
-            },
-            "title": "Mississippi Law School Requires AI Training as Courts Grapple With the Tech",
-            "url": "https://decrypt.co/365063/mississippi-law-school-ai-training-courts",
-            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-            "publishedAt": "2026-04-21T18:34:06Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Meta's New AI Initiative: Employee Monitoring for Machine Learning",
-            "url": "https://www.devdiscourse.com/article/technology/3882389-metas-new-ai-initiative-employee-monitoring-for-machine-learning",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_02_2201424.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-04-21T18:18:17Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "DITO’s AI assistant now handles 98% of customer queries",
-            "url": "https://manilastandard.net/business/314729945/ditos-ai-assistant-now-handles-98-of-customer-queries.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2026/04/dito-tel-logo.jpg",
-            "publishedAt": "2026-04-21T18:00:00Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Keep artificial intelligence out of American classrooms",
-            "url": "https://www.latimes.com/opinion/story/2026-04-21/kids-education-artificial-intelligence",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/69253ab/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0f%2F98%2Fedb997454d8c94fa334de0a41f7d%2F82913882.jpg",
-            "publishedAt": "2026-04-21T18:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "Michael, Susan Dell Give $750 Million for AI Hospital at UT | Newsmax.com",
-            "url": "https://www.newsmax.com/us/michael-dell-susan-university-of-texas/2026/04/21/id/1253686/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=ec11d9ae-2189-4283-bbd7-df465ae8fc2d&SiteName=Newsmax",
-            "publishedAt": "2026-04-21T17:58:56Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "University of Texas at Austin receives $750 million donation from Michael and Susan Dell",
-            "url": "https://apnews.com/article/michael-dell-susan-university-of-texas-healthcare-c58928b61803f0615ec15692548446c1",
-            "urlToImage": "https://dims.apnews.com/dims4/default/de0987d/2147483647/strip/true/crop/3236x2156+0+1349/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc1%2F85%2F742b532f9770e07cb97753313d5b%2F8c8f86c0ea28485eac56a15e51dbb8d8",
-            "publishedAt": "2026-04-21T17:15:50Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Michael and Susan Dell Fund 'AI-Native' Medical Center With $750 Million Gift to University of Texas",
-            "url": "https://www.usnews.com/news/best-states/new-york/articles/2026-04-21/michael-and-susan-dell-fund-ai-native-medical-center-with-750-million-gift-to-university-of-texas",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/270ea57/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fad%2Ff6ccac572337c66caea128ce3c16d1%2F8c8f86c0ea28485eac56a15e51dbb8d82_26_Breakthrough_Prize_Ceremony_6929_.jpg",
-            "publishedAt": "2026-04-21T17:15:00Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Japan's chip strength poised to power AI era",
-            "url": "https://www.bangkokpost.com/business/general/3241588/japans-chip-strength-poised-to-power-ai-era",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260422/c1_3241588_260422005303_700.jpg",
-            "publishedAt": "2026-04-21T17:02:00Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Turning AI ambition into results",
-            "url": "https://www.bangkokpost.com/business/general/3241628/turning-ai-ambition-into-results",
-            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/04/22/6059983_700.jpeg",
-            "publishedAt": "2026-04-21T17:02:00Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "AIS, ministry join forces to promote AI-ready workforce",
-            "url": "https://www.bangkokpost.com/business/general/3241593/ais-ministry-join-forces-to-promote-aiready-workforce",
-            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/04/22/6059933_700.jpeg",
-            "publishedAt": "2026-04-21T17:02:00Z"
         }
     ]
 }
