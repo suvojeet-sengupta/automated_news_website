@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-04-25T10:38:55.296154Z",
+    "lastUpdatedAt": "2026-04-25T11:35:00.122772Z",
     "articles": [
+        {
+            "source": {
+                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+                "name": "The Verge",
+                "url": "https://www.theverge.com",
+                "country": "us"
+            },
+            "title": "The feds join Elon Musk’s attempt to stop new AI regulations in Colorado.",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/918492/the-feds-join-elon-musks-attempt-to-stop-new-ai-regulations-in-colorado",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+            "publishedAt": "2026-04-24T23:05:04Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -3420,18 +3432,6 @@
             "url": "https://www.cnbc.com/2026/04/22/ibm-q1-earnings-report-2026.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108295719-1776887809638-gettyimages-2242088737-TRUMP_DIWALI.jpeg?v=1776888154&w=1920&h=1080",
             "publishedAt": "2026-04-22T20:12:22Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "IBM's slower revenue growth fans AI worries, shares fall",
-            "url": "https://www.reuters.com/business/ibm-tops-quarterly-estimates-hybrid-cloud-growth-2026-04-22/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/53LGRVF7GRKZPA5KMFGA6B6OVE.jpg?auth=c3229f04cfe84546feae7ba0cd0e218fbaf21bdef1efbb51c83fcb118bd9620d&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-04-22T20:11:37Z"
         }
     ]
 }
