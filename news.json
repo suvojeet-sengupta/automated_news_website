@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-04-24T23:36:05.835695Z",
+    "lastUpdatedAt": "2026-04-25T02:01:48.979066Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "BlackRock Likes Chips, Hardware in Overweight AI Stance",
+            "url": "https://www.marketscreener.com/news/blackrock-likes-chips-hardware-in-overweight-ai-stance-ce7f59dfdd8ef520",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3609510.png",
+            "publishedAt": "2026-04-24T13:57:15Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "At SpaceX, AI is burning the cash that Starlink earns",
+            "url": "https://www.cp24.com/news/money/2026/04/24/at-spacex-ai-is-burning-the-cash-that-starlink-earns/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/NQH67RT7R33KKMOXYVEKMTY2VI.jpg?smart=true&auth=b996fbf8a7cb06d19c13f5f6072d01a8ec883c76f0aa99d1ec7c5776533d7178&width=1200&height=630",
+            "publishedAt": "2026-04-24T13:50:57Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "At SpaceX, AI is burning the cash that Starlink earns",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/04/24/at-spacex-ai-is-burning-the-cash-that-starlink-earns/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/NQH67RT7R33KKMOXYVEKMTY2VI.jpg?smart=true&auth=b996fbf8a7cb06d19c13f5f6072d01a8ec883c76f0aa99d1ec7c5776533d7178&width=1200&height=630",
+            "publishedAt": "2026-04-24T13:50:57Z"
+        },
+        {
+            "source": {
+                "id": "4b7c99f118744da54be06a9cdf6be220",
+                "name": "Longford Leader",
+                "url": "https://www.longfordleader.ie",
+                "country": "ie"
+            },
+            "title": "Risk of ‘significant upheaval’ in jobs market, Irish premier warns",
+            "url": "https://www.longfordleader.ie/news/national-news/2069383/risk-of-significant-upheaval-in-jobs-market-irish-premier-warns.html",
+            "urlToImage": "https://www.longfordleader.ie/resizer/1200/700/true/pa/2026_04_24/1777037701702_0.jpg--.jpg?1777037701813",
+            "publishedAt": "2026-04-24T13:35:10Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Trump administration vows crackdown on Chinese companies 'exploiting' AI models made in US",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/articleshow/130495399.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-69872,resizemode-75,msid-130495399/tech/information-tech/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us.jpg",
+            "publishedAt": "2026-04-24T13:14:53Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Advanced AI Raises Stakes in Cybersecurity Race",
+            "url": "https://www.newsmax.com/platinum/anthropic-artificial-intelligence-cybersecurity/2026/04/13/id/1252716/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=bc579c21-9ab1-4827-a697-1d0e084c55ae&SiteName=Newsmax",
+            "publishedAt": "2026-04-24T13:12:20Z"
+        },
+        {
+            "source": {
+                "id": "f2b0ed2355de9f518f25c34fe6ba32ea",
+                "name": "Limerick Leader",
+                "url": "https://www.limerickleader.ie",
+                "country": "ie"
+            },
+            "title": "Risk of ‘significant upheaval’ in jobs market, Irish premier warns",
+            "url": "https://www.limerickleader.ie/news/national-news/2069383/risk-of-significant-upheaval-in-jobs-market-irish-premier-warns.html",
+            "urlToImage": "https://www.limerickleader.ie/resizer/1200/700/true/pa/2026_04_24/1777037701702_0.jpg--.jpg?1777037701813",
+            "publishedAt": "2026-04-24T13:11:10Z"
+        },
+        {
+            "source": {
+                "id": "31177620c1e6e610b5d2b67916ed3615",
+                "name": "PBS News",
+                "url": "https://www.pbs.org",
+                "country": "us"
+            },
+            "title": "Trump administration vows crackdown on Chinese companies 'exploiting' AI models made in U.S.",
+            "url": "https://www.pbs.org/newshour/world/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-u-s",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2025-07-26T113343Z_93798843_RC28UFA7HL6R_RTRMADP_3_CHINA-AI-EXPO-1024x683.jpg",
+            "publishedAt": "2026-04-24T12:37:58Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Japan finance minister announces task force for Anthropic’s Mythos AI model: ‘I told the…’",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/japan-finance-minister-announces-task-force-for-anthropics-mythos-ai-model-i-told-the/articleshow/130493930.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130493917,width-1280,height-720,imgsize-34322,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-24T12:32:00Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "A.I. Is Forcing More Belt-Tightening at Big Tech",
+            "url": "https://www.nytimes.com/2026/04/24/business/dealbook/ai-tech-cost-cuts.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/04/24/multimedia/24db-altman-kjtv/24db-altman-kjtv-facebookJumbo.jpg",
+            "publishedAt": "2026-04-24T12:08:58Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -912,6 +1032,87 @@
             "url": "https://www.livemint.com/market/china-tech-split-emerges-as-chinext-rally-beats-hong-kong-peer-11776989084705.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
             "publishedAt": "2026-04-24T00:04:44Z"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Global LPDDR Memory Chips Market Poised to Grow from USD 7.24 Billion in 2024 to USD 11.09 Billion by 2031 at a CAGR of 6.3% -- Fueled by Surging Smartphone Intelligence, Automotive Electronics Expansion, and Next-Generation Low-Power Computing Demand | Valuates Reports",
+            "url": "https://www.prnewswire.com/news-releases/global-lpddr-memory-chips-market-poised-to-grow-from-usd-7-24-billion-in-2024-to-usd-11-09-billion-by-2031-at-a-cagr-of-6-3--fueled-by-surging-smartphone-intelligence-automotive-electronics-expansion-and-next-generation-low-po-302752656.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=publish",
+            "publishedAt": "2026-04-24 14:01:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "135 Blog Posts To Learn About Ai Technology",
+            "url": "https://hackernoon.com/135-blog-posts-to-learn-about-ai-technology",
+            "urlToImage": "https://hackernoon.imgix.net/images/github/ai-technology-754.png",
+            "publishedAt": "2026-04-24 14:00:58"
+        },
+        {
+            "source": {
+                "name": "laconiadailysun"
+            },
+            "title": "You probably wouldn’t notice if an AI chatbot slipped ads into its responses",
+            "url": "https://www.laconiadailysun.com/around_the_web/you-probably-wouldn-t-notice-if-an-ai-chatbot-slipped-ads-into-its-responses/article_387444bd-d0ec-5b3a-9a34-1ef897c3d245.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/laconiadailysun.com/content/tncms/assets/v3/editorial/a/b4/ab444496-5acf-5784-ab64-f62a6f7e6be4/69eb73fc8719b.image.jpg?crop=1050%2C551%2C0%2C74",
+            "publishedAt": "2026-04-24 13:04:18"
+        },
+        {
+            "source": {
+                "name": "ctinsider"
+            },
+            "title": "You probably wouldn’t notice if an AI chatbot slipped ads into its responses",
+            "url": "https://www.ctinsider.com/news/article/you-probably-wouldn-t-notice-if-an-ai-chatbot-22223928.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/34/02/56/24128416/3/square_large.jpg",
+            "publishedAt": "2026-04-24 13:02:12"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Top 9 smart contract platforms to consider in 2026",
+            "url": "https://www.techtarget.com/searchcio/tip/Top-smart-contract-platforms-to-consider",
+            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/security_a386211215.jpg",
+            "publishedAt": "2026-04-24 12:37:00"
+        },
+        {
+            "source": {
+                "name": "ibcworldnews"
+            },
+            "title": "AI push drives job cuts across tech giants",
+            "url": "https://ibcworldnews.com/2026/04/24/ai-push-drives-job-cuts-across-tech-giants/",
+            "urlToImage": "https://ibcworldnews.com/wp-content/uploads/2026/04/27-5.png",
+            "publishedAt": "2026-04-24 12:12:53"
+        },
+        {
+            "source": {
+                "name": "rutlandherald"
+            },
+            "title": "Meta Signs Agreement With AWS to Power Agentic AI on AWS Graviton Chips",
+            "url": "https://www.rutlandherald.com/news/business/meta-signs-agreement-with-aws-to-power-agentic-ai-on-aws-graviton-chips/article_9933fc89-716d-5bae-b4a2-722eb7328a7a.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/assets/v3/editorial/e/9f/e9f86cf6-90e5-5267-945d-8cef83ec6f1d/69eb600857806.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-04-24 12:10:03"
+        },
+        {
+            "source": {
+                "name": "businesswire"
+            },
+            "title": "Meta Signs Agreement With AWS to Power Agentic AI on AWS Graviton Chips",
+            "url": "http://www.businesswire.com/news/home/20260424641117/en/Meta-Signs-Agreement-With-AWS-to-Power-Agentic-AI-on-AWS-Graviton-Chips/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+            "urlToImage": "https://mms.businesswire.com/media/20260424641117/en/2784332/22/AWS_Meta_Graviton.jpg",
+            "publishedAt": "2026-04-24 12:10:00"
+        },
+        {
+            "source": {
+                "name": "technologyreview"
+            },
+            "title": "The Download: supercharged scams and studying AI healthcare",
+            "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/04/superchargedC-thumb.jpg?resize=1200,600",
+            "publishedAt": "2026-04-24 12:10:00"
         },
         {
             "source": {
@@ -3258,234 +3459,6 @@
             "url": "https://www.reuters.com/world/europe/european-chip-electrical-stocks-surge-ai-optimism-builds-earnings-2026-04-22/",
             "urlToImage": "https://www.reuters.com/resizer/v2/XCODEVPISNJ2NKAF5F4RZMEIIU.jpg?auth=40a91e894bd79478221f6ac32f61771cac69fa3e1660fe455c31403cafa361bb&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2026-04-22T11:00:34Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Best Buy names Jason Bonfig as new CEO, replacing Corie Barry",
-            "url": "https://www.cnbc.com/2026/04/22/best-buy-jason-bonfig-ceo-corie-barry.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228537-1763578786961-gettyimages-2240147223-251010_carl_brands_109.jpeg?v=1763578869&w=1920&h=1080",
-            "publishedAt": "2026-04-22T11:00:27Z"
-        },
-        {
-            "source": {
-                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-                "name": "Washington Examiner",
-                "url": "https://www.washingtonexaminer.com",
-                "country": "us"
-            },
-            "title": "Red-state AI regulation push has links to the Left",
-            "url": "https://www.washingtonexaminer.com/news/investigations/4537325/red-state-ai-regulation-push-has-links-to-the-left/",
-            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/tennessee-capital-state-house.webp?resize=1200,683",
-            "publishedAt": "2026-04-22T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Tim Cook cites three reasons for stepping down as Apple CEO after 15 years",
-            "url": "https://economictimes.indiatimes.com/tech/technology/tim-cook-cites-three-reasons-for-stepping-down-as-apple-ceo-after-15-years/articleshow/130439547.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37684,resizemode-75,msid-130439547/tech/technology/tim-cook-cites-three-reasons-for-stepping-down-as-apple-ceo-after-15-years.jpg",
-            "publishedAt": "2026-04-22T10:59:37Z"
-        },
-        {
-            "source": {
-                "id": "df3038aaa802741cdad6eb4698aa1552",
-                "name": "Al-Monitor",
-                "url": "https://www.al-monitor.com",
-                "country": "us"
-            },
-            "title": "UK must brace for rise in state-backed cyberattacks, security chief says",
-            "url": "https://www.al-monitor.com/originals/2026/04/uk-must-brace-rise-state-backed-cyberattacks-security-chief-says",
-            "urlToImage": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-04/2026-04-22T103701Z_1_LYNXMPEM3L0L3_RTROPTP_4_CYBER-ATTACK.JPG?h=f2fcf546&itok=_-vfTLZy",
-            "publishedAt": "2026-04-22T10:47:13Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "The AI productivity boom is not here (yet)",
-            "url": "https://www.livemint.com/global/the-ai-productivity-boom-is-not-here-yet-11776852523118.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/04/22/1600x900/logo/USA-FTC-AI-0_1776854446188_1776854466148.JPG",
-            "publishedAt": "2026-04-22T10:43:49Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "UK must brace for rise in state-backed cyberattacks, security chief says",
-            "url": "https://www.straitstimes.com/asia/uk-must-brace-for-rise-in-state-backed-cyberattacks-security-chief-says",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/1389a7be1d2fd7e5708b3f94789d7b5916aa462ac70aa27c8f686a69afa5312b",
-            "publishedAt": "2026-04-22T10:40:39Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "UK must brace for rise in state-backed cyberattacks, security chief says",
-            "url": "https://www.reuters.com/legal/government/uk-must-brace-rise-state-backed-cyberattacks-security-chief-says-2026-04-22/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/YM7DTVNHXJLU3MEGOYWOAPNCEY.jpg?auth=f5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-04-22T10:37:22Z"
-        },
-        {
-            "source": {
-                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
-                "name": "Newsweek",
-                "url": "https://www.newsweek.com",
-                "country": "us"
-            },
-            "title": "Next-Gen Nissan, Mercedes Tech Focuses on Naturalness",
-            "url": "https://www.newsweek.com/next-gen-nissan-mercedes-tech-focuses-on-naturalness-11850892",
-            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/04/Mercedes-Benz-Yoke-Steering-Wheel.png?w=1200crop=1",
-            "publishedAt": "2026-04-22T10:24:00Z"
-        },
-        {
-            "source": {
-                "id": "4300aa22a5f803b09a37ff0632b44685",
-                "name": "The daily Star",
-                "url": "https://www.dailystar.co.uk",
-                "country": "gb"
-            },
-            "title": "Nobel Prize winner predicts when humanity ends",
-            "url": "https://www.dailystar.co.uk/news/world-news/nobel-prize-winner-predicts-humanity-37052318",
-            "urlToImage": "https://i2-prod.dailystar.co.uk/article37052315.ece/ALTERNATES/s1200d/0_Detonation-of-Nuclear-Device-Badger-During-Operation-Upshot-Knothole.jpg",
-            "publishedAt": "2026-04-22T10:10:47Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Software makers' best may not be good enough as AI fears mount",
-            "url": "https://www.reuters.com/business/software-makers-best-may-not-be-good-enough-ai-fears-mount-2026-04-22/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/MPLEVPWBWNIWJBT6MV2WHZKAC4.jpg?auth=cd7156a1d1a7c9466c6193fe7a0518c756ab2fca70b09b73d9f2c963a42cab7c&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-04-22T10:04:48Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Kabeer Biswas’s concierge startup 'M' raises Rs 102 crore from Peak XV, Blume, Cred",
-            "url": "https://economictimes.indiatimes.com/tech/funding/kabeer-biswass-concierge-startup-m-raises-rs-102-crore-from-peak-xv-blume-cred/articleshow/130437866.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-17808,resizemode-75,msid-130437866/tech/funding/kabeer-biswass-concierge-startup-m-raises-rs-102-crore-from-peak-xv-blume-cred.jpg",
-            "publishedAt": "2026-04-22T09:54:27Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "India's central bank in talks with global regulators, banks to review Mythos risks, sources say",
-            "url": "https://www.reuters.com/sustainability/boards-policy-regulation/indias-central-bank-talks-with-global-regulators-banks-review-mythos-risks-2026-04-22/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/MRBU5XZO3FL55NVPB6JMJLVJWM.jpg?auth=a4e945ad284d3ff6f1e6f7e77db6343bf0d50fc285e1cfbdcf60f7f85737fdd9&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-04-22T09:51:13Z"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Finally, an answer: how much is a pint of Guinness in every British pub?",
-            "url": "https://www.thetimes.com/uk/london/article/how-much-pint-guinness-british-pubs-3qd23klfs",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/d6ee68e3-8d00-457d-a50b-82c8f28976b0.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
-            "publishedAt": "2026-04-22T09:50:52Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "India's central bank in talks with global regulators, banks to review Mythos risks, sources say",
-            "url": "https://www.marketscreener.com/news/india-s-central-bank-in-talks-with-global-regulators-banks-to-review-mythos-risks-sources-say-ce7f59d8db80f427",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-02T082011Z_1_LYNXMPEL410B3_RTROPTP_4_INDIA-CENBANK-VOSTRO-ACCOUNTS.JPG",
-            "publishedAt": "2026-04-22T09:50:41Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Nearly 70 pc of new green jobs need tech skills; huge vacancy for skilled professionals",
-            "url": "https://www.lokmattimes.com/business/nearly-70-pc-of-new-green-jobs-need-tech-skills-huge-vacancy-for-skilled-professionals/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202604223759681_202604.jpg",
-            "publishedAt": "2026-04-22T09:24:16Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Nearly 70 pc of new green jobs need tech skills; huge vacancy for skilled professionals",
-            "url": "https://www.lokmattimes.com/technology/nearly-70-pc-of-new-green-jobs-need-tech-skills-huge-vacancy-for-skilled-professionals-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202604223759681_202604.jpg",
-            "publishedAt": "2026-04-22T09:24:16Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "SpaceX says it can buy AI coding tool Cursor for $60B later this year",
-            "url": "https://www.breitbart.com/news/spacex-says-it-can-buy-ai-coding-tool-cursor-for-60b-later-this-year/",
-            "urlToImage": "https://media.breitbart.com/media/2026/04/wi/ap/spacex-cursor-563-spacex-cursor-spacex-logo-is-displayed-building-26-2020-at-kennedy-space-center-640x335.jpg",
-            "publishedAt": "2026-04-22T09:03:16Z"
-        },
-        {
-            "source": {
-                "id": "dcc4f4c6eb081eb8a9ee9cca215517f5",
-                "name": "Tom's Guide",
-                "url": "https://www.tomsguide.com",
-                "country": "us"
-            },
-            "title": "How to watch ‘Grayson Perry Has Seen The Future' online",
-            "url": "https://www.tomsguide.com/entertainment/how-to-watch-grayson-perry-has-seen-the-future",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/89wUZCvJ3GiTpD4SQwV356-2500-80.jpg",
-            "publishedAt": "2026-04-22T09:02:21Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Tesla Earnings: Cooling AI Hype Makes Investors Yawn",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-22/tesla-s-cooling-ai-hype-makes-investors-yawn-at-blowout-earnings",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iphImlR1_2ZQ/v1/1200x800.jpg",
-            "publishedAt": "2026-04-22T09:00:07Z"
         }
     ]
 }
