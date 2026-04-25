@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-04-25T09:48:13.884183Z",
+    "lastUpdatedAt": "2026-04-25T10:38:55.296154Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
+            "url": "https://www.reuters.com/world/china/us-state-dept-orders-global-warning-about-alleged-china-ai-thefts-by-deepseek-2026-04-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/KIK4AUMDLBLZ3MA7ULN3KENZZQ.jpg?auth=4daeda6a00bb880345fa05de17b38bfaba770f66458d51fd3a707542e01f98ee&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-24T22:32:23Z"
+        },
         {
             "source": {
                 "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
@@ -1356,6 +1368,15 @@
             "url": "https://www.livemint.com/market/china-tech-split-emerges-as-chinext-rally-beats-hong-kong-peer-11776989084705.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
             "publishedAt": "2026-04-24T00:04:44Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "UMass Lowell launches AI research center to connect faculty expertise with industry and student careers",
+            "url": "https://completeaitraining.com/news/umass-lowell-launches-ai-research-center-to-connect-faculty/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/umass-lowell-launches-ai-research-center-to-connect-faculty-expertise-with-indus_2026-04-24.jpg",
+            "publishedAt": "2026-04-24 21:53:37"
         },
         {
             "source": {
@@ -3411,30 +3432,6 @@
             "url": "https://www.reuters.com/business/ibm-tops-quarterly-estimates-hybrid-cloud-growth-2026-04-22/",
             "urlToImage": "https://www.reuters.com/resizer/v2/53LGRVF7GRKZPA5KMFGA6B6OVE.jpg?auth=c3229f04cfe84546feae7ba0cd0e218fbaf21bdef1efbb51c83fcb118bd9620d&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2026-04-22T20:11:37Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Tesla lifts 2026 spending plans by a quarter as Musk funds AI and robotic dreams",
-            "url": "https://www.reuters.com/business/autos-transportation/tesla-revenue-misses-estimates-demand-weakens-2026-04-22/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/TUHR7TQ2WFMU7DSVNESPU6ZXW4.jpg?auth=8d1526f4628a31c4594744146ec953ef48bc8f56ad9173b1694fd1749d0aea3e&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-04-22T20:06:04Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Musk's $60 Billion Bet on Cursor Comes as xAI Falls Behind on Coding",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-22/musk-makes-60-billion-gamble-after-xai-slips-behind-in-coding",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3wTtzkjVzkI/v0/1200x816.jpg",
-            "publishedAt": "2026-04-22T19:27:49Z"
         }
     ]
 }
