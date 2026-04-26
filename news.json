@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-04-26T21:33:50.238882Z",
+    "lastUpdatedAt": "2026-04-26T22:33:34.615496Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "UAE's Billion Dirham Leap Towards Industrial Resilience",
+            "url": "https://www.devdiscourse.com/article/law-order/3887446-uaes-billion-dirham-leap-towards-industrial-resilience",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_09_2025_10_09_39_0833444.png&width=920&format=jpeg",
+            "publishedAt": "2026-04-26T10:17:16Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "TCS vs Infosys vs Wipro vs HCL Tech vs Tech Mahindra: Which IT stock to buy after Q4 results 2026?",
+            "url": "https://www.livemint.com/market/stock-market-news/tcs-vs-infosys-vs-wipro-vs-hcl-tech-vs-tech-mahindra-which-it-stock-to-buy-after-q4-results-2026-11777195140659.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/04/26/1600x900/logo/stocks_1777198153183_1777198153345.jpg",
+            "publishedAt": "2026-04-26T10:13:11Z"
+        },
         {
             "source": {
                 "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
@@ -3408,30 +3432,6 @@
             "url": "https://www.marketscreener.com/news/europe-risks-falling-behind-us-china-on-ai-data-centre-build-up-nokia-ceo-says-ce7f59d9df8cf522",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-23T081852Z_1_LYNXMPEL9M0C4_RTROPTP_4_NOKIA-CEO.JPG",
             "publishedAt": "2026-04-23T09:27:51Z"
-        },
-        {
-            "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
-                "country": "gb"
-            },
-            "title": "Which spark will catch: Can we predict when the next global crisis will hit?",
-            "url": "https://www.bbc.com/future/article/20260421-can-we-predict-the-next-crisis",
-            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0ng0116.jpg",
-            "publishedAt": "2026-04-23T09:17:56Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "SoftBank Seeks $10 Billion Loan Backed by OpenAI Shares",
-            "url": "https://www.marketscreener.com/news/softbank-seeks-10-billion-loan-backed-by-openai-shares-ce7f59d9df8af32c",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3608082.png",
-            "publishedAt": "2026-04-23T09:08:00Z"
         }
     ]
 }
