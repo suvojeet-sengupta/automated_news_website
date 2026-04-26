@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-04-26T20:34:04.290803Z",
+    "lastUpdatedAt": "2026-04-26T21:33:50.238882Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "US senator Bernie Sanders warns AI can wipe out humanity",
+            "url": "https://www.thenews.com.pk/latest/1400406-bernie-sanders-warns-ai-can-wipe-out-humanity",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-26/1400406_021130_updates.jpg",
+            "publishedAt": "2026-04-26T09:05:42Z"
+        },
         {
             "source": {
                 "id": "7daf04fa6272ed0a29583b211dcfe1d4",
@@ -156,6 +168,15 @@
             "url": "https://economictimes.indiatimes.com/news/india/will-shield-vulnerable-sections-from-price-pain-says-finance-minister-nirmala-sitharaman-at-economic-times-awards-for-corporate-excellence/articleshow/130521764.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-130521874,width-1200,height-630,imgsize-127332,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2026-04-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Unpacking The Information AI Agenda: Key Insights and Future Trends",
+            "url": "https://techannouncer.com/unpacking-the-information-ai-agenda-key-insights-and-future-trends/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2026/04/094346cfjournalist2F23339117-3e70-441c-a06f-b6a17927d51f2Fthumbnail.jpeg",
+            "publishedAt": "2026-04-26 09:27:03"
         },
         {
             "source": {
@@ -3411,30 +3432,6 @@
             "url": "https://www.marketscreener.com/news/softbank-seeks-10-billion-loan-backed-by-openai-shares-ce7f59d9df8af32c",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3608082.png",
             "publishedAt": "2026-04-23T09:08:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Samsung's Labor Unrest: Workers Demand Better Pay Amid AI Boom",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
-            "publishedAt": "2026-04-23T08:50:26Z"
-        },
-        {
-            "source": {
-                "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
-                "name": "Proto Thema",
-                "url": "https://en.protothema.gr",
-                "country": "gr"
-            },
-            "title": "Pitsilis: The contribution of artificial intelligence in the fight against tax evasion is decisive",
-            "url": "https://en.protothema.gr/2026/04/23/pitsilis-the-contribution-of-artificial-intelligence-in-the-fight-against-tax-evasion-is-decisive/",
-            "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/04/pitsilis-dof-1.jpg-1.jpg",
-            "publishedAt": "2026-04-23T08:44:00Z"
         }
     ]
 }
