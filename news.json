@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-05-01T14:51:00.027817Z",
+    "lastUpdatedAt": "2026-05-01T15:53:23.677478Z",
     "articles": [
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "After 8,000 cuts, Meta signals layoffs may not be over amid AI surge",
+            "url": "https://www.firstpost.com/tech/after-8000-cuts-meta-signals-layoffs-may-not-be-over-amid-ai-surge-14006417.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/02/2-2026-02-97b13d5229b77bcf73ae6ccab09c4a3d.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-05-01T03:43:40Z"
+        },
+        {
+            "source": {
+                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+                "name": "SFGATE",
+                "url": "https://www.sfgate.com",
+                "country": "us"
+            },
+            "title": "Friday Morning News Roundup",
+            "url": "https://www.sfgate.com/news/bayarea/article/friday-morning-news-roundup-22236049.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/54/16/50/28371491/6/rawImage.jpg",
+            "publishedAt": "2026-05-01T03:24:02Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Mark Cuban to engineers: Use these three Claude prompts to sharpen your skills",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-cuban-to-engineers-use-these-three-claude-prompts-to-sharpen-your-skills/articleshow/130669076.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130669063,width-1280,height-720,imgsize-33380,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-01T03:14:00Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -59,6 +95,18 @@
             "title": "CX Daily: When AI Spends, Card Networks Scramble to Keep Payments Safe",
             "url": "https://www.caixinglobal.com/2026-05-01/cx-daily-when-ai-spends-card-networks-scramble-to-keep-payments-safe-102439914.html",
             "urlToImage": "https://img.caixin.com/2026-04-30/177755242845843_560_373.jpg",
+            "publishedAt": "2026-05-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "68e8a9c1e60db86af8601f08c15463a0",
+                "name": "Altoona Mirror",
+                "url": "https://www.altoonamirror.com",
+                "country": "us"
+            },
+            "title": "Tax refunds and AI boom have offset some economic pain",
+            "url": "https://www.altoonamirror.com/news/national/2026/05/economy-pain-tax-refunds-ai-boom-offset/",
+            "urlToImage": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2026/04/30221911/B6-gas-prices-750x500.jpg",
             "publishedAt": "2026-05-01T00:00:00Z"
         },
         {
@@ -3423,54 +3471,6 @@
             "url": "https://www.bloomberg.com/news/articles/2026-04-28/poland-sees-rising-cyberattacks-with-spread-of-advanced-ai-tools",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixN3TvVh4UKQ/v1/1200x800.jpg",
             "publishedAt": "2026-04-28T11:50:36Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "Report: Google Signs Classified AI Deal With Pentagon",
-            "url": "https://www.newsmax.com/newsfront/google-pentagon-ai/2026/04/28/id/1254427/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=c8b2c994-e7b7-4746-8188-c321371e9f9c&SiteName=Newsmax",
-            "publishedAt": "2026-04-28T11:49:43Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "AI spending set to hit $600 billion",
-            "url": "https://www.bnnbloomberg.ca/business/economics/2026/04/28/big-tech-investors-to-gauge-payoff-as-ai-spending-set-to-hit-600-billion/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/HX6ILDQOZFDYGZPLYOUUYVKVZQ.jpg?smart=true&auth=5aedf254e226f91f06e908123b0fab800be7941885fb9dc8eeaad04a929ae08e&width=1200&height=630",
-            "publishedAt": "2026-04-28T11:48:46Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "USD 15 bn Google data centre to transform Vizag into AI hub: Union Min Vaishnaw",
-            "url": "https://www.devdiscourse.com/article/science-environment/3889343-usd-15-bn-google-data-centre-to-transform-vizag-into-ai-hub-union-min-vaishnaw",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_46_53_9831308.png&width=920&format=jpeg",
-            "publishedAt": "2026-04-28T11:46:20Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Javishth Chabria Delivers Keynote at Cannes' World AI Film Festival, Showcases Simulation",
-            "url": "https://www.tribuneindia.com/news/business/javishth-chabria-delivers-keynote-at-cannes-world-ai-film-festival-showcases-simulation-first-filmmaking-2/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM0YzY2ZTEwLTQyZjctMTFmMS1hN2E4LTBiYmQxYTg3OWNjMC5qcGc=",
-            "publishedAt": "2026-04-28T11:45:25Z"
         }
     ]
 }
