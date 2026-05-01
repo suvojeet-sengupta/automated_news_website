@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-05-01T19:07:18.453748Z",
+    "lastUpdatedAt": "2026-05-01T20:45:53.962255Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Banks not getting expected benefits from AI due to outdated systems: McKinsey",
+            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-not-getting-expected-benefits-from-ai-due-to-outdated-systems-mckinsey/articleshow/130673591.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-130673807,width-1200,height-630,imgsize-50546,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-05-01T08:45:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "An AI bubble or a psychological domino? Why investors mustn’t confuse OpenAI’s health with that of the whole AI industry",
+            "url": "https://www.livemint.com/opinion/online-views/an-ai-bubble-or-a-psychological-domino-why-investors-mustn-t-confuse-openai-s-health-with-that-of-the-whole-ai-industry-11777620991765.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/Canada-Shooting-Lawsuit-0_1773796724695_1773796735926_1777622577489.jpg",
+            "publishedAt": "2026-05-01T08:05:25Z"
+        },
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "Paging Dr. AI to the ER? Artificial intelligence shows promise in emergency room diagnosis",
+            "url": "https://www.cbc.ca/news/health/artificial-intelligence-emergency-rooms-9.7181509",
+            "urlToImage": "https://i.cbc.ca/ais/5ca2e701-97bf-4fa0-8985-7507d0a749bd,1777479019219/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C440%2C7887%2C4436%29%3BResize%3D620",
+            "publishedAt": "2026-05-01T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Govt sector, BFSI and Pharma key business drivers: Qlik India MD",
+            "url": "https://www.dailyexcelsior.com/govt-sector-bfsi-and-pharma-key-business-drivers-qlik-india-md/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/Sec.jpg",
+            "publishedAt": "2026-05-01T07:52:58Z"
+        },
         {
             "source": {
                 "id": "6f68e6d7cd20b33baacb487a0e911008",
@@ -279,6 +327,33 @@
         },
         {
             "source": {
+                "name": "industrywired"
+            },
+            "title": "Chip Wars 2.0: How AI Demand Is Reshaping the Semiconductor Industry",
+            "url": "https://industrywired.com/artificial-intelligence/chip-wars-20-how-ai-demand-is-reshaping-the-semiconductor-industry-11786176",
+            "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/industry-wired/media/media_files/2026/05/01/chip-wars-20_-how-ai-demand-is-reshaping-the-semiconductor-industry-2026-05-01-16-44-42.jpg",
+            "publishedAt": "2026-05-01 08:30:00"
+        },
+        {
+            "source": {
+                "name": "electronicsforu"
+            },
+            "title": "Optical Computer Runs on a Billion Parameter AI",
+            "url": "https://www.electronicsforu.com/news/optical-computer-runs-on-a-billion-parameter-ai",
+            "urlToImage": "https://www.electronicsforu.com/wp-contents/uploads/2026/05/OS.jpeg",
+            "publishedAt": "2026-05-01 08:02:05"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Foreign Entities Such As China Are Siphoning American AI Models At Our Steep Loss And Their Huge Gain",
+            "url": "https://www.forbes.com/sites/lanceeliot/2026/05/01/foreign-entities-such-as-china-are-siphoning-american-ai-models-at-our-steep-loss-and-their-huge-gain/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69f3d30c9486465ae7e4bf60/0x0.jpg?width=960&precrop=2926%2C1950%2Cx358%2Cy0",
+            "publishedAt": "2026-05-01 07:15:00"
+        },
+        {
+            "source": {
                 "name": "sdxcentral"
             },
             "title": "Wi-Fi 8: The next generation of unwavering connectivity",
@@ -294,6 +369,15 @@
             "url": "https://www.news18.com/viral/it-sales-guy-mindset-amazon-exec-calls-nandan-nilekanis-ai-vision-outdated-says-india-needs-more-vishal-sikkas-10067410.html",
             "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/05/TV_5834658_untitleddesign74_1-1200x800.png",
             "publishedAt": "2026-05-01 06:22:01"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Top zero-trust use cases in the enterprise",
+            "url": "https://www.techtarget.com/searchsecurity/tip/Zero-trust-use-cases-highlight-both-its-benefits-and-misconceptions",
+            "urlToImage": "https://cdn.ttgtmedia.com/visuals/German/zero-trust-adobe.jpg",
+            "publishedAt": "2026-05-01 00:00:00"
         },
         {
             "source": {
@@ -3369,102 +3453,6 @@
             "url": "https://www.forbes.com/sites/taxnotes/2026/04/28/ex-irs-official-talks-immigration-enforcement-artificial-intelligence/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69777f0c37bdc80d240b005b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2026-04-28T19:56:31Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Taylor Swift files 3 new trademark applications",
-            "url": "https://japantoday.com/category/entertainment/taylor-swift-files-3-new-trademark-applications.-one-expert-says-it-is-to-curb-ai-threats",
-            "urlToImage": "https://media.japantoday.com/img/store/2e/01/5266b8a2b64a4d88da4cc659e1873591d9a8/download/_w1700.jpeg",
-            "publishedAt": "2026-04-28T19:51:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "US Congress seeks to regulate chatbot and AI usage",
-            "url": "https://www.marketscreener.com/news/us-congress-seeks-to-regulate-chatbot-and-ai-usage-ce7f59d2d18bff27",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-03-31T130824Z_1_LYNXMPEM2U0UV_RTROPTP_4_MARKETS-TECH-BORROWING.JPG",
-            "publishedAt": "2026-04-28T19:46:22Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "EU seeks to extend digital regulation to cloud and AI",
-            "url": "https://www.marketscreener.com/news/eu-seeks-to-extend-digital-regulation-to-cloud-and-ai-ce7f59d2d18bf323",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-09-10T120325Z_1_LYNXNPEL890JP_RTROPTP_4_EU-ENERGY-RUSSIA-SANCTIONS.JPG",
-            "publishedAt": "2026-04-28T19:42:13Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "EU rules reining in Big Tech will now target cloud services and AI, regulators say",
-            "url": "https://economictimes.indiatimes.com/tech/technology/eu-rules-reining-in-big-tech-will-now-target-cloud-services-and-ai-regulators-say/articleshow/130587317.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-22692,resizemode-75,msid-130587317/tech/technology/eu-rules-reining-in-big-tech-will-now-target-cloud-services-and-ai-regulators-say.jpg",
-            "publishedAt": "2026-04-28T17:39:54Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "AI investment hits $600 billion globally - will tech giants see payoff amid AI boom?",
-            "url": "https://www.thenews.com.pk/latest/1400704-ai-investment-hits-600-billion-globally-will-tech-giants-see-payoff-amid-ai-boom",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-28/1400704_102501_updates.jpg",
-            "publishedAt": "2026-04-28T17:31:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Nasdaq underperforms S&P 500, Dow as AI growth worries hit tech stocks",
-            "url": "https://www.marketscreener.com/news/nasdaq-underperforms-s-p-500-dow-as-ai-growth-worries-hit-tech-stocks-ce7f59d2df8ef221",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-04-28T17:27:29Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Google inks Pentagon deal for classified AI work despite uproar from employees warning of 'irreparable damage'",
-            "url": "https://nypost.com/2026/04/28/business/google-inks-pentagon-deal-for-classified-ai-work-despite-uproar-from-employees-warning-of-irreparable-damage/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/04/2026-wednesday-alphabet-unveiled-several-125320061_a761fd.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-04-28T17:10:20Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "EU rules reining in Big Tech will now target cloud services and AI, regulators say",
-            "url": "https://www.marketscreener.com/news/eu-rules-reining-in-big-tech-will-now-target-cloud-services-and-ai-regulators-say-ce7f59d2df8df62c",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-17T072124Z_1_LYNXMPEL3G08G_RTROPTP_4_TECH-AI-THINKINGMACHINES.JPG",
-            "publishedAt": "2026-04-28T17:06:25Z"
         }
     ]
 }
