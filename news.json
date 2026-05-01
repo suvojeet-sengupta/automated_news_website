@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-05-01T10:23:01.310319Z",
+    "lastUpdatedAt": "2026-05-01T11:55:27.234765Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Apple stocks jump big: iPhone makers predict blockbuster sales forecast as MacBook Neo dominates",
+            "url": "https://economictimes.indiatimes.com/news/international/us/apple-stocks-jump-big-iphone-makers-predict-blockbuster-sales-forecast-as-macbook-neo-dominates/articleshow/130659904.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-130659904,width-1200,height-630,imgsize-58640,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-04-30T23:55:00Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Reddit's CEO calls his company 'the fuel' for artificial intelligence",
+            "url": "https://www.cnbc.com/2026/04/30/reddits-ceo-fuel-artificial-intelligence.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107390807-1711030462594-gettyimages-2095061984-AFP_34M24GY.jpeg?v=1711030548&w=1920&h=1080",
+            "publishedAt": "2026-04-30T22:48:30Z"
+        },
+        {
+            "source": {
+                "id": "c477009a98f37b19212d8ae20ce8c018",
+                "name": "POLITICO",
+                "url": "https://www.politico.com",
+                "country": "us"
+            },
+            "title": "White House presses tech companies for support on AI-driven cyberattacks",
+            "url": "https://www.politico.com/news/2026/04/30/white-house-ai-cyber-threats-mythos-00902045",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F7e%2Fed%2F1ec4c0ca442d810a322e40cb4f78%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2261974015",
+            "publishedAt": "2026-04-30T22:30:00Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Senate Panel Advances Bill on AI Chatbots for Kids",
+            "url": "https://www.newsmax.com/newsfront/senate-ai-chatbots/2026/04/30/id/1254840/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=670eb9b7-7f63-406c-a295-c5e11fa8f378&SiteName=Newsmax",
+            "publishedAt": "2026-04-30T22:26:03Z"
+        },
         {
             "source": {
                 "id": "010284b7a4ddb4771793c29b39893951",
@@ -3423,54 +3471,6 @@
             "url": "https://www.thesun.co.uk/money/38951249/ai-jobs-risk-londoners-face-axe/",
             "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2026/04/upset-frustrated-confused-female-worker-713825601.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
             "publishedAt": "2026-04-28T10:43:23Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "“AI for Teachers” Upskills 160,000+ Thai Educators for a Digital Future",
-            "url": "https://www.bangkokpost.com/thailand/pr/3245752/ai-for-teachers-upskills-160000-thai-educators-for-a-digital-future",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260428/c1_3245752_700.jpg",
-            "publishedAt": "2026-04-28T10:39:00Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "OpenAI trial pitting Elon Musk against Sam Altman kicks off",
-            "url": "https://www.straitstimes.com/world/openai-trial-pitting-elon-musk-against-sam-altman-kicks-off",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/6e6ff60e26302bc2c1b735fb485bb64d875883834aee670b9dc8a08271d05052",
-            "publishedAt": "2026-04-28T10:33:28Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "The Impact of Artificial Intelligence on Modern Diplomatic Practice",
-            "url": "https://indianexpress.com/article/opinion/columns/raja-mohan-ai-national-security-diplomacy-10660236/",
-            "urlToImage": "https://images.indianexpress.com/2026/02/intersection-humanity-artificial-intelligence-dna-connection_20251229224642_20260127185945_20260215174413.jpg",
-            "publishedAt": "2026-04-28T10:33:09Z"
-        },
-        {
-            "source": {
-                "id": "df8898b40ea58da32bb50978f1d85cb3",
-                "name": "The Sun U.S Edition",
-                "url": "https://www.the-sun.com",
-                "country": "gb"
-            },
-            "title": "Pompeii victim who tried to flee molten ash with 'dish on his head' is revealed by AI after 2,000",
-            "url": "https://www.the-sun.com/tech/16283678/pompeii-victim-ai-reconstructs-molten-ash/",
-            "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/04/newspress-collage-s2su3so4l-1777371672775.jpg?quality=90&strip=all&1777357662&w=1920&h=1080&crop=1",
-            "publishedAt": "2026-04-28T10:26:43Z"
         }
     ]
 }
