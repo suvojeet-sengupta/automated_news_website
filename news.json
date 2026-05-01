@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-05-01T20:45:53.962255Z",
+    "lastUpdatedAt": "2026-05-01T21:49:04.955790Z",
     "articles": [
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "US military reaches deals with 7 tech companies to use their AI on classified systems",
+            "url": "https://www.breitbart.com/news/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/",
+            "urlToImage": "https://media.breitbart.com/media/2026/04/wi/ap/pentagon-bus-crash-99-79-pentagon-bus-crash-pentagon-is-air-force-it-flies-washington-march-640x335.jpg",
+            "publishedAt": "2026-05-01T09:48:25Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "‘So delicious to watch as they clash’: Elon Musk vs Sam Altman feud explained - inside the explosive OpenAI battle",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/so-delicious-to-watch-as-they-clash-elon-musk-vs-sam-altman-feud-explained-inside-the-explosive-openai-battle/articleshow/130673903.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130673982,width-1280,height-720,imgsize-87376,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-01T09:30:00Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "Companies are increasingly favoring temporary staff over permanent hires",
+            "url": "https://www.spokesman.com/stories/2026/may/01/companies-are-increasingly-favoring-temporary-staf/",
+            "urlToImage": "https://thumb.spokesman.com/9CBs5cF50GSE402IgbM_siBkVQg=/1200x630/smart/media.spokesman.com/photos/2026/05/01/69f4f3c85db22.hires.jpg",
+            "publishedAt": "2026-05-01T09:04:00Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "AI ping pong bot stuns developers by developing ability to defeat top human table tennis players",
+            "url": "https://www.perthnow.com.au/news/world/ai-ping-pong-bot-stuns-developers-by-developing-ability-to-defeat-top-human-table-tennis-players-c-22223077",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-22223077/a8293cf7a8f227372a4f467c26616ced1b30a522-16x9-x0y192w2048h1152.jpg?imwidth=1200",
+            "publishedAt": "2026-05-01T09:03:23Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Nobel prize-winning physicist warns humanity has only ‘35 years left’",
+            "url": "https://www.perthnow.com.au/news/world/nobel-prize-winning-physicist-warns-humanity-has-only-35-years-left-c-22223075",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-22223075/9083a1da692d004ba3ca0eec52144ca723ac09fb-16x9-x0y192w2048h1152.jpg?imwidth=1200",
+            "publishedAt": "2026-05-01T09:03:18Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "AI Will Lead to 'Tremendous Numbers of Jobs'",
+            "url": "https://www.breitbart.com/clips/2026/05/01/trump-ai-will-lead-to-tremendous-numbers-of-jobs/",
+            "urlToImage": "https://media.breitbart.com/media/2026/04/Donald-Trump-5-640x335.jpg",
+            "publishedAt": "2026-05-01T08:57:14Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "It's All Things AI & You at TiEcon 2026 as the Countdown Begins",
+            "url": "https://economictimes.indiatimes.com/ai/its-all-things-ai-you-at-tiecon-2026-as-the-countdown-begins/articleshow/130673913.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-130673900,width-1200,height-630,imgsize-75334,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-05-01T08:53:00Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -324,6 +408,15 @@
             "url": "https://www.altoonamirror.com/news/national/2026/05/economy-pain-tax-refunds-ai-boom-offset/",
             "urlToImage": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2026/04/30221911/B6-gas-prices-750x500.jpg",
             "publishedAt": "2026-05-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "buzinessbytes"
+            },
+            "title": "Google Breaks Ground on India AI Hub, Launching a National Industrial Ecosystem Alongside India’s Digital Infrastructure Milestone",
+            "url": "https://www.buzinessbytes.com/press-release/google-breaks-ground-on-india-ai-hub-launching-a-national-industrial-ecosystem-alongside-indias-digital-infrastructure-milestone/",
+            "urlToImage": "https://www.buzinessbytes.com/wp-content/uploads/2026/05/India-AI-Hub.jpeg",
+            "publishedAt": "2026-05-01 09:01:43"
         },
         {
             "source": {
@@ -3357,102 +3450,6 @@
             "url": "https://www.devdiscourse.com/article/entertainment/3890101-reuters-entertainment-news-summary",
             "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_29_06_9517358.jpg&width=920&format=jpeg",
             "publishedAt": "2026-04-28T20:57:24Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "GLOBAL MARKETS-Oil prices rise with eyes on Iran, UAE; AI concerns weigh on stocks",
-            "url": "https://www.devdiscourse.com/article/headlines/3890097-global-markets-oil-prices-rise-with-eyes-on-iran-uae-ai-concerns-weigh-on-stocks",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_18_25_2697677.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-04-28T20:54:05Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Nasdaq, S&P 500 end lower on renewed AI growth worries ahead of big tech earnings",
-            "url": "https://www.marketscreener.com/news/nasdaq-s-p-500-end-lower-on-renewed-ai-growth-worries-ahead-of-big-tech-earnings-ce7f59d2d18df621",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-28T101306Z_1_LYNXMPEM3R0QG_RTROPTP_4_USA-STOCKS.JPG",
-            "publishedAt": "2026-04-28T20:01:25Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "India’s Real Estate Will Meet the Reality of Agentic AI",
-            "url": "https://www.bloomberg.com/opinion/articles/2026-04-28/india-s-real-estate-will-meet-the-reality-of-agentic-ai",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy0gQEsRxFMA/v1/1200x800.jpg",
-            "publishedAt": "2026-04-28T20:00:18Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Amazon touts a 'major expansion' with OpenAI as Microsoft ties loosen",
-            "url": "https://japantoday.com/category/tech/amazon-touts-a-'major-expansion'-with-openai-as-microsoft-ties-loosen",
-            "urlToImage": "https://media.japantoday.com/img/store/17/83/0f87f1598c3c2c8551a284600498fd7755be/download/_w1700.jpeg",
-            "publishedAt": "2026-04-28T20:00:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Amazon touts a 'major expansion' with OpenAI as Microsoft ties loosen",
-            "url": "https://japantoday.com/category/tech/amazon-touts-a-%27major-expansion%27-with-openai-as-microsoft-ties-loosen",
-            "urlToImage": "https://media.japantoday.com/img/store/17/83/0f87f1598c3c2c8551a284600498fd7755be/download/_w1700.jpeg",
-            "publishedAt": "2026-04-28T20:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "U-BX Technology Ltd. Announces Closing of $4.55 Million Registered Direct Offering",
-            "url": "https://www.manilatimes.net/2026/04/29/tmt-newswire/globenewswire/u-bx-technology-ltd-announces-closing-of-455-million-registered-direct-offering/2330888",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/29/1033782.jpg",
-            "publishedAt": "2026-04-28T19:58:25Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "ExcelMindCyber Institute Highlights AI Governance Gap as 2026 Enterprise Spending Surges",
-            "url": "https://www.manilatimes.net/2026/04/29/tmt-newswire/globenewswire/excelmindcyber-institute-highlights-ai-governance-gap-as-2026-enterprise-spending-surges/2330886",
-            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-04-28T19:58:22Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "Ex-IRS Official Talks Immigration Enforcement, Artificial Intelligence",
-            "url": "https://www.forbes.com/sites/taxnotes/2026/04/28/ex-irs-official-talks-immigration-enforcement-artificial-intelligence/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69777f0c37bdc80d240b005b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-04-28T19:56:31Z"
         }
     ]
 }
