@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-05-02T11:40:59.509045Z",
+    "lastUpdatedAt": "2026-05-02T13:00:45.357245Z",
     "articles": [
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            },
+            "title": "Ceres mayor faces backlash over AI-enhanced cleanup photo",
+            "url": "https://www.cbsnews.com/sacramento/news/ceres-mayor-artificial-intelligence-photo-reactions/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/02/fd3e105a-121c-4502-a4c4-93efe524689d/thumbnail/1200x630/fc3fe4bdc1893cbbba69f9646f95ba1c/5p-pkg-p-ceres-ai-usage-kmaxfg7v.jpg",
+            "publishedAt": "2026-05-02T00:45:05Z"
+        },
         {
             "source": {
                 "id": "0d429ea54fdbe8e34c582aa31bc81aba",
@@ -3477,18 +3489,6 @@
             "url": "https://www.firstpost.com/tech/google-translate-turns-20-sundar-pichai-reflects-on-its-journey-to-billion-users-14005603.html",
             "urlToImage": "https://images.firstpost.com/uploads/2025/02/Google-to-open-its-first-retail-stores-outside-the-US-in-India-close-to-finalising-sites-2025-02-89b36b60c6a17c4efeee5e74a4a0ce53-1200x675.jpg?im=FitAndFill=(1200,675)",
             "publishedAt": "2026-04-29T06:14:42Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "AI could kill us all, we don't want to be in Terminator movie: Elon Musk at OpenAI trial",
-            "url": "https://www.indiatoday.in/technology/news/story/ai-could-kill-us-all-we-dont-want-to-be-in-terminator-movie-elon-musk-at-openai-trial-2903058-2026-04-29",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/elon-musk--openai-trial--ai-290508709-16x9_0.png?VersionId=xp9DmhfmY_9ygKdEb5kCvg2jDmK8gCDJ",
-            "publishedAt": "2026-04-29T06:06:26Z"
         }
     ]
 }
