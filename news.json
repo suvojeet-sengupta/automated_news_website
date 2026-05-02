@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-05-02T09:01:13.352262Z",
+    "lastUpdatedAt": "2026-05-02T10:45:36.389072Z",
     "articles": [
+        {
+            "source": {
+                "id": "109f2b4a20da4fe1c2fd502b03c07243",
+                "name": "BBC News",
+                "url": "https://www.bbc.com",
+                "country": "gb"
+            },
+            "title": "Oscars bans AI actors, writing from awards",
+            "url": "https://www.bbc.com/news/articles/cx21dl3v7d3o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44b2/live/660b2060-45ad-11f1-b552-73094d4d31d4.jpg",
+            "publishedAt": "2026-05-01T22:30:59Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Oscars 2027: The Academy change rules for nominations, International film eligibility; AI actors and writers 'not eligible'",
+            "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2027the-academy-change-rules-for-nominations-international-film-eligibility-ai-actors-and-writers-not-eligible/articleshow/130706114.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130706140,width-1280,height-720,imgsize-53402,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-01T21:24:00Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -3468,30 +3492,6 @@
             "url": "https://www.euronews.com/health/2026/04/29/ai-tool-that-reads-your-face-could-help-doctors-predict-cancer-survival-study-finds",
             "urlToImage": "https://images.euronews.com/articles/stories/09/73/96/79/1200x675_cmsv2_36c1883b-afad-5a23-9c2d-bc82335440a8-9739679.jpg",
             "publishedAt": "2026-04-29T05:00:55Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Reuters Entertainment News Summary",
-            "url": "https://www.devdiscourse.com/article/entertainment/3890243-reuters-entertainment-news-summary",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_26_59_8821975.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-04-29T04:56:22Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "AI deepfakes are circulating in our schools. What's the right way to handle them?",
-            "url": "https://www.abc.net.au/news/2026-04-29/what-should-schools-do-about-ai-deepfakes-friends-school-hobart/106619686",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0970a9e746db6eacaf7f01ee224f87db?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=252&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-04-29T04:51:38Z"
         }
     ]
 }
