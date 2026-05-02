@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-05-02T15:41:22.132349Z",
+    "lastUpdatedAt": "2026-05-02T16:40:47.519431Z",
     "articles": [
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Pentagon inks AI deals with tech firms, snubs Anthropic",
+            "url": "https://www.perthnow.com.au/news/politics/pentagon-inks-ai-deals-with-tech-firms-snubs-anthropic-c-22224892",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-22224892/0406df27beaf56a47d89e8d7f8d5c91a2dbbe4d1-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-05-02T04:16:45Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "Pentagon inks AI deals with tech firms, snubs Anthropic",
+            "url": "https://www.canberratimes.com.au/story/9237900/pentagon-inks-ai-deals-with-tech-firms-snubs-anthropic/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/04b52c8c-e149-48bb-90b5-0b8111262d42.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-05-02T04:15:22Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Building trades unions join forces with tech giants in AI data center push",
+            "url": "https://apnews.com/article/artificial-intelligence-technology-labor-unions-data-centers-64b10b2f993743dc0c73d273248574cf",
+            "urlToImage": "https://dims.apnews.com/dims4/default/e9c5b36/2147483647/strip/true/crop/1913x1275+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2F22%2F4f0ccc3b3590960273df725be2e5%2F8cd564f1743145afbb32884d568a384b",
+            "publishedAt": "2026-05-02T04:06:25Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Building Trades Unions Emerge as a Key Ally of Tech Giants in Push for AI Data Centers",
+            "url": "https://www.usnews.com/news/best-states/pennsylvania/articles/2026-05-02/building-trades-unions-emerge-as-a-key-ally-of-tech-giants-in-push-for-ai-data-centers",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/af5163a/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fe1%2Fecfdf0f0988c345547b691c2330b08%2F8cd564f1743145afbb32884d568a384bLabor_Unions_Data_Centers_753_4.jpg",
+            "publishedAt": "2026-05-02T04:06:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI agents becoming day traders, but gains prove elusive",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-agents-becoming-day-traders-but-gains-prove-elusive/articleshow/130709705.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-130709726,width-1200,height-630,imgsize-981346,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-05-02T04:04:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Meta buys humanoid robot startup Assured Robot Intelligence as 8,000 job cuts loom",
+            "url": "https://www.livemint.com/companies/news/meta-acquires-humanoid-robot-startup-assured-robot-intelligence-weeks-after-announcing-8-000-layoffs-11777692898608.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/02/1600x900/logo/META-LAWSUIT-NEW-MEXICO-VERDICT-0_1774406381551_1774406399273_1777693624028.JPG",
+            "publishedAt": "2026-05-02T03:56:47Z"
+        },
         {
             "source": {
                 "id": "d6397b77175680e2678c0d60edcee7af",
@@ -3414,78 +3486,6 @@
             "url": "https://deadline.com/2026/04/screenskills-report-artificial-intelligence-redundancies-1236875572/",
             "urlToImage": "https://deadline.com/wp-content/uploads/2025/06/GettyImages-1936115086.jpg?w=1024",
             "publishedAt": "2026-04-29T09:30:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "China blocks Meta’s $2 billion AI deal, flags security concerns",
-            "url": "https://www.lokmattimes.com/business/china-blocks-metas-2-billion-ai-deal-flags-security-concerns/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/meta_202604.jpg",
-            "publishedAt": "2026-04-29T09:14:33Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "India In Talks With US, Anthropic To Get Mythos' Early Access For Domestic Companies",
-            "url": "https://www.freepressjournal.in/tech/india-in-talks-with-us-anthropic-to-get-mythos-early-access-for-domestic-companies",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-03-27/25geodma/anthropic.jpg",
-            "publishedAt": "2026-04-29T08:57:05Z"
-        },
-        {
-            "source": {
-                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-                "name": "NewsX",
-                "url": "https://www.newsx.com",
-                "country": "in"
-            },
-            "title": "Can a Machine Lead? SBS University’s 17th National Debate Competition Puts Artificial Intelligence, Talent, and Human Judgment in the Dock",
-            "url": "https://www.newsx.com/business/can-a-machine-lead-sbs-universitys-17th-national-debate-competition-puts-artificial-intelligence-talent-and-human-judgment-in-the-dock-207056/",
-            "urlToImage": "https://www.newsx.com/wp-content/uploads/2026/04/Can-a-Machine-Lead-SBS-Universitys-17th-National-Debate-Competition.avif",
-            "publishedAt": "2026-04-29T08:55:11Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Goldman Sachs Removes Access to Anthropic AI Models for Hong Kong Bankers",
-            "url": "https://www.marketscreener.com/news/goldman-sachs-removes-access-to-anthropic-ai-models-for-hong-kong-bankers-ce7f59d3df88f024",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-04-29T08:43:01Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "T.H.E Dance Company's tech-driven performance with digital avatar",
-            "url": "https://www.straitstimes.com/life/arts/t-h-e-dance-company-dances-with-digital-avatar-in-new-tech-driven-work",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/bb85d2fabb130d1e68448a52d3d25709089c1cb6409af0df3ca08fccfe87d539",
-            "publishedAt": "2026-04-29T08:35:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Pentagon AI head 'confirms' Google deal with an 'appreciation note'; says: Saving us thousands of ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-ai-head-confirms-google-deal-with-an-appreciation-note-says-saving-us-thousands-of-/articleshow/130600022.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-130600016,width-1280,height-720,imgsize-171860,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-29T07:45:00Z"
         }
     ]
 }
