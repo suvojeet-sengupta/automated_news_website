@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-05-03T17:42:37.489724Z",
+    "lastUpdatedAt": "2026-05-03T18:53:22.656704Z",
     "articles": [
+        {
+            "source": {
+                "id": "69a24b80e5bce5a07f808f5ea84c434b",
+                "name": "Arkansas Online",
+                "url": "https://www.arkansasonline.com",
+                "country": "us"
+            },
+            "title": "EDITORIAL SHORT: The need, the need for speed",
+            "url": "https://www.arkansasonline.com/news/2026/may/03/editorial-short-the-need-the-need-for-speed/",
+            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
+            "publishedAt": "2026-05-03T06:50:00Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "The Academy expands international film eligibility, addresses AI in new rules",
+            "url": "https://www.thehindu.com/entertainment/movies/the-academy-expands-international-film-eligibility-addresses-ai-in-new-rules/article70934554.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/kd1npx/article70934561.ece/alternates/LANDSCAPE_1200/OSCARS%20NO%20HOST",
+            "publishedAt": "2026-05-03T06:28:32Z"
+        },
+        {
+            "source": {
+                "id": "77eb6af04fde195ea3066aee712ef671",
+                "name": "My London",
+                "url": "https://www.mylondon.news",
+                "country": "gb"
+            },
+            "title": "Lewisham leaseholder who used AI to argue case at tribunal loses",
+            "url": "https://www.mylondon.news/news/south-london-news/lewisham-leaseholder-who-used-ai-33875475",
+            "urlToImage": "https://i2-prod.mylondon.news/article29639442.ece/ALTERNATES/s1200d/9_Lewisham-town-hall.png",
+            "publishedAt": "2026-05-03T06:15:00Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "Jensen Huang To Tech Leaders: Be Careful On AI Impact, 'Hot Takes' On Jobs Aren’t Helpful",
+            "url": "https://www.timesnownews.com/technology-science/jensen-huang-to-tech-leaders-be-careful-on-ai-impact-hot-takes-on-jobs-arent-helpful-article-154229849",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-154229849,width-1280,height-720,resizemode-75/154229849.jpg",
+            "publishedAt": "2026-05-03T06:01:24Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -3450,42 +3498,6 @@
             "url": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
             "urlToImage": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/lg-nvidia-talks-physical-ai-isaac-robotics-industrial-edge-computing-artificial-intelligence-data-centres-digital-twins.jpg",
             "publishedAt": "2026-04-30 15:59:54"
-        },
-        {
-            "source": {
-                "name": "securitybrief_in"
-            },
-            "title": "Vultr deploys NVIDIA Nemotron 3 Nano Omni in cloud",
-            "url": "https://securitybrief.in/story/vultr-deploys-nvidia-nemotron-3-nano-omni-in-cloud",
-            "urlToImage": "https://securitybrief.in/uploads/story/2026/04/30/compatible_sleek-ai-cloud-data-center-gpu-racks-flowing-data-streams-modern-digital-illustration.jpg",
-            "publishedAt": "2026-04-30 15:30:00"
-        },
-        {
-            "source": {
-                "name": "itbrief_in"
-            },
-            "title": "Vultr deploys NVIDIA Nemotron 3 Nano Omni in cloud",
-            "url": "https://itbrief.in/story/vultr-deploys-nvidia-nemotron-3-nano-omni-in-cloud",
-            "urlToImage": "https://itbrief.in/uploads/story/2026/04/30/compatible_sleek-ai-cloud-data-center-gpu-racks-flowing-data-streams-modern-digital-illustration.jpg",
-            "publishedAt": "2026-04-30 15:30:00"
-        },
-        {
-            "source": {
-                "name": "blogs_sap"
-            },
-            "title": "Week 4: AI Developer Challenge SAP-RPT-1 Model",
-            "url": "https://community.sap.com/t5/artificial-intelligence-forum/week-4-ai-developer-challenge-sap-rpt-1-model/td-p/14383635",
-            "urlToImage": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
-            "publishedAt": "2026-04-30 14:32:40"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "Celestica DS6000-Series 1.6TbE Switches Now Available to Order",
-            "url": "https://www.hpcwire.com/off-the-wire/celestica-ds6000-series-1-6tbe-switches-now-available-to-order/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2025/10/Celestica-scaled.png",
-            "publishedAt": "2026-04-30 14:13:48"
         }
     ]
 }
