@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-05-03T19:52:02.354250Z",
+    "lastUpdatedAt": "2026-05-03T20:37:26.694562Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Oscars organization expands international film eligibility, addresses AI in new rules",
+            "url": "https://www.manilatimes.net/2026/05/03/entertainment-lifestyle/oscars-organization-expands-international-film-eligibility-addresses-ai-in-new-rules/2334422",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/03/1040110.jpg",
+            "publishedAt": "2026-05-03T07:59:00Z"
+        },
         {
             "source": {
                 "id": "933344203c2b862af768b5e662a162a4",
@@ -3498,15 +3510,6 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014154",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014154.g005&size=inline",
             "publishedAt": "2026-04-30T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "ACM TechBrief: AI ‘Vibe Coding’ Could Reshape Software Development but Lacks Key Safeguards",
-            "url": "https://www.hpcwire.com/off-the-wire/acm-techbrief-ai-vibe-coding-could-reshape-software-development-but-lacks-key-safeguards/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2022/11/ACM-logo.png",
-            "publishedAt": "2026-04-30 20:25:00"
         }
     ]
 }
