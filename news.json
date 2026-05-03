@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-05-03T20:37:26.694562Z",
+    "lastUpdatedAt": "2026-05-03T21:37:06.768038Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "One Issue Uniting Democrats and Republicans? Worries About A.I.",
+            "url": "https://www.nytimes.com/2026/05/03/us/politics/democrats-republicans-ai.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/05/03/multimedia/03pol-ai-google-tcjf/03pol-ai-google-tcjf-facebookJumbo.jpg",
+            "publishedAt": "2026-05-03T09:01:22Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -192,6 +204,15 @@
             "url": "https://timesofindia.indiatimes.com/business/international-business/chinese-court-rules-firms-cant-lay-off-workers-on-ai-grounds/articleshow/130726519.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-130726533,width-1280,height-720,imgsize-8180,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-05-03T01:46:00Z"
+        },
+        {
+            "source": {
+                "name": "newsbytesapp"
+            },
+            "title": "NVIDIA's pivot to physical AI sparks tech rally in Asia",
+            "url": "https://www.newsbytesapp.com/news/business/nvidia-s-expansion-into-physical-ai-boosts-asian-partners/story",
+            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l271_4951777779558.jpg",
+            "publishedAt": "2026-05-03 09:05:51"
         },
         {
             "source": {
@@ -3485,30 +3506,6 @@
             "title": "DEPDev to finalize first AI governance framework within two months",
             "url": "https://manilastandard.net/business/314733687/depdev-to-finalize-first-ai-governance-framework-within-two-months.html",
             "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2026/03/depdev-chief-arsenio-balisacan.jpg",
-            "publishedAt": "2026-04-30T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
-                "country": "in"
-            },
-            "title": "India can be a massive architect in AI: Noted economist Danny Quah",
-            "url": "https://www.thehitavada.com/Encyc/2026/4/30/india-can-be-a-massive-architect-in-ai-noted-economist-danny-quah.html",
-            "urlToImage": "https://www.thehitavada.com/Encyc/2026/4/30/West-Bungal-Vote_202604301135006026_H@@IGHT_500_W@@IDTH_750.jpg",
-            "publishedAt": "2026-04-30T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Complexity of resting cortical activity predicts neurophysiological responses to theta-burst stimulation but fails to generalize: A rigorous machine-learning approach",
-            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014154",
-            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014154.g005&size=inline",
             "publishedAt": "2026-04-30T00:00:00Z"
         }
     ]
