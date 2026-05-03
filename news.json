@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-05-02T23:38:05.001179Z",
+    "lastUpdatedAt": "2026-05-03T02:32:24.639444Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Is This a Stock Market Melt-Up? Here Are Ways to Tell",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-02/is-this-a-stock-market-melt-up-here-are-ways-to-tell",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itksU0F3_pxo/v0/1200x800.jpg",
+            "publishedAt": "2026-05-02T14:30:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Motion Picture Academy Rules AI Actors & Writers Not Eligible for Oscars",
+            "url": "https://www.breitbart.com/entertainment/2026/05/02/motion-picture-academy-rules-ai-actors-writers-not-eligible-for-oscars/",
+            "urlToImage": "https://media.breitbart.com/media/2026/05/GettyImages-2263649396-1-640x335.jpg",
+            "publishedAt": "2026-05-02T13:55:21Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "generated actors, writers not eligible for Oscar win—Academy",
+            "url": "https://manilastandard.net/news/world/314734878/ai-generated-actors-writers-not-eligible-for-oscar-win-academy.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2026/05/ai-actor-scaled.jpg",
+            "publishedAt": "2026-05-02T13:10:00Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "Did The Devil Wears Prada 2 Use AI? Here's The Truth About Anne Hathaway, Meryl Streep Film",
+            "url": "https://www.timesnownews.com/entertainment-news/hollywood/did-the-devil-wears-prada-2-use-ai-heres-the-truth-about-anne-hathaway-meryl-streep-film-article-154224002",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-154224002,width-1280,height-720,resizemode-75/154224002.jpg",
+            "publishedAt": "2026-05-02T12:28:25Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI is driving new wave of startups with smaller teams: OpenAI CEO Sam Altman",
+            "url": "https://economictimes.indiatimes.com/tech/startups/ai-is-driving-new-wave-of-startups-with-smaller-teams-openai-ceo-sam-altman/articleshow/130716417.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-726755,resizemode-75,msid-130716417/tech/startups/ai-is-driving-new-wave-of-startups-with-smaller-teams-openai-ceo-sam-altman.jpg",
+            "publishedAt": "2026-05-02T12:22:32Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI is driving new wave of startups with smaller teams: OpenAI CEO Sam Altman",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-is-driving-new-wave-of-startups-with-smaller-teams-openai-ceo-sam-altman/articleshow/130716397.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-53442,resizemode-75,msid-130716397/tech/artificial-intelligence/ai-is-driving-new-wave-of-startups-with-smaller-teams-openai-ceo-sam-altman.jpg",
+            "publishedAt": "2026-05-02T12:22:32Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Q&A: What AI actually does in diffusion models for drug design",
+            "url": "https://phys.org/news/2026-04-qa-ai-diffusion-drug.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/what-ai-actually-does.jpg",
+            "publishedAt": "2026-05-02T12:00:02Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -384,6 +468,24 @@
             "url": "https://www.cbsnews.com/sacramento/news/ceres-mayor-artificial-intelligence-photo-reactions/",
             "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/02/fd3e105a-121c-4502-a4c4-93efe524689d/thumbnail/1200x630/fc3fe4bdc1893cbbba69f9646f95ba1c/5p-pkg-p-ceres-ai-usage-kmaxfg7v.jpg",
             "publishedAt": "2026-05-02T00:45:05Z"
+        },
+        {
+            "source": {
+                "name": "techcrunch"
+            },
+            "title": "Beyond Lovable and Mistral: 21 European startups to watch",
+            "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1134037713.jpg",
+            "publishedAt": "2026-05-02 14:00:00"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Business schools shift from banning AI to building it into curricula",
+            "url": "https://completeaitraining.com/news/business-schools-shift-from-banning-ai-to-building-it-into/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/business-schools-shift-from-banning-ai-to-building-it-into-curricula_2026-05-02.jpg",
+            "publishedAt": "2026-05-02 12:06:52"
         },
         {
             "source": {
@@ -3378,114 +3480,6 @@
             "url": "https://www.wistv.com/2026/04/29/taylor-swift-files-trademark-applications-her-voice-likeness-reportedly-curb-ai-threats/",
             "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/GTUCQEUUTVCFDKS6WO27ZQU3JA.jpg?auth=d37a19432fda77293429629b25cb197929e7365374850abd74f7a9eb40e1da19&width=1200&height=600&smart=true",
             "publishedAt": "2026-04-29T16:22:39Z"
-        },
-        {
-            "source": {
-                "id": "840efb5642a2fd3ae6da920bb4981626",
-                "name": "Santa Ana Orange County Register",
-                "url": "https://www.ocregister.com",
-                "country": "us"
-            },
-            "title": "AI will soon grade 911 dispatcher performance in Long Beach",
-            "url": "https://www.ocregister.com/2026/04/29/ai-will-soon-grade-911-dispatcher-performance-in-long-beach/",
-            "urlToImage": "https://www.ocregister.com/wp-content/uploads/2026/04/LPT-L-AI-DISPATCHERS-04XX-KB05.jpg?w=1024&h=629",
-            "publishedAt": "2026-04-29T16:15:28Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "storage stocks jump as Seagate's upbeat forecast fuels confidence in AI spending",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/data-storage-stocks-jump-as-seagates-upbeat-forecast-fuels-confidence-in-ai-spending/articleshow/130610356.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-391546,resizemode-75,msid-130610356/tech/information-tech/data-storage-stocks-jump-as-seagates-upbeat-forecast-fuels-confidence-in-ai-spending.jpg",
-            "publishedAt": "2026-04-29T14:27:55Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "Bloom Energy soars to all-time high after routing Q1 estimates, hiking full-year guidance",
-            "url": "https://seekingalpha.com/news/4581597-bloom-energy-soars-to-all-time-high-after-routing-q1-estimates-hiking-revenue-guidance",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w630",
-            "publishedAt": "2026-04-29T14:27:19Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Data-storage stocks jump as Seagate's upbeat forecast fuels confidence in AI spending",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/29/data-storage-stocks-jump-as-seagate039s-upbeat-forecast-fuels-confidence-in-ai-spending",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/04/29/3884267.jpg",
-            "publishedAt": "2026-04-29T14:25:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "quarter profit soars as Google's big AI bets help push stock to new highs",
-            "url": "https://www.breitbart.com/news/alphabets-first-quarter-profit-soars-as-googles-big-ai-bets-help-push-stock-to-new-highs/",
-            "urlToImage": "https://media.breitbart.com/media/2026/04/wi/ap/us-britain-royal-visit-69-68-us-britain-royal-visit-president-chief-investment-officer-of-alphabet-640x335.jpg",
-            "publishedAt": "2026-04-29T14:18:34Z"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Is it worth buying shares in Relx?",
-            "url": "https://www.thetimes.com/business/companies-markets/article/worth-buying-shares-relx-tech-ai-0bc55r0bd",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/4d0ebd6f-b8a2-424b-8968-e1ff590b98c8.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
-            "publishedAt": "2026-04-29T14:15:51Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "AI Worries Have Returned to Wall Street. Now Come Earnings.",
-            "url": "https://www.hindustantimes.com/world-news/ai-worries-have-returned-to-wall-street-now-come-earnings-101777454407823.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/04/29/550x309/im-54807607_1777454466984_1777454472288.jpg",
-            "publishedAt": "2026-04-29T14:11:00Z"
-        },
-        {
-            "source": {
-                "id": "d86acd5a472cad336b1f19dca3331ef5",
-                "name": "M Live Michigan ",
-                "url": "https://www.mlive.com",
-                "country": "us"
-            },
-            "title": "Jackson College event to explore artificial intelligence’s role in manufacturing",
-            "url": "https://www.mlive.com/news/jackson/2026/04/jackson-college-event-to-explore-artificial-intelligences-role-in-manufacturing.html",
-            "urlToImage": "https://www.mlive.com/resizer/v2/JA6U56J7MJBP5JGZYB24DIJXAY.JPG?auth=53685c096dfd0b09e409a32ea46c9925dbe24a85a077fd181a1d1443f65f1b03&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-04-29T14:10:24Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "Trump threatens Iran with an AI picture of himself holding a gun",
-            "url": "https://wjla.com/news/nation-world/trump-threatens-iran-with-an-ai-picture-of-himself-holding-a-gun-strait-of-hormuz-israel-marco-rubio-blockade",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/990/1320/0x1/90/99353c6c-ed21-4f02-adde-42c58d8cfe6e-5d73d73997b7ca6f.jpg",
-            "publishedAt": "2026-04-29T13:55:58Z"
         }
     ]
 }
