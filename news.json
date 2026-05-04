@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-05-04T09:13:48.655282Z",
+    "lastUpdatedAt": "2026-05-04T11:44:10.205620Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "The Week in Breakingviews: Taking stock of tech",
+            "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-05-03/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/PPIK26JLORNWXKCNQF7UW7QLF4.jpg?auth=b97c87981d0a9d705b162be15a3b6a16a2a6807826221fe72a1149786f4efc7d&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-05-03T22:45:40Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Stock Market Today: Dow, S&P Live Updates for May 4",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-03/us-futures-gain-oil-falls-on-signs-of-iran-talks-markets-wrap",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqoxh_ZjXVIQ/v0/1200x800.jpg",
+            "publishedAt": "2026-05-03T22:16:33Z"
+        },
         {
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -396,6 +420,15 @@
             "url": "https://timesofindia.indiatimes.com/business/international-business/chinese-court-rules-firms-cant-lay-off-workers-on-ai-grounds/articleshow/130726519.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-130726533,width-1280,height-720,imgsize-8180,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-05-03T01:46:00Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "MacBook Neo Disrupts Another Successful Competitor, The iPad Pro",
+            "url": "https://www.forbes.com/sites/ewanspence/2026/05/03/apple-macbook-neo-ipad-pro-magic-keyboard-display-size-price-comparison/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69b562e25bf460e8e121517f/0x0.jpg?width=960&precrop=1426%2C803%2Cx274%2Cy59",
+            "publishedAt": "2026-05-03 22:13:58"
         },
         {
             "source": {
@@ -3447,42 +3480,6 @@
             "url": "https://www.tribuneindia.com/news/business/srm-ap-introduces-ai-integrated-m-sc-economics-and-m-sc-psychology-programmes/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM2MWYwZGIwLTQ0NjAtMTFmMS1hNTZjLWQxNmZjYmFkYzdlMi5qcGc=",
             "publishedAt": "2026-04-30T06:45:36Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "SentiPulse Launches SentiCat, Positioning Agents as the Foundation for Digital Humans",
-            "url": "https://www.tribuneindia.com/news/business/sentipulse-launches-senticat-positioning-agents-as-the-foundation-for-digital-humans/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTk5NDU1YjMwLTQ0NWUtMTFmMS1hNTZjLWQxNmZjYmFkYzdlMi5qcGc=",
-            "publishedAt": "2026-04-30T06:32:38Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "Amazon’s cloud sales post fastest growth since 2022 on AI demand",
-            "url": "https://www.nation.com.pk/30-Apr-2026/amazon-s-cloud-sales-post-fastest-growth-since-2022-ai-demand",
-            "urlToImage": "https://www.nation.com.pk/digital_images/large/2026-04-30/amazon-s-cloud-sales-post-fastest-growth-since-2022-ai-demand-1777530721-6244.jpg",
-            "publishedAt": "2026-04-30T06:32:04Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Europe’s Embattled Software Firms Rise Above AI, Iran Challenges",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-30/europe-s-embattled-software-firms-rise-above-ai-iran-challenges",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6FCq0vhfRlc/v1/1200x800.jpg",
-            "publishedAt": "2026-04-30T06:30:00Z"
         }
     ]
 }
