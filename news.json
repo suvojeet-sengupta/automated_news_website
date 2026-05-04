@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-05-04T06:07:34.428007Z",
+    "lastUpdatedAt": "2026-05-04T09:13:48.655282Z",
     "articles": [
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Mark Cuban Urges Employees To Challenge AI Output To Secure Job Stability, Says 'If You Regurgitate What",
+            "url": "https://www.benzinga.com/markets/tech/26/05/52238981/mark-cuban-urges-employees-to-challenge-ai-output-to-secure-job-stability-says-if-you-regurgitate-what-ai-gives-you-you-will-be-fired",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/05/03/Las-Vegas---May-21-Mark-Cuban-At-The-201.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-05-03T19:09:11Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "Ericsson highlights 5G, AI-led growth potential",
+            "url": "https://www.nation.com.pk/04-May-2026/ericsson-highlights-5g-ai-led-growth-potential",
+            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "publishedAt": "2026-05-03T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "The automation arms race will have huge consequences for workers",
+            "url": "https://www.abc.net.au/news/2026-05-04/artificial-intelligence-fog-layoff-data-centres-craig-scroggie/106635938",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/66442b8650487cf4e49a3c4861dd0ed7?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=25&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-05-03T19:00:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -360,6 +396,15 @@
             "url": "https://timesofindia.indiatimes.com/business/international-business/chinese-court-rules-firms-cant-lay-off-workers-on-ai-grounds/articleshow/130726519.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-130726533,width-1280,height-720,imgsize-8180,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-05-03T01:46:00Z"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "Windows still dominates these 3 major arenas, and Linux won't catch up anytime soon",
+            "url": "https://www.xda-developers.com/linux-is-more-popular-than-ever-but-windows-still-beats-it-in-these-x-tasks/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/linux-on-a-gaming-pc.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-05-03 18:30:21"
         },
         {
             "source": {
@@ -3438,54 +3483,6 @@
             "url": "https://www.bloomberg.com/news/articles/2026-04-30/europe-s-embattled-software-firms-rise-above-ai-iran-challenges",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6FCq0vhfRlc/v1/1200x800.jpg",
             "publishedAt": "2026-04-30T06:30:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Xi Jinping Advocates Strengthening China's Innovation Edge",
-            "url": "https://www.devdiscourse.com/article/science-environment/3891599-xi-jinping-advocates-strengthening-chinas-innovation-edge",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_03_2026_10_34_42_9924963.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-04-30T06:27:17Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "Murata beats profit estimates as AI data-center demand strains production",
-            "url": "https://www.japantimes.co.jp/business/2026/04/30/companies/murata-profit-estimate-ai/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/30/537953.jpg?v=3.1",
-            "publishedAt": "2026-04-30T06:27:00Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Sam Altman reveals GPT-5.5-Cyber model launch with new AI defence strategy",
-            "url": "https://www.thenews.com.pk/latest/1400892-sam-altman-reveals-gpt-55-cyber-model-launch-with-new-ai-defence-strategy",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-04-30/1400892_111730_updates.jpg",
-            "publishedAt": "2026-04-30T06:17:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Murata Tops Profit Estimates on Rising AI Data Center Demand",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-30/murata-tops-profit-estimates-on-rising-ai-data-center-demand",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIjFCymMmZDA/v0/1200x800.jpg",
-            "publishedAt": "2026-04-30T05:14:49Z"
         }
     ]
 }
