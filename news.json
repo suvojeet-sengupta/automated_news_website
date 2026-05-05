@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-05-05T10:41:45.452852Z",
+    "lastUpdatedAt": "2026-05-05T11:57:10.876325Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Global finance leaders flag shifting capital flows, AI impact at Milken",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/05/global-finance-leaders-flag-shifting-capital-flows-ai-impact-at-milken",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/05/3891931.jpg",
+            "publishedAt": "2026-05-04T23:53:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Alvarez & Marsal Wants to Make $3.5 Billion From AI Work by 2028",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-04/alvarez-marsal-wants-to-make-3-5-billion-from-ai-work-by-2028",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imAsj4H8tF4Y/v0/1200x800.jpg",
+            "publishedAt": "2026-05-04T23:01:00Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "New programme to promote AI literacy",
+            "url": "https://www.bangkokpost.com/thailand/general/3249717/new-programme-to-promote-ai-literacy",
+            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/05/05/6077107_700.jpg",
+            "publishedAt": "2026-05-04T22:48:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Former Citadel Chief Technology Officer Joining Motive Partners",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-04/former-citadel-chief-technology-officer-joining-motive-partners",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2BfsBy1B664/v1/1200x798.jpg",
+            "publishedAt": "2026-05-04T22:42:18Z"
+        },
         {
             "source": {
                 "id": "4ddba5324f2e0216fa6458240fdb0f97",
@@ -900,6 +948,15 @@
             "url": "https://www.channel4.com/news/anthropic-co-founder-ai-impact-10x-larger-and-10x-faster-than-industrial-revolution",
             "urlToImage": "https://fournews-assets-prod-s3-ew1-nmprod.s3.amazonaws.com/media/2026/05/THUMB-TO-POST-2-1920x1080.jpg",
             "publishedAt": "2026-05-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "MIT and IBM open joint lab to combine AI and quantum computing research",
+            "url": "https://completeaitraining.com/news/mit-and-ibm-open-joint-lab-to-combine-ai-and-quantum/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/mit-and-ibm-open-joint-lab-to-combine-ai-and-quantum-computing-research_2026-05-04.jpg",
+            "publishedAt": "2026-05-04 23:07:14"
         },
         {
             "source": {
@@ -3426,60 +3483,6 @@
             "url": "https://phys.org/news/2026-04-algorithmic-gender-bias-aidriven-personal.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/loan-application.jpg",
             "publishedAt": "2026-05-01T01:40:03Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "South Korea April exports rise 48.0% y/y, as chip boom continues",
-            "url": "https://www.marketscreener.com/news/south-korea-april-exports-rise-48-0-y-y-as-chip-boom-continues-ce7f58d8d08afe21",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-05-01T00:26:17Z"
-        },
-        {
-            "source": {
-                "id": "f6aff458be2c33b80c8600fb696f68fb",
-                "name": "Caixin",
-                "url": "https://www.caixinglobal.com",
-                "country": "cn"
-            },
-            "title": "CX Daily: When AI Spends, Card Networks Scramble to Keep Payments Safe",
-            "url": "https://www.caixinglobal.com/2026-05-01/cx-daily-when-ai-spends-card-networks-scramble-to-keep-payments-safe-102439914.html",
-            "urlToImage": "https://img.caixin.com/2026-04-30/177755242845843_560_373.jpg",
-            "publishedAt": "2026-05-01T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "68e8a9c1e60db86af8601f08c15463a0",
-                "name": "Altoona Mirror",
-                "url": "https://www.altoonamirror.com",
-                "country": "us"
-            },
-            "title": "Tax refunds and AI boom have offset some economic pain",
-            "url": "https://www.altoonamirror.com/news/national/2026/05/economy-pain-tax-refunds-ai-boom-offset/",
-            "urlToImage": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2026/04/30221911/B6-gas-prices-750x500.jpg",
-            "publishedAt": "2026-05-01T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "natlawreview"
-            },
-            "title": "Quantum Computing Is Coming: Is Your Privacy and Cybersecurity Program Ready?",
-            "url": "https://natlawreview.com/article/quantum-computing-coming-your-privacy-and-cybersecurity-program-ready",
-            "urlToImage": "https://natlawreview.com/sites/default/files/2026-05/computer%20data%20transfer%20data%20lock%20dat%20security%20info%20transfer%20SMALLER%20FILE%20size.jpg",
-            "publishedAt": "2026-05-01 23:29:45"
-        },
-        {
-            "source": {
-                "name": "thenewstack_io"
-            },
-            "title": "Fresh data has us asking, does AI demand Kubernetes?",
-            "url": "https://thenewstack.io/does-ai-demand-kubernetes/",
-            "urlToImage": "https://cdn.thenewstack.io/media/2026/05/874b352c-for-thumbnail-8.png",
-            "publishedAt": "2026-05-01 20:18:11"
         }
     ]
 }
