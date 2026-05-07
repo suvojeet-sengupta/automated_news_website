@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-05-07T08:36:46.564910Z",
+    "lastUpdatedAt": "2026-05-07T11:05:53.020384Z",
     "articles": [
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "AI showing discrimination, inherent bias towards poor: CJI",
+            "url": "https://www.dailyexcelsior.com/ai-showing-discrimination-inherent-bias-towards-poor-cji/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/cji-1.jpg",
+            "publishedAt": "2026-05-06T22:30:20Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Big Tech cannot afford to be cheap on AI spending",
+            "url": "https://www.cnbc.com/2026/05/06/jim-cramer-big-tech-cannot-afford-to-be-cheap-on-ai-spending.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+            "publishedAt": "2026-05-06T22:23:53Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Blackstone, KKR Consider Google Deal in Surge of AI Tie-Ups",
+            "url": "https://www.marketscreener.com/news/blackstone-kkr-consider-google-deal-in-surge-of-ai-tie-ups-ce7f58d2de89ff24",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3622904.png",
+            "publishedAt": "2026-05-06T21:57:56Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Tech Up as AI Boom Appears to Gain Steam - Tech Roundup",
+            "url": "https://www.marketscreener.com/news/tech-up-as-ai-boom-appears-to-gain-steam-tech-roundup-ce7f58d2df80f024",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-05-06T21:42:23Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "AppLovin forecasts upbeat quarterly revenue on demand for AI advertising tools",
+            "url": "https://www.marketscreener.com/news/applovin-forecasts-upbeat-quarterly-revenue-on-demand-for-ai-advertising-tools-ce7f58d2df81f02d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-05-06T21:33:36Z"
+        },
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "Anthropic AI says deal struck to use SpaceX data centres",
+            "url": "https://www.cbc.ca/news/science/anthropic-ai-deal-spacex-data-centres-9.7190201",
+            "urlToImage": "https://i.cbc.ca/ais/9cc65981-b4cc-4202-8b6c-b4610abaabf6,1778099330062/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C203%2C3500%2C1968%29%3BResize%3D620",
+            "publishedAt": "2026-05-06T21:20:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Former Prasar Bharati CEO Shashi Shekhar Vempati appointed new CBFC Chairperson",
+            "url": "https://www.tribuneindia.com/news/india/former-prasar-bharati-ceo-shashi-shekhar-vempati-appointed-new-cbfc-chairperson/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI3ODBhN2QwLTQ5OGYtMTFmMS1iM2QwLWI3YzFiZWUzMDg5MS5qcGc=",
+            "publishedAt": "2026-05-06T21:04:19Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nvidia and Corning bolster optical capabilities for Artificial Intelligence",
+            "url": "https://www.marketscreener.com/news/nvidia-and-corning-bolster-optical-capabilities-for-artificial-intelligence-ce7f58d2df8df425",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3961877_800.jpg",
+            "publishedAt": "2026-05-06T21:04:08Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -1152,6 +1248,24 @@
             "url": "https://www.bloomberg.com/news/articles/2026-05-06/samsung-hits-1-trillion-valuation-joining-tsmc-in-elite-club",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isQUa6xI7UR4/v0/1200x800.jpg",
             "publishedAt": "2026-05-06T00:07:27Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple Opens Apple Intelligence to Rival AI Models in iOS 27",
+            "url": "https://www.webpronews.com/apple-opens-apple-intelligence-to-rival-ai-models-in-ios-27/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/05/article-16242-1778098497.jpeg",
+            "publishedAt": "2026-05-06 22:20:10"
+        },
+        {
+            "source": {
+                "name": "brookings"
+            },
+            "title": "Context-maxxing: A path to cognitive agency with generative AI",
+            "url": "https://www.brookings.edu/articles/context-maxxing-cognitive-agency-generative-ai/",
+            "urlToImage": "https://www.brookings.edu/wp-content/uploads/2026/05/shutterstock_2650353693.jpg?quality=50",
+            "publishedAt": "2026-05-06 21:45:36"
         },
         {
             "source": {
@@ -3321,126 +3435,6 @@
             "url": "https://www.marketscreener.com/news/sk-hynix-shares-rally-13-after-us-tech-firms-signal-strong-ai-spending-plans-ce7f58dedc8ff221",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-14T220217Z_1_LYNXMPEM0D1BO_RTROPTP_4_SK-HYNIX-RESULTS.JPG",
             "publishedAt": "2026-05-04T08:50:19Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "AI prompt to check for fake pictures & videos",
-            "url": "https://www.bangkokpost.com/life/tech/3249432/ai-prompt-to-check-for-fake-pictures-videos",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260504/c2_3249432_260504154706.jpg",
-            "publishedAt": "2026-05-04T08:46:00Z"
-        },
-        {
-            "source": {
-                "id": "3a753bd10cd98cf45fd60f4136c70766",
-                "name": "Ottawa Citizen",
-                "url": "https://ottawacitizen.com",
-                "country": "ca"
-            },
-            "title": "The public service doesn’t need blind adopters of AI",
-            "url": "https://ottawacitizen.com/public-service/public-service-artificial-intelligence-ai",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2026/04/psc-064-runaway-ai_302866369.jpg",
-            "publishedAt": "2026-05-04T08:00:53Z"
-        },
-        {
-            "source": {
-                "id": "70f0e86899d38a3c4301bfc5b89b2ff4",
-                "name": "Daily Record",
-                "url": "https://www.dailyrecord.co.uk",
-                "country": "gb"
-            },
-            "title": "Rutherglen IT support firm beats 115 global rivals to land $2m AI contract",
-            "url": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/rutherglen-support-firm-beats-115-37096965",
-            "urlToImage": "https://i2-prod.dailyrecord.co.uk/article37096973.ece/ALTERNATES/s1200d/0_RMR_RRN_010526_Certum_01.jpg",
-            "publishedAt": "2026-05-04T07:50:00Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "XRP Healthcare Confirms \"One Ecosystem, Two Layers\" Model as XRPHAI Rewards Go Live on XRPL Following Successful MEXC Listing",
-            "url": "https://www.prnewswire.co.uk/news-releases/xrp-healthcare-confirms-one-ecosystem-two-layers-model-as-xrphai-rewards-go-live-on-xrpl-following-successful-mexc-listing-302760748.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2971506/One_Ecosystem_Two_Layers.jpg?p=facebook",
-            "publishedAt": "2026-05-04T07:30:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Asian Tech Stocks Jump as U.S. Rally Lifts Sentiment",
-            "url": "https://www.marketscreener.com/news/asian-tech-stocks-jump-as-u-s-rally-lifts-sentiment-ce7f58dedd81f424",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-05-04T07:09:42Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Broken links: How is academic work best judged in the brave new world of artificial intelligence?",
-            "url": "https://www.livemint.com/opinion/online-views/academic-work-research-citations-knowledge-artificial-intelligence-ai-influence-metrics-11777807360956.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/04/1600x900/logo/GERMANY-INTERNET-AI-ARTIFICIAL-INTELLIGENCE-0_1709621307416_1777875050843.jpg",
-            "publishedAt": "2026-05-04T07:00:39Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "iOS 27 could bring major AI upgrades to iPhones: What to expect at WWDC 2026",
-            "url": "https://www.businesstoday.in/technology/story/ios-27-could-bring-major-ai-upgrades-to-iphones-what-to-expect-at-wwdc-2026-529530-2026-05-04",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202605/69f833b95d949-ios-27-04504454-16x9.jpg",
-            "publishedAt": "2026-05-04T06:58:27Z"
-        },
-        {
-            "source": {
-                "id": "3d24c816061d69b2e23b8583aed9b447",
-                "name": "Euronews",
-                "url": "https://www.euronews.com",
-                "country": "fr"
-            },
-            "title": "Oscars: New rules announced - AI actors and scripts cannot win awards",
-            "url": "https://www.euronews.com/culture/2026/05/04/oscars-new-rules-announced-ai-actors-and-scripts-cannot-win-awards",
-            "urlToImage": "https://images.euronews.com/articles/stories/09/74/53/62/1200x675_cmsv2_49fa6045-3f04-55a2-b3b5-d857a6722b88-9745362.jpg",
-            "publishedAt": "2026-05-04T06:51:58Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "ISBF Launches BSc (Hons) Artificial Intelligence with Brunel Academic Direction",
-            "url": "https://www.tribuneindia.com/news/business/isbf-launches-bsc-hons-artificial-intelligence-with-brunel-academic-direction/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY5YTM1NGQwLTQ3N2EtMTFmMS1iM2QwLWI3YzFiZWUzMDg5MS5qcGc=",
-            "publishedAt": "2026-05-04T05:30:45Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "ISBF Launches BSc (Hons) Artificial Intelligence with Brunel Academic Direction",
-            "url": "https://www.news18.com/agency-feeds/isbf-launches-bsc-hons-artificial-intelligence-with-brunel-academic-direction-10072686.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
-            "publishedAt": "2026-05-04T05:30:08Z"
         }
     ]
 }
