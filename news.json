@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-05-08T22:53:46.046060Z",
+    "lastUpdatedAt": "2026-05-08T23:53:33.354043Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Nintendo, Sony hit by AI boom driven memory price surge: Will gamers pay more?",
+            "url": "https://www.thenews.com.pk/latest/1401870-nintendo-sony-hit-by-ai-boom-driven-memory-price-surge-will-gamers-pay-more",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-05-08/1401870_044501_updates.jpg",
+            "publishedAt": "2026-05-08T11:44:00Z"
+        },
+        {
+            "source": {
+                "id": "d9e5f124fd3af657d83b8787fbbae53d",
+                "name": "Raw Story",
+                "url": "https://www.rawstory.com",
+                "country": "us"
+            },
+            "title": "Clueless Capitol Hill jolted as latest tech development deemed too dangerous for public",
+            "url": "https://www.rawstory.com/raw-investigates/i-m-normally-a-states-rights-girl-trump-and-ted-cruz-team-up-to-state-ai-regs/",
+            "urlToImage": "https://www.rawstory.com/media-library/house-speaker-mike-johnson-r-la-departs-the-house-floor-following-the-vote-of-the-u-s-house-of-representatives-which-passed.jpg?id=62255980&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
+            "publishedAt": "2026-05-08T11:43:10Z"
+        },
+        {
+            "source": {
+                "id": "e98c4d2585c4c5661ffe60fed4d51930",
+                "name": "BOL News",
+                "url": "https://www.bolnews.com",
+                "country": "pk"
+            },
+            "title": "Apple tests AI AirPods with built-In cameras for smarter Siri",
+            "url": "https://www.bolnews.com/technology/apple-tests-ai-airpods-with-built-in-cameras-for-smarter-siri/",
+            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2026/05/Apple-AirPods.webp",
+            "publishedAt": "2026-05-08T11:33:29Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "Logitech CEO plans to boost spending on R&D and marketing",
+            "url": "https://www.thehindubusinessline.com/info-tech/logitech-ceo-plans-to-boost-spending-on-rd-and-marketing/article70955059.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/data-stories/visually/1ayt1f/article70955098.ece/alternates/LANDSCAPE_1200/Logitech%20Logo.PNG",
+            "publishedAt": "2026-05-08T11:28:44Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "Paytm Turned Profitable and Now It Is Going All In on AI",
+            "url": "https://www.outlookbusiness.com/corporate/from-losses-to-profits-to-ai-paytm-writes-new-playbook-for-indian-fintech",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-04-14/oc0h5mjb/paytm.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-05-08T11:20:38Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "Globe Business, AAP to expedite AI adoption",
+            "url": "https://manilastandard.net/business/314737514/globe-business-aap-to-expedite-ai-adoption.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2026/04/globe-biz-logo.png",
+            "publishedAt": "2026-05-08T11:15:00Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Cloudflare latest to cut jobs: How AI has led to more than 90,000 layoffs this year",
+            "url": "https://www.firstpost.com/explainers/cloudflare-job-cuts-ai-2026-companies-layoffs-14009022.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/05/Untitled-design-2026-05-08T161900.225-2026-05-177b4efaf259906413590eff60dbfb64.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-05-08T11:05:04Z"
+        },
+        {
+            "source": {
+                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+                "name": "The Dallas Morning News",
+                "url": "https://www.dallasnews.com",
+                "country": "us"
+            },
+            "title": "The \"golden age\" for corporate law in Texas is now",
+            "url": "https://www.dallasnews.com/business/article/golden-age-corporate-law-texas-now-22241053.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/66/14/24/30983469/5/rawImage.jpg",
+            "publishedAt": "2026-05-08T11:00:00Z"
+        },
         {
             "source": {
                 "id": "03f4f74aaa0a44ccbb846a1630123293",
@@ -612,6 +708,24 @@
             "url": "https://www.newsmax.com/newsfront/pentagon-artificial-intelligence-department-of-war/2026/05/07/id/1255594/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=0ae955e2-2ba9-43e3-9f63-0008169b046b&SiteName=Newsmax",
             "publishedAt": "2026-05-08T00:24:51Z"
+        },
+        {
+            "source": {
+                "name": "cdomagazine_tech"
+            },
+            "title": "This Week’s Leadership Moves: Honeywell Aerospace, JPMorganChase, and Westpac",
+            "url": "https://www.cdomagazine.tech/leadership-moves/this-weeks-leadership-moves-honeywell-aerospace-jpmorganchase-and-westpac",
+            "urlToImage": "https://cdomagazinecms.wpenginepowered.com/wp-content/uploads/2026/03/LM-graphic-B2.jpg",
+            "publishedAt": "2026-05-08 11:31:37"
+        },
+        {
+            "source": {
+                "name": "newsbytesapp"
+            },
+            "title": "Anthropic says demand for its AI tools could surge 80x",
+            "url": "https://www.newsbytesapp.com/news/science/anthropic-s-revenue-could-grow-80x-this-year-says-dario-amodei/story",
+            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l83520260508160640.jpeg",
+            "publishedAt": "2026-05-08 11:06:44"
         },
         {
             "source": {
@@ -3378,126 +3492,6 @@
             "url": "https://www.livemint.com/news/samsung-hits-1-trillion-valuation-driven-by-booming-demand-for-ai-chips-joins-tsmc-in-elite-club-11778036706574.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/06/1600x900/logo/FILES-SKOREA-MARKET-1_1778037228711_1778037279380.jpg",
             "publishedAt": "2026-05-06T03:23:54Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "What we know about US stress tests of Google, xAI and Microsoft AI models",
-            "url": "https://www.firstpost.com/tech/what-we-know-about-us-stress-tests-of-google-xai-and-microsoft-ai-models-14008014.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/05/2026-05-05T192940Z_469898731_RC273LA8OR2F_RTRMADP_3_USA-TRUMP-2026-05-26e3c2ae3e5709b79b2a724227a4e2a5-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-05-06T03:02:01Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Super Micro bets on AI server demand to provide upbeat forecast, shares soar",
-            "url": "https://economictimes.indiatimes.com/tech/technology/super-micro-bets-on-ai-server-demand-to-provide-upbeat-forecast-shares-soar/articleshow/130841726.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-51206,resizemode-75,msid-130841726/tech/technology/super-micro-bets-on-ai-server-demand-to-provide-upbeat-forecast-shares-soar.jpg",
-            "publishedAt": "2026-05-06T01:32:57Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Musk 'was going to hit me,' OpenAI executive says at trial",
-            "url": "https://economictimes.indiatimes.com/tech/technology/musk-was-going-to-hit-me-openai-executive-says-at-trial/articleshow/130841730.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-32228,resizemode-75,msid-130841730/tech/technology/musk-was-going-to-hit-me-openai-executive-says-at-trial.jpg",
-            "publishedAt": "2026-05-06T00:57:38Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Apple agrees to $250 million settlement over AI Siri claims",
-            "url": "https://economictimes.indiatimes.com/tech/technology/apple-agrees-to-250-million-settlement-over-ai-siri-claims/articleshow/130841745.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-22222,resizemode-75,msid-130841745/tech/technology/apple-agrees-to-250-million-settlement-over-ai-siri-claims.jpg",
-            "publishedAt": "2026-05-06T00:52:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Freshworks cuts 500 jobs; Q1 revenue hits $228 million",
-            "url": "https://economictimes.indiatimes.com/tech/technology/freshworks-cuts-500-jobs-q1-revenue-hits-228-million/articleshow/130841734.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-97086,resizemode-75,msid-130841734/tech/technology/freshworks-cuts-500-jobs-q1-revenue-hits-228-million.jpg",
-            "publishedAt": "2026-05-06T00:49:23Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Freshworks lays off 500 employees; Q1 revenue grows 16% to $228 million",
-            "url": "https://economictimes.indiatimes.com/tech/technology/freshworks-lays-off-500-employees-q1-revenue-grows-16-to-228-million/articleshow/130841734.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-97086,resizemode-75,msid-130841734/tech/technology/freshworks-lays-off-500-employees-q1-revenue-grows-16-to-228-million.jpg",
-            "publishedAt": "2026-05-06T00:49:23Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Freshworks to cut 11% jobs as AI reshapes software industry",
-            "url": "https://economictimes.indiatimes.com/tech/technology/freshworks-to-cut-11-jobs-as-ai-reshapes-software-industry/articleshow/130841734.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-97086,resizemode-75,msid-130841734/tech/technology/freshworks-to-cut-11-jobs-as-ai-reshapes-software-industry.jpg",
-            "publishedAt": "2026-05-06T00:49:23Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Apple settles lawsuit over late Siri AI features for $250 million",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/06/apple-settles-lawsuit-over-late-siri-ai-features-for-250-million",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/06/3893982.jpg",
-            "publishedAt": "2026-05-06T00:38:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AMD forecasts revenue above expectations on strong AI demand, shares jump 12%",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/06/amd-forecasts-quarterly-revenue-above-expectations-as-ai-chip-demand-stays-strong",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/06/3893945.jpg",
-            "publishedAt": "2026-05-06T00:16:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Freshworks to cut 11% jobs as AI reshapes software industry",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/06/freshworks-to-cut-11-jobs-as-ai-reshapes-software-sector",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/06/3893946.jpg",
-            "publishedAt": "2026-05-06T00:16:00Z"
         }
     ]
 }
