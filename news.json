@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-05-08T13:23:04.146298Z",
+    "lastUpdatedAt": "2026-05-08T15:17:47.977625Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "68% of Indian Travelers Likely to Use AI for Their Next Trip: Agoda",
+            "url": "https://www.manilatimes.net/2026/05/08/tmt-newswire/pr-newswire/68-of-indian-travelers-likely-to-use-ai-for-their-next-trip-agoda/2339198",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/08/1048369.jpg",
+            "publishedAt": "2026-05-08T02:33:14Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Cloudflare to cut about 20% workforce as AI adoption reshapes operations",
+            "url": "https://economictimes.indiatimes.com/tech/technology/cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations/articleshow/130943006.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-66152,resizemode-75,msid-130943006/tech/technology/cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations.jpg",
+            "publishedAt": "2026-05-08T02:32:22Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "MUFG Partners With Google to Develop AI Retail Finance Services",
+            "url": "https://www.marketscreener.com/news/mufg-partners-with-google-to-develop-ai-retail-finance-services-ce7f5bdade88f32d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-05-08T01:36:14Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "How ChatGPT and Sam Altman’s OpenAI have changed Silicon Valley’s housing market forever",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-chatgpt-and-sam-altmans-openai-have-changed-silicon-valleys-housing-market-forever/articleshow/130914619.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130914663,width-1280,height-720,imgsize-258630,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-08T01:34:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -120,6 +168,15 @@
             "url": "https://www.newsmax.com/newsfront/pentagon-artificial-intelligence-department-of-war/2026/05/07/id/1255594/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=0ae955e2-2ba9-43e3-9f63-0008169b046b&SiteName=Newsmax",
             "publishedAt": "2026-05-08T00:24:51Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Verda and Compal partner to supply GPU servers for AI cloud expansion in Europe and APAC",
+            "url": "https://completeaitraining.com/news/verda-and-compal-partner-to-supply-gpu-servers-for-ai-cloud-2/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/verda-and-compal-partner-to-supply-gpu-servers-for-ai-cloud-expansion-in-europe_2026-05-07.jpg",
+            "publishedAt": "2026-05-08 02:00:37"
         },
         {
             "source": {
@@ -3333,57 +3390,6 @@
             "url": "https://www.analyticsinsight.net/stocks/nvidia-stock-price-at-198201-breakout-or-pause-ahead",
             "urlToImage": "https://media.assettype.com/analyticsinsight/2026-05-05/97ql3tnf/NVIDIA-Stock-Price-at-198%E2%80%93201-Breakout-or-Pause-Ahead.jpg",
             "publishedAt": "2026-05-06 01:30:00"
-        },
-        {
-            "source": {
-                "name": "cnbc"
-            },
-            "title": "In the global AI race, a sanctioned Chinese firm says cheaper models can still win",
-            "url": "https://www.cnbc.com/2026/05/06/china-ai-race-cost-efficiency-sensetime-competition.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108302663-1778027104582-gettyimages-2160393288-tang-notitle240706_np4H4.jpeg?v=1778027124&w=1200&h=675",
-            "publishedAt": "2026-05-06 01:08:01"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "Sundar Pichai built Google into an AI powerhouse while rivals called for his resignation",
-            "url": "https://completeaitraining.com/news/sundar-pichai-built-google-into-an-ai-powerhouse-while/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/sundar-pichai-built-google-into-an-ai-powerhouse-while-rivals-called-for-his-res_2026-05-06.jpg",
-            "publishedAt": "2026-05-06 01:03:23"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "The next phase of AI spending is already underway",
-            "url": "https://www.thestreet.com/investing/the-next-phase-of-ai-spending-is-already-underway",
-            "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTgyNTI2/photo-2982526.jpg?io=1&profile=rss",
-            "publishedAt": "2026-05-06 01:03:00"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Apple Settles Siri AI Delay Lawsuit for $250 Million",
-            "url": "https://www.marketscreener.com/news/apple-settles-siri-ai-delay-lawsuit-for-250-million-ce7f58ddd981f22d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-05-05T22:37:01Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "A historic $200-million USC gift from Nvidia board member aims to transform AI education",
-            "url": "https://www.latimes.com/california/story/2026-05-05/usc-200-million-donation-ai-artificial-intelligence",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/fe1fb98/2147483647/strip/true/crop/5000x2625+0+355/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F1f%2F35a0ac064db4873072f66a586921%2F1550939-me-usc-campus-22.jpg",
-            "publishedAt": "2026-05-05T22:33:19Z"
         }
     ]
 }
