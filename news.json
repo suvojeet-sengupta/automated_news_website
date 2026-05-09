@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-05-09T05:44:51.798936Z",
+    "lastUpdatedAt": "2026-05-09T07:50:26.170213Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Trump Border Push Drives AI Tech Expansion",
+            "url": "https://www.newsmax.com/newsfront/donald-trump-artificial-intelligence-immigration-enforcement/2026/05/08/id/1255686/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=c0e84267-1aa2-4d87-ad1b-98a59030e57f&SiteName=Newsmax",
+            "publishedAt": "2026-05-08T19:31:08Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "US Prepares AI Security Order That Omits Mandatory Model Tests",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-08/us-prepares-ai-security-order-that-omits-mandatory-model-tests",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik49rSuWG3RA/v2/1200x800.jpg",
+            "publishedAt": "2026-05-08T19:23:20Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "AI actors not eligible for Golden Globes, say organizers",
+            "url": "https://japantoday.com/category/entertainment/ai-actors-not-eligible-for-golden-globes-say-organizers",
+            "urlToImage": "https://media.japantoday.com/img/store/ae/f5/d4e93d1e89def2a9a2eff1f6c9f4378d8072/11efba8e4bc70b561623448bf20a7fe373afe364/_w1700.jpeg",
+            "publishedAt": "2026-05-08T19:20:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US stocks today: Anthropic signs $1.8 billion AI cloud deal with Akamai",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-anthropic-signs-1-8-billion-ai-cloud-deal-with-akamai/articleshow/130966200.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-130966216,width-1200,height-630,imgsize-83812,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-05-08T19:03:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Anthropic Signs $1.8 Billion Computing Deal with Akamai Technologies",
+            "url": "https://www.marketscreener.com/news/anthropic-signs-1-8-billion-computing-deal-with-akamai-technologies-ce7f5bdbdf81f520",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-05-08T19:00:17Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports",
+            "url": "https://www.marketscreener.com/news/anthropic-signs-1-8-billion-ai-cloud-deal-with-akamai-bloomberg-news-reports-ce7f5bdbdf8ef425",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-30T200202Z_1_LYNXNPEL4T10W_RTROPTP_4_ANTHROPIC-AI.JPG",
+            "publishedAt": "2026-05-08T18:50:19Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Google explores India investments in AI infra, server and drone manufacturing",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-explores-india-investments-in-ai-infra-server-and-drone-manufacturing/articleshow/130966082.cms",
+            "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+            "publishedAt": "2026-05-08T18:50:00Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "NHA, IndiaAI Mission and IISc showcase human-centric AI solutions to transform health claims under AB PM-JAY",
+            "url": "https://www.thehindu.com/news/national/karnataka/nha-indiaai-mission-and-iisc-showcase-human-centric-ai-solutions-to-transform-health-claims-under-ab-pm-jay/article70956004.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/pug85t/article70956964.ece/alternates/LANDSCAPE_1200/AB%20PM-JAY_01.JPG",
+            "publishedAt": "2026-05-08T18:44:17Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "AI Emerges As Leading Cause Of Layoffs In April As Tech Firms Cut Jobs And Shift Spending",
+            "url": "https://www.ibtimes.com/ai-emerges-leading-cause-layoffs-april-tech-firms-cut-jobs-shift-spending-3802543",
+            "urlToImage": "https://d.ibtimes.com/en/full/4648189/artificial-intelligence.jpg",
+            "publishedAt": "2026-05-08T18:25:10Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "What's Going On With Cloudflare Stock Today?",
+            "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/05/52424485/whats-going-on-with-cloudflare-stock-today-2",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/05/08/Cloudflare-Inc_1.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-05-08T18:24:00Z"
+        },
         {
             "source": {
                 "id": "1b697445987e8a33f6c82842e17d60d9",
@@ -948,6 +1068,15 @@
             "url": "https://www.newsmax.com/newsfront/pentagon-artificial-intelligence-department-of-war/2026/05/07/id/1255594/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=0ae955e2-2ba9-43e3-9f63-0008169b046b&SiteName=Newsmax",
             "publishedAt": "2026-05-08T00:24:51Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "AI safety fears shadow Musk and OpenAI trial in Oakland",
+            "url": "https://completeaitraining.com/news/ai-safety-fears-shadow-musk-and-openai-trial-in-oakland/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/ai-safety-fears-shadow-musk-and-openai-trial-in-oakland_2026-05-08.jpg",
+            "publishedAt": "2026-05-08 19:17:24"
         },
         {
             "source": {
@@ -3342,138 +3471,6 @@
             "url": "https://www.cp24.com/news/canada/2026/05/06/report-on-openai-expected-from-federal-provincial-privacy-watchdogs-today/",
             "urlToImage": "https://www.cp24.com/resizer/v2/TSWUGO66MJTLY2UELNGKBFO7ZU.jpg?smart=true&auth=fea3ffe69e061a10645cd791d3606c97e87c39a0092ffdee11611d620dfc8217&width=1200&height=630",
             "publishedAt": "2026-05-06T09:42:10Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "Motion: Jasmin Lau on artificial intelligence transition with no jobless growth",
-            "url": "https://www.channelnewsasia.com/watch/motion-jasmin-lau-artificial-intelligence-transition-no-jobless-growth-6103916",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--5faRfLSA--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/06/1778063533-image.jpg?itok=T_Ye8R7M",
-            "publishedAt": "2026-05-06T09:34:00Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "IIT Guwahati Launches MTech In Robotics And AI, GATE Scores Not Required",
-            "url": "https://www.news18.com/education-career/iit-guwahati-launches-mtech-in-robotics-and-ai-gate-scores-not-required-10077043.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/03/IIT-Guwahati-2026-03-427f986db621b32b38e90d255672f379-1200x675.jpg",
-            "publishedAt": "2026-05-06T09:31:54Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "EM assets gain as Iran deal hopes, AI euphoria boost sentiment",
-            "url": "https://www.marketscreener.com/news/em-assets-gain-as-iran-deal-hopes-ai-euphoria-boost-sentiment-ce7f58dddf8fff2d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-05-06T09:17:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Meta Working on Consumer Version of OpenClaw, New Agentic Shopping Tool",
-            "url": "https://www.marketscreener.com/news/meta-working-on-consumer-version-of-openclaw-new-agentic-shopping-tool-ce7f58dddf8ff12c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-05-06T09:14:35Z"
-        },
-        {
-            "source": {
-                "id": "4a8966ab09903fecadfd9645c3ce0951",
-                "name": "Herald-Tribune",
-                "url": "https://www.heraldtribune.com",
-                "country": "us"
-            },
-            "title": "Florida tragedies highlight risks of chatbots' friendly suggestions",
-            "url": "https://www.heraldtribune.com/story/news/healthcare/2026/05/06/chatbot-advice-found-tragic-florida-outcomes-regulations-debated/89824887007/",
-            "urlToImage": "https://www.heraldtribune.com/gcdn/authoring/authoring-images/2026/04/15/PASH/89626032007-ash-ai-getty.jpg?crop=1732,974,x0,y89&width=1732&height=974&format=pjpg&auto=webp",
-            "publishedAt": "2026-05-06T09:04:33Z"
-        },
-        {
-            "source": {
-                "id": "2c9e28a1c622c0b9acedb9bf0ffa9c7c",
-                "name": "Gainesville Sun",
-                "url": "https://www.gainesville.com",
-                "country": "us"
-            },
-            "title": "Florida tragedies highlight risks of chatbots' friendly suggestions",
-            "url": "https://www.gainesville.com/story/news/healthcare/2026/05/06/chatbot-advice-found-tragic-florida-outcomes-regulations-debated/89824887007/",
-            "urlToImage": "https://www.gainesville.com/gcdn/authoring/authoring-images/2026/04/15/PASH/89626032007-ash-ai-getty.jpg?crop=1732,974,x0,y89&width=1732&height=974&format=pjpg&auto=webp",
-            "publishedAt": "2026-05-06T09:04:33Z"
-        },
-        {
-            "source": {
-                "id": "2f8537c09d2342edda5b9b6bd4c02b75",
-                "name": "TCPalm",
-                "url": "https://www.tcpalm.com",
-                "country": "us"
-            },
-            "title": "Florida tragedies highlight risks of chatbots' friendly suggestions",
-            "url": "https://www.tcpalm.com/story/news/healthcare/2026/05/06/chatbot-advice-found-tragic-florida-outcomes-regulations-debated/89824887007/",
-            "urlToImage": "https://www.tcpalm.com/gcdn/authoring/authoring-images/2026/04/15/PASH/89626032007-ash-ai-getty.jpg?crop=1732,974,x0,y89&width=1732&height=974&format=pjpg&auto=webp",
-            "publishedAt": "2026-05-06T09:04:33Z"
-        },
-        {
-            "source": {
-                "id": "962276c759d367f4a07ff10d6ae9dc40",
-                "name": "Naples Daily News",
-                "url": "https://www.naplesnews.com",
-                "country": "us"
-            },
-            "title": "Florida tragedies highlight risks of chatbots' friendly suggestions",
-            "url": "https://www.naplesnews.com/story/news/healthcare/2026/05/06/chatbot-advice-found-tragic-florida-outcomes-regulations-debated/89824887007/",
-            "urlToImage": "https://www.naplesnews.com/gcdn/authoring/authoring-images/2026/04/15/PASH/89626032007-ash-ai-getty.jpg?crop=1732,974,x0,y89&width=1732&height=974&format=pjpg&auto=webp",
-            "publishedAt": "2026-05-06T09:04:33Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "Motion: Kenneth Tiong on artificial intelligence transition with no jobless growth",
-            "url": "https://www.channelnewsasia.com/watch/motion-kenneth-tiong-artificial-intelligence-transition-no-jobless-growth-6103736",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--eBjRAnVA--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/06/1778058734-image.jpg?itok=thuDBGQ0",
-            "publishedAt": "2026-05-06T08:10:00Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "Report on OpenAI expected from federal, provincial privacy watchdogs today",
-            "url": "https://www.sootoday.com/national-news/report-on-openai-expected-from-federal-provincial-privacy-watchdogs-today-12242175",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/d2bb312014c07617aaac7f920ee2299e0c57d2a9b119eef7591552742c950a1e.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-05-06T08:00:20Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Report on OpenAI expected from federal, provincial privacy watchdogs today",
-            "url": "https://www.baytoday.ca/national-news/report-on-openai-expected-from-federal-provincial-privacy-watchdogs-today-12242175",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/d2bb312014c07617aaac7f920ee2299e0c57d2a9b119eef7591552742c950a1e.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-05-06T08:00:20Z"
         }
     ]
 }
