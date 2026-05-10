@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-05-10T22:41:38.998248Z",
+    "lastUpdatedAt": "2026-05-10T23:47:31.842746Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Airbnb CEO Brian Chesky says AI now writes 60% of the company's code",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/airbnb-ceo-brian-chesky-says-ai-now-writes-60-of-the-companys-code/articleshow/130990619.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-130990608,width-1280,height-720,imgsize-20268,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-10T11:41:00Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Shark Tank star Mark Cuban says AI can’t be trusted without humans",
+            "url": "https://www.thenews.com.pk/latest/1402074-shark-tank-star-mark-cuban-says-ai-cant-be-trusted-without-humans",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-05-10/1402074_041157_updates.jpg",
+            "publishedAt": "2026-05-10T11:01:48Z"
+        },
         {
             "source": {
                 "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
@@ -156,6 +180,15 @@
             "url": "https://www.spokesman.com/stories/2026/may/10/dispatch-from-wyoming-why-i-dodge-billionaires-sma/",
             "urlToImage": "https://thumb.spokesman.com/IDWWaZPLv6xu71tDy9kTnVp797Y=/1200x630/smart/media.spokesman.com/photos/2026/05/06/6837dcd90447d.hires.jpg",
             "publishedAt": "2026-05-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Man Who Invented Roomba Moves Into Household Demon Market",
+            "url": "https://us.headtopics.com/news/man-who-invented-roomba-moves-into-household-demon-market-83185262",
+            "urlToImage": "https://i.headtopics.com/images/2026/5/10/futurism/man-who-invented-roomba-moves-into-household-demon-man-who-invented-roomba-moves-into-household-demon-78F5CD868DA953D8950198516060DAA2.webp",
+            "publishedAt": "2026-05-10 11:06:21"
         },
         {
             "source": {
@@ -3474,42 +3507,6 @@
             "url": "https://www.devdiscourse.com/article/technology/3899528-behind-the-curtain-sourabh-rajput-and-the-art-of-enterprise-intelligence",
             "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_46_5151186.jpg&width=920&format=jpeg",
             "publishedAt": "2026-05-07T05:58:38Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "From AI & Modern Investigations to Ethical Entrepreneurship: How Akash Singh Thakur Connects Technology, Human Awareness & Consumer Trust Through HALDIVA INDIA - Outlook Business",
-            "url": "https://www.outlookbusiness.com/spotlight/news-wire/from-ai-modern-investigations-to-ethical-entrepreneurship-how-akash-singh-thakur-connects-technology-human-awareness-consumer-trust-through-haldiva-india",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-05-06/3vco0490/Featured_1024x576.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-05-07T05:57:58Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Seth R Freeman on why global markets continue to climb amid West Asia conflict",
-            "url": "https://economictimes.indiatimes.com/markets/expert-view/seth-r-freeman-on-why-global-markets-continue-to-climb-amid-west-asia-conflict/articleshow/130881530.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-130881434,width-1200,height-630,imgsize-29844,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-05-07T05:51:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Seth R Freeman on why global markets continue to climb amid West Asia conflict",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/seth-r-freeman-on-why-global-markets-continue-to-climb-amid-west-asia-conflict/articleshow/130881371.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-130881434,width-1200,height-630,imgsize-29844,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-05-07T05:51:00Z"
         }
     ]
 }
