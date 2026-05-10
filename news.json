@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-05-10T06:06:46.259337Z",
+    "lastUpdatedAt": "2026-05-10T08:49:49.412073Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "AI use surges globally but rich-poor divide widens, Microsoft says",
+            "url": "https://japantoday.com/category/tech/ai-use-surges-globally-but-rich-poor-divide-widens-microsoft-says",
+            "urlToImage": "https://media.japantoday.com/img/store/94/2b/c354e8c8905d44aeaf24db5a6b1e645ae2c2/0a28dea13fae1b548f85e7b08507bc4044c44055/_w1700.jpeg",
+            "publishedAt": "2026-05-09T20:18:00Z"
+        },
+        {
+            "source": {
+                "id": "c477009a98f37b19212d8ae20ce8c018",
+                "name": "POLITICO",
+                "url": "https://www.politico.com",
+                "country": "us"
+            },
+            "title": "How the FAA wants to use artificial intelligence",
+            "url": "https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fc2%2F88%2F1534c75e4a13a125adaf58fc270c%2Fgovernment-shutdown-40766.jpg",
+            "publishedAt": "2026-05-09T20:00:00Z"
+        },
         {
             "source": {
                 "id": "0a4c92a1a91d0994627a96e134064d69",
@@ -564,6 +588,24 @@
             "url": "https://www.lokmattimes.com/international/us-india-push-ai-defence-cooperation/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202605093780987_202605.jpeg",
             "publishedAt": "2026-05-09T02:02:24Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Nvidia Jensen Huang on what excites him to most when it comes to robotics and physical AI: ‘We need a...’",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-jensen-huang-on-what-excites-him-to-most-when-it-comes-to-robotics-and-physical-ai-we-need-a/articleshow/130982738.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-130982747/130982747.jpg",
+            "publishedAt": "2026-05-09 20:01:33"
+        },
+        {
+            "source": {
+                "name": "edexlive"
+            },
+            "title": "IIM Jammu launches industry-integrated eBBA programme with TalentSprint",
+            "url": "https://www.edexlive.com/news/iim-jammu-launches-industry-integrated-ebba-programme-with-talentsprint",
+            "urlToImage": "https://cf-images.assettype.com/edexlive/2026-05-09/jcfschdp/Screenshot-2026-05-09-193711.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+            "publishedAt": "2026-05-09 18:15:00"
         },
         {
             "source": {
@@ -3483,42 +3525,6 @@
             "url": "https://natlawreview.com/article/us-and-allies-release-careful-adoption-guidance-agentic-ai",
             "urlToImage": "https://natlawreview.com/sites/default/files/2026-05/AI%20Artificial%20Intelligence%20Phone%20Cloud%20Security-441581066.jpg",
             "publishedAt": "2026-05-07 17:19:32"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top 10 AI Startups in New Delhi",
-            "url": "https://www.analyticsinsight.net/startups/top-10-ai-startups-in-new-delhi",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-05-07/gxinmwlm/Top-10-AI-Startups-in-New-Delhi-1.jpg",
-            "publishedAt": "2026-05-07 17:13:46"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Anthropic’s SpaceX compute deal comes as AI data center backlash grows—fueled by both real grievances and conspiracy theories",
-            "url": "https://fortune.com/2026/05/07/big-tech-will-spend-nearly-700-billion-on-ai-this-year-no-one-knows-where-the-buildout-ends/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2217033994.jpg?w=2048",
-            "publishedAt": "2026-05-07 16:42:49"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Grok’s usage is so low that Elon Musk can sell compute to Anthropic",
-            "url": "https://www.fastcompany.com/91537990/groks-usage-is-so-low-they-can-sell-compute-to-anthropic?partner=rss",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91537990-why-grok-is-leasing-out-their-compute-to-anthropic.jpg",
-            "publishedAt": "2026-05-07 16:00:00"
-        },
-        {
-            "source": {
-                "name": "thehill"
-            },
-            "title": "Anthropic adding computing capacity from Musk's SpaceX",
-            "url": "https://thehill.com/policy/technology/5867940-musk-spacex-ai-anthropic/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/04/69e5d3c2b09d81.98506184-e1778168188683.jpeg?strip=1",
-            "publishedAt": "2026-05-07 15:54:38"
         }
     ]
 }
