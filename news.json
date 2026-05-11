@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-05-11T20:44:16.193791Z",
+    "lastUpdatedAt": "2026-05-11T22:02:48.202290Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "AI labs should pass safety review to get US government contracts, group says",
+            "url": "https://www.marketscreener.com/news/ai-labs-should-pass-safety-review-to-get-us-government-contracts-group-says-ce7f5bd8de8ef124",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-21T130958Z_1_LYNXMPEM3K0R3_RTROPTP_4_USA-FTC-AI.JPG",
+            "publishedAt": "2026-05-11T10:02:09Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "A $400 AI Bet That’s Actually a High-Stakes Wager on the Future of Work",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-11/ai-related-job-displacement-isn-t-being-planned-for-enough-economists-say",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI8FCG4Iq7vg/v0/1200x600.jpg",
+            "publishedAt": "2026-05-11T10:00:17Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "How this ‘underground market’ is giving Chinese coders access to Claude and Gemini",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-this-underground-market-is-giving-chinese-coders-access-to-claude-and-gemini/articleshow/131010385.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-131010448,width-1280,height-720,imgsize-93354,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-11T09:53:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Scale Sense Launches AI First Growth Model for Indian Brands amid Rapid Shift in Digital Marketing",
+            "url": "https://www.tribuneindia.com/news/business/scale-sense-launches-ai-first-growth-model-for-indian-brands-amid-rapid-shift-in-digital-marketing/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU2ZGUxZGYwLTRkMWUtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
+            "publishedAt": "2026-05-11T09:50:47Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "UPDATE 1-Deals and new partnerships on the menu at Africa-France summit",
+            "url": "https://www.devdiscourse.com/article/headlines/3903777-update-1-deals-and-new-partnerships-on-the-menu-at-africa-france-summit",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_00_09_3968771.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-05-11T09:43:05Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Lawsuit blames ChatGPT maker OpenAI for bot helping plan a mass shooting",
+            "url": "https://www.breitbart.com/news/lawsuit-blames-chatgpt-maker-openai-for-bot-helping-plan-a-mass-shooting/",
+            "urlToImage": "https://media.breitbart.com/media/2026/04/wi/ap/ai-health-care-poll-84564-ai-health-care-poll-openai-logo-is-mobile-phone-front-of-computer-screen-640x335.jpg",
+            "publishedAt": "2026-05-11T09:03:20Z"
+        },
         {
             "source": {
                 "id": "680f00482cbf9f314921fefd917871d9",
@@ -24,6 +96,18 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/why-anthropic-thinks-evil-ai-fiction-pushed-claude-toward-blackmail/articleshow/131008681.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-131008672,width-1280,height-720,imgsize-83812,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-05-11T08:27:00Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "Hackers used AI to build zero-day attack, Google researchers say",
+            "url": "https://www.spokesman.com/stories/2026/may/11/hackers-used-ai-to-build-zero-day-attack-google-re/",
+            "urlToImage": "https://media.spokesman.com/graphics/2020/08/sr_placeholder.png",
+            "publishedAt": "2026-05-11T08:07:00Z"
         },
         {
             "source": {
@@ -396,6 +480,15 @@
             "url": "https://economictimes.indiatimes.com/tech/technology/fintechs-looking-to-ai-to-unlock-opportunities-cost-efficiencies/articleshow/130996707.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1849367,resizemode-75,msid-130996707/tech/technology/fintechs-looking-to-ai-to-unlock-opportunities-cost-efficiencies.jpg",
             "publishedAt": "2026-05-11T00:30:00Z"
+        },
+        {
+            "source": {
+                "name": "timesnownews"
+            },
+            "title": "Shrimathi Devkunvar Nanalal Bhatt Vaishnav College for WomenArticle for publicationTimes Now 2026",
+            "url": "https://www.timesnownews.com/bizz-impact/shrimathi-devkunvar-nanalal-bhatt-vaishnav-college-for-womenarticle-for-publicationtimes-now-2026-article-154293365",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-154293372,width-1280,height-720,resizemode-75/154293372.jpg",
+            "publishedAt": "2026-05-11 09:56:45"
         },
         {
             "source": {
@@ -3375,102 +3468,6 @@
             "url": "https://www.devdiscourse.com/article/headlines/3900604-us-stocks-sp-500-dips-as-chip-stocks-give-up-gains",
             "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_01_02_8802375.jpg&width=920&format=jpeg",
             "publishedAt": "2026-05-07T18:56:08Z"
-        },
-        {
-            "source": {
-                "id": "dd1d806725f45e4403e75c1bb23b447a",
-                "name": "The Irish Times",
-                "url": "https://www.irishtimes.com",
-                "country": "ie"
-            },
-            "title": "Use of artificial intelligence among senior civil servants ‘increasingly common’",
-            "url": "https://www.irishtimes.com/business/work/2026/05/07/use-of-artificial-intelligence-among-senior-civil-servants-increasingly-common/",
-            "urlToImage": "https://www.irishtimes.com/resizer/v2/6G6CZ2VCTBANBAGC62WADQBLKE.jpg?smart=true&auth=f9d8db82b28020faa094caa11b20bbfed5615721385b61f5c314bcfade1feca0&width=1200&height=630",
-            "publishedAt": "2026-05-07T18:55:56Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
-            "url": "https://www.manilatimes.net/2026/05/08/business/sunday-business-it/tech-is-turning-increasingly-to-religion-in-a-quest-to-create-ethical-ai/2338841",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/08/1047869.jpg",
-            "publishedAt": "2026-05-07T18:51:00Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "Meta announces AI support for SMBs and rural companies",
-            "url": "https://www.socialmediatoday.com/news/meta-announces-ai-support-for-smbs-and-rural-companies/819661/",
-            "urlToImage": "https://imgproxy.divecdn.com/jtFl8l6BsGmGnMdnKkBuXTUVcdNE3PFfV9vasuIPtAs/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2xvZ28yLnBuZw==.webp",
-            "publishedAt": "2026-05-07T18:49:06Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "French Prosecutors Seek Charges Against Elon Musk and X Over Child Sexual Abuse Images",
-            "url": "https://www.usnews.com/news/business/articles/2026-05-07/french-prosecutors-seek-charges-against-elon-musk-and-x-over-child-sexual-abuse-images",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/c17bcd0/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fe4%2F4f4b5e8d07d9f4f92de920805b68c4%2F6a7afac6238e4ceba7ee90f0206fefb2Musk_OpenAI_Trial_2946_.jpg",
-            "publishedAt": "2026-05-07T18:46:00Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Arlington high school reverses course on plan to use AI to pronounce student names during graduation",
-            "url": "https://wtop.com/arlington/2026/05/arlington-high-school-reverses-course-on-plan-to-use-ai-to-pronounce-student-names-during-graduation/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/05/graduates.jpg",
-            "publishedAt": "2026-05-07T18:43:53Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "DOJ antitrust head warns dealmakers not to mislead on AI",
-            "url": "https://www.reuters.com/legal/litigation/doj-antitrust-head-warns-dealmakers-not-mislead-ai-2026-05-07/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/HK7SO5DPSRMYHF7DXKXACDDBJE.jpg?auth=f376cc9bdde26801b56b936a0b31b50867ae870fa2d7eb61cf54b66b2e54138b&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-05-07T18:05:25Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Japan's SoftBank explores homegrown AI servers with Nvidia, Foxconn, Nikkei reports",
-            "url": "https://www.reuters.com/business/media-telecom/softbank-talks-with-nvidia-build-homegrown-ai-servers-nikkei-reports-2026-05-07/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ACJDGHM3ZFOQ7FBP5C3DJO2GVA.jpg?auth=3aaf32e93ace0aff7aa5fde6f4edf23a6578b3d83ae5cc36f166c5179abb00e1&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-05-07T18:00:35Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "The Bolshevik Algorithm: How the globalist machine hacked humanity and erased the soul of America",
-            "url": "https://www.naturalnews.com/2026-05-07-the-bolshevik-algorithm-globalist-machine-hacked-humanity.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/The-Bolshevik-Algorithm.png",
-            "publishedAt": "2026-05-07T17:43:10Z"
         }
     ]
 }
