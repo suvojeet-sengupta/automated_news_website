@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-05-12T21:14:55.159120Z",
+    "lastUpdatedAt": "2026-05-12T22:55:57.808664Z",
     "articles": [
+        {
+            "source": {
+                "id": "e98c4d2585c4c5661ffe60fed4d51930",
+                "name": "BOL News",
+                "url": "https://www.bolnews.com",
+                "country": "pk"
+            },
+            "title": "Electronics prices surge as AI industry drains chip supply chain",
+            "url": "https://www.bolnews.com/technology/electronics-prices-surge-as-ai-industry-drains-chip-supply-chain/",
+            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2026/05/chip.webp",
+            "publishedAt": "2026-05-12T10:50:16Z"
+        },
+        {
+            "source": {
+                "id": "99c159791668d32a685cc3e7f3197331",
+                "name": "SteelOrbis",
+                "url": "https://www.steelorbis.com",
+                "country": "tr"
+            },
+            "title": "BHP says AI solution boosts iron ore output in Western Australia",
+            "url": "https://www.steelorbis.com/steel-news/latest-news/bhp-says-ai-solution-boosts-iron-ore-output-in-western-australia-1452978.htm",
+            "urlToImage": "https://tr.steelorbis.com/so/img/cmn/logo-steelorbis-og.png",
+            "publishedAt": "2026-05-12T10:46:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Qnity raises annual revenue forecast as AI spending climbs",
+            "url": "https://www.marketscreener.com/news/qnity-raises-annual-revenue-forecast-as-ai-spending-climbs-ce7f5bdedb8af322",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-05-12T10:38:42Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "'AI Dividend': This Asian Economy Mulls Making Citizens Eligible For Share In Economic Windfall",
+            "url": "https://www.ndtvprofit.com/markets/ai-dividend-this-asian-economy-mulls-making-citizens-eligible-for-share-in-economic-windfall-11483316",
+            "urlToImage": "https://c.ndtvimg.com/2026-01/774lar1_ayntk-jan-21_625x300_20_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
+            "publishedAt": "2026-05-12T10:37:40Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "IIT Delhi Invites Applications for Second Cohort of Online PG Diploma in Advanced Communication Engineering with AI and Quantum Integration",
+            "url": "https://www.tribuneindia.com/news/business/iit-delhi-invites-applications-for-second-cohort-of-online-pg-diploma-in-advanced-communication-engineering-with-ai-and-quantum-integration/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU1N2YwOTIwLTRkZWUtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
+            "publishedAt": "2026-05-12T10:35:35Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI can't replace doggie actors, director says",
+            "url": "https://www.thestar.com.my/lifestyle/entertainment/2026/05/12/ai-can039t-replace-doggie-actors-director-says",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/11/3902597.jpg",
+            "publishedAt": "2026-05-12T10:30:00Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Presidential official proposes 'public dividends' from AI",
+            "url": "https://www.upi.com/Top_News/World-News/2026/05/12/korea-Korea-AI-boom-public-dividend-Kim-Yong-beom-presidential-policy-chief/6461778578279/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/i/6461778578279/2026/1/17785800331885/v1.5/Presidential-official-proposes-public-dividends-from-AI-driven-boom.jpg",
+            "publishedAt": "2026-05-12T10:04:05Z"
+        },
+        {
+            "source": {
+                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+                "name": "Washington Examiner",
+                "url": "https://www.washingtonexaminer.com",
+                "country": "us"
+            },
+            "title": "What China wants from Trump",
+            "url": "https://www.washingtonexaminer.com/opinion/4561414/what-china-wants-from-trump-2/",
+            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26100722581731.jpg?resize=1200,683",
+            "publishedAt": "2026-05-12T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nokia Launches Agentic AI Tools to Automate Troubleshooting, Installations",
+            "url": "https://www.marketscreener.com/news/nokia-launches-agentic-ai-tools-to-automate-troubleshooting-installations-ce7f5bded88cf222",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-05-12T09:45:17Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "India cannot afford to be just an AI consumer: Sarvam AI’s Pratyush Kumar",
+            "url": "https://economictimes.indiatimes.com/news/india/india-cannot-afford-to-be-just-an-ai-consumer-sarvam-ais-pratyush-kumar/articleshow/131035073.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-131035107,width-1200,height-630,imgsize-76540,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-05-12T09:43:00Z"
+        },
         {
             "source": {
                 "id": "e553cce06d349ac1f7fbb7618a979256",
@@ -444,6 +564,15 @@
             "url": "https://www.usnews.com/news/business/articles/2026-05-11/trump-and-xi-dialed-down-the-trade-war-but-challenges-lurk-at-their-china-summit",
             "urlToImage": "https://www.usnews.com/dims4/USNEWS/6ff8650/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F53%2F17c39fb9cdfaa4a265a20fde33613c%2F409fe621aef04294825e4d3622762031China_Trump_Trade_55636.jpg",
             "publishedAt": "2026-05-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "Nvidia CEO Jensen Huang says these professions will be the big winners of the generative AI boom",
+            "url": "https://www.itpro.com/business/careers-and-training/nvidia-ceo-jensen-huang-says-these-professions-will-be-the-big-winners-of-the-generative-ai-boom",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HDEwx85ZUFUd3kvEKBd5wK-1280-80.jpg",
+            "publishedAt": "2026-05-12 09:17:52"
         },
         {
             "source": {
@@ -3357,138 +3486,6 @@
             "url": "https://www.moneycontrol.com/world/from-cloudflare-to-meta-and-amazon-how-the-ai-layoff-wave-has-wiped-out-more-than-90-000-jobs-this-year-explained-article-13913296.html",
             "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/05/20260508130535_AI-Risks.jpg",
             "publishedAt": "2026-05-08T13:06:49Z"
-        },
-        {
-            "source": {
-                "id": "78418562a6b9d27319eabd2d664f4357",
-                "name": "Space.com",
-                "url": "https://www.space.com",
-                "country": "us"
-            },
-            "title": "Scientists found 10,000 possible exoplanets hiding in NASA data",
-            "url": "https://www.space.com/science/astrophysics/scientists-found-10-000-possible-exoplanets-hiding-in-nasa-data",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/etWGf6ARuZCAQB7L7KZP2o-1920-80.jpg",
-            "publishedAt": "2026-05-08T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Nintendo, Sony hit by AI boom driven memory price surge: Will gamers pay more?",
-            "url": "https://www.thenews.com.pk/latest/1401870-nintendo-sony-hit-by-ai-boom-driven-memory-price-surge-will-gamers-pay-more",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-05-08/1401870_044501_updates.jpg",
-            "publishedAt": "2026-05-08T11:44:00Z"
-        },
-        {
-            "source": {
-                "id": "d9e5f124fd3af657d83b8787fbbae53d",
-                "name": "Raw Story",
-                "url": "https://www.rawstory.com",
-                "country": "us"
-            },
-            "title": "Clueless Capitol Hill jolted as latest tech development deemed too dangerous for public",
-            "url": "https://www.rawstory.com/raw-investigates/i-m-normally-a-states-rights-girl-trump-and-ted-cruz-team-up-to-state-ai-regs/",
-            "urlToImage": "https://www.rawstory.com/media-library/house-speaker-mike-johnson-r-la-departs-the-house-floor-following-the-vote-of-the-u-s-house-of-representatives-which-passed.jpg?id=62255980&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
-            "publishedAt": "2026-05-08T11:43:10Z"
-        },
-        {
-            "source": {
-                "id": "e98c4d2585c4c5661ffe60fed4d51930",
-                "name": "BOL News",
-                "url": "https://www.bolnews.com",
-                "country": "pk"
-            },
-            "title": "Apple tests AI AirPods with built-In cameras for smarter Siri",
-            "url": "https://www.bolnews.com/technology/apple-tests-ai-airpods-with-built-in-cameras-for-smarter-siri/",
-            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2026/05/Apple-AirPods.webp",
-            "publishedAt": "2026-05-08T11:33:29Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "Logitech CEO plans to boost spending on R&D and marketing",
-            "url": "https://www.thehindubusinessline.com/info-tech/logitech-ceo-plans-to-boost-spending-on-rd-and-marketing/article70955059.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/data-stories/visually/1ayt1f/article70955098.ece/alternates/LANDSCAPE_1200/Logitech%20Logo.PNG",
-            "publishedAt": "2026-05-08T11:28:44Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "Paytm Turned Profitable and Now It Is Going All In on AI",
-            "url": "https://www.outlookbusiness.com/corporate/from-losses-to-profits-to-ai-paytm-writes-new-playbook-for-indian-fintech",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-04-14/oc0h5mjb/paytm.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-05-08T11:20:38Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "Globe Business, AAP to expedite AI adoption",
-            "url": "https://manilastandard.net/business/314737514/globe-business-aap-to-expedite-ai-adoption.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2026/04/globe-biz-logo.png",
-            "publishedAt": "2026-05-08T11:15:00Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Cloudflare latest to cut jobs: How AI has led to more than 90,000 layoffs this year",
-            "url": "https://www.firstpost.com/explainers/cloudflare-job-cuts-ai-2026-companies-layoffs-14009022.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/05/Untitled-design-2026-05-08T161900.225-2026-05-177b4efaf259906413590eff60dbfb64.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-05-08T11:05:04Z"
-        },
-        {
-            "source": {
-                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
-                "name": "The Dallas Morning News",
-                "url": "https://www.dallasnews.com",
-                "country": "us"
-            },
-            "title": "The \"golden age\" for corporate law in Texas is now",
-            "url": "https://www.dallasnews.com/business/article/golden-age-corporate-law-texas-now-22241053.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/66/14/24/30983469/5/rawImage.jpg",
-            "publishedAt": "2026-05-08T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "03f4f74aaa0a44ccbb846a1630123293",
-                "name": "Crypto Breaking News",
-                "url": "https://www.cryptobreaking.com",
-                "country": "ae"
-            },
-            "title": "Consensus Miami Day 3 Highlights: AI, Tokenization and Real-World Blockchain Infrastructure Take Center Stage",
-            "url": "https://www.cryptobreaking.com/consensus-miami-day-3-highlights/",
-            "urlToImage": "https://www.cryptobreaking.com/wp-content/uploads/2025/04/Crypto-Breaking-News-Logo-Social-Profile-scaled.png",
-            "publishedAt": "2026-05-08T10:29:28Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "IIT Madras Director has an important admission alert to all engineering students who have cleared JEE Mains. Watch",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/iit-madras-director-has-an-important-admission-message-to-all-engineering-students-who-have-cleared-jee-mains-watch/articleshow/130956715.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-130957097,width-1200,height-630,imgsize-21674,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-05-08T10:27:00Z"
         }
     ]
 }
