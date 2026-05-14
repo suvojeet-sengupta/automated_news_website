@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-05-14T18:51:11.259567Z",
+    "lastUpdatedAt": "2026-05-14T20:25:03.871360Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Alibaba, JD.com Among Chinese Firms Cleared by US to Buy Nvidia H200 AI Chips But Deals Stall",
+            "url": "https://www.marketscreener.com/news/alibaba-jd-com-among-chinese-firms-cleared-by-us-to-buy-nvidia-h200-ai-chips-but-deals-stall-ce7f5bddd88ef623",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-05-14T08:23:24Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Microsoft Explores AI Startup Deals as It Broadens Strategy Beyond OpenAI",
+            "url": "https://www.marketscreener.com/news/microsoft-explores-ai-startup-deals-as-it-broadens-strategy-beyond-openai-ce7f5bddd88cf622",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-05-14T07:55:20Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Artificial Intelligence Threat To Crypto Underestimated, Says This Influential Analyst: Security Becoming",
+            "url": "https://www.benzinga.com/crypto/cryptocurrency/26/05/52551133/ai-threat-to-crypto-ai-vs-ai-arms-race",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2026/05/14/The-Image-Illustrates-The-Intersection-O.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-05-14T07:34:29Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "European Shares Climb Amid AI Optimism and Geopolitical Tensions",
+            "url": "https://www.devdiscourse.com/article/headlines/3907818-european-shares-climb-amid-ai-optimism-and-geopolitical-tensions",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2026_15_36_39_2906988.png&width=920&format=jpeg",
+            "publishedAt": "2026-05-14T07:18:50Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Who is Sanjay Mehrotra? the only Indian to join Trump’s elite China delegation",
+            "url": "https://www.tribuneindia.com/news/china/who-is-sanjay-mehrotra-the-only-indian-to-join-trumps-elite-china-delegation/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY5ZmM4YWIwLTRmNjMtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
+            "publishedAt": "2026-05-14T07:00:19Z"
+        },
         {
             "source": {
                 "id": "7eeaf9a839918543cc708f2d331c3be4",
@@ -312,6 +372,51 @@
             "url": "https://www.aroundosceola.com/news/chatgpt-deepfakes-osceola-schools-confront-ai-challenges",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/1f67397c13_Ar00101001.jpg",
             "publishedAt": "2026-05-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "norfolkdailynews"
+            },
+            "title": "Reply Launches Model Factory, the Production Line for Creating Industrial-Grade Generative AI Models",
+            "url": "https://norfolkdailynews.com/online_features/press_releases/reply-launches-model-factory-the-production-line-for-creating-industrial-grade-generative-ai-models/article_8aef2082-d328-5243-bf00-a7faea64f257.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/custom/image/72aed2a4-e15d-11e5-99a9-77342f37c000.jpg?resize=600%2C315",
+            "publishedAt": "2026-05-14 08:00:00"
+        },
+        {
+            "source": {
+                "name": "iu_edu"
+            },
+            "title": "Luddy researchers launch project with Astemo Americas, Inc. to advance automotive perception AI",
+            "url": "https://news.iu.edu/luddy/live/news/50996-luddy-researchers-launch-project-with-astemo",
+            "urlToImage": "https://news.iu.edu/live/image/gid/29/width/600/height/600/crop/1/src_region/0,0,3200,1796/30133_BC_research.jpg",
+            "publishedAt": "2026-05-14 08:00:00"
+        },
+        {
+            "source": {
+                "name": "nynewsly"
+            },
+            "title": "Kioxia Unveils High Performance KIOXIA XG10 Series SSDs for PC OEMs",
+            "url": "https://nynewsly.com/kioxia-unveils-high-performance-kioxia-xg10-series-ssds-for-pc-oems/32477/",
+            "urlToImage": "https://nynewsly.com/wp-content/themes/publisher/images/default-thumb/large.png",
+            "publishedAt": "2026-05-14 07:36:48"
+        },
+        {
+            "source": {
+                "name": "nynewscast"
+            },
+            "title": "Kioxia Unveils High Performance KIOXIA XG10 Series SSDs for PC OEMs",
+            "url": "https://nynewscast.com/kioxia-unveils-high-performance-kioxia-xg10-series-ssds-for-pc-oems-219345/",
+            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+            "publishedAt": "2026-05-14 07:36:45"
+        },
+        {
+            "source": {
+                "name": "domain_b"
+            },
+            "title": "Alibaba cloud growth offsets wider AI investment pressures",
+            "url": "https://www.domain-b.com/technology/artificial-intelligence/alibaba-cloud-ai-growth-profitability-pressure-2026",
+            "urlToImage": "https://www.domain-b.com/Uploads/Images/alibaba-cloud-ai-investment-growth-2026.webp",
+            "publishedAt": "2026-05-14 06:56:41"
         },
         {
             "source": {
@@ -3294,126 +3399,6 @@
             "url": "https://9to5mac.com/2026/05/11/apple-shares-recordings-and-research-from-recent-privacy-focused-ai-and-ml-workshop/",
             "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/machine-learning-research.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
             "publishedAt": "2026-05-11T20:59:32Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Tech Up on AI Momentum, Memory Chip Bets -- Tech Roundup",
-            "url": "https://www.marketscreener.com/news/tech-up-on-ai-momentum-memory-chip-bets-tech-roundup-ce7f5bd9df8bf025",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-05-11T20:50:00Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "Widow Sues ChatGPT Maker Over FSU Shooting",
-            "url": "https://www.newsmax.com/newsfront/openai-chatgpt-lawsuit-mass-shooting/2026/05/11/id/1255909/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=f257addb-73a0-40a1-be15-711afc6fbe88&SiteName=Newsmax",
-            "publishedAt": "2026-05-11T20:33:04Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company’s digital defense",
-            "url": "https://www.nbcnews.com/tech/security/google-disrupts-hackers-using-ai-exploit-unknown-weakness-companys-dig-rcna344624",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260511-google-office-ew-424p-7ab5b8.jpg",
-            "publishedAt": "2026-05-11T20:26:32Z"
-        },
-        {
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            },
-            "title": "Google Makes Bombshell Claim That Hackers Used AI to Create Zero-Day Flaw in Their System",
-            "url": "https://www.ibtimes.com/google-makes-bombshell-claim-that-hackers-used-ai-create-zero-day-flaw-their-system-3802653",
-            "urlToImage": "https://d.ibtimes.com/en/full/4648655/google-hack.jpg",
-            "publishedAt": "2026-05-11T20:10:58Z"
-        },
-        {
-            "source": {
-                "id": "61d62f51b5a60b70cd06e36b5dc14e85",
-                "name": "WLTX.com",
-                "url": "https://www.wltx.com",
-                "country": "us"
-            },
-            "title": "Florida graduates boo commencement speaker over AI remarks",
-            "url": "https://www.wltx.com/article/news/nation-world/florida-graduates-boo-commencement-speaker-ai/507-26810de2-d4a4-4886-92d7-68a0c08ad97e",
-            "urlToImage": "https://media.wltx.com/assets/CCT/images/bd4191bb-f01e-4988-b2eb-9f20b55591de/bd4191bb-f01e-4988-b2eb-9f20b55591de_1140x641.jpg",
-            "publishedAt": "2026-05-11T20:10:00Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Q&A: Is AI democratizing global health or reinforcing old inequities?",
-            "url": "https://medicalxpress.com/news/2026-05-qa-ai-democratizing-global-health.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg",
-            "publishedAt": "2026-05-11T20:00:02Z"
-        },
-        {
-            "source": {
-                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-                "name": "Anchorage Daily News",
-                "url": "https://www.adn.com",
-                "country": "us"
-            },
-            "title": "Lawsuit blames ChatGPT maker OpenAI for helping plan a school shooting",
-            "url": "https://www.adn.com/nation-world/2026/05/11/lawsuit-blames-chatgpt-maker-openai-for-helping-plan-a-school-shooting/",
-            "urlToImage": "https://www.adn.com/resizer/v2/QC6ZO2FTLRQPXRYLAWXOZMDER4.jpg?smart=true&auth=aff8c9ea4c67d7b413a7f72852b1ea7f7c48713076ab517a9ff941c11da0e6b1&width=1200&height=630",
-            "publishedAt": "2026-05-11T19:52:57Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI-Powered Healthcare: Transforming Accessibility and Empowerment",
-            "url": "https://www.devdiscourse.com/article/health/3904582-ai-powered-healthcare-transforming-accessibility-and-empowerment",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/08_05_2026_19_16_01_9133357.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-05-11T18:10:35Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Telus Advances Proposed Sovereign AI Factory Cluster Project With Canadian Government",
-            "url": "https://www.marketscreener.com/news/telus-advances-proposed-sovereign-ai-factory-cluster-project-with-canadian-government-ce7f5bd9da8efe25",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-05-11T18:03:15Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "2026 Cannes Film Festival: John Travolta to make directorial debut",
-            "url": "https://www.thenews.com.pk/latest/1402212-2026-cannes-film-festival-john-travolta-to-make-directorial-debut",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-05-11/1402212_105356_updates.jpg",
-            "publishedAt": "2026-05-11T17:53:00Z"
         }
     ]
 }
