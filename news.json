@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2026-05-15T13:56:44.431135Z",
+    "lastUpdatedAt": "2026-05-15T16:02:31.298686Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Adtek Files for Hong Kong IPO, Adding to Chinese AI Listings",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-15/adtek-files-for-hong-kong-ipo-adding-to-chinese-ai-listings",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyrSaEb0psoQ/v0/1200x800.jpg",
+            "publishedAt": "2026-05-15T03:56:13Z"
+        },
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "Elon Musk's xAI unveils first coding agent in bid to rival Anthropic",
+            "url": "https://www.business-standard.com/technology/tech-news/elon-musk-s-xai-unveils-first-coding-agent-in-bid-to-rival-anthropic-126051500120_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/15/thumb/fitandfill/1200X628/1778814865-0055.jpg",
+            "publishedAt": "2026-05-15T03:14:03Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "AI arms race drives Pentagon overhaul",
+            "url": "https://www.lokmattimes.com/international/ai-arms-race-drives-pentagon-overhaul/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202605153788497_202605.jpg",
+            "publishedAt": "2026-05-15T02:53:13Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "The federal government wants to use AI to speed up drug and housing approvals. Can we trust it?",
+            "url": "https://www.abc.net.au/news/2026-05-15/artificial-intelligence-accelerator-budget/106678468",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ba37489561088f2948dd5acc1868fad1?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-05-15T02:50:15Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future",
+            "url": "https://www.manilatimes.net/2026/05/15/business/sunday-business-it/lawyers-for-elon-musk-and-openai-make-their-final-case-in-a-trial-that-could-shape-ais-future/2344612",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/15/1058229.jpg",
+            "publishedAt": "2026-05-15T02:21:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Foxconn projects 30% capex growth in 2026 amid robust AI demand",
+            "url": "https://www.tribuneindia.com/news/business/foxconn-projects-30-capex-growth-in-2026-amid-robust-ai-demand/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE1YjBlMTgwLTUwMDQtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
+            "publishedAt": "2026-05-15T02:20:25Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/15/lawyers-for-elon-musk-and-openai-make-their-final-case-in-a-trial-that-could-shape-ai039s-future",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/15/3909064.jpg",
+            "publishedAt": "2026-05-15T02:00:00Z"
+        },
+        {
+            "source": {
+                "id": "26382007c85c217297edcfafc2eb837a",
+                "name": "AFL.com.au",
+                "url": "https://www.afl.com.au",
+                "country": "au"
+            },
+            "title": "Fancy a chat with a 1920s footy legend? A unique AI exhibit allows you to do just that",
+            "url": "https://www.afl.com.au/news/1518804/fancy-a-chat-with-a-1920s-footy-legend-a-unique-ai-exhibit-allows-you-to-do-just-that",
+            "urlToImage": "https://resources.afl.com.au/afl/photo/2026/05/14/66651479-9a4d-4808-a61e-f8bcd743e780/Pies5.jpg",
+            "publishedAt": "2026-05-15T02:00:00Z"
+        },
+        {
+            "source": {
+                "id": "435d508bebcc8689d5c7711d44865b80",
+                "name": "Activist Post",
+                "url": "https://www.activistpost.com",
+                "country": "us"
+            },
+            "title": "AI, Money, Human Nature and the Problem with Problems",
+            "url": "https://www.activistpost.com/ai-money-human-nature-and-the-problem-with-problems/",
+            "urlToImage": "https://www.activistpost.com/wp-content/uploads/2026/05/istockphoto-2237135852-612x612-1.jpg",
+            "publishedAt": "2026-05-15T02:00:00Z"
+        },
         {
             "source": {
                 "id": "c6075ba0dc9d123bb327faaa419d3d07",
@@ -3321,114 +3429,6 @@
             "url": "https://www.cnbctv18.com/advertising/asci-releases-draft-guidelines-for-ai-generated-advertising-content-proposes-risk-based-framework-19904061.htm",
             "urlToImage": "https://images.cnbctv18.com/uploads/2026/01/advertising-2026-01-f71a8044602c58a1a62c0e28fe0dbc8c.jpg?im=FitAndFill,width=500,height=300",
             "publishedAt": "2026-05-12T11:56:11Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "EU Takes Stand: Protecting Children from Addictive Social Media Designs",
-            "url": "https://www.devdiscourse.com/article/technology/3905224-eu-takes-stand-protecting-children-from-addictive-social-media-designs",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2024_15_43_32_2230736.png&width=920&format=jpeg",
-            "publishedAt": "2026-05-12T11:49:54Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI Mania Makes Old-School Industrials Behave Like Chip Stocks",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-12/ai-mania-makes-old-school-industrials-behave-like-chip-stocks",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibj.PpXxZDt4/v0/1200x800.jpg",
-            "publishedAt": "2026-05-12T11:44:53Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "Indian govt, RBI Innovation signs AI pact to tackle financial frauds",
-            "url": "https://www.businesstoday.in/technology/story/indian-govt-rbi-innovation-signs-ai-pact-to-tackle-financial-frauds-531090-2026-05-12",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202605/6a0310528bbc7-i4c-123437123-16x9.jpg",
-            "publishedAt": "2026-05-12T11:42:17Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "OpenAI gives European companies access to its latest models to bolster resilience",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/12/openai-gives-european-companies-access-to-its-latest-models-to-bolster-resilience",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/12/3904794.jpg",
-            "publishedAt": "2026-05-12T11:41:00Z"
-        },
-        {
-            "source": {
-                "id": "105bb16685822879671e4bad332aeec9",
-                "name": "The Mirror",
-                "url": "https://www.mirror.co.uk",
-                "country": "gb"
-            },
-            "title": "UK faces threat of Iran AI 'grey zone' warfare as Trump weighs up launching fresh attacks",
-            "url": "https://www.mirror.co.uk/news/world-news/donald-trump-iran-attacks-ai-37144324",
-            "urlToImage": "https://i2-prod.mirror.co.uk/article37144105.ece/ALTERNATES/s1200d/1_DC-President-Trump-Hosts-a-Rose-Garden-Dinner-for-Lawn-Enforcement-Leaders-Washington-United-Stat.jpg",
-            "publishedAt": "2026-05-12T11:16:26Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Trump heads to China for Xi Jinping summit that will test 'great relationship'",
-            "url": "https://nypost.com/2026/05/12/us-news/trump-heads-to-china-for-xi-jinping-summit-that-will-test-great-relationship/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/05/crop-39346993_72de36.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-05-12T11:12:09Z"
-        },
-        {
-            "source": {
-                "id": "e98c4d2585c4c5661ffe60fed4d51930",
-                "name": "BOL News",
-                "url": "https://www.bolnews.com",
-                "country": "pk"
-            },
-            "title": "Electronics prices surge as AI industry drains chip supply chain",
-            "url": "https://www.bolnews.com/technology/electronics-prices-surge-as-ai-industry-drains-chip-supply-chain/",
-            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2026/05/chip.webp",
-            "publishedAt": "2026-05-12T10:50:16Z"
-        },
-        {
-            "source": {
-                "id": "99c159791668d32a685cc3e7f3197331",
-                "name": "SteelOrbis",
-                "url": "https://www.steelorbis.com",
-                "country": "tr"
-            },
-            "title": "BHP says AI solution boosts iron ore output in Western Australia",
-            "url": "https://www.steelorbis.com/steel-news/latest-news/bhp-says-ai-solution-boosts-iron-ore-output-in-western-australia-1452978.htm",
-            "urlToImage": "https://tr.steelorbis.com/so/img/cmn/logo-steelorbis-og.png",
-            "publishedAt": "2026-05-12T10:46:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Qnity raises annual revenue forecast as AI spending climbs",
-            "url": "https://www.marketscreener.com/news/qnity-raises-annual-revenue-forecast-as-ai-spending-climbs-ce7f5bdedb8af322",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-05-12T10:38:42Z"
         }
     ]
 }
