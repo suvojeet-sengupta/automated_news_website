@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-05-15T22:52:39.958812Z",
+    "lastUpdatedAt": "2026-05-15T23:51:42.856768Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI versus AI: How Binance is turning artificial intelligence against crypto fraudsters",
+            "url": "https://timesofindia.indiatimes.com/business/cryptocurrency/ai-versus-ai-how-binance-is-turning-artificial-intelligence-against-crypto-fraudsters/articleshow/131116237.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-131116344,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-15T11:43:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Innovative Media Education: NIMCJ's Digital Leap",
+            "url": "https://www.devdiscourse.com/article/education/3909681-innovative-media-education-nimcjs-digital-leap",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_20_07_9483095.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-05-15T11:42:37Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "NIMCJ’s Innovative Shift in Media Education: Pioneering the Integration of AI and Digital Journalism",
+            "url": "https://www.tribuneindia.com/news/business/nimcjs-innovative-shift-in-media-education-pioneering-the-integration-of-ai-and-digital-journalism/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE0NjgzZjgwLTUwNTMtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
+            "publishedAt": "2026-05-15T11:41:38Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Trump Says He Discussed AI Guardrails, Nvidia’s Chips With Xi",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-15/trump-says-he-discussed-ai-guardrails-nvidia-s-chips-with-xi",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTx0JEX1mn1g/v1/1200x800.jpg",
+            "publishedAt": "2026-05-15T11:15:30Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "AI Demand Pushes More Chip Orders to China's SMIC | Newsmax.com",
+            "url": "https://www.newsmax.com/world/globaltalk/china-chipmaker-production/2026/05/15/id/1256380/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=e2f55a06-f7e8-4319-a632-efd76607a464&SiteName=Newsmax",
+            "publishedAt": "2026-05-15T11:11:22Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "Is Google Stock The New Alpha?",
+            "url": "https://www.forbes.com/sites/greatspeculations/2026/05/15/is-google-stock-the-new-alpha/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a06e6e46d117b7deb829925/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-05-15T11:00:10Z"
+        },
         {
             "source": {
                 "id": "b419a989918b3665a34559f5047546b6",
@@ -528,6 +600,24 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/05/15/us-judge-considers-anthropic039s-15-billion-settlement-of-authors039-lawsuit",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/15/3909046.jpg",
             "publishedAt": "2026-05-15T00:06:00Z"
+        },
+        {
+            "source": {
+                "name": "aithority"
+            },
+            "title": "BluSky AI Announces Launch of Regulation A+ Offering to Accelerate U.S. AI Infrastructure Expansion",
+            "url": "https://aithority.com/machine-learning/blusky-ai-announces-launch-of-regulation-a-offering-to-accelerate-u-s-ai-infrastructure-expansion/",
+            "urlToImage": "https://aithority.com/wp-content/uploads/2025/08/36595.jpg",
+            "publishedAt": "2026-05-15 11:47:00"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "AI research papers are getting better, and it’s a big problem for scientists",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268512_PHOTO-_Research_papers_are_overrun_with_AI_slop_CVirginia.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2026-05-15 11:00:00"
         },
         {
             "source": {
@@ -3324,102 +3414,6 @@
             "url": "https://variety.com/2026/film/news/sag-aftra-artificial-intelligence-pensions-concerns-1236746577/",
             "urlToImage": "https://variety.com/wp-content/uploads/2026/01/duncan-crabtree-ireland-sean-astin.jpeg?crop=0px%2C114px%2C1918px%2C1080px&resize=1000%2C563",
             "publishedAt": "2026-05-12T22:40:21Z"
-        },
-        {
-            "source": {
-                "id": "e6688d6db992f469baa7352aac100378",
-                "name": "Variety",
-                "url": "https://variety.com",
-                "country": "us"
-            },
-            "title": "SAG-AFTRA Deal Stirs Concerns on Artificial Intelligence and Pensions",
-            "url": "https://variety.com/2026/tv/news/sag-aftra-artificial-intelligence-pensions-concerns-1236746577/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/01/duncan-crabtree-ireland-sean-astin.jpeg?crop=0px%2C114px%2C1918px%2C1080px&resize=1000%2C563",
-            "publishedAt": "2026-05-12T22:40:21Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "Top Startup and Tech Funding News - May 12, 2025",
-            "url": "https://techstartups.com/2026/05/12/top-startup-and-tech-funding-news-may-12-2025/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2026/05/Judgment-Labs-Founders-Alex-Shan-Joseph-Sripramong-Camyre-and-Andrew-Li-960x590.jpg",
-            "publishedAt": "2026-05-12T22:31:21Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Young innovators shine at AAROHAN festival",
-            "url": "https://www.dailyexcelsior.com/young-innovators-shine-at-aarohan-festival/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2023/10/daily-excelsior.jpg",
-            "publishedAt": "2026-05-12T22:30:53Z"
-        },
-        {
-            "source": {
-                "id": "a9b75d29a22d0e3d5640bed825a22b93",
-                "name": "Chicago Sun-Times",
-                "url": "https://chicago.suntimes.com",
-                "country": "us"
-            },
-            "title": "State lawmakers want to rein in artificial intelligence. Here's how.",
-            "url": "https://chicago.suntimes.com/springfield/2026/05/12/artificial-intelligence-regulation-legislation-illinois-general-assembly-proposals",
-            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/8df7224/2147483647/strip/true/crop/4555x2600+0+218/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2Fed%2F5caf585045218c417d4945107cf7%2Felection2018-316.JPG",
-            "publishedAt": "2026-05-12T22:12:37Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "Musk, Cook and other prominent US executives invited to join Trump on trip to China",
-            "url": "https://www.ajc.com/news/2026/05/musk-cook-and-other-prominent-us-executives-invited-to-join-trump-on-trip-to-china/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/GQ5TXAODUZH7NGTJ5BI2C246XI.jpg?auth=6487be2f25c4c69f3c165229c7cf4363e344b9821cc58bf96b73bfcd514d10dc&width=1200&height=630&smart=true",
-            "publishedAt": "2026-05-12T22:02:38Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI-powered handheld microscope aims to spot cancer earlier",
-            "url": "https://medicalxpress.com/news/2026-05-ai-powered-handheld-microscope-aims.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-powered-handheld-mi.jpg",
-            "publishedAt": "2026-05-12T21:40:07Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Japan seeks access to Anthropic AI amid cyberattack concerns",
-            "url": "https://japantoday.com/category/tech/japan-seeks-access-to-anthropic-ai-amid-cyberattack-concerns",
-            "urlToImage": "https://media.japantoday.com/img/store/2e/69/e6919e0a0929238c4dc63a2fd926d304e415/ap26127571392608/_w1700.jpeg",
-            "publishedAt": "2026-05-12T21:35:00Z"
-        },
-        {
-            "source": {
-                "id": "8749653ef849c3df2e467a8e0f0c6672",
-                "name": "NBC10 Boston",
-                "url": "https://www.nbcboston.com",
-                "country": "us"
-            },
-            "title": "‘ChatGPT for doctors' moved from Mass. to Florida, now expanding",
-            "url": "https://www.nbcboston.com/boston-business-journal/chatgpt-for-doctors-moved-from-mass-to-florida-now-expanding/3948954/",
-            "urlToImage": "https://media.nbcboston.com/2026/05/kendall-square-11900xx6000-4000-0-91.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2026-05-12T21:35:00Z"
         }
     ]
 }
