@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-05-16T13:13:20.124852Z",
+    "lastUpdatedAt": "2026-05-16T14:52:00.639790Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Report: House AI Talks Target Calif., NY Frontier Safety Laws",
+            "url": "https://www.newsmax.com/politics/ai-safety-california/2026/05/15/id/1256472/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b62b1f98-49ae-4901-8735-e05f9453d122&SiteName=Newsmax",
+            "publishedAt": "2026-05-16T01:28:38Z"
+        },
         {
             "source": {
                 "id": "f2ddccedc9e60d844e7a1045928cad48",
@@ -3456,18 +3468,6 @@
             "url": "https://www.businesstoday.in/technology/story/google-in-talks-with-spacex-for-space-based-ai-data-centre-missions-531206-2026-05-13",
             "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202605/6a040d0661efc-last-week--ai-startup-anthropic-agreed-to-use-the-full-computing-capacity-of-spacexs-colossus-1-fac-133247686-16x9.jpeg",
             "publishedAt": "2026-05-13T05:34:09Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Tech shares lead China, Hong Kong markets higher ahead of Trump-Xi meeting",
-            "url": "https://www.marketscreener.com/news/tech-shares-lead-china-hong-kong-markets-higher-ahead-of-trump-xi-meeting-ce7f5bdfdd80f625",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-05-13T05:10:37Z"
         }
     ]
 }
