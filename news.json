@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-05-16T10:58:49.083533Z",
+    "lastUpdatedAt": "2026-05-16T11:55:08.243968Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "A closer look at the AI hype train",
+            "url": "https://www.bangkokpost.com/business/general/3255979/a-closer-look-at-the-ai-hype-train",
+            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/05/16/6090359_700.jpeg",
+            "publishedAt": "2026-05-15T23:48:00Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "ASB to host student and parent career seminar today",
+            "url": "https://www.dailyexcelsior.com/asb-to-host-student-and-parent-career-seminar-today/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/page8-7-9.jpg",
+            "publishedAt": "2026-05-15T23:30:13Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Trump: Xi ‘surprised’ by America’s AI advances, US ‘substantially ahead’ of China",
+            "url": "https://nypost.com/2026/05/15/us-news/trump-xi-surprised-by-americas-ai-advances-us-substantially-ahead-of-china/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/05/newspress-collage-bj19rcyxa-1778887553567.jpg?quality=75&strip=all&1778873200&w=1200",
+            "publishedAt": "2026-05-15T23:27:15Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Institutional investors boosted holdings of AI infrastructure plays during first quarter",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/16/institutional-investors-boosted-holdings-of-ai-infrastructure-plays-during-first-quarter",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/16/3910846.jpg",
+            "publishedAt": "2026-05-15T23:12:00Z"
+        },
         {
             "source": {
                 "id": "85b540771682043e2a9f294068f5345b",
@@ -3423,54 +3471,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/05/13/japan039s-megabanks-set-to-access-anthropic039s-mythos-as-soon-as-this-month-nikkei-says",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/13/3905566.jpg",
             "publishedAt": "2026-05-13T04:20:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "A losing battle: Demi Moore on Hollywood's fight against artificial intelligence",
-            "url": "https://www.indiatoday.in/movies/hollywood/story/demi-moore-cannes-film-festival-hollywood-fight-against-artificial-intelligence-losing-battle-2910881-2026-05-13",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/demi-moore-135600857-16x9_0.jpg?VersionId=G2CR7Fy7Rn7i1iXLVU.94JxlDjIvOmVF",
-            "publishedAt": "2026-05-13T04:18:10Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Asian stocks today: Markets mixed as AI rally loses steam, oil prices and inflation worries weigh on sentiment",
-            "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-13-may-2026-markets-mixed-as-ai-rally-loses-steam-oil-prices-and-inflation-worries-weigh-on-sentiment/articleshow/131054138.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131054383,width-1280,height-720,imgsize-1242845,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-13T04:08:00Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Will Trump and Xi Try to Slow the A.I. Arms Race?",
-            "url": "https://www.nytimes.com/2026/05/13/world/asia/us-china-trump-xi-beijing-ai.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/05/13/multimedia/13int-china-us-ai01-photo-zchp/13int-china-us-ai01-photo-zchp-facebookJumbo.jpg",
-            "publishedAt": "2026-05-13T04:00:15Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Germany and Canada Are AI's $20 Billion Odd Couple",
-            "url": "https://www.bloomberg.com/opinion/articles/2026-05-13/cohere-aleph-alpha-germany-and-canada-are-ai-s-20-billion-odd-couple",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYNQmjKREMNg/v1/1200x785.jpg",
-            "publishedAt": "2026-05-13T04:00:14Z"
         }
     ]
 }
