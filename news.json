@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-05-16T05:50:40.187352Z",
+    "lastUpdatedAt": "2026-05-16T07:57:57.861304Z",
     "articles": [
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Trump-Xi Summit Leaves Nvidia's China Chip Deal Stuck in Limbo: Report",
+            "url": "https://www.ibtimes.com/trump-xi-summit-leaves-nvidias-china-chip-deal-stuck-limbo-report-3802881",
+            "urlToImage": "https://d.ibtimes.com/en/full/4600594/nvidia-ceo-jensen-huang-had-made-his-case-against-ai-chip-rule-us-president-donald-trump.jpg",
+            "publishedAt": "2026-05-15T19:43:01Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "US Is Starting to See Heavy Job Losses in Roles Exposed to AI",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIyIBmlJ4o4w/v1/1200x800.jpg",
+            "publishedAt": "2026-05-15T19:06:43Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Wall Street and Main Street face off with Nvidia, consumer earnings",
+            "url": "https://www.cnbc.com/2026/05/15/whats-ahead-wall-street-and-main-street-face-off-with-nvidia-consumer-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108300664-1777648522790-gettyimages-2274018133-mms10577_tbyygfnr.jpeg?v=1777648560&w=1920&h=1080",
+            "publishedAt": "2026-05-15T19:00:34Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "NHPC sharpens AI focus for real-time flood forecasting",
+            "url": "https://economictimes.indiatimes.com/news/india/nhpc-sharpens-ai-focus-for-real-time-flood-forecasting/articleshow/131126746.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-131126776,width-1200,height-630,imgsize-59658,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-05-15T18:59:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "AI Revenue May Jump Fivefold to $200 Billion This Year as Spending Race Intensifies",
+            "url": "https://www.marketscreener.com/news/ai-revenue-may-jump-fivefold-to-200-billion-this-year-as-spending-race-intensifies-ce7f5bd3d881f220",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-05-15T18:45:22Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "America's most powerful CEOs don't have much to show from their China trip so far",
+            "url": "https://economictimes.indiatimes.com/news/international/business/americas-most-powerful-ceos-dont-have-much-to-show-from-their-china-trip-so-far/articleshow/131126335.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-131126261,width-1200,height-630,imgsize-88774,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-05-15T18:44:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Wall Street pulls back from all-time highs on inflation worries",
+            "url": "https://www.marketscreener.com/news/wall-street-pulls-back-from-all-time-highs-on-inflation-worries-ce7f5bd3d881f324",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-08T100319Z_1_LYNXMPEM470KO_RTROPTP_3_USA-STOCKS.JPG",
+            "publishedAt": "2026-05-15T18:39:51Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "AI Revenue May Jump Fivefold to $200 Billion This Year as Spending Race Intensifies",
+            "url": "https://www.marketscreener.com/news/ai-revenue-may-jump-fivefold-to-200-billion-this-year-as-spending-race-intensifies-ce7f5bd3d88ef425",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-05-15T18:15:20Z"
+        },
         {
             "source": {
                 "id": "63361c66f51ee0c82a5325ba1c7b8d06",
@@ -840,6 +936,15 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/05/15/us-judge-considers-anthropic039s-15-billion-settlement-of-authors039-lawsuit",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/15/3909046.jpg",
             "publishedAt": "2026-05-15T00:06:00Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Raspberry Pi founder warns AI hype could deter people from tech careers and worsen skills shortage",
+            "url": "https://completeaitraining.com/news/raspberry-pi-founder-warns-ai-hype-could-deter-people-from/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/raspberry-pi-founder-warns-ai-hype-could-deter-people-from-tech-careers-and-wors_2026-05-15.jpg",
+            "publishedAt": "2026-05-15 19:46:11"
         },
         {
             "source": {
@@ -3372,90 +3477,6 @@
             "url": "https://www.manilatimes.net/2026/05/13/world/asia-oceania/trump-set-to-meet-with-xi-in-beijing-as-war-and-inflation-weigh-on-his-presidency/2342429",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/13/1054383.jpg",
             "publishedAt": "2026-05-13T00:55:00Z"
-        },
-        {
-            "source": {
-                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
-                "name": "Chicago Tribune",
-                "url": "https://www.chicagotribune.com",
-                "country": "us"
-            },
-            "title": "Trump set to meet with Chinese leader Xi Jinping in Beijing",
-            "url": "https://www.chicagotribune.com/2026/05/12/trump-xi-jinping-beijing-meeting/",
-            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2026/05/China_Trump_76558.jpg?w=1024&h=682",
-            "publishedAt": "2026-05-13T00:31:50Z"
-        },
-        {
-            "source": {
-                "name": "itbrief_in"
-            },
-            "title": "Red Hat & NVIDIA add controls for enterprise AI agents",
-            "url": "https://itbrief.in/story/red-hat-nvidia-add-controls-for-enterprise-ai-agents",
-            "urlToImage": "https://itbrief.in/uploads/story/2026/05/13/compatible_secure-ai-agent-data-center-hybrid-cloud-lock-shield-digital-illustration.jpg",
-            "publishedAt": "2026-05-13 23:30:00"
-        },
-        {
-            "source": {
-                "name": "securitybrief_in"
-            },
-            "title": "Red Hat & NVIDIA add controls for enterprise AI agents",
-            "url": "https://securitybrief.in/story/red-hat-nvidia-add-controls-for-enterprise-ai-agents",
-            "urlToImage": "https://securitybrief.in/uploads/story/2026/05/13/compatible_secure-ai-agent-data-center-hybrid-cloud-lock-shield-digital-illustration.jpg",
-            "publishedAt": "2026-05-13 23:30:00"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "Stanford and Google DeepMind award $100,000 prize to researchers studying how AI changes workplace coordination",
-            "url": "https://completeaitraining.com/news/stanford-and-google-deepmind-award-100000-prize-to/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/stanford-and-google-deepmind-award-100-000-prize-to-researchers-studying-how-ai_2026-05-13.jpg",
-            "publishedAt": "2026-05-13 22:31:47"
-        },
-        {
-            "source": {
-                "name": "cnbc"
-            },
-            "title": "Microsoft feared being too dependent on OpenAI, Musk-Altman trial testimony reveals",
-            "url": "https://www.cnbc.com/2026/05/13/microsoft-feared-openai-reliance-musk-altman-trial-testimony-reveals.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?v=1761347922&w=1200&h=675",
-            "publishedAt": "2026-05-13 21:05:59"
-        },
-        {
-            "source": {
-                "name": "nytimesnewstoday"
-            },
-            "title": "Microsoft feared being too dependent on OpenAI, Musk-Altman trial testimony reveals",
-            "url": "https://www.nytimesnewstoday.com/microsoft-feared-being-too-dependent-on-openai-musk-altman-trial-testimony-reveals/",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?v=1761347922&w=1920&h=1080",
-            "publishedAt": "2026-05-13 21:05:00"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "CMU study finds spatial audio makes AI assistants feel more present but triggers expectations of human social norms",
-            "url": "https://completeaitraining.com/news/cmu-study-finds-spatial-audio-makes-ai-assistants-feel-more/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/cmu-study-finds-spatial-audio-makes-ai-assistants-feel-more-present-but-triggers_2026-05-13.jpg",
-            "publishedAt": "2026-05-13 20:29:10"
-        },
-        {
-            "source": {
-                "name": "businesswire"
-            },
-            "title": "Doximity Announces Fourth Quarter and Fiscal Year 2026 Financial Results",
-            "url": "http://www.businesswire.com/news/home/20260513597912/en/Doximity-Announces-Fourth-Quarter-and-Fiscal-Year-2026-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
-            "urlToImage": "https://mms.businesswire.com/media/20260513597912/en/2803607/22/dox-logotype-black-rgb_copy.jpg",
-            "publishedAt": "2026-05-13 20:01:00"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Three insights you might have missed from theCUBE’s coverage of the ‘Securing the AI Factory’ event",
-            "url": "https://siliconangle.com/2026/05/13/dell-intel-ai-factory-security-securingtheaifactory/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Securing-the-AI-Factory.png",
-            "publishedAt": "2026-05-13 19:29:14"
         }
     ]
 }
