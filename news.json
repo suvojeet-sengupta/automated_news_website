@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-05-16T09:42:58.322550Z",
+    "lastUpdatedAt": "2026-05-16T10:58:49.083533Z",
     "articles": [
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "The Vatican has said a lot about artificial intelligence. A primer ahead of the pope's encyclical",
+            "url": "https://www.breitbart.com/news/the-vatican-has-said-a-lot-about-artificial-intelligence-a-primer-ahead-of-the-popes-encyclical/",
+            "urlToImage": "https://media.breitbart.com/media/2026/05/wi/ap/vatican-pope-49297-vatican-pope-pope-leo-xiv-arrives-weekly-audience-st-peter-square-at-vatican-640x335.jpg",
+            "publishedAt": "2026-05-15T21:48:39Z"
+        },
         {
             "source": {
                 "id": "c1903669db0b115cc673ce9c333a70dd",
@@ -1008,6 +1020,15 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/05/15/us-judge-considers-anthropic039s-15-billion-settlement-of-authors039-lawsuit",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/15/3909046.jpg",
             "publishedAt": "2026-05-15T00:06:00Z"
+        },
+        {
+            "source": {
+                "name": "berkeley"
+            },
+            "title": "Can a Computer Scientist Still Hope?",
+            "url": "https://calearninglab.substack.com/p/can-a-computer-scientist-still-hope",
+            "urlToImage": "https://substackcdn.com/image/fetch/$s_!Qvlx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2c8bd84-725a-48a5-adc7-4b93270c275e_600x300.jpeg",
+            "publishedAt": "2026-05-15 22:03:16"
         },
         {
             "source": {
@@ -3450,30 +3471,6 @@
             "url": "https://www.bloomberg.com/opinion/articles/2026-05-13/cohere-aleph-alpha-germany-and-canada-are-ai-s-20-billion-odd-couple",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYNQmjKREMNg/v1/1200x785.jpg",
             "publishedAt": "2026-05-13T04:00:14Z"
-        },
-        {
-            "source": {
-                "id": "e743cde6ee986921721e83d3957862dc",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com",
-                "country": "in"
-            },
-            "title": "This Indian-origin 22-year-old built Rs 18,000 crore wealth through AI - and did it faster than Mark Zuckerberg",
-            "url": "https://zeenews.india.com/india/this-indian-origin-22-year-old-built-rs-18000-crore-wealth-through-ai-and-did-it-faster-than-mark-zuckerberg-3046957.html",
-            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/05/13/1942575-surya-midha.jpg",
-            "publishedAt": "2026-05-13T02:37:29Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "CDNetworks Cloud Security 2.0 Strengthens Enterprise Security Amid the Evolving AI Threat Landscape",
-            "url": "https://www.manilatimes.net/2026/05/13/tmt-newswire/pr-newswire/cdnetworks-cloud-security-20-strengthens-enterprise-security-amid-the-evolving-ai-threat-landscape/2342451",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/13/1054420.jpg",
-            "publishedAt": "2026-05-13T02:27:34Z"
         }
     ]
 }
