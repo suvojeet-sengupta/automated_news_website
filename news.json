@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-05-17T21:51:07.497194Z",
+    "lastUpdatedAt": "2026-05-17T22:50:00.970781Z",
     "articles": [
+        {
+            "source": {
+                "id": "49751e72ee79ba8eb1d9dcf6e10bf195",
+                "name": "NJ.com",
+                "url": "https://www.nj.com",
+                "country": "us"
+            },
+            "title": "60+ N.J. groups urge Sherrill to pause AI data center construction",
+            "url": "https://www.nj.com/news/2026/05/60-groups-just-called-on-nj-governor-to-immediately-pause-all-ai-data-center-projects.html",
+            "urlToImage": "https://www.nj.com/resizer/v2/RYZ625TENZF2RGPD2QBXODHIWA.JPG?auth=5c91394935d99fc36b2e3c970a923cc75710ad9933c01a7618baee3acc66e13e&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-05-17T10:31:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "'New CA syllabus': AI, data analytics to enter ICAI’s curriculum- what it means for students",
+            "url": "https://timesofindia.indiatimes.com/education/news/new-ca-syllabus-ai-data-analytics-to-enter-icais-curriculum-what-it-means-for-students/articleshow/131152082.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-131152156,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-17T10:12:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "ICAI Revolutionizes Curriculum by Integrating AI and Data Analytics",
+            "url": "https://www.devdiscourse.com/article/education/3911584-icai-revolutionizes-curriculum-by-integrating-ai-and-data-analytics",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/27_03_2025_15_37_21_5556394.png&width=920&format=jpeg",
+            "publishedAt": "2026-05-17T10:09:40Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "‘Jobs are evaporating’: Ex-Google CEO Eric Schmidt heavily booed for AI speech",
+            "url": "https://www.financialexpress.com/shorts/trending/jobs-are-evaporating-ex-google-ceo-eric-schmidt-heavily-booed-for-ai-speech-at-us-university-4243115/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/05/eric-schmidt-speech-booed.jpg",
+            "publishedAt": "2026-05-17T09:58:21Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -192,6 +240,33 @@
             "url": "https://www.aroundosceola.com/index.php/news/chatgpt-deepfakes-osceola-schools-confront-ai-challenges",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/1f67397c13_Ar00101001.jpg",
             "publishedAt": "2026-05-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "CEO of Europe’s $14 billion AI startup has an American dependency warning: ‘Once supply is monopolised ...'",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ceo-of-europes-14-billion-ai-startup-has-an-american-dependency-warning-once-supply-is-monopolised-/articleshow/131152408.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-131152403/131152403.jpg",
+            "publishedAt": "2026-05-17 10:39:36"
+        },
+        {
+            "source": {
+                "name": "thehindubusinessline"
+            },
+            "title": "India missed out on AI and now its run as market darling may be over",
+            "url": "https://www.thehindubusinessline.com/info-tech/india-missed-out-on-ai-and-now-its-run-as-market-darling-may-be-over/article70990067.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/6ktt2l/article70990094.ece/alternates/LANDSCAPE_1200/iStock-1452604857.jpg",
+            "publishedAt": "2026-05-17 10:14:25"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Unexpected AI: Physical Ai Device Shipments to Reach 145 Million Units by 2035",
+            "url": "https://headtopics.com/news/unexpected-ai-physical-ai-device-shipments-to-reach-145-83448717",
+            "urlToImage": "https://i.headtopics.com/images/2026/5/17/latimes/unexpected-ai-physical-ai-device-shipments-to-reac-unexpected-ai-physical-ai-device-shipments-to-reac-7BA4F223F499A8207D355D889A8969B4.webp",
+            "publishedAt": "2026-05-17 10:06:01"
         },
         {
             "source": {
@@ -3396,90 +3471,6 @@
             "url": "https://www.firstpost.com/tech/cisco-layoffs-tech-giant-cuts-4000-jobs-to-fund-growing-ai-ambitions-14011002.html",
             "urlToImage": "https://images.firstpost.com/uploads/2026/05/2026-04-28T090021Z_1745521147_RC27VV9ZSO1C_RTRMADP_3_USA-COURT-CISCO-SYSTEMS-2026-05-089ce4c97697d25b4cab7bba2571dded-1200x675.jpg?im=FitAndFill=(1200,675)",
             "publishedAt": "2026-05-14T03:19:08Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI boom puts SK Hynix on the cusp $1 trillion market value",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/14/ai-boom-puts-sk-hynix-on-the-cusp-1-trillion-market-value",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/14/3907107.jpg",
-            "publishedAt": "2026-05-14T03:11:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "AI boom puts SK Hynix on the cusp $1 trillion market value",
-            "url": "https://www.marketscreener.com/news/ai-boom-puts-sk-hynix-on-the-cusp-1-trillion-market-value-ce7f5bdcd08ff124",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-14T220217Z_1_LYNXMPEM0D1BO_RTROPTP_4_SK-HYNIX-RESULTS.JPG",
-            "publishedAt": "2026-05-14T02:48:19Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Sensex Today | Stock Market Live: Sensex, Nifty set for firm start tracking global rally; oil, rupee key concerns",
-            "url": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-sensex-nifty-set-for-firm-start-tracking-global-rally-oil-rupee-key-concerns-liveblog-13918710.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/04/20260418030043_market_up_higher.jpg?impolicy=website&width=1280&height=720",
-            "publishedAt": "2026-05-14T02:42:00Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "Korea Exchange begins adopting AI in capital market monitoring works",
-            "url": "https://www.nation.com.pk/14-May-2026/korea-exchange-begins-adopting-ai-capital-market-monitoring-works",
-            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-            "publishedAt": "2026-05-14T02:42:00Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Donald Trump, Xi Jinping Meet At China's Great Hall Of The People Ahead Of Crucial Beijing Talks; US President Welcomed Amid Much Fanfare - VIDEOS",
-            "url": "https://www.freepressjournal.in/world/donald-trump-xi-jinping-meet-at-chinas-great-hall-of-the-people-ahead-of-crucial-beijing-talks-us-president-welcomed-amid-much-fanfare-videos",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-05-14/jnsqoz7k/Nanobot-1-2026-05-14T080103.810.jpg",
-            "publishedAt": "2026-05-14T02:35:56Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Robo.ai Subsidiary Neurovia AI Launches NeuroStream™ Technology Platform to Build Physical AI Visual Data Infrastructure",
-            "url": "https://www.manilatimes.net/2026/05/14/tmt-newswire/pr-newswire/roboai-subsidiary-neurovia-ai-launches-neurostream-technology-platform-to-build-physical-ai-visual-data-infrastructure/2343539",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/14/1056352.jpg",
-            "publishedAt": "2026-05-14T02:34:45Z"
-        },
-        {
-            "source": {
-                "id": "4a3f486cf6959a11cc9acb689add5fc7",
-                "name": "Portal Mix Vale",
-                "url": "https://www.mixvale.com.br",
-                "country": "br"
-            },
-            "title": "Looming AI risks dominate US-China summit as neither side seeks to cede technological edge",
-            "url": "https://www.mixvale.com.br/2026/05/13/looming-ai-risks-dominate-us-china-summit-as-neither-side-seeks-to-cede-technological-edge/",
-            "urlToImage": "https://www.mixvale.com.br/wp-content/uploads/2025/04/mixvaleportal.jpg",
-            "publishedAt": "2026-05-14T01:52:18Z"
         }
     ]
 }
