@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-05-17T09:01:04.320685Z",
+    "lastUpdatedAt": "2026-05-17T11:01:10.835948Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI guardians: Bridging digital innovation and sustainability for cleaner water",
+            "url": "https://phys.org/news/2026-05-ai-guardians-bridging-digital-sustainability.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/ai-guardians-bridging.jpg",
+            "publishedAt": "2026-05-16T23:00:02Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Trump says Xi backs opening of Hormuz but warns Taiwan independence could trigger confrontation",
+            "url": "https://www.dailyexcelsior.com/trump-says-xi-backs-opening-of-hormuz-but-warns-taiwan-independence-could-trigger-confrontation/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/tiwan.jpg",
+            "publishedAt": "2026-05-16T22:30:34Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Jammu to set up satellite campus in Leh, boosting higher education in Ladakh",
+            "url": "https://www.tribuneindia.com/news/j-k/iit-jammu-to-set-up-satellite-campus-in-leh-boosting-higher-education-in-ladakh/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQyMGIwNWYwLTUxNzQtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
+            "publishedAt": "2026-05-16T22:15:58Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Meeting an AI doctor before a real-life consultation can improve cancer patients' understanding and reduce stress",
+            "url": "https://medicalxpress.com/news/2026-05-ai-doctor-real-life-cancer.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/cancer-patient.jpg",
+            "publishedAt": "2026-05-16T22:10:01Z"
+        },
+        {
+            "source": {
+                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+                "name": "The Sun",
+                "url": "https://www.thesun.co.uk",
+                "country": "gb"
+            },
+            "title": "Half of all England football shirts worn by fans are fake, AI-powered app claims",
+            "url": "https://www.thesun.co.uk/sport/39130706/fake-england-shirts-how-to-spot-world-cup/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2026/05/newspress-collage-y72fkiwjw-1778964534259.jpg?quality=90&strip=all&1778968175&w=1920&h=1080&crop=1",
+            "publishedAt": "2026-05-16T21:06:13Z"
+        },
         {
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -780,6 +840,24 @@
             "url": "https://www.altoonamirror.com/news/national/2026/05/markets-drop-worldwide-as-oil-prices-rattle-bond-market/",
             "urlToImage": "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg",
             "publishedAt": "2026-05-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "Mistral AI's CEO says Europe has 2 years to stop becoming America's AI 'vassal state'",
+            "url": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
+            "urlToImage": "https://i.insider.com/6a05bbf194eb4c909fb2c685?width=1200&format=jpeg",
+            "publishedAt": "2026-05-16 22:35:01"
+        },
+        {
+            "source": {
+                "name": "yahoo"
+            },
+            "title": "Mistral AI's CEO says Europe has 2 years to stop becoming America's AI 'vassal state'",
+            "url": "https://tech.yahoo.com/ai/articles/mistral-ais-ceo-says-europe-223501041.html",
+            "urlToImage": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/ebc5a9e709cd5b0078813dc32197b108",
+            "publishedAt": "2026-05-16 22:35:01"
         },
         {
             "source": {
@@ -3369,69 +3447,6 @@
             "url": "https://www.forevernews.in/media-outreach/phancy-group-ranked-number-one-in-chinas-machine-learning-platform-market-for-the-8th-consecutive-year-896176",
             "urlToImage": "https://www.forevernews.in/wp-content/uploads/2026/05/763730-Phancy-Group-logo-jpg-400-1.jpeg",
             "publishedAt": "2026-05-14 09:15:00"
-        },
-        {
-            "source": {
-                "name": "norfolkdailynews"
-            },
-            "title": "Reply Launches Model Factory, the Production Line for Creating Industrial-Grade Generative AI Models",
-            "url": "https://norfolkdailynews.com/online_features/press_releases/reply-launches-model-factory-the-production-line-for-creating-industrial-grade-generative-ai-models/article_8aef2082-d328-5243-bf00-a7faea64f257.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/custom/image/72aed2a4-e15d-11e5-99a9-77342f37c000.jpg?resize=600%2C315",
-            "publishedAt": "2026-05-14 08:00:00"
-        },
-        {
-            "source": {
-                "name": "iu_edu"
-            },
-            "title": "Luddy researchers launch project with Astemo Americas, Inc. to advance automotive perception AI",
-            "url": "https://news.iu.edu/luddy/live/news/50996-luddy-researchers-launch-project-with-astemo",
-            "urlToImage": "https://news.iu.edu/live/image/gid/29/width/600/height/600/crop/1/src_region/0,0,3200,1796/30133_BC_research.jpg",
-            "publishedAt": "2026-05-14 08:00:00"
-        },
-        {
-            "source": {
-                "name": "nynewsly"
-            },
-            "title": "Kioxia Unveils High Performance KIOXIA XG10 Series SSDs for PC OEMs",
-            "url": "https://nynewsly.com/kioxia-unveils-high-performance-kioxia-xg10-series-ssds-for-pc-oems/32477/",
-            "urlToImage": "https://nynewsly.com/wp-content/themes/publisher/images/default-thumb/large.png",
-            "publishedAt": "2026-05-14 07:36:48"
-        },
-        {
-            "source": {
-                "name": "nynewscast"
-            },
-            "title": "Kioxia Unveils High Performance KIOXIA XG10 Series SSDs for PC OEMs",
-            "url": "https://nynewscast.com/kioxia-unveils-high-performance-kioxia-xg10-series-ssds-for-pc-oems-219345/",
-            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-            "publishedAt": "2026-05-14 07:36:45"
-        },
-        {
-            "source": {
-                "name": "domain_b"
-            },
-            "title": "Alibaba cloud growth offsets wider AI investment pressures",
-            "url": "https://www.domain-b.com/technology/artificial-intelligence/alibaba-cloud-ai-growth-profitability-pressure-2026",
-            "urlToImage": "https://www.domain-b.com/Uploads/Images/alibaba-cloud-ai-investment-growth-2026.webp",
-            "publishedAt": "2026-05-14 06:56:41"
-        },
-        {
-            "source": {
-                "name": "dnaindia"
-            },
-            "title": "The Invisible Infrastructure Powering the AI Economy",
-            "url": "https://www.dnaindia.com/insights/report-the-invisible-infrastructure-powering-the-ai-economy-3210241",
-            "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2026/05/14/2748864-dna-72.jpg",
-            "publishedAt": "2026-05-14 06:35:55"
-        },
-        {
-            "source": {
-                "name": "timesnownews"
-            },
-            "title": "If AI Can Read Your Brain, What’s Left Private? All About Meta’s Big Bet",
-            "url": "https://www.timesnownews.com/technology-science/if-ai-can-read-your-brain-whats-left-private-all-about-metas-big-bet-article-154316336",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-154316395,width-1280,height-720,resizemode-75/154316395.jpg",
-            "publishedAt": "2026-05-14 05:47:24"
         }
     ]
 }
