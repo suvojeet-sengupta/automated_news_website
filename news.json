@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-05-18T17:56:13.109655Z",
+    "lastUpdatedAt": "2026-05-18T19:42:13.373958Z",
     "articles": [
+        {
+            "source": {
+                "id": "8d71923b22fd94776aed4dd1c611fd91",
+                "name": "Yardbarker",
+                "url": "https://www.yardbarker.com",
+                "country": "us"
+            },
+            "title": "The Mandalorian and Grogu's Jon Favreau has 'healthy concern' about AI in filmmaking",
+            "url": "https://www.yardbarker.com/entertainment/articles/the_mandalorian_and_grogus_jon_favreau_has_healthy_concern_about_ai_in_filmmaking/s1_17465_43855830",
+            "urlToImage": "https://www.yardbarker.com/media/4/a/4a6a5809a1b7909e04b762111d8256fa54faa729/thumb_16x9/i.php.jpg",
+            "publishedAt": "2026-05-18T07:23:23Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "‘American Leadership is Needed’ on AI, ‘Otherwise China’s Gonna Lead the Way’",
+            "url": "https://www.breitbart.com/politics/2026/05/18/exclusive-build-american-ais-nathan-leamer-american-leadership-is-needed-on-ai-otherwise-chinas-gonna-lead-the-way/",
+            "urlToImage": "https://media.breitbart.com/media/2026/05/artificial-intelligence-640x335.jpg",
+            "publishedAt": "2026-05-18T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Anthropic says US must stay ahead of China as AGI nears in 2028",
+            "url": "https://www.firstpost.com/tech/anthropic-says-us-must-stay-ahead-of-china-as-agi-nears-in-2028-14012366.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/04/Anthropic-2026-04-e104edeb7e1e5b31b7f94a1178500759-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-05-18T06:39:24Z"
+        },
+        {
+            "source": {
+                "id": "e743cde6ee986921721e83d3957862dc",
+                "name": "Zee News",
+                "url": "https://zeenews.india.com",
+                "country": "in"
+            },
+            "title": "From reducing friction to building sovereign AI, India Innovation Day by TiE Delhi-NCR maps India’s AI ambitions",
+            "url": "https://zeenews.india.com/india/from-reducing-friction-to-building-sovereign-ai-india-innovation-day-by-tie-delhi-ncr-maps-india-s-ai-ambitions-3048484.html",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/05/18/1944490-egt.png",
+            "publishedAt": "2026-05-18T06:27:49Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -192,6 +240,15 @@
             "url": "https://www.financialexpress.com/market/stock-insights/hidden-gems/this-rs-19000-crore-company-is-quietly-riding-the-artificial-intelligence-power-surge/4243390/",
             "urlToImage": "https://images.financialexpressdigital.com/2026/05/hidden.jpg",
             "publishedAt": "2026-05-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "freepressjournal"
+            },
+            "title": "TCS Repositions As AI-Led Digital Transformation Partner, Focuses On Full-Stack AI Solutions & 'Human + AI' Model: Chairman N Chandrasekaran",
+            "url": "https://www.freepressjournal.in/tech/tcs-repositions-as-ai-led-digital-transformation-partner-focuses-on-full-stack-ai-solutions-human-ai-model-chairman-n-chandrasekaran",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-05-18/97cy8jye/Untitled-design-2026-05-18T114946.828.jpg",
+            "publishedAt": "2026-05-18 06:19:58"
         },
         {
             "source": {
@@ -3384,66 +3441,6 @@
             "url": "https://japantoday.com/category/entertainment/at-cannes-japanese-director-fukada-says-ai-undermines-the-creative-process",
             "urlToImage": "https://media.japantoday.com/img/store/22/ec/eb82a77e1170d0b55cee4931359e5b97724d/tag-reuters/_w1700.jpeg",
             "publishedAt": "2026-05-14T20:40:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Musk’s xAI Unveils First Coding Agent in Bid to Rival Anthropic",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-14/musk-s-xai-unveils-first-coding-agent-in-bid-to-rival-anthropic",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRClK1bDdLds/v0/1200x800.jpg",
-            "publishedAt": "2026-05-14T20:37:39Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Applied Materials 2Q Profit, Sales Rise on Demand for Semiconductor Equipment",
-            "url": "https://www.marketscreener.com/news/applied-materials-2q-profit-sales-rise-on-demand-for-semiconductor-equipment-ce7f5bddd080f020",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-05-14T20:35:14Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Anthropic to donate $200 million to Bill Gates' Gates Foundation; says: Gates Foundation has decades of experience and track record of ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-to-donate-200-million-to-bill-gates-gates-foundation-says-gates-foundation-has-decades-of-experience-and-track-record-of-/articleshow/131101359.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131101345,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-14T18:28:00Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Elon Musk and OpenAI lawyers begin closing arguments in AI trial",
-            "url": "https://www.cp24.com/news/2026/05/14/musk-openai-lawyers-begin-closing-arguments-in-landmark-trial-that-could-shape-ais-future/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/5ZFU3T7ZZD7CN7BDS4WGOGQBFI.jpg?smart=true&auth=6b385e9850844b120aca5298eaee40390b519b87edf6d99d45855fec5b3fce8b&width=1200&height=630",
-            "publishedAt": "2026-05-14T18:22:58Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Elon Musk and OpenAI lawyers begin closing arguments in AI trial",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/05/14/musk-openai-lawyers-begin-closing-arguments-in-landmark-trial-that-could-shape-ais-future/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/5ZFU3T7ZZD7CN7BDS4WGOGQBFI.jpg?smart=true&auth=6b385e9850844b120aca5298eaee40390b519b87edf6d99d45855fec5b3fce8b&width=1200&height=630",
-            "publishedAt": "2026-05-14T18:22:58Z"
         }
     ]
 }
