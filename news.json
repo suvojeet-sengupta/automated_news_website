@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-05-18T06:53:17.475306Z",
+    "lastUpdatedAt": "2026-05-18T11:03:20.600399Z",
     "articles": [
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "From proof of concept to chaos: when bad data derails AI",
+            "url": "https://www.afr.com/technology/from-proof-of-concept-to-chaos-when-bad-data-derails-ai-20260429-p5zrzv",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.8394%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_173%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/1b9f4b2f125f648f872fd84d95bd1544bbc00c0ba05ce8375f9afb4072eafc20",
+            "publishedAt": "2026-05-17T22:55:00Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "ICAI to embed AI, data analytics in CA curriculum",
+            "url": "https://www.dailyexcelsior.com/icai-to-embed-ai-data-analytics-in-ca-curriculum/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/05/ICAI.jpg",
+            "publishedAt": "2026-05-17T22:30:42Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "As electric bills rise in the AI boom, states take aim at utilities' profits",
+            "url": "https://www.latimes.com/world-nation/story/2026-05-17/as-electric-bills-rise-in-ai-boom-states-take-aim-at-utilities-profits",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/51fcbe8/2147483647/strip/true/crop/5756x3022+0+408/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2Fce%2Fc82ff814478ca5e04c6ae7e9d3e7%2Fbfb0bcf06c66451bb4ad50ccf64a29fc.jpg",
+            "publishedAt": "2026-05-17T21:07:16Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Big risks and rewards in upcoming IPOs at SpaceX, OpenAI, Anthropic",
+            "url": "https://japantoday.com/category/business/big-risks-and-rewards-in-upcoming-ipos-at-spacex-openai-anthropic",
+            "urlToImage": "https://media.japantoday.com/img/store/79/38/28c06049d0d08b6e9d1f05b99bb4eaf8ca82/56d06c34aeadabf0e8379748dcbd7b1a1cc9746c/_w1700.jpeg",
+            "publishedAt": "2026-05-17T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "Former Google CEO Eric Schmidt booed during graduation speech about AI",
+            "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260517-Eric-Schmidt-vl-358p-b8fb07.jpg",
+            "publishedAt": "2026-05-17T20:45:09Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "India, Sweden aim to double trade, elevate ties to ‘strategic partnership’",
+            "url": "https://www.tribuneindia.com/news/top-headlines/india-sweden-aim-to-double-trade-elevate-ties-to-strategic-partnership/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM2YzYxZGQwLTUyMmYtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
+            "publishedAt": "2026-05-17T20:30:11Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Aussie artificial intelligence may give robots a leg up",
+            "url": "https://www.perthnow.com.au/news/technology/aussie-artificial-intelligence-may-give-robots-a-leg-up-c-22297652",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-22297652/4529550286104dd84e04cb9a4954b7570d1e604f-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-05-17T19:02:18Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "Aussie artificial intelligence may give robots a leg up",
+            "url": "https://www.canberratimes.com.au/story/9248393/aussie-artificial-intelligence-may-give-robots-a-leg-up/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/fb21c4af-18d6-44c8-8872-098869127ef6.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-05-17T19:00:02Z"
+        },
         {
             "source": {
                 "id": "c0921d6317289ad1f03713bd836b6b23",
@@ -480,6 +576,24 @@
             "url": "https://www.aroundosceola.com/index.php/news/chatgpt-deepfakes-osceola-schools-confront-ai-challenges",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/1f67397c13_Ar00101001.jpg",
             "publishedAt": "2026-05-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "business2business_co_in"
+            },
+            "title": "Amazon commits $230 million to support emerging generative AI startups",
+            "url": "https://www.business2business.co.in/article/5171/amazon-commits-230-million-to-support-emerging-generative-ai-startups",
+            "urlToImage": "https://business2business.co.in/uploads/2024/06/df473baaab4b5ccf516d72790dfc74b9.jpeg",
+            "publishedAt": "2026-05-17 20:53:43"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Daily 'AI for Work' Pulse: 17th of May",
+            "url": "https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-17th-of-may/",
+            "urlToImage": "https://cdn.completeaitraining.com/newsletters/newsletter_2026-05-17_ghostwebsite.png",
+            "publishedAt": "2026-05-17 19:57:04"
         },
         {
             "source": {
@@ -3330,126 +3444,6 @@
             "url": "https://www.cp24.com/news/world/2026/05/14/pope-decries-the-rise-of-ai-directed-warfare-saying-it-leads-to-a-spiral-of-annihilation/",
             "urlToImage": "https://www.cp24.com/resizer/v2/QVYAOVWMYHQK2SJHCFE44RU7UU.jpg?smart=true&auth=47149df82ad14081040a0a053ec77f78751f67be7d298c535cffda184bb61055&width=1200&height=630",
             "publishedAt": "2026-05-14T12:50:37Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Pope Decries the Rise of AI-Directed Warfare, Saying It Leads to a Spiral of Annihilation",
-            "url": "https://www.usnews.com/news/technology/articles/2026-05-14/pope-decries-the-rise-of-ai-directed-warfare-saying-it-leads-to-a-spiral-of-annihilation",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/5d7bfdf/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F26%2F7414f06f9bee781a0ac6ed7b71ce72%2F6a5988ce22aa46e29a843833541fc5ecAPTOPIX_Italy_Pope_47481.jpg",
-            "publishedAt": "2026-05-14T12:32:00Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "Cisco lays off 4,000 employees while doubling down on AI infrastructure",
-            "url": "https://techstartups.com/2026/05/14/cisco-lays-off-4000-employees-while-doubling-down-on-ai-infrastructure/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2019/06/Cisco-acquires-Sentryo.jpg",
-            "publishedAt": "2026-05-14T11:52:59Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Anthropic CFO Krishna Rao says: While AI now writes 90% of the company's code, we have hired a lot more people because ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-cfo-krishna-rao-says-while-ai-now-writes-90-of-the-companys-code-we-have-hired-a-lot-more-people-because-/articleshow/131092558.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131092547,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-14T11:50:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Nvidia CEO Jensen Huang predicts AI winners: Electricians and plumbers could dominate the next job boom with six-figure salaries",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-predicts-ai-winners-electricians-and-plumbers-could-dominate-the-next-job-boom-with-six-figure-salaries/articleshow/131092084.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131092170,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-14T11:42:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "US, China are discussing AI guardrails to safeguard most powerful models, Bessent says",
-            "url": "https://www.marketscreener.com/news/us-china-are-discussing-ai-guardrails-to-safeguard-most-powerful-models-bessent-says-ce7f5bddda81f227",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-13T043228Z_1_LYNXMPEM4C07J_RTROPTP_4_USA-TRUMP-TARIFFS-CHINA.JPG",
-            "publishedAt": "2026-05-14T11:17:04Z"
-        },
-        {
-            "source": {
-                "id": "75ca59dd354694befc1cf6038cf9ca33",
-                "name": "CoinDesk",
-                "url": "https://www.coindesk.com",
-                "country": "us"
-            },
-            "title": "Cerebras IPO fuels AI stock frenzy as crypto loses investor attention",
-            "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-openai-spacex-the-ipo-pipeline-that-could-drain-crypto",
-            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d6fdaab71df4ace1cbea421bd067e8b6a280a2f5-2946x1938.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-            "publishedAt": "2026-05-14T10:58:22Z"
-        },
-        {
-            "source": {
-                "id": "2b5db686603d0197d748f18d2dc01aec",
-                "name": "Bloomberg Tax News",
-                "url": "https://news.bloombergtax.com",
-                "country": "us"
-            },
-            "title": "Tech Rally Rolls On as Cisco Highlights AI Fervor: Markets Wrap",
-            "url": "https://news.bloombergtax.com/daily-tax-report/tech-rally-rolls-on-as-cisco-highlights-ai-fervor-markets-wrap",
-            "urlToImage": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-            "publishedAt": "2026-05-14T10:55:09Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AIKONS Is Quietly Building the Future of AI Entertainment in India",
-            "url": "https://www.tribuneindia.com/news/business/aikons-is-quietly-building-the-future-of-ai-entertainment-in-india/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZlOTk0NTMwLTRmODEtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
-            "publishedAt": "2026-05-14T10:41:08Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Musk, OpenAI lawyers begin closing arguments in landmark trial that could shape AI's future",
-            "url": "https://www.breitbart.com/news/musk-openai-lawyers-begin-closing-arguments-in-landmark-trial-that-could-shape-ais-future/",
-            "urlToImage": "https://media.breitbart.com/media/2026/05/wi/ap/aptopix-musk-openai-trial-145-aptopix-musk-openai-trial-sam-altman-center-openai-president-greg-640x335.jpg",
-            "publishedAt": "2026-05-14T10:18:18Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Halupedia explained: Why AI Wikipedia clone is raising red flags",
-            "url": "https://www.thenews.com.pk/latest/1402527-halupedia-explained-why-ai-wikipedia-clone-is-raising-red-flags",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-05-14/1402527_031738_updates.jpg",
-            "publishedAt": "2026-05-14T10:17:00Z"
         }
     ]
 }
