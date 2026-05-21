@@ -1,6 +1,135 @@
 {
-    "lastUpdatedAt": "2026-05-21T09:31:44.472321Z",
+    "lastUpdatedAt": "2026-05-21T12:41:29.552453Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Sen. Sanders: Meta Layoffs Signal AI Job Replacement",
+            "url": "https://www.newsmax.com/politics/bernie-sanders-meta-ai/2026/05/20/id/1257006/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=5773a61c-9cbd-459a-8276-8c0e6395a171&SiteName=Newsmax",
+            "publishedAt": "2026-05-21T00:16:35Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Anthropic nears first quarterly profit, agrees to pay SpaceX $1.25 billion monthly for computing power",
+            "url": "https://www.marketscreener.com/news/anthropic-nears-first-quarterly-profit-agrees-to-pay-spacex-1-25-billion-monthly-for-computing-pow-ce7f5ad9de80fe2c",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-06T161627Z_1_LYNXMPEM4517X_RTROPTP_4_TECH-AI-ANTHROPIC-FINANCE.JPG",
+            "publishedAt": "2026-05-21T00:03:13Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Alibaba unveils Zhenwu M890 chip with triple the performance of its predecessor",
+            "url": "https://completeaitraining.com/news/alibaba-unveils-zhenwu-m890-chip-with-triple-the/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/alibaba-unveils-zhenwu-m890-chip-with-triple-the-performance-of-its-predecessor_2026-05-20.jpg",
+            "publishedAt": "2026-05-21 00:13:58"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Analysts focus on Nvidia’s inference market share after earnings beat",
+            "url": "https://www.cnbc.com/2026/05/20/analysts-focus-on-nvidias-inference-market-share-after-earnings-beat.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108307554-1778848271041-gettyimages-2276128441-aw1a5603_jhud8umq.jpeg?v=1778848286&w=1920&h=1080",
+            "publishedAt": "2026-05-20T23:49:14Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Musk’s SpaceX discloses filing for initial public offering",
+            "url": "https://www.upi.com/Top_News/US/2026/05/20/spacex-ipo-plans/3411779320295/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/3411779320295/2026/1/6806bede623125eeb355d988b23aa1d6/v1.5/Musks-SpaceX-discloses-filing-for-initial-public-offering.jpg",
+            "publishedAt": "2026-05-20T23:47:21Z"
+        },
+        {
+            "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
+                "country": "us"
+            },
+            "title": "Musk’s SpaceX discloses filing for initial public offering",
+            "url": "https://www.newsbreak.com/upi-news-510013/4662884038815-musk-s-spacex-discloses-filing-for-initial-public-offering",
+            "urlToImage": "https://img.particlenews.com/img/id/3EzHl8_1BaQUKW900",
+            "publishedAt": "2026-05-20T23:47:21Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "How High Can Meta’s Stock Price Rise?",
+            "url": "https://markets.businessinsider.com/news/stocks/how-high-can-meta-s-stock-price-rise-1036182237",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-2188-1024x767.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-05-20T23:29:00Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Trump to Sign AI Oversight Order Amid Push From Base",
+            "url": "https://www.newsmax.com/scitech/donald-trump-ai-cybersecurity/2026/05/20/id/1257002/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=737c98fb-1875-4824-b5e4-2cd33841cff4&SiteName=Newsmax",
+            "publishedAt": "2026-05-20T23:24:32Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Nvidia Q1 results surpass Wall Street expectations thanks to massive AI chip demand",
+            "url": "https://www.mercurynews.com/2026/05/20/nvidia-q1-results-surpass-wall-street-expectations-thanks-to-massive-ai-chip-demand/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/05/NVIDIA_Huang__6916.jpg?w=1024&h=682",
+            "publishedAt": "2026-05-20T23:14:58Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "Trump could sign AI executive order as soon as Thursday",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2026/05/20/trump-could-sign-ai-executive-order-as-soon-as-thursday/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXBlbXM2anEwMDAzM2I2cjR1Z2draHdy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcGVtcXphNzAwMHkyN3FuNWczbTRyMmM-860x573.jpg",
+            "publishedAt": "2026-05-20T22:57:29Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Trump could sign AI executive order as soon as Thursday",
+            "url": "https://edition.cnn.com/2026/05/20/tech/ai-executive-order-trump-white-house",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26132696454278.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-05-20T22:57:29Z"
+        },
         {
             "source": {
                 "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
@@ -725,6 +854,33 @@
             "source": {
                 "name": "norfolkdailynews"
             },
+            "title": "XMPro Named as a Sample Vendor for Agentic AI in the 2026 Gartner® Hype CycleTM for Cybersecurity Leadership",
+            "url": "https://norfolkdailynews.com/online_features/press_releases/xmpro-named-as-a-sample-vendor-for-agentic-ai-in-the-2026-gartner-hype-cycle/article_14cafc84-538d-51b3-b6f4-38d8aab66bd1.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/d/18/d1880632-a8c9-5de7-b681-2f9e5c6401ac/6a0e696760341.image.png?crop=1196%2C628%2C1%2C0",
+            "publishedAt": "2026-05-20 23:32:25"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "NSF CAREER Award to Wayne State University to Create Next Generation Network Infrastructure",
+            "url": "https://www.newswise.com/articles/nsf-career-award-to-wayne-state-university-to-create-next-generation-network-infrastructure/?sc=rsla",
+            "urlToImage": "https://www.newswise.com/images/uploads/2026/05/20/6a0df87a718e3_RhonghoJang770x434.png",
+            "publishedAt": "2026-05-20 23:15:34"
+        },
+        {
+            "source": {
+                "name": "cnbc"
+            },
+            "title": "Jim Cramer says the world of tech investing has changed and it's not going back",
+            "url": "https://www.cnbc.com/2026/05/20/jim-cramer-says-the-world-of-tech-investing-has-changed-and-its-not-going-back.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107109967-1661524568032-NUP_198430_00186r.jpg?v=1690933351&w=1200&h=675",
+            "publishedAt": "2026-05-20 22:41:07"
+        },
+        {
+            "source": {
+                "name": "norfolkdailynews"
+            },
             "title": "Digital Marketer John Kriney Releases New Book on SEO and AI Search - Free on Amazon Through May 23",
             "url": "https://norfolkdailynews.com/online_features/press_releases/digital-marketer-john-kriney-releases-new-book-on-seo-and-ai-search---free/article_84106392-3526-5dfa-936a-89aa8e5cad91.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/4/4e/44eb31c2-c347-520f-bb82-9b8cb8a3b2ec/6a0e349848da5.image.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
@@ -765,6 +921,15 @@
             "url": "https://chromeunboxed.com/why-gemini-3-5-flash-is-the-secret-sauce-for-the-fall-googlebook-wave/",
             "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2026/05/GooglebookGeminiFlash3-5.webp",
             "publishedAt": "2026-05-20 19:30:40"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI Search Startups Surge as Google Rewrites the Rules",
+            "url": "https://www.webpronews.com/ai-search-startups-surge-as-google-rewrites-the-rules/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/05/article-17301-1779299478.jpeg",
+            "publishedAt": "2026-05-20 18:40:09"
         },
         {
             "source": {
@@ -3234,171 +3399,6 @@
             "url": "https://www.thetimes.com/money/tax/article/curry-house-owner-caught-out-by-ai-in-50k-battle-with-the-taxman-qsdvvjxpw",
             "urlToImage": "https://www.thetimes.com/imageserver/image/268d5a4b-895c-45cf-95e2-5407efd1ce2e.jpg?strip=all&format=webp&crop=6016px%2C3384px%2C0px%2C316px&resize=1200",
             "publishedAt": "2026-05-18T05:00:00Z"
-        },
-        {
-            "source": {
-                "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
-                "name": "Proto Thema",
-                "url": "https://en.protothema.gr",
-                "country": "gr"
-            },
-            "title": "Checks in 90 countries on deposits, POS systems, real estate, social media, and assets by the AADE for Greek tax evasion",
-            "url": "https://en.protothema.gr/2026/05/18/checks-in-90-countries-on-deposits-pos-systems-real-estate-social-media-and-assets-by-the-aade-for-greek-tax-evasion/",
-            "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/05/Audit_tax-1.jpg-1.jpg",
-            "publishedAt": "2026-05-18T04:51:08Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Chinese court blocks tech firm from sacking staff replaced by AI",
-            "url": "https://www.bangkokpost.com/life/tech/3256888/chinese-court-blocks-tech-firm-from-sacking-staff-replaced-by-ai",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260518/c2_3256888.jpg",
-            "publishedAt": "2026-05-18T04:44:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI poised to tilt job market leverage toward older workers",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/18/ai-poised-to-tilt-job-market-leverage-toward-older-workers",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/18/3913131.jpg",
-            "publishedAt": "2026-05-18T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Chinese AI Stocks' Selloff Likely After US-China Meet Did Not Produce Concrete Deals, Jefferies Says",
-            "url": "https://www.marketscreener.com/news/chinese-ai-stocks-selloff-likely-after-us-china-meet-did-not-produce-concrete-deals-jefferies-says-ce7f5bd3d08bf120",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-05-18T01:54:15Z"
-        },
-        {
-            "source": {
-                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
-                "name": "Deadline",
-                "url": "https://deadline.com",
-                "country": "us"
-            },
-            "title": "'I Have A Healthy Concern'",
-            "url": "https://deadline.com/2026/05/jon-favreau-healthy-concern-ai-in-hollywood-1236913962/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276316901.jpg?w=1024",
-            "publishedAt": "2026-05-18T01:07:33Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Korean Stocks Near Correction as Higher Yields Hurt Risk Demand",
-            "url": "https://www.livemint.com/market/korean-stocks-near-correction-as-higher-yields-hurt-risk-demand-11779066376910.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-            "publishedAt": "2026-05-18T01:06:16Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Your monthly spend also decides how soon you can retire: Expense tracking apps, AI tools are changing how Indians invest",
-            "url": "https://economictimes.indiatimes.com/wealth/plan/your-monthly-spend-also-decides-how-soon-you-can-retire-expense-tracking-apps-ai-tools-are-changing-how-indians-invest/articleshow/131131188.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38188,resizemode-75,msid-131131188/wealth/plan/your-monthly-spend-also-decides-how-soon-you-can-retire-expense-tracking-apps-ai-tools-are-changing-how-indians-invest.jpg",
-            "publishedAt": "2026-05-18T01:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India missed out on AI and now its run as market darling may be over",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-missed-out-on-ai-and-now-its-run-as-market-darling-may-be-over/articleshow/131163876.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-131163882,width-1200,height-630,imgsize-120674,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-05-18T00:07:00Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "This Rs 19,000 crore company is quietly riding the artificial intelligence power surge",
-            "url": "https://www.financialexpress.com/market/stock-insights/hidden-gems/this-rs-19000-crore-company-is-quietly-riding-the-artificial-intelligence-power-surge/4243390/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/05/hidden.jpg",
-            "publishedAt": "2026-05-18T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Explainable machine learning for predicting longitudinal dementia status: Establishing a leakage-free benchmark",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001409",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001409.g010&size=inline",
-            "publishedAt": "2026-05-18T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "AWS is 20—and all in on AI",
-            "url": "https://www.fastcompany.com/91541226/aws-ai-matt-garman?partner=rss",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91541226-as-aws-turns-20-ai-is-changing-everything.jpg",
-            "publishedAt": "2026-05-18 21:09:36"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Samsung’s Exynos 2800 HBM Gamble: How Memory Bandwidth Could Lock Advanced AI Into Future Galaxy Flagships",
-            "url": "https://www.webpronews.com/samsungs-exynos-2800-hbm-gamble-how-memory-bandwidth-could-lock-advanced-ai-into-future-galaxy-flagships/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/05/article-17158-1779120896.jpeg",
-            "publishedAt": "2026-05-18 18:40:09"
-        },
-        {
-            "source": {
-                "name": "cdomagazine_tech"
-            },
-            "title": "AI Governance to Be Mandatory Under All Sovereign AI Regulations By 2027 — Gartner",
-            "url": "https://www.cdomagazine.tech/aiml/ai-governance-to-be-mandatory-under-all-sovereign-ai-regulations-by-2027-gartner",
-            "urlToImage": "https://cdomagazinecms.wpenginepowered.com/wp-content/uploads/2025/02/nugget.jpg",
-            "publishedAt": "2026-05-18 17:38:03"
-        },
-        {
-            "source": {
-                "name": "mobileappdaily"
-            },
-            "title": "Top Mobile App Development Companies in Wyoming - 2026 Reviews | MobileAppDaily",
-            "url": "https://www.mobileappdaily.com/directory/mobile-app-development-companies/us/wyoming",
-            "urlToImage": "https://s3.amazonaws.com/mobileappdaily/mad/uploads/top_mobile_app_development_companies_in_wyoming_2026_og.png",
-            "publishedAt": "2026-05-18 13:18:42"
-        },
-        {
-            "source": {
-                "name": "freepressjournal"
-            },
-            "title": "TCS Repositions As AI-Led Digital Transformation Partner, Focuses On Full-Stack AI Solutions & 'Human + AI' Model: Chairman N Chandrasekaran",
-            "url": "https://www.freepressjournal.in/tech/tcs-repositions-as-ai-led-digital-transformation-partner-focuses-on-full-stack-ai-solutions-human-ai-model-chairman-n-chandrasekaran",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-05-18/97cy8jye/Untitled-design-2026-05-18T114946.828.jpg",
-            "publishedAt": "2026-05-18 06:19:58"
         }
     ]
 }
