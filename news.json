@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-05-21T12:41:29.552453Z",
+    "lastUpdatedAt": "2026-05-21T16:13:07.280286Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Chatbots struggle with news accuracy and sourcing ahead of US midterms",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/21/chatbots-struggle-with-news-accuracy-andsourcing-ahead-of-us-midterms",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/21/3919162.jpg",
+            "publishedAt": "2026-05-21T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "Fooling AI with poetry: Why systems’ safety controls are not very effective",
+            "url": "https://www.irishtimes.com/technology/2026/05/21/fooling-ai-with-poetry-why-systems-safety-controls-are-not-very-effective/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/VDQ3IXLCKRDMRPJMZMEWOGRJKI.jpg?smart=true&auth=5de22489c8546ab0d718d052547a83c18f393314c5006add4ca490e02f745b9c&width=1200&height=630",
+            "publishedAt": "2026-05-21T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Intuit layoffs: Finance software giant cuts 3,000 jobs amid growing AI shift",
+            "url": "https://www.firstpost.com/tech/intuit-layoffs-finance-software-giant-cuts-3000-jobs-amid-growing-ai-shift-14013446.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/05/2026-05-20T130340Z_1259071685_RC2U9GAXHD3A_RTRMADP_3_INTUIT-LAYOFFS-2026-05-0c469bcc2cbd1f2c654ad3f979aa0ed9-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-05-21T03:18:19Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Nvidia posts record $81.6 bn quarterly revenue on AI spending boom",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-posts-record-81-6-bn-quarterly-revenue-on-ai-spending-boom/articleshow/131238812.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1035992,resizemode-75,msid-131238812/tech/artificial-intelligence/nvidia-posts-record-81-6-bn-quarterly-revenue-on-ai-spending-boom.jpg",
+            "publishedAt": "2026-05-21T03:05:43Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Zuckerberg says he feels 'weight' of Meta layoffs",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/21/zuckerberg-says-he-feels-039weight039-of-meta-layoffs",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/21/3919133.jpg",
+            "publishedAt": "2026-05-21T03:00:00Z"
+        },
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "Elon Musk's SpaceX files for IPO: Inside revenue, losses, and future plans",
+            "url": "https://www.business-standard.com/world-news/elon-musk-spacex-ipo-filing-revenue-losses-starlink-ai-126052100133_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/21/thumb/fitandfill/1200X628/1740130457-8761.JPG",
+            "publishedAt": "2026-05-21T02:53:32Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "makers of ChatGPT, preparing to file for an IPO in coming weeks: Report",
+            "url": "https://www.tribuneindia.com/news/business/openai-makers-of-chatgpt-preparing-to-file-for-an-ipo-in-coming-weeks-report/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIzMDU5MDkwLTU0YmYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-05-21T02:45:26Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "White House to issue an executive order on govt review of advanced AI models before launch",
+            "url": "https://www.livemint.com/technology/white-house-to-issue-an-executive-order-on-govt-review-of-advanced-ai-models-before-launch-11779330912164.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
+            "publishedAt": "2026-05-21T02:35:11Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "White House to issue an executive order on govt review of advanced AI models before launch",
+            "url": "https://www.tribuneindia.com/news/business/white-house-to-issue-an-executive-order-on-govt-review-of-advanced-ai-models-before-launch/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBhZDI5MTAwLTU0YmQtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-05-21T02:30:26Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Beed police launch AI-powered ‘DeepEye’ pilot project",
+            "url": "https://www.hindustantimes.com/cities/pune-news/beed-police-launch-ai-powered-deepeye-pilot-project-101779307170928.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/05/20/550x309/Beed-police-have-launched-artificial-intelligence-_1779307168759.jpg",
+            "publishedAt": "2026-05-21T02:14:12Z"
+        },
         {
             "source": {
                 "id": "a8984f03fe66dae9745793f6560aa444",
@@ -24,6 +144,33 @@
             "url": "https://www.marketscreener.com/news/anthropic-nears-first-quarterly-profit-agrees-to-pay-spacex-1-25-billion-monthly-for-computing-pow-ce7f5ad9de80fe2c",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-06T161627Z_1_LYNXMPEM4517X_RTROPTP_4_TECH-AI-ANTHROPIC-FINANCE.JPG",
             "publishedAt": "2026-05-21T00:03:13Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Sovato CEO Brian Miller shares lessons from Intuitive on product development, AI and building digital expertise",
+            "url": "https://completeaitraining.com/news/sovato-ceo-brian-miller-shares-lessons-from-intuitive-on/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/sovato-ceo-brian-miller-shares-lessons-from-intuitive-on-product-development-ai_2026-05-20.jpg",
+            "publishedAt": "2026-05-21 03:13:03"
+        },
+        {
+            "source": {
+                "name": "inc42"
+            },
+            "title": "India’s AI Inference Problem, Anscer Bags ₹45 Cr & More",
+            "url": "https://inc42.com/buzz/indias-ai-inference-problem-anscer-bags-%E2%82%B945-cr-more/",
+            "urlToImage": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/FTR-Daily-Brief-2026-05-20T233706.724.png",
+            "publishedAt": "2026-05-21 02:30:42"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "GIGABYTE's Cutting-Edge Innovations Recognized With COMPUTEX 2026 Best Choice Award",
+            "url": "https://menafn.com/1111147668/GIGABYTEs-Cutting-Edge-Innovations-Recognized-With-COMPUTEX-2026-Best-Choice-Award",
+            "urlToImage": "https://menafn.com/includes/img/logo.jpg",
+            "publishedAt": "2026-05-21 01:01:40"
         },
         {
             "source": {
@@ -3243,162 +3390,6 @@
             "url": "https://www.livemint.com/opinion/online-views/india-artificial-intelligence-cost-optimization-ai-foundational-research-frontier-models-profits-11779021724652.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/17/1600x900/logo/research_and_development_1776226705252_1776226939964_1779045330060_47e0b461-b697-4c0c-8865-33fbf1a82442.png",
             "publishedAt": "2026-05-18T08:30:15Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Reply: Stronger than ever, although trading at a rare discount",
-            "url": "https://www.marketscreener.com/news/reply-stronger-than-ever-although-trading-at-a-rare-discount-ce7f5adadb88f623",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-04-15T123224Z_1_LYNXMPEL3E0JM_RTROPTP_4_ITALY-STOCK-EXCHANGE.JPG",
-            "publishedAt": "2026-05-18T08:26:10Z"
-        },
-        {
-            "source": {
-                "id": "8d71923b22fd94776aed4dd1c611fd91",
-                "name": "Yardbarker",
-                "url": "https://www.yardbarker.com",
-                "country": "us"
-            },
-            "title": "The Mandalorian and Grogu's Jon Favreau has 'healthy concern' about AI in filmmaking",
-            "url": "https://www.yardbarker.com/entertainment/articles/the_mandalorian_and_grogus_jon_favreau_has_healthy_concern_about_ai_in_filmmaking/s1_17465_43855830",
-            "urlToImage": "https://www.yardbarker.com/media/4/a/4a6a5809a1b7909e04b762111d8256fa54faa729/thumb_16x9/i.php.jpg",
-            "publishedAt": "2026-05-18T07:23:23Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "‘American Leadership is Needed’ on AI, ‘Otherwise China’s Gonna Lead the Way’",
-            "url": "https://www.breitbart.com/politics/2026/05/18/exclusive-build-american-ais-nathan-leamer-american-leadership-is-needed-on-ai-otherwise-chinas-gonna-lead-the-way/",
-            "urlToImage": "https://media.breitbart.com/media/2026/05/artificial-intelligence-640x335.jpg",
-            "publishedAt": "2026-05-18T07:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Anthropic says US must stay ahead of China as AGI nears in 2028",
-            "url": "https://www.firstpost.com/tech/anthropic-says-us-must-stay-ahead-of-china-as-agi-nears-in-2028-14012366.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/04/Anthropic-2026-04-e104edeb7e1e5b31b7f94a1178500759-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-05-18T06:39:24Z"
-        },
-        {
-            "source": {
-                "id": "e743cde6ee986921721e83d3957862dc",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com",
-                "country": "in"
-            },
-            "title": "From reducing friction to building sovereign AI, India Innovation Day by TiE Delhi-NCR maps India’s AI ambitions",
-            "url": "https://zeenews.india.com/india/from-reducing-friction-to-building-sovereign-ai-india-innovation-day-by-tie-delhi-ncr-maps-india-s-ai-ambitions-3048484.html",
-            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/05/18/1944490-egt.png",
-            "publishedAt": "2026-05-18T06:27:49Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Nvidia earnings in focus: Can the AI rally continue?",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-earnings-in-focus-can-the-ai-rally-continue/slideshow/131167818.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-131167818,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-            "publishedAt": "2026-05-18T05:44:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Applications Closing Soon: Last Chance to Join India's Premier AI Institute for the 2026 Batch",
-            "url": "https://www.tribuneindia.com/news/business/applications-closing-soon-last-chance-to-join-indias-premier-ai-institute-for-the-2026-batch/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE4ZGU3MzEwLTUyN2MtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
-            "publishedAt": "2026-05-18T05:40:25Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Global markets this week: War, AI & rising economic risks",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-this-week-war-ai-rising-economic-risks/slideshow/131167652.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-131167652,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-            "publishedAt": "2026-05-18T05:36:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "America’s business schools are dangling discounts to win back students as AI panic sets in",
-            "url": "https://economictimes.indiatimes.com/nri/study/americas-business-schools-are-dangling-discounts-to-win-back-students-as-ai-panic-sets-in/articleshow/131167399.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1352169,resizemode-75,msid-131167399/nri/study/americas-business-schools-are-dangling-discounts-to-win-back-students-as-ai-panic-sets-in.jpg",
-            "publishedAt": "2026-05-18T05:31:01Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "IIT Kanpur introduces 4 online M.Tech programs on AI, Machine Learning, Project Management and more",
-            "url": "https://www.hindustantimes.com/education/admissions/iit-kanpur-introduces-4-online-m-tech-programs-on-ai-machine-learning-project-management-and-more-101779081556021.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/05/18/550x309/IIT_Kanpur_1622721622405_1779082040632_99d09457-2c8f-43de-b7b4-5be98641e619.jpeg",
-            "publishedAt": "2026-05-18T05:27:49Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports",
-            "url": "https://www.marketscreener.com/news/anthropic-to-brief-global-financial-watchdog-on-cyber-flaws-exposed-by-mythos-ft-reports-ce7f5adad98af526",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-06T161627Z_1_LYNXMPEM4517X_RTROPTP_4_TECH-AI-ANTHROPIC-FINANCE.JPG",
-            "publishedAt": "2026-05-18T05:17:27Z"
-        },
-        {
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            },
-            "title": "New 'Agentic AI' Platform AiR Wants to Be the AI That Protects Users from AI",
-            "url": "https://www.ibtimes.com/new-agentic-ai-platform-air-wants-ai-that-protects-users-ai-3802951",
-            "urlToImage": "https://d.ibtimes.com/en/full/4648941/air.jpg",
-            "publishedAt": "2026-05-18T05:15:39Z"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Curry house owner caught out by AI in £50k battle with the taxman",
-            "url": "https://www.thetimes.com/money/tax/article/curry-house-owner-caught-out-by-ai-in-50k-battle-with-the-taxman-qsdvvjxpw",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/268d5a4b-895c-45cf-95e2-5407efd1ce2e.jpg?strip=all&format=webp&crop=6016px%2C3384px%2C0px%2C316px&resize=1200",
-            "publishedAt": "2026-05-18T05:00:00Z"
         }
     ]
 }
