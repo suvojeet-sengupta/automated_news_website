@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-05-22T14:29:41.706458Z",
+    "lastUpdatedAt": "2026-05-22T17:04:51.436076Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Lenovo shares jump 15% on record earnings as AI revenue nearly doubles",
+            "url": "https://www.cnbc.com/2026/05/22/lenovo-shares-jump-15percent-on-record-earnings-as-ai-revenue-nearly-doubles.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106229832-1573105907272gettyimages-1175328289.jpeg?v=1573106005&w=1920&h=1080",
+            "publishedAt": "2026-05-22T05:00:42Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Why it’s too late to jump on the chip bandwagon",
+            "url": "https://www.reuters.com/commentary/breakingviews/why-its-too-late-jump-chip-bandwagon-2026-05-22/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/UG4YTDGGTNA67IC4ATGK2XZULA.JPG?auth=36031028a8ec2459f0f82fb225b09577e44238f14e4cb54916834d1d9df91353&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-05-22T05:00:39Z"
+        },
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "Ireland ranked 15th in Europe last year for foreign direct investment attractiveness - EY report",
+            "url": "https://www.irishtimes.com/business/2026/05/22/ireland-ranked-15th-in-europe-last-year-for-foreign-direct-investment-attractiveness-ey-report/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/4F4YWD3J4FZKZ6O7VWL4MWZMCM.jpg?smart=true&auth=fe52956a8b9acd8e1e103f2a2df786b9721217141e110d4dec2822c6cae52fa4&width=1200&height=630",
+            "publishedAt": "2026-05-22T05:00:01Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Trump postpones signing AI security order over parts he disliked",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/22/trump-postpones-signing-ai-security-order-over-parts-he-disliked",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/22/3921073.jpg",
+            "publishedAt": "2026-05-22T05:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "China stocks rebound but set for second week of losses; Hong Kong shares up",
+            "url": "https://www.devdiscourse.com/article/business/3917641-china-stocks-rebound-but-set-for-second-week-of-losses-hong-kong-shares-up",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_19_19_03_7965895.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-05-22T04:54:59Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Manus Mulls Funding Round to Undo Meta Acquisition",
+            "url": "https://www.marketscreener.com/news/manus-mulls-funding-round-to-undo-meta-acquisition-ce7f5adfdb8ff327",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-05-22T04:31:15Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Meta layoffs: Viral claim says employees built AI tools just before layoffs began",
+            "url": "https://www.firstpost.com/tech/meta-layoffs-viral-claim-says-employees-built-ai-tools-just-before-layoffs-began-ws-e-14013916.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/05/image-2026-05-e00ae09b6b9a643a53ca6514acda7c70-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-05-22T04:23:27Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "US CEO announces $1 million salaries for AI agent managers after slashing 22% headcount",
+            "url": "https://www.financialexpress.com/shorts/trending/us-ceo-announces-1-million-salaries-for-ai-agent-managers-after-slashing-22-headcount-4247947/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/05/clicup-layoff.jpg",
+            "publishedAt": "2026-05-22T04:08:11Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Two men charged with creating AI-generated porn under new US law targeting 'deepfakes'",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/22/two-men-charged-with-creating-ai-generated-porn-under-new-us-law-targeting-039deepfakes039",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/22/3921010.jpg",
+            "publishedAt": "2026-05-22T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "143b993b193f72147f3de29ebcfbf505",
+                "name": "India TV News",
+                "url": "https://www.indiatvnews.com",
+                "country": "in"
+            },
+            "title": "Mumbai Police registers FIR over AI-generated video intended to defame PM Modi",
+            "url": "https://www.indiatvnews.com/maharashtra/mumbai-police-registers-fir-over-ai-generated-video-on-instagram-intended-to-defame-pm-modi-details-here-2026-05-22-1042030",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/05/ai-video-1779421349.jpg",
+            "publishedAt": "2026-05-22T03:44:08Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -24,6 +144,15 @@
             "url": "https://www.marketscreener.com/news/kawasaki-heavy-partners-with-nvidia-for-physical-ai-robotics-shares-surge-9-ce7f5adfdb89f725",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
             "publishedAt": "2026-05-22T00:59:14Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "From edtech to quantum: India’s student founders redraw startup map",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/from-edtech-to-quantum-indias-student-founders-redraw-startup-map/articleshow/131255762.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-47529300/47529300.jpg",
+            "publishedAt": "2026-05-22 03:43:28"
         },
         {
             "source": {
@@ -1044,6 +1173,15 @@
             "url": "https://completeaitraining.com/news/louisiana-tech-receives-185k-nsf-grant-to-build-ai-systems/",
             "urlToImage": "https://cdn.completeaitraining.com/news_images/louisiana-tech-receives-185k-nsf-grant-to-build-ai-systems-for-critical-infrastr_2026-05-21.jpg",
             "publishedAt": "2026-05-21 21:14:34"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Anthropic In Talks To Use Microsoft's Custom AI Chip After $5 Billion Investment Deal. Here Is What We Know",
+            "url": "https://menafn.com/1111153530/Anthropic-In-Talks-To-Use-Microsofts-Custom-AI-Chip-After-5-Billion-Investment-Deal-Here-Is-What-We-Know",
+            "urlToImage": "https://menafn.com/updates/pr/2026-05/21/LM_3f393image_story.jpg",
+            "publishedAt": "2026-05-21 21:00:46"
         },
         {
             "source": {
@@ -3207,150 +3345,6 @@
             "url": "https://economictimes.indiatimes.com/news/new-updates/sridhar-vembu-says-prepare-for-tough-times-as-economic-picture-is-getting-grimmer-warns-ai-hype-may-not-last-long/articleshow/131194881.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-131194887,width-1200,height-630,imgsize-80332,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2026-05-19T08:13:00Z"
-        },
-        {
-            "source": {
-                "id": "c8c865ed042eb14694b8d596e22efe99",
-                "name": "Spokane Spokesman-Review",
-                "url": "https://www.spokesman.com",
-                "country": "us"
-            },
-            "title": "US software stocks rebound, seeking to loosen AI's grip",
-            "url": "https://www.spokesman.com/stories/2026/may/19/us-software-stocks-rebound-seeking-to-loosen-ais-g/",
-            "urlToImage": "https://thumb.spokesman.com/bGWoNoz09W0iJg1JqIScmJDBwmo=/1200x630/smart/media.spokesman.com/photos/2026/05/19/6a0cacc35fd1b.image.jpg",
-            "publishedAt": "2026-05-19T07:59:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Seth Rogen criticizes use of AI by screenwriters: ‘You shouldn't be a writer’",
-            "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/seth-rogen-criticizes-use-of-ai-by-screenwriters-you-shouldnt-be-a-writer/articleshow/131194095.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131194141,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-19T07:30:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Survey after survey shows that these are the two tech words that Americans almost 'dread and hate'",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/survey-after-survey-shows-that-these-are-the-two-tech-words-that-americans-almost-dread-and-hate/articleshow/131194047.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131194067,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-19T07:25:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Dell accelerates in enterprise AI with 1,000 new clients for its AI Factory portfolio",
-            "url": "https://www.marketscreener.com/news/dell-accelerates-in-enterprise-ai-with-1-000-new-clients-for-its-ai-factory-portfolio-ce7f5adbda8cf721",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-08-28T200913Z_1_LYNXMPEL7R10D_RTROPTP_4_DELL-RESULTS.JPG",
-            "publishedAt": "2026-05-19T07:24:38Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Google I/O 2026 Preview: From 'Agentic' Gemini To Aluminum OS, Here's What To Expect At The Conference",
-            "url": "https://www.ndtvprofit.com/technology/google-i-o-2026-preview-from-agentic-gemini-to-aluminum-os-heres-what-to-expect-at-the-conference-11515939",
-            "urlToImage": "https://c.ndtvimg.com/2026-05/52qj7fg4_google-io-2026_625x300_19_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-05-19T07:11:28Z"
-        },
-        {
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            },
-            "title": "Climate agencies to ask AI to predict future disasters",
-            "url": "https://www.canberratimes.com.au/story/9249942/climate-agencies-to-ask-ai-to-predict-future-disasters/",
-            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/7412aaf8-29ce-4094-8b73-61d38a5ecc7b.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-05-19T07:05:45Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Date, IST Timings, Where And How To Watch Google's Annual Developer Conference",
-            "url": "https://www.ndtvprofit.com/technology/google-io-2026-date-ist-timings-where-and-how-to-watch-googles-annual-developer-conference-11515633",
-            "urlToImage": "https://c.ndtvimg.com/2026-05/62bvaa2_google-io_625x300_19_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-05-19T07:00:18Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Saving Innovation – NaturalNews.com",
-            "url": "https://www.naturalnews.com/2026-05-19-teslas-pre-collision-airbag-system-life-saving-innovation.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/pre-collision-airbag-tesla-safety-full-self-driving-1572-original.jpg",
-            "publishedAt": "2026-05-19T05:55:08Z"
-        },
-        {
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "The Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            },
-            "title": "Best 3 ASX ETFs to leverage massive artificial intelligence buildout",
-            "url": "https://www.fool.com.au/2026/05/19/best-3-asx-etfs-to-leverage-massive-artificial-intelligence-buildout/",
-            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/11/Data-Centre-16.9-1200x675.jpg",
-            "publishedAt": "2026-05-19T05:50:18Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Chandigarh Surgeon Performs 3,000th Successful Knee Surgery Using AI-Powered RoboLens Technology - A National First",
-            "url": "https://www.devdiscourse.com/article/health/3913599-chandigarh-surgeon-performs-3000th-successful-knee-surgery-using-ai-powered-robolens-technology-a-national-first",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_00_38_2827682.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-05-19T05:45:18Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Anthropic CEO Dario Amodei predicts AI could reshape the future of software development: What it means for developers",
-            "url": "https://www.financialexpress.com/life/technology-anthropic-ceo-dario-amodei-predicts-ai-could-reshape-the-future-of-software-development-what-it-means-for-developers-4244612/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/03/Financial-express-2026-03-06T092431.068.jpg",
-            "publishedAt": "2026-05-19T05:27:10Z"
-        },
-        {
-            "source": {
-                "id": "dd1d806725f45e4403e75c1bb23b447a",
-                "name": "The Irish Times",
-                "url": "https://www.irishtimes.com",
-                "country": "ie"
-            },
-            "title": "‘I liken it a little to doping in sport’: Is use of AI in classrooms a help or hindrance?",
-            "url": "https://www.irishtimes.com/ireland/education/2026/05/19/i-liken-it-a-little-to-doping-in-sport-is-use-of-ai-in-classrooms-a-help-or-hindrance/",
-            "urlToImage": "https://www.irishtimes.com/resizer/v2/W4EXGF2EAZD5BNLPC7OYFJ67TU.JPG?smart=true&auth=125508f061dc3dc2b720d3094832b9b375b2e6c96e96fd547322ea01a57f0ae3&width=1200&height=630",
-            "publishedAt": "2026-05-19T05:00:01Z"
         }
     ]
 }
