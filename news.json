@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-05-22T08:18:34.299333Z",
+    "lastUpdatedAt": "2026-05-22T11:41:59.301207Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Newsom Orders AI Workforce Response Plan",
+            "url": "https://www.newsmax.com/newsfront/gavin-newsom-artificial-intelligence-california/2026/05/21/id/1257135/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=903bb874-cc43-4f1a-bcee-5a8fc9979cb8&SiteName=Newsmax",
+            "publishedAt": "2026-05-21T23:16:55Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Trump delays signing executive order on AI, citing competitiveness",
+            "url": "https://www.upi.com/Top_News/US/2026/05/21/Trump-delays-signing-executive-order-on-AI-citing-competitiveness/6461779400443/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/6461779400443/2026/1/4fe9d0714aef486778cf17957bfef620/v1.5/Trump-delays-signing-executive-order-on-AI-citing-competitiveness.jpg",
+            "publishedAt": "2026-05-21T23:04:21Z"
+        },
+        {
+            "source": {
+                "id": "e7b4d14003cc89c64a689f1c38723ef5",
+                "name": "Live 5 News WCSC",
+                "url": "https://www.live5news.com",
+                "country": "us"
+            },
+            "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
+            "url": "https://www.live5news.com/2026/05/21/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge/",
+            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/FLBFRQJHMBGELEIB7UZEI4KJXA.jpg?auth=88424ec62779438d220b4a58d23286750539a6e79978ff6a9b6cbd34aa5e1411&width=1200&height=600&smart=true",
+            "publishedAt": "2026-05-21T23:03:28Z"
+        },
+        {
+            "source": {
+                "id": "3f09ae62ee37a33ab191a698fec83f4b",
+                "name": "WEAU",
+                "url": "https://www.weau.com",
+                "country": "us"
+            },
+            "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
+            "url": "https://www.weau.com/2026/05/21/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge/",
+            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/FLBFRQJHMBGELEIB7UZEI4KJXA.jpg?auth=88424ec62779438d220b4a58d23286750539a6e79978ff6a9b6cbd34aa5e1411&width=1200&height=600&smart=true",
+            "publishedAt": "2026-05-21T23:03:28Z"
+        },
+        {
+            "source": {
+                "id": "04c17c43a7507fac95fd9ba5d47715b5",
+                "name": "WIS10",
+                "url": "https://www.wistv.com",
+                "country": "us"
+            },
+            "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
+            "url": "https://www.wistv.com/2026/05/21/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge/",
+            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/FLBFRQJHMBGELEIB7UZEI4KJXA.jpg?auth=88424ec62779438d220b4a58d23286750539a6e79978ff6a9b6cbd34aa5e1411&width=1200&height=600&smart=true",
+            "publishedAt": "2026-05-21T23:03:28Z"
+        },
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "Why AI can’t mark university essays: it’s fooled by flowery language",
+            "url": "https://www.thetimes.com/uk/education/article/why-ai-cant-mark-university-essays-its-fooled-by-flowery-language-xhnm8lzgl",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/85ac5f39-5ee8-4e92-8f7e-4535fd4806ce.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
+            "publishedAt": "2026-05-21T23:01:00Z"
+        },
+        {
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com",
+                "country": "us"
+            },
+            "title": "Two men charged with creating AI-generated porn under new law",
+            "url": "https://www.chicagotribune.com/2026/05/21/ai-generated-porn-law/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2026/05/AI_Deepfakes_Arrests_81434.jpg?w=1024&h=682",
+            "publishedAt": "2026-05-21T22:40:21Z"
+        },
+        {
+            "source": {
+                "id": "010284b7a4ddb4771793c29b39893951",
+                "name": "CHEK News",
+                "url": "https://cheknews.ca",
+                "country": "ca"
+            },
+            "title": "Provincial, federal governments leaning on AI to cut red tape",
+            "url": "https://cheknews.ca/provincial-federal-governments-leaning-on-ai-to-cut-red-tape-1325752/",
+            "urlToImage": "https://i0.wp.com/cheknews.ca/wp-content/uploads/2026/05/a4f56e3c-59ec-46ff-845e-d35864535b11-scaled-e1779399435920.jpg?fit=2560%2C1442&ssl=1",
+            "publishedAt": "2026-05-21T22:15:00Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Up 190%+ YTD, Let’s Look at Who Owns Seagate Stock (STX)",
+            "url": "https://markets.businessinsider.com/news/stocks/up-190-ytd-let-s-look-at-who-owns-seagate-stock-stx-1036186107",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-2347.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-05-21T21:40:44Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Widespread AI misuse forces higher education to rethink assessment",
+            "url": "https://phys.org/news/2026-05-widespread-ai-misuse-higher-rethink.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/ai-misuse-forces-highe.jpg",
+            "publishedAt": "2026-05-21T21:40:06Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -852,6 +972,96 @@
             "url": "https://www.marketscreener.com/news/anthropic-nears-first-quarterly-profit-agrees-to-pay-spacex-1-25-billion-monthly-for-computing-pow-ce7f5ad9de80fe2c",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-06T161627Z_1_LYNXMPEM4517X_RTROPTP_4_TECH-AI-ANTHROPIC-FINANCE.JPG",
             "publishedAt": "2026-05-21T00:03:13Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Huawei upgrades four digital finance solutions with open-source models and hybrid AI architecture at Shanghai summit",
+            "url": "https://completeaitraining.com/news/huawei-upgrades-four-digital-finance-solutions-with-open/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/huawei-upgrades-four-digital-finance-solutions-with-open-source-models-and-hybri_2026-05-21.jpg",
+            "publishedAt": "2026-05-21 21:54:18"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Louisiana Tech receives $185K NSF grant to build AI systems for critical infrastructure monitoring",
+            "url": "https://completeaitraining.com/news/louisiana-tech-receives-185k-nsf-grant-to-build-ai-systems/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/louisiana-tech-receives-185k-nsf-grant-to-build-ai-systems-for-critical-infrastr_2026-05-21.jpg",
+            "publishedAt": "2026-05-21 21:14:34"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "WhiteFiber Signs AI Compute Agreement with Total Contract Value in Excess of $160 Million with Investment-Grade Technology Customer",
+            "url": "https://www.prnewswire.com/news-releases/whitefiber-signs-ai-compute-agreement-with-total-contract-value-in-excess-of-160-million-with-investment-grade-technology-customer-302779342.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2745795/WhiteFiber_Logo.jpg?p=original",
+            "publishedAt": "2026-05-21 21:00:00"
+        },
+        {
+            "source": {
+                "name": "thewesterlysun"
+            },
+            "title": "WhiteFiber Signs AI Compute Agreement with Total Contract Value in Excess of $160 Million with Investment-Grade Technology Customer",
+            "url": "https://www.thewesterlysun.com/online_features/press_releases/whitefiber-signs-ai-compute-agreement-with-total-contract-value-in-excess-of-160-million-with/article_ddc20f74-6c1f-512e-acf4-d41ae93d8ce8.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thewesterlysun.com/content/tncms/custom/image/f5f0293e-7cd2-11ed-a4b8-df29b8856731.jpg?resize=200%2C200",
+            "publishedAt": "2026-05-21 21:00:00"
+        },
+        {
+            "source": {
+                "name": "journal_news"
+            },
+            "title": "WhiteFiber Signs AI Compute Agreement with Total Contract Value in Excess of $160 Million with Investment-Grade Technology Customer",
+            "url": "https://www.journal-news.net/online_features/press_releases/whitefiber-signs-ai-compute-agreement-with-total-contract-value-in-excess-of-160-million-with/article_1a0514e4-1449-5955-8b90-6631fa7326ac.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journal-news.net/content/tncms/custom/image/3d1380e4-c027-11e8-a4dd-bb1ef9d5adc9.png?resize=600%2C315",
+            "publishedAt": "2026-05-21 21:00:00"
+        },
+        {
+            "source": {
+                "name": "laconiadailysun"
+            },
+            "title": "WhiteFiber Signs AI Compute Agreement with Total Contract Value in Excess of $160 Million with Investment-Grade Technology Customer",
+            "url": "https://www.laconiadailysun.com/online_features/press_releases/whitefiber-signs-ai-compute-agreement-with-total-contract-value-in-excess-of-160-million-with/article_353f7979-59f8-59af-b976-2929d3a0eb13.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/laconiadailysun.com/content/tncms/custom/image/fe78d7b4-18c2-11e8-a1cd-ef05368d5f9b.jpg?resize=600%2C315",
+            "publishedAt": "2026-05-21 21:00:00"
+        },
+        {
+            "source": {
+                "name": "ricentral"
+            },
+            "title": "WhiteFiber Signs AI Compute Agreement with Total Contract Value in Excess of $160 Million with Investment-Grade Technology Customer",
+            "url": "https://www.ricentral.com/online_features/press_releases/whitefiber-signs-ai-compute-agreement-with-total-contract-value-in-excess-of-160-million-with/article_87431711-f56b-5d58-b990-f29cfac8142a.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/ricentral.com/content/tncms/custom/image/2bae7990-f437-11e4-9bc1-cb9219ef6fad.jpg?resize=600%2C315",
+            "publishedAt": "2026-05-21 21:00:00"
+        },
+        {
+            "source": {
+                "name": "thechronicle"
+            },
+            "title": "WhiteFiber Signs AI Compute Agreement with Total Contract Value in Excess of $160 Million with Investment-Grade Technology Customer",
+            "url": "https://www.thechronicle.com/online_features/press_releases/whitefiber-signs-ai-compute-agreement-with-total-contract-value-in-excess-of-160-million-with/article_a75aaa98-041f-56e8-ae41-e1db9bc365a3.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thechronicle.com/content/tncms/assets/v3/editorial/5/67/5675198c-2899-5bf2-9220-79596aa42cf3/69fed688a1843.image.jpg?resize=400%2C52",
+            "publishedAt": "2026-05-21 21:00:00"
+        },
+        {
+            "source": {
+                "name": "jdnews"
+            },
+            "title": "WhiteFiber Signs AI Compute Agreement with Total Contract Value in Excess of $160 Million with Investment-Grade Technology Customer",
+            "url": "https://www.jdnews.com/online_features/press_releases/whitefiber-signs-ai-compute-agreement-with-total-contract-value-in-excess-of-160-million-with/article_b46eb274-1a36-505d-afcd-bd2d48f0f844.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/jdnews.com/content/tncms/custom/image/a7128d8a-977f-11ed-8535-ef1f4ff57fb7.png?resize=600%2C315",
+            "publishedAt": "2026-05-21 21:00:00"
+        },
+        {
+            "source": {
+                "name": "berkshireeagle"
+            },
+            "title": "WhiteFiber Signs AI Compute Agreement with Total Contract Value in Excess of $160 Million with Investment-Grade Technology Customer",
+            "url": "https://www.berkshireeagle.com/online_features/press_releases/whitefiber-signs-ai-compute-agreement-with-total-contract-value-in-excess-of-160-million-with/article_1ad4372d-917f-5916-b442-a6fc22d320d3.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/custom/image/2b802cce-8455-11ec-8935-3f9640429655.jpg?resize=600%2C315",
+            "publishedAt": "2026-05-21 21:00:00"
         },
         {
             "source": {
@@ -3150,213 +3360,6 @@
             "url": "https://www.invenglobal.com/articles/21971/korea-artificial-intelligence-game-association-35-companies-participate-in-2026-playx4-indie-arcade",
             "urlToImage": "https://static.invenglobal.com/upload/image/2026/05/19/i1779160994301177.png",
             "publishedAt": "2026-05-19T03:22:36Z"
-        },
-        {
-            "source": {
-                "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
-                "name": "InvenGlobal",
-                "url": "https://www.invenglobal.com",
-                "country": "us"
-            },
-            "title": "Korea Artificial Intelligence Game Association, 35 Companies Participate in 2026 PlayX4 'Indie Arcade'",
-            "url": "https://www.invenglobal.com/lol/articles/21971/korea-artificial-intelligence-game-association-35-companies-participate-in-2026-playx4-indie-arcade",
-            "urlToImage": "https://static.invenglobal.com/upload/image/2026/05/19/i1779160994301177.png",
-            "publishedAt": "2026-05-19T03:22:36Z"
-        },
-        {
-            "source": {
-                "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
-                "name": "InvenGlobal",
-                "url": "https://www.invenglobal.com",
-                "country": "us"
-            },
-            "title": "Korea Artificial Intelligence Game Association, 35 Companies Participate in 2026 PlayX4 'Indie Arcade'",
-            "url": "https://www.invenglobal.com/valorant/articles/21971/korea-artificial-intelligence-game-association-35-companies-participate-in-2026-playx4-indie-arcade",
-            "urlToImage": "https://static.invenglobal.com/upload/image/2026/05/19/i1779160994301177.png",
-            "publishedAt": "2026-05-19T03:22:36Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Standard Chartered plans 7,000 job cuts amid AI push and higher profit targets",
-            "url": "https://www.indiatoday.in/jobs/story/standard-chartered-job-cuts-layoffs-bank-to-remove-7000-roles-target-high-returns-by-2030-busc-2913758-2026-05-19",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/standard-chartered-layoffs-191159936-16x9_0.jpg?VersionId=6m82AorN0hOT59wRWi5CX9PsR.UrA1eI",
-            "publishedAt": "2026-05-19T03:15:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "China market for Nvidia AI chips to open 'over time': CEO Jensen Huang",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-market-for-nvidia-ai-chips-to-open-over-time-ceo-jensen-huang/articleshow/131189547.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70282,resizemode-75,msid-131189547/tech/artificial-intelligence/china-market-for-nvidia-ai-chips-to-open-over-time-ceo-jensen-huang.jpg",
-            "publishedAt": "2026-05-19T03:13:38Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "Meta reassigns 7,000 workers to AI roles amid major restructuring",
-            "url": "https://www.thehindubusinessline.com/info-tech/meta-moves-7000-employees-into-ai-jobs-ahead-of-staff-cuts/article70996430.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/ouymdc/article70996466.ece/alternates/LANDSCAPE_1200/2026-05-18T191516Z_1421605962_RC2LDCAEGHOZ_RTRMADP_3_TECH-AI-META-LAYOFFS.JPG",
-            "publishedAt": "2026-05-19T03:05:22Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Meta moves 7,000 workers Into AI roles ahead of job cuts",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/19/meta-moves-7000-workers-into-ai-roles-ahead-of-job-cuts",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/19/3914973.jpg",
-            "publishedAt": "2026-05-19T03:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Fangzhou Ranked among 2025 Guangzhou AI Innovation \"Most Promising Enterprises” for AI‑Powered Chronic Disease Services",
-            "url": "https://www.manilatimes.net/2026/05/19/tmt-newswire/globenewswire/fangzhou-ranked-among-2025-guangzhou-ai-innovation-most-promising-enterprises-for-aipowered-chronic-disease-services/2346714",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/19/1062285.jpg",
-            "publishedAt": "2026-05-19T02:59:15Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Analog Devices in talks to buy Empower Semiconductor for $1.5 billion, Bloomberg News reports",
-            "url": "https://www.marketscreener.com/news/analog-devices-in-talks-to-buy-empower-semiconductor-for-1-5-billion-bloomberg-news-reports-ce7f5adbd88ff125",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2023-08/2023-08-23T124704Z_1_LYNXMPEJ7M0KA_RTROPTP_3_ANALOG-DEVICES-RESULTS.JPG",
-            "publishedAt": "2026-05-19T02:55:16Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "From one classroom to a nationwide movement: Advancing AI skills in education",
-            "url": "https://www.bangkokpost.com/business/general/3256870/from-one-classroom-to-a-nationwide-movement-advancing-ai-skills-in-education",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260518/c1_3256870_700.jpg",
-            "publishedAt": "2026-05-19T02:30:00Z"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "NVIDIA Stock Near $222: Is the AI Giant Ready for Another Rally?",
-            "url": "https://www.analyticsinsight.net/stocks/nvidia-stock-near-222-is-the-ai-giant-ready-for-another-rally",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-05-19/6y62maqe/NVIDIA-stock-analysis-3.jpg",
-            "publishedAt": "2026-05-19 23:30:00"
-        },
-        {
-            "source": {
-                "name": "nytimesnewstoday"
-            },
-            "title": "AI Could Unlock Big Earnings Upside for Casinos",
-            "url": "https://www.nytimesnewstoday.com/ai-could-unlock-big-earnings-upside-for-casinos/",
-            "urlToImage": "https://www.casino.org/news/wp-content/uploads/2026/01/shutterstock_788513926.jpg",
-            "publishedAt": "2026-05-19 21:19:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Google Search is getting AI agents that will monitor the web for you",
-            "url": "https://www.digitaltrends.com/computing/google-search-is-getting-ai-agents-that-will-monitor-the-web-for-you/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/05/Google-Search-information-agents-featured.jpg?resize=1200%2C630",
-            "publishedAt": "2026-05-19 20:33:18"
-        },
-        {
-            "source": {
-                "name": "financialexpress"
-            },
-            "title": "Google I/O 2026: Rounding up every new AI, hardware announcement made",
-            "url": "https://www.financialexpress.com/life/technology-google-io-2026-rounding-up-every-new-ai-hardware-announcement-made-4245394/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/05/google-io-2026.jpg",
-            "publishedAt": "2026-05-19 20:22:43"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Google’s Gemini Omni is an all-purpose content generator that wants to replace your entire studio",
-            "url": "https://us.headtopics.com/news/google-s-gemini-omni-is-an-all-purpose-content-generator-83545580",
-            "urlToImage": "https://i.headtopics.com/images/2026/5/19/digitaltrends/google-s-gemini-omni-is-an-all-purpose-content-gen-google-s-gemini-omni-is-an-all-purpose-content-gen-54BFA225ACAFAB9A0918ABF63C1A1F19.webp",
-            "publishedAt": "2026-05-19 20:06:28"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Google’s AI strategy is finally coming into focus",
-            "url": "https://www.fastcompany.com/91542521/google-ai-strategy-io-gemini?partner=rss",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-2-91542521-google-makes-a-strong-case-for-gemini-models.jpg",
-            "publishedAt": "2026-05-19 18:48:50"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Google’s Gemini Omni is an all-purpose content generator that wants to replace your entire studio",
-            "url": "https://www.digitaltrends.com/computing/googles-gemini-omni-is-an-all-purpose-content-generator-that-wants-to-replace-your-entire-studio/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/05/Google-Omni-video-generation-tool.jpg?resize=1200%2C630",
-            "publishedAt": "2026-05-19 18:48:22"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "Google Antigravity 2.0 is Your New Android Coding Hub; Google AI Studio Gets Mobile App",
-            "url": "https://www.androidheadlines.com/2026/05/google-io-2026-antigravity-developer-tools-ai-studio-mobile-app.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2026/05/Google-Antigravity-2.0-developer-tools.png",
-            "publishedAt": "2026-05-19 18:41:36"
-        },
-        {
-            "source": {
-                "name": "indiaseatradenews"
-            },
-            "title": "AI Boom and Helium Shortage Put Pressure on Air Cargo Capacity",
-            "url": "https://indiaseatradenews.com/ai-boom-and-helium-shortage-put-pressure-on-air-cargo-capacity/",
-            "urlToImage": "https://indiaseatradenews.com/wp-content/uploads/2025/08/chapman-air-cargo.jpg",
-            "publishedAt": "2026-05-19 18:37:21"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "How AI Startups Are Building Global Teams Without Physical Headquarters",
-            "url": "https://www.webpronews.com/ai-startups-teams-without-physical-headquarters/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/05/pexels-divinetechygirl-1181745.jpg",
-            "publishedAt": "2026-05-19 18:23:35"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-            "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=800&q=75",
-            "publishedAt": "2026-05-19 17:45:00"
         }
     ]
 }
