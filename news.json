@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-05-23T11:07:02.945598Z",
+    "lastUpdatedAt": "2026-05-23T13:15:33.237899Z",
     "articles": [
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "Takaichi considering new quota for growth investment",
+            "url": "https://www.japantimes.co.jp/business/2026/05/23/takaichi-quota-growth-investment/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/23/541995.jpg?v=3.1",
+            "publishedAt": "2026-05-23T00:36:03Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Silicon Valley to get its first two-year degree focused on AI",
+            "url": "https://www.mercurynews.com/2026/05/22/silicon-valley-to-get-its-first-two-year-degree-focused-on-ai/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/07/SJM-L-DEANZA-01.jpg?w=1024&h=730",
+            "publishedAt": "2026-05-22T23:08:41Z"
+        },
         {
             "source": {
                 "id": "c9db5acf558cb3805c540ea4298687bc",
@@ -936,6 +960,15 @@
             "url": "https://www.marketscreener.com/news/kawasaki-heavy-partners-with-nvidia-for-physical-ai-robotics-shares-surge-9-ce7f5adfdb89f725",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
             "publishedAt": "2026-05-22T00:59:14Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "UChicago tool lets streaming listeners identify AI-generated music in real time",
+            "url": "https://completeaitraining.com/news/uchicago-tool-lets-streaming-listeners-identify-ai/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/uchicago-tool-lets-streaming-listeners-identify-ai-generated-music-in-real-time_2026-05-22.jpg",
+            "publishedAt": "2026-05-22 23:53:32"
         },
         {
             "source": {
@@ -3345,42 +3378,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/times-techies/the-ai-boom-is-forcing-firms-to-confront-their-data-chaos/articleshow/131214488.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-131214500,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-05-20T02:16:00Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "Meta Layoffs: 8,000 Jobs Cut Globally, 7,000 Employees Shifted To AI-Focused Roles",
-            "url": "https://www.news18.com/business/economy/meta-layoffs-8000-jobs-cut-globally-7000-employees-shifted-to-ai-focused-roles-ws-l-10100856.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/04/TV_5831402_240426meta_1-1200x675.jpg",
-            "publishedAt": "2026-05-20T02:15:19Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Italy and India set to upgrade ties during PM Modi's visit to Rome",
-            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/italy-and-india-set-to-upgrade-ties-during-modis-visit-to-rome/articleshow/131214189.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-131214195,width-1200,height-630,imgsize-139236,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-05-20T01:47:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AWS CEO Matt Garman just told engineers: We will need tons and tons of software developers who know how to ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/aws-ceo-matt-garman-just-told-engineers-we-will-need-tons-and-tons-of-software-developers-who-know-how-to-/articleshow/131210917.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131210951,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-20T01:31:00Z"
         }
     ]
 }
