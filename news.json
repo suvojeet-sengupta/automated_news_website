@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-05-22T22:53:34.593293Z",
+    "lastUpdatedAt": "2026-05-23T00:02:07.157675Z",
     "articles": [
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Canadian gov’t gives $24M to boost AI research",
+            "url": "https://www.bnnbloomberg.ca/business/2026/05/22/feds-pledge-24m-to-further-increase-canadian-ai-research/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/NCTWXQEKLHY7HNEHXV5DMG344Q.jpg?smart=true&auth=425530eb64e9647b88ec16b4cc19f4c015a449613129434c56418b9f97527c9d&width=1200&height=630",
+            "publishedAt": "2026-05-22T12:01:31Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Microsoft Reportedly Considering Supplying Anthropic With AI Chips",
+            "url": "https://www.ibtimes.com/microsoft-reportedly-considering-supplying-anthropic-ai-chips-3803175",
+            "urlToImage": "https://d.ibtimes.com/en/full/4648344/anthropic.jpg",
+            "publishedAt": "2026-05-22T11:48:24Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "US President Trump Postpones Signing of Executive Order on AI",
+            "url": "https://www.marketscreener.com/news/us-president-trump-postpones-signing-of-executive-order-on-ai-ce7f5adfdf8ef525",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-05-22T11:38:12Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "World Trade Grew Strongly at Start of Year on AI Boom -- Update",
+            "url": "https://www.marketscreener.com/news/world-trade-grew-strongly-at-start-of-year-on-ai-boom-update-ce7f5adfdf8df12d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-05-22T11:21:43Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "Maharashtra’s economy to surpass those of Singapore, UAE in 2 to 3 years: Fadnavis",
+            "url": "https://www.thehindubusinessline.com/news/national/maharashtras-economy-to-surpass-those-of-singapore-uae-in-2-to-3-years-fadnavis/article71010209.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/t8dv62/article71010556.ece/alternates/LANDSCAPE_1200/PTI05_22_2026_000141A.jpg",
+            "publishedAt": "2026-05-22T11:14:32Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "‘...Is Transforming Every Aspect Of Our Lives’: Maharashtra CM Devendra Fadnavis On AI, Says Technology Can Drive Social And Economic Development",
+            "url": "https://www.freepressjournal.in/mumbai/is-transforming-every-aspect-of-our-lives-maharashtra-cm-devendra-fadnavis-on-ai-says-technology-can-drive-social-and-economic-development",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-05-22/2wlqn3ue/Hero-Image-With-Text-2026-05-22T162537.830.jpg",
+            "publishedAt": "2026-05-22T10:56:30Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "World Bank chief backs 'Small AI' for farmers, rural communities in Singapore summit",
+            "url": "https://www.dailyexcelsior.com/world-bank-chief-backs-small-ai-for-farmers-rural-communities-in-singapore-summit/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/RIfh.jpg",
+            "publishedAt": "2026-05-22T10:56:12Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -107,6 +191,18 @@
             "title": "Another California tech company lays off thousands",
             "url": "https://www.latimes.com/business/story/2026-05-22/another-california-tech-company-lays-off-thousands",
             "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/686a2c3/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3f%2F62%2F398263c01bb2d174c894bea17305%2F9c6cf4d393484ceb9dd1719b72d29a28",
+            "publishedAt": "2026-05-22T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "1e4cbb871b871f67ec707e4362224d42",
+                "name": "World Health Organization (WHO)",
+                "url": "https://www.who.int",
+                "country": "ch"
+            },
+            "title": "World Health Assembly endorses resolution on precision medicine",
+            "url": "https://www.who.int/news/item/22-05-2026-world-health-assembly-endorses-resolution-on-precision-medicine",
+            "urlToImage": "https://cdn.who.int/media/images/default-source/topics/medicines-medical-devices-and-medical-care/health-laboratories/pharmaceutical-sector-senegal.tmb-1200v.jpg?sfvrsn=f0f6c032_1",
             "publishedAt": "2026-05-22T10:00:00Z"
         },
         {
@@ -327,6 +423,18 @@
         },
         {
             "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "FinVolution Launches 11th Global AI Competition: Teaching Voice AI When to Speak",
+            "url": "https://www.manilatimes.net/2026/05/22/tmt-newswire/globenewswire/finvolution-launches-11th-global-ai-competition-teaching-voice-ai-when-to-speak/2349849",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/22/1068004.jpg",
+            "publishedAt": "2026-05-22T06:24:55Z"
+        },
+        {
+            "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
                 "name": "MarketScreener",
                 "url": "https://www.marketscreener.com",
@@ -504,6 +612,24 @@
             "url": "https://www.marketscreener.com/news/kawasaki-heavy-partners-with-nvidia-for-physical-ai-robotics-shares-surge-9-ce7f5adfdb89f725",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
             "publishedAt": "2026-05-22T00:59:14Z"
+        },
+        {
+            "source": {
+                "name": "guardonline"
+            },
+            "title": "Classover Enters into $100 Million Equity Purchase Facility Agreement and Announces Expansion into AI Compute Infrastructure and Cloud Services Platforms",
+            "url": "https://www.guardonline.com/news/national/classover-enters-into-100-million-equity-purchase-facility-agreement-and-announces-expansion-into-ai-compute/article_ea1aa092-b050-5784-9c2a-c47334aebf45.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/guardonline.com/content/tncms/assets/v3/editorial/4/d7/4d77e846-b8cc-5bdb-88f7-8092b4e4296c/6a10401f89ff8.image.jpg?crop=1200%2C630%2C0%2C45",
+            "publishedAt": "2026-05-22 11:36:58"
+        },
+        {
+            "source": {
+                "name": "aithority"
+            },
+            "title": "BluSky AI Announces IBN as Its Corporate Communications Partner for New Regulation A Offering",
+            "url": "https://aithority.com/machine-learning/blusky-ai-announces-ibn-as-its-corporate-communications-partner-for-new-regulation-a-offering/",
+            "urlToImage": "https://aithority.com/wp-content/uploads/2025/08/ghgh-55.jpg",
+            "publishedAt": "2026-05-22 11:01:06"
         },
         {
             "source": {
@@ -960,6 +1086,18 @@
         },
         {
             "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Tamil Nadu Engineering Admissions Cross 2.16 Lakh Registrations; Numbers Expected To Rise Further",
+            "url": "https://www.freepressjournal.in/education/tamil-nadu-engineering-admissions-cross-216-lakh-registrations-numbers-expected-to-rise-further",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-05-12/2vbk3xnj/Engineering-0.jpg",
+            "publishedAt": "2026-05-21T13:27:09Z"
+        },
+        {
+            "source": {
                 "id": "f1bf32bc7d2c9750240a24442fde5232",
                 "name": "Calgary Herald",
                 "url": "https://calgaryherald.com",
@@ -1353,6 +1491,18 @@
             "url": "https://www.moneycontrol.com/technology/scapia-raises-63-million-led-by-general-catalyst-to-expand-travel-lifestyle-offerings-article-13926201.html",
             "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/06/Anil-Goteti_CEO_Scapia-1.jpeg",
             "publishedAt": "2026-05-21T06:24:57Z"
+        },
+        {
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+            },
+            "title": "How AI careers are reshaping study abroad choices for Indian students as they look beyond 'Big 4s'",
+            "url": "https://www.businesstoday.in/education/study-abroad/story/how-ai-careers-are-reshaping-study-abroad-choices-for-indian-students-as-they-look-beyond-big-4s-532606-2026-05-21",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202605/6a0ea14830867-study-abroad-2026-singapore--netherlands-and-ai-courses-among-top-choices-for-indian-students-210755879-16x9.png",
+            "publishedAt": "2026-05-21T06:19:54Z"
         },
         {
             "source": {
@@ -2700,6 +2850,18 @@
         },
         {
             "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Why AI tools need clearer guardrails in high-stakes health research",
+            "url": "https://www.news-medical.net/news/20260519/Why-AI-tools-need-clearer-guardrails-in-high-stakes-health-research.aspx",
+            "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_838068_17792455476855149.jpg",
+            "publishedAt": "2026-05-20T02:54:00Z"
+        },
+        {
+            "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
                 "name": "The Economic Times",
                 "url": "https://economictimes.indiatimes.com",
@@ -2817,6 +2979,30 @@
             "url": "https://www.bangkokpost.com/world/3258048/from-graduation-boos-to-voter-unease-ai-anxiety-grows-in-the-us",
             "urlToImage": "https://static.bangkokpost.com/media/content/20260520/c1_6094753_700.jpg",
             "publishedAt": "2026-05-20T00:45:00Z"
+        },
+        {
+            "source": {
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
+            },
+            "title": "G H Raisoni Education launches AI-oriented programmes",
+            "url": "https://www.thehitavada.com/Encyc/2026/5/20/g-h-raisoni-education-launches-ai-oriented-programmes.html",
+            "urlToImage": "https://www.thehitavada.com/Encyc/2026/5/20/G-H-Raisoni-Education-launches_202605201235557106_H@@IGHT_654_W@@IDTH_1200.jpg",
+            "publishedAt": "2026-05-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
+            },
+            "title": "G H Raisoni Education launches AI-oriented programmes",
+            "url": "https://www.thehitavada.com//Encyc/2026/5/20/g-h-raisoni-education-launches-ai-oriented-programmes.html",
+            "urlToImage": "https://www.thehitavada.com/Encyc/2026/5/20/G-H-Raisoni-Education-launches_202605201235557106_H@@IGHT_654_W@@IDTH_1200.jpg",
+            "publishedAt": "2026-05-20T00:00:00Z"
         },
         {
             "source": {
@@ -3132,198 +3318,6 @@
             "url": "https://www.ndtvprofit.com/technology/google-i-o-2026-highlights-gemini-3-5-flash-ai-personal-assistant-docs-live-benchmark-setting-ai-chips-and-more-11519819",
             "urlToImage": "https://c.ndtvimg.com/2026-05/msj4hnt_google-io-2026_625x300_20_May_26.png?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
             "publishedAt": "2026-05-20 00:50:10"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Goldman Sachs to lead SpaceX’s mega-IPO bank lineup",
-            "url": "https://www.moneycontrol.com/news/business/companies/goldman-sachs-to-lead-spacex-s-mega-ipo-bank-lineup-13924436.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/02/20260214023234_Spacex.jpg",
-            "publishedAt": "2026-05-19T23:41:19Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Meta Begins Job Cuts in Efficiency Push Spurred On by AI",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-19/meta-begins-job-cuts-in-efficiency-push-spurred-on-by-ai",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inOFmsevFKlU/v0/1200x800.jpg",
-            "publishedAt": "2026-05-19T23:39:27Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "From Chatbots to Essay Grader AI: How Generative AI Is Moving Into Specialized Verticals",
-            "url": "https://techbullion.com/from-chatbots-to-essay-grader-ai-how-generative-ai-is-moving-into-specialized-verticals/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2023/10/AI-Tutor-vs.-Simple-Chatbot_-What-Actually-Improves-Retention-1000x600.jpg",
-            "publishedAt": "2026-05-19T23:00:45Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "AI's future hinges on ethics, human-centric systems: Nadda in Geneva",
-            "url": "https://www.dailyexcelsior.com/ais-future-hinges-on-ethics-human-centric-systems-nadda-in-geneva/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/STOCK_PTI6_18_2022_0597-scaled.jpg",
-            "publishedAt": "2026-05-19T22:53:25Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Humanoid robots set to reshape manufacturing",
-            "url": "https://www.bangkokpost.com/business/general/3257948/humanoid-robots-set-to-reshape-manufacturing",
-            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/05/20/6094473_700.jpeg",
-            "publishedAt": "2026-05-19T22:43:00Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "Analog Devices to acquire Empower in $1.5 billion transaction",
-            "url": "https://www.bostonglobe.com/2026/05/19/business/analog-devices-acquire-empower/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/C5FPG7DUNYANF6VTKB4E42IGR4.jpg?auth=177b0701fbc38a67c3847e65e45253bcf43657b1bd9e7b5dba9bd9bccf01101e&width=1440",
-            "publishedAt": "2026-05-19T22:30:07Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "SpaceX Is Said to Plan to Buy Startup Cursor 30 Days After IPO",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-19/spacex-is-said-to-plan-to-buy-startup-cursor-30-days-after-ipo",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJS22C87foVs/v1/1200x800.jpg",
-            "publishedAt": "2026-05-19T21:51:26Z"
-        },
-        {
-            "source": {
-                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
-                "name": "NewsBreak",
-                "url": "https://www.newsbreak.com",
-                "country": "us"
-            },
-            "title": "As Meta lays off 10%, 7,000 employees will be moved into AI roles, source says",
-            "url": "https://www.newsbreak.com/nbc-news-510074/4660524557842-as-meta-lays-off-10-7-000-employees-will-be-moved-into-ai-roles-source-says",
-            "urlToImage": "https://img.particlenews.com/img/id/2kb2OB_1BY2iB4D00",
-            "publishedAt": "2026-05-19T21:41:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Tech Down as Yields Rise -- Tech Roundup",
-            "url": "https://www.marketscreener.com/news/tech-down-as-yields-rise-tech-roundup-ce7f5ad8dd8df221",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-05-19T21:39:26Z"
-        },
-        {
-            "source": {
-                "id": "840efb5642a2fd3ae6da920bb4981626",
-                "name": "Santa Ana Orange County Register",
-                "url": "https://www.ocregister.com",
-                "country": "us"
-            },
-            "title": "Editorial: Data center revolt threatens nation’s AI development",
-            "url": "https://www.ocregister.com/2026/05/19/editorial-data-center-revolt-threatens-nations-ai-development/",
-            "urlToImage": "https://www.ocregister.com/wp-content/uploads/2026/05/Plant_Bowen_Georgia_Power_7_485.jpg?w=1024&h=682",
-            "publishedAt": "2026-05-19T21:26:42Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "China market for Nvidia AI chips to open over time: Huang",
-            "url": "https://japantoday.com/category/tech/china-market-for-nvidia-ai-chips-to-open-'over-time'-huang",
-            "urlToImage": "https://media.japantoday.com/img/store/20/ee/e3d2dde63dd744147c36171cca8f443fd3d7/78622cda6510d58b0ffbe50e2482c6ed1cfe9656/_w1700.jpeg",
-            "publishedAt": "2026-05-19T20:17:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "China market for Nvidia AI chips to open over time: Huang",
-            "url": "https://japantoday.com/category/tech/china-market-for-nvidia-ai-chips-to-open-%27over-time%27-huang",
-            "urlToImage": "https://media.japantoday.com/img/store/20/ee/e3d2dde63dd744147c36171cca8f443fd3d7/78622cda6510d58b0ffbe50e2482c6ed1cfe9656/_w1700.jpeg",
-            "publishedAt": "2026-05-19T20:17:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Google places Gemini central to its growth strategy",
-            "url": "https://www.marketscreener.com/news/google-places-gemini-central-to-its-growth-strategy-ce7f5ad8db81f621",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-07-02T142704Z_1_LYNXMPEL610NW_RTROPTP_4_EU-ALPHABET-ANTITRUST.JPG",
-            "publishedAt": "2026-05-19T20:14:52Z"
-        },
-        {
-            "source": {
-                "id": "09dc1bda762f4f787cec10477a894d96",
-                "name": "Toronto Sun",
-                "url": "https://torontosun.com",
-                "country": "ca"
-            },
-            "title": "Let's not underestimate powers of artificial intelligence",
-            "url": "https://torontosun.com/opinion/columnists/kinsella-lets-not-underestimate-powers-of-artificial-intelligence",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/05/AdobeStock_245853295.jpg",
-            "publishedAt": "2026-05-19T19:55:51Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Google announces slew of AI advances, including a personal AI assistant coming soon",
-            "url": "https://wtop.com/business-finance/2026/05/google-announces-slew-of-ai-advances-including-a-personal-ai-assistant-coming-soon/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/05/Google_AI_Showcase_21_71-scaled.jpg",
-            "publishedAt": "2026-05-19T19:51:29Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Google takes next big step towards AGI, launches Gemini Omni: What is it, how it works and more",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-takes-next-big-step-towards-agi-launches-gemini-omni-what-is-it-how-it-works-and-more/articleshow/131210372.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131210407,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-19T19:47:00Z"
         }
     ]
 }
