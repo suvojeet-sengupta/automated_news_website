@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-05-23T22:48:45.154877Z",
+    "lastUpdatedAt": "2026-05-23T23:53:10.315327Z",
     "articles": [
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "Wall Street analysts predict Dell's stock price for the next 12 months",
+            "url": "https://finbold.com/wall-street-analysts-predict-dells-stock-price-for-the-next-12-months/",
+            "urlToImage": "https://assets.finbold.com/uploads/2026/05/Wall-Street-analysts-predict-Dells-stock-price-for-the-next-12-months-.jpg",
+            "publishedAt": "2026-05-23T11:22:05Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "track drug launches, expand India role",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/novo-nordisk-uses-ai-to-fast-track-drug-launches-expand-india-role/articleshow/131278271.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-126174,resizemode-75,msid-131278271/tech/artificial-intelligence/novo-nordisk-uses-ai-to-fast-track-drug-launches-expand-india-role.jpg",
+            "publishedAt": "2026-05-23T11:12:15Z"
+        },
         {
             "source": {
                 "id": "d64c9f761b22764bd19004c3945d6428",
@@ -168,6 +192,15 @@
             "url": "https://www.japantimes.co.jp/business/2026/05/23/takaichi-quota-growth-investment/",
             "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/23/541995.jpg?v=3.1",
             "publishedAt": "2026-05-23T00:36:03Z"
+        },
+        {
+            "source": {
+                "name": "freepressjournal"
+            },
+            "title": "Spotify, Amazon Developing Tools For AI Podcasts, Summaries To Compete With Google’s NotebookLM",
+            "url": "https://www.freepressjournal.in/tech/spotify-amazon-developing-tools-for-ai-podcasts-summaries-to-compete-with-googles-notebooklm",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2022-10/8d6549b1-834d-4644-9aa6-6594aaf574ad/blah__89_.png",
+            "publishedAt": "2026-05-23 11:39:12"
         },
         {
             "source": {
@@ -3333,42 +3366,6 @@
             "url": "https://www.marketscreener.com/news/alibaba-launches-new-ai-chip-ce7f5ad8d18cf72c",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
             "publishedAt": "2026-05-20T07:50:24Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "4 am layoff email: Meta starts alerting 8,000 employees about job cuts, reassigns 7,000 to new AI-powered teams",
-            "url": "https://www.livemint.com/companies/news/4-am-layoff-email-meta-starts-alerting-8-000-employees-about-job-cuts-reassigns-7-000-to-new-ai-powered-teams-11779257254501.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/20/1600x900/logo/FILES-US-INTERNET-AI-EARNINGS-META-2_1774222972352_1774222984355_1779262873612_4a9a4751-3a61-46b3-b112-2cb8f8a3822d.jpg",
-            "publishedAt": "2026-05-20T07:45:41Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Why Singapore is urging financial firms to scale up AI for better jobs",
-            "url": "https://www.thenews.com.pk/latest/1403169-why-singapore-is-urging-financial-firms-to-scale-up-ai-for-better-jobs",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-05-20/1403169_123726_updates.jpg",
-            "publishedAt": "2026-05-20T07:37:00Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "STARTRADER CEO Peter Karsten Delivers 'AI Starter' Keynote at University of Adelaide",
-            "url": "https://www.prnewswire.co.uk/news-releases/startrader-ceo-peter-karsten-delivers-ai-starter-keynote-at-university-of-adelaide-302777231.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2984018/STARTRADER_AI_Starter_Keynote.jpg?p=facebook",
-            "publishedAt": "2026-05-20T07:30:00Z"
         }
     ]
 }
