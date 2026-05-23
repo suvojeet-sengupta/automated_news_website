@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-05-23T17:57:16.997789Z",
+    "lastUpdatedAt": "2026-05-23T19:12:15.909386Z",
     "articles": [
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence's Terror: Red Fort Bomb Blast Case NIA Exposes AI's Role",
+            "url": "https://www.timesnownews.com/india/artificial-intelligences-terror-red-fort-bomb-blast-case-nia-exposes-ais-role-article-154381682",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-154381682,width-1280,height-720,resizemode-75/154381682.jpg",
+            "publishedAt": "2026-05-23T06:26:06Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Many Investors Bet against Figma (FIG) because of AI. That Bet Looks Shakier Now",
+            "url": "https://markets.businessinsider.com/news/stocks/many-investors-bet-against-figma-fig-because-of-ai-that-bet-looks-shakier-now-1036190004",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/FIG-AI-Stock-Analysis.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-05-23T05:57:17Z"
+        },
         {
             "source": {
                 "id": "a3391c15eb1d3136f9b9dd080940d0e8",
@@ -36,6 +60,15 @@
             "url": "https://www.japantimes.co.jp/business/2026/05/23/takaichi-quota-growth-investment/",
             "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/23/541995.jpg?v=3.1",
             "publishedAt": "2026-05-23T00:36:03Z"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Seven ways AI is making 2025 tech layoffs different from Silicon Valley’s earlier job cuts",
+            "url": "https://www.livemint.com/companies/news/seven-ways-ai-is-making-2025-tech-layoffs-different-from-silicon-valley-s-earlier-job-cuts-11779516530012.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/23/1600x900/logo/layoffs_1754109764267_1754109764379_1779516890741_504067c3-081f-4b9a-b8f3-078a007f871d.png",
+            "publishedAt": "2026-05-23 06:30:04"
         },
         {
             "source": {
@@ -3339,42 +3372,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/05/20/singapore-urges-financial-firms-to-use-ai-to-create-better-jobs",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/20/3917239.jpg",
             "publishedAt": "2026-05-20T05:02:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "The AI bots are coming and the young are booing, not applauding",
-            "url": "https://www.marketscreener.com/news/the-ai-bots-are-coming-and-the-young-are-booing-not-applauding-ce7f5ad8df8ef023",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-20T050531Z_1_LYNXMPEM4J0A6_RTROPTP_4_TECH-AI-GEN-Z.JPG",
-            "publishedAt": "2026-05-20T05:00:54Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "UBS sees mixed outlook for Indian IT sector, mid",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/ubs-sees-mixed-outlook-for-indian-it-sector-mid-tier-firms-outperform-large-caps-amid-ai-shift/articleshow/131216756.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-114868,resizemode-75,msid-131216756/tech/information-tech/ubs-sees-mixed-outlook-for-indian-it-sector-mid-tier-firms-outperform-large-caps-amid-ai-shift.jpg",
-            "publishedAt": "2026-05-20T04:52:00Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Why AI tools need clearer guardrails in high-stakes health research",
-            "url": "https://www.news-medical.net/news/20260519/Why-AI-tools-need-clearer-guardrails-in-high-stakes-health-research.aspx",
-            "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_838068_17792455476855149.jpg",
-            "publishedAt": "2026-05-20T02:54:00Z"
         }
     ]
 }
