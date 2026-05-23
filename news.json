@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-05-23T13:15:33.237899Z",
+    "lastUpdatedAt": "2026-05-23T14:56:40.025790Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Startup raises US$1.3bil for an AI ‘grid’",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/23/startup-raises-us13bil-for-an-ai-grid",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/22/3919401.jpg",
+            "publishedAt": "2026-05-23T02:00:00Z"
+        },
         {
             "source": {
                 "id": "4b9101ef61d45607a32072a7504f5fb0",
@@ -12,6 +24,15 @@
             "url": "https://www.japantimes.co.jp/business/2026/05/23/takaichi-quota-growth-investment/",
             "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/23/541995.jpg?v=3.1",
             "publishedAt": "2026-05-23T00:36:03Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "SpaceX's AI expansion shows why workforce training is becoming a business priority",
+            "url": "https://completeaitraining.com/news/spacexs-ai-expansion-shows-why-workforce-training-is/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/spacex-s-ai-expansion-shows-why-workforce-training-is-becoming-a-business-priori_2026-05-22.jpg",
+            "publishedAt": "2026-05-23 02:34:50"
         },
         {
             "source": {
@@ -3354,30 +3375,6 @@
             "url": "https://economictimes.indiatimes.com/tech/catalysts/meta-begins-8000-global-job-cuts-in-asian-hub-of-singapore/articleshow/131214750.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-66538,resizemode-75,msid-131214750/tech/catalysts/meta-begins-8000-global-job-cuts-in-asian-hub-of-singapore.jpg",
             "publishedAt": "2026-05-20T02:41:31Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Meta begins 8,000 global job cuts in Asian hub of Singapore",
-            "url": "https://economictimes.indiatimes.com/tech/technology/meta-begins-8000-global-job-cuts-in-asian-hub-of-singapore/articleshow/131214750.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-66538,resizemode-75,msid-131214750/tech/technology/meta-begins-8000-global-job-cuts-in-asian-hub-of-singapore.jpg",
-            "publishedAt": "2026-05-20T02:41:31Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "The AI boom is forcing firms to confront their data chaos",
-            "url": "https://timesofindia.indiatimes.com/technology/times-techies/the-ai-boom-is-forcing-firms-to-confront-their-data-chaos/articleshow/131214488.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131214500,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-20T02:16:00Z"
         }
     ]
 }
