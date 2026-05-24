@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-05-24T22:53:52.424827Z",
+    "lastUpdatedAt": "2026-05-24T23:56:02.314625Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Study finds that over half of eight-year-olds in Singapore have used AI; the most popular tool is ChatGPT",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/24/study-finds-that-over-half-of-eight-year-olds-in-singapore-have-used-ai-the-most-popular-tool-is-chatgpt",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/24/3924540.jpg",
+            "publishedAt": "2026-05-24T11:37:00Z"
+        },
         {
             "source": {
                 "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
@@ -312,6 +324,15 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/palo-networks-ceo-nikesh-arora-it-is-mistake-to-believe-that-ai-productivity-gains-automatically-means-fewer-employees-in-fact-for-engineers-/articleshow/131288380.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-131288374,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-05-24T03:44:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Best AI Frameworks for Enterprise Machine Learning Models in 2026",
+            "url": "https://www.analyticsinsight.net/machine-learning/best-ai-frameworks-for-enterprise-machine-learning-models-in-2026",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-05-24/hgpxux1i/Best-AI-Frameworks-for-Enterprise-Machine-Learning-Models-in-2026.jpg",
+            "publishedAt": "2026-05-24 11:00:00"
         },
         {
             "source": {
@@ -3354,24 +3375,6 @@
             "url": "https://aitechtrend.com/alibaba-large-language-models/",
             "urlToImage": "https://aitechtrend.com/wp-content/uploads/2026/05/alibaba_reveals_more_powerful_zhenwu_ai_chip__new_llm.jpg",
             "publishedAt": "2026-05-21 08:53:55"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "Anthropic is reportedly about to have its first profitable quarter",
-            "url": "https://www.engadget.com/2178340/anthropic-first-profitable-quarter/",
-            "urlToImage": "https://www.engadget.com/img/gallery/anthropic-is-reportedly-about-to-have-its-first-profitable-quarter/l-intro-1779350472.jpg",
-            "publishedAt": "2026-05-21 08:01:58"
-        },
-        {
-            "source": {
-                "name": "cnbctv18"
-            },
-            "title": "Nvidia CEO breaks down the five layers powering the AI boom",
-            "url": "https://www.cnbctv18.com/technology/nvidia-ceo-breaks-down-the-five-layers-powering-the-ai-boom-19910710.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/05/nvidia-ceo-ai-playbook-ai-generated-image-2026-05-3568388b3a9b15cfd5ead916589d46fb.jpg",
-            "publishedAt": "2026-05-21 07:43:39"
         }
     ]
 }
