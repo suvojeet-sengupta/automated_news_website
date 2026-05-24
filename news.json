@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-05-24T21:52:18.258517Z",
+    "lastUpdatedAt": "2026-05-24T22:53:52.424827Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "South Korea’s Bae Kyung-hoon calls for public share in ‘AI wealth’ amid Samsung labor dispute",
+            "url": "https://www.thenews.com.pk/latest/1403643-south-koreas-bae-kyung-hoon-calls-for-public-share-in-ai-wealth-amid-samsung-labor-dispute",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-05-24/1403643_032016_updates.jpg",
+            "publishedAt": "2026-05-24T10:20:00Z"
+        },
+        {
+            "source": {
+                "id": "b41851fb2662ea502db29f71ec4d1583",
+                "name": "NPR",
+                "url": "https://www.npr.org",
+                "country": "us"
+            },
+            "title": "Convicted nurse turns fatal drug error into cautionary tale : NPR",
+            "url": "https://www.npr.org/2026/05/24/nx-s1-5822519/radonda-vaught-nurse-convicted-vanderbilt-medical-error",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F33%2Fe40904804d59be2bdb33d16c2e15%2Fap23129693924533.jpg",
+            "publishedAt": "2026-05-24T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
+                "country": "us"
+            },
+            "title": "minute AI order switch exposes White House divides",
+            "url": "https://www.newsbreak.com/the-hill-560476/4669201870889-trump-s-last-minute-ai-order-switch-exposes-white-house-divides",
+            "urlToImage": "https://img.particlenews.com/img/id/286Q7a_1BgnXuwx00",
+            "publishedAt": "2026-05-24T10:00:00Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -276,6 +312,15 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/palo-networks-ceo-nikesh-arora-it-is-mistake-to-believe-that-ai-productivity-gains-automatically-means-fewer-employees-in-fact-for-engineers-/articleshow/131288380.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-131288374,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-05-24T03:44:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top IBM Professional Certification Programs for 2026",
+            "url": "https://www.analyticsinsight.net/career/top-ibm-professional-certification-programs-for-2026",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-05-24/fci3iv14/Top-IBM-Professional-Certification-Programs-for-2026.jpg",
+            "publishedAt": "2026-05-24 10:00:00"
         },
         {
             "source": {
@@ -3327,42 +3372,6 @@
             "url": "https://www.cnbctv18.com/technology/nvidia-ceo-breaks-down-the-five-layers-powering-the-ai-boom-19910710.htm",
             "urlToImage": "https://images.cnbctv18.com/uploads/2026/05/nvidia-ceo-ai-playbook-ai-generated-image-2026-05-3568388b3a9b15cfd5ead916589d46fb.jpg",
             "publishedAt": "2026-05-21 07:43:39"
-        },
-        {
-            "source": {
-                "name": "cxotoday"
-            },
-            "title": "AMD Launches Ryzen AI Halo and Max PRO 400 Processors to Power Next-Gen Agentic PC Era",
-            "url": "https://cxotoday.com/hardware/amd-launches-ryzen-ai-halo-and-max-pro-400-processors-to-power-next-gen-agentic-pc-era/",
-            "urlToImage": "https://cxotoday.com/wp-content/uploads/2026/05/4859450-ryzen-ai-halo.jpg",
-            "publishedAt": "2026-05-21 06:47:14"
-        },
-        {
-            "source": {
-                "name": "norfolkdailynews"
-            },
-            "title": "Robotic Process Automation Market : A Look at the Industry's Advancements and Opportunities",
-            "url": "https://norfolkdailynews.com/online_features/press_releases/robotic-process-automation-market-a-look-at-the-industrys-advancements-and-opportunities/article_804ffa89-9b34-5122-8221-1ba4722d2f37.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/5/37/537fd520-6e3a-54a0-ad47-5c7c94268c64/6a0eb1c3e28b0.image.jpg?crop=768%2C403%2C0%2C108",
-            "publishedAt": "2026-05-21 05:28:15"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Nanyang Singtech Debuts SingNova-H Studio: First RISC-V Dataflow Architecture AI PC with 200 TOPS for Local Large Models",
-            "url": "https://www.benzinga.com/pressreleases/26/05/g52708826/nanyang-singtech-debuts-singnova-h-studio-first-risc-v-dataflow-architecture-ai-pc-with-200-tops-f",
-            "urlToImage": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
-            "publishedAt": "2026-05-21 05:12:56"
-        },
-        {
-            "source": {
-                "name": "norfolkdailynews"
-            },
-            "title": "Nanyang Singtech Debuts SingNova-H Studio: First RISC-V Dataflow Architecture AI PC with 200 TOPS for Local Large Models",
-            "url": "https://norfolkdailynews.com/online_features/press_releases/nanyang-singtech-debuts-singnova-h-studio-first-risc-v-dataflow-architecture-ai-pc-with-200/article_520df3d1-0b60-5837-ae08-27f590c3596f.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/3/7f/37ffc9bb-049a-5be5-a91c-3cd583daf16b/6a0eaaeec2611.image.jpg?crop=1663%2C873%2C0%2C186&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2026-05-21 05:12:56"
         }
     ]
 }
