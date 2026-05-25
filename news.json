@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-05-25T08:16:03.369969Z",
+    "lastUpdatedAt": "2026-05-25T12:24:30.050075Z",
     "articles": [
+        {
+            "source": {
+                "id": "eb5e2f8a99ce1e98768eb91c19e8668d",
+                "name": "Agenzia ANSA",
+                "url": "https://www.ansa.it",
+                "country": "it"
+            },
+            "title": "Pope's first encyclical, Magnifica Humanitas, presented in Vatican",
+            "url": "https://www.ansa.it/english/news/vatican/2026/05/25/popes-first-encyclical-magnifica-humanitas-presented-in-vatican_54cfc96f-f4d1-4339-a1ad-b05477b4e04d.html",
+            "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2026/5/25/314d027cdd16858448f49eca63cc908f.jpg",
+            "publishedAt": "2026-05-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Half of elderly women in Japan prefer AI over humans for personal advice",
+            "url": "https://japantoday.com/category/tech/half-of-elderly-women-in-japan-prefer-ai-over-humans-for-personal-advice",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2026-05-24T21:00:00Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -504,6 +528,15 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/palo-networks-ceo-nikesh-arora-it-is-mistake-to-believe-that-ai-productivity-gains-automatically-means-fewer-employees-in-fact-for-engineers-/articleshow/131288380.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-131288374,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-05-24T03:44:00Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Microsoft and EY commit $1 billion to expand AI adoption across global enterprises",
+            "url": "https://completeaitraining.com/news/microsoft-and-ey-commit-1-billion-to-expand-ai-adoption/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/microsoft-and-ey-commit-1-billion-to-expand-ai-adoption-across-global-enterprise_2026-05-24.jpg",
+            "publishedAt": "2026-05-24 22:26:12"
         },
         {
             "source": {
@@ -3393,33 +3426,6 @@
             "url": "https://siliconangle.com/2026/05/21/digital-trust-ai-governance-digicerttrustsummit/",
             "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Amit-Sinha-CEO-of-DigiCert-DigiCert-Trust-Summit-2026.png",
             "publishedAt": "2026-05-21 20:09:58"
-        },
-        {
-            "source": {
-                "name": "investing_in"
-            },
-            "title": "Verisk Analytics’ SWOT analysis: stock faces climate opportunity amid AI concerns",
-            "url": "https://in.investing.com/news/swot-analysis/verisk-analytics-swot-analysis-stock-faces-climate-opportunity-amid-ai-concerns-93CH-5421314",
-            "urlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL7608B_L.jpg",
-            "publishedAt": "2026-05-21 19:24:08"
-        },
-        {
-            "source": {
-                "name": "roboticstomorrow"
-            },
-            "title": "Aetina Demonstrates Edge AI Platforms for Robotics, Vision AI and Enterprise Automation at COMPUTEX 2026",
-            "url": "http://www.roboticstomorrow.com/news/2026/05/21/aetina-demonstrates-edge-ai-platforms-for-robotics-vision-ai-and-enterprise-automation-at-computex-2026/26605",
-            "urlToImage": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
-            "publishedAt": "2026-05-21 19:20:02"
-        },
-        {
-            "source": {
-                "name": "cnbc"
-            },
-            "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
-            "url": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108269270-1771956501559-gettyimages-2261854833-AFP_98666EE.jpeg?v=1779385068&w=1200&h=675",
-            "publishedAt": "2026-05-21 18:29:59"
         }
     ]
 }
