@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-05-25T19:22:40.167828Z",
+    "lastUpdatedAt": "2026-05-25T21:01:40.021467Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits",
+            "url": "https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/05/23/multimedia/23dc-court-ai-jmlf/23dc-court-ai-jmlf-facebookJumbo.jpg",
+            "publishedAt": "2026-05-25T09:00:44Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Pentagon tests rival AI models in race to replace Anthropic",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/25/pentagon-tests-rival-ai-models-in-race-to-replace-anthropic",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/25/3925889.jpg",
+            "publishedAt": "2026-05-25T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "AI is coming for Wall Street: Jon Erlichman",
+            "url": "https://www.bnnbloomberg.ca/ticker-take/2026/05/25/ai-is-coming-for-wall-street-jon-erlichman/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/4ATJRQOITZHOBF6AM667Y5LVEQ.jpg?smart=true&auth=a8791bd43d4a5ea7f9398c8054e52b9bc78974418e693bf01d8fd84de8745370&width=1200&height=630",
+            "publishedAt": "2026-05-25T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Inside the Data Foundation Problem Behind Enterprise AI Failure: Milan Parikh Takes the Case to Data Summit 2026",
+            "url": "https://www.ibtimes.com/inside-data-foundation-problem-behind-enterprise-ai-failure-milan-parikh-takes-case-data-summit-3803265",
+            "urlToImage": "https://d.ibtimes.com/en/full/4649240/milan-parikh.jpg",
+            "publishedAt": "2026-05-25T08:58:24Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "AI bubble warning signs? Microsoft, Uber face unexpected coding agent cost surge in 2026",
+            "url": "https://www.thenews.com.pk/latest/1403757-ai-bubble-warning-signs-microsoft-uber-face-unexpected-coding-agent-cost-surge-in-2026",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-05-25/1403757_015157_updates.jpg",
+            "publishedAt": "2026-05-25T08:52:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "India needs its teachers to become social architects for AI adoption to work the way it should in classrooms",
+            "url": "https://www.livemint.com/opinion/online-views/india-teachers-social-architects-ai-adoption-classrooms-artificial-intelligence-schools-education-11779652050293.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/25/1600x900/logo/ai_classroom_1779690739545_1779690747474_39e737f5-df39-4c96-ba1b-a12bfabd69cf.jpeg",
+            "publishedAt": "2026-05-25T08:30:44Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "Big Tech Cos Fired Thousands For AI, Now Its Adoption Cost is Weighing On Them",
+            "url": "https://www.outlookbusiness.com/corporate/big-tech-cos-fired-thousands-for-ai-now-its-adoption-cost-is-weighing-on-them",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-05-25/76ozehs9/AI-generated-Image.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-05-25T07:56:22Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI-Powered Smart-City-Brain Could Transform Future Urban Sustainability Models",
+            "url": "https://www.devdiscourse.com/article/technology/3919853-ai-powered-smart-city-brain-could-transform-future-urban-sustainability-models",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/24_05_2026_12_43_46_1723739.png&width=920&format=jpeg",
+            "publishedAt": "2026-05-25T07:55:11Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "MeitY, ISB convene Governance Summit 2026 to discuss inclusive AI and public service delivery",
+            "url": "https://www.thehindubusinessline.com/news/meity-isb-convene-governance-summit-2026-to-discuss-inclusive-ai-and-public-service-delivery/article71020132.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/b2k7m4/article70994829.ece/alternates/LANDSCAPE_1200/IMG_iStock-2163506576_2_1_JRF9QQTD.jpg",
+            "publishedAt": "2026-05-25T07:41:11Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "China tech plays to ride out macro volatility",
+            "url": "https://www.cnbctv18.com/market/stocks/china-tech-plays-to-ride-out-macro-volatility-19912627.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/05/images_1779694354-scaled.jpeg?im=FitAndFill,width=500,height=300",
+            "publishedAt": "2026-05-25T07:35:05Z"
+        },
         {
             "source": {
                 "id": "03f4f74aaa0a44ccbb846a1630123293",
@@ -312,6 +432,51 @@
             "url": "https://www.ansa.it/english/news/vatican/2026/05/25/popes-first-encyclical-magnifica-humanitas-presented-in-vatican_54cfc96f-f4d1-4339-a1ad-b05477b4e04d.html",
             "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2026/5/25/314d027cdd16858448f49eca63cc908f.jpg",
             "publishedAt": "2026-05-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "ibtimes"
+            },
+            "title": "Microsoft cuts Claude Code access as AI coding costs surge",
+            "url": "https://www.ibtimes.co.in/microsoft-cuts-claude-code-access-ai-coding-costs-surge-902328",
+            "urlToImage": "https://data1.ibtimes.co.in/en/full/832679/microsoft-cuts-claude-code-access-ai-coding-costs-surge.jpg",
+            "publishedAt": "2026-05-25 08:56:49"
+        },
+        {
+            "source": {
+                "name": "yespunjab"
+            },
+            "title": "Microsoft cuts Claude Code access as AI coding costs surge",
+            "url": "https://yespunjab.com/microsoft-cuts-claude-code-access-as-ai-coding-costs-surge/",
+            "urlToImage": "https://yespunjab.com/wp-content/uploads/2025/12/Microsoft-Building-logo.jpg",
+            "publishedAt": "2026-05-25 08:13:46"
+        },
+        {
+            "source": {
+                "name": "cellit_in"
+            },
+            "title": "Microsoft cuts Claude Code access as AI coding costs surge",
+            "url": "https://cellit.in/microsoft-cuts-claude-code-access-as-ai-coding-costs-surge/",
+            "urlToImage": "https://cellit.in/wp-content/uploads/2026/05/Microsoft.png",
+            "publishedAt": "2026-05-25 08:11:10"
+        },
+        {
+            "source": {
+                "name": "psuconnect_in"
+            },
+            "title": "HCLTech and Pegasystems Expand AI Partnership for Enterprise Modernization",
+            "url": "https://www.psuconnect.in/corporate-news/hcltech-and-pegasystems-expand-ai-partnership-for-enterprise-modernization",
+            "urlToImage": "https://admin.psuconnect.in/sdsdsd/HCLTech_and_Pegasystems_Expand_AI_Partnership_for_Enterprise_Modernization.jpg",
+            "publishedAt": "2026-05-25 07:41:00"
+        },
+        {
+            "source": {
+                "name": "aithority"
+            },
+            "title": "AI systems – Interoperable AI systems: Connecting models across platforms",
+            "url": "https://aithority.com/ait-featured-posts/ai-systems-interoperable-ai-systems-connecting-models-across-platforms/",
+            "urlToImage": "https://aithority.com/wp-content/uploads/2026/05/AI-systems-Interoperable-AI-systems-Connecting-models-across-platforms1.jpg",
+            "publishedAt": "2026-05-25 07:40:28"
         },
         {
             "source": {
@@ -3264,186 +3429,6 @@
             "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/tn-sets-up-dedicated-ministry-for-artificial-intelligence-1958169",
             "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/06/18/1984355-artificial-intelligence.jpg",
             "publishedAt": "2026-05-21T09:41:31Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Report: White House Postpones AI Executive Order Signing to Be Attended by Tech Titans",
-            "url": "https://www.breitbart.com/tech/2026/05/21/report-white-house-postpones-ai-executive-order-signing-to-be-attended-by-tech-titans/",
-            "urlToImage": "https://media.breitbart.com/media/2026/05/Tech-CEOs-at-Trump-inauguration-640x335.jpg",
-            "publishedAt": "2026-05-21T09:41:07Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "AMD to Invest More Than $10 Billion in Taiwan Chip Industry -- Update",
-            "url": "https://www.marketscreener.com/news/amd-to-invest-more-than-10-billion-in-taiwan-chip-industry-update-ce7f5aded88ff422",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-05-21T08:46:28Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "OVHcloud structures its key accounts organization in Europe to accelerate growth",
-            "url": "https://www.manilatimes.net/2026/05/21/tmt-newswire/globenewswire/ovhcloud-structures-its-key-accounts-organization-in-europe-to-accelerate-growth/2348908",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/21/1066328.png",
-            "publishedAt": "2026-05-21T08:37:40Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "As AI layoffs in America cross almost 50,000-plus, Donald Trump says: AI has been amazing, because ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-ai-layoffs-in-america-cross-almost-50000-plus-donald-trump-says-ai-has-been-amazing-because-/articleshow/131243227.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131243237,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-21T08:37:00Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "AI turned Samsung into a $1 trillion company. Its workers want a bigger slice of the pie",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2026/05/21/ai-turned-samsung-into-a-1-trillion-company-its-workers-want-a-bigger-slice-of-the-pie/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
-            "publishedAt": "2026-05-21T08:33:23Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "AI turned Samsung into a $1 trillion company. Its workers want a bigger slice of the pie",
-            "url": "https://edition.cnn.com/2026/05/21/tech/south-korea-samsung-strike-intl-hnk",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-21t011056z-561505800-rc2ddlagk4ts-rtrmadp-3-samsung-elec-dispute.JPG?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-05-21T08:33:23Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "The Great Comeback of Emerging Markets?",
-            "url": "https://www.marketscreener.com/news/the-great-comeback-of-emerging-markets-ce7f5aded88aff25",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2023-03-22T082132Z_1_LYNXMPEJ2L086_RTROPTP_3_GLOBAL-MARKETS.JPG",
-            "publishedAt": "2026-05-21T08:23:24Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Arizona college president booed after AI bot malfunctions, skips graduates names",
-            "url": "https://nypost.com/2026/05/21/us-news/arizona-college-president-tiffany-hernandez-booed-after-ai-bot-malfunctions-skips-graduates-names/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/05/128376088.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-05-21T08:03:03Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Trump set to sign AI cybersecurity directive as soon as Thursday",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/21/trump-set-to-sign-ai-cybersecurity-directive-as-soon-as-thursday",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/21/3919348.jpg",
-            "publishedAt": "2026-05-21T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Elon Musk hiring engineers for SpaceXAI, says no prior AI experience needed: ‘Smart humans figure it out fast’",
-            "url": "https://www.livemint.com/companies/elon-musk-hiring-engineers-for-spacexai-says-no-prior-ai-experience-needed-smart-humans-figure-it-out-fast-11779345571889.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/21/1600x900/logo/Elon_Musk_1779347230797_1779347230964_c742ed5b-a0e4-409e-bbbb-7f0e4909000b.jpg",
-            "publishedAt": "2026-05-21T07:56:21Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "After Kerala, Tamil Nadu also gets dedicated Ministry for Artificial Intelligence",
-            "url": "https://www.moneycontrol.com/news/india/after-kerala-tamil-nadu-also-gets-dedicated-ministry-for-artificial-intelligence-13926357.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/05/20260513034416_TVK-Vijay-.jpg",
-            "publishedAt": "2026-05-21T07:47:02Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "HSBC CEO Georges Elhedery to employees: AI will destroy some jobs, stop fighting with us and be ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/hsbc-ceo-georges-elhedery-to-employees-ai-will-destroy-some-jobs-stop-fighting-with-us-and-be-/articleshow/131241795.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131241780,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-21T06:56:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Trump administration working on AI safety rules for advanced models, may roll out executive order this week: Report",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/trump-administration-working-on-ai-safety-rules-for-advanced-models-may-roll-out-executive-order-this-week-report/articleshow/131241554.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131241545,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-21T06:39:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "AMD to Invest More Than $10 Billion in Taiwan's Chip Industry",
-            "url": "https://www.marketscreener.com/news/amd-to-invest-more-than-10-billion-in-taiwan-s-chip-industry-ce7f5aded988f72c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-05-21T06:30:18Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Scapia raises $63 million led by General Catalyst, to expand travel lifestyle offerings",
-            "url": "https://www.moneycontrol.com/technology/scapia-raises-63-million-led-by-general-catalyst-to-expand-travel-lifestyle-offerings-article-13926201.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/06/Anil-Goteti_CEO_Scapia-1.jpeg",
-            "publishedAt": "2026-05-21T06:24:57Z"
         }
     ]
 }
