@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-05-28T15:40:28.606573Z",
+    "lastUpdatedAt": "2026-05-28T18:33:09.350737Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "NBA to introduce AI-powered automated systems to increase game efficiency",
+            "url": "https://www.thenews.com.pk/latest/1403972-nba-to-introduce-ai-powered-automated-systems-to-increase-game-efficiency",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-05-28/1403972_111748_updates.jpg",
+            "publishedAt": "2026-05-28T06:17:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Salesforce beats expectations on AI strength, but still cautious on outlook",
+            "url": "https://www.marketscreener.com/news/salesforce-beats-expectations-on-ai-strength-but-still-cautious-on-outlook-ce7f5ad3d18ff62d",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-02-10T022546Z_1_LYNXMPEM1903P_RTROPTP_4_RETAIL-NRF-CONFERENCE.JPG",
+            "publishedAt": "2026-05-28T06:16:45Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Immigration Department: AI-generated or edited passport photos prohibited",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/28/immigration-department-ai-generated-or-edited-passport-photos-prohibited",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/28/3930761.jpg",
+            "publishedAt": "2026-05-28T06:00:00Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "Sam Altman’s AI job apocalypse REVERSAL looks like a calculated pivot as people fight for their livelihoods",
+            "url": "https://www.naturalnews.com/2026-05-28-sam-altman-ai-job-apocalypse-reversal-calculated-pivot.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/Sam-Altman-OpenAI.jpg",
+            "publishedAt": "2026-05-28T05:40:03Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Steven Spielberg on AI: Don’t believe there is any substitute for the soul",
+            "url": "https://www.lokmattimes.com/entertainment/steven-spielberg-on-ai-dont-believe-there-is-any-substitute-for-the-soul/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202605283804822_202605.jpg",
+            "publishedAt": "2026-05-28T05:32:59Z"
+        },
+        {
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+            },
+            "title": "May Mayhem 2026: Nearly 30,000 tech jobs were wiped out",
+            "url": "https://www.businesstoday.in/technology/news/story/may-mayhem-2026-nearly-30000-tech-jobs-were-wiped-out-533404-2026-05-28",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202605/6a157612678ce-may-tech-layoffs-2026-262932359-16x9.png",
+            "publishedAt": "2026-05-28T05:00:02Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Carson Block Is Rethinking Indian Fund Plan With Focus on AI",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-28/carson-block-is-rethinking-indian-fund-plan-with-focus-on-ai",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOT52PCisY9c/v0/1200x800.jpg",
+            "publishedAt": "2026-05-28T04:45:56Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "Pope Leo XIV Calls for Global Treaty to Restrict Autonomous Weapons in New Encyclical",
+            "url": "https://www.naturalnews.com/2026-05-28-pope-leo-calls-for-global-treaty-weapons.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/autonomous-weapons-artificial-intelligence-global-treaty-1716-original.jpg",
+            "publishedAt": "2026-05-28T04:42:32Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "AI chiefs walk back job apocalypse warnings",
+            "url": "https://www.thehindu.com/sci-tech/technology/ai-chiefs-walk-back-job-apocalypse-warnings/article71031858.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/n055cf/article71031861.ece/alternates/LANDSCAPE_1200/2026-05-22T065055Z_424559900_RC2LICAOMG4L_RTRMADP_3_SOFTCAT-OUTLOOK.JPG",
+            "publishedAt": "2026-05-28T04:42:14Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "UK cyberspying chief calls AI 'an unstoppable force' and warns about Russia",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/28/uk-cyberspying-chief-calls-ai-039an-unstoppable-force039-and-warns-about-russia",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/28/3930578.jpg",
+            "publishedAt": "2026-05-28T04:30:00Z"
+        },
         {
             "source": {
                 "id": "7f6e8514e9d8f8376aaa9a7229861518",
@@ -108,6 +228,42 @@
             "url": "https://www.invenglobal.com/articles/22273/nc-ai-wins-national-defense-physical-ai-project-with-hyundai-rotem-to-lead-world-model-development",
             "urlToImage": "https://static.invenglobal.com/upload/image/2026/05/28/r1779931575371195.jpeg",
             "publishedAt": "2026-05-28T01:23:19Z"
+        },
+        {
+            "source": {
+                "name": "enterpriseitworld"
+            },
+            "title": "Meesho and Google Cloud Partner to Build High-Performance Foundation for Next Phase of Growth",
+            "url": "https://www.enterpriseitworld.com/meesho-and-google-cloud-partner-to-build-high-performance-foundation-for-next-phase-of-growth/",
+            "urlToImage": "https://www.enterpriseitworld.com/wp-content/uploads/2026/05/Meesho.png",
+            "publishedAt": "2026-05-28 06:32:58"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Samsung Will Now SHARE AI-Driven Profits With Its Workers, After 18-Day Strike Threats: Here's Why",
+            "url": "https://www.livemint.com/videos/samsung-will-now-share-ai-driven-profits-with-its-workers-after-18-day-strike-threats-heres-why-11779948094191.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/28/1600x900/logo/hqdefault_1779948091849_1779948144736_4726e975-acf1-4f60-9057-5206d3350b6e.jpg",
+            "publishedAt": "2026-05-28 06:02:41"
+        },
+        {
+            "source": {
+                "name": "executivebiz"
+            },
+            "title": "AWS’ Christian Hoff Discusses AI Trends, Amazon Bedrock & Data Security",
+            "url": "https://www.executivebiz.com/articles/christian-hoff-aws-interview-ai-data-security-amazon-bedrock",
+            "urlToImage": "https://media.executivebiz.com/2026/05/christian-hoff-managing-director-gm-aws.jpg",
+            "publishedAt": "2026-05-28 04:00:00"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Meta Mulls Entering Cloud Computing Market To Compete With AWS and Azure Amid Massive AI Investment, 8,000 Layoffs",
+            "url": "https://www.latestly.com/technology/meta-mulls-entering-cloud-computing-market-to-compete-with-aws-and-azure-amid-massive-ai-investment-8000-layoffs-7449168.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/05/Mark-Zuckerberg_Wikimedia-commons.jpg",
+            "publishedAt": "2026-05-28 03:53:28"
         },
         {
             "source": {
@@ -3249,141 +3405,6 @@
             "url": "https://www.straitstimes.com/world/europe/pope-to-release-major-artificial-intelligence-manifesto",
             "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/b9805d90d384b9739b617837320334ccef66f09894152b39dd163e9d04cc5702",
             "publishedAt": "2026-05-25T02:27:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI's role in fitness: Balancing benefits against potential risks",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/25/ai039s-role-in-fitness-balancing-benefits-against-potential-risks",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/25/3924138.jpg",
-            "publishedAt": "2026-05-25T02:00:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Sebi weighs revamp of margin rules to reflect new-age market risks",
-            "url": "https://www.livemint.com/market/stock-market-news/sebi-weighs-revamp-of-margin-rules-to-reflect-new-age-market-risks-11779600894667.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/24/1600x900/logo/Sebi_1743523811650_1779633197131_e381ac46-a892-4a33-985d-95176fdc8a9f.JPG",
-            "publishedAt": "2026-05-25T00:31:57Z"
-        },
-        {
-            "source": {
-                "id": "eb5e2f8a99ce1e98768eb91c19e8668d",
-                "name": "Agenzia ANSA",
-                "url": "https://www.ansa.it",
-                "country": "it"
-            },
-            "title": "Pope's first encyclical, Magnifica Humanitas, presented in Vatican",
-            "url": "https://www.ansa.it/english/news/vatican/2026/05/25/popes-first-encyclical-magnifica-humanitas-presented-in-vatican_54cfc96f-f4d1-4339-a1ad-b05477b4e04d.html",
-            "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2026/5/25/314d027cdd16858448f49eca63cc908f.jpg",
-            "publishedAt": "2026-05-25T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Europe’s AI Uptake Hits 20 Percent Yet the Real Holdup Persists",
-            "url": "https://www.webpronews.com/europes-ai-uptake-hits-20-percent-yet-the-real-holdup-persists/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/05/article-17564-1779746922.jpeg",
-            "publishedAt": "2026-05-25 23:40:09"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Why AI ROI Isn’t About Cost Savings: Sonata Software’s Rajshekar Datta Roy on Value-Driven Transformation",
-            "url": "https://www.analyticsinsight.net/podcast/why-ai-roi-isnt-about-cost-savings-sonata-softwares-rajshekar-datta-roy-on-value-driven-transformation",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-05-25/z0gw4ki8/Rajsekhar-Datta-Roy.jpg",
-            "publishedAt": "2026-05-25 16:28:19"
-        },
-        {
-            "source": {
-                "name": "business2business_co_in"
-            },
-            "title": "The Agentic Revolution: Why Salesforce Is Betting Its Future on AI Agents",
-            "url": "https://www.business2business.co.in/article/5542/salesforce-agentic-revolution-ai-agents-agentforce-360",
-            "urlToImage": "https://business2business.co.in/uploads/2025/11/5dc12c00acb4f4359bd215f29965ab55.jpg",
-            "publishedAt": "2026-05-25 16:25:47"
-        },
-        {
-            "source": {
-                "name": "chromeunboxed"
-            },
-            "title": "Why one of Google’s biggest AI advantages is your oldest web-based habit",
-            "url": "https://chromeunboxed.com/why-one-of-googles-biggest-ai-advantages-is-your-oldest-web-based-habit/",
-            "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2026/05/GoogleSearchAIModeUpgrades.webp",
-            "publishedAt": "2026-05-25 15:22:21"
-        },
-        {
-            "source": {
-                "name": "nynewscast"
-            },
-            "title": "Rugged Server Market Expected to Reach US$ 1,376.46 Million by 2034",
-            "url": "https://nynewscast.com/rugged-server-market-expected-to-reach-us-1376-46-million-by-2034-222278/",
-            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-            "publishedAt": "2026-05-25 13:40:00"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "3 big takeaways from Pope Leo's letter on AI",
-            "url": "https://www.businessinsider.com/pope-leo-ai-encyclical-magnifica-humanitas-takeaways-jobs-developers-2026-5",
-            "urlToImage": "https://i.insider.com/6a143c1ab1025a62a5c86e70?width=1200&format=jpeg",
-            "publishedAt": "2026-05-25 12:55:12"
-        },
-        {
-            "source": {
-                "name": "itdigest"
-            },
-            "title": "Thales and Google Cloud Partner to Launch Sovereign Cloud Platform in Germany",
-            "url": "https://itdigest.com/cloud-computing-mobility/thales-and-google-cloud-partner-to-launch-sovereign-cloud-platform-in-germany/",
-            "urlToImage": "https://itdigest.com/wp-content/uploads/2026/05/Thales-Announces-Strategic-Partnership-with-Google-Cloud-to-Launch-a-New-Sovereign-Cloud-in-Germany.webp",
-            "publishedAt": "2026-05-25 12:01:23"
-        },
-        {
-            "source": {
-                "name": "technewsworld"
-            },
-            "title": "Google I/O 2026 Signals an Extinction Event for Standalone Apps",
-            "url": "https://www.technewsworld.com/story/google-i-o-2026-signals-an-extinction-event-for-standalone-apps-180348.html?rss=1",
-            "urlToImage": "https://www.technewsworld.com/wp-content/uploads/sites/3/2026/05/google-io-2026.jpg",
-            "publishedAt": "2026-05-25 12:00:34"
-        },
-        {
-            "source": {
-                "name": "ibtimes"
-            },
-            "title": "Is The AI Revolution More Expensive Than Promised",
-            "url": "https://www.ibtimes.co.in/ai-revolution-more-expensive-promised-902336",
-            "urlToImage": "https://data1.ibtimes.co.in/en/full/832698/ai-revolution-more-expensive-promised.png",
-            "publishedAt": "2026-05-25 11:59:40"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "HARTRON opens admissions for AI, Cyber Security and Digital Marketing courses across; check details and direct link here",
-            "url": "https://timesofindia.indiatimes.com/education/news/hartron-opens-admissions-for-ai-cyber-security-and-digital-marketing-courses-across-check-details-and-direct-link-here/articleshow/131307071.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-131307198/131307198.jpg",
-            "publishedAt": "2026-05-25 10:33:39"
-        },
-        {
-            "source": {
-                "name": "hindustantimes"
-            },
-            "title": "Class of 2026: Rise of data science degrees among young aspirants",
-            "url": "https://www.hindustantimes.com/education/features/class-of-2026-rise-of-data-science-degrees-among-young-aspirants-101779700822069.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/05/25/1600x900/logo/photo-1677442135703-1787eea5ce01_1779704028417_1779704035638_81482c98-6e78-4bcd-aa68-096b93acf9c0.jpg",
-            "publishedAt": "2026-05-25 10:14:32"
         }
     ]
 }
