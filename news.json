@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-05-29T20:13:54.197518Z",
+    "lastUpdatedAt": "2026-05-29T22:25:37.392597Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Microsoft-Backed OpenAI Reportedly Grants Japanese Banks Access to Latest AI Model for Cybersecurity",
+            "url": "https://www.marketscreener.com/news/microsoft-backed-openai-reportedly-grants-japanese-banks-access-to-latest-ai-model-for-cybersecurity-ce7f5ddbda8cf325",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-05-29T10:22:48Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Assessment Tool to Help Organizations Secure and Govern AI at Scale",
+            "url": "https://www.tribuneindia.com/news/business/ec-council-launches-adg-ai-framework-and-self-assessment-tool-to-help-organizations-secure-and-govern-ai-at-scale/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA3MzM2ZTIwLTViNDgtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-05-29T10:20:27Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Pench Tiger Reserve’s AI watchdog helps nab intruder",
+            "url": "https://timesofindia.indiatimes.com/city/bhopal/pench-tiger-reserves-ai-watchdog-helps-nab-intruder/articleshow/131388132.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-131388128,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-29T10:12:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Bank of Italy talking to AI firms over security risks for banks",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/29/bank-of-italy-talking-to-ai-firms-over-security-risks-for-banks",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/29/3933241.jpg",
+            "publishedAt": "2026-05-29T10:12:00Z"
+        },
+        {
+            "source": {
+                "id": "c97ef3cad273a1993c998ca7ddcc5212",
+                "name": "Daily Express",
+                "url": "https://www.express.co.uk",
+                "country": "gb"
+            },
+            "title": "POLL: Was Question Time wrong to use AI panel?",
+            "url": "https://www.express.co.uk/showbiz/tv-radio/2211099/poll-was-question-time-wrong",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/20/1200x630/6948608.jpg",
+            "publishedAt": "2026-05-29T10:02:00Z"
+        },
+        {
+            "source": {
+                "id": "63fb9bccf05610a30851df4c2d33289f",
+                "name": "MIT Technology Review",
+                "url": "https://www.technologyreview.com",
+                "country": "us"
+            },
+            "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+            "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26148386379363.jpg?resize=1200,600",
+            "publishedAt": "2026-05-29T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "How to enroll in Tesda’s free online AI and digital skills courses",
+            "url": "https://www.manilatimes.net/2026/05/29/news/national/how-to-enroll-in-tesdas-free-online-ai-and-digital-skills-courses/2354406",
+            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-05-29T09:56:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "India’s data centre capacity to cross 3 GW by 2028 on AI, hyperscaler demand: CBRE",
+            "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/indias-data-centre-capacity-to-exceed-3-gw-by-2028-fueled-by-ai-demand-and-hyperscale-growth/articleshow/131386729.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-131387141,width-1200,height-630,imgsize-168954,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-05-29T09:44:00Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Forget Gold And Oil: AI Tokens Are Becoming Wall Street's Next Big Bet",
+            "url": "https://www.ndtv.com/feature/forget-gold-and-oil-ai-tokens-are-becoming-wall-streets-next-big-bet-11563737",
+            "urlToImage": "https://c.ndtvimg.com/2026-05/2ds4mg1o_ai-tokens_625x300_29_May_26.jpeg",
+            "publishedAt": "2026-05-29T09:40:51Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "AI can help revive Italy’s sluggish labour productivity, Fabio Panetta says",
+            "url": "https://www.thenews.com.pk/latest/1404051-ai-can-help-revive-italys-sluggish-labour-productivity-fabio-panetta-says",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-05-29/1404051_023751_updates.jpg",
+            "publishedAt": "2026-05-29T09:37:00Z"
+        },
         {
             "source": {
                 "id": "79baacd62152cf257ee35e8c0bec19a2",
@@ -240,6 +360,33 @@
             "url": "https://economictimes.indiatimes.com/tech/technology/industry-expects-policy-continuity-faster-execution-under-shivakumar-in-karnataka/articleshow/131376498.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-57310,resizemode-75,msid-131376498/tech/technology/industry-expects-policy-continuity-faster-execution-under-shivakumar-in-karnataka.jpg",
             "publishedAt": "2026-05-29T00:31:00Z"
+        },
+        {
+            "source": {
+                "name": "scientificamerican"
+            },
+            "title": "How smartphones and AI are reshaping our bodies and minds",
+            "url": "https://www.scientificamerican.com/podcast/episode/how-smartphones-and-ai-are-reshaping-our-bodies-and-minds/",
+            "urlToImage": "https://static.scientificamerican.com/dam/asset/0000039b-87f2-49dd-88bb-16d4f7618b3e/2605_SQ_FRI_BODY_DIGITAL.png?m=1780004975.4&w=1200",
+            "publishedAt": "2026-05-29 10:00:00"
+        },
+        {
+            "source": {
+                "name": "caribbeannewsglobal"
+            },
+            "title": "The opportunities and risks AI presents for the economy and financial system",
+            "url": "https://caribbeannewsglobal.com/the-opportunities-and-risks-ai-presents-for-the-economy-and-financial-system/",
+            "urlToImage": "https://caribbeannewsglobal.com/wp-content/uploads/2023/04/lisa_cook.jpg",
+            "publishedAt": "2026-05-29 09:22:45"
+        },
+        {
+            "source": {
+                "name": "brandiconimage"
+            },
+            "title": "Taiwan’s AI Moment Takes Center Stage as Computex Draws Global Chip Heavyweights",
+            "url": "http://www.brandiconimage.com/2026/05/taiwans-ai-moment-takes-center-stage-as.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheyODwqTsOPC88G-HXlbP_LJUWjgoR8lWGtg2sXudFWQaDvVRiabee1ucsZqq2Gt49bEZsfLIvajzVBZ8RTq21IhjVAjuhWE3x2jgFyqpzQVAWu0ZcYhca6Vk-PIlFUwqvAtIOHwGR30yMxXGBLb92m6WV3T5UCatrX9fu3AVZu5GGB_JBL6CQvmaI3Hk/w1200-h675-p-k-no-nu/1000855561.jpg",
+            "publishedAt": "2026-05-29 08:38:20"
         },
         {
             "source": {
@@ -3234,162 +3381,6 @@
             "url": "https://www.fool.com.au/2026/05/26/2-asx-tech-shares-that-could-survive-the-ai-shakeout/",
             "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/11/technology-AI-16.9-1200x675.jpg",
             "publishedAt": "2026-05-26T06:10:30Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "India’s AI market may cross $500 billion, reshape office demand: Report",
-            "url": "https://www.lokmattimes.com/technology/indias-ai-market-may-cross-500-billion-reshape-office-demand-report-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202605263802091_202605.jpg",
-            "publishedAt": "2026-05-26T06:01:51Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "India’s AI market may cross $500 billion, reshape office demand: Report",
-            "url": "https://www.lokmattimes.com/business/indias-ai-market-may-cross-500-billion-reshape-office-demand-report/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202605263802091_202605.jpg",
-            "publishedAt": "2026-05-26T06:01:51Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Pope’s first big fight isn’t over religion – it’s over AI",
-            "url": "https://www.afr.com/technology/pope-s-first-big-fight-isn-t-over-religion-it-s-over-ai-20260526-p600ve",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.1226%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_10/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/0b207abc464bafee462d1a97754895403a97e7c1",
-            "publishedAt": "2026-05-26T06:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "​How TSMC and AI mania helped Taiwan leapfrog India in global equity rankings",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/how-tsmc-and-ai-mania-helped-taiwan-leapfrog-india-in-global-equity-rankings/slideshow/131322794.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-131322794,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-            "publishedAt": "2026-05-26T05:57:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "India: The New Growth Engine in Asia-Pac's AI and Energy Landscape",
-            "url": "https://www.devdiscourse.com/article/business/3921823-india-the-new-growth-engine-in-asia-pacs-ai-and-energy-landscape",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/26_05_2026_11_22_04_968277.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-05-26T05:52:10Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Nvidia CEO Jensen Huang reveals the one skill college graduates must have to get hired",
-            "url": "https://www.financialexpress.com/life/technology-nvidia-ceo-jensen-huang-reveals-the-one-skill-college-graduates-must-have-to-get-hired-4251213/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/03/1_11f72b.jpg",
-            "publishedAt": "2026-05-26T04:29:46Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "West Asia easing and AI trade cooling could revive India interest: Allspring’s Paroda",
-            "url": "https://www.cnbctv18.com/market/india-markets-west-asia-oil-ai-trade-outlook-allspring-global-investments-19913237.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/05/1779250317_joy0HgR2OE-artificialintelligence2Apr09jpg-9XoknFhWqi.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2026-05-26T04:18:55Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "‘Disarm AI’: Pope Leo XIV issues stark warning over rapid artificial intelligence growth",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/pope-leo-xiv-issues-stark-warning-over-rapid-ai-growth-10707991/",
-            "urlToImage": "https://images.indianexpress.com/2026/04/US_ce9808.jpg",
-            "publishedAt": "2026-05-26T04:10:20Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI needs moral oversight beyond tech labs, says Anthropic co",
-            "url": "https://www.tribuneindia.com/news/business/ai-needs-moral-oversight-beyond-tech-labs-says-anthropic-co-founder-chris-olah-at-vatican/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc0OTFmY2UwLTU4YjctMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-05-26T04:00:29Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "This AI tool helps keep blood sugar in check for diabetes patients",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/26/this-ai-tool-helps-keep-blood-sugar-in-check-for-diabetes-patients",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/26/3927241.jpeg",
-            "publishedAt": "2026-05-26T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Palantir (PLTR) Stock Needs Strong Customer Retention to Defend Its Premium",
-            "url": "https://markets.businessinsider.com/news/stocks/palantir-pltr-stock-needs-strong-customer-retention-to-defend-its-premium-1036193394",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/PLTR-Stock-Analysis-1.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-05-26T03:47:29Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "Pope Leo says AI must be ‘disarmed’ in first major teaching",
-            "url": "https://www.nation.com.pk/26-May-2026/pope-leo-says-ai-must-disarmed-first-major-teaching",
-            "urlToImage": "https://www.nation.com.pk/print_images/large/2026-05-26/pope-leo-says-ai-must-disarmed-first-major-teaching-1779766047-5634.jpg",
-            "publishedAt": "2026-05-26T03:27:00Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "Pope says AI should be ‘disarmed’ to avoid dominating humanity",
-            "url": "https://www.japantimes.co.jp/news/2026/05/26/world/pope-ai-disarmed/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/26/542473.jpg?v=3.1",
-            "publishedAt": "2026-05-26T03:14:21Z"
         }
     ]
 }
