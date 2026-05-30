@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2026-05-30T04:49:14.151301Z",
+    "lastUpdatedAt": "2026-05-30T07:37:15.581388Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Researchers develop open source framework for health AI research",
+            "url": "https://www.news-medical.net/news/20260529/Researchers-develop-open-source-framework-for-health-AI-research.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Electronic_Health_Record-620x480.jpg",
+            "publishedAt": "2026-05-29T19:29:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "UK banks still lack access to Mythos AI model, BoE's Bailey says",
+            "url": "https://www.marketscreener.com/news/uk-banks-still-lack-access-to-mythos-ai-model-boe-s-bailey-says-ce7f5ddbd18df425",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-29T093059Z_1_LYNXMPEM4S0L4_RTROPTP_4_BRITAIN-BOE-BAILEY.JPG",
+            "publishedAt": "2026-05-29T18:51:20Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "UK banks still lack access to Mythos AI model, BoE's Bailey says",
+            "url": "https://www.reuters.com/legal/litigation/uk-banks-still-lack-access-mythos-ai-model-boes-bailey-says-2026-05-29/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/3IR2CBFJ6JNAHDZLDIXQKWFD7Q.jpg?auth=4a062dd976453339b452fc612533598e16e0845df6afb2e481ba94cb873de3df&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-05-29T18:50:54Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "India Inc deepens AI adoption to stay ahead of legal curve",
+            "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/india-inc-deepens-ai-adoption-to-stay-ahead-of-legal-curve/articleshow/131397650.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-131397715,width-1200,height-630,imgsize-149968,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-05-29T18:47:00Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "‘Artificial Intelligence Must Be Disarmed’ - Pope Leo Calls Out the Tech Giants Turning AI Into an ‘Instrument of Domination, Exclusion, and Death’",
+            "url": "https://www.barchart.com/story/news/2205845/artificial-intelligence-must-be-disarmed-pope-leo-calls-out-the-tech-giants-turning-ai-into-an-instrument-of-domination-exclusion-and-death",
+            "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/2d%20illustration%20of%20Cloud%20computing%20by%20Blackboard%20via%20Shutterstock.jpg",
+            "publishedAt": "2026-05-29T18:34:25Z"
+        },
+        {
+            "source": {
+                "id": "6bc94426ae0cbbdb312f14c0f86b4708",
+                "name": "Ubergizmo",
+                "url": "https://www.ubergizmo.com",
+                "country": "us"
+            },
+            "title": "CNN Files Copyright Infringement Lawsuit Against AI Startup Perplexity",
+            "url": "https://www.ubergizmo.com/2026/05/cnn-lawsuit-perplexity/",
+            "urlToImage": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2026/05/perplexity-app-scaled.jpg",
+            "publishedAt": "2026-05-29T18:25:18Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "How Anthropic’s Mythos pushed Bank of Italy to talk with tech companies over hacking risks",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-anthropics-mythos-pushed-bank-of-italy-to-talk-with-tech-companies-over-hacking-risks/articleshow/131396999.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-131396994,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-29T18:07:00Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "AI-backed reforms pave way for OECD",
+            "url": "https://www.bangkokpost.com/thailand/general/3263070/aibacked-reforms-pave-way-for-oecd",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260530/c1_3263070_260530081103_700.jpg",
+            "publishedAt": "2026-05-29T18:01:00Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "Pope Leo XIV Warns AI Threatens Human Dignity, Compares it to Tower of Babel",
+            "url": "https://www.naturalnews.com/2026-05-29-pope-leo-xiv-ai-threatens-human-dignity.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/pope-leo-xiv-magnifica-humanitas-artificial-intelligence-1717-original.jpg",
+            "publishedAt": "2026-05-29T17:05:21Z"
+        },
         {
             "source": {
                 "id": "0a4c92a1a91d0994627a96e134064d69",
@@ -540,6 +648,33 @@
             "url": "https://economictimes.indiatimes.com/tech/technology/industry-expects-policy-continuity-faster-execution-under-shivakumar-in-karnataka/articleshow/131376498.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-57310,resizemode-75,msid-131376498/tech/technology/industry-expects-policy-continuity-faster-execution-under-shivakumar-in-karnataka.jpg",
             "publishedAt": "2026-05-29T00:31:00Z"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "PNNL Researchers Showcase AI Leadership at AI+ Expo",
+            "url": "https://www.hpcwire.com/off-the-wire/pnnl-researchers-showcase-ai-leadership-at-ai-expo/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2026/05/NSD_2891_WEB_AIexpoNews_0.jpg",
+            "publishedAt": "2026-05-29 18:22:56"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Box CEO says tech executives develop \"AI psychosis\" by staying too far from real-world implementation",
+            "url": "https://completeaitraining.com/news/box-ceo-says-tech-executives-develop-ai-psychosis-by/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/box-ceo-says-tech-executives-develop-ai-psychosis-by-staying-too-far-from-real-w_2026-05-29.jpg",
+            "publishedAt": "2026-05-29 17:37:28"
+        },
+        {
+            "source": {
+                "name": "idropnews"
+            },
+            "title": "Apple Lines Up Heavy AI Push for WWDC 2026 and CVPR",
+            "url": "https://www.idropnews.com/news/apple-ai-push-wwdc-2026-cvpr/264233/",
+            "urlToImage": "https://www.idropnews.com/wp-content/uploads/2024/06/Apple-Intelligence-concept-image.jpg",
+            "publishedAt": "2026-05-29 17:09:33"
         },
         {
             "source": {
@@ -3195,150 +3330,6 @@
             "url": "https://www.billboard.com/pro/how-italys-siae-shapes-the-future-of-copyright-protection/",
             "urlToImage": "https://www.billboard.com/wp-content/uploads/2026/05/Matteo-Fedeli-Billboard-1800.jpg?w=1024",
             "publishedAt": "2026-05-26T18:32:41Z"
-        },
-        {
-            "source": {
-                "id": "8500efae8310099b1bcee1ef95a0434e",
-                "name": "KABC-TV",
-                "url": "https://abc7.com",
-                "country": "us"
-            },
-            "title": "Mom out thousands after scammers use AI to mimic daughter's voice in fake kidnapping",
-            "url": "https://abc7.com/post/california-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19175361/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/19163624_052426-kgo-ai-kidnap-scam-img.jpg?w=1600",
-            "publishedAt": "2026-05-26T18:10:00Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "Emerging currencies slide as Iran war 'confusion’ jolts market",
-            "url": "https://www.cnbctv18.com/market/emerging-currencies-slide-as-iran-war-confusion-jolts-market-ws-l-19913978.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/03/2026-03-11t191509z-1328195216-rc2b2kar6gp0-rtrmadp-3-iran-crisis-drones-sea-2026-03-36fe745cdd5d0168beee2a26afd12208.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2026-05-26T17:41:22Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "CFA Institute Announces 2027 Curriculum Updates With New Modules On AI, Financial Data Science And Practical Skills",
-            "url": "https://www.freepressjournal.in/education/cfa-institute-announces-2027-curriculum-updates-with-new-modules-on-ai-financial-data-science-and-practical-skills",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-05-26/eczig1w1/Untitled-design-2026-05-26T224459.697.jpg",
-            "publishedAt": "2026-05-26T17:16:32Z"
-        },
-        {
-            "source": {
-                "id": "49a7f1ba9210f605feb836064eb8351e",
-                "name": "Euro Weekly News",
-                "url": "https://euroweeklynews.com",
-                "country": "es"
-            },
-            "title": "New law in Spain targets AI fake sexual images after growing fears over online abuse",
-            "url": "https://euroweeklynews.com/2026/05/26/new-law-in-spain-targets-ai-fake-sexual-images-after-growing-fears-over-online-abuse/",
-            "urlToImage": "https://euroweeklynews.com/wp-content/uploads/2026/05/260526-rueda-prensa-ministros-oscar-lopez.jpg",
-            "publishedAt": "2026-05-26T17:15:25Z"
-        },
-        {
-            "source": {
-                "id": "967c0cb40338f57cf71cfa281c64caa9",
-                "name": "New York Magazine",
-                "url": "https://nymag.com",
-                "country": "us"
-            },
-            "title": "Pope Leo’s AI Warning Comes at Just the Right Time",
-            "url": "https://nymag.com/intelligencer/article/pope-leos-ai-warning-comes-at-just-the-right-time.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/8b0/aeb/dde6b2701313c48c7b4cde985f4e880782-screentime-Pope.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-05-26T17:07:51Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "Palantir Stock Is Down 34% from Its Highs. Don’t Miss This Chance to Buy the Dip.",
-            "url": "https://www.barchart.com/story/news/2134228/palantir-stock-is-down-34-from-its-highs-dont-miss-this-chance-to-buy-the-dip",
-            "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/A%20Palantir%20office%20building%20in%20Tokyo_%20Image%20by%20Hiroshi-Mori-Stock%20via%20Shutterstock_.jpg",
-            "publishedAt": "2026-05-26T17:04:28Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Qualcomm Strikes AI Chip Deal With TikTok Owner ByteDance",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-26/qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ig5_KVubyuDc/v1/1200x800.jpg",
-            "publishedAt": "2026-05-26T14:44:08Z"
-        },
-        {
-            "source": {
-                "id": "5b6f0ebae6849a492c43bf298cf595ef",
-                "name": "TIME",
-                "url": "https://time.com",
-                "country": "us"
-            },
-            "title": "AI Tools Are Transforming Muslim Worship",
-            "url": "https://time.com/article/2026/05/26/ai-muslim-worship/",
-            "urlToImage": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt00d699bca006ea74/6a109928a5dd820b3ed7b74d/ai-tools-muslin-worship.jpg?branch=production&width=3840&quality=75&auto=webp&crop=16:9%2Coffset-x0.00%2Coffset-y0.00",
-            "publishedAt": "2026-05-26T14:37:40Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "AI not behind layoffs? Jensen Huang rebukes CEOs over blame-game months after ‘AI cost’ claims",
-            "url": "https://www.financialexpress.com/trending/ai-not-behind-layoffs-jensen-huang-rebukes-ceos-over-blame-game-months-after-ai-cost-claims/4251551/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/05/trump-jensen-huang-china_20260526141908.jpg",
-            "publishedAt": "2026-05-26T14:22:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "What is the Tower of Babel? Pope Leo XIV compares AI risk to ancient biblical warning",
-            "url": "https://timesofindia.indiatimes.com/world/rest-of-world/what-is-the-tower-of-babel-pope-leo-xiv-compares-ai-risk-to-ancient-biblical-warning/articleshow/131331383.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131331510,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-26T14:19:00Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI model links tumor mutations to treatment response",
-            "url": "https://medicalxpress.com/news/2026-05-ai-links-tumor-mutations-treatment.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/ai-model-links-tumor-m.jpg",
-            "publishedAt": "2026-05-26T14:00:11Z"
-        },
-        {
-            "source": {
-                "id": "e98c4d2585c4c5661ffe60fed4d51930",
-                "name": "BOL News",
-                "url": "https://www.bolnews.com",
-                "country": "pk"
-            },
-            "title": "OpenAI Sam Altman dismisses fears of AI-driven job losses",
-            "url": "https://www.bolnews.com/technology/openai-sam-altman-dismisses-fears-of-ai-driven-job-losses/",
-            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2026/05/FotoJet-2026-05-26T185302.678.webp",
-            "publishedAt": "2026-05-26T13:57:21Z"
         }
     ]
 }
