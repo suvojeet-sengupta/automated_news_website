@@ -1,6 +1,207 @@
 {
-    "lastUpdatedAt": "2026-06-01T11:40:15.919282Z",
+    "lastUpdatedAt": "2026-06-01T17:29:21.199717Z",
     "articles": [
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "'Destroy AI': Ronny Chieng's Harvard speech strikes a nerve with Gen Z graduates",
+            "url": "https://www.firstpost.com/tech/destroy-ai-ronny-chiengs-harvard-speech-strikes-a-nerve-with-gen-z-graduates-14017416.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/06/Comedian-Ronny-Chieng-2026-06-1e6a234ad4edb2d06ddb7bff2ffe3328-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-06-01T05:28:02Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "As the Pentagon pushes for battlefield AI, some military leaders urge caution",
+            "url": "https://www.thehindu.com/sci-tech/technology/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/article71046844.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/l8ck3v/article71046848.ece/alternates/LANDSCAPE_1200/2026-05-31T153624Z_2037680767_RC2DKLAU6WKF_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL.JPG",
+            "publishedAt": "2026-06-01T05:27:08Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "SoftBank overtakes Toyota as Japan's most valuable company",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-overtakes-toyota-as-japans-most-valuable-company/articleshow/131434732.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-131434743,width-1200,height-630,imgsize-77364,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-06-01T05:21:00Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Meet Arvind Jain, Indian-origin CEO in US who thinks ‘AI can’t replace humans yet’",
+            "url": "https://www.financialexpress.com/life/technology-meet-arvind-jain-indian-origin-ceo-in-us-who-thinks-ai-cant-replace-humans-yet-4256037/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/06/glean.jpg",
+            "publishedAt": "2026-06-01T05:09:05Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Stock markets across Asia rise as oil prices shoot above $93 a barrel",
+            "url": "https://www.thenews.com.pk/latest/1404357-stock-markets-across-asia-rise-as-oil-prices-shoot-above-93-a-barrel",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-06-01/1404357_100401_updates.jpg",
+            "publishedAt": "2026-06-01T04:59:01Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Japan, South Korea stocks hit more records, as oil gains on Iran war ending fragility",
+            "url": "https://wtop.com/world/2026/06/japan-south-korea-stocks-hit-more-records-as-oil-gains-on-iran-war-ending-fragility/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/06/South_Korea_Financial_Markets__6566-scaled.jpg",
+            "publishedAt": "2026-06-01T04:41:04Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "How artificial intelligence is transforming the Hajj experience in Saudi Arabia | Watch",
+            "url": "https://www.firstpost.com/tech/how-artificial-intelligence-is-transforming-the-hajj-experience-in-saudi-arabia-watch-14017378.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/06/Hajj-2026-06-bac152a399cfc5b668a4c135e1b04024-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-06-01T04:37:34Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "Japan, South Korea stocks hit more records, as oil gains on Iran war ending fragility",
+            "url": "https://www.barchart.com/story/news/2226863/japan-south-korea-stocks-hit-more-records-as-oil-gains-on-iran-war-ending-fragility",
+            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/fc6893e377ff41178f3bdf4f952ffe64/fc6893e377ff41178f3bdf4f952ffe64_main_south_korea_financial_markets_26559.jpg",
+            "publishedAt": "2026-06-01T04:35:21Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Markets in Japan and South Korea hit more records",
+            "url": "https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c",
+            "urlToImage": "https://dims.apnews.com/dims4/default/4bf2cff/2147483647/strip/true/crop/3939x2625+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2F86%2F213a6302fb44a5924e8a265ac972%2Fbb8ad72200dd407da782e04358579f19",
+            "publishedAt": "2026-06-01T04:35:21Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Japan, South Korea stocks hit more records, as oil gains on Iran war ending fragility",
+            "url": "https://www.clickondetroit.com/business/2026/06/01/japan-south-korea-stocks-hit-more-records-as-oil-gains-on-iran-war-ending-fragility/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/OMMNZFOW3BCH5LNJI5KK5ORQN4.jpg?_a=DATAg1fkZAA0",
+            "publishedAt": "2026-06-01T04:35:20Z"
+        },
+        {
+            "source": {
+                "name": "dqchannels"
+            },
+            "title": "Acer unveils Swift Air 14 and 100-TOPS Swift spin 14 AI convertible laptops",
+            "url": "https://www.dqchannels.com/news/acer-unveils-swift-air-14-and-100-tops-swift-spin-14-ai-convertible-laptops-11893413",
+            "urlToImage": "https://img-cdn.publive.online/dqc/media/media_files/2026/05/31/acer-unveils-swift-air-14-and-100-tops-swift-spin-14-ai-convertible-laptops-2026-05-31-18-08-58.png",
+            "publishedAt": "2026-06-01 05:15:37"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis",
+            "url": "https://www.benzinga.com/pressreleases/26/06/g52895580/nvidia-launches-alpamayo-2-super-open-reasoning-model-for-robotaxis",
+            "urlToImage": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
+            "publishedAt": "2026-06-01 04:46:22"
+        },
+        {
+            "source": {
+                "name": "norfolkdailynews"
+            },
+            "title": "NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis",
+            "url": "https://norfolkdailynews.com/online_features/press_releases/nvidia-launches-alpamayo-2-super-open-reasoning-model-for-robotaxis/article_345faac1-79c2-5145-9cc1-088690dc497a.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/custom/image/72aed2a4-e15d-11e5-99a9-77342f37c000.jpg?resize=600%2C315",
+            "publishedAt": "2026-06-01 04:46:22"
+        },
+        {
+            "source": {
+                "name": "nynewscast"
+            },
+            "title": "NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis",
+            "url": "https://nynewscast.com/nvidia-launches-alpamayo-2-super-open-reasoning-model-for-robotaxis-224177/",
+            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+            "publishedAt": "2026-06-01 04:46:00"
+        },
+        {
+            "source": {
+                "name": "norfolkdailynews"
+            },
+            "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI",
+            "url": "https://norfolkdailynews.com/online_features/press_releases/nvidia-and-microsoft-reinvent-windows-pcs-for-the-age-of-personal-ai/article_3cb03057-80b4-55d1-9dbc-8d9120a20cfb.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/custom/image/72aed2a4-e15d-11e5-99a9-77342f37c000.jpg?resize=600%2C315",
+            "publishedAt": "2026-06-01 04:26:42"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI",
+            "url": "https://www.benzinga.com/pressreleases/26/06/g52895533/nvidia-and-microsoft-reinvent-windows-pcs-for-the-age-of-personal-ai",
+            "urlToImage": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
+            "publishedAt": "2026-06-01 04:26:42"
+        },
+        {
+            "source": {
+                "name": "nynewscast"
+            },
+            "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI",
+            "url": "https://nynewscast.com/nvidia-and-microsoft-reinvent-windows-pcs-for-the-age-of-personal-ai-224183/",
+            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+            "publishedAt": "2026-06-01 04:26:00"
+        },
+        {
+            "source": {
+                "name": "neowin"
+            },
+            "title": "People are using prompt injection to trick Meta's AI into handing over Instagram accounts",
+            "url": "https://www.neowin.net/news/people-are-using-prompt-injection-to-trick-metas-ai-into-handing-over-instagram-accounts/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/07/1751342103_instagram_story.webp",
+            "publishedAt": "2026-06-01 04:10:01"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Intel touts 130-plus edge design wins for Series 3 and launches OpenVINO Physical AI framework",
+            "url": "https://siliconangle.com/2026/05/31/intel-touts-130-plus-edge-design-wins-series-3-launches-openvino-physical-ai-framework/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/intelcomputex.png",
+            "publishedAt": "2026-06-01 03:00:30"
+        },
         {
             "source": {
                 "id": "85b540771682043e2a9f294068f5345b",
@@ -3225,234 +3426,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/05/28/ai-chiefs-walk-back-job-apocalypse-warnings",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/28/3930692.jpg",
             "publishedAt": "2026-05-28T07:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "IAIRO appoints AvenuesAI's CMD Vishal Mehta as Technical Advisor",
-            "url": "https://www.tribuneindia.com/news/business/iairo-appoints-avenuesais-cmd-vishal-mehta-as-technical-advisor/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIzMTJmZTUwLTVhNjEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-05-28T06:51:41Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "North Korea Says It Successfully Tested AI-Guided Missile",
-            "url": "https://www.breitbart.com/asia/2026/05/28/north-korea-says-it-successfully-tested-ai-guided-missile/",
-            "urlToImage": "https://media.breitbart.com/media/2026/05/AP26127852212134-640x335.png",
-            "publishedAt": "2026-05-28T06:48:50Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "NBA to introduce AI-powered automated systems to increase game efficiency",
-            "url": "https://www.thenews.com.pk/latest/1403972-nba-to-introduce-ai-powered-automated-systems-to-increase-game-efficiency",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-05-28/1403972_111748_updates.jpg",
-            "publishedAt": "2026-05-28T06:17:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Salesforce beats expectations on AI strength, but still cautious on outlook",
-            "url": "https://www.marketscreener.com/news/salesforce-beats-expectations-on-ai-strength-but-still-cautious-on-outlook-ce7f5ad3d18ff62d",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-02-10T022546Z_1_LYNXMPEM1903P_RTROPTP_4_RETAIL-NRF-CONFERENCE.JPG",
-            "publishedAt": "2026-05-28T06:16:45Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Immigration Department: AI-generated or edited passport photos prohibited",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/28/immigration-department-ai-generated-or-edited-passport-photos-prohibited",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/28/3930761.jpg",
-            "publishedAt": "2026-05-28T06:00:00Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Sam Altman’s AI job apocalypse REVERSAL looks like a calculated pivot as people fight for their livelihoods",
-            "url": "https://www.naturalnews.com/2026-05-28-sam-altman-ai-job-apocalypse-reversal-calculated-pivot.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/Sam-Altman-OpenAI.jpg",
-            "publishedAt": "2026-05-28T05:40:03Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Steven Spielberg on AI: Don’t believe there is any substitute for the soul",
-            "url": "https://www.lokmattimes.com/entertainment/steven-spielberg-on-ai-dont-believe-there-is-any-substitute-for-the-soul/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202605283804822_202605.jpg",
-            "publishedAt": "2026-05-28T05:32:59Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "May Mayhem 2026: Nearly 30,000 tech jobs were wiped out",
-            "url": "https://www.businesstoday.in/technology/news/story/may-mayhem-2026-nearly-30000-tech-jobs-were-wiped-out-533404-2026-05-28",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202605/6a157612678ce-may-tech-layoffs-2026-262932359-16x9.png",
-            "publishedAt": "2026-05-28T05:00:02Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Carson Block Is Rethinking Indian Fund Plan With Focus on AI",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-28/carson-block-is-rethinking-indian-fund-plan-with-focus-on-ai",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOT52PCisY9c/v0/1200x800.jpg",
-            "publishedAt": "2026-05-28T04:45:56Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Pope Leo XIV Calls for Global Treaty to Restrict Autonomous Weapons in New Encyclical",
-            "url": "https://www.naturalnews.com/2026-05-28-pope-leo-calls-for-global-treaty-weapons.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/autonomous-weapons-artificial-intelligence-global-treaty-1716-original.jpg",
-            "publishedAt": "2026-05-28T04:42:32Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "AI chiefs walk back job apocalypse warnings",
-            "url": "https://www.thehindu.com/sci-tech/technology/ai-chiefs-walk-back-job-apocalypse-warnings/article71031858.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/n055cf/article71031861.ece/alternates/LANDSCAPE_1200/2026-05-22T065055Z_424559900_RC2LICAOMG4L_RTRMADP_3_SOFTCAT-OUTLOOK.JPG",
-            "publishedAt": "2026-05-28T04:42:14Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "UK cyberspying chief calls AI 'an unstoppable force' and warns about Russia",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/28/uk-cyberspying-chief-calls-ai-039an-unstoppable-force039-and-warns-about-russia",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/05/28/3930578.jpg",
-            "publishedAt": "2026-05-28T04:30:00Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "ABC managing director Hugh Marks defends AI radio news trial",
-            "url": "https://www.perthnow.com.au/news/abc-managing-director-hugh-marks-defends-ai-radio-news-trial-c-22350018",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-22350018/ce67b0b345ddf83c2c881908d7629d9ae2576a28-16x9-x0y790w2048h1152.jpg?imwidth=1200",
-            "publishedAt": "2026-05-28T03:38:16Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "generated shows for children",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-greenlights-ai-generated-shows-for-children/articleshow/131361817.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-69438,resizemode-75,msid-131361817/tech/artificial-intelligence/amazon-greenlights-ai-generated-shows-for-children.jpg",
-            "publishedAt": "2026-05-28T03:16:06Z"
-        },
-        {
-            "source": {
-                "id": "94466d37d8c67a438250646866df36df",
-                "name": "SBS Australia",
-                "url": "https://www.sbs.com.au",
-                "country": "au"
-            },
-            "title": "AI's role in medicine and how much we can rely on it",
-            "url": "https://www.sbs.com.au/language/indonesian/en/podcast-episode/ais-role-in-medicine-and-how-much-we-can-rely-on-it/nc2ekf1ei",
-            "urlToImage": "https://assets.sbs.com.au/dims4/default/8fc6dd7/2147483647/strip/true/crop/2120x1192+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F4f%2Fe2%2F8e7d354543e5b9c1ccc424cc5c8d%2Fai-medical.jpg",
-            "publishedAt": "2026-05-28T03:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI chiefs walk back job apocalypse warnings",
-            "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/ai-job-losses-layoffs-artificial-intelligence-chiefs-jensen-huang-sam-altman-walk-back-job-apocalypse-warnings/articleshow/131361712.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-131361738,width-1200,height-630,imgsize-23272,overlay-etcareers/articleshow.jpg",
-            "publishedAt": "2026-05-28T02:22:00Z"
-        },
-        {
-            "source": {
-                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
-                "name": "Deadline",
-                "url": "https://deadline.com",
-                "country": "us"
-            },
-            "title": "Steven Spielberg On \"Where I Draw The Line\" With AI",
-            "url": "https://deadline.com/2026/05/steven-spielberg-where-draw-the-line-ai-1236928790/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/P105NWUQ-e1779933098290.jpg?w=798",
-            "publishedAt": "2026-05-28T02:17:07Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "positioned to become global leader in multilingual, multimodal AI solutions: Google Cloud India MD",
-            "url": "https://www.tribuneindia.com/news/business/india-well-positioned-to-become-global-leader-in-multilingual-multimodal-ai-solutions-google-cloud-india-md/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc5YzliMDIwLTVhM2EtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-05-28T02:10:56Z"
-        },
-        {
-            "source": {
-                "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
-                "name": "InvenGlobal",
-                "url": "https://www.invenglobal.com",
-                "country": "us"
-            },
-            "title": "NC AI Wins National Defense Physical AI Project with Hyundai Rotem, to Lead 'World Model' Development",
-            "url": "https://www.invenglobal.com/lol/articles/22273/nc-ai-wins-national-defense-physical-ai-project-with-hyundai-rotem-to-lead-world-model-development",
-            "urlToImage": "https://static.invenglobal.com/upload/image/2026/05/28/r1779931575371195.jpeg",
-            "publishedAt": "2026-05-28T01:23:19Z"
         }
     ]
 }
