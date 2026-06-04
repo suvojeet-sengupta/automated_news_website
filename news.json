@@ -1,6 +1,162 @@
 {
-    "lastUpdatedAt": "2026-06-04T11:48:06.559065Z",
+    "lastUpdatedAt": "2026-06-04T14:48:48.321314Z",
     "articles": [
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "SpaceX sets USD 135 share price for world's largest IPO, valuing at USD 1.77 trillion",
+            "url": "https://www.tribuneindia.com/news/business/spacex-sets-usd-135-share-price-for-worlds-largest-ipo-valuing-at-usd-1-77-trillion/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJhZGFkNTMwLTVmYmMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-06-04T02:25:55Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Alphabet Raises $45 Billion In Oversubscribed Equity Offering To Fund AI Push",
+            "url": "https://www.ndtvprofit.com/technology/alphabet-raises-45-billion-in-oversubscribed-equity-offering-to-fund-ai-push-11588623",
+            "urlToImage": "https://c.ndtvimg.com/2026-05/msj4hnt_google-io-2026_625x300_20_May_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-06-04T02:23:54Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Microsoft AI CEO Mustafa Suleyman: My team is 'more concerned' about Anthropic, than Google, Meta and OpenAI because …",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-my-team-is-more-concerned-about-anthropic-than-google-meta-and-openai-because-/articleshow/131492018.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-131492017,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-04T02:23:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Thailand's 1.6-bil-baht AI gamble: Bold vision or costly leap of faith?",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/04/thailand039s-16-bil-baht-ai-gamble-bold-vision-or-costly-leap-of-faith",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/04/3942091.png",
+            "publishedAt": "2026-06-04T02:12:00Z"
+        },
+        {
+            "source": {
+                "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+                "name": "Rappler",
+                "url": "https://www.rappler.com",
+                "country": "ph"
+            },
+            "title": "FACT CHECK: Video of Trillanes calling Sara Duterte an ‘addict’ is AI-generated",
+            "url": "https://www.rappler.com/newsbreak/fact-check/antonio-trillanes-sara-duterte-addict-ai-generated/",
+            "urlToImage": "https://www.rappler.com/tachyon/2026/06/fact-check-carousel-1.jpg",
+            "publishedAt": "2026-06-04T02:00:00Z"
+        },
+        {
+            "source": {
+                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
+                "name": "Deadline",
+                "url": "https://deadline.com",
+                "country": "us"
+            },
+            "title": "Boots Riley Thinks Martin Scorsese \"Doesn't Give A F*ck\" About AI",
+            "url": "https://deadline.com/2026/06/boots-riley-martin-scorsese-doesnt-give-fck-ai-1236940508/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/06/Boots-Riley-Martin-Scorsese-2-shot.jpg?w=1024",
+            "publishedAt": "2026-06-04T01:07:42Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "China Spending Billions to Stop AI, Data Centers in U.S.",
+            "url": "https://www.newsmax.com/newsfront/data-centers-ai-china/2026/06/03/id/1258500/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=45da09e0-dc0f-454b-81a8-3482fa684ae5&SiteName=Newsmax",
+            "publishedAt": "2026-06-04T01:05:53Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "GitLab fires 14% employees, says AI is the priority now",
+            "url": "https://www.indiatoday.in/technology/news/story/gitlab-fires-14-employees-says-ai-is-the-priority-now-2921580-2026-06-04",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/gitlab-layoffs-043616719-16x9_0.png?VersionId=gZVmtBohUz2XPg.AEU9kcoMWsj2y8Bwo",
+            "publishedAt": "2026-06-04T00:41:27Z"
+        },
+        {
+            "source": {
+                "id": "2b5db686603d0197d748f18d2dc01aec",
+                "name": "Bloomberg Tax News",
+                "url": "https://news.bloombergtax.com",
+                "country": "us"
+            },
+            "title": "Be Aware of Local Courts’ Rules on AI Use, Tax Court Judge Says",
+            "url": "https://news.bloombergtax.com/daily-tax-report/be-aware-of-local-courts-rules-on-ai-use-tax-court-judge-says",
+            "urlToImage": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+            "publishedAt": "2026-06-04T00:26:43Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Indian developers central to Microsoft’s renewed Windows, AI strategy",
+            "url": "https://www.livemint.com/companies/news/microsofts-renewed-windows-push-a-shot-in-the-arm-for-indias-ai-developers-11780482554302.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/03/1600x900/logo/MICROSOFT-CONFERENCE--0_1780488136149_1780488148123_9aa2ff04-7297-4a29-bf43-0a0d273ca930.JPG",
+            "publishedAt": "2026-06-04T00:24:13Z"
+        },
+        {
+            "source": {
+                "name": "telecom_economictimes"
+            },
+            "title": "PM Modi’s high stakes push for sovereign AI faces reality check",
+            "url": "https://telecom.economictimes.indiatimes.com/news/industry/pm-modis-quest-for-sovereign-ai-navigating-indias-challenges-and-opportunities/131494853",
+            "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-131494853,width-1200,height-900,resizemode-4/.jpg",
+            "publishedAt": "2026-06-04 02:08:13"
+        },
+        {
+            "source": {
+                "name": "dtnext"
+            },
+            "title": "Algorithms ruined mass culture, slop filled the void",
+            "url": "https://www.dtnext.in/entertainment/algorithms-ruined-mass-culture-slop-filled-the-void",
+            "urlToImage": "https://gumlet-images.assettype.com/dt-next/2026-06-03/5llxycwz/0.jpg",
+            "publishedAt": "2026-06-04 01:30:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Cooler Master and Spingence Launch Global AI Manufacturing Initiative: Implementing NVIDIA Three-Computer Architecture to Create a Multinational \"Digital Brain\"",
+            "url": "https://www.prnewswire.com/apac/news-releases/cooler-master-and-spingence-launch-global-ai-manufacturing-initiative-implementing-nvidia-three-computer-architecture-to-create-a-multinational-digital-brain-302790529.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2994415/IMG_8921.jpg?p=original",
+            "publishedAt": "2026-06-04 01:00:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Compal and Datasection Advance AI Infrastructure for the Production Era",
+            "url": "https://www.prnewswire.com/apac/news-releases/compal-and-datasection-advance-ai-infrastructure-for-the-production-era-302790290.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2991646/COMPAL_ELECTRONICS_Logo.jpg?p=original",
+            "publishedAt": "2026-06-04 00:00:00"
+        },
         {
             "source": {
                 "id": "8058567c977e70457c45c65529cb9946",
@@ -3114,132 +3270,6 @@
             "url": "https://www.digitaltrends.com/computing/asus-arms-its-new-proart-p16-and-p14-laptops-with-nvidias-beefy-rtx-spark-processor/",
             "urlToImage": "https://www.digitaltrends.com/tachyon/2026/06/Asus-ProArt-P16-and-P14-laptops-2.jpg?resize=1200%2C630",
             "publishedAt": "2026-06-01 13:31:18"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "AI Goes Physical -- Taiwan Leads Global Industry Transformation as COMPUTEX 2026 Opens Tomorrow in Taipei",
-            "url": "https://www.prnewswire.com/news-releases/ai-goes-physical--taiwan-leads-global-industry-transformation-as-computex-2026-opens-tomorrow-in-taipei-302787133.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2991935/Photo_2__COMPUTEX_brings_together_top_industry_leaders_to_share_insights_and_trends__opening_with_a.jpg?p=original",
-            "publishedAt": "2026-06-01 13:29:00"
-        },
-        {
-            "source": {
-                "name": "securitybrief_in"
-            },
-            "title": "Aewin unveils rack-scale AI infrastructure & cooling",
-            "url": "https://securitybrief.in/story/aewin-unveils-rack-scale-ai-infrastructure-cooling",
-            "urlToImage": "https://securitybrief.in/uploads/story/2026/06/01/compatible_email_attachment20260601-1682319-roioh5.jpg",
-            "publishedAt": "2026-06-01 10:30:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "GPU Server Market to Reach USD 1,545.2 billion by 2033 Amid AI Boom - Grand View Research, Inc.",
-            "url": "https://www.prnewswire.com/news-releases/gpu-server-market-to-reach-usd-1-545-2-billion-by-2033-amid-ai-boom---grand-view-research-inc-302786917.html",
-            "urlToImage": "https://mmx.prnewswire.com/media/MS1147283/Grand-View-Research.jpg?id=OA2643796&p=original",
-            "publishedAt": "2026-06-01 10:30:00"
-        },
-        {
-            "source": {
-                "name": "itbrief_in"
-            },
-            "title": "Aewin unveils rack-scale AI infrastructure & cooling",
-            "url": "https://itbrief.in/story/aewin-unveils-rack-scale-ai-infrastructure-cooling",
-            "urlToImage": "https://itbrief.in/uploads/story/2026/06/01/compatible_email_attachment20260601-1682319-roioh5.jpg",
-            "publishedAt": "2026-06-01 10:30:00"
-        },
-        {
-            "source": {
-                "name": "securitybrief_in"
-            },
-            "title": "Aetina launches Mini Series edge AI systems for industry",
-            "url": "https://securitybrief.in/story/aetina-launches-mini-series-edge-ai-systems-for-industry",
-            "urlToImage": "https://securitybrief.in/uploads/story/2026/06/01/compatible_technical-focus-industrial-ai-unit-factory-control-room-digital-illustration.jpg",
-            "publishedAt": "2026-06-01 10:19:00"
-        },
-        {
-            "source": {
-                "name": "itbrief_in"
-            },
-            "title": "Aetina launches Mini Series edge AI systems for industry",
-            "url": "https://itbrief.in/story/aetina-launches-mini-series-edge-ai-systems-for-industry",
-            "urlToImage": "https://itbrief.in/uploads/story/2026/06/01/compatible_technical-focus-industrial-ai-unit-factory-control-room-digital-illustration.jpg",
-            "publishedAt": "2026-06-01 10:19:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Building Intelligence for a Billion Voices: Vivek Raghavan’s Next National Infrastructure Bet",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/building-intelligence-for-a-billion-voices-vivek-raghavans-next-national-infrastructure-bet",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-06-01/vtoejnk6/Dr.-Vivek-Raghavan-Sarvam-AI-profile-story.jpg",
-            "publishedAt": "2026-06-01 10:15:00"
-        },
-        {
-            "source": {
-                "name": "asiatimes"
-            },
-            "title": "Markets are misreading Nvidia’s latest move",
-            "url": "https://asiatimes.com/2026/06/markets-are-misreading-nvidias-latest-move/",
-            "urlToImage": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/06/Jensen-Huang-Nvidia-Nvidia-PC.jpg?fit=1200%2C803&quality=89&ssl=1",
-            "publishedAt": "2026-06-01 10:14:13"
-        },
-        {
-            "source": {
-                "name": "hindustantimes"
-            },
-            "title": "Nvidia Introduces First PCs Designed for AI Agents",
-            "url": "https://www.hindustantimes.com/technology/nvidia-introduces-first-pcs-designed-for-ai-agents-101780303677712.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/06/01/1600x900/logo/RTX_Spark_1780303840733_1780303848475_8aae7d43-0306-4348-9e3a-99c804f5377a.jpg",
-            "publishedAt": "2026-06-01 08:51:19"
-        },
-        {
-            "source": {
-                "name": "ciol"
-            },
-            "title": "NVIDIA Brings Data Center-Grade AI to Windows PCs With RTX Spark",
-            "url": "https://www.ciol.com/news/nvidia-rtx-spark-windows-ai-pcs-blackwell-local-ai-11895670",
-            "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/ciol/media/media_files/2026/01/28/chip-startups-2026-01-28-18-04-24.png",
-            "publishedAt": "2026-06-01 08:07:17"
-        },
-        {
-            "source": {
-                "name": "newsbytesapp"
-            },
-            "title": "NVIDIA's new PCs are designed for AI agents",
-            "url": "https://www.newsbytesapp.com/news/science/nvidia-s-new-pcs-are-designed-for-ai-agents/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l13120260601124322.jpeg",
-            "publishedAt": "2026-06-01 07:35:44"
-        },
-        {
-            "source": {
-                "name": "cioinfluence"
-            },
-            "title": "DDN Advances Secure AI Factories with AI-Native Data Intelligence Infrastructure at NVIDIA GTC Taipei at COMPUTEX 2026",
-            "url": "https://cioinfluence.com/security/ddn-advances-secure-ai-factories-with-ai-native-data-intelligence-infrastructure-at-nvidia-gtc-taipei-at-computex-2026/",
-            "urlToImage": "https://cioinfluence.com/wp-content/uploads/2026/05/7xm.xyz542934.jpg",
-            "publishedAt": "2026-06-01 07:28:14"
-        },
-        {
-            "source": {
-                "name": "aithority"
-            },
-            "title": "HPE Introduces CPU Server with NVIDIA Vera CPU, Purpose-built for Agentic AI",
-            "url": "https://aithority.com/security/hpe-introduces-cpu-server-with-nvidia-vera-cpu-purpose-built-for-agentic-ai/",
-            "urlToImage": "https://aithority.com/wp-content/uploads/2026/05/steptodown.com657368.jpg",
-            "publishedAt": "2026-06-01 07:24:49"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "These Crucial AI Unknowns Are Obstructing The Building And Fielding Of AI For Mental Health",
-            "url": "https://www.forbes.com/sites/lanceeliot/2026/06/01/these-crucial-ai-unknowns-are-obstructing-the-building-and-fielding-of-ai-for-mental-health/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a1cb0ab8d4596a19f541095/0x0.jpg?width=960&precrop=1516%2C1011%2Cx0%2Cy0",
-            "publishedAt": "2026-06-01 07:15:00"
         }
     ]
 }
