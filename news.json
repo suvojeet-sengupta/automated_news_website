@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-06-06T13:22:27.558280Z",
+    "lastUpdatedAt": "2026-06-06T15:10:34.071621Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Scientists map more than 200 years of nature's progress",
+            "url": "https://phys.org/news/2026-06-scientists-years-nature.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/mizzou-helps-smithsoni.jpg",
+            "publishedAt": "2026-06-06T02:40:01Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Companies push employees to use AI - just not too much",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/06/companies-push-employees-to-use-ai--just-not-too-much",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/05/3944503.jpg",
+            "publishedAt": "2026-06-06T02:00:00Z"
+        },
         {
             "source": {
                 "id": "1290fbc1799ff6b270a6f8b7e9761c18",
@@ -36,6 +60,24 @@
             "url": "https://www.thehitavada.com/Encyc/2026/6/6/ai-could-double-electricity-use-by-2030.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/6/6/AI-could-double-electricity-use-by-2030_202606061051337959_H@@IGHT_334_W@@IDTH_591.jpg",
             "publishedAt": "2026-06-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "MAGA hates AI, but Trump agrees with Bernie it might be time for partial government ownership",
+            "url": "https://fortune.com/2026/06/05/trump-partnership-openai-anthropic-xai-nationalization-bernie-sanders-altman/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2279869425-e1780702542421.jpg?w=2048",
+            "publishedAt": "2026-06-06 01:39:26"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Fangzhou demonstrates chronic disease management platform with Tencent Health at Beijing AI summit",
+            "url": "https://completeaitraining.com/news/fangzhou-demonstrates-chronic-disease-management-platform/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/fangzhou-demonstrates-chronic-disease-management-platform-with-tencent-health-at_2026-06-05.jpg",
+            "publishedAt": "2026-06-06 01:31:19"
         },
         {
             "source": {
@@ -3360,42 +3402,6 @@
             "url": "https://telanganatoday.com/nara-lokesh-discusses-ai-and-digital-innovation-partnerships-in-russia",
             "urlToImage": "https://media.telanganatoday.com/wp-content/uploads/2026/06/nara-lokesh.jpg",
             "publishedAt": "2026-06-03 15:57:44"
-        },
-        {
-            "source": {
-                "name": "windowscentral"
-            },
-            "title": "Microsoft drives developers toward native Windows apps at Build 2026",
-            "url": "https://www.windowscentral.com/software-apps/microsoft-drives-developers-toward-native-windows-apps-at-build-2026",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jhjtcm3UCiV2Z7YrXkcGrb-1280-80.jpg",
-            "publishedAt": "2026-06-03 15:00:00"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "AP explores AI, quantum tie-up with Russia’s Sberbank",
-            "url": "https://timesofindia.indiatimes.com/city/vijayawada/ap-explores-ai-quantum-tie-up-with-russias-sberbank/articleshow/131486576.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-131486575/131486575.jpg",
-            "publishedAt": "2026-06-03 14:32:39"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "PM Modi’s high stakes push for sovereign AI faces reality check",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/pm-modis-high-stakes-push-for-sovereign-ai-faces-reality-check/articleshow/131485922.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-151318,resizemode-75,msid-131485922/tech/artificial-intelligence/pm-modis-high-stakes-push-for-sovereign-ai-faces-reality-check.jpg",
-            "publishedAt": "2026-06-03 13:59:51"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "MIT dataset of one million charts helps smaller AI models outperform larger commercial rivals",
-            "url": "https://completeaitraining.com/news/mit-dataset-of-one-million-charts-helps-smaller-ai-models/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/mit-dataset-of-one-million-charts-helps-smaller-ai-models-outperform-larger-comm_2026-06-03.jpg",
-            "publishedAt": "2026-06-03 13:54:01"
         }
     ]
 }
