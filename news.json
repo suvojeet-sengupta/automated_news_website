@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-06-07T15:20:46.150518Z",
+    "lastUpdatedAt": "2026-06-07T17:10:49.983500Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Google Drive updates document scanner with multi-page AI feature",
+            "url": "https://www.bangkokpost.com/life/tech/3267228/google-drive-updates-document-scanner-with-multipage-ai-feature",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260607/c2_3267228_260607081128.jpg",
+            "publishedAt": "2026-06-07T03:30:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -48,6 +60,24 @@
             "url": "https://www.lokmattimes.com/international/ai-cyber-risks-china-concerns-dominate-us-hearing/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606073816506_202606.jpg",
             "publishedAt": "2026-06-07T00:55:08Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Microsoft just killed one of the coolest features of its Edge browser to favor more AI",
+            "url": "https://www.digitaltrends.com/computing/microsoft-just-killed-one-of-the-coolest-features-of-its-edge-browser-to-favor-more-ai/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2020/01/newedgebrowser-press.jpg?resize=1200%2C630",
+            "publishedAt": "2026-06-07 04:08:50"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "MIT symposium examines AI alignment, education and the limits of machine reasoning",
+            "url": "https://completeaitraining.com/news/mit-symposium-examines-ai-alignment-education-and-the/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/mit-symposium-examines-ai-alignment-education-and-the-limits-of-machine-reasonin_2026-06-06.jpg",
+            "publishedAt": "2026-06-07 03:25:25"
         },
         {
             "source": {
@@ -3426,33 +3456,6 @@
             "url": "https://www.newindianexpress.com/xplore/2026/Jun/04/google-to-spend-190-billion-on-ai-infrastructure-as-demand-outpaces-supply-sundar-pichai",
             "urlToImage": "https://cf-images.assettype.com/newindianexpress/2026-05-20/91ytpyrs/202605203794721.jpg",
             "publishedAt": "2026-06-04 18:43:40"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "MIT researchers use Battleship to show a small AI model can outperform larger ones at 1 percent of the cost",
-            "url": "https://completeaitraining.com/news/mit-researchers-use-battleship-to-show-a-small-ai-model-can/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/mit-researchers-use-battleship-to-show-a-small-ai-model-can-outperform-larger-on_2026-06-04.jpg",
-            "publishedAt": "2026-06-04 17:37:54"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "Foxconn and Intel partner to build next-generation AI infrastructure",
-            "url": "https://completeaitraining.com/news/foxconn-and-intel-partner-to-build-next-generation-ai/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/foxconn-and-intel-partner-to-build-next-generation-ai-infrastructure_2026-06-04.jpg",
-            "publishedAt": "2026-06-04 17:04:50"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "Eight AI trends reshaping industrial operations in 2026",
-            "url": "https://completeaitraining.com/news/eight-ai-trends-reshaping-industrial-operations-in-2026/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/eight-ai-trends-reshaping-industrial-operations-in-2026_2026-06-04.jpg",
-            "publishedAt": "2026-06-04 17:04:32"
         }
     ]
 }
