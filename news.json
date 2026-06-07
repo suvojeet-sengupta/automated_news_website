@@ -1,6 +1,63 @@
 {
-    "lastUpdatedAt": "2026-06-07T11:05:54.034328Z",
+    "lastUpdatedAt": "2026-06-07T13:43:02.262590Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "What to expect from Apple’s AI, Siri and iOS 27 launch at WWDC",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/07/what-to-expect-from-apples-ai-siri-and-ios-27-launch-at-wwdc",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/06/3946137.jpg",
+            "publishedAt": "2026-06-07T01:00:00Z"
+        },
+        {
+            "source": {
+                "id": "e743cde6ee986921721e83d3957862dc",
+                "name": "Zee News",
+                "url": "https://zeenews.india.com",
+                "country": "in"
+            },
+            "title": "Will this country slip into AI control? Digital minister’s warning raises concerns",
+            "url": "https://zeenews.india.com/technology/will-this-country-slip-into-ai-control-digital-minister-s-warning-raises-concerns-3053470.html",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/06/07/1952265-japan-ai-colony.jpg",
+            "publishedAt": "2026-06-07T00:58:07Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "AI cyber risks, China concerns dominate US hearing",
+            "url": "https://www.lokmattimes.com/international/ai-cyber-risks-china-concerns-dominate-us-hearing/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606073816506_202606.jpg",
+            "publishedAt": "2026-06-07T00:55:08Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Meta’s AI feed is starting to sound like a late-night internet rabbit hole",
+            "url": "https://www.digitaltrends.com/computing/metas-ai-feed-is-starting-to-sound-like-a-late-night-internet-rabbit-hole/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/06/iPhone-showing-Meta-AI-Support-Assisstant.jpg?resize=1200%2C630",
+            "publishedAt": "2026-06-07 00:52:44"
+        },
+        {
+            "source": {
+                "id": "8b41f671a9a237f65861978dca3609d0",
+                "name": "Nikkei Asia",
+                "url": "https://asia.nikkei.com",
+                "country": "jp"
+            },
+            "title": "White House AI adviser to leave position as Trump weighs stakes in AI firms",
+            "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/white-house-ai-adviser-to-leave-position-as-trump-weighs-stakes-in-ai-firms",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F4%2F6%2F12586422-1-eng-GB%2Faab35a4bc461-2026-06-06T172902Z_1511850379_RC2PEIA715WQ_RTRMADP_3_USA-TRUMP-AI.JPG?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
+            "publishedAt": "2026-06-06T23:35:33Z"
+        },
         {
             "source": {
                 "id": "28bc60a23a7bf89e60f893506992a3fe",
@@ -3393,51 +3450,6 @@
             "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/gas-engine-maker-innio-valued-at-23-billion-as-shares-jump-in-nasdaq-debut/articleshow/131512428.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-131512428,resizemode-4,width-1200,height-900,imgsize-206340,overlay-etmarkets/articleshow.jpg",
             "publishedAt": "2026-06-04 16:56:45"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "The Jane Goodall Institute has handwritten notes on 5 generations of chimps. AI is helping to preserve them.",
-            "url": "https://www.businessinsider.com/jane-goodall-institute-aws-gombe-ai-research-tool-2026-6",
-            "urlToImage": "https://i.insider.com/6a1704dd2ab5f9757add4cfa?width=1200&format=jpeg",
-            "publishedAt": "2026-06-04 16:43:33"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "Jane Goodall Institute uses AI to preserve chimpanzee research",
-            "url": "https://www.bundle.app/en/finance/jane-goodall-institute-uses-ai-to-preserve-chimpanzee-research-0751FE53-7DF3-4023-8F9A-EA074E14164E",
-            "urlToImage": "https://static.bundle.app/news/5bba72f8-8cfd-5a0b-8d8e-3fda5c1dc831.jpg",
-            "publishedAt": "2026-06-04 16:43:33"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Don’t hold your breath for Meta’s Muse Spark AI to pop up in your phone apps anytime soon",
-            "url": "https://www.digitaltrends.com/computing/dont-hold-your-breath-for-metas-muse-spark-ai-to-pop-up-in-your-phone-apps-anytime-soon/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/06/iPhone-showing-Meta-AI-Support-Assisstant.jpg?resize=1200%2C630",
-            "publishedAt": "2026-06-04 14:07:59"
-        },
-        {
-            "source": {
-                "name": "dailynewsen"
-            },
-            "title": "BagelTechNews.com Reveals Shocking Tech Secrets You Must Know",
-            "url": "https://dailynewsen.com/bageltechnews-com-reveals-shocking-tech-secrets-you-must-know/",
-            "urlToImage": "https://dailynewsen.com/wp-content/uploads/2025/07/pexels-photo-5486827-2-scaled.jpeg",
-            "publishedAt": "2026-06-04 13:17:16"
-        },
-        {
-            "source": {
-                "name": "tgdaily"
-            },
-            "title": "How Lenovo’s Enterprise AI and Edge Computing Are Revolutionizing the 2026 FIFA World Cup Experience: A Deep Dive into Real-Time Broadcasts and Smarter Football",
-            "url": "https://tgdaily.com/technology/how-lenovos-enterprise-ai-and-edge-computing-are-revolutionizing-the-2026-fifa-world-cup-experience-a-deep-dive-into-real-time-broadcasts-and-smarter-football/",
-            "urlToImage": "https://tgdaily.com/wp-content/uploads/2026/06/Lenovo-FIFA.webp",
-            "publishedAt": "2026-06-04 12:49:00"
         }
     ]
 }
