@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-06-07T19:15:18.940764Z",
+    "lastUpdatedAt": "2026-06-07T21:06:39.122326Z",
     "articles": [
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "Trump’s kowtow to China on Taiwan risks tech disaster for the U.S. and the world",
+            "url": "https://www.inquirer.com/opinion/taiwan-semiconductor-manufacturing-company-tsmc-trump-china-20260607.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/HNBCU3I3CUD7UGC7LB3SLH7M3Q.jpg?auth=692d28e4b34cefafe527eeb7cd2d3d473401d6898966e079df25da0aa0c81477&width=760&height=507&smart=true",
+            "publishedAt": "2026-06-07T09:01:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Sriram Krishnan, the AI advisor Donald Trump appointed and Elon Musk backed after MAGA protests, to leave White House: Read his post",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/sriram-krishnan-the-ai-advisor-donald-trump-appointed-and-elon-musk-backed-after-maga-protests-to-leave-white-house-read-his-post/articleshow/131564241.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-131564234,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-07T09:01:00Z"
+        },
+        {
+            "source": {
+                "id": "69a24b80e5bce5a07f808f5ea84c434b",
+                "name": "Arkansas Online",
+                "url": "https://www.arkansasonline.com",
+                "country": "us"
+            },
+            "title": "White House AI adviser to leave",
+            "url": "https://www.arkansasonline.com/news/2026/jun/07/white-house-ai-adviser-to-leave/",
+            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
+            "publishedAt": "2026-06-07T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "McDonald's Tests AI in the Drive-Thru 2 Years After Scrapping Last Attempt",
+            "url": "https://www.breitbart.com/tech/2026/06/07/mcdonalds-tests-ai-in-the-drive-thru-2-years-after-scrapping-last-attempt/",
+            "urlToImage": "https://media.breitbart.com/media/2026/06/McDonalds-drive-thru-1-640x335.jpg",
+            "publishedAt": "2026-06-07T08:31:44Z"
+        },
+        {
+            "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+            },
+            "title": "'You can change history': Pope Leo appeals to youth in first papal visit to Spain in 15 years",
+            "url": "https://www.sbs.com.au/news/podcast-episode/you-can-change-history-pope-leo-appeals-to-youth-in-first-papal-visit-to-spain-in-15-years/ht2jk9u16",
+            "urlToImage": "https://assets.sbs.com.au/dims4/default/2c493de/2147483647/strip/true/crop/1999x1125+0+190/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F88%2Fa6%2F3336b93a4cd28d1962386d8dd6df%2Fpope-leo-xiv-travels-through-the-streets-of-madrid-in-his-popemobile-dan-kitwood-getty-images.jpg",
+            "publishedAt": "2026-06-07T07:44:34Z"
+        },
         {
             "source": {
                 "id": "b1fa63410571207862faad9daf9b4527",
@@ -84,6 +144,15 @@
             "url": "https://www.lokmattimes.com/international/ai-cyber-risks-china-concerns-dominate-us-hearing/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606073816506_202606.jpg",
             "publishedAt": "2026-06-07T00:55:08Z"
+        },
+        {
+            "source": {
+                "name": "helpnetsecurity"
+            },
+            "title": "Week in review: Cisco SD-WAN 0-day exploited, Patch Tuesday forecast",
+            "url": "https://www.helpnetsecurity.com/2026/06/07/week-in-review-cisco-sd-wan-0-day-exploited-june-2026-patch-tuesday-forecast/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112502/cybersecurity_week_in_review1.jpg",
+            "publishedAt": "2026-06-07 08:00:37"
         },
         {
             "source": {
@@ -3399,69 +3468,6 @@
             "url": "https://www.newsmax.com/newsfront/data-centers-ai-china/2026/06/03/id/1258500/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=45da09e0-dc0f-454b-81a8-3482fa684ae5&SiteName=Newsmax",
             "publishedAt": "2026-06-04T01:05:53Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "GitLab fires 14% employees, says AI is the priority now",
-            "url": "https://www.indiatoday.in/technology/news/story/gitlab-fires-14-employees-says-ai-is-the-priority-now-2921580-2026-06-04",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/gitlab-layoffs-043616719-16x9_0.png?VersionId=gZVmtBohUz2XPg.AEU9kcoMWsj2y8Bwo",
-            "publishedAt": "2026-06-04T00:41:27Z"
-        },
-        {
-            "source": {
-                "id": "2b5db686603d0197d748f18d2dc01aec",
-                "name": "Bloomberg Tax News",
-                "url": "https://news.bloombergtax.com",
-                "country": "us"
-            },
-            "title": "Be Aware of Local Courts’ Rules on AI Use, Tax Court Judge Says",
-            "url": "https://news.bloombergtax.com/daily-tax-report/be-aware-of-local-courts-rules-on-ai-use-tax-court-judge-says",
-            "urlToImage": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-            "publishedAt": "2026-06-04T00:26:43Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Indian developers central to Microsoft’s renewed Windows, AI strategy",
-            "url": "https://www.livemint.com/companies/news/microsofts-renewed-windows-push-a-shot-in-the-arm-for-indias-ai-developers-11780482554302.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/03/1600x900/logo/MICROSOFT-CONFERENCE--0_1780488136149_1780488148123_9aa2ff04-7297-4a29-bf43-0a0d273ca930.JPG",
-            "publishedAt": "2026-06-04T00:24:13Z"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "AI at the Crossroads: Between the Profitability Mirage and the Reality of Efficiency",
-            "url": "https://www.bundle.app/en/technology/ai-at-the-crossroads-between-the-profitability-mirage-and-the-reality-of-efficiency-14102D26-CB8D-42DC-B07F-252A7F960F27",
-            "urlToImage": "https://static.bundle.app/news/e018aef5-fc31-5543-9cff-6ca2ddf1ff3b.jpg",
-            "publishedAt": "2026-06-04 22:15:03"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "Apple is Outsourcing Upgraded Siri’s Brain to Google and Nvidia",
-            "url": "https://www.androidheadlines.com/2026/06/apple-siri-nvidia-blackwell-google-gemini-cloud.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/06/iOS-new-Siri.jpg",
-            "publishedAt": "2026-06-04 20:25:01"
-        },
-        {
-            "source": {
-                "name": "businesswire"
-            },
-            "title": "Rubrik Reports First Quarter Fiscal Year 2027 Financial Results",
-            "url": "http://www.businesswire.com/news/home/20260604503136/en/Rubrik-Reports-First-Quarter-Fiscal-Year-2027-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
-            "urlToImage": "https://mms.businesswire.com/media/20260604503136/en/2212475/22/Rubrik_Logo.jpg",
-            "publishedAt": "2026-06-04 20:05:00"
         }
     ]
 }
