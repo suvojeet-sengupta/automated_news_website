@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-06-08T05:27:34.210250Z",
+    "lastUpdatedAt": "2026-06-08T10:28:41.820760Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Over 60% of Japanese firms with more than 1,000 workers use generative AI",
+            "url": "https://japantoday.com/category/tech/over-60-of-japanese-firms-with-more-than-1-000-workers-use-generative-ai",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2026-06-07T20:50:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "As cos fast-track AI adoption, data & infra readiness come under spotlight",
+            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/as-cos-fast-track-ai-adoption-data-infra-readiness-come-under-spotlight/articleshow/131573799.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-131573799,width-1200,height-630,imgsize-118250,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-06-07T20:48:00Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Indian-origin tech leader Sriram Krishnan exits white house AI team: Here's what he plans next",
+            "url": "https://www.firstpost.com/tech/indian-origin-tech-leader-sriram-krishnan-exits-white-house-ai-team-heres-what-he-plans-next-14019851.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/06/Krishnan-2026-06-d65afbc466419f740cd5a3d4e79e013f.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-06-07T19:19:55Z"
+        },
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "Artificial intelligence sets the ball rolling in the bearings industry",
+            "url": "https://www.business-standard.com/opinion/columns/artificial-intelligence-sets-the-ball-rolling-in-the-bearings-industry-126060700623_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/07/thumb/fitandfill/1200X628/1780845213-2482.jpg",
+            "publishedAt": "2026-06-07T18:31:23Z"
+        },
+        {
+            "source": {
+                "id": "34cc62608b4607dc3a776802caadb7bd",
+                "name": "ThePrint",
+                "url": "https://theprint.in",
+                "country": "in"
+            },
+            "title": "Adityanath sets target of over 2 GW additional data centre capacity in UP by 2030",
+            "url": "https://theprint.in/india/adityanath-sets-target-of-over-2-gw-additional-data-centre-capacity-in-up-by-2030/2953486/",
+            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+            "publishedAt": "2026-06-07T18:16:13Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "‘AI will become job creator for India, not a threat’: Piyush Goyal says India should leverage AI for growth",
+            "url": "https://www.financialexpress.com/india-news/ai-will-become-job-creator-for-india-not-a-threat-piyush-goyal-says-india-should-leverage-ai-for-growth/4261637/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/06/Piyush_Goyal_image.jpg",
+            "publishedAt": "2026-06-07T18:07:04Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Govt fails to buy into AI",
+            "url": "https://www.bangkokpost.com/opinion/opinion/3267463/govt-fails-to-buy-into-ai",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260608/c1_3267463_260608081215_700.jpg",
+            "publishedAt": "2026-06-07T18:01:00Z"
+        },
         {
             "source": {
                 "id": "a8984f03fe66dae9745793f6560aa444",
@@ -504,6 +588,24 @@
             "url": "https://www.lokmattimes.com/international/ai-cyber-risks-china-concerns-dominate-us-hearing/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606073816506_202606.jpg",
             "publishedAt": "2026-06-07T00:55:08Z"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "Solstice Cipher: The Turing Test of Light and Shadow",
+            "url": "https://www.bundle.app/en/technology/solstice-cipher-the-turing-test-of-light-and-shadow-642D6C0B-2AB6-412B-8F84-EBEA412FBA19",
+            "urlToImage": "https://static.bundle.app/news/ff3f5e2c-c05f-51cc-a274-09096cab1e1a.jpg",
+            "publishedAt": "2026-06-07 20:06:01"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Anthropic calls for coordinated pause on advanced AI development, citing risk of losing human control",
+            "url": "https://completeaitraining.com/news/anthropic-calls-for-coordinated-pause-on-advanced-ai/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/anthropic-calls-for-coordinated-pause-on-advanced-ai-development-citing-risk-of_2026-06-07.jpg",
+            "publishedAt": "2026-06-07 18:54:44"
         },
         {
             "source": {
@@ -3339,114 +3441,6 @@
             "url": "https://www.politico.com/news/2026/06/04/obernolte-trahan-ai-bill-lands-on-the-hill-00949920",
             "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F88%2F0f%2F2acd872f4e2f9d3fefdaf0ebb558%2Fu-s-congress-05276.jpg",
             "publishedAt": "2026-06-04T14:21:00Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "SpaceX seeks $75 billion in record IPO to fund AI, launch",
-            "url": "https://www.latimes.com/business/story/2026-06-04/spacex-seeks-75-billion-in-record-ipo-to-fund-ai-launch",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/71440c2/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F53%2Fc7%2F57feeefa3df96cf4f6bae177bb97%2F1x-1.jpg",
-            "publishedAt": "2026-06-04T14:18:47Z"
-        },
-        {
-            "source": {
-                "id": "869aa6d4178b4cc8a4cd0af3276979c5",
-                "name": "TMZ",
-                "url": "https://www.tmz.com",
-                "country": "us"
-            },
-            "title": "'Backrooms' Director Kane Parsons Trashes A.I. Filmmaking",
-            "url": "https://www.tmz.com/2026/06/04/kane-parsons-slams-ai-filmmaking/",
-            "urlToImage": "https://imagez.tmz.com/image/6c/16by9/2026/06/04/6caf4416fdf94fbda34546e6ec5c7298_xl.png",
-            "publishedAt": "2026-06-04T14:13:30Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "IIT Roorkee's first BTech AI batch secures 100% placements",
-            "url": "https://timesofindia.indiatimes.com/india/iit-roorkees-first-btech-ai-batch-secures-100-placements/articleshow/131508952.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131508941,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-04T13:44:00Z"
-        },
-        {
-            "source": {
-                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-                "name": "The Verge",
-                "url": "https://www.theverge.com",
-                "country": "us"
-            },
-            "title": "“We need to regard text as a deepfake medium.”",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/943015/we-need-to-regard-text-as-a-deepfake-medium",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-            "publishedAt": "2026-06-04T13:43:07Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Meta Delays AI Model API Launch as It Seeks Returns on Massive AI Spending",
-            "url": "https://www.marketscreener.com/news/meta-delays-ai-model-api-launch-as-it-seeks-returns-on-massive-ai-spending-ce7f5ddcdf8af32c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-06-04T11:00:13Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Ramp Notches $44 Billion Valuation in New Funding Round",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-04/ramp-notches-44-billion-valuation-in-new-funding-round",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS_dO3oPMgnk/v1/1200x800.jpg",
-            "publishedAt": "2026-06-04T11:00:06Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Sourcefit named winner in the Artificial Intelligence category at the Fortress Cybersecurity Awards 2026",
-            "url": "https://www.prnewswire.co.uk/news-releases/sourcefit-named-winner-in-the-artificial-intelligence-category-at-the-fortress-cybersecurity-awards-2026-302791517.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2994994/Sourcefit_Logo.jpg?p=facebook",
-            "publishedAt": "2026-06-04T10:46:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Foxconn, Intel team up to develop AI infrastructure",
-            "url": "https://www.livemint.com/global/foxconn-intel-team-up-to-develop-ai-infrastructure-11780565724687.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/04/1600x900/logo/FOXCONN-INTEL-AI-0_1780567163324_1780567175629_2af42219-e963-410f-9b34-586f097e9883.JPG",
-            "publishedAt": "2026-06-04T10:03:06Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Top AI CEOs Call for Law Protecting Against Biological Weapons",
-            "url": "https://www.livemint.com/global/top-ai-ceos-call-for-law-protecting-against-biological-weapons-11780566665673.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/04/1600x900/logo/OpenAI_ChatGPT4_roll_back_Sam_Altman_goodbye_annoy_1746071505529_1780566883176_d5c85faa-a01d-40ae-a95b-74670b93d4ed.jpg",
-            "publishedAt": "2026-06-04T09:55:30Z"
         }
     ]
 }
