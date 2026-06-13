@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-06-13T09:56:41.478957Z",
+    "lastUpdatedAt": "2026-06-13T11:52:59.706505Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Google to challenge German ruling saying it is liable for AI-generated false claims",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/13/google-to-challenge-german-ruling-saying-it-is-liable-for-ai-generated-false-claims",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/13/3956291.jpg",
+            "publishedAt": "2026-06-12T23:06:00Z"
+        },
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "Anthropic says it has taken its latest AI models offline to comply with new export controls",
+            "url": "https://triblive.com/news/world/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/",
+            "urlToImage": "https://assets-varnish.triblive.com/2026/06/9668945_web1_9668945-aa010c3e5a7c478b8266003749c6bf90.jpg",
+            "publishedAt": "2026-06-12T22:54:13Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Review: India and Network Centric Warfare by Kartik Bommakanti",
+            "url": "https://www.hindustantimes.com/books/review-india-and-network-centric-warfare-by-kartik-bommakanti-101781289429903.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/06/12/550x309/-The-strength-of-Bommakanti-s-book-lies-in-its-cle_1781289421597.jpg",
+            "publishedAt": "2026-06-12T22:42:13Z"
+        },
+        {
+            "source": {
+                "id": "b41851fb2662ea502db29f71ec4d1583",
+                "name": "NPR",
+                "url": "https://www.npr.org",
+                "country": "us"
+            },
+            "title": "SpaceX goes public and is now worth trillions. What happens now?",
+            "url": "https://www.npr.org/2026/06/12/nx-s1-5856424/spacex-goes-public-and-is-now-worth-trillions-what-happens-now",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5553x3124+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F7d%2F37a9a39b424688774e9d236f5c9a%2Ff6f9a1e0-08a8-42b4-87e7-5c24ba56d0ce.jpg",
+            "publishedAt": "2026-06-12T22:04:46Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Why teachers are creating AI-powered classroom helpers",
+            "url": "https://www.perthnow.com.au/news/education/why-teachers-are-creating-ai-powered-classroom-helpers-c-22425354",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-22425354/3236804cbfadc45d4d52498f555199ddf7ae9156-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-06-12T22:04:32Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "Why teachers are creating AI-powered classroom helpers",
+            "url": "https://www.canberratimes.com.au/story/9291463/why-teachers-are-creating-ai-powered-classroom-helpers/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/db5e3998-64b1-406e-aaf4-60a841c27826.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-06-12T22:00:26Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -816,6 +888,42 @@
             "url": "https://www.invenglobal.com/lol/articles/22738/game-companies-now-eligible-for-ai-specialized-research-personnel-military-service-exemptions",
             "urlToImage": "https://static.invenglobal.com/upload/image/2026/06/12/i1781222594940729.png",
             "publishedAt": "2026-06-12T00:01:01Z"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Nvidia’s RTX Spark made me hate content creation a little less",
+            "url": "https://us.headtopics.com/news/nvidia-s-rtx-spark-made-me-hate-content-creation-a-little-84448922",
+            "urlToImage": "https://i.headtopics.com/images/2026/6/12/digitaltrends/nvidia-s-rtx-spark-made-me-hate-content-creation-a-nvidia-s-rtx-spark-made-me-hate-content-creation-a-E3A3D3E8A82878205F173045D3ECC56C.webp",
+            "publishedAt": "2026-06-12 23:06:05"
+        },
+        {
+            "source": {
+                "name": "blockchain_news"
+            },
+            "title": "FSDP and PyTorch Enable Large-Scale Model Training",
+            "url": "https://blockchain.news/news/fsdp-pytorch-ray-large-model-training",
+            "urlToImage": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
+            "publishedAt": "2026-06-12 22:52:20"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Nvidia’s RTX Spark made me hate content creation a little less",
+            "url": "https://www.digitaltrends.com/computing/nvidias-rtx-spark-made-me-hate-video-editing-a-little-less/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/06/NVIDIA-RTX-Spark-for-Creators-Image-Generation-Demo-Computex-2026.jpg?resize=1200%2C630",
+            "publishedAt": "2026-06-12 22:09:36"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google and Meta Commit Tens of Billions to AI Data Centers Through 2026",
+            "url": "https://www.webpronews.com/google-and-meta-commit-tens-of-billions-to-ai-data-centers-through-2026/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/06/article-18950-1781241657.jpeg",
+            "publishedAt": "2026-06-12 16:22:06"
         },
         {
             "source": {
@@ -3249,126 +3357,6 @@
             "url": "https://www.dailyexcelsior.com/jmc-launches-pothole-detection-and-cold-emulsion-patching-machine/",
             "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2026/06/page11-8.jpg",
             "publishedAt": "2026-06-09T22:15:22Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India can Take the Lead in Applying AI in Industries: Christian Klein",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jun/10/et-front/india-can-take-the-lead-in-applying-ai-in-industries/articleshow/131620614.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-131622084,width-1200,height-630,imgsize-55626,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-06-09T22:07:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Super Micro Computer Plans Equity Offerings",
-            "url": "https://www.marketscreener.com/news/super-micro-computer-plans-equity-offerings-ce7f5cdadc8ff22c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-06-09T21:36:22Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Tech Down on AI Wobbles - Tech Roundup",
-            "url": "https://www.marketscreener.com/news/tech-down-on-ai-wobbles-tech-roundup-ce7f5cdadc8ff423",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-06-09T21:32:33Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Super Micro Plans to Raise $7 Billion in Equity for AI Equipment",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipiiOJlOJm5s/v1/1200x800.jpg",
-            "publishedAt": "2026-06-09T21:24:50Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "AI Companies Fuel Manhattan Office Boom as Leasing Hits 25-Year High",
-            "url": "https://www.newsmax.com/us/ai-real-estate-new-york-city/2026/06/09/id/1259107/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=e00d5b68-6b5d-440a-ae26-90f2d473d7d1&SiteName=Newsmax",
-            "publishedAt": "2026-06-09T21:17:25Z"
-        },
-        {
-            "source": {
-                "id": "c1903669db0b115cc673ce9c333a70dd",
-                "name": "Charleston Post and Courier",
-                "url": "https://www.postandcourier.com",
-                "country": "us"
-            },
-            "title": "Commentary: When is it wrong to use AI?",
-            "url": "https://www.postandcourier.com/opinion/commentary/pope-leo-artificial-intelligence-manifesto/article_22f44230-fa09-4850-b6bd-0c552d97a782.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/80/f80e7b66-dcc3-4ac8-80a6-ece609c1171d/6a15d053e80f4.image.jpg?crop=1762%2C925%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2026-06-09T21:15:00Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "More swings for AI stocks drag Wall Street back on the roller coaster",
-            "url": "https://wtop.com/national/2026/06/asian-shares-are-mixed-as-tech-stocks-rebound-from-sell-offs-while-oil-prices-slip/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/06/South_Korea_Financial_Markets_57645-scaled.jpg",
-            "publishedAt": "2026-06-09T21:05:12Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Melania Trump praises winners of childhood AI competition",
-            "url": "https://nypost.com/2026/06/09/us-news/melania-trump-praises-winners-of-childhood-ai-competition/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/crop-39622457.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-06-09T21:01:22Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Anthropic opens most powerful AI model to public with safeguards",
-            "url": "https://japantoday.com/category/tech/anthropic-opens-most-powerful-ai-model-to-public-with-safeguards",
-            "urlToImage": "https://media.japantoday.com/img/store/93/b0/841147f86ef448491b67b5bc7b88b1ce2651/4c75efcd9e2eb4978bfcde5f443a206a701952ec/_w1700.jpeg",
-            "publishedAt": "2026-06-09T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Anthropic opens powerful Mythos AI model to public - with some safeguards",
-            "url": "https://www.scmp.com/news/world/united-states-canada/article/3356555/anthropic-opens-powerful-mythos-ai-model-public-some-safeguards",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/10/dabe6ff0-a4d9-48fa-b9a9-675a46ba9417_fb4f6f4b.jpg?itok=RX7oVl81&v=1781038745",
-            "publishedAt": "2026-06-09T20:59:06Z"
         }
     ]
 }
