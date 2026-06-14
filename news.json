@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-06-14T13:52:36.054865Z",
+    "lastUpdatedAt": "2026-06-14T15:46:21.319259Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "China installing AI cameras in classrooms to analyse children's behaviour",
+            "url": "https://www.bangkokpost.com/life/tech/3270621/china-installing-ai-cameras-in-classrooms-to-analyse-childrens-behaviour",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260614/c2_3270621.jpg",
+            "publishedAt": "2026-06-14T03:22:00Z"
+        },
         {
             "source": {
                 "id": "44d394a4e765f82b49b452e4302a72b0",
@@ -48,6 +60,15 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/06/14/court-finds-google-liable-for-false-ai-answers-in-landmark-case",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/13/3956691.jpg",
             "publishedAt": "2026-06-14T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "swapupdate"
+            },
+            "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
+            "url": "https://www.swapupdate.in/threatsday-bulletin-worm-code-leaked-ai-agent-phished-claude-code-patch-28-new-stories/",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRILGY9KcqTFlus6q7_YKlkzrx_LNXb7KS96PijLOM63YqrZIcvxXaf9j0i-sJhst_yL59b7pq32rwcHSSByX7dzVRXSv_dRnrAYqn0Hpps_G7odqCYu8BEonGPMlUkCAz-d0q2No-ojqaZou-b06UwZxzq0oV5CthkgjmTdTBU1JEkWRLV28PwRR5UW7/s1700-e365/tt.png",
+            "publishedAt": "2026-06-14 03:41:20"
         },
         {
             "source": {
@@ -3402,30 +3423,6 @@
             "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-elon-musk-led-blockbuster-spacex-ipo-may-spell-more-bad-news-for-crypto/articleshow/131632199.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-131632199,width-1200,height-630,imgsize-8974,overlay-etmarkets/articleshow.jpg",
             "publishedAt": "2026-06-10T10:14:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Nolte: Luddites in Art Directors Union Attack Martin Scorsese for Using AI",
-            "url": "https://www.breitbart.com/entertainment/2026/06/10/nolte-luddites-in-art-directors-union-attack-martin-scorsese-for-using-ai/",
-            "urlToImage": "https://media.breitbart.com/media/2026/06/GettyImages-2240324017-640x335.png",
-            "publishedAt": "2026-06-10T10:13:35Z"
-        },
-        {
-            "source": {
-                "id": "eaeed30dacd1269c1893de860c94a7e7",
-                "name": "USA TODAY",
-                "url": "https://www.usatoday.com",
-                "country": "us"
-            },
-            "title": "AI erodes trust teachers, students rely on in the classroom",
-            "url": "https://www.usatoday.com/story/opinion/voices/2026/06/10/ai-erodes-trust-teachers-students/90421505007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/09/USAT/90477242007-usatsi-29157641.jpg?crop=2550,1435,x0,y268&width=2550&height=1435&format=pjpg&auto=webp",
-            "publishedAt": "2026-06-10T10:05:21Z"
         }
     ]
 }
