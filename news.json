@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-06-16T00:27:08.893876Z",
+    "lastUpdatedAt": "2026-06-16T06:30:26.953095Z",
     "articles": [
+        {
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com",
+                "country": "us"
+            },
+            "title": "AI is cutting hours of office work, but also creating busywork",
+            "url": "https://www.chicagotribune.com/2026/06/15/ai-office-work-busywork/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2026/06/CTC-Z-AI-OFFICE-WORK-01.jpg?w=1024&h=683",
+            "publishedAt": "2026-06-15T18:22:50Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US stocks: Nvidia’s jumbo bond sale draws $85 billion of investor demand",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-jumbo-bond-sale-draws-85-billion-of-investor-demand/articleshow/131751921.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-131751918,width-1200,height-630,imgsize-148422,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-06-15T17:49:00Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Anthropic employees in D.C. to meet with White House officials",
+            "url": "https://www.upi.com/Top_News/US/2026/06/15/anthropic-white-house/6381781537871/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/6381781537871/2026/1/b2434a1009e5cedba47aef96c2f4add7/v1.5/Anthropic-employees-in-DC-to-meet-with-White-House-officials.jpg",
+            "publishedAt": "2026-06-15T17:41:03Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Microsoft sued by shareholders over AI costs, Cloud slump",
+            "url": "https://www.thenews.com.pk/latest/1406049-microsoft-sued-by-shareholders-over-ai-costs-cloud-slump",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-06-15/1406049_102705_updates.jpg",
+            "publishedAt": "2026-06-15T17:30:00Z"
+        },
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "Voice AI could bridge the gap between India's AI haves and have-nots",
+            "url": "https://www.business-standard.com/technology/artificial-intelligence/voice-ai-could-bridge-the-gap-between-india-s-ai-haves-and-have-nots-126061501393_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/15/thumb/fitandfill/1200X628/1781543974-9497.jpg",
+            "publishedAt": "2026-06-15T17:24:25Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "Anthropic CEO Calls for AI Regulation Amid Growing Industry Concerns",
+            "url": "https://www.naturalnews.com/2026-06-15-anthropic-ceo-calls-ai-regulation-industry-concerns.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/ai-regulation-anthropic-dario-amodei-2071-original.jpg",
+            "publishedAt": "2026-06-15T17:22:04Z"
+        },
+        {
+            "source": {
+                "id": "3855a489b685d9599a636250ed950d3c",
+                "name": "Android Police",
+                "url": "https://www.androidpolice.com",
+                "country": "us"
+            },
+            "title": "I love my Fitbit Coach, but I don't trust it - and that's the tech industry's real problem",
+            "url": "https://www.androidpolice.com/the-worlds-gone-mad-with-its-drive-to-put-ai-in-everything/",
+            "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/fitbit-coach-ai-workout-plan-on-a-smartwatch-with-warning-icons.png?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-06-15T17:00:17Z"
+        },
+        {
+            "source": {
+                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
+                "name": "Social Media Today",
+                "url": "https://www.socialmediatoday.com",
+                "country": "us"
+            },
+            "title": "Pinterest adds AI updates for SMBs",
+            "url": "https://www.socialmediatoday.com/news/pinterest-adds-ai-updates-for-smbs/822969/",
+            "urlToImage": "https://imgproxy.divecdn.com/a7I5_W1RH1IpqhhOF2mmMOCAQfesL8z-1QUre8jYlbs/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfcGVyZm9ybWFuY2VfcGx1c190Q0hGdmo5LnBuZw==.webp",
+            "publishedAt": "2026-06-15T16:55:58Z"
+        },
+        {
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+            },
+            "title": "Coding at 7, CEO at 16: Inside Pranjali Awasthi's 100 crore AI journey",
+            "url": "https://www.businesstoday.in/technology/news/story/coding-at-7-ceo-at-16-inside-pranjali-awasthis-rs100-crore-ai-journey-537041-2026-06-15",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a302c78b10be-in-march-2025--she-graduated-with-a-bachelor-of-science-degree-from-the-georgia-institute-of-technol-154643286-16x9.png",
+            "publishedAt": "2026-06-15T16:52:42Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "arbitrage model won't survive AI era, warns Uniphore CEO",
+            "url": "https://www.cnbctv18.com/technology/ai-threat-to-indian-it-services-cost-arbitrage-model-uniphore-umesh-sachdev-ws-l-19925955.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/06/uniphore-15jun-2026-06-c050fac027a8fc2e38e4357796201dc1.jpg?im=FitAndFill,width=500,height=300",
+            "publishedAt": "2026-06-15T16:47:03Z"
+        },
         {
             "source": {
                 "id": "85b540771682043e2a9f294068f5345b",
@@ -480,6 +600,87 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/almost-a-year-after-giving-engineers-access-to-claude-and-cursor-disney-tells-engineers-minimise-ai-coded-products-that-/articleshow/131728705.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-131728698,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-06-15T01:44:00Z"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "AI compute is becoming a question of choice, not just raw power: Intel’s Anil Nanduri | HT Tech Insider",
+            "url": "https://www.hindustantimes.com/technology/ai-compute-is-becoming-a-question-of-choice-not-just-raw-power-intel-s-anil-nanduri-ht-tech-insider-101781545699986.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/06/15/1600x900/logo/YRACXGFX4VBIZPEO21O7ANM4B_1781546452856_1781546463869_3fdfdfe2-1e8e-45b8-861c-2ea630268baa.jpg",
+            "publishedAt": "2026-06-15 18:03:15"
+        },
+        {
+            "source": {
+                "name": "mashable_us"
+            },
+            "title": "How to get AI to love your resume",
+            "url": "https://mashable.com/tech/how-to-get-ai-to-love-your-resume",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/074xDouGkkCHrPOKh7TYnoB/hero-image.fill.size_1200x675.v1781497850.jpg",
+            "publishedAt": "2026-06-15 17:26:34"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Evolution Digital Technologies Launches Enhanced Shared Computing Infrastructure to Support ...",
+            "url": "https://www.postregister.com/businessreport/technology/evolution-digital-technologies-launches-enhanced-shared-computing-infrastructure-to-support/article_c32fe93d-0a63-5c83-b9d7-ec6fc879c361.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2026-06-15 15:32:21"
+        },
+        {
+            "source": {
+                "name": "crypto_reporter"
+            },
+            "title": "Evolution Digital Technologies Launches Enhanced Shared Computing Infrastructure to Support Growing AI Demand",
+            "url": "https://www.crypto-reporter.com/newsfeed/evolution-digital-technologies-launches-enhanced-shared-computing-infrastructure-to-support-growing-ai-demand-127938/",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/9fa7eaa3-24e1-44d9-b45c-dd2883e1c92d/uliluio-84641.jpg",
+            "publishedAt": "2026-06-15 15:30:00"
+        },
+        {
+            "source": {
+                "name": "techgenyz"
+            },
+            "title": "RTX Pro 6000 Blackwell Price Spikes: Striking Cost Tier",
+            "url": "https://techgenyz.com/rtx-pro-6000-blackwell-price/",
+            "urlToImage": "https://techgenyz.com/wp-content/uploads/2026/06/RTX-1.webp",
+            "publishedAt": "2026-06-15 14:58:13"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Taiwan firm unveils next-gen humanoid robot for real-world operations",
+            "url": "https://us.headtopics.com/news/taiwan-firm-unveils-next-gen-humanoid-robot-for-real-world-84527017",
+            "urlToImage": "https://i.headtopics.com/images/2026/6/15/intengineering/taiwan-firm-unveils-next-gen-humanoid-robot-for-re-taiwan-firm-unveils-next-gen-humanoid-robot-for-re-2BADBBE6E203D96C6BC734A4BE9EC268.webp",
+            "publishedAt": "2026-06-15 14:36:07"
+        },
+        {
+            "source": {
+                "name": "financialexpress"
+            },
+            "title": "Schneider Electric, Foxconn partner to build next-generation AI data centres",
+            "url": "https://www.financialexpress.com/business/news-schneider-electric-foxconn-partner-to-build-next-generation-ai-data-centres-4268022/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/06/Untitled-design-2026-02-19T112541.925_20260325153412_20260406134812_20260615141943.png",
+            "publishedAt": "2026-06-15 14:22:01"
+        },
+        {
+            "source": {
+                "name": "timesnownews"
+            },
+            "title": "Apple's New Siri Could Eventually Come With A Monthly Subscription, What We Know",
+            "url": "https://www.timesnownews.com/technology-science/apples-new-siri-could-eventually-come-with-a-monthly-subscription-what-we-know-article-154630863",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-154630846,width-1280,height-720,,resizemode-75/154630846.jpg",
+            "publishedAt": "2026-06-15 14:19:37"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "Taiwan’s new ‘intelligent’ humanoid robot combines sensing and adaptive interaction",
+            "url": "https://interestingengineering.com/ai-robotics/taiwan-humanoid-robot-real-world-operations",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Untitled-design-2026-06-15T191133.047.jpg",
+            "publishedAt": "2026-06-15 13:43:51"
         },
         {
             "source": {
@@ -3240,234 +3441,6 @@
             "url": "https://foxbaltimore.com/news/nation-world/businesses-feeling-the-pain-from-ai-spending-so-openai-reportedly-weighs-price-cuts",
             "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/5714/1320/40x433/90/9ee1f3f3-c4f4-413a-a419-af7e4a7b46bb-GettyImages2277319832.jpg",
             "publishedAt": "2026-06-11T20:00:05Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "Businesses feeling the pain from AI spending, so OpenAI reportedly weighs price cuts",
-            "url": "https://wjla.com/news/nation-world/businesses-feeling-the-pain-from-ai-spending-so-openai-reportedly-weighs-price-cuts",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/5714/1320/40x433/90/9ee1f3f3-c4f4-413a-a419-af7e4a7b46bb-GettyImages2277319832.jpg",
-            "publishedAt": "2026-06-11T20:00:05Z"
-        },
-        {
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "The Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            },
-            "title": "Interested in investing in AI? Check out this new $350 million trust",
-            "url": "https://www.fool.com.au/2026/06/12/interested-in-investing-in-ai-check-out-this-new-350-million-trust/",
-            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2024/12/new-tech-16.9-1200x675.jpg",
-            "publishedAt": "2026-06-11T20:00:00Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "Do you live near a data center? Tell us what it’s like",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2026/06/11/do-you-live-near-a-data-center-tell-us-what-its-like/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
-            "publishedAt": "2026-06-11T19:59:28Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Open-source AI may aid climate and development but deepen inequality, experts warn",
-            "url": "https://phys.org/news/2026-06-source-ai-aid-climate-deepen.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/open-source-artificial.jpg",
-            "publishedAt": "2026-06-11T19:40:08Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Anthropic Prepares Its Own Data Centers with Potential Support from Google",
-            "url": "https://www.marketscreener.com/news/anthropic-prepares-its-own-data-centers-with-potential-support-from-google-ce7f5cd8dc8af22d",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-05-30T200202Z_1_LYNXNPEL4T10W_RTROPTP_4_ANTHROPIC-AI.JPG",
-            "publishedAt": "2026-06-11T19:33:12Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Jeff Bezos-led AI startup Prometheus valued at $41B in blockbuster fundraising",
-            "url": "https://nypost.com/2026/06/11/business/jeff-bezos-led-ai-startup-prometheus-valued-at-41b-in-blockbuster-fundraising/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/crop-39646770.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-06-11T18:59:33Z"
-        },
-        {
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
-                "country": "in"
-            },
-            "title": "Post-Naxalism Bastar Poised to Double Income of Inhabitant Tribals in 3 Years: Sai",
-            "url": "https://www.deccanchronicle.com/nation/post-naxalism-bastar-poised-to-double-income-of-inhabitant-tribals-in-3-years-sai-1962987",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/06/11/2050767-vishnu.jpg",
-            "publishedAt": "2026-06-11T18:45:14Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI in nursing raises questions about safety, ethics, and human care",
-            "url": "https://medicalxpress.com/news/2026-06-ai-nursing-safety-ethics-human.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/ai-in-nursing-raises-q.jpg",
-            "publishedAt": "2026-06-11T18:40:07Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Rare Evo 2026 Brings Top Blockchain and AI Leaders to Las Vegas With Free Admission",
-            "url": "https://www.benzinga.com/pressreleases/26/06/53152625/rare-evo-2026-brings-top-blockchain-and-ai-leaders-to-las-vegas-with-free-admission",
-            "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/11/Rare-Evo-2026-Brings-Top-Blockchain-and-.jpeg",
-            "publishedAt": "2026-06-11T18:28:02Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "CoreWeave AI Funding Goes Global With Euro Junk",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-11/coreweave-ai-funding-goes-global-with-first-euro-junk-bond-deal",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix8f65fcBZL4/v0/1200x800.jpg",
-            "publishedAt": "2026-06-11T15:30:21Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "PM Modi Pushes States To Tap FTA Benefits, Draw Investments At Niti Aayog Meeting",
-            "url": "https://www.ndtvprofit.com/economy/pm-modi-pushes-states-to-tap-fta-benefits-draw-investments-at-niti-aayog-meeting-11623967",
-            "urlToImage": "https://c.ndtvimg.com/2026-06/8jbv60sg_s_625x300_11_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-06-11T15:17:28Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "DoorDash rolls out AI chatbot to pick your dinner, stock your fridge and book a table",
-            "url": "https://www.latimes.com/business/story/2026-06-11/doordash-rolls-out-ai-chatbot-to-pick-your-dinner-stock-your-fridge-book-table",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/31a4d62/2147483647/strip/true/crop/3600x1890+0+183/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd1%2F7f%2F34d404bc4dbb9f35c1d2bc99372e%2F2567318-fi-adv-app-restaurants-02-cmh.JPG",
-            "publishedAt": "2026-06-11T14:32:07Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Five human skills AI still can’t match - and why they could save your job",
-            "url": "https://www.latimes.com/business/story/2026-06-11/5-human-skills-ai-still-cant-match-why-they-could-save-your-job",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/e6464fb/2147483647/strip/true/crop/1920x1008+0+136/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F21%2F55%2Fffcc2f5d426ea9c394847f4da2cc%2Fdd4245859ad84a6db5850e2a3452880c.jpg",
-            "publishedAt": "2026-06-11T14:25:29Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Value Roles With AI as Recent Graduates Face Hiring Challenges – NaturalNews.com",
-            "url": "https://www.naturalnews.com/2026-06-11-banks-replace-lower-value-roles-with-ai.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/ai-banking-employment-1980-original.jpg",
-            "publishedAt": "2026-06-11T14:17:30Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Crusoe Pushed Aside at Wyoming AI Project After Google Concerns",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-11/crusoe-pushed-aside-at-wyoming-ai-project-after-google-concerns",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaqzeHJosUNo/v1/1200x801.jpg",
-            "publishedAt": "2026-06-11T14:17:26Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "Deezer Declares War On AI Music Across Spotify And Apple Music",
-            "url": "https://www.timesnownews.com/technology-science/deezer-declares-war-on-ai-music-across-spotify-and-apple-music-article-154577355",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-154577355,width-1280,height-720,resizemode-75/154577355.jpg",
-            "publishedAt": "2026-06-11T14:09:55Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "US stocks rise and oil prices hold steady, even as worries and rates rise due to the Iran war",
-            "url": "https://www.ajc.com/news/2026/06/wall-street-reclaims-some-ground-as-ai-stocks-turn-higher/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/SA7EWPQFDJEGPAOZ5I77MXDDKI.jpg?auth=6ea12d129d3351cf1661850aba21b1baf1f83f3e2d7423673ecdb703602527de&width=1200&height=630&smart=true",
-            "publishedAt": "2026-06-11T14:01:59Z"
-        },
-        {
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            },
-            "title": "AI wealth boom sending San Francisco home prices surging: ‘It’s ridiculous’",
-            "url": "https://www.theguardian.com/us-news/2026/jun/11/ai-wealth-boom-san-francisco-home-prices",
-            "urlToImage": "https://i.guim.co.uk/img/media/aefea904672712bed9532c0032eda29d83535395/379_0_5050_4039/master/5050.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10fb4d7123d53f839e2bf3b7bde33778",
-            "publishedAt": "2026-06-11T14:00:17Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "US stocks rise and oil prices hold steady, even as worries and rates rise due to the Iran war",
-            "url": "https://www.barchart.com/story/news/2412233/us-stocks-rise-and-oil-prices-hold-steady-even-as-worries-and-rates-rise-due-to-the-iran-war",
-            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/4b11a40c56174cd28767b1d4f7d8d592/4b11a40c56174cd28767b1d4f7d8d592_main_financial_markets_wall_street__85_3.jpg",
-            "publishedAt": "2026-06-11T13:56:17Z"
         }
     ]
 }
