@@ -1,6 +1,96 @@
 {
-    "lastUpdatedAt": "2026-06-19T11:17:25.715716Z",
+    "lastUpdatedAt": "2026-06-19T14:54:53.511187Z",
     "articles": [
+        {
+            "source": {
+                "id": "cd80188579ee5a2180862a3115ebdca2",
+                "name": "FOX Weather",
+                "url": "https://www.foxweather.com",
+                "country": "us"
+            },
+            "title": "Man vs machine: Who will walk on Mars first?",
+            "url": "https://www.foxweather.com/earth-space/man-vs-machine-who-walk-mars-first-kalshi",
+            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/06/1024/512/gettyimages-615304646-scaled.jpg?ve=1&tl=1",
+            "publishedAt": "2026-06-19T02:39:46Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Your Social Feed Is About To Change Forever. Here's How",
+            "url": "https://www.ndtv.com/feature/instagram-threads-tiktok-your-social-feed-is-about-to-change-forever-heres-how-11657488",
+            "urlToImage": "https://c.ndtvimg.com/2026-06/p2si5pb8_instagram-threads-tiktok_625x300_19_June_26.jpeg",
+            "publishedAt": "2026-06-19T02:38:38Z"
+        },
+        {
+            "source": {
+                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
+                "name": "Deadline",
+                "url": "https://deadline.com",
+                "country": "us"
+            },
+            "title": "John Waters Would Use AI To \"Cure Cancer\" But \"Not To Help Me Write\"",
+            "url": "https://deadline.com/2026/06/john-waters-would-not-use-ai-help-me-write-1236962505/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/06/P115WFS6-e1781833262875.jpg?w=750",
+            "publishedAt": "2026-06-19T01:52:47Z"
+        },
+        {
+            "source": {
+                "id": "f6aff458be2c33b80c8600fb696f68fb",
+                "name": "Caixin",
+                "url": "https://www.caixinglobal.com",
+                "country": "cn"
+            },
+            "title": "Analysis: China’s New Jobs Plan Zeros In on AI, Youth Employment",
+            "url": "https://www.caixinglobal.com/2026-06-19/analysis-chinas-new-jobs-plan-zeros-in-on-ai-youth-employment-102455779.html",
+            "urlToImage": "https://img.caixin.com/2026-06-18/178176623996713_560_373.jpg",
+            "publishedAt": "2026-06-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f6aff458be2c33b80c8600fb696f68fb",
+                "name": "Caixin",
+                "url": "https://www.caixinglobal.com",
+                "country": "cn"
+            },
+            "title": "In Depth: How AI Is Rewiring White",
+            "url": "https://www.caixinglobal.com/2026-06-19/in-depth-how-ai-is-rewiring-white-collar-work-in-china-102455431.html",
+            "urlToImage": "https://img.caixin.com/2026-06-18/178176770101752_560_373.jpg",
+            "publishedAt": "2026-06-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "dailynewsen"
+            },
+            "title": "BagelTechNews.com Tech Updates: Discover Exciting Innovations Today",
+            "url": "https://dailynewsen.com/bageltechnews-com-tech-updates-discover-exciting-innovations-today/",
+            "urlToImage": "https://dailynewsen.com/wp-content/uploads/2025/07/pexels-photo-3405461-scaled.jpeg",
+            "publishedAt": "2026-06-19 01:45:07"
+        },
+        {
+            "source": {
+                "name": "onmsft"
+            },
+            "title": "Google-Backed World’s First AI Arts Museum, Dataland, Opens in Los Angeles",
+            "url": "https://windowsreport.com/google-backed-worlds-first-ai-arts-museum-dataland-opens-in-los-angeles/",
+            "urlToImage": "https://windowsreport.com/wp-content/uploads/2026/06/Dataland.jpg",
+            "publishedAt": "2026-06-19 01:09:30"
+        },
+        {
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            },
+            "title": "Reliance Industries AGM 2026: Five key things investors will watch for",
+            "url": "https://www.moneycontrol.com/news/business/markets/reliance-industries-agm-2026-five-key-things-investors-will-watch-for-13953316.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/05/20260506122417_reliance-industries.jpg",
+            "publishedAt": "2026-06-18T23:30:06Z"
+        },
         {
             "source": {
                 "id": "28bc60a23a7bf89e60f893506992a3fe",
@@ -732,12 +822,39 @@
         },
         {
             "source": {
+                "name": "bundle_app"
+            },
+            "title": "Worried About AI Data Centers' Impact on Environment? Stop Eating Beef",
+            "url": "https://www.bundle.app/en/breaking-news/worried-about-ai-data-centers-impact-on-environment-stop-eating-beef-DEEA6024-19FC-4F95-8F3B-C3702B398321",
+            "urlToImage": "https://static.bundle.app/news/94725f6b-6295-5828-9633-f117fad5ae1a.jpg",
+            "publishedAt": "2026-06-18 19:39:58"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "The Black Box Problem: CIOs Need Visibility Into AI Agent Behavior",
+            "url": "https://www.bundle.app/en/finance/the-black-box-problem-cios-need-visibility-into-ai-agent-behavior-7F8C7606-1022-451B-A096-F4B7BB7CD27A",
+            "urlToImage": "https://static.bundle.app/news/7598b003-181b-59e0-a470-a84e33375200.jpg",
+            "publishedAt": "2026-06-18 17:14:30"
+        },
+        {
+            "source": {
                 "name": "businesstoday"
             },
             "title": "From AI art to human anatomy: Why Midjourney's leap into medical imaging is turning heads",
             "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/from-ai-art-to-human-anatomy-why-midjourneys-leap-into-medical-imaging-is-turning-heads-537922-2026-06-18",
             "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a3423673e25f-midjourney-said-more-advanced-medical-applications-would-require-regulatory-clearances-before-they-c-185705514-16x9.jpg?size=1280:720",
             "publishedAt": "2026-06-18 16:57:21"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "LLM Security on Kubernetes: Why Standard K8s Security Controls Are Not Enough for AI Agents",
+            "url": "https://www.bundle.app/en/technology/llm-security-on-kubernetes-why-standard-k8s-security-controls-are-not-enough-for-ai-agents-B01C063D-653B-45A0-B285-72AB68D31B29",
+            "urlToImage": "https://static.bundle.app/news/631f5c86-3047-5de3-a3c5-f96c39da2607.jpg",
+            "publishedAt": "2026-06-18 16:47:42"
         },
         {
             "source": {
@@ -3201,138 +3318,6 @@
             "url": "https://www.thenews.com.pk/latest/1406049-microsoft-sued-by-shareholders-over-ai-costs-cloud-slump",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-06-15/1406049_102705_updates.jpg",
             "publishedAt": "2026-06-15T17:30:00Z"
-        },
-        {
-            "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            },
-            "title": "Voice AI could bridge the gap between India's AI haves and have-nots",
-            "url": "https://www.business-standard.com/technology/artificial-intelligence/voice-ai-could-bridge-the-gap-between-india-s-ai-haves-and-have-nots-126061501393_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/15/thumb/fitandfill/1200X628/1781543974-9497.jpg",
-            "publishedAt": "2026-06-15T17:24:25Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Anthropic CEO Calls for AI Regulation Amid Growing Industry Concerns",
-            "url": "https://www.naturalnews.com/2026-06-15-anthropic-ceo-calls-ai-regulation-industry-concerns.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/ai-regulation-anthropic-dario-amodei-2071-original.jpg",
-            "publishedAt": "2026-06-15T17:22:04Z"
-        },
-        {
-            "source": {
-                "id": "3855a489b685d9599a636250ed950d3c",
-                "name": "Android Police",
-                "url": "https://www.androidpolice.com",
-                "country": "us"
-            },
-            "title": "I love my Fitbit Coach, but I don't trust it - and that's the tech industry's real problem",
-            "url": "https://www.androidpolice.com/the-worlds-gone-mad-with-its-drive-to-put-ai-in-everything/",
-            "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/fitbit-coach-ai-workout-plan-on-a-smartwatch-with-warning-icons.png?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-06-15T17:00:17Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "Pinterest adds AI updates for SMBs",
-            "url": "https://www.socialmediatoday.com/news/pinterest-adds-ai-updates-for-smbs/822969/",
-            "urlToImage": "https://imgproxy.divecdn.com/a7I5_W1RH1IpqhhOF2mmMOCAQfesL8z-1QUre8jYlbs/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfcGVyZm9ybWFuY2VfcGx1c190Q0hGdmo5LnBuZw==.webp",
-            "publishedAt": "2026-06-15T16:55:58Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "Coding at 7, CEO at 16: Inside Pranjali Awasthi's 100 crore AI journey",
-            "url": "https://www.businesstoday.in/technology/news/story/coding-at-7-ceo-at-16-inside-pranjali-awasthis-rs100-crore-ai-journey-537041-2026-06-15",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a302c78b10be-in-march-2025--she-graduated-with-a-bachelor-of-science-degree-from-the-georgia-institute-of-technol-154643286-16x9.png",
-            "publishedAt": "2026-06-15T16:52:42Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Massive study maps national medicine trends and health inequalities",
-            "url": "https://www.news-medical.net/news/20260615/Massive-study-maps-national-medicine-trends-and-health-inequalities.aspx",
-            "urlToImage": "https://www.news-medical.net/images/tags/TagImage-1831-45296002389942131275-620x480.jpg",
-            "publishedAt": "2026-06-15T16:49:00Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "arbitrage model won't survive AI era, warns Uniphore CEO",
-            "url": "https://www.cnbctv18.com/technology/ai-threat-to-indian-it-services-cost-arbitrage-model-uniphore-umesh-sachdev-ws-l-19925955.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/06/uniphore-15jun-2026-06-c050fac027a8fc2e38e4357796201dc1.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2026-06-15T16:47:03Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "IIT-K establishes statistics, data science dept: Dept to address shortage of trained faculty in statistical sciences globally",
-            "url": "https://www.hindustantimes.com/cities/lucknow-news/iitk-establishes-statistics-data-science-dept-dept-to-address-shortage-of-trained-faculty-in-statistical-sciences-globally-101781539220481.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/06/15/550x309/For-representation-only--HT-File-Photo-_1781539218547.jpg",
-            "publishedAt": "2026-06-15T16:00:19Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "NASA Trains AI on Billions of Earth Observations to Accelerate Climate Research",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/nasa-is-training-ai-on-billions-of-earth-observations-and-the-results-could-change-climate-research/articleshow/131746508.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-131746509,width-1200,height-630,imgsize-18276247,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-06-15T13:19:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI has decoded how the universe works, but reveals a surprising blind spot that could reshape modern physics",
-            "url": "https://timesofindia.indiatimes.com/science/ai-has-decoded-how-the-universe-works-but-reveals-a-surprising-blind-spot-that-could-reshape-modern-physics/articleshow/131744834.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131744901,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-15T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Anthropic employees in D.C. to meet with White House officials",
-            "url": "https://www.breitbart.com/news/anthropic-employees-in-d-c-to-meet-with-white-house-officials/",
-            "urlToImage": "https://media.breitbart.com/media/2026/06/wi/upi/anthropic-employees-meet-white-house-officials-anthropic-employees-meet-white-house-offici.jpg",
-            "publishedAt": "2026-06-15T12:18:44Z"
         }
     ]
 }
