@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-06-20T17:21:25.068494Z",
+    "lastUpdatedAt": "2026-06-20T19:18:41.478175Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Trump makes major U-turn on Anthropic; says AI firm is no longer a national security threat",
+            "url": "https://www.thenews.com.pk/latest/1406584-trump-makes-major-u-turn-on-anthropic-says-ai-firm-is-no-longer-a-national-security-threat",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-06-20/1406584_110144_updates.jpg",
+            "publishedAt": "2026-06-20T06:01:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "TGCSB's IntraGPT gives Telangana cops instant access to years of case records",
+            "url": "https://timesofindia.indiatimes.com/city/hyderabad/tgcsbs-intragpt-gives-telangana-cops-instant-access-to-years-of-case-records/articleshow/131870888.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-131870934,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-20T05:26:00Z"
+        },
         {
             "source": {
                 "id": "448094ed3f9461bb87a99a218cdaecfe",
@@ -3333,30 +3357,6 @@
             "url": "https://phys.org/news/2026-06-national-teachers-guidance-ai-classroom.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/teen-with-laptop.jpg",
             "publishedAt": "2026-06-16T23:00:01Z"
-        },
-        {
-            "source": {
-                "id": "a6eca0d46b8950e7f02b79d1f1477607",
-                "name": "BreakingNews.ie",
-                "url": "https://www.breakingnews.ie",
-                "country": "ie"
-            },
-            "title": "Society must change in era of artificial intelligence, says Nvidia boss",
-            "url": "https://www.breakingnews.ie/world/society-must-change-in-era-of-artificial-intelligence-says-nvidia-boss-1914596.html",
-            "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMTYyMTU3MzFcXFwvYTJiNWY4MmMyY2IxNDc2ZTk1MTNjNzEwZjQ4YmE1YzMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI0YWJmMWYzMzMyZDAzOTA1MzQ1NWFmMDQ2NTE2MWQzODExOTlhNmYzIn0=/society-must-change-in-era-of-artificial-intelligence-says-nvidia-boss.jpg",
-            "publishedAt": "2026-06-16T20:55:00Z"
-        },
-        {
-            "source": {
-                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-                "name": "SFGATE",
-                "url": "https://www.sfgate.com",
-                "country": "us"
-            },
-            "title": "ICE says relaxed detention standards 'reduce the burden' on contractors running its lockups",
-            "url": "https://www.sfgate.com/news/politics/article/ice-says-relaxed-detention-standards-reduce-the-22308156.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/66/40/52/31066756/6/rawImage.jpg",
-            "publishedAt": "2026-06-16T20:52:40Z"
         }
     ]
 }
