@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-06-22T06:24:22.389348Z",
+    "lastUpdatedAt": "2026-06-22T12:45:09.505833Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "What a global ranking really means for your university choice",
+            "url": "https://www.thestar.com.my/starpicks/2026/06/22/what-a-global-ranking-really-means-for-your-university-choice",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/22/3969824.png",
+            "publishedAt": "2026-06-21T23:30:00Z"
+        },
+        {
+            "source": {
+                "id": "63fec970d50112ee9b8bc1418d9c5872",
+                "name": "Scientific Computing World",
+                "url": "https://www.scientific-computing.com",
+                "country": "us"
+            },
+            "title": "Digital twins, quantum computing and 40 years of HPC: What to watch at ISC High Performance 2026",
+            "url": "https://www.scientific-computing.com/article/digital-twins-quantum-computing-40-years-hpc-what-watch-isc-high-performance-2026",
+            "urlToImage": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
+            "publishedAt": "2026-06-21T22:33:38Z"
+        },
+        {
+            "source": {
+                "id": "010284b7a4ddb4771793c29b39893951",
+                "name": "CHEK News",
+                "url": "https://cheknews.ca",
+                "country": "ca"
+            },
+            "title": "AI safety advocates say bill a good 'first step' on regulation, but more needed",
+            "url": "https://cheknews.ca/ai-safety-advocates-say-bill-a-good-first-step-on-regulation-but-more-needed-1332005/",
+            "urlToImage": "https://cheknews.ca/wp-content/uploads/2026/06/bc1a4b13-8782-4845-ba91-4c2410acb9cc-scaled-e1782080045625.jpg",
+            "publishedAt": "2026-06-21T22:14:46Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "AI designed a cancer vaccine for dog, but scientists say 'outdated' red tape barrier for human care",
+            "url": "https://www.abc.net.au/news/2026-06-22/australian-dog-cancer-treated-via-mrna-vaccine-and-ai/106692668",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/b30cca9631e5870ff3232af5446fcab0?impolicy=wcms_watermark_news&cropH=1965&cropW=3493&xPos=347&yPos=195&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-06-21T20:25:26Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Santander Targets More Revenue, Cost Cuts Through AI",
+            "url": "https://www.marketscreener.com/news/santander-targets-more-revenue-cost-cuts-through-ai-ce7f5cd3d981f727",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-06-21T20:15:00Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Nevada booms as workers flock from California amid game-changing lithium discovery",
+            "url": "https://nypost.com/2026/06/21/us-news/nevada-booms-as-workers-flock-from-california-amid-game-changing-lithium-discovery/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/crop-39746183.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-06-21T19:56:10Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "AI safety advocates say bill a good 'first step'",
+            "url": "https://www.cp24.com/news/canada/2026/06/21/ai-safety-advocates-say-bill-a-good-first-step-on-regulation-but-more-needed/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/XI3V76S5BTGZSTYKFNVG7QVDN4.jpg?smart=true&auth=9ae9e4f80c368bc887436e0e912cb1c36b3f15a7ccf1f9c8a3e1fb2c13720184&width=1200&height=630",
+            "publishedAt": "2026-06-21T18:39:05Z"
+        },
         {
             "source": {
                 "id": "0ce70f407e0fa82ddaeeb29243aa8210",
@@ -384,6 +468,15 @@
             "url": "https://www.spokesman.com/stories/2026/jun/21/tech-workers-who-dont-embrace-ai-face-triple-the-l/",
             "urlToImage": "https://media.spokesman.com/graphics/2020/08/sr_placeholder.png",
             "publishedAt": "2026-06-21T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "autoconnectedcar"
+            },
+            "title": "Connected Car News: Visteon, Qualcomm, EverDriven, Google, Android Auto, AUTOSAR, iSOFT & Geotab",
+            "url": "https://www.autoconnectedcar.com/2026/06/connected-car-news-28/",
+            "urlToImage": "https://cdn.autoconnectedcar.com/wp-content/uploads/2016/02/embeddedchipstipstiny.png",
+            "publishedAt": "2026-06-21 20:38:20"
         },
         {
             "source": {
@@ -3327,102 +3420,6 @@
             "url": "https://www.bloomberg.com/news/articles/2026-06-17/china-plans-mechanism-to-evaluate-ai-impacts-on-job-market",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFdIdsrszEKk/v1/1200x800.jpg",
             "publishedAt": "2026-06-17T11:19:44Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI executives gather at G7 as Europeans seek checks on American dominance",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-executives-gather-at-g7-as-europeans-seek-checks-on-american-dominance/articleshow/131798253.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-255824,resizemode-75,msid-131798253/tech/artificial-intelligence/ai-executives-gather-at-g7-as-europeans-seek-checks-on-american-dominance.jpg",
-            "publishedAt": "2026-06-17T11:15:26Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "AI use in UK hits 'tipping point' as companies scale up, Google exec says",
-            "url": "https://www.reuters.com/world/uk/ai-use-uk-hits-tipping-point-companies-scale-up-google-exec-says-2026-06-17/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/MY4XV5SR3VIG5K2JAU4RGWZAEE.jpg?auth=95d3c7d062bee974cea6343c41f274d1f5b5b5454bcea370f9935245fe202bd5&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-06-17T11:14:55Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI use in UK hits 'tipping point' as companies scale up, Google exec says",
-            "url": "https://www.devdiscourse.com/article/technology/3936067-ai-use-in-uk-hits-tipping-point-as-companies-scale-up-google-exec-says",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png&width=920&format=jpeg",
-            "publishedAt": "2026-06-17T11:13:51Z"
-        },
-        {
-            "source": {
-                "id": "b76d069607ae6330d5f65a02c543a320",
-                "name": "Outlook India",
-                "url": "https://www.outlookindia.com",
-                "country": "in"
-            },
-            "title": "G7 Hot Mic Highlights: From Meloni's Smoking Confession To Trump's Greenland Remark",
-            "url": "https://www.outlookindia.com/international/g7-hot-mic-highlights-from-melonis-smoking-confession-to-trumps-greenland-remark",
-            "urlToImage": "https://cf-images.assettype.com/outlookindia/2026-06-17/8c9m320o/bundeskanzler?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-06-17T11:00:08Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "HI hybrid grievance redressal model to boost citizen satisfaction: Jitendra Singh",
-            "url": "https://www.tribuneindia.com/news/business/govt-develops-ai-hi-hybrid-grievance-redressal-model-to-boost-citizen-satisfaction-jitendra-singh/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ1N2ZiNTgwLTZhM2EtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-06-17T10:53:47Z"
-        },
-        {
-            "source": {
-                "id": "b76d069607ae6330d5f65a02c543a320",
-                "name": "Outlook India",
-                "url": "https://www.outlookindia.com",
-                "country": "in"
-            },
-            "title": "Mimoh Chakraborty Defends AI Use in Vikram Bhatt's Haunted 3D Sequel Amid Online Backlash",
-            "url": "https://www.outlookindia.com/art-entertainment/mimoh-chakraborty-responds-to-criticism-over-ai-in-haunted-3d-echoes-of-the-past",
-            "urlToImage": "https://cf-images.assettype.com/outlookindia/2026-06-17/2scdibjr/Mimoh-Chakraborty-on-use-of-AI-in-Haunted-3D.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-06-17T10:25:59Z"
-        },
-        {
-            "source": {
-                "id": "6bc94426ae0cbbdb312f14c0f86b4708",
-                "name": "Ubergizmo",
-                "url": "https://www.ubergizmo.com",
-                "country": "us"
-            },
-            "title": "OpenAI’s ChatGPT Loses Majority AI Assistant Market Share",
-            "url": "https://www.ubergizmo.com/2026/06/chatgpt-loses-market-share/",
-            "urlToImage": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2023/03/070223-chatgpt-ai.jpg",
-            "publishedAt": "2026-06-17T10:25:10Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Anthropic’s Fable Is Too Cautious to Be a Menace",
-            "url": "https://www.bloomberg.com/opinion/articles/2026-06-17/anthropic-s-fable-was-too-restrictive-to-threaten-us-security",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQuGhw5F8vDA/v1/1200x800.jpg",
-            "publishedAt": "2026-06-17T10:00:15Z"
         }
     ]
 }
