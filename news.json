@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-06-23T14:44:45.228104Z",
+    "lastUpdatedAt": "2026-06-23T17:13:01.071574Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "SA government moves to regulate AI data centres as water, energy concerns mount",
+            "url": "https://www.abc.net.au/news/2026-06-23/sa-push-for-ai-data-centres-in-sa-in-new-strategy/106830536",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/32fe077bef4dc2be110caf7c88f8eda9?impolicy=wcms_watermark_news&cropH=3942&cropW=7008&xPos=0&yPos=365&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-06-23T05:12:42Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Meta pauses AI training programme after internal data leak: Report",
+            "url": "https://www.firstpost.com/tech/meta-pauses-ai-training-programme-after-internal-data-leak-report-14025238.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/02/social3-2026-02-57b8a2f84f32ac3fa9719a81ff27a3f6.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2026-06-23T05:00:02Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Petrol stations in the US accused of using AI to boost prices",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/23/petrol-stations-in-the-us-accused-of-using-ai-to-boost-prices",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/23/3971976.jpg",
+            "publishedAt": "2026-06-23T05:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Sunshine Coast students push back as Australia positions itself as a global AI leader",
+            "url": "https://www.abc.net.au/news/2026-06-23/students-protest-ai-amid-growing-national-concerns/106808776",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/72e035cd90e5f76de563a3bbc578ad79?impolicy=wcms_watermark_news&cropH=1125&cropW=2000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-06-23T04:53:07Z"
+        },
+        {
+            "source": {
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
+                "country": "in"
+            },
+            "title": "AI Rewrites Oracle: 21,000 Jobs Cut As Cloud Wars Turn Fiercer, Tech Giants Double Down On Automation, Layoffs Signal New Rules; Will More People Lose Jobs To AI?",
+            "url": "https://www.newsx.com/business/ai-rewrites-oracle-layoffs-21000-jobs-cut-as-cloud-wars-turn-fiercer-tech-giants-double-down-on-automation-layoffs-signal-new-rules-will-more-people-lose-jobs-to-ai-239614/",
+            "urlToImage": "https://www.newsx.com/wp-content/uploads/2026/06/oracle-layoff.jpg",
+            "publishedAt": "2026-06-23T04:49:27Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Wikipedia won't let AI edit articles, co-founder Jimmy Wales says",
+            "url": "https://www.thehindu.com/sci-tech/technology/wikipedia-wont-let-ai-edit-articles-co-founder-jimmy-wales-says/article71135980.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/r5gh00/article71135986.ece/alternates/LANDSCAPE_1200/Wikipedia_25th_Anniversay_39548.jpg",
+            "publishedAt": "2026-06-23T04:47:18Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme to Build Enterprise-Ready AI Talent",
+            "url": "https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-154732300,width-1280,height-720,resizemode-75/154732300.jpg",
+            "publishedAt": "2026-06-23T04:45:55Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Wikipedia won't let AI edit articles, co-founder says",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/23/wikipedia-won039t-let-ai-edit-articles-co-founder-says",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/23/3971901.jpg",
+            "publishedAt": "2026-06-23T04:30:00Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Mamdani and AI industry flex political power in New York, plus more to watch in Tuesday’s primaries",
+            "url": "https://wtop.com/national/2026/06/mamdani-and-ai-industry-flex-political-power-in-new-york-plus-more-to-watch-in-tuesdays-primaries/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/06/Election_2_26_New_York_Primary_Mamdani_929_6-scaled.jpg",
+            "publishedAt": "2026-06-23T04:06:57Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "BP Among Companies Sued in US for Using AI to Boost Fuel Prices",
+            "url": "https://www.marketscreener.com/news/bp-among-companies-sued-in-us-for-using-ai-to-boost-fuel-prices-ce7f5fdad88df72c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-06-23T04:03:14Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -120,6 +240,24 @@
             "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-falls-for-third-day-erases-600-billion-in-market-value/articleshow/131922678.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-131922671,width-1200,height-630,imgsize-70422,overlay-etmarkets/articleshow.jpg",
             "publishedAt": "2026-06-23T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "job4freshers_co_in"
+            },
+            "title": "Zebra Technologies Recruitment 2026 | Software Engineer Jobs in Bengaluru | Apply Online",
+            "url": "https://job4freshers.co.in/zebra-technologies-hiring/",
+            "urlToImage": "https://job4freshers.co.in/wp-content/uploads/2021/09/zebra-job.png",
+            "publishedAt": "2026-06-23 04:58:17"
+        },
+        {
+            "source": {
+                "name": "nynewscast"
+            },
+            "title": "AI Data Center Market Projected to Reach USD 810.6 Billion by 2033 as Enterprises Accelerate Investments in AI Infrastructure",
+            "url": "https://nynewscast.com/ai-data-center-market-projected-to-reach-usd-810-6-billion-by-2033-as-enterprises-accelerate-investments-in-ai-infrastructure-231040/",
+            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+            "publishedAt": "2026-06-23 02:52:00"
         },
         {
             "source": {
@@ -1136,6 +1274,15 @@
             "title": "Energy and Utilities Analytics Market Gains Traction Amid Growing Demand for Real-Time Utility Analytics and Key Growth Drivers",
             "url": "https://www.rdrnews.com/online_features/press_releases/energy-and-utilities-analytics-market-gains-traction-amid-growing-demand-for-real-time-utility-analytics/article_c19af099-1bb8-54f4-a0c8-75865f72a88e.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/1/cf/1cf446d9-6e28-50e7-8454-0c8d1e860687/6a3a4544295e3.image.jpg?crop=300%2C300%2C80%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2026-06-22 21:20:03"
+        },
+        {
+            "source": {
+                "name": "sweetwaterreporter"
+            },
+            "title": "Energy and Utilities Analytics Market Gains Traction Amid Growing Demand for Real-Time Utility Analytics and Key Growth Drivers",
+            "url": "https://www.sweetwaterreporter.com/online_features/press_releases/energy-and-utilities-analytics-market-gains-traction-amid-growing-demand-for-real-time-utility-analytics/article_d363f264-98b7-5187-8417-0cf59ede348b.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/sweetwaterreporter.com/content/tncms/assets/v3/editorial/5/3d/53df1799-c4e6-58ff-aa31-b75bcd4221a6/6a3a370de3585.image.jpg?crop=300%2C300%2C80%2C0&resize=200%2C200&order=crop%2Cresize",
             "publishedAt": "2026-06-22 21:20:03"
         },
         {
@@ -3300,150 +3447,6 @@
             "url": "https://www.marketscreener.com/news/optomed-wins-order-from-us-based-screening-services-provider-ce7f5cd2db8ff127",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
             "publishedAt": "2026-06-19T04:52:14Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Times of India Launches Inaugural 'TOI AI Quotient Awards' to Celebrate Pioneers in AI Innovation",
-            "url": "https://www.tribuneindia.com/news/business/times-of-india-launches-inaugural-toi-ai-quotient-awards-to-celebrate-pioneers-in-ai-innovation/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZmZjRkMjgwLTZiOTktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-06-19T04:43:31Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Anthropic Has the Template for Fixing Its Mythos Nightmare",
-            "url": "https://www.bloomberg.com/opinion/articles/2026-06-19/anthropic-has-nvidia-template-for-fixing-its-mythos-fable-nightmare",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOsonbYnWg1I/v1/1200x800.jpg",
-            "publishedAt": "2026-06-19T04:00:15Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Apple CEO says AI boom makes price increases 'unavoidable'",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/19/apple-ceo-says-ai-boom-makes-price-increases-039unavoidable039",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/19/3965936.jpg",
-            "publishedAt": "2026-06-19T03:00:00Z"
-        },
-        {
-            "source": {
-                "id": "cd80188579ee5a2180862a3115ebdca2",
-                "name": "FOX Weather",
-                "url": "https://www.foxweather.com",
-                "country": "us"
-            },
-            "title": "Man vs machine: Who will walk on Mars first?",
-            "url": "https://www.foxweather.com/earth-space/man-vs-machine-who-walk-mars-first-kalshi",
-            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/06/1024/512/gettyimages-615304646-scaled.jpg?ve=1&tl=1",
-            "publishedAt": "2026-06-19T02:39:46Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Your Social Feed Is About To Change Forever. Here's How",
-            "url": "https://www.ndtv.com/feature/instagram-threads-tiktok-your-social-feed-is-about-to-change-forever-heres-how-11657488",
-            "urlToImage": "https://c.ndtvimg.com/2026-06/p2si5pb8_instagram-threads-tiktok_625x300_19_June_26.jpeg",
-            "publishedAt": "2026-06-19T02:38:38Z"
-        },
-        {
-            "source": {
-                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
-                "name": "Deadline",
-                "url": "https://deadline.com",
-                "country": "us"
-            },
-            "title": "John Waters Would Use AI To \"Cure Cancer\" But \"Not To Help Me Write\"",
-            "url": "https://deadline.com/2026/06/john-waters-would-not-use-ai-help-me-write-1236962505/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/06/P115WFS6-e1781833262875.jpg?w=750",
-            "publishedAt": "2026-06-19T01:52:47Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Chinese AI improves forecasts as Hong Kong braces for super typhoons",
-            "url": "https://www.scmp.com/tech/article/3357567/chinese-ai-improves-forecasts-hong-kong-braces-super-typhoons",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/18/05e83a56-5e0a-44d5-bba1-f825ad6ac5f1_4cfd97aa.jpg?itok=ioB5KQnV&v=1781774366",
-            "publishedAt": "2026-06-19T01:00:10Z"
-        },
-        {
-            "source": {
-                "id": "f6aff458be2c33b80c8600fb696f68fb",
-                "name": "Caixin",
-                "url": "https://www.caixinglobal.com",
-                "country": "cn"
-            },
-            "title": "Analysis: China’s New Jobs Plan Zeros In on AI, Youth Employment",
-            "url": "https://www.caixinglobal.com/2026-06-19/analysis-chinas-new-jobs-plan-zeros-in-on-ai-youth-employment-102455779.html",
-            "urlToImage": "https://img.caixin.com/2026-06-18/178176623996713_560_373.jpg",
-            "publishedAt": "2026-06-19T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f6aff458be2c33b80c8600fb696f68fb",
-                "name": "Caixin",
-                "url": "https://www.caixinglobal.com",
-                "country": "cn"
-            },
-            "title": "In Depth: How AI Is Rewiring White",
-            "url": "https://www.caixinglobal.com/2026-06-19/in-depth-how-ai-is-rewiring-white-collar-work-in-china-102455431.html",
-            "urlToImage": "https://img.caixin.com/2026-06-18/178176770101752_560_373.jpg",
-            "publishedAt": "2026-06-19T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "After social media ban, AI bans could be next for school kids",
-            "url": "https://www.digitaltrends.com/computing/after-social-media-ban-ai-bans-could-be-next-for-school-kids/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2025/11/Untitled-design-74.jpg?resize=1200%2C630",
-            "publishedAt": "2026-06-19 23:09:56"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "The AI Data Crisis: Why Billions in Spending Fail to Deliver Results",
-            "url": "https://www.webpronews.com/the-ai-data-crisis-why-billions-in-spending-fail-to-deliver-results/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/06/article-19328-1781807083.jpeg",
-            "publishedAt": "2026-06-19 21:12:06"
-        },
-        {
-            "source": {
-                "name": "abacusnews"
-            },
-            "title": "McDonald’s Tries AI Drive-Thrus Again: Inside The New Google-Powered ArchIQ System",
-            "url": "https://www.abacusnews.com/mcdonalds-archiq-google-ai-drive-thru/",
-            "urlToImage": "https://www.abacusnews.com/wp-content/uploads/2026/06/McDonald.jpg",
-            "publishedAt": "2026-06-19 20:08:37"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "183 Blog Posts To Learn About Stock Market",
-            "url": "https://hackernoon.com/183-blog-posts-to-learn-about-stock-market",
-            "urlToImage": "https://hackernoon.imgix.net/images/github/stock-market-261.png",
-            "publishedAt": "2026-06-19 20:00:11"
         }
     ]
 }
