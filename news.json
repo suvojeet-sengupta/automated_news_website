@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-06-24T20:44:48.719355Z",
+    "lastUpdatedAt": "2026-06-24T22:12:32.339059Z",
     "articles": [
+        {
+            "source": {
+                "id": "3d24c816061d69b2e23b8583aed9b447",
+                "name": "Euronews",
+                "url": "https://www.euronews.com",
+                "country": "fr"
+            },
+            "title": "World's fastest supercomputer is now from China, surpassing US and Germany",
+            "url": "https://www.euronews.com/next/2026/06/24/worlds-fastest-supercomputer-is-now-from-china-surpassing-us-and-germany",
+            "urlToImage": "https://images.euronews.com/articles/stories/09/81/13/91/1200x675_cmsv2_ea9e4e0a-4f3c-580e-a0a0-84978fb075dd-9811391.jpg",
+            "publishedAt": "2026-06-24T10:09:30Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "TikTok Parent ByteDance Eyes Record $20 Bn Loan for AI Expansion",
+            "url": "https://www.outlookbusiness.com/corporate/tiktok-parent-bytedance-eyes-record-20-bn-loan-for-ai-expansion",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-06-24/hu1sp6h0/ChatGPT-Image-Jun-24-2026-032555-PM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-06-24T10:06:32Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Japan Unveils $2.3 Trillion Investment Plan for Next 14 Years",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-24/japan-unveils-2-3-trillion-investment-plan-for-next-14-years",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy4yxPserHkE/v1/1200x800.jpg",
+            "publishedAt": "2026-06-24T09:58:24Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "As graduates worry about AI and jobs, Google CEO Sundar Pichai tells Stanford students to 'choose optimism'",
+            "url": "https://timesofindia.indiatimes.com/education/careers/news/as-graduates-worry-about-ai-jobs-google-ceo-sundar-pichai-tells-stanford-students-to-choose-optimism/articleshow/131961677.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-131962803,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-24T09:25:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Intense AI use still rare among euro zone firms, ECB researchers find",
+            "url": "https://www.reuters.com/business/intense-ai-use-still-rare-among-euro-zone-firms-ecb-researchers-find-2026-06-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/VMJEGOMV7NLSNIRW62OBKD7D3U.jpg?auth=4a4026a70c070422c876f1ed99b654e79f9912a5361391ac1a250c296d21649f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-06-24T09:03:48Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Your Home Could Help Solve AI’s Growing Power Demand",
+            "url": "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/06/24/multimedia/24biz-distributed-energy-1-lcmh/24biz-distributed-energy-1-lcmh-facebookJumbo.jpg",
+            "publishedAt": "2026-06-24T09:02:13Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Could Brazil’s Next Big Soccer Star Be Scouted By AI?",
+            "url": "https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/06/23/00int-worldcup-brazil-ai-37638-cover/00int-worldcup-brazil-ai-37638-cover-facebookJumbo.jpg",
+            "publishedAt": "2026-06-24T09:01:37Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "Medicare AI program made them suffer in pain. Now they want answers",
+            "url": "https://www.spokesman.com/stories/2026/jun/24/medicare-ai-program-made-them-suffer-in-pain-now-t/",
+            "urlToImage": "https://thumb.spokesman.com/0ttESHAh2RzvJsrYTZvM3fBU8-c=/1200x630/smart/media.spokesman.com/photos/2026/06/24/6a3c215085d03.hires.jpg",
+            "publishedAt": "2026-06-24T08:51:00Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -480,6 +576,33 @@
             "url": "https://apnews.com/article/anthropic-mythos-ai-classified-systems-vulnerabilities-testing-3e8762c0527c4d8ed657cbe48c84a718",
             "urlToImage": "https://dims.apnews.com/dims4/default/2b276c6/2147483647/strip/true/crop/4497x2996+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc4%2Fc8%2F7307239b67c5f453c894355f4782%2F93d0ebe8c07340329767565acc0d387a",
             "publishedAt": "2026-06-24T00:13:48Z"
+        },
+        {
+            "source": {
+                "name": "cio_in"
+            },
+            "title": "Choosing your AI stack: The benefits of vendor lock-in",
+            "url": "https://www.cio.com/article/4188503/choosing-your-ai-stack-the-benefits-of-vendor-lock-in.html",
+            "urlToImage": "https://www.cio.com/wp-content/uploads/2026/06/4188503-0-82949400-1782295415-shubham-dhage-rzqjQjGvOBQ-unsplash.jpg?quality=50&strip=all",
+            "publishedAt": "2026-06-24 10:00:00"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "Can AI Replace Infosys? Nandan Nilekani Responds",
+            "url": "https://www.thehansindia.com/technology/tech-news/can-ai-replace-infosys-nandan-nilekani-responds-1089999",
+            "urlToImage": "https://assets.thehansindia.com/h-upload/2026/06/24/1669219-nandan-nilekani.webp",
+            "publishedAt": "2026-06-24 09:55:57"
+        },
+        {
+            "source": {
+                "name": "umd"
+            },
+            "title": "AIM Seed Grants Support 11 AI Research Projects",
+            "url": "https://today.umd.edu/aim-seed-grants-support-11-ai-research-projects",
+            "urlToImage": "https://umd-today.transforms.svdcdn.com/production/es/heroes/thumbnails/AdobeStock_708688209_1920x1080_thumb_1782247230.jpg?w=1920&h=1080&auto=compress%2Cformat&fit=crop&dm=1782247230&s=a96cae1fbaa54eeb22e603a42c07e53a",
+            "publishedAt": "2026-06-24 09:30:00"
         },
         {
             "source": {
@@ -3258,138 +3381,6 @@
             "url": "https://en.protothema.gr/2026/06/21/kyriakos-mitsotakis-nikos-dendias-to-inaugurate-new-cyber-defence-center-at-the-greek-ministry-of-national-defence-hq-tomorrow/",
             "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/06/dendua_mitso2-1.jpg-1.jpg",
             "publishedAt": "2026-06-21T12:38:00Z"
-        },
-        {
-            "source": {
-                "id": "4fb6c3338f91da7f3748e0764d095541",
-                "name": "The Denver Post",
-                "url": "https://www.denverpost.com",
-                "country": "us"
-            },
-            "title": "Improving Investor Behavior: Automation + innovation = transformation",
-            "url": "https://www.denverpost.com/2026/06/21/improving-investor-behavior-automation-innovation-transformation/",
-            "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/01/steve-booren-headshot-16x9-1.jpg?w=1000&h=562",
-            "publishedAt": "2026-06-21T12:00:47Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Mass Affluent Lose Allure for Wealth Managers Navigating AI",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-21/mass-affluent-lose-allure-for-wealth-managers-navigating-ai",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJb3Du8tts.I/v1/1200x800.jpg",
-            "publishedAt": "2026-06-21T12:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "60 percent surveyed professionals say AI now central to HR operations: Report",
-            "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/60-percent-surveyed-professionals-say-ai-now-central-to-hr-operations-report/articleshow/131889618.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-131889646,width-1200,height-630,imgsize-118258,overlay-etcareers/articleshow.jpg",
-            "publishedAt": "2026-06-21T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "Senator seeking public ownership of AI firms",
-            "url": "https://www.arkansasonline.com/news/2026/jun/21/senator-seeking-public-ownership-of-ai-firms/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213098608_213098407-cd909f06c4b546e19f6ef4170215173a_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-            "publishedAt": "2026-06-21T10:56:00Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Trump tried to block states from regulating AI, but some are forging ahead",
-            "url": "https://www.latimes.com/world-nation/story/2026-06-21/trump-tried-to-block-states-from-regulating-ai-but-some-are-forging-ahead",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/e48f65a/2147483647/strip/true/crop/5334x2800+0+378/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6c%2Fc0%2F9fb273fd4321aab09dae288a31e5%2F37486a217fa544d48645f614a22e55ae.jpg",
-            "publishedAt": "2026-06-21T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI spending boom may keep US inflation and interest rates elevated: Jefferies Report",
-            "url": "https://www.tribuneindia.com/news/business/ai-spending-boom-may-keep-us-inflation-and-interest-rates-elevated-jefferies-report/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM0NWRmODIwLTZkNTAtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-06-21T09:08:22Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI spending boom may keep US inflation and interest rates elevated: Jefferies Report",
-            "url": "https://www.devdiscourse.com/article/business/3938230-ai-spending-boom-may-keep-us-inflation-and-interest-rates-elevated-jefferies-report",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/21_06_2026_14_38_09_3715491.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-06-21T09:08:13Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Natural gas key to Alberta’s AI ambitions, Premier says",
-            "url": "https://www.cp24.com/news/canada/2026/06/21/smith-touts-natural-gas-as-key-to-albertas-ai-ambitions-as-proposed-data-centre-sparks-concerns-in-small-community/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/6S5KYZNLQI37WEEXJLTP3SFATU.jpg?smart=true&auth=96126152376102563615b5564d5f4c4e40033cfec17308d4adcfa962655cc2b2&width=1200&height=630",
-            "publishedAt": "2026-06-21T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "How To Spot the Red Flags Of Artificial Intelligence Scams",
-            "url": "https://www.ndtv.com/offbeat/how-to-spot-the-red-flags-of-artificial-intelligence-scams-11666414",
-            "urlToImage": "https://c.ndtvimg.com/2026-06/56kl480k_the-rise-of-ai-scams-and-how-to-protect-yourself-online_625x300_21_June_26.jpeg",
-            "publishedAt": "2026-06-21T08:16:33Z"
-        },
-        {
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            },
-            "title": "Letters to the editor, June 21: ‘Economic success is possible not only with oil and artificial intelligence. Scott Moe should be applauded’",
-            "url": "https://www.theglobeandmail.com/opinion/letters/article-saskatchewan-economic-success-is-possible-not-only-with-oil-and-ai/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/R3OYBAQRXJEJDIF63EMHDQ3LWE.JPG?auth=0dbded59c077d016c7bcf8ee474e1b76124a36520ea8805335b34fd5e9f0ec0c&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2026-06-21T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "AI can improve lives, Nvidia chief says",
-            "url": "https://www.arkansasonline.com/news/2026/jun/21/ai-can-improve-lives-nvidia-chief-says/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213089000_1GHuang-0621_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-            "publishedAt": "2026-06-21T07:46:00Z"
         }
     ]
 }
