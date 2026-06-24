@@ -1,6 +1,144 @@
 {
-    "lastUpdatedAt": "2026-06-24T10:18:41.666395Z",
+    "lastUpdatedAt": "2026-06-24T13:16:50.250097Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP",
+            "url": "https://www.cnbc.com/2026/06/23/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108323235-1781707962297-gettyimages-2282033342-090a1082_o4bhzzd7.jpeg?v=1781727317&w=1920&h=1080",
+            "publishedAt": "2026-06-24T00:47:57Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "HP builds edge AI device structure",
+            "url": "https://www.bangkokpost.com/business/general/3275764/hp-builds-edge-ai-device-structure",
+            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/06/24/6132259_700.jpeg",
+            "publishedAt": "2026-06-24T00:46:00Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "UN chief says AI companies should share impacts, commit to clean energy",
+            "url": "https://www.latimes.com/environment/story/2026-06-23/un-chief-says-ai-companies-should-share-impacts-commit-to-clean-energy",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/71528f5/2147483647/strip/true/crop/5280x2772+0+99/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2Fa9%2F642061a9401b8f312f9473f95b39%2F666794ca4d3c4fc1a46fc33fc6eb42e7.jpg",
+            "publishedAt": "2026-06-24T00:36:54Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "MoEngage acquires AI startup Aampe in first acquisition; eyes more deals in US, Europe",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/moengage-acquires-ai-startup-aampe-in-first-acquisition-eyes-more-deals-in-us-europe/articleshow/131949688.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2165219,resizemode-75,msid-131949688/tech/artificial-intelligence/moengage-acquires-ai-startup-aampe-in-first-acquisition-eyes-more-deals-in-us-europe.jpg",
+            "publishedAt": "2026-06-24T00:30:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "MoEngage acquires AI startup Aampe in first acquisition; eyes more deals in US, Europe",
+            "url": "https://economictimes.indiatimes.com/tech/startups/moengage-acquires-ai-startup-aampe-in-first-acquisition-eyes-more-deals-in-us-europe/articleshow/131949697.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2165219,resizemode-75,msid-131949697/tech/startups/moengage-acquires-ai-startup-aampe-in-first-acquisition-eyes-more-deals-in-us-europe.jpg",
+            "publishedAt": "2026-06-24T00:30:00Z"
+        },
+        {
+            "source": {
+                "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
+                "name": "InvenGlobal",
+                "url": "https://www.invenglobal.com",
+                "country": "us"
+            },
+            "title": "KRAFTON's Kim Chang-han Meets with AWS to Discuss the Future of AI, Simulation, and Robotics",
+            "url": "https://www.invenglobal.com/valorant/articles/23073/kraftons-kim-chang-han-meets-with-aws-to-discuss-the-future-of-ai-simulation-and-robotics",
+            "urlToImage": "https://static.invenglobal.com/upload/image/2026/06/24/i1782260418172989.jpeg",
+            "publishedAt": "2026-06-24T00:18:10Z"
+        },
+        {
+            "source": {
+                "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
+                "name": "InvenGlobal",
+                "url": "https://www.invenglobal.com",
+                "country": "us"
+            },
+            "title": "KRAFTON's Kim Chang-han Meets with AWS to Discuss the Future of AI, Simulation, and Robotics",
+            "url": "https://www.invenglobal.com/lol/articles/23073/kraftons-kim-chang-han-meets-with-aws-to-discuss-the-future-of-ai-simulation-and-robotics",
+            "urlToImage": "https://static.invenglobal.com/upload/image/2026/06/24/i1782260418172989.jpeg",
+            "publishedAt": "2026-06-24T00:18:10Z"
+        },
+        {
+            "source": {
+                "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
+                "name": "InvenGlobal",
+                "url": "https://www.invenglobal.com",
+                "country": "us"
+            },
+            "title": "KRAFTON's Kim Chang-han Meets with AWS to Discuss the Future of AI, Simulation, and Robotics",
+            "url": "https://www.invenglobal.com/articles/23073/kraftons-kim-chang-han-meets-with-aws-to-discuss-the-future-of-ai-simulation-and-robotics",
+            "urlToImage": "https://static.invenglobal.com/upload/image/2026/06/24/i1782260418172989.jpeg",
+            "publishedAt": "2026-06-24T00:18:10Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Anthropic’s Mythos model found vulnerabilities in classified US government systems, official says",
+            "url": "https://wtop.com/national/2026/06/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/05/Pentagon_AI_77189-scaled.jpg",
+            "publishedAt": "2026-06-24T00:15:51Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Anthropic test found vulnerabilities in classified US systems in hours",
+            "url": "https://apnews.com/article/anthropic-mythos-ai-classified-systems-vulnerabilities-testing-3e8762c0527c4d8ed657cbe48c84a718",
+            "urlToImage": "https://dims.apnews.com/dims4/default/2b276c6/2147483647/strip/true/crop/4497x2996+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc4%2Fc8%2F7307239b67c5f453c894355f4782%2F93d0ebe8c07340329767565acc0d387a",
+            "publishedAt": "2026-06-24T00:13:48Z"
+        },
+        {
+            "source": {
+                "name": "itbrief_in"
+            },
+            "title": "Envoy AI Gateway reaches 1.0 for production AI use",
+            "url": "https://itbrief.in/story/envoy-ai-gateway-reaches-1-0-for-production-ai-use",
+            "urlToImage": "https://itbrief.in/uploads/story/2026/06/24/compatible_debodutta_nutanix.jpg",
+            "publishedAt": "2026-06-24 00:01:00"
+        },
+        {
+            "source": {
+                "name": "securitybrief_in"
+            },
+            "title": "Envoy AI Gateway reaches 1.0 for production AI use",
+            "url": "https://securitybrief.in/story/envoy-ai-gateway-reaches-1-0-for-production-ai-use",
+            "urlToImage": "https://securitybrief.in/uploads/story/2026/06/24/compatible_debodutta_nutanix.jpg",
+            "publishedAt": "2026-06-24 00:01:00"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -963,12 +1101,30 @@
         },
         {
             "source": {
+                "name": "cision"
+            },
+            "title": "ASUS Launches ExpertCenter Pro ET900N G3 Built on NVIDIA DGX Station Architecture",
+            "url": "https://www.prnewswire.com/news-releases/asus-launches-expertcenter-pro-et900n-g3-built-on-nvidia-dgx-station-architecture-302808405.html",
+            "urlToImage": "https://i.ytimg.com/vi/z70xOVy3V40/hqdefault.jpg",
+            "publishedAt": "2026-06-23 22:46:00"
+        },
+        {
+            "source": {
                 "name": "pcmag"
             },
             "title": "The Top 100 Best Budget Buys: Tested Tech Recommended by Our Experts",
             "url": "https://www.pcmag.com/picks/100-best-budget-tech-buys-tested-products-worth-your-money",
             "urlToImage": "https://i.pcmag.com/imagery/roundups/07D7itrO6J0fH8PDpHzpcwp-2.fit_lim.size_1200x630.v1742320511.jpg",
             "publishedAt": "2026-06-23 18:43:29"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI Customers Cut Spending on OpenAI and Anthropic with Smart Optimization Strategies",
+            "url": "https://www.webpronews.com/ai-customers-cut-spending-on-openai-and-anthropic-with-smart-optimization-strategies/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/06/article-19689-1782237205.jpeg",
+            "publishedAt": "2026-06-23 18:22:06"
         },
         {
             "source": {
@@ -3228,174 +3384,6 @@
             "url": "https://www.courant.com/2026/06/20/automakers-and-workers-face-existential-fight-over-robots-future-3/",
             "urlToImage": "https://www.courant.com/wp-content/uploads/2026/06/202606191325MCT_____PHOTO____BIZ-AUTO-ROBOTS-FUTURE-FILEPIC-2-DTN-1.jpg?w=1024&h=708",
             "publishedAt": "2026-06-20T13:00:24Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI-designed protein unlocks virus-like shells that could reshape vaccine and drug delivery",
-            "url": "https://phys.org/news/2026-06-ai-protein-virus-shells-reshape.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-unlocks-the-secrets-2.jpg",
-            "publishedAt": "2026-06-20T13:00:01Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "After banning smartphones, Norway restricts AI use in schools; Country’s PM reminds ‘most important thing’",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-banning-smartphones-norway-restricts-ai-use-in-schools-countrys-pm-reminds-most-important-thing-in-school/articleshow/131875336.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131875324,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-20T12:48:00Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "UnitedHealth’s $3 billion AI push has bots calling doctors",
-            "url": "https://www.courant.com/2026/06/20/unitedhealths-3-billion-ai-push-has-bots-calling-doctors-2/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/06/202606191303MCT_____PHOTO____BIZ-UNITEDHEALTH-AI-BOTS-FILEPIC-DMT.jpg?w=1024&h=682",
-            "publishedAt": "2026-06-20T12:00:20Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "How AI systems may try to blackmail you",
-            "url": "https://nypost.com/2026/06/20/entertainment/how-ai-systems-may-try-to-blackmail-you/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/21PS.MAIN4_.C.TA_.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-06-20T12:00:00Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Chinese AI models overtake ChatGPT, Google’s Gemini in global usage",
-            "url": "https://www.thenews.com.pk/latest/1406620-chinese-ai-models-overtake-chatgpt-google-s-gemini-in-global-usage",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-06-20/1406620_043456_updates.jpg",
-            "publishedAt": "2026-06-20T11:34:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "XRP Investors Are Watching AI Crypto Closely as Ruvi AI Sells 99% of Phase 3 in Less Than a Month",
-            "url": "https://techbullion.com/xrp-investors-are-watching-ai-crypto-closely-as-ruvi-ai-sells-99-of-phase-3-in-less-than-a-month/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/06/image3-copy-2-1000x600.png",
-            "publishedAt": "2026-06-20T11:00:29Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Deutsche Bank Uses AI To Cut Project Timelines From Years To Months, Expands India Tech Role",
-            "url": "https://www.freepressjournal.in/tech/deutsche-bank-uses-ai-to-cut-project-timelines-from-years-to-months-expands-india-tech-role",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-02-20/v1gh9x1e/AI-Job.jpg",
-            "publishedAt": "2026-06-20T10:31:12Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Amazon, Google and Microsoft agree Anthropic is ahead but why they are not bothered",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-google-and-microsoft-agree-anthropic-is-ahead-but-why-they-are-not-bothered/articleshow/131874240.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131874221,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-20T10:23:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "India's data centre pipeline hits 8.33 GW as AI demand reshapes digital infra: Knight Frank India",
-            "url": "https://www.devdiscourse.com/article/business/3937930-indias-data-centre-pipeline-hits-833-gw-as-ai-demand-reshapes-digital-infra-knight-frank-india",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/20_06_2026_15_36_03_1815954.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-06-20T10:06:08Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India's data centre pipeline hits 8.33 GW as AI demand reshapes digital infra: Knight Frank India",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-data-centre-pipeline-hits-8-33-gw-as-ai-demand-reshapes-digital-infra-knight-frank-india/articleshow/131873929.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-137912,resizemode-75,msid-131873929/tech/artificial-intelligence/indias-data-centre-pipeline-hits-8-33-gw-as-ai-demand-reshapes-digital-infra-knight-frank-india.jpg",
-            "publishedAt": "2026-06-20T10:05:35Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "India's data centre pipeline hits 8.33 GW as AI demand reshapes digital infra: Knight Frank India",
-            "url": "https://www.tribuneindia.com/news/business/indias-data-centre-pipeline-hits-8-33-gw-as-ai-demand-reshapes-digital-infra-knight-frank-india/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQzOGFkMDkwLTZjOGYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-06-20T10:03:12Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Apple explains why watchOS 27 drops support for Apple Watch series 6, 7, 8 and Ultra",
-            "url": "https://www.devdiscourse.com/article/technology/3937927-apple-explains-why-watchos-27-drops-support-for-apple-watch-series-6-7-8-and-ultra",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/20_06_2026_15_25_47_1052835.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-06-20T09:55:51Z"
-        },
-        {
-            "source": {
-                "id": "d04a111f7c572391d5ebc35368afd0f9",
-                "name": "South Bend Tribune",
-                "url": "https://www.southbendtribune.com",
-                "country": "us"
-            },
-            "title": "How AI can lead to biased housing decisions",
-            "url": "https://www.southbendtribune.com/story/news/local/2026/06/20/how-ai-can-lead-to-biased-housing-decisions/90409132007/",
-            "urlToImage": "https://www.southbendtribune.com/gcdn/authoring/authoring-images/2026/06/04/NSBT/90409273007-dsc-06292.JPG?crop=4911,2763,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2026-06-20T09:02:45Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "Foundation Stones Laid for Major Infrastructure Projects at RGIPT Bengaluru Campus",
-            "url": "https://www.outlookbusiness.com/news/foundation-stones-laid-for-major-infrastructure-projects-at-rgipt-bengaluru-campus",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-06-20/wfzy6v5u/ChatGPT-Image-Jan-14-2026-095046-AM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-06-20T08:58:51Z"
         }
     ]
 }
