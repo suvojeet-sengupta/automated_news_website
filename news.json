@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-06-25T17:08:18.125857Z",
+    "lastUpdatedAt": "2026-06-25T19:52:22.056631Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "YTL AI Labs powers Yes to become Malaysia’s AI-first telco",
+            "url": "https://www.thestar.com.my/business/business-news/2026/06/25/ytl-ai-labs-powers-yes-to-become-malaysias-ai-first-telco",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/25/3976507.jpg",
+            "publishedAt": "2026-06-25T07:35:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Prosus Investment Values Health Insurer Alan at $6.3 Billion",
+            "url": "https://www.marketscreener.com/news/prosus-investment-values-health-insurer-alan-at-6-3-billion-ce7f5fd8da8df22d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-06-25T07:31:02Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Nasdaq futures jump 2% as Micron, Qualcomm forecasts relieve investors",
+            "url": "https://www.reuters.com/business/nasdaq-futures-jump-2-micron-qualcomm-forecasts-relieve-investors-2026-06-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/4JDIHXCRVRKB7K3SOYRYKICUJM.jpg?auth=0005003fedb0335938073ec7a7dff2dde70acc17b1e37e69c1aeae41280936a6&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-06-25T07:30:30Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nasdaq futures jump 2% as Micron, Qualcomm forecasts relieve investors",
+            "url": "https://www.marketscreener.com/news/nasdaq-futures-jump-2-as-micron-qualcomm-forecasts-relieve-investors-ce7f5fd8da8df225",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-27T105246Z_2_LYNXMPEM3Q0MR_RTROPTP_4_GLOBAL-MARKETS.JPG",
+            "publishedAt": "2026-06-25T07:29:37Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "After two high-profile AI departures, Google set to lose two more top researchers to Anthropic",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-two-high-profile-ai-departures-google-set-to-lose-two-more-top-researchers-to-anthropic/articleshow/131985972.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-131986167,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-25T07:09:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Anthropic Accuses Alibaba of Illegal Extraction of Claude Data",
+            "url": "https://www.marketscreener.com/news/anthropic-accuses-alibaba-of-illegal-extraction-of-claude-data-ce7f5fd8da88ff2d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-06-25T06:59:21Z"
+        },
+        {
+            "source": {
+                "id": "69a24b80e5bce5a07f808f5ea84c434b",
+                "name": "Arkansas Online",
+                "url": "https://www.arkansasonline.com",
+                "country": "us"
+            },
+            "title": "Agility Robotics set to go public",
+            "url": "https://www.arkansasonline.com/news/2026/jun/25/agility-robotics-set-to-go-public/",
+            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213121636_4DRobotics0625_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+            "publishedAt": "2026-06-25T06:43:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Micron gets the market moving again",
+            "url": "https://www.marketscreener.com/news/latest/Micron-gets-the-market-moving-again-53622758/",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-06-24T113849Z_1_LYNXMPEM5N0RM_RTROPTP_4_MICRON-RESULTS.JPG",
+            "publishedAt": "2026-06-25T06:05:31Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "A solution to AI’s growing power demand: Homes",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/25/a-solution-to-ais-growing-power-demand-homes",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/25/3976248.jpg",
+            "publishedAt": "2026-06-25T06:00:00Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "Hong Kong turns to AI to tackle persistent rat infestations, but challenges remain",
+            "url": "https://www.channelnewsasia.com/east-asia/hong-kong-rats-infestation-ai-thermal-imaging-cameras-challenges-6209216",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--bPiJ2jCw--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/25/rats_composite.png?itok=1gq6V75s",
+            "publishedAt": "2026-06-25T05:59:49Z"
+        },
         {
             "source": {
                 "id": "f2ddccedc9e60d844e7a1045928cad48",
@@ -144,6 +264,24 @@
             "url": "https://www.channelnewsasia.com/advertorial/ai-could-unlock-us600-billion-year-in-climate-and-sustainability-value-2028-6184031",
             "urlToImage": "https://dam.mediacorp.sg/image/upload/s--CCevcH_p--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/15/bstudio_bcg_adobestock_1152049419.jpeg?itok=PpEO_oKP",
             "publishedAt": "2026-06-25T01:31:08Z"
+        },
+        {
+            "source": {
+                "name": "itbrief_in"
+            },
+            "title": "Qualcomm to buy Modular in push for edge AI software",
+            "url": "https://itbrief.in/story/qualcomm-to-buy-modular-in-push-for-edge-ai-software",
+            "urlToImage": "https://itbrief.in/uploads/story/2026/06/25/compatible_cristiano-amon-and-chris-lattner.jpg",
+            "publishedAt": "2026-06-25 07:30:00"
+        },
+        {
+            "source": {
+                "name": "abplive"
+            },
+            "title": "Top Skill Courses Students Should Consider In 2026 To Stay Ahead In The Job Market",
+            "url": "https://news.abplive.com/education/freshers-job-opening-2026-top-skill-courses-students-should-consider-in-2026-to-stay-ahead-in-job-market-1852505",
+            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/87701f326b7a917d0a06bda7ede30aa217823655237791329_original.jpg?impolicy=abp_cdn&imwidth=1200&height=675",
+            "publishedAt": "2026-06-25 05:43:07"
         },
         {
             "source": {
@@ -3255,150 +3393,6 @@
             "url": "https://www.tribuneindia.com/news/business/info-edge-bets-big-on-ai-deeptech-invests-rs-1003-cr-in-54-startups-since-2020-portfolio-now-at-rs-41300-cr/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ4YjAzOGIwLTZlMzAtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
             "publishedAt": "2026-06-22T11:48:22Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "While the World Races to Automate Everything, Storied Life Is Using AI to Preserve What Makes Us Human",
-            "url": "https://techbullion.com/while-the-world-races-to-automate-everything-storied-life-is-using-ai-to-preserve-what-makes-us-human/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/06/Rafi-Moshe-1000x600.png",
-            "publishedAt": "2026-06-22T11:40:37Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "Canadian claims top prize at Hampton Beach sand sculpting event",
-            "url": "https://www.bostonglobe.com/2026/06/22/metro/hampton-nh-sand-sculpting-2026-champion/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/SR76K3FGTQ4U7RFH2XUTLVPPJM.jpg?auth=9fcf51d2d44bd32a762d9ed0f1456ccb61f431e5d6881da397471d41ac451cee&width=1440",
-            "publishedAt": "2026-06-22T11:31:30Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "Indonesia Plans AI for Key Programs, Including $15 Billion Meals Plan",
-            "url": "https://www.newsmax.com/world/globaltalk/indonesia-ai-government/2026/06/22/id/1260425/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=8d1a16c4-e1bb-4803-9461-77c90ed9b7a0&SiteName=Newsmax",
-            "publishedAt": "2026-06-22T11:26:06Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "Why A Coaching Mindset Is Your Ultimate Alignment With Your Truth",
-            "url": "https://www.forbes.com/councils/forbescoachescouncil/2026/06/22/human-intelligence-reloaded-why-a-coaching-mindset-is-your-ultimate-alignment-with-your-truth/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6407421c7d044e45d4817110/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-06-22T11:15:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Jio Platforms flags talent retention as a key risk to IPO success",
-            "url": "https://www.livemint.com/market/ipo/jio-platforms-flags-talent-retention-as-a-key-risk-to-ipo-success-11782121197885.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/22/1600x900/logo/RELIANCE-JIO-INDIA-IPO-0_1753096654585_1753096666716_1782126466753_4500725f-971c-4bcd-bad2-08420290505f.JPG",
-            "publishedAt": "2026-06-22T11:14:46Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Why former OpenAI researcher Shyamal Anadkat left Silicon Valley for India",
-            "url": "https://indianexpress.com/shorts/trending/trending-in-india/former-openai-researcher-shyamal-anadkat-returns-to-india-silicon-valley-10751905/",
-            "urlToImage": "https://images.indianexpress.com/2026/06/Shyamal-Anadkat-ex-OpenAI-researcher.jpg",
-            "publishedAt": "2026-06-22T11:01:27Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Chatbot-provided information about alcohol consumption and breast cancer risk is inconsistent, new study finds",
-            "url": "https://medicalxpress.com/news/2026-06-chatbot-alcohol-consumption-breast-cancer.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/copilot.jpg",
-            "publishedAt": "2026-06-22T11:00:04Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "US curbs on AI spur European firms to spread the risk",
-            "url": "https://www.reuters.com/legal/litigation/us-curbs-ai-spur-european-firms-spread-risk-2026-06-22/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/KPJDPUO4YZMFNHEZBVEERCZI54.jpg?auth=671ab021e637022c959a22f505ccf15f06c9ea27827d57966cf8c270aadea360&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-06-22T10:57:49Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "Who is the father of Artificial Intelligence? Know about the scientist who coined ‘AI’",
-            "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/who-is-the-father-of-artificial-intelligence-know-about-the-scientist-who-coined-ai-538497-2026-06-22",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a3914379ec11-john-mccarthy--father-of-artificial-intelligence-225338416-16x9.png",
-            "publishedAt": "2026-06-22T10:57:43Z"
-        },
-        {
-            "source": {
-                "id": "bc002b453215c04fa081a97f2c6679b9",
-                "name": "The Hacker News",
-                "url": "https://thehackernews.com",
-                "country": "us"
-            },
-            "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-            "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWTle5JU3HMoV1yUzXt6nAYO-EtyfOp22bJldi9N4fwakWmzrwwjBKfQNkprStB3B9K5HyUchIUCoNpGs-Kn2EHwClO7xJOV-qZQeDKFllNQrZ-TYq6OiikJkwi65NdfFcR7XhMTuIpmwSdoglwRcMcI43rLGB1B462ZXhd7nkh-q-FNnpPKoeUyL7bUqs/s1700-e365/recap-main.gif",
-            "publishedAt": "2026-06-22T10:55:00Z"
-        },
-        {
-            "source": {
-                "id": "e98c4d2585c4c5661ffe60fed4d51930",
-                "name": "BOL News",
-                "url": "https://www.bolnews.com",
-                "country": "pk"
-            },
-            "title": "OpenAI signs AI deal with Samsung Korea for ChatGPT & Codex rollout",
-            "url": "https://www.bolnews.com/technology/openai-signs-ai-deal-with-samsung-korea-for-chatgpt-codex-rollout/",
-            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2026/06/OpenAI-1.webp",
-            "publishedAt": "2026-06-22T10:33:22Z"
-        },
-        {
-            "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            },
-            "title": "Call screening to in-call agent: Can voice be AI's next growth frontier?",
-            "url": "https://www.business-standard.com/technology/artificial-intelligence/call-screening-to-in-call-agent-can-voice-be-ai-s-next-growth-frontier-126062200634_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/22/thumb/featurecrop/1200X628/1782123813-0573.jpg",
-            "publishedAt": "2026-06-22T10:29:18Z"
         }
     ]
 }
