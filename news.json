@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-06-25T08:54:02.225402Z",
+    "lastUpdatedAt": "2026-06-25T11:36:58.477246Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Chip supply to stay constrained 'beyond 2027,' Micron executives say",
+            "url": "https://www.cnbc.com/2026/06/24/chip-supply-to-stay-constrained-beyond-2027-micron-executives-say.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108279191-1773779927968-gettyimages-2256071928-MICRON_NY.jpeg?v=1778011808&w=1920&h=1080",
+            "publishedAt": "2026-06-24T23:11:56Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "AI chatbots show left-wing bias, bombshell report finds; ChatGPT gives lefty answers 80% of time",
+            "url": "https://nypost.com/2026/06/24/media/ai-chatbots-show-left-wing-bias-bombshell-report-finds-chatgpt-gives-lefty-answers-80-of-time/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/Anthropic-CEO-comp.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-06-24T22:51:40Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Thailand data usage beats global average",
+            "url": "https://www.bangkokpost.com/business/general/3276129/thailand-data-usage-beats-global-average",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260625/c1_3276129_260625054305_700.jpg",
+            "publishedAt": "2026-06-24T22:42:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Stock Market Today: Dow, S&P Live Updates for June 25",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-24/us-stock-futures-surge-on-micron-s-strong-forecast-markets-wrap",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itFX5BPJkCTc/v0/1200x675.png",
+            "publishedAt": "2026-06-24T22:04:22Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Elastic to Slash 7% of Workforce; Chief Product Officer to Step Down",
+            "url": "https://www.marketscreener.com/news/elastic-to-slash-7-of-workforce-chief-product-officer-to-step-down-ce7f5fd8d980f12c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-06-24T21:53:41Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Qualcomm Accelerates Push to Be Bigger than Smartphone Chips",
+            "url": "https://www.marketscreener.com/news/qualcomm-accelerates-push-to-be-bigger-than-smartphone-chips-ce7f5fd8d981f424",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-06-24T21:39:22Z"
+        },
+        {
+            "source": {
+                "id": "214d496d625fc657723cf4da80cff8ce",
+                "name": "Deccan Chronicle",
+                "url": "https://www.deccanchronicle.com",
+                "country": "in"
+            },
+            "title": "C-DOT, IIT Hyderabad Launch Telecom Research Centre For 6G, AI and Quantum Technologies",
+            "url": "https://www.deccanchronicle.com/southern-states/telangana/c-dot-iit-hyderabad-launch-telecom-research-centre-for-6g-ai-and-quantum-technologies-1966067",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/06/24/2056071-img9998.jpg",
+            "publishedAt": "2026-06-24T21:28:07Z"
+        },
         {
             "source": {
                 "id": "a8984f03fe66dae9745793f6560aa444",
@@ -1056,6 +1140,15 @@
             "url": "https://apnews.com/article/anthropic-mythos-ai-classified-systems-vulnerabilities-testing-3e8762c0527c4d8ed657cbe48c84a718",
             "urlToImage": "https://dims.apnews.com/dims4/default/2b276c6/2147483647/strip/true/crop/4497x2996+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc4%2Fc8%2F7307239b67c5f453c894355f4782%2F93d0ebe8c07340329767565acc0d387a",
             "publishedAt": "2026-06-24T00:13:48Z"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Lenovo Redefines Enterprise AI Economics with Agentic AI and Inferencing Innovations",
+            "url": "https://www.postregister.com/businessreport/technology/lenovo-redefines-enterprise-ai-economics-with-agentic-ai-and-inferencing-innovations/article_4eab44ef-2edc-5824-8484-c84e14547429.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2026-06-24 23:05:19"
         },
         {
             "source": {
@@ -3324,102 +3417,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/06/22/gobind-govt-adopts-two-pronged-approach-to-tackle-content-misuse-and-drafts-ai-governance-bill",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/22/3970505.jpg",
             "publishedAt": "2026-06-22T07:45:00Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "AI boom to fuel India’s data centre surge, Goldman Sachs highlights key growth drivers",
-            "url": "https://www.firstpost.com/business/ai-boom-to-fuel-indias-data-centre-surge-goldman-sachs-highlights-key-growth-drivers-14024942.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/06/image-2026-06-d68f0fafd3e8dd5b22892eb8e1fe7a0e-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-06-22T07:12:15Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Oak Valley Health selects Sectra One Cloud to strengthen cybersecurity and streamline imaging",
-            "url": "https://www.prnewswire.co.uk/news-releases/oak-valley-health-selects-sectra-one-cloud-to-strengthen-cybersecurity-and-streamline-imaging-302806162.html",
-            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-            "publishedAt": "2026-06-22T07:08:00Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Why a Chinese renewables giant is pondering a majority localisation in Europe",
-            "url": "https://www.scmp.com/business/china-business/article/3357855/why-chinese-renewables-giant-wants-put-over-50-operations-europe",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/22/755ef9b0-8aeb-4b15-ac7b-b50c912b8166_fd5ea262.jpg?itok=w9A9cZFE&v=1782092120",
-            "publishedAt": "2026-06-22T06:30:00Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "‘Used ChatGPT’: Maharashtra CM Fadnavis slams Oppn ahead of state monsoon session",
-            "url": "https://www.hindustantimes.com/india-news/used-chatgpt-maharashtra-cm-fadnavis-slams-oppn-ahead-of-state-monsoon-session-101782098316405.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/06/22/550x309/ANI-20250607194-0_1749365887728_1782098966737_855a0b70-4279-4015-b9c7-7b89fff0165a.jpg",
-            "publishedAt": "2026-06-22T05:01:39Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Chinese AI Stocks Rally on Demand Optimism and Policy Support",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-22/chinese-ai-stocks-rally-on-demand-optimism-and-policy-support",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyAihogo9bbo/v0/1200x800.jpg",
-            "publishedAt": "2026-06-22T05:01:32Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Blue Cloud Softech Share Price Soars 17% On AI Collaboration Talks With Elon Musk's SpaceX",
-            "url": "https://www.ndtvprofit.com/markets/blue-cloud-softech-share-price-soars-17-on-ai-collaboration-talks-with-elon-musks-spacex-11669326",
-            "urlToImage": "https://c.ndtvimg.com/2026-06/q71vli0k_blkue_625x300_22_June_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-06-22T05:00:57Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Inspira Enterprise Expands to Full Suite of ServiceNow Platform Capabilities",
-            "url": "https://www.prnewswire.co.uk/news-releases/inspira-enterprise-expands-to-full-suite-of-servicenow-platform-capabilities-302805219.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2997186/Inspira_ServiceNow_Logo.jpg?p=facebook",
-            "publishedAt": "2026-06-22T05:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Insilico Medicine And SK Biopharmaceuticals Achieved AI-powered Drug Discovery Collaboration Worth Up to 2.5 Billion for Neuroimmune Disorders",
-            "url": "https://www.manilatimes.net/2026/06/22/tmt-newswire/pr-newswire/insilico-medicine-and-sk-biopharmaceuticals-achieved-ai-powered-drug-discovery-collaboration-worth-up-to-25-billion-for-neuroimmune-disorders/2369761",
-            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-06-22T04:53:36Z"
         }
     ]
 }
