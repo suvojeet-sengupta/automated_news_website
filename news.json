@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-06-25T05:00:42.364611Z",
+    "lastUpdatedAt": "2026-06-25T08:54:02.225402Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "WaPo: Most AI Chatbots Lean Left on Politics",
+            "url": "https://www.newsmax.com/politics/politics-ai-chatbots/2026/06/24/id/1260774/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=64f76120-06fb-4fab-a8a1-93e05138dc8e&SiteName=Newsmax",
+            "publishedAt": "2026-06-24T20:23:50Z"
+        },
+        {
+            "source": {
+                "id": "8867e8e7dcb6466620736bb48c455572",
+                "name": "STAT",
+                "url": "https://www.statnews.com",
+                "country": "us"
+            },
+            "title": "Eli Lilly dives into hair loss treatments with investment in AI startup Absci",
+            "url": "https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/",
+            "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_175910024-1024x576.jpeg",
+            "publishedAt": "2026-06-24T20:01:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Are algorithms unfairly screening out immigrant job applications?",
+            "url": "https://phys.org/news/2026-06-algorithms-unfairly-screening-immigrant-job.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/job-fair.jpg",
+            "publishedAt": "2026-06-24T20:00:08Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "The Physical AI Era Has Arrived. The Real Question Is Who's Steering It?",
+            "url": "https://www.ibtimes.com/physical-ai-era-has-arrived-real-question-whos-steering-it-3804526",
+            "urlToImage": "https://d.ibtimes.com/en/full/4650553/monty-mccoy.png",
+            "publishedAt": "2026-06-24T19:52:48Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Qualcomm to Buy Modular for $3.9B to Help AI Push",
+            "url": "https://www.marketscreener.com/news/qualcomm-to-buy-modular-for-3-9b-to-help-ai-push-ce7f5fdbd080f024",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3654434.png",
+            "publishedAt": "2026-06-24T19:48:25Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuA9I8ntkV40/v0/1200x800.jpg",
+            "publishedAt": "2026-06-24T19:36:41Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "OpenAI Makes Custom AI Chip Debut With Jalapeño As Part of Broadcom Deal",
+            "url": "https://www.ibtimes.com/openai-makes-custom-ai-chip-debut-jalapeno-part-broadcom-deal-3804514",
+            "urlToImage": "https://d.ibtimes.com/en/full/4650538/openai-broadcom-jalapeno.jpg",
+            "publishedAt": "2026-06-24T19:34:10Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Airlines turn to AI to save fuel; IndiGo to start trials for thriftier take-offs from today",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/airlines-turn-to-ai-to-save-fuel-indigo-to-start-trials-for-thriftier-take-offs-from-today/articleshow/131976920.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-131976918,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-24T19:26:00Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Google poised to lose two more high-profile AI staffers to Anthropic",
+            "url": "https://www.latimes.com/business/story/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/4c6a57d/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F5c%2Fbb646c50128e9630ac3f680808f3%2F1x-1.jpg",
+            "publishedAt": "2026-06-24T19:01:41Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI spots landslide risks near power towers before failures, tests show",
+            "url": "https://phys.org/news/2026-06-ai-landslide-power-towers-failures.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/power-lines-1.jpg",
+            "publishedAt": "2026-06-24T19:00:02Z"
+        },
         {
             "source": {
                 "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
@@ -936,6 +1056,60 @@
             "url": "https://apnews.com/article/anthropic-mythos-ai-classified-systems-vulnerabilities-testing-3e8762c0527c4d8ed657cbe48c84a718",
             "urlToImage": "https://dims.apnews.com/dims4/default/2b276c6/2147483647/strip/true/crop/4497x2996+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc4%2Fc8%2F7307239b67c5f453c894355f4782%2F93d0ebe8c07340329767565acc0d387a",
             "publishedAt": "2026-06-24T00:13:48Z"
+        },
+        {
+            "source": {
+                "name": "hannaherald"
+            },
+            "title": "RCMP hampered by outdated technology and 'risk averse' culture: report",
+            "url": "https://www.hannaherald.com/news/politics/rcmp-hampered-by-outdated-technology-and-risk-averse-culture-report",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/05/2246895542_299949568.jpg",
+            "publishedAt": "2026-06-24 19:52:42"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Qualcomm Unveils Comprehensive Data Center Roadmap for the Agentic AI Era with New Qualcomm Dragonfly Portfolio",
+            "url": "https://www.postregister.com/businessreport/technology/qualcomm-unveils-comprehensive-data-center-roadmap-for-the-agentic-ai-era-with-new-qualcomm-dragonfly/article_0f3b715c-9db7-5b5c-bb06-b340285fc81b.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/2/39/2395d46d-b555-512b-9966-10160f39792c/6a3c31779b99e.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-06-24 19:30:30"
+        },
+        {
+            "source": {
+                "name": "bostonglobe"
+            },
+            "title": "With major conference in town, Mass. seeks to boost quantum computing efforts",
+            "url": "https://www.bostonglobe.com/2026/06/24/business/quantum-computing-massachusetts-startups-conference/",
+            "urlToImage": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/QLT35QUUMXINTMV4O72PI4Q3RQ.jpg?auth=1085a5e622fe1e61593b1d1a84c2778687ff3ab37cadf8eafba46d8dbf6ed3a0&smart=true&width=4646&height=3393",
+            "publishedAt": "2026-06-24 18:55:06"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "HPE Updates Hardware, Private Cloud And Networking For Agentic AI Era",
+            "url": "https://www.forbes.com/sites/maribellopez/2026/06/24/hpe-updates-hardware-private-cloud-and-networking-for--agentic-ai-era/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a3c1a04e3fcc2282623bb0c/0x0.jpg?width=960&precrop=1934%2C1088%2Cx50%2Cy0",
+            "publishedAt": "2026-06-24 18:43:22"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "From Cloud to BiharGPT: State charts ambitious AI roadmap",
+            "url": "https://timesofindia.indiatimes.com/city/patna/from-cloud-to-bihargpt-state-charts-ambitious-ai-roadmap/articleshow/131975606.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+            "publishedAt": "2026-06-24 18:18:42"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top Data Science Programs Integrating AI, ML, Data Engineering, and Generative AI",
+            "url": "https://www.analyticsinsight.net/data-science/top-data-science-programs-integrating-ai-ml-data-engineering-and-generative-ai",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-06-24/k53036lb/Top-Data-Science-Programs-Integrating-AI-ML-Data-Engineering-and-Generative-AI.jpg",
+            "publishedAt": "2026-06-24 18:15:00"
         },
         {
             "source": {
@@ -3246,180 +3420,6 @@
             "url": "https://www.manilatimes.net/2026/06/22/tmt-newswire/pr-newswire/insilico-medicine-and-sk-biopharmaceuticals-achieved-ai-powered-drug-discovery-collaboration-worth-up-to-25-billion-for-neuroimmune-disorders/2369761",
             "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
             "publishedAt": "2026-06-22T04:53:36Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "Reliance Industries jump 3%: CLSA sees highest upside at ₹1,800, brokerages upbeat on Jio IPO, AI and new energy plans",
-            "url": "https://www.thehindubusinessline.com/markets/reliance-industries-jump-3-clsa-sees-highest-upside-at-1800-brokerages-upbeat-on-jio-ipo-ai-and-new-energy-plans/article71131772.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/hpj5f9/article71131783.ece/alternates/LANDSCAPE_1200/2026-06-19T133616Z_1779763479_RC2ZWLA8T64B_RTRMADP_3_RELIANCE-JIO-IPO.JPG",
-            "publishedAt": "2026-06-22T04:42:05Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Can AI help us age better? Scientists are trying to find out",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/22/can-ai-help-us-age-better-scientists-are-trying-to-find-out",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/22/3970010.jpg",
-            "publishedAt": "2026-06-22T04:30:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "National Australia Bank Launches Operations Hub to Guard Against AI-Enabled Threats, Support Banking Services",
-            "url": "https://www.marketscreener.com/news/national-australia-bank-launches-operations-hub-to-guard-against-ai-enabled-threats-support-banking-ce7f5cd3db88f62c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-06-22T04:24:41Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Trump tells Axios he no longer views Anthropic as national security threat",
-            "url": "https://www.thehindu.com/sci-tech/technology/trump-tells-axios-he-no-longer-views-anthropic-as-national-security-threat/article71131612.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/6vahcg/article71131616.ece/alternates/LANDSCAPE_1200/2026-06-19T195213Z_310597209_RC2TRLAXD9Z6_RTRMADP_3_USA-TRUMP-ANTHROPIC-AXIOS.JPG",
-            "publishedAt": "2026-06-22T04:02:27Z"
-        },
-        {
-            "source": {
-                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
-                "name": "FinanzNachrichten",
-                "url": "https://www.finanznachrichten.de",
-                "country": "de"
-            },
-            "title": "Spider Labs, Inc.: Spider Labs Issues Fraud Warning as Fake World Cup Streaming Sites Surge",
-            "url": "https://www.finanznachrichten.de/nachrichten-2026-06/68822165-spider-labs-inc-spider-labs-issues-fraud-warning-as-fake-world-cup-streaming-sites-surge-200.htm",
-            "urlToImage": "https://www.finanznachrichten.de/content/g/fb.png",
-            "publishedAt": "2026-06-22T03:38:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "MKN: Viral data leak claims old incident, unrelated to current platforms",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/22/mkn-viral-data-leak-claims-old-incident-unrelated-to-current-platforms",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/22/3969925.jpg",
-            "publishedAt": "2026-06-22T03:37:00Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Why Synthetic Data Will Define the Next Phase of AI-Driven Video in Australia",
-            "url": "https://itwire.com/guest-articles/guest-opinion/why-synthetic-data-will-define-the-next-phase-of-ai-driven-video-in-australia",
-            "urlToImage": "https://media.itwire.com/2026/06/22/why-synthetic-data-will-define-the-next-phase-of-ai-driven-video-in-australia-99b464bc0636.webp",
-            "publishedAt": "2026-06-22T02:22:57Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Elon Musk predicts AI may surpass combined human intelligence in 4-5 years",
-            "url": "https://www.firstpost.com/tech/elon-musk-predicts-ai-may-surpass-combined-human-intelligence-in-4-5-years-14024845.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/02/2026-02-03T203749Z_1663100583_RC2TZHAFZWSB_RTRMADP_3_FRANCE-COURT-X-2026-02-1083d41ad7c158da4af733431ce5e552-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-06-22T02:22:32Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "At home with AI: Balancing the opportunities and challenges of tech-assisted smart living",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/22/at-home-with-ai-balancing-the-opportunities-and-challenges-of-tech-assisted-smart-living",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/21/3968680.jpg",
-            "publishedAt": "2026-06-22T02:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "National security for data centres a ‘risk to investment’",
-            "url": "https://www.afr.com/politics/federal/national-security-for-data-centres-a-risk-to-investment-20260619-p608e0",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.5736%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_180%2C$y_230/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/63197eee9e95ebbe1b5ebd8db0123fc76e99bef1",
-            "publishedAt": "2026-06-22T01:39:40Z"
-        },
-        {
-            "source": {
-                "name": "davisenterprise"
-            },
-            "title": "Energy and Utilities Analytics Market Gains Traction Amid Growing Demand for Real-Time Utility Analytics and Key Growth Drivers",
-            "url": "https://www.davisenterprise.com/online_features/press_releases/energy-and-utilities-analytics-market-gains-traction-amid-growing-demand-for-real-time-utility-analytics/article_f137dbb8-e531-5f6b-802a-e239a9edf517.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/davisenterprise.com/content/tncms/assets/v3/editorial/f/00/f0040127-afc1-5add-9518-0b5ab35333a1/6a3a52f746dc6.image.jpg?crop=300%2C300%2C80%2C0&resize=200%2C200&order=crop%2Cresize",
-            "publishedAt": "2026-06-22 21:20:03"
-        },
-        {
-            "source": {
-                "name": "emporiagazette"
-            },
-            "title": "Energy and Utilities Analytics Market Gains Traction Amid Growing Demand for Real-Time Utility Analytics and Key Growth Drivers",
-            "url": "https://www.emporiagazette.com/online_features/press_releases/article_91a2fc78-026b-515b-a57f-896f95f7839c.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/assets/v3/editorial/e/a7/ea712f25-3b39-504b-9b19-bb7f00c738ce/6a3a3921e3db6.image.jpg?crop=300%2C300%2C80%2C0&resize=200%2C200&order=crop%2Cresize",
-            "publishedAt": "2026-06-22 21:20:03"
-        },
-        {
-            "source": {
-                "name": "recorderonline"
-            },
-            "title": "Energy and Utilities Analytics Market Gains Traction Amid Growing Demand for Real-Time Utility Analytics and Key Growth Drivers",
-            "url": "https://www.recorderonline.com/online_features/press_releases/energy-and-utilities-analytics-market-gains-traction-amid-growing-demand-for-real-time-utility-analytics/article_4eff1307-c218-588a-b4e3-f62ebb09d2d8.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/recorderonline.com/content/tncms/assets/v3/editorial/2/67/2677a1cd-8dde-5af5-aaaf-d7437d071f0b/6a3a54425dfed.image.jpg?crop=300%2C300%2C80%2C0&resize=200%2C200&order=crop%2Cresize",
-            "publishedAt": "2026-06-22 21:20:03"
-        },
-        {
-            "source": {
-                "name": "rdrnews"
-            },
-            "title": "Energy and Utilities Analytics Market Gains Traction Amid Growing Demand for Real-Time Utility Analytics and Key Growth Drivers",
-            "url": "https://www.rdrnews.com/online_features/press_releases/energy-and-utilities-analytics-market-gains-traction-amid-growing-demand-for-real-time-utility-analytics/article_c19af099-1bb8-54f4-a0c8-75865f72a88e.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/1/cf/1cf446d9-6e28-50e7-8454-0c8d1e860687/6a3a4544295e3.image.jpg?crop=300%2C300%2C80%2C0&resize=200%2C200&order=crop%2Cresize",
-            "publishedAt": "2026-06-22 21:20:03"
-        },
-        {
-            "source": {
-                "name": "sweetwaterreporter"
-            },
-            "title": "Energy and Utilities Analytics Market Gains Traction Amid Growing Demand for Real-Time Utility Analytics and Key Growth Drivers",
-            "url": "https://www.sweetwaterreporter.com/online_features/press_releases/energy-and-utilities-analytics-market-gains-traction-amid-growing-demand-for-real-time-utility-analytics/article_d363f264-98b7-5187-8417-0cf59ede348b.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/sweetwaterreporter.com/content/tncms/assets/v3/editorial/5/3d/53df1799-c4e6-58ff-aa31-b75bcd4221a6/6a3a370de3585.image.jpg?crop=300%2C300%2C80%2C0&resize=200%2C200&order=crop%2Cresize",
-            "publishedAt": "2026-06-22 21:20:03"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google Loses Jeff Dean, AI Pioneer and Chief Scientist, After 20+ Years",
-            "url": "https://www.webpronews.com/google-loses-jeff-dean-ai-pioneer-and-chief-scientist-after-20-years/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/06/article-19592-1782099590.jpeg",
-            "publishedAt": "2026-06-22 18:32:06"
         }
     ]
 }
