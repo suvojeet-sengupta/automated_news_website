@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-06-26T06:51:45.764667Z",
+    "lastUpdatedAt": "2026-06-26T10:20:18.251449Z",
     "articles": [
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Apple increases Macs, iPads prices, blames memory chips shortage",
+            "url": "https://www.bnnbloomberg.ca/business/company-news/2026/06/25/apple-increases-prices-for-macs-and-ipads-blaming-a-shortage-of-memory-chips/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/HJCIPVWDLOIJ42T7I5W63MWOKY.jpg?smart=true&auth=f192e5ab94ef67573b4df1458679fe0b15e13a0afa518c930716896a274d8bcb&width=1200&height=630",
+            "publishedAt": "2026-06-25T22:07:01Z"
+        },
+        {
+            "source": {
+                "id": "4ddba5324f2e0216fa6458240fdb0f97",
+                "name": "Wallstreet Online",
+                "url": "https://www.wallstreet-online.de",
+                "country": "de"
+            },
+            "title": "Upstart Publishes May 2026 UMI",
+            "url": "https://www.wallstreet-online.de/nachricht/21043899-upstart-publishes-may-2026-umi",
+            "urlToImage": "https://assets.wallstreet-online.de/_media/3129/unternehmen/branchen/finanzdienstleistungen/size_645/finanzdienstleistung-adobe-stock.jpg",
+            "publishedAt": "2026-06-25T22:05:06Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US won't abruptly deny AI access to India: Govt",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/us-wont-abruptly-deny-ai-access-to-india-govt/articleshow/132003273.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132003276,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-25T21:58:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI in policing: Safeguards can't keep up, new research warns",
+            "url": "https://phys.org/news/2026-06-ai-policing-safeguards.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-in-policing-safegua.jpg",
+            "publishedAt": "2026-06-25T21:40:05Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Integrating AI on the Factory Floor Without Disruption with Insights from Nishkam Batta, GrayCyan, and HonestAI Magazine",
+            "url": "https://itwire.com/guest-articles/guest-opinion/integrating-ai-on-the-factory-floor-without-disruption-with-insights-from-nishkam-batta-graycyan-and-honestai-magazine",
+            "urlToImage": "https://media.itwire.com/2026/06/25/integrating-ai-on-the-factory-floor-without-disruption-with-insights-from-nishkam-batta-graycyan-and-honestai-magazine-706ee130a134.webp",
+            "publishedAt": "2026-06-25T21:18:39Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Leveraging AI can reduce time and resources in how physicians approach sepsis care",
+            "url": "https://medicalxpress.com/news/2026-06-leveraging-ai-resources-physicians-approach.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/physician.jpg",
+            "publishedAt": "2026-06-25T21:00:05Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Apple increases prices for Macs and iPads, blaming shortage of memory chips",
+            "url": "https://japantoday.com/category/tech/apple-increases-prices-for-macs-and-ipads-blaming-a-shortage-of-memory-chips",
+            "urlToImage": "https://media.japantoday.com/img/store/66/e6/f2734b2f6fad91e7fbed002d730911d36430/download/_w1700.jpeg",
+            "publishedAt": "2026-06-25T20:55:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "SpaceX is moving data centres to space, signalling a new era for space-based computing",
+            "url": "https://timesofindia.indiatimes.com/science/spacex-is-moving-data-centres-to-space-signalling-a-new-era-for-space-based-computing/articleshow/132003047.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132003054,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-25T20:52:00Z"
+        },
+        {
+            "source": {
+                "id": "bc49d994b41ac710f5c89f6e6adeece4",
+                "name": "The Boston Herald",
+                "url": "https://www.bostonherald.com",
+                "country": "us"
+            },
+            "title": "Ticker: Apple hikes prices on Macs, iPads; Jobless claims decline",
+            "url": "https://www.bostonherald.com/2026/06/25/ticker-apple-hikes-prices-on-macs-ipads-jobless-claims-decline/",
+            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/06/AP26176665504357.jpg?w=1024&h=683",
+            "publishedAt": "2026-06-25T20:51:37Z"
+        },
+        {
+            "source": {
+                "id": "8500efae8310099b1bcee1ef95a0434e",
+                "name": "KABC-TV",
+                "url": "https://abc7.com",
+                "country": "us"
+            },
+            "title": "Apple increases prices for Macs and iPads, blaming a shortage of memory chips",
+            "url": "https://abc7.com/post/apple-increases-prices-macs-ipads-blaming-shortage-memory-chips/19382057/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/19382058_062526-kfsn-apple-mac-img.jpg?w=1600",
+            "publishedAt": "2026-06-25T20:47:00Z"
+        },
         {
             "source": {
                 "id": "85e5403407038478a5e7d8d100ff8e8f",
@@ -744,6 +864,15 @@
             "url": "https://www.channelnewsasia.com/advertorial/ai-could-unlock-us600-billion-year-in-climate-and-sustainability-value-2028-6184031",
             "urlToImage": "https://dam.mediacorp.sg/image/upload/s--CCevcH_p--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/15/bstudio_bcg_adobestock_1152049419.jpeg?itok=PpEO_oKP",
             "publishedAt": "2026-06-25T01:31:08Z"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "UW Researchers Created PaperTok, an AI System That Helps Users Turn Research Papers Into Short, Engaging Videos",
+            "url": "https://www.newswise.com/articles/uw-researchers-created-papertok-an-ai-system-that-helps-users-turn-research-papers-into-short-engaging-videos/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/assets/new/img/logo-banner.jpg",
+            "publishedAt": "2026-06-25 19:45:13"
         },
         {
             "source": {
@@ -3282,138 +3411,6 @@
             "url": "https://wtop.com/national/2026/06/mamdani-and-ai-industry-flex-political-power-in-new-york-plus-more-to-watch-in-tuesdays-primaries/",
             "urlToImage": "https://wtop.com/wp-content/uploads/2026/06/Election_2_26_New_York_Primary_Mamdani_929_6-scaled.jpg",
             "publishedAt": "2026-06-23T04:06:57Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "BP Among Companies Sued in US for Using AI to Boost Fuel Prices",
-            "url": "https://www.marketscreener.com/news/bp-among-companies-sued-in-us-for-using-ai-to-boost-fuel-prices-ce7f5fdad88df72c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-06-23T04:03:14Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI tools may reshape higher education by automating marking and personalizing feedback",
-            "url": "https://phys.org/news/2026-06-ai-tools-reshape-higher-automating.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/ai-for-education-the-d.jpg",
-            "publishedAt": "2026-06-23T02:40:06Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "More Than 40% of Australian Small, Medium Businesses Using AI Tools, NAB Says",
-            "url": "https://www.marketscreener.com/news/more-than-40-of-australian-small-medium-businesses-using-ai-tools-nab-says-ce7f5fdad88bf324",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-06-23T02:31:12Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Oracle has fired 21,000 employees this year, cites AI replacements in annual filing",
-            "url": "https://www.firstpost.com/tech/oracle-has-fired-21000-employees-this-year-cites-ai-replacements-in-annual-filing-14025176.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/06/Oracle-layoffs-2026-06-1633dffdd21ff0d900845c7bfcf60404-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-06-23T02:21:26Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "AI companies should release environmental impact, commit to clean energy, says UN chief",
-            "url": "https://www.breitbart.com/news/ai-companies-should-release-environmental-impact-commit-to-clean-energy-says-un-chief/",
-            "urlToImage": "https://media.breitbart.com/media/2026/06/wi/ap/climate-guterres-ai-89199-climate-guterres-ai-united-nations-secretary-antonio-guterres-delivers-640x335.jpg",
-            "publishedAt": "2026-06-23T02:19:15Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/23/ai-startup-baseten-hits-13-billion-valuation-as-australia039s-blackbird-makes-record-bet",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/23/3971877.jpg",
-            "publishedAt": "2026-06-23T02:16:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet",
-            "url": "https://www.reuters.com/world/asia-pacific/ai-startup-baseten-hits-13-billion-valuation-australias-blackbird-makes-record-2026-06-23/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/VMJEGOMV7NLSNIRW62OBKD7D3U.jpg?auth=4a4026a70c070422c876f1ed99b654e79f9912a5361391ac1a250c296d21649f&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-06-23T02:06:39Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet",
-            "url": "https://www.marketscreener.com/news/ai-startup-baseten-hits-13-billion-valuation-as-australia-s-blackbird-makes-record-bet-ce7f5fdad888ff25",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-18T074048Z_1_LYNXMPEM5H0II_RTROPTP_4_GENSPARK-AI-FUNDING.JPG",
-            "publishedAt": "2026-06-23T01:58:28Z"
-        },
-        {
-            "source": {
-                "id": "d088100e5ce28ba4858f168de9f3d38c",
-                "name": "Gizchina.com",
-                "url": "https://www.gizchina.com",
-                "country": "us"
-            },
-            "title": "Qualcomm Reportedly Eyeing $4 Billion Acquisition of AI chip Startup Modular",
-            "url": "https://www.gizchina.com/xiaomi-tablets-tech/qualcomm-reportedly-eyeing-4-billion-acquisition-of-ai-chip-startup-modular",
-            "urlToImage": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-06%2Fimage-2026-06-22-224419758-6a39e51f870f3.png",
-            "publishedAt": "2026-06-23T01:47:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/23/039five-eyes039-intelligence-alliance-warns-that-new-ai-models-pose-urgent-cyber-risk",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/23/3971838.jpg",
-            "publishedAt": "2026-06-23T01:07:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "SpaceX falls for third day, erases $600 billion in market value",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-falls-for-third-day-erases-600-billion-in-market-value/articleshow/131922678.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-131922671,width-1200,height-630,imgsize-70422,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-06-23T01:00:00Z"
         }
     ]
 }
