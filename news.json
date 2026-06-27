@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-06-27T16:01:01.921680Z",
+    "lastUpdatedAt": "2026-06-27T17:57:53.760656Z",
     "articles": [
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The Rise of AI-Native Healthcare: Why Intelligent EHRs Are Becoming the New Standard",
+            "url": "https://techbullion.com/the-rise-of-ai-native-healthcare-why-intelligent-ehrs-are-becoming-the-new-standard/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/06/Healthcare-1000x600.png",
+            "publishedAt": "2026-06-27T05:43:53Z"
+        },
+        {
+            "source": {
+                "id": "98150e04c55a140a5ed9c214b3184d4c",
+                "name": "Baton Rouge Advocate",
+                "url": "https://www.theadvocate.com",
+                "country": "us"
+            },
+            "title": "Letters: Black communities need transparancy on data centers",
+            "url": "https://www.theadvocate.com/baton_rouge/opinion/letters-ai-data-centers-black-rural-transparency/article_f51b2ae4-9455-5d7b-9b99-6baed1c13e83.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/media/e/97/e97581d6-63a4-11ee-b604-73a6e6515a29/651ef2c3bad01.image.jpg?crop=1600%2C840%2C0%2C29&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-06-27T05:33:00Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "IIT Bombay Partners with SUNY Old Westbury for First US Sub-Campus",
+            "url": "https://www.timesnownews.com/education/iit-bombay-suny-old-westbury-partner-to-expand-academic-and-research-initiatives-article-154774163",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-154774163,width-1280,height-720,resizemode-75/154774163.jpg",
+            "publishedAt": "2026-06-27T05:30:46Z"
+        },
+        {
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            },
+            "title": "Artificial intelligence and being: An inquiry into Islamic intellectual tradition",
+            "url": "https://www.theweek.in/news/middle-east/2026/06/27/artificial-intelligence-and-being-an-inquiry-into-islamic-intellectual-tradition.html",
+            "urlToImage": "https://img.theweek.in/content/dam/week/week/news/sci-tech/images/2026/1/19/artificial-intelligence-shutterstock-india-ai-impact.jpg",
+            "publishedAt": "2026-06-27T05:26:30Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "Google’s Search Dominance Faces Challenges from AI Competition and User Backlash",
+            "url": "https://www.naturalnews.com/2026-06-27-google-search-dominance-ai-competition-user-backlash.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/google-search-dominance-ai-competition-user-backlash-2283-original.jpg",
+            "publishedAt": "2026-06-27T04:05:57Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Home Ministry strengthens enforcement against drug threat with big data, AI",
+            "url": "https://www.thestar.com.my/news/nation/2026/06/27/home-ministry-strengthens-enforcement-against-drug-threat-with-big-data-ai",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/27/3980100.jpeg",
+            "publishedAt": "2026-06-27T04:03:00Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -180,6 +252,24 @@
             "url": "https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html",
             "urlToImage": "https://static01.nyt.com/images/2026/06/26/business/26biz-anthropic-deal-mythos/26biz-anthropic-deal-mythos-facebookJumbo.jpg",
             "publishedAt": "2026-06-27T00:21:36Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Beyond Nvidia: Why AI giants like OpenAI, Google and Amazon are building custom chips",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/beyond-nvidia-why-ai-giants-like-openai-google-and-amazon-are-building-custom-chips/articleshow/132033167.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-66990,resizemode-75,msid-132033167/tech/artificial-intelligence/beyond-nvidia-why-ai-giants-like-openai-google-and-amazon-are-building-custom-chips.jpg",
+            "publishedAt": "2026-06-27 05:22:48"
+        },
+        {
+            "source": {
+                "name": "moneycontrol"
+            },
+            "title": "Choosing a college laptop? Here’s why a dedicated GPU matters for engineering, design and creative courses",
+            "url": "https://www.moneycontrol.com/technology/choosing-a-college-laptop-here-s-why-a-dedicated-gpu-matters-for-engineering-design-and-creative-courses-article-13959915.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/06/20260627044740_Windows-laptop.png",
+            "publishedAt": "2026-06-27 04:48:19"
         },
         {
             "source": {
@@ -1322,6 +1412,15 @@
             "title": "Gemini for Home is a subscription trap disguised as smarter automation",
             "url": "https://www.xda-developers.com/gemini-for-home-last-thing-want-implement-into-smart-home/",
             "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/whatsapp-image-2026-06-25-at-12-46-11-2.jpeg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-06-26 23:02:09"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "Gemini for Home is a subscription trap disguised as smarter automation",
+            "url": "https://www.bundle.app/en/technology/gemini-for-home-is-a-subscription-trap-disguised-as-smarter-automation-1F8A9B4C-FC9E-4199-A437-B96410B05C26",
+            "urlToImage": "https://static.bundle.app/news/4a2d8db3-ccb6-5d77-9baa-69af47b2e69c.jpg",
             "publishedAt": "2026-06-26 23:02:09"
         },
         {
@@ -3300,114 +3399,6 @@
             "url": "https://www.bloomberg.com/news/articles/2026-06-24/meta-microsoft-lead-850-billion-boom-in-data-center-leases",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icv50KyKB_g4/v0/1200x800.jpg",
             "publishedAt": "2026-06-24T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "America's 89-year-old company Polaroid is 'warning' Americans about datacenters; says: Go jump in some water before…",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/americas-89-year-old-company-polaroid-is-warning-americans-about-datacenters-says-go-jump-in-some-water-before/articleshow/131964909.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131965536,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-24T10:53:00Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "Adani Calls Infrastructure and AI 'Twin Pillars' of India's Global Power Ambitions",
-            "url": "https://www.outlookbusiness.com/corporate/adani-calls-infrastructure-and-ai-twin-pillars-of-indias-global-power-ambitions",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2025-07-06/nn7pova6/Fl74swtX0AEbcze.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-06-24T10:52:27Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "'All he had was a laptop and patchy internet': How a 19-year-old built a Rs 1 crore-a-month AI business",
-            "url": "https://timesofindia.indiatimes.com/education/news/all-he-had-was-a-laptop-and-patchy-internet-how-a-19-year-old-built-a-rs-1-crore-a-month-ai-business/articleshow/131964668.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131965320,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-24T10:39:00Z"
-        },
-        {
-            "source": {
-                "id": "3d24c816061d69b2e23b8583aed9b447",
-                "name": "Euronews",
-                "url": "https://www.euronews.com",
-                "country": "fr"
-            },
-            "title": "World's fastest supercomputer is now from China, surpassing US and Germany",
-            "url": "https://www.euronews.com/next/2026/06/24/worlds-fastest-supercomputer-is-now-from-china-surpassing-us-and-germany",
-            "urlToImage": "https://images.euronews.com/articles/stories/09/81/13/91/1200x675_cmsv2_ea9e4e0a-4f3c-580e-a0a0-84978fb075dd-9811391.jpg",
-            "publishedAt": "2026-06-24T10:09:30Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "TikTok Parent ByteDance Eyes Record $20 Bn Loan for AI Expansion",
-            "url": "https://www.outlookbusiness.com/corporate/tiktok-parent-bytedance-eyes-record-20-bn-loan-for-ai-expansion",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-06-24/hu1sp6h0/ChatGPT-Image-Jun-24-2026-032555-PM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-06-24T10:06:32Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Japan Unveils $2.3 Trillion Investment Plan for Next 14 Years",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-24/japan-unveils-2-3-trillion-investment-plan-for-next-14-years",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy4yxPserHkE/v1/1200x800.jpg",
-            "publishedAt": "2026-06-24T09:58:24Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "As graduates worry about AI and jobs, Google CEO Sundar Pichai tells Stanford students to 'choose optimism'",
-            "url": "https://timesofindia.indiatimes.com/education/careers/news/as-graduates-worry-about-ai-jobs-google-ceo-sundar-pichai-tells-stanford-students-to-choose-optimism/articleshow/131961677.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131962803,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-24T09:25:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Intense AI use still rare among euro zone firms, ECB researchers find",
-            "url": "https://www.reuters.com/business/intense-ai-use-still-rare-among-euro-zone-firms-ecb-researchers-find-2026-06-24/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/VMJEGOMV7NLSNIRW62OBKD7D3U.jpg?auth=4a4026a70c070422c876f1ed99b654e79f9912a5361391ac1a250c296d21649f&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-06-24T09:03:48Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Your Home Could Help Solve AI’s Growing Power Demand",
-            "url": "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/06/24/multimedia/24biz-distributed-energy-1-lcmh/24biz-distributed-energy-1-lcmh-facebookJumbo.jpg",
-            "publishedAt": "2026-06-24T09:02:13Z"
         }
     ]
 }
