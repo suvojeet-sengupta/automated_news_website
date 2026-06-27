@@ -1,6 +1,75 @@
 {
-    "lastUpdatedAt": "2026-06-27T12:06:03.711328Z",
+    "lastUpdatedAt": "2026-06-27T14:25:38.898299Z",
     "articles": [
+        {
+            "source": {
+                "id": "aaa6f2928e430ec2ed450ed89cc822f5",
+                "name": "Salt Lake City Deseret News",
+                "url": "https://www.deseret.com",
+                "country": "us"
+            },
+            "title": "Lessons from Alan Greenspan’s legacy",
+            "url": "https://www.deseret.com/politics/2026/06/26/lessons-from-alan-greenspans-legacy/",
+            "urlToImage": "https://www.deseret.com/resizer/v2/LU3PQ5SMY5H7DO3DISZNREA23Q.jpg?focal=0%2C0&auth=81bc632be495e8b661d5ab10739d0422bc36ed9e99cdc7e1e7e58655c53bfa62&width=630&height=331",
+            "publishedAt": "2026-06-27T02:15:18Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US approves limited rollout of Anthropic's Mythos 5 AI model",
+            "url": "https://timesofindia.indiatimes.com/world/us/us-approves-limited-rollout-of-anthropics-mythos-5-ai-model/articleshow/132027393.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132027411,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-27T02:07:00Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Newsom, California Legislature reach $351.7-billion budget deal",
+            "url": "https://www.latimes.com/california/story/2026-06-26/newsom-california-legislature-reach-351-7-billion-budget-deal",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/f9b4b79/2147483647/strip/true/crop/3092x1623+0+219/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2F59%2F6278e28c4fada52cbb0bbcd25a8d%2Fcalifornia-governor-state-of-the-state-33416.jpg",
+            "publishedAt": "2026-06-27T01:55:53Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "US warns China stealing AI secrets",
+            "url": "https://www.lokmattimes.com/international/us-warns-china-stealing-ai-secrets/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606273840946_202606.jpg",
+            "publishedAt": "2026-06-27T01:17:29Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model",
+            "url": "https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/06/26/business/26biz-anthropic-deal-mythos/26biz-anthropic-deal-mythos-facebookJumbo.jpg",
+            "publishedAt": "2026-06-27T00:21:36Z"
+        },
+        {
+            "source": {
+                "name": "cxotoday"
+            },
+            "title": "Funny Side Up: A Delivery Robot Seeking an Upgrade and a Cop Using AI to Falsify Reports",
+            "url": "https://cxotoday.com/ai/funny-side-up-a-delivery-robot-seeking-an-upgrade-and-a-cop-using-ai-to-falsify-reports/",
+            "urlToImage": "https://cxotoday.com/wp-content/uploads/2026/06/Funny-side-up-2.jpg",
+            "publishedAt": "2026-06-27 01:15:57"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3342,78 +3411,6 @@
             "url": "https://www.cnbctv18.com/world/talk-of-a-bubble-is-blasphemy-against-ai-says-softbanks-son-19931360.htm",
             "urlToImage": "https://images.cnbctv18.com/uploads/2026/06/gareema-feature-images-63-2026-06-ddb46f12f4941924c53518a76d702035.jpg?im=FitAndFill,width=1200,height=675",
             "publishedAt": "2026-06-24T08:01:10Z"
-        },
-        {
-            "source": {
-                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
-                "name": "CBC.ca",
-                "url": "https://www.cbc.ca",
-                "country": "ca"
-            },
-            "title": "Canada's AI strategy aims to make health data more accessible. How will it protect privacy?",
-            "url": "https://www.cbc.ca/news/health/vital-health-data-privacy-9.7245577",
-            "urlToImage": "https://i.cbc.ca/ais/1f66e343-e18c-4aae-a379-4cef6d523a17,1782224655165/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C54%2C1000%2C562%29%3BResize%3D620",
-            "publishedAt": "2026-06-24T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Talk of a bubble is 'blasphemy against AI' says SoftBank's Son",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/24/talk-of-a-bubble-is-039blasphemy-against-ai039-says-softbank039s-son",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/24/3974603.jpg",
-            "publishedAt": "2026-06-24T06:33:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Spy alliance: AI can outpace cybersecurity norms 'in months'",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/24/spy-alliance-ai-can-outpace-cybersecurity-norms-039in-months039",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/24/3974522.jpg",
-            "publishedAt": "2026-06-24T06:30:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Talk of a bubble is 'blasphemy against AI' says SoftBank's Son",
-            "url": "https://www.marketscreener.com/news/talk-of-a-bubble-is-blasphemy-against-ai-says-softbank-s-son-ce7f5fdbda8ef323",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-24T062923Z_2_LYNXMPEM5N0C2_RTROPTP_4_SOFTBANK-GROUP-AGM.JPG",
-            "publishedAt": "2026-06-24T06:27:49Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Asia Tech Shares Swing Wildly as A.I. Jitters Persist",
-            "url": "https://www.nytimes.com/2026/06/24/business/stocks-oil-gas-prices.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/06/24/multimedia/24Biz-Oil-Stocks-Gas-tvpc/24Biz-Oil-Stocks-Gas-tvpc-facebookJumbo.jpg",
-            "publishedAt": "2026-06-24T06:27:34Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Nandan Nilekani Says AI Will Amplify Infosys, Not Replace IT Services Model",
-            "url": "https://www.freepressjournal.in/business/nandan-nilekani-says-ai-will-amplify-infosys-not-replace-it-services-model",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-10-24/8yoeamup/nandan-nilekani.jpg",
-            "publishedAt": "2026-06-24T06:22:33Z"
         }
     ]
 }
