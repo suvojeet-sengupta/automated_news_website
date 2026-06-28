@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-06-28T15:14:10.233434Z",
+    "lastUpdatedAt": "2026-06-28T17:03:49.431829Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "The Real A.I. Race Isn’t America vs. China",
+            "url": "https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/06/28/opinion/28wang-gewirtz/28wang-gewirtz-facebookJumbo.jpg",
+            "publishedAt": "2026-06-28T05:00:05Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Australia boosts shark-spotting drone coverage at Sydney beaches",
+            "url": "https://japantoday.com/category/world/australia-boosts-shark-spotting-drone-coverage-at-sydney-beaches",
+            "urlToImage": "https://media.japantoday.com/img/store/a1/15/24e7b99a807d2bf3eb737fbd234f069476ac/bb10d7f92c1764ac243287441efaa6c2ea70328d/_w1700.jpeg",
+            "publishedAt": "2026-06-28T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "AI drones pegged to help protect beachgoers from sharks",
+            "url": "https://www.canberratimes.com.au/story/9300395/ai-drones-pegged-to-help-protect-beachgoers-from-sharks/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/69c748d1-f9f3-4cf3-b321-e31f8ae27b6f.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-06-28T03:53:44Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "US AI, Critical Minerals Push: Official – Outlook Business",
+            "url": "https://www.outlookbusiness.com/news/private-sector-indispensable-to-india-us-ai-critical-minerals-push-official",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-06-28/ipvgw74s/futuristic-time-machine.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-06-28T03:45:44Z"
+        },
         {
             "source": {
                 "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
@@ -3378,42 +3426,6 @@
             "url": "https://sentinelcolorado.com/uncategorized/ai-is-an-energy-and-water-hog-heres-what-you-can-do-to-counter-that/",
             "urlToImage": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/06/AP26174068173663.jpg?fit=1024%2C575&ssl=1",
             "publishedAt": "2026-06-25 13:36:53"
-        },
-        {
-            "source": {
-                "name": "moneycontrol"
-            },
-            "title": "A look at AWS India’s momentum as Amazon earmarks additional $13 billion for AI infrastructure",
-            "url": "https://www.moneycontrol.com/news/business/information-technology/a-look-at-aws-india-s-momentum-as-amazon-earmarks-additional-13-billion-for-ai-infrastructure-13958955.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/07/Andy-Jassy-Reuters.jpg",
-            "publishedAt": "2026-06-25 13:10:38"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "Qualcomm Unveils Data Center Roadmap for the Agentic AI Era with New Dragonfly Portfolio",
-            "url": "https://www.hpcwire.com/off-the-wire/qualcomm-unveils-data-center-roadmap-for-the-agentic-ai-era-with-new-dragonfly-portfolio/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2026/06/Dragonflyhero.jpg",
-            "publishedAt": "2026-06-25 13:00:30"
-        },
-        {
-            "source": {
-                "name": "newsable_asianetnews"
-            },
-            "title": "AI Is Experiencing Its First Deflationary Shock — The Token Economy Is Feeling The Pain",
-            "url": "https://newsable.asianetnews.com/markets/ai-is-experiencing-its-first-deflationary-shock-the-token-economy-is-feeling-the-pain-articleshow-8akpysp",
-            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-008a0dae-7678-470d-939f-9b4d09aabe30.webp",
-            "publishedAt": "2026-06-25 12:35:01"
-        },
-        {
-            "source": {
-                "name": "btin_co_in"
-            },
-            "title": "Ibm's Sub-1 Nanometre Chip Marks Major Milestone, But Years Away To Market",
-            "url": "https://www.btin.co.in/ibms-sub-1-nanometre-chip-marks-major-milestone-years-away-117298",
-            "urlToImage": "https://data.btin.co.in/data/images/full/6765/sub-1-nanometre-chip.jpg",
-            "publishedAt": "2026-06-25 12:02:38"
         }
     ]
 }
