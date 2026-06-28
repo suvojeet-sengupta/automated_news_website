@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-06-28T04:02:03.813689Z",
+    "lastUpdatedAt": "2026-06-28T08:17:23.254428Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "AI is an energy and water hog, here's what you can do to counter that",
+            "url": "https://japantoday.com/category/features/environment/ai-is-an-energy-and-water-hog-here's-what-you-can-do-to-counter-that",
+            "urlToImage": "https://media.japantoday.com/img/store/2d/f6/15d7038e5cbe337454b6a7691a533b8975bb/download/_w1700.jpeg",
+            "publishedAt": "2026-06-27T20:15:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "AI is an energy and water hog, here's what you can do to counter that",
+            "url": "https://japantoday.com/category/features/environment/ai-is-an-energy-and-water-hog-here%27s-what-you-can-do-to-counter-that",
+            "urlToImage": "https://media.japantoday.com/img/store/2d/f6/15d7038e5cbe337454b6a7691a533b8975bb/download/_w1700.jpeg",
+            "publishedAt": "2026-06-27T20:15:00Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "New commentary urges patient-centered AI regulation in healthcare systems",
+            "url": "https://www.news-medical.net/news/20260627/New-commentary-urges-patient-centered-AI-regulation-in-healthcare-systems.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
+            "publishedAt": "2026-06-27T19:53:00Z"
+        },
+        {
+            "source": {
+                "id": "214d496d625fc657723cf4da80cff8ce",
+                "name": "Deccan Chronicle",
+                "url": "https://www.deccanchronicle.com",
+                "country": "in"
+            },
+            "title": "SRM Hosts Healthcare Innovation Forum",
+            "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/srm-hosts-healthcare-innovation-forum-1966792",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/06/27/2057363-ddddd.jpg",
+            "publishedAt": "2026-06-27T19:51:25Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Robot Revolution? How China Is Turning To Humanoid Robots To Tackle Demographic Woes",
+            "url": "https://www.ndtvprofit.com/world/how-china-is-turning-to-humanoid-robots-to-tackle-shrinking-workforce-11694986",
+            "urlToImage": "https://c.ndtvimg.com/2026-06/vfjgq9ek_china-robots_625x300_27_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-06-27T17:32:25Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "As Digital India turns 11, govt bets on AI, semiconductors to drive next growth phase",
+            "url": "https://www.tribuneindia.com/news/business/as-digital-india-turns-11-govt-bets-on-ai-semiconductors-to-drive-next-growth-phase/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZjYmUzNWEwLTcyNDktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-06-27T16:58:25Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Japan draft AI plan targets cyber threats, AI-generated misinformation",
+            "url": "https://www.manilatimes.net/2026/06/28/business/sunday-business-it/japan-draft-ai-plan-targets-cyber-threats-ai-generated-misinformation/2374203",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/06/27/1116352.jpg",
+            "publishedAt": "2026-06-27T16:03:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3303,90 +3387,6 @@
             "url": "https://www.bangkokpost.com/business/general/3276129/thailand-data-usage-beats-global-average",
             "urlToImage": "https://static.bangkokpost.com/media/content/20260625/c1_3276129_260625054305_700.jpg",
             "publishedAt": "2026-06-24T22:42:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Stock Market Today: Dow, S&P Live Updates for June 25",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-24/us-stock-futures-surge-on-micron-s-strong-forecast-markets-wrap",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itFX5BPJkCTc/v0/1200x675.png",
-            "publishedAt": "2026-06-24T22:04:22Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Elastic to Slash 7% of Workforce; Chief Product Officer to Step Down",
-            "url": "https://www.marketscreener.com/news/elastic-to-slash-7-of-workforce-chief-product-officer-to-step-down-ce7f5fd8d980f12c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-06-24T21:53:41Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Qualcomm Accelerates Push to Be Bigger than Smartphone Chips",
-            "url": "https://www.marketscreener.com/news/qualcomm-accelerates-push-to-be-bigger-than-smartphone-chips-ce7f5fd8d981f424",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-06-24T21:39:22Z"
-        },
-        {
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
-                "country": "in"
-            },
-            "title": "C-DOT, IIT Hyderabad Launch Telecom Research Centre For 6G, AI and Quantum Technologies",
-            "url": "https://www.deccanchronicle.com/southern-states/telangana/c-dot-iit-hyderabad-launch-telecom-research-centre-for-6g-ai-and-quantum-technologies-1966067",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/06/24/2056071-img9998.jpg",
-            "publishedAt": "2026-06-24T21:28:07Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "WaPo: Most AI Chatbots Lean Left on Politics",
-            "url": "https://www.newsmax.com/politics/politics-ai-chatbots/2026/06/24/id/1260774/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=64f76120-06fb-4fab-a8a1-93e05138dc8e&SiteName=Newsmax",
-            "publishedAt": "2026-06-24T20:23:50Z"
-        },
-        {
-            "source": {
-                "id": "8867e8e7dcb6466620736bb48c455572",
-                "name": "STAT",
-                "url": "https://www.statnews.com",
-                "country": "us"
-            },
-            "title": "Eli Lilly dives into hair loss treatments with investment in AI startup Absci",
-            "url": "https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_175910024-1024x576.jpeg",
-            "publishedAt": "2026-06-24T20:01:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Are algorithms unfairly screening out immigrant job applications?",
-            "url": "https://phys.org/news/2026-06-algorithms-unfairly-screening-immigrant-job.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/job-fair.jpg",
-            "publishedAt": "2026-06-24T20:00:08Z"
         }
     ]
 }
