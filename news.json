@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-06-28T13:26:49.671811Z",
+    "lastUpdatedAt": "2026-06-28T15:14:10.233434Z",
     "articles": [
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "AI is like aviation. It needs systems to guard against human fallibility",
+            "url": "https://www.afr.com/technology/ai-is-like-aviation-it-needs-systems-to-guard-against-human-fallibility-20260627-p60ake",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3311%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/9699dbd5d16d2a7fa798f6e6b05efe6c0c449d4c79ab3300c3031fdd7f6a9dcb",
+            "publishedAt": "2026-06-28T02:19:15Z"
+        },
+        {
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            },
+            "title": "Is your best friend an AI chatbot? Psychologists' tips to stay safe",
+            "url": "https://www.onmanorama.com/health/mental-health/2026/06/23/ai-mental-health-relationship-companionship-loneliness.html",
+            "urlToImage": "https://img-mm.manoramaonline.com/content/dam/mm/mo/archive/technology/science/images/2026/6/22/fb-fake.jpg",
+            "publishedAt": "2026-06-28T01:46:37Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "AI cyber threat: Centre asks states to tighten digital defences",
+            "url": "https://www.tribuneindia.com/news/india/ai-cyber-threat-centre-asks-states-to-tighten-digital-defences/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU4MmVkMTEwLTcyOTItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-06-28T01:44:28Z"
+        },
         {
             "source": {
                 "id": "2ff4b6327735b249ca9fe9bb8f044251",
@@ -36,6 +72,15 @@
             "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6zBLjP0XOMA/v0/1200x800.jpg",
             "publishedAt": "2026-06-28T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "University of Washington researchers create PaperTok to turn research papers into short videos",
+            "url": "https://completeaitraining.com/news/university-of-washington-researchers-create-papertok-to/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/university-of-washington-researchers-create-papertok-to-turn-research-papers-int_2026-06-27.jpg",
+            "publishedAt": "2026-06-28 02:30:26"
         },
         {
             "source": {
@@ -3369,42 +3414,6 @@
             "url": "https://www.btin.co.in/ibms-sub-1-nanometre-chip-marks-major-milestone-years-away-117298",
             "urlToImage": "https://data.btin.co.in/data/images/full/6765/sub-1-nanometre-chip.jpg",
             "publishedAt": "2026-06-25 12:02:38"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "IBM introduces the world’s first ever sub-1 nanometre chip technology",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/ibm-introduces-the-worlds-first-ever-sub-1-nanometre-chip-technology-10757265/",
-            "urlToImage": "https://images.indianexpress.com/2026/06/IBM-nano-chip.jpg",
-            "publishedAt": "2026-06-25 11:52:33"
-        },
-        {
-            "source": {
-                "name": "firstpost"
-            },
-            "title": "IBM unveils world's first sub-1 nanometer chip technology amid AI computing race",
-            "url": "https://www.firstpost.com/tech/ibm-unveils-worlds-first-sub-1-nanometer-chip-technology-amid-ai-computing-race-14026135.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/06/IBMs-new-tEchnology-2026-06-614662822a9bdfa89ba0d2fc93fd7960.jpg",
-            "publishedAt": "2026-06-25 10:53:21"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "IBM Debuts World's First Sub-1 Nanometer Chip Technology",
-            "url": "https://en.prnasia.com/story/538674-0.shtml",
-            "urlToImage": "https://mmx.prnasia.com/media/MS1872630/IBM_Sub-1_Nanometer_Node_Wafer.jpg?id=OA2734306&p=medium600",
-            "publishedAt": "2026-06-25 10:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "Selling AI Tools to Sceptic SMEs is Tricky. But Tally Solutions Knows a Way",
-            "url": "https://analyticsindiamag.com/ai-features/selling-ai-tools-to-sceptic-smes-is-tricky-but-tally-solutions-knows-a-way",
-            "urlToImage": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1782378390963-is5j0s.webp",
-            "publishedAt": "2026-06-25 09:07:13"
         }
     ]
 }
