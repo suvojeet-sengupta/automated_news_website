@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-06-28T08:17:23.254428Z",
+    "lastUpdatedAt": "2026-06-28T11:02:33.930893Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "New future of work",
+            "url": "https://www.thestar.com.my/news/focus/2026/06/28/new-future-of-work",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/28/3980878.jpg",
+            "publishedAt": "2026-06-27T23:00:00Z"
+        },
+        {
+            "source": {
+                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
+                "name": "OilPrice",
+                "url": "https://oilprice.com",
+                "country": "us"
+            },
+            "title": "The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century",
+            "url": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Turning-Into-The-Energy-Trade-of-the-Century.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-27_igwldvjoqs.jpg",
+            "publishedAt": "2026-06-27T23:00:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US Govt to Vet Sharing AI Models: Cos",
+            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jun/28/sunet-front/us-govt-to-vet-sharing-ai-models-cos/articleshow/132042209.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132043133,width-1200,height-630,imgsize-53598,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-06-27T21:33:00Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Trump's AI Balancing Act: Beat China, Calm the Base",
+            "url": "https://www.newsmax.com/newsfront/trump-artificialintelligence-anthropic/2026/06/27/id/1261087/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=22541616-bec5-42e9-87ed-585c6333197b&SiteName=Newsmax",
+            "publishedAt": "2026-06-27T20:35:53Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "AI is plowing through the workplace. This new group wants to help people adapt and have jobs",
+            "url": "https://japantoday.com/category/tech/ai-is-plowing-through-the-workplace.-this-new-group-wants-to-help-people-adapt-and-have-jobs",
+            "urlToImage": "https://media.japantoday.com/img/store/03/92/6a9a09dd68c0eac0b5340ed345ec454596b6/download/_w1700.jpeg",
+            "publishedAt": "2026-06-27T20:35:00Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -696,6 +756,15 @@
             "url": "https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html",
             "urlToImage": "https://static01.nyt.com/images/2026/06/26/business/26biz-anthropic-deal-mythos/26biz-anthropic-deal-mythos-facebookJumbo.jpg",
             "publishedAt": "2026-06-27T00:21:36Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Qualcomm Challenges Nvidia with ARM AI Chips for Inference and Training",
+            "url": "https://www.webpronews.com/qualcomm-challenges-nvidia-with-arm-ai-chips-for-inference-and-training/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/06/article-19926-1782575208.jpeg",
+            "publishedAt": "2026-06-27 15:46:53"
         },
         {
             "source": {
@@ -3324,69 +3393,6 @@
             "url": "https://www.thehindu.com/sci-tech/technology/openai-unveils-ai-chip-jalapeno/article71144672.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/27rwyg/article71144670.ece/alternates/FREE_1200/2026-06-24T130050Z_242423391_RC2QRLAU0WI1_RTRMADP_3_OPENAI-CHIP.JPG",
             "publishedAt": "2026-06-25 03:44:29"
-        },
-        {
-            "source": {
-                "name": "yourstory"
-            },
-            "title": "Amazon expands quick service in India; MoEngage acquires AI infra startup Aampe",
-            "url": "https://yourstory.com/2026/06/amazon-expands-quick-service-in-india",
-            "urlToImage": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/amazonfordc-1782319004101.jpg",
-            "publishedAt": "2026-06-25 02:00:00"
-        },
-        {
-            "source": {
-                "name": "financialexpress"
-            },
-            "title": "‘Data centres to become Schneider Electric’s biggest India business by 2030’: Sumati Sahgal, vice-president, data centres & secure power, Greater India",
-            "url": "https://www.financialexpress.com/business/news/data-centres-to-become-schneider-electrics-biggest-india-business-by-2030-sumati-sahgal-vice-president-data-centres-amp-secure-power-greater-india/4275714/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/06/Sumati-Sahgal.jpg",
-            "publishedAt": "2026-06-25 00:40:21"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Best AI-Powered Laptops and Workstations for Productivity in 2026",
-            "url": "https://www.analyticsinsight.net/laptops/best-ai-powered-laptops-and-workstations-for-productivity-in-2026",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-06-24/idmj58r6/Best-AI-Powered-Laptops-and-Workstations-for-Productivity-in-2026.jpg",
-            "publishedAt": "2026-06-25 00:30:00"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Chip supply to stay constrained 'beyond 2027,' Micron executives say",
-            "url": "https://www.cnbc.com/2026/06/24/chip-supply-to-stay-constrained-beyond-2027-micron-executives-say.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108279191-1773779927968-gettyimages-2256071928-MICRON_NY.jpeg?v=1778011808&w=1920&h=1080",
-            "publishedAt": "2026-06-24T23:11:56Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "AI chatbots show left-wing bias, bombshell report finds; ChatGPT gives lefty answers 80% of time",
-            "url": "https://nypost.com/2026/06/24/media/ai-chatbots-show-left-wing-bias-bombshell-report-finds-chatgpt-gives-lefty-answers-80-of-time/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/Anthropic-CEO-comp.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-06-24T22:51:40Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Thailand data usage beats global average",
-            "url": "https://www.bangkokpost.com/business/general/3276129/thailand-data-usage-beats-global-average",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260625/c1_3276129_260625054305_700.jpg",
-            "publishedAt": "2026-06-24T22:42:00Z"
         }
     ]
 }
