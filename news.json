@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-06-29T05:26:31.043992Z",
+    "lastUpdatedAt": "2026-06-29T10:47:51.868603Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "AI-led Tokyo stock rally likely to continue, focus on earnings season",
+            "url": "https://japantoday.com/category/business/focus-ai-led-tokyo-stock-rally-likely-to-continue-focus-on-earnings-season",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2026-06-28T20:23:00Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Madonna gets honest about what is ruining art and music",
+            "url": "https://www.thenews.com.pk/latest/1407454-madonna-gets-honest-about-what-is-ruining-art-and-music",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-06-29/1407454_123912_updates.jpg",
+            "publishedAt": "2026-06-28T20:16:00Z"
+        },
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+            "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2255983122.jpg?w=1024",
+            "publishedAt": "2026-06-28T19:05:39Z"
+        },
+        {
+            "source": {
+                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
+                "name": "Social Media Today",
+                "url": "https://www.socialmediatoday.com",
+                "country": "us"
+            },
+            "title": "ChatGPT is the most popular AI tool for people in the US",
+            "url": "https://www.socialmediatoday.com/news/chatgpt-is-the-most-popular-ai-tool-for-people-in-the-us/823940/",
+            "urlToImage": "https://imgproxy.divecdn.com/OLkTWI2KSHINpUY05R-cqmtpTO-jlTCo1FLiHxzUXDw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wZXdfcmVzZWFyY2hfYWlfdXNhZ2Vfc3R1ZHlfNS5wbmc=.webp",
+            "publishedAt": "2026-06-28T18:00:46Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Don't let AI chip off the old block",
+            "url": "https://economictimes.indiatimes.com/opinion/et-editorial/dont-let-ai-chip-off-the-old-block/articleshow/132056732.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-39000,resizemode-75,msid-132056732/opinion/et-editorial/dont-let-ai-chip-off-the-old-block.jpg",
+            "publishedAt": "2026-06-28T17:50:30Z"
+        },
         {
             "source": {
                 "id": "33cb25fa0c188e2a4e90fce288b4ce49",
@@ -3339,66 +3399,6 @@
             "url": "https://www.globenewswire.com/news-release/2026/06/25/3317716/0/en/roc-awarded-facial-recognition-system-of-the-year-in-ai-breakthrough-awards-2026.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/d9165b9e-cafc-4928-ba7a-ffe7d6311d33",
             "publishedAt": "2026-06-25T14:30:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "US Seeks AI Partnership With EU on Regulation, Supply Chains",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-25/us-seeks-ai-partnership-with-eu-on-regulation-supply-chains",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikhTjpOOJmYI/v1/1200x785.jpg",
-            "publishedAt": "2026-06-25T14:27:16Z"
-        },
-        {
-            "source": {
-                "id": "69e66981fb6f154068fb205e915bfbe6",
-                "name": "ESPN",
-                "url": "https://www.espn.com",
-                "country": "us"
-            },
-            "title": "Fanatics Sportsbook to identify, ban bettors who harass athletes",
-            "url": "https://www.espn.com/espn/betting/story/_/id/49175680/fanatics-sportsbook-identify-ban-bettors-harass-athletes",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0127%2Fr48631_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-06-25T14:20:15Z"
-        },
-        {
-            "source": {
-                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
-                "name": "FinanzNachrichten",
-                "url": "https://www.finanznachrichten.de",
-                "country": "de"
-            },
-            "title": "ZenaTech Inc.: ZenaTech Advances IQ Nano Indoor Drone Platform with New AI-Enabled LED Camera System for Commercial and Defense Inventory and Security Applications",
-            "url": "https://www.finanznachrichten.de/nachrichten-2026-06/68863498-zenatech-inc-zenatech-advances-iq-nano-indoor-drone-platform-with-new-ai-enabled-led-camera-system-for-commercial-and-defense-inventory-and-security-399.htm",
-            "urlToImage": "https://www.finanznachrichten.de/content/g/fb.png",
-            "publishedAt": "2026-06-25T14:10:00Z"
-        },
-        {
-            "source": {
-                "id": "42b44cbbdcf925d62e8223d51c6b3655",
-                "name": "talkSPORT.com",
-                "url": "https://talksport.com",
-                "country": "gb"
-            },
-            "title": "'Is it April Fools' Day?' - Alan Curbishley 'makes surprise return' to English football",
-            "url": "https://talksport.com/football/4362543/alan-curbishley-return-new-role-charlton-athletic-efl/",
-            "urlToImage": "https://talksport.com/wp-content/uploads/2026/06/crop-4362764.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-            "publishedAt": "2026-06-25T11:12:17Z"
-        },
-        {
-            "source": {
-                "id": "b2be64a3780bbe84214fe23ea9ac98db",
-                "name": "akron.com",
-                "url": "https://www.akron.com",
-                "country": "us"
-            },
-            "title": "Akron school board approves new AI policy",
-            "url": "https://www.akron.com/articles/akron-school-board-approves-new-ai-policy/",
-            "urlToImage": "https://www.akron.com/wp-content/uploads/2026/06/AkronPublicSchools.jpg",
-            "publishedAt": "2026-06-25T11:00:12Z"
         }
     ]
 }
