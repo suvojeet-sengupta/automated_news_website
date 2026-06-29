@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-06-28T22:01:42.448289Z",
+    "lastUpdatedAt": "2026-06-29T00:03:19.247968Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Margaret Atwood slams AI, says \"it's garbage in, garbage out\"",
+            "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/margaret-atwood-slams-ai-says-its-garbage-in-garbage-out/articleshow/132049920.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132049944,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-28T11:12:00Z"
+        },
+        {
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            },
+            "title": "Apple's Price Hikes Aren't Just an AI Problem",
+            "url": "https://www.cnet.com/news/apple-price-hikes-not-unavoidable-blame-ai-boom/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/e8259dabefcc29629d9022bb8f2c77ce339c7080/hub/2026/06/26/5ef508bf-d098-42f6-949e-a5ab304d9fa0/image-8.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-06-28T11:01:09Z"
+        },
+        {
+            "source": {
+                "id": "c477009a98f37b19212d8ae20ce8c018",
+                "name": "POLITICO",
+                "url": "https://www.politico.com",
+                "country": "us"
+            },
+            "title": "The AI Politics of 2028 Are Starting Now",
+            "url": "https://www.politico.com/news/magazine/2026/06/28/raimondo-holcomb-q-a-00977932",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff5%2F52%2Fc9b132da4985bc7611595576cbe4%2Fmag-raimondo-holcomb-q-a.jpg",
+            "publishedAt": "2026-06-28T11:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Power Suppliers and Banks Top Hunt for AI Stocks in Europe",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-28/europe-s-hunt-for-ai-stocks-leads-to-power-suppliers-and-banks",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9aWZS0G02zM/v0/1200x800.jpg",
+            "publishedAt": "2026-06-28T11:00:00Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Google Puts Brakes On Meta's Gemini AI Usage Over Capacity Shortfall",
+            "url": "https://www.ndtvprofit.com/business/google-puts-brakes-on-meta-s-gemini-ai-usage-over-capacity-shortfall-11698297",
+            "urlToImage": "https://c.ndtvimg.com/2026-06/6sjbuugk_google_625x300_28_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-06-28T10:45:55Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "How AI can now plan a cruise missile strike in minutes, not days",
+            "url": "https://timesofindia.indiatimes.com/defence/international/how-ai-can-now-plan-a-cruise-missile-strike-in-minutes-not-days/articleshow/132049100.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132049144,width-1280,height-720,imgsize-1122470,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-28T10:21:00Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -300,6 +372,15 @@
             "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6zBLjP0XOMA/v0/1200x800.jpg",
             "publishedAt": "2026-06-28T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Google Reportedly Limits Meta's Access to Gemini AI Models, Delaying Internal AI Projects",
+            "url": "https://www.latestly.com/technology/google-reportedly-limits-metas-access-to-gemini-ai-models-delaying-internal-ai-projects-7493811.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/06/gemini-meta.jpg",
+            "publishedAt": "2026-06-28 10:20:17"
         },
         {
             "source": {
@@ -3342,90 +3423,6 @@
             "url": "https://scanx.trade/stock-market-news/companies/amazon-plans-to-invest-an-extra-13-billion-in-ai-and-cloud-infrastructure-expansion-in-india-by-2030/43920994",
             "urlToImage": "http://news-images.dhan.co/amazon-plans-to-invest-an-extra-13-billion-in-ai-and-cloud-infrastructure-expansion-in-india-by-2030.jpg",
             "publishedAt": "2026-06-25T08:45:26Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "YTL AI Labs powers Yes to become Malaysia’s AI-first telco",
-            "url": "https://www.thestar.com.my/business/business-news/2026/06/25/ytl-ai-labs-powers-yes-to-become-malaysias-ai-first-telco",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/25/3976507.jpg",
-            "publishedAt": "2026-06-25T07:35:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Prosus Investment Values Health Insurer Alan at $6.3 Billion",
-            "url": "https://www.marketscreener.com/news/prosus-investment-values-health-insurer-alan-at-6-3-billion-ce7f5fd8da8df22d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-06-25T07:31:02Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Nasdaq futures jump 2% as Micron, Qualcomm forecasts relieve investors",
-            "url": "https://www.reuters.com/business/nasdaq-futures-jump-2-micron-qualcomm-forecasts-relieve-investors-2026-06-25/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/4JDIHXCRVRKB7K3SOYRYKICUJM.jpg?auth=0005003fedb0335938073ec7a7dff2dde70acc17b1e37e69c1aeae41280936a6&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-06-25T07:30:30Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Nasdaq futures jump 2% as Micron, Qualcomm forecasts relieve investors",
-            "url": "https://www.marketscreener.com/news/nasdaq-futures-jump-2-as-micron-qualcomm-forecasts-relieve-investors-ce7f5fd8da8df225",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-27T105246Z_2_LYNXMPEM3Q0MR_RTROPTP_4_GLOBAL-MARKETS.JPG",
-            "publishedAt": "2026-06-25T07:29:37Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "After two high-profile AI departures, Google set to lose two more top researchers to Anthropic",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-two-high-profile-ai-departures-google-set-to-lose-two-more-top-researchers-to-anthropic/articleshow/131985972.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-131986167,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-25T07:09:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Anthropic Accuses Alibaba of Illegal Extraction of Claude Data",
-            "url": "https://www.marketscreener.com/news/anthropic-accuses-alibaba-of-illegal-extraction-of-claude-data-ce7f5fd8da88ff2d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-06-25T06:59:21Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "Agility Robotics set to go public",
-            "url": "https://www.arkansasonline.com/news/2026/jun/25/agility-robotics-set-to-go-public/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213121636_4DRobotics0625_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-            "publishedAt": "2026-06-25T06:43:00Z"
         }
     ]
 }
