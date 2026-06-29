@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-06-29T22:51:58.830669Z",
+    "lastUpdatedAt": "2026-06-29T23:59:29.654564Z",
     "articles": [
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "The Next Competitive Advantage: AI-Powered Decision Systems",
+            "url": "https://www.ibtimes.com/next-competitive-advantage-ai-powered-decision-systems-3804678",
+            "urlToImage": "https://d.ibtimes.com/en/full/4650719/next-competitive-advantage-ai-powered-decision-systems.png",
+            "publishedAt": "2026-06-29T11:51:09Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "KLH Global Business School Drives AI Dialogue Through AI Leadership Summit 2026",
+            "url": "https://www.tribuneindia.com/news/business/klh-global-business-school-drives-ai-dialogue-through-ai-leadership-summit-2026/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc0ZWQxOTkwLTczYjAtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-06-29T11:48:27Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "As Meta keeps delaying the release of its new AI model to developers, Google's message to Meta comes in picture",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-googles-message-to-meta-comes-in-picture/articleshow/132071360.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132071354,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-29T11:39:00Z"
+        },
+        {
+            "source": {
+                "id": "0c047612bc7bc0113342d2651f47b208",
+                "name": "GB News",
+                "url": "https://www.gbnews.com",
+                "country": "gb"
+            },
+            "title": "Kylie Jenner Meta AI smart glasses released in UK",
+            "url": "https://www.gbnews.com/tech/kylie-jenner-meta-smart-glasses",
+            "urlToImage": "https://www.gbnews.com/media-library/meta-ai-glasses.png?id=67058095&width=1200&height=600&coordinates=0%2C72%2C0%2C91",
+            "publishedAt": "2026-06-29T11:31:02Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "South Korean Tech Giants to Build a $518 Billion Chipmaking Hub to Serve Soaring AI Demand",
+            "url": "https://www.newsmax.com/world/globaltalk/south-korea-samsung-ai/2026/06/29/id/1261167/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9a437a82-e945-4c09-b261-0d2d674c2556&SiteName=Newsmax",
+            "publishedAt": "2026-06-29T11:27:44Z"
+        },
+        {
+            "source": {
+                "id": "b76d069607ae6330d5f65a02c543a320",
+                "name": "Outlook India",
+                "url": "https://www.outlookindia.com",
+                "country": "in"
+            },
+            "title": "Suresh Rajendran: Building Products Across Education, Enterprise Technology And Financial AI",
+            "url": "https://www.outlookindia.com/hub4business/suresh-rajendran-building-products-across-education-enterprise-technology-and-financial-ai",
+            "urlToImage": "https://cf-images.assettype.com/outlookindia/2026-06-29/zeez817p/Suresh-Rajendran?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-06-29T11:12:28Z"
+        },
+        {
+            "source": {
+                "id": "e98c4d2585c4c5661ffe60fed4d51930",
+                "name": "BOL News",
+                "url": "https://www.bolnews.com",
+                "country": "pk"
+            },
+            "title": "South Korea announces $650 billion plan for AI data centers",
+            "url": "https://www.bolnews.com/technology/south-korea-announces-650-billion-plan-for-ai-data-centers/",
+            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2026/06/South-Korea-3.webp",
+            "publishedAt": "2026-06-29T11:01:15Z"
+        },
         {
             "source": {
                 "id": "f2ddccedc9e60d844e7a1045928cad48",
@@ -3366,69 +3450,6 @@
             "url": "https://newsvot.com/ibm-unveils-worlds-first-sub-1nm-chip-the-07nm-ai-breakthrough",
             "urlToImage": "https://vot-media-cdn.fra1.cdn.digitaloceanspaces.com/pictures/medium/ai-generated-1782493368379.png",
             "publishedAt": "2026-06-26 17:03:44"
-        },
-        {
-            "source": {
-                "name": "newsweek"
-            },
-            "title": "China's AI Data Center Boom: How it Compares to the US",
-            "url": "https://www.newsweek.com/china-ai-data-center-boom-compared-to-us-12125717",
-            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/06/GettyImages-2238488648.jpg?w=1600&h=900&q=88",
-            "publishedAt": "2026-06-26 16:52:15"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "Inside China's AI data center pushâAnd how it compares with the US",
-            "url": "https://www.bundle.app/en/breaking-news/inside-chinas-ai-data-center-pushand-how-it-compares-with-the-us-635C7796-714A-4929-95C7-52676F9FFFD3",
-            "urlToImage": "https://static.bundle.app/news/6f2dc84e-9b33-55b8-85d7-aead8e3afae0.jpg",
-            "publishedAt": "2026-06-26 16:52:15"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "AWS says cloud market gatekeeper designation risks ‘deterring European investment and innovation’ as EU regulators plot competition crackdown",
-            "url": "https://www.itpro.com/business/policy-and-legislation/aws-says-cloud-market-gatekeeper-designation-risks-deterring-european-investment-and-innovation-as-eu-regulators-plot-competition-crackdown",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/i2VUb2oLPjFFkMn6CA4Huj-1280-80.jpg",
-            "publishedAt": "2026-06-26 16:06:44"
-        },
-        {
-            "source": {
-                "name": "itbrief_in"
-            },
-            "title": "Quali expands Torque for enterprise AI infrastructure",
-            "url": "https://itbrief.in/story/quali-expands-torque-for-enterprise-ai-infrastructure",
-            "urlToImage": "https://itbrief.in/uploads/story/2026/06/26/compatible_secure-it-control-center-cloud-servers-policy-dashboard-digital-illustration.jpg",
-            "publishedAt": "2026-06-26 15:45:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Highest-Demand IT Jobs in India in 2026: Top Career Opportunities",
-            "url": "https://www.analyticsinsight.net/jobs/highest-demand-it-jobs-in-india-in-2026-top-career-opportunities",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-06-26/ccymptfn/Highest-Demand-IT-Jobs-in-India-in-2026-Top-Career-Opportunities.jpg",
-            "publishedAt": "2026-06-26 15:15:00"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "Taiwan’s NCHC Launches Nano4 AI Supercomputer to Power Next-Gen AI Innovation",
-            "url": "https://www.hpcwire.com/off-the-wire/taiwans-nchc-launches-nano4-ai-supercomputer-to-power-next-gen-ai-innovation/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2026/06/NANO4-1024x394.png",
-            "publishedAt": "2026-06-26 14:49:48"
-        },
-        {
-            "source": {
-                "name": "hoodline"
-            },
-            "title": "Times Slashes AI Lawsuit, Leaves Microsoft In The Hot Seat",
-            "url": "https://hoodline.com/2026/06/times-slashes-ai-lawsuit-leaves-microsoft-in-the-hot-seat/",
-            "urlToImage": "https://img.hoodline.com/2026/6/times-slashes-ai-lawsuit-leaves-microsoft-in-the-hot-seat-1.webp",
-            "publishedAt": "2026-06-26 13:40:00"
         }
     ]
 }
