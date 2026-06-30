@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-06-29T23:59:29.654564Z",
+    "lastUpdatedAt": "2026-06-30T04:15:58.267630Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "BSP readies banks for wider AI use",
+            "url": "https://www.manilatimes.net/2026/06/30/business/bsp-readies-banks-for-wider-ai-use/2375028",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/06/29/1117975.jpg",
+            "publishedAt": "2026-06-29T16:13:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "South Korea to invest nearly $1.2 trillion in chips, AI data centers",
+            "url": "https://www.manilatimes.net/2026/06/30/business/foreign-business/south-korea-to-invest-nearly-12-trillion-in-chips-ai-data-centers/2374999",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/06/29/1117897.jpg",
+            "publishedAt": "2026-06-29T16:05:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Quantum computing key in protecting healthcare systems",
+            "url": "https://www.manilatimes.net/2026/06/30/news/national/quantum-computing-key-in-protecting-healthcare-systems/2375063",
+            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-06-29T16:03:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "British American Tobacco cost cutting hits 9,000 roles",
+            "url": "https://www.manilatimes.net/2026/06/30/business/foreign-business/british-american-tobacco-cost-cutting-hits-9000-roles/2374966",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/06/29/1117553.png",
+            "publishedAt": "2026-06-29T16:02:00Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "AI Is Trimming Tech Cost But Hitting Hiring Volumes As Well, Says Fractal CEO",
+            "url": "https://www.ndtvprofit.com/technology/ai-is-trimming-tech-cost-but-hitting-hiring-volumes-as-well-says-fractal-ceo-11703831",
+            "urlToImage": "https://c.ndtvimg.com/2026-05/k2730fsg_ai_625x300_20_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-06-29T16:00:21Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Samsung, SK Group To Unveil Investment Plan Worth Hundreds Of Billions To Boost AI And Chip Production",
+            "url": "https://www.ibtimes.com/samsung-sk-group-unveil-investment-plan-worth-hundreds-billions-boost-ai-chip-production-3804686",
+            "urlToImage": "https://d.ibtimes.com/en/full/4598123/lee-jae-myung-south-koreas-main-opposition-leader.jpg",
+            "publishedAt": "2026-06-29T15:51:16Z"
+        },
+        {
+            "source": {
+                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
+                "name": "Social Media Today",
+                "url": "https://www.socialmediatoday.com",
+                "country": "us"
+            },
+            "title": "Reddit launches ‘People are the Best’ campaign",
+            "url": "https://www.socialmediatoday.com/news/reddit-launches-people-are-the-best-campaign/824032/",
+            "urlToImage": "https://imgproxy.divecdn.com/QweKAOnQ-5k_eEXQfxkgq_iq8NmCn2d9uEOgZYhsAMg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yZWRkaXRfcGVvcGxlX2FyZV90aGVfYmVzdF9jYW1wYWlnbi5wbmc=.webp",
+            "publishedAt": "2026-06-29T15:39:49Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "South Korea looking at AI collaboration \"more intensely\" with India: Ambassador Lee",
+            "url": "https://www.tribuneindia.com/news/world/south-korea-looking-at-ai-collaboration-more-intensely-with-india-ambassador-lee/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI5N2JjZGMwLTczY2YtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-06-29T15:28:15Z"
+        },
+        {
+            "source": {
+                "id": "57f726ae1c2926b0eba0b6cd65467921",
+                "name": "CryptoSlate",
+                "url": "https://cryptoslate.com",
+                "country": "us"
+            },
+            "title": "Why a collapse in $1 trillion AI spending boom could hit Bitcoin traders first",
+            "url": "https://cryptoslate.com/bitcoin-traders-face-a-new-risk-from-ais-1-trillion-spending-boom/",
+            "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-ai-datacenter-overinvestment.jpg",
+            "publishedAt": "2026-06-29T15:10:21Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "South Korea vision for deeper partnership: Ambassador Lee",
+            "url": "https://www.tribuneindia.com/news/world/jaishankars-seoul-visit-reaffirms-india-south-korea-vision-for-deeper-partnership-ambassador-lee/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU2MWQyN2YwLTczY2MtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-06-29T15:08:01Z"
+        },
         {
             "source": {
                 "id": "933344203c2b862af768b5e662a162a4",
@@ -552,6 +672,42 @@
             "url": "https://www.indiatoday.in/technology/news/story/ford-rehiring-old-engineers-after-ai-failed-at-work-2936285-2026-06-29",
             "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/the-upcoming-chennai-built-engines-will-feature-advanced-powertrains-meeting-future-global-performan-314848462-16x9.jpg?VersionId=fxxvzeQ5hzsFT4ZeWYnnRPHx9RG8WD0Y",
             "publishedAt": "2026-06-29T00:19:57Z"
+        },
+        {
+            "source": {
+                "name": "executivebiz"
+            },
+            "title": "Carahsoft to Distribute Rhino.ai GenAI Modernization Platform to Public Sector",
+            "url": "https://www.executivebiz.com/articles/carahsoft-rhinoai-modernization-platform",
+            "urlToImage": "https://media.executivebiz.com/2026/06/michael-shrader-vice-president-carahsoft.png",
+            "publishedAt": "2026-06-29 15:27:38"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "IBM’s New Chip Could Vastly Reduce AI Energy Use",
+            "url": "https://www.forbes.com/sites/the-prototype/2026/06/29/ibms-new-chip-could-vastly-reduce-ai-energy-use/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a3f024182dc5e4bfb74c79b/0x0.jpg?width=960&precrop=2920%2C1642%2Cx0%2Cy360",
+            "publishedAt": "2026-06-29 15:00:52"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top AI Trends Driving Enterprise Transformation in 2026: From Experimentation to Enterprise Scale",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/top-ai-trends-driving-enterprise-transformation-in-2026-from-experimentation-to-enterprise-scale",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-06-29/8092w0ng/Screenshot-2026-06-29-174945.jpg",
+            "publishedAt": "2026-06-29 12:22:56"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Designing Observable and Reliable Generative AI Systems: A Platform Engineering Approach for Enterprise-Scale Deployment",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/designing-observable-and-reliable-generative-ai-systems-a-platform-engineering-approach-for-enterprise-scale-deployment",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-06-29/cmj2en1k/Ayush-Jain.jpg",
+            "publishedAt": "2026-06-29 11:59:35"
         },
         {
             "source": {
@@ -3291,165 +3447,6 @@
             "url": "https://www.manilatimes.net/2026/06/26/tmt-newswire/pr-newswire/xlsmart-and-tencent-cloud-successfully-complete-large-scale-ai-driven-cloud-transformation-project/2373437",
             "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/06/26/1114690.jpg",
             "publishedAt": "2026-06-26T03:35:10Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "Explained: Why India matters to Amazon's AI and AWS growth strategy",
-            "url": "https://www.cnbctv18.com/business/explained-why-india-matters-to-amazons-ai-and-aws-growth-strategy-19932497.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/04/amazon-2026-04-a1cc361917e6f0a43417aa413c1b784e.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-06-26T03:30:06Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US hold roundtable to deepen AI, chips, critical minerals cooperation",
-            "url": "https://economictimes.indiatimes.com/tech/technology/india-us-hold-roundtable-to-deepen-ai-chips-critical-minerals-cooperation/articleshow/132006415.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-147222,resizemode-75,msid-132006415/tech/technology/india-us-hold-roundtable-to-deepen-ai-chips-critical-minerals-cooperation.jpg",
-            "publishedAt": "2026-06-26T03:21:07Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "US plans AI push for visa processing",
-            "url": "https://www.lokmattimes.com/international/us-plans-ai-push-for-visa-processing/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606263839638_202606.jpg",
-            "publishedAt": "2026-06-26T02:27:57Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Global Market: US revises 2026 first-quarter GDP growth up to 2.1%",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-revises-2026-first-quarter-gdp-growth-up-to-2-1/articleshow/132005799.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132005804,width-1200,height-630,imgsize-45446,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-06-26T02:12:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/26/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/06/26/3978109.jpg",
-            "publishedAt": "2026-06-26T02:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Two Decades of Precision: Lingyi iTech Marks 20th Anniversary with Landmark Hong Kong Listing (1688.HK) to Anchor Its Global AI Leadership",
-            "url": "https://www.manilatimes.net/2026/06/26/tmt-newswire/pr-newswire/two-decades-of-precision-lingyi-itech-marks-20th-anniversary-with-landmark-hong-kong-listing-1688hk-to-anchor-its-global-ai-leadership/2373415",
-            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-06-26T01:54:49Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Assured that access to AI tech once provided will not be cut-off: senior Indian official",
-            "url": "https://www.thehindu.com/news/national/assured-that-access-to-ai-tech-once-provided-will-not-be-cut-off-senior-indian-official/article71149019.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/gma4vs/article71149049.ece/alternates/LANDSCAPE_1200/20260625304L.jpg",
-            "publishedAt": "2026-06-26T01:52:47Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "How does a single cell build a 170 billion-cell brain? Scientists discover the astonishing blueprint behind how the human brain builds itself",
-            "url": "https://economictimes.indiatimes.com/news/international/us/how-does-a-single-cell-build-a-170-billion-cell-brain-scientists-discover-the-astonishing-blueprint-behind-how-the-human-brain-builds-itself/articleshow/132005171.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132005182,width-1200,height-630,imgsize-778529,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-06-26T01:06:00Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "tech rout in Asia and Wall Street",
-            "url": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108246220-1767018173604-gettyimages-2247119893-AFP_84NZ8T3.jpeg?v=1767018246&w=1920&h=1080",
-            "publishedAt": "2026-06-26T00:54:25Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI levels the playing field as IT giants target mid",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/ai-levels-the-playing-field-as-it-giants-target-mid-market-game/articleshow/131999875.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3099410,resizemode-75,msid-131999875/tech/information-tech/ai-levels-the-playing-field-as-it-giants-target-mid-market-game.jpg",
-            "publishedAt": "2026-06-26T00:30:00Z"
-        },
-        {
-            "source": {
-                "id": "f6aff458be2c33b80c8600fb696f68fb",
-                "name": "Caixin",
-                "url": "https://www.caixinglobal.com",
-                "country": "cn"
-            },
-            "title": "In Depth: Beneath the Sea, China Tests the Future of AI Power",
-            "url": "https://www.caixinglobal.com/2026-06-26/in-depth-beneath-the-sea-china-tests-the-future-of-ai-power-102457900.html",
-            "urlToImage": "https://img.caixin.com/2026-06-26/178246155405057_560_373.jpg",
-            "publishedAt": "2026-06-26T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "Gemini for Home is a subscription trap disguised as smarter automation",
-            "url": "https://www.xda-developers.com/gemini-for-home-last-thing-want-implement-into-smart-home/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/whatsapp-image-2026-06-25-at-12-46-11-2.jpeg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-06-26 23:02:09"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "Gemini for Home is a subscription trap disguised as smarter automation",
-            "url": "https://www.bundle.app/en/technology/gemini-for-home-is-a-subscription-trap-disguised-as-smarter-automation-1F8A9B4C-FC9E-4199-A437-B96410B05C26",
-            "urlToImage": "https://static.bundle.app/news/4a2d8db3-ccb6-5d77-9baa-69af47b2e69c.jpg",
-            "publishedAt": "2026-06-26 23:02:09"
-        },
-        {
-            "source": {
-                "name": "newsvot"
-            },
-            "title": "IBM Unveils World's First Sub-1nm Chip: The 0.7nm AI Breakthrough",
-            "url": "https://newsvot.com/ibm-unveils-worlds-first-sub-1nm-chip-the-07nm-ai-breakthrough",
-            "urlToImage": "https://vot-media-cdn.fra1.cdn.digitaloceanspaces.com/pictures/medium/ai-generated-1782493368379.png",
-            "publishedAt": "2026-06-26 17:03:44"
         }
     ]
 }
