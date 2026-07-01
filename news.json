@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-07-01T03:23:29.267786Z",
+    "lastUpdatedAt": "2026-07-01T08:06:34.487642Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Anthropic launches AI drug discovery program, Claude Science",
+            "url": "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108323235-1781707962297-gettyimages-2282033342-090a1082_o4bhzzd7.jpeg?v=1781727317&w=1920&h=1080",
+            "publishedAt": "2026-06-30T20:03:58Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Aussie AI boost: $500m network planned for major cities",
+            "url": "https://www.perthnow.com.au/news/technology/aussie-ai-boost-500m-network-planned-for-major-cities-c-22511133",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-22511133/6b3743e4497ba31bdd5394465a7e0ef29b1e5545-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-06-30T20:02:32Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "Aussie AI boost: $500m network planned for major cities",
+            "url": "https://www.canberratimes.com.au/story/9302466/aussie-ai-boost-500m-network-planned-for-major-cities/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/7f12e107-1b9b-47cf-9ec5-cf8bc4db296d.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-06-30T20:00:01Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Researchers use AI to predict rare cancer immunotherapy responses",
+            "url": "https://www.news-medical.net/news/20260630/Researchers-use-AI-to-predict-rare-cancer-immunotherapy-responses.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Pathology-620x480.jpg",
+            "publishedAt": "2026-06-30T19:59:00Z"
+        },
+        {
+            "source": {
+                "id": "8749653ef849c3df2e467a8e0f0c6672",
+                "name": "NBC10 Boston",
+                "url": "https://www.nbcboston.com",
+                "country": "us"
+            },
+            "title": "New Connecticut laws take effect July 1. Here's what to know",
+            "url": "https://www.nbcboston.com/news/local/new-connecticut-laws-take-effect-july-1-heres-what-to-know/3973842/",
+            "urlToImage": "https://media.nbcboston.com/2026/06/GettyImages-2248532277.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2026-06-30T19:58:58Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Amazon Web Services Invests $1 Billion in New AI Unit to Embed Engineers With Customers",
+            "url": "https://www.marketscreener.com/news/amazon-web-services-invests-1-billion-in-new-ai-unit-to-embed-engineers-with-customers-ce7f5fddd98cff22",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-06-30T19:27:17Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI deciphers long-range DNA signals behind RNA splicing",
+            "url": "https://phys.org/news/2026-06-ai-deciphers-range-dna-rna.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/ai-deciphers-long-rang.jpg",
+            "publishedAt": "2026-06-30T19:20:08Z"
+        },
+        {
+            "source": {
+                "id": "34cc62608b4607dc3a776802caadb7bd",
+                "name": "ThePrint",
+                "url": "https://theprint.in",
+                "country": "in"
+            },
+            "title": "Boosting economic security set to be focus of Japanese PM Takaichi's India visit",
+            "url": "https://theprint.in/india/boosting-economic-security-set-to-be-focus-of-japanese-pm-takaichis-india-visit/2974273/",
+            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+            "publishedAt": "2026-06-30T19:15:20Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Maharashtra To Form Expert Panel For AI SOPs Within 30 Days; Opposition Raises Privacy Fears Over Vidhan Bhavan Facial Recognition",
+            "url": "https://www.freepressjournal.in/mumbai/maharashtra-to-form-expert-panel-for-ai-sops-within-30-days-opposition-raises-privacy-fears-over-vidhan-bhavan-facial-recognition",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-07-17/wfbvm5s4/IMG-20250715-WA0019.jpg",
+            "publishedAt": "2026-06-30T19:06:52Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Wall Street's AI Boom Has Powered Stocks For Years. Now Investors Want Proof Before Pouring More Money.",
+            "url": "https://www.ibtimes.com/wall-streets-ai-boom-has-powered-stocks-years-now-investors-want-proof-before-pouring-more-money-3804748",
+            "urlToImage": "https://d.ibtimes.com/en/full/4400647/united-states-key-sp-500-index-down-almost-20-percent-over-past-year.jpg",
+            "publishedAt": "2026-06-30T18:53:59Z"
+        },
         {
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -723,6 +843,33 @@
         },
         {
             "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Apple Creator Studio adds AI tools across Final Cut Pro, Logic Pro and Pixelmator Pro",
+            "url": "https://www.digitaltrends.com/computing/apple-creator-studio-adds-ai-tools-across-final-cut-pro-logic-pro-and-pixelmator-pro/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/06/Apple-Creator-Studio-hero-scaled.jpg?resize=1200%2C630",
+            "publishedAt": "2026-06-30 18:48:02"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Building Trustworthy AI for Public Health: Advancing Agentic AI, Data Modernization, and Responsible Innovation",
+            "url": "https://www.analyticsinsight.net/interview/building-trustworthy-ai-for-public-health-advancing-agentic-ai-data-modernization-and-responsible-innovation",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-06-30/peiaaz6g/Anindita-NathHeadshot-1.jpg",
+            "publishedAt": "2026-06-30 16:16:38"
+        },
+        {
+            "source": {
+                "name": "fastcompany"
+            },
+            "title": "Scientists want you to read their research papers—so they’re using gen AI to turn them into TikTok videos",
+            "url": "https://www.fastcompany.com/91566837/scientists-are-turning-research-papers-into-generative-ai-tiktok-videos-papertok?partner=rss",
+            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/06/p-1-91566837-papertok-ai-tiktok-for-researchers.jpg",
+            "publishedAt": "2026-06-30 16:15:00"
+        },
+        {
+            "source": {
                 "name": "siliconangle"
             },
             "title": "AWS launches forward-deployed engineering team to speed enterprise agentic AI adoption",
@@ -765,6 +912,15 @@
             "url": "https://siliconangle.com/2026/06/30/build-raises-8-5m-accelerate-industrial-infrastructure-development-project-work/",
             "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/scott-blake-x-ghf9LjrVg-unsplash.jpg",
             "publishedAt": "2026-06-30 13:00:16"
+        },
+        {
+            "source": {
+                "name": "frontline_thehindu"
+            },
+            "title": "The creator is dead",
+            "url": "https://frontline.thehindu.com/society/ai-authorship-copyright-future-personhood/article71109554.ece",
+            "urlToImage": "https://fl-i.thgim.com/public/incoming/qnuczb/article71160229.ece/alternates/LANDSCAPE_1200/Th%C3%A9%C3%A2tre%20D%E2%80%99op%C3%A9ra%20Spatial",
+            "publishedAt": "2026-06-30 12:20:38"
         },
         {
             "source": {
@@ -3201,174 +3357,6 @@
             "url": "https://www.tribuneindia.com/news/business/ola-electric-builds-ai-agents-to-simplify-work-bhavish-aggarwal-says-ai-will-replace-middlemen/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWExZjNlZDcwLTcyMWEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
             "publishedAt": "2026-06-27T11:23:26Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Chandigarh University researchers use Artificial Intelligence to develop Model for predicting Accurate Crop Yield; Innovation to benefit Indian Farmers",
-            "url": "https://www.tribuneindia.com/news/business/chandigarh-university-researchers-use-artificial-intelligence-to-develop-model-for-predicting-accurate-crop-yield-innovation-to-benefit-indian-farmers/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg5OTA4ZjEwLTcyMTgtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-06-27T11:08:26Z"
-        },
-        {
-            "source": {
-                "id": "c9db5acf558cb3805c540ea4298687bc",
-                "name": "Shaw Local Enewspapers",
-                "url": "https://www.shawlocal.com",
-                "country": "us"
-            },
-            "title": "Cocktails-to-go, new state agency among laws taking effect July 1",
-            "url": "https://www.shawlocal.com/news/2026/06/27/cocktails-to-go-new-state-agency-among-laws-taking-effect-july-1/",
-            "urlToImage": "https://www.shawlocal.com/resizer/v2/6M25Q7HUNVHELB5ZWA4AEELS5U.png?auth=99df5037e03136aa6b59bc2632ce66b7c5bcc0c8e065e16347210c97350a6c6b&width=1200&height=630&smart=true",
-            "publishedAt": "2026-06-27T11:00:01Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Pax Silica Summit: India among 35 countries backed US-led 'AI Opportunity' declaration",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/pax-silica-summit-india-among-35-countries-backed-us-led-ai-opportunity-declaration/articleshow/132032315.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132032484,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-27T10:08:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Taiwan's top 5,000 firms post record profit in 2025; TSMC remains most profitable",
-            "url": "https://www.tribuneindia.com/news/business/taiwans-top-5000-firms-post-record-profit-in-2025-tsmc-remains-most-profitable/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTcwOWM2NjkwLTcyMGYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-06-27T10:03:20Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "CT has seen 267 special education complaints. Experts suspect AI",
-            "url": "https://www.courant.com/2026/06/27/ct-has-seen-267-special-education-complaints-experts-suspect-ai/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/06/ed.jpg?w=1024&h=683",
-            "publishedAt": "2026-06-27T09:07:37Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Fake citations on rise in Canada, expert says",
-            "url": "https://www.cp24.com/news/canada/2026/06/27/fake-ai-legal-citations-emerge-as-growing-trend-in-canadian-courts-lawyer-warns/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/Y3JMWKXRXMO6JD5SGZIHSNKLNI.jpg?smart=true&auth=b0ea467b87f7858c7127a6df5dfeb3d8b0317f7756197da9cdf6c8ca19fd5da5&width=1200&height=630",
-            "publishedAt": "2026-06-27T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How to Use an AI Image Editor with Prompt for Marketing and E-commerce",
-            "url": "https://techbullion.com/how-to-use-an-ai-image-editor-with-prompt-for-marketing-and-e-commerce/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/06/vv-149.png",
-            "publishedAt": "2026-06-27T08:47:21Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Companies pull back on AI as weak workplace collaboration hurts results: Report",
-            "url": "https://www.tribuneindia.com/news/business/companies-pull-back-on-ai-as-weak-workplace-collaboration-hurts-results-report/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdkMThkODMwLTcyMDEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-06-27T08:23:26Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "OpenAI restricting release of new model",
-            "url": "https://www.arkansasonline.com/news/2026/jun/27/openai-restricting-release-of-new-model/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213138277_213137310-df048727b111403e9acdb937a29ddbe9_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-            "publishedAt": "2026-06-27T08:13:00Z"
-        },
-        {
-            "source": {
-                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-                "name": "SFGATE",
-                "url": "https://www.sfgate.com",
-                "country": "us"
-            },
-            "title": "Regional: California Launches Ai Job-Loss Tracker To Monitor Workforce Impacts",
-            "url": "https://www.sfgate.com/news/bayarea/article/regional-california-launches-ai-job-loss-tracker-22323431.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/54/45/67/28466672/6/rawImage.jpg",
-            "publishedAt": "2026-06-27T08:02:01Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Luca Guadagnino on AI and ''Artificial'': ''We are right in the middle of this situation''",
-            "url": "https://www.dailyexcelsior.com/luca-guadagnino-on-ai-and-artificial-we-are-right-in-the-middle-of-this-situation/",
-            "urlToImage": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWMwN2MzOWEwLTcxZmMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-06-27T07:49:38Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "What Is Project Hawk Eye? AI-Powered Security System Set To Safeguard Amarnath Yatra 2026 In Anantnag District Of Jammu & Kashmir",
-            "url": "https://www.freepressjournal.in/lifestyle/what-is-project-hawk-eye-ai-powered-security-system-set-to-safeguard-amarnath-yatra-2026-in-anantnag-district-of-jammu-kashmir",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-06-27/cut538kz/Untitled-design-2026-06-27T115323.831.jpg",
-            "publishedAt": "2026-06-27T07:13:29Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "Report: AI sales may justify buildout",
-            "url": "https://www.arkansasonline.com/news/2026/jun/27/report-ai-sales-may-justify-buildout/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
-            "publishedAt": "2026-06-27T06:47:00Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "Oil costs’ fall buoys Wall Street dragged by AI losses",
-            "url": "https://www.arkansasonline.com/news/2026/jun/27/oil-costs-fall-buoys-wall-street-dragged-by-ai/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213137517_2D-stocks-0627-RGB_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-            "publishedAt": "2026-06-27T06:45:00Z"
         }
     ]
 }
