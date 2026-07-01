@@ -1,6 +1,105 @@
 {
-    "lastUpdatedAt": "2026-07-01T11:56:54.619484Z",
+    "lastUpdatedAt": "2026-07-01T14:34:28.531403Z",
     "articles": [
+        {
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            },
+            "title": "Asian shares trade mixed as worries over Iran-US deal remain",
+            "url": "https://www.ajc.com/news/2026/07/asian-shares-trade-mixed-as-worries-over-iran-us-deal-remain/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/MVBXIMNXQJCF3IKFFP7ZSM23XE.jpg?auth=83cd7842f59df7b300ed4cc211ad5e9a8fe2e2f4b59d4359c7f013c387aafc8e&width=1200&height=630&smart=true",
+            "publishedAt": "2026-07-01T02:33:22Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "CNBC Daily Open: AI demand fuels investors' portfolios while oil posts biggest monthly decline",
+            "url": "https://www.cnbc.com/2026/07/01/cnbc-daily-open-ai-demand-fuels-investors-portfolio-while-oil-posts-biggest-monthly-decline.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105305605-1530503822980gettyimages-693958656.jpg?v=1571633918&w=1920&h=1080",
+            "publishedAt": "2026-07-01T02:22:35Z"
+        },
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            },
+            "title": "Anthropic says Trump administration lifted restrictions on some of its most powerful Claude AI models",
+            "url": "https://www.cbsnews.com/news/anthropic-trump-administration-lifted-claude-restrictions/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/27/1db9c117-826d-476c-b306-987f47be7e1c/thumbnail/1200x630/2f413674cc6a99063c4468d2a888d084/anthropic.jpg",
+            "publishedAt": "2026-07-01T01:27:13Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "US government lifts restrictions on Anthropic Fable 5 model",
+            "url": "https://www.thehindubusinessline.com/info-tech/us-government-lifts-restrictions-on-anthropic-fable-5-model/article71168438.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/oc0ox0/article71168440.ece/alternates/LANDSCAPE_1200/2026-06-24T235306Z_1565019599_RC2LU7A411MD_RTRMADP_3_ANTHROPIC-AI-ALIBABA.JPG",
+            "publishedAt": "2026-07-01T01:19:11Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Trump administration lifts export controls on Anthropic's most powerful AI models, ending bitter standoff",
+            "url": "https://nypost.com/2026/06/30/business/trump-administration-lifts-export-controls-on-anthropics-most-powerful-ai-models-ending-bitter-standoff/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/g7-summit-heads-state-government-132863780.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-07-01T00:15:28Z"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "IBM’s 1-nanometer chip, Google’s AI policy pitch, and Chinese AI",
+            "url": "https://www.hindustantimes.com/business/ibms-1-nanometer-chip-google-s-ai-policy-pitch-and-chinese-ai-101782859511854.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/06/30/1600x900/logo/IBM_1_nanometer_chip_1782859527604_1782859540817_01d0fde5-196e-457f-b9b3-bc88ea909f6a.png",
+            "publishedAt": "2026-07-01 02:30:58"
+        },
+        {
+            "source": {
+                "name": "financialexpress"
+            },
+            "title": "The economics of AI",
+            "url": "https://www.financialexpress.com/opinion/the-economics-of-ai/4280434/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/07/AI-economics.jpg",
+            "publishedAt": "2026-07-01 00:57:21"
+        },
+        {
+            "source": {
+                "name": "deccanherald"
+            },
+            "title": "July 2026: Top smartphones launching this month",
+            "url": "https://www.deccanherald.com/technology/july-2026-top-smartphones-launching-this-month-4057422",
+            "urlToImage": "https://media.assettype.com/deccanherald/import/sites/dh/files/articleimages/2022/01/31/smartphones-cs-1-1076604-1643641693.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+            "publishedAt": "2026-07-01 00:32:00"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "What’s likely to move the market",
+            "url": "https://www.cnbc.com/2026/06/30/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108300717-1777652502485-gettyimages-2273425807-SEAPORT_THERAPEUTICS_IPO.jpeg?v=1782863789&w=1920&h=1080",
+            "publishedAt": "2026-06-30T23:57:06Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -3243,114 +3342,6 @@
             "url": "https://www.newsmax.com/newsfront/trump-artificialintelligence-anthropic/2026/06/27/id/1261087/",
             "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=22541616-bec5-42e9-87ed-585c6333197b&SiteName=Newsmax",
             "publishedAt": "2026-06-27T20:35:53Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "AI is plowing through the workplace. This new group wants to help people adapt and have jobs",
-            "url": "https://japantoday.com/category/tech/ai-is-plowing-through-the-workplace.-this-new-group-wants-to-help-people-adapt-and-have-jobs",
-            "urlToImage": "https://media.japantoday.com/img/store/03/92/6a9a09dd68c0eac0b5340ed345ec454596b6/download/_w1700.jpeg",
-            "publishedAt": "2026-06-27T20:35:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "AI is an energy and water hog, here's what you can do to counter that",
-            "url": "https://japantoday.com/category/features/environment/ai-is-an-energy-and-water-hog-here's-what-you-can-do-to-counter-that",
-            "urlToImage": "https://media.japantoday.com/img/store/2d/f6/15d7038e5cbe337454b6a7691a533b8975bb/download/_w1700.jpeg",
-            "publishedAt": "2026-06-27T20:15:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "AI is an energy and water hog, here's what you can do to counter that",
-            "url": "https://japantoday.com/category/features/environment/ai-is-an-energy-and-water-hog-here%27s-what-you-can-do-to-counter-that",
-            "urlToImage": "https://media.japantoday.com/img/store/2d/f6/15d7038e5cbe337454b6a7691a533b8975bb/download/_w1700.jpeg",
-            "publishedAt": "2026-06-27T20:15:00Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "New commentary urges patient-centered AI regulation in healthcare systems",
-            "url": "https://www.news-medical.net/news/20260627/New-commentary-urges-patient-centered-AI-regulation-in-healthcare-systems.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
-            "publishedAt": "2026-06-27T19:53:00Z"
-        },
-        {
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
-                "country": "in"
-            },
-            "title": "SRM Hosts Healthcare Innovation Forum",
-            "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/srm-hosts-healthcare-innovation-forum-1966792",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/06/27/2057363-ddddd.jpg",
-            "publishedAt": "2026-06-27T19:51:25Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Robot Revolution? How China Is Turning To Humanoid Robots To Tackle Demographic Woes",
-            "url": "https://www.ndtvprofit.com/world/how-china-is-turning-to-humanoid-robots-to-tackle-shrinking-workforce-11694986",
-            "urlToImage": "https://c.ndtvimg.com/2026-06/vfjgq9ek_china-robots_625x300_27_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-06-27T17:32:25Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "As Digital India turns 11, govt bets on AI, semiconductors to drive next growth phase",
-            "url": "https://www.tribuneindia.com/news/business/as-digital-india-turns-11-govt-bets-on-ai-semiconductors-to-drive-next-growth-phase/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZjYmUzNWEwLTcyNDktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-06-27T16:58:25Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Japan draft AI plan targets cyber threats, AI-generated misinformation",
-            "url": "https://www.manilatimes.net/2026/06/28/business/sunday-business-it/japan-draft-ai-plan-targets-cyber-threats-ai-generated-misinformation/2374203",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/06/27/1116352.jpg",
-            "publishedAt": "2026-06-27T16:03:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Zoom unveils AI assistant for workplace tasks",
-            "url": "https://www.manilatimes.net/2026/06/28/business/sunday-business-it/zoom-unveils-ai-assistant-for-workplace-tasks/2374199",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/06/27/1116350.jpg",
-            "publishedAt": "2026-06-27T16:02:00Z"
         }
     ]
 }
