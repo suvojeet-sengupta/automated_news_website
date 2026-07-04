@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-07-04T07:41:40.135475Z",
+    "lastUpdatedAt": "2026-07-04T10:03:57.525604Z",
     "articles": [
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "Has Technology Ruined The World Cup?",
+            "url": "https://www.forbes.com/sites/clementelisi/2026/07/03/has-technology-ruined-the-world-cup/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a481bc9110f8f5cab5c066f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-07-03T20:58:39Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -804,6 +816,33 @@
             "url": "https://phys.org/news/2026-07-airborne-ai-underwater-munitions-shallow.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/new-airborne-technolog.jpg",
             "publishedAt": "2026-07-03T00:20:01Z"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "The only AI glossary you need this year",
+            "url": "https://bitcoinworld.co.in/ai-glossary-terms-guide/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/ai-glossary-terms-guide.jpg",
+            "publishedAt": "2026-07-03 21:40:11"
+        },
+        {
+            "source": {
+                "name": "techcrunch"
+            },
+            "title": "The only AI glossary you’ll need this year",
+            "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg",
+            "publishedAt": "2026-07-03 21:20:00"
+        },
+        {
+            "source": {
+                "name": "ibtimes"
+            },
+            "title": "Tesla Capped Employee AI Spending At $200 A Week. Uber And Other Companies Are Already Tightening Similar Internal Limits.",
+            "url": "https://www.ibtimes.com/tesla-capped-employee-ai-spending-200-week-uber-other-companies-are-already-tightening-similar-3804915",
+            "urlToImage": "https://d.ibtimes.com/en/full/4631201/tesla.jpg?w=1600&h=900&q=88&f=b0ecd84a52af67aab7715317fdef0507",
+            "publishedAt": "2026-07-03 20:50:05"
         },
         {
             "source": {
@@ -3420,42 +3459,6 @@
             "url": "https://completeaitraining.com/news/cios-treat-ai-workload-placement-as-a-strategic-capability/",
             "urlToImage": "https://cdn.completeaitraining.com/news_images/cios-treat-ai-workload-placement-as-a-strategic-capability_2026-07-01.jpg",
             "publishedAt": "2026-07-01 22:50:51"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Study finds humans will talk to AI ghosts of the dead as reincarnations, and it’s pretty grim",
-            "url": "https://us.headtopics.com/news/study-finds-humans-will-talk-to-ai-ghosts-of-the-dead-as-85125257",
-            "urlToImage": "https://i.headtopics.com/images/2026/7/1/digitaltrends/study-finds-humans-will-talk-to-ai-ghosts-of-the-d-study-finds-humans-will-talk-to-ai-ghosts-of-the-d-BC1A7421E69D072F8F32E20E1AA7682B.webp",
-            "publishedAt": "2026-07-01 21:36:31"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Study finds humans will talk to AI ghosts of the dead as reincarnations, and it’s pretty grim",
-            "url": "https://www.digitaltrends.com/computing/study-finds-humans-will-talk-to-ai-ghosts-of-the-dead-as-reincarnations-and-its-pretty-grim/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/07/Generative-ghosts-featured-image.jpg?resize=1200%2C630",
-            "publishedAt": "2026-07-01 20:50:25"
-        },
-        {
-            "source": {
-                "name": "nynewscast"
-            },
-            "title": "SIGGRAPH 2026 Explores the Future of Robotics Through Computer Graphics, Simulation, and Creative Expression",
-            "url": "https://nynewscast.com/siggraph-2026-explores-the-future-of-robotics-through-computer-graphics-simulation-and-creative-expression-233878/",
-            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-            "publishedAt": "2026-07-01 19:49:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Confidential Computing In The AI Era",
-            "url": "https://www.forbes.com/sites/chuckbrooks/2026/07/01/confidential-computing-in-the-ai-era/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/616352e6bcb08fc126dc31c1/0x0.jpg",
-            "publishedAt": "2026-07-01 17:08:13"
         }
     ]
 }
