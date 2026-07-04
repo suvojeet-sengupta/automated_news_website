@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-07-04T15:57:38.345571Z",
+    "lastUpdatedAt": "2026-07-04T17:07:52.871453Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "The rise and rise of Nvidia and how it became world's most important company",
+            "url": "https://www.indiatoday.in/technology/features/story/the-rise-and-rise-of-nvidia-and-how-it-became-worlds-most-important-company-2940373-2026-07-04",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/nvidia-ceo-jensen-huang-speaks-during-an-nvidia-conference-focusing-on-artificial-intelligence-in-sa-044753314-16x9_0.jpg?VersionId=rPY6t4kX5gIDnU3m9xx9_fCmFqjL5u5r",
+            "publishedAt": "2026-07-04T05:04:49Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -3444,18 +3456,6 @@
             "url": "https://phys.org/news/2026-06-physicists-ai-claude-collaborate-year.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/mathematical-problem.jpg",
             "publishedAt": "2026-07-01T04:00:02Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "US government lifts restrictions on powerful AI models, Anthropic says",
-            "url": "https://www.marketscreener.com/news/us-government-lifts-restrictions-on-powerful-ai-models-anthropic-says-ce7f5fdddc88f425",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-07-01T03:41:20Z"
         }
     ]
 }
