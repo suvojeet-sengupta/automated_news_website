@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-07-04T10:03:57.525604Z",
+    "lastUpdatedAt": "2026-07-04T12:03:15.204457Z",
     "articles": [
+        {
+            "source": {
+                "id": "49853ffafc28f405ff8ed06043290ae8",
+                "name": "Global News",
+                "url": "https://globalnews.ca",
+                "country": "ca"
+            },
+            "title": "Saskatchewan startups turning to AI to start businesses, accelerate growth",
+            "url": "https://globalnews.ca/news/11952430/saskatchewan-startups-turning-to-ai/",
+            "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/07/AI-INNOVATION-STORY-2.bmp?w=720&h=379&crop=1",
+            "publishedAt": "2026-07-03T23:42:35Z"
+        },
+        {
+            "source": {
+                "id": "e7b4d14003cc89c64a689f1c38723ef5",
+                "name": "Live 5 News WCSC",
+                "url": "https://www.live5news.com",
+                "country": "us"
+            },
+            "title": "College of Charleston embraces AI in the classroom, teaching students to use it responsibly",
+            "url": "https://www.live5news.com/2026/07/03/college-charleston-embraces-ai-classroom-teaching-students-use-it-responsibly/",
+            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/I5MKKA52NZH7ZH66YHA7VAHCCM.jpg?auth=4b2c6e22a642f86586605209902c0586dc71a4ddce7581771414f25fda39e493&width=1200&height=600&smart=true",
+            "publishedAt": "2026-07-03T23:15:00Z"
+        },
         {
             "source": {
                 "id": "a0300bc9a6e9d5b317bd6f614767231f",
@@ -3438,27 +3462,6 @@
             "url": "https://www.thehindubusinessline.com/info-tech/us-government-lifts-restrictions-on-anthropic-fable-5-model/article71168438.ece",
             "urlToImage": "https://bl-i.thgim.com/public/incoming/oc0ox0/article71168440.ece/alternates/LANDSCAPE_1200/2026-06-24T235306Z_1565019599_RC2LU7A411MD_RTRMADP_3_ANTHROPIC-AI-ALIBABA.JPG",
             "publishedAt": "2026-07-01T01:19:11Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Trump administration lifts export controls on Anthropic's most powerful AI models, ending bitter standoff",
-            "url": "https://nypost.com/2026/06/30/business/trump-administration-lifts-export-controls-on-anthropics-most-powerful-ai-models-ending-bitter-standoff/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/g7-summit-heads-state-government-132863780.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-07-01T00:15:28Z"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "CIOs treat AI workload placement as a strategic capability",
-            "url": "https://completeaitraining.com/news/cios-treat-ai-workload-placement-as-a-strategic-capability/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/cios-treat-ai-workload-placement-as-a-strategic-capability_2026-07-01.jpg",
-            "publishedAt": "2026-07-01 22:50:51"
         }
     ]
 }
