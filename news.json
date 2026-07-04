@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-07-04T22:54:06.887981Z",
+    "lastUpdatedAt": "2026-07-04T23:57:56.284797Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "43% Indian firms use AI, but workforce readiness still lags",
+            "url": "https://www.indiatoday.in/jobs/story/workforce-readiness-in-the-age-of-ai-43-indian-firms-use-ai-but-people-lack-skills-educ-2940523-2026-07-04",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/ai-202121694-16x9.png?VersionId=I23uEvZkniXXyUEIl5PhUXqIAR7FA6BZ",
+            "publishedAt": "2026-07-04T10:57:33Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -216,6 +228,15 @@
             "url": "https://www.arkansasonline.com/news/2026/jul/03/arkansas-state-university-mountain-home-creates/",
             "urlToImage": "https://wehco.media.clients.ellingtoncms.com/img/photos/2026/07/03/ASUMH_AI_crop_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
             "publishedAt": "2026-07-04T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "As AI turbocharges digital abuse, UK agencies urge parents to limit who sees kids’ photos online",
+            "url": "https://www.digitaltrends.com/computing/as-ai-turbocharges-digital-abuse-uk-agencies-urge-parents-to-limit-who-sees-kids-photos-online/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-03T151501.284.jpg?resize=1200%2C630",
+            "publishedAt": "2026-07-04 11:47:54"
         },
         {
             "source": {
@@ -3417,30 +3438,6 @@
             "url": "https://timesofindia.indiatimes.com/science/scientists-develop-ai-that-detects-pancreatic-cancer-years-before-diagnosis-in-a-major-breakthrough/articleshow/132109719.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-132110040,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-07-01T08:21:00Z"
-        },
-        {
-            "source": {
-                "id": "c97ef3cad273a1993c998ca7ddcc5212",
-                "name": "Daily Express",
-                "url": "https://www.express.co.uk",
-                "country": "gb"
-            },
-            "title": "Netflix faces backlash for using AI to imitate late star in new series",
-            "url": "https://www.express.co.uk/showbiz/tv-radio/2223867/netflix-under-fire-fans-claim-ai-used-recreate-gene-wilder-wonka-series",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/20/1200x630/7014239.jpg",
-            "publishedAt": "2026-07-01T08:21:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
-            "url": "https://www.breitbart.com/news/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
-            "urlToImage": "https://media.breitbart.com/media/2026/07/wi/ap/trump-66864-trump-president-donald-trump-speaks-signing-presidential-memo-epa-pollution-control-640x335.jpg",
-            "publishedAt": "2026-07-01T08:19:04Z"
         }
     ]
 }
