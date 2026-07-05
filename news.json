@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-07-05T14:28:19.216663Z",
+    "lastUpdatedAt": "2026-07-05T16:02:54.629105Z",
     "articles": [
+        {
+            "source": {
+                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
+                "name": "FinanzNachrichten",
+                "url": "https://www.finanznachrichten.de",
+                "country": "de"
+            },
+            "title": "iFLYTEK CO., LTD.: iFLYTEK Officially Launches Open Platform in Central Asia, Positioning Uzbekistan as a New Regional AI Hub",
+            "url": "https://www.finanznachrichten.de/nachrichten-2026-07/68943813-iflytek-co-ltd-iflytek-officially-launches-open-platform-in-central-asia-positioning-uzbekistan-as-a-new-regional-ai-hub-399.htm",
+            "urlToImage": "https://www.finanznachrichten.de/content/g/fb.png",
+            "publishedAt": "2026-07-05T03:34:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Sriram Krishnan, Donald Trump’s outgoing AI advisor, calls out AI leaders for ‘terrible job’: ‘It is own due to your own doomer messaging that …",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/sriram-krishnan-donald-trumps-outgoing-ai-advisor-calls-out-ai-leaders-for-terrible-job-it-is-own-due-to-your-own-doomer-messaging-that-/articleshow/132190327.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132190323,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-05T03:32:00Z"
+        },
+        {
+            "source": {
+                "id": "c97ef3cad273a1993c998ca7ddcc5212",
+                "name": "Daily Express",
+                "url": "https://www.express.co.uk",
+                "country": "gb"
+            },
+            "title": "'Never say yes' to these 3 questions when your phone rings",
+            "url": "https://www.express.co.uk/life-style/science-technology/2224444/never-say-yes-three-phone-scam-questions-tech-expert-warns-could-cost-you",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/59/1200x630/7017067.jpg",
+            "publishedAt": "2026-07-05T03:00:00Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -36,6 +72,15 @@
             "url": "https://www.rappler.com/technology/features/tech-thoughts-godbots-when-religion-mixes-artificial-intelligence/",
             "urlToImage": "https://www.rappler.com/tachyon/2026/07/godbot-july-3-2026.jpg",
             "publishedAt": "2026-07-05T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "AI investment in emerging markets must go beyond models to ecosystems: Report",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-investment-in-emerging-markets-must-go-beyond-models-to-ecosystems-report/articleshow/132192842.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49578,resizemode-75,msid-132192842/tech/artificial-intelligence/ai-investment-in-emerging-markets-must-go-beyond-models-to-ecosystems-report.jpg",
+            "publishedAt": "2026-07-05 02:49:45"
         },
         {
             "source": {
@@ -3369,54 +3414,6 @@
             "url": "https://www.forbes.com/sites/dougmelville/2026/07/01/how-tribeca-cannes-a24-and-the-generated-awards-are-validating-ai-creators/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a3f61d762041dcbc1df8364/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2026-07-01T14:00:38Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Jodhpur Woman Earns Columbia Degree, Advances Global AI Research",
-            "url": "https://www.tribuneindia.com/news/business/jodhpur-woman-earns-columbia-degree-advances-global-ai-research/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWMyMGUwYzEwLTc1NTAtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-01T13:28:27Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "At 5.1 lakh jobs, India's Global Capability Centre hiring boom scales new peak",
-            "url": "https://www.businesstoday.in/jobs/story/at-5-1-lakh-jobs-indias-global-capability-centre-hiring-boom-scales-new-peak-540328-2026-07-01",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a44ff77f1283-india-gcc-015218365-16x9.png",
-            "publishedAt": "2026-07-01T11:56:36Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "IIT (ISM) Dhanbad partners with AGI to develop AI-driven mineral exploration tools",
-            "url": "https://theprint.in/india/iit-ism-dhanbad-partners-with-agi-to-develop-ai-driven-mineral-exploration-tools/2974791/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-07-01T11:21:04Z"
-        },
-        {
-            "source": {
-                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-                "name": "SFGATE",
-                "url": "https://www.sfgate.com",
-                "country": "us"
-            },
-            "title": "'It's like having a dumb friend': Young San Franciscans hate AI",
-            "url": "https://www.sfgate.com/tech/article/san-francisco-ai-backlash-22325141.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/66/55/65/31120741/3/rawImage.jpg",
-            "publishedAt": "2026-07-01T11:00:00Z"
         }
     ]
 }
