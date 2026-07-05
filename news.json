@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-07-05T20:53:49.464791Z",
+    "lastUpdatedAt": "2026-07-05T21:57:02.193973Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "America’s battlefield dominance is under serious threat",
+            "url": "https://economictimes.indiatimes.com/news/defence/americas-battlefield-dominance-is-under-serious-threat/articleshow/132193035.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132193246,width-1200,height-630,imgsize-173658,overlay-etdefence/articleshow.jpg",
+            "publishedAt": "2026-07-05T09:03:00Z"
+        },
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "Dollar hits 13-month high as foreign investors overlook worries about Trump",
+            "url": "https://www.inquirer.com/business/us-dollar-value-foreign-investors-ai-gold-debt-interest-rates-20260705.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/NQJFBKGYGKLJEDSKMKGCQD5TJY.jpg?auth=e5cde2a241538aca0ac605fbe1d9194ce4f25d4b9cf6d10193e0142ea9cd9ce7&width=760&height=507&smart=true",
+            "publishedAt": "2026-07-05T09:01:00Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -3378,30 +3402,6 @@
             "url": "https://www.barchart.com/story/news/3079698/trump-administration-lifts-restrictions-on-anthropic-s-claude-models-after-cybersecurity-alarm",
             "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/15961f9a45d343bd8f15812d0e1cb9bb/15961f9a45d343bd8f15812d0e1cb9bb_main_trump_66864.jpg",
             "publishedAt": "2026-07-01T14:49:49Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Trump administration lifts restrictions on Anthropic AI models",
-            "url": "https://apnews.com/article/anthropic-fable-mythos-trump-claude-028db5135128fce6b38c873bf9cb5e09",
-            "urlToImage": "https://dims.apnews.com/dims4/default/b666a24/2147483647/strip/true/crop/5009x3338+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F66%2Fc0dcdf637467e2926712f06f61e7%2F9b783a1ec0d34f47b2758581b4555080",
-            "publishedAt": "2026-07-01T14:49:49Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
-            "url": "https://www.clickondetroit.com/business/2026/07/01/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/MGG24E2SFRH6PBHCXBKSWEFEEA.jpg?_a=DATAg1iuZAA0",
-            "publishedAt": "2026-07-01T14:49:48Z"
         }
     ]
 }
