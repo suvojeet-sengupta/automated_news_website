@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-07-06T07:07:24.307017Z",
+    "lastUpdatedAt": "2026-07-06T11:59:30.739796Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Data centre success depends on power infrastructure",
+            "url": "https://www.bangkokpost.com/business/general/3281615/data-centre-success-depends-on-power-infrastructure",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260706/c1_3281615_260706051630_700.jpg",
+            "publishedAt": "2026-07-05T22:16:00Z"
+        },
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "Anti-drug video fiasco not a vote of confidence in Hong Kong’s AI goals",
+            "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3359325/anti-drug-video-fiasco-not-vote-confidence-hong-kongs-ai-goals",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/07/03/8e08842c-95b4-4a33-b7e0-aa79931f22ca_a049e41d.jpg?itok=ni1vo_ZR&v=1783070574",
+            "publishedAt": "2026-07-05T21:30:06Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Human wisdom must complement AI, says Chandigarh MP Tewari",
+            "url": "https://www.tribuneindia.com/news/chandigarh/human-wisdom-must-complement-ai-says-chandigarh-mp-tewari/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTczNjU0OWEwLTc4YTktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-07-05T19:40:58Z"
+        },
         {
             "source": {
                 "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
@@ -3354,42 +3390,6 @@
             "url": "https://www.forbes.com/sites/heatherwishartsmith/2026/07/01/when-cyber-physical-risk-becomes-a-life-safety-threat/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a4577336f3940e05596afe1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2026-07-01T20:17:57Z"
-        },
-        {
-            "source": {
-                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-                "name": "The Verge",
-                "url": "https://www.theverge.com",
-                "country": "us"
-            },
-            "title": "Anthropic’s Claude Fable 5 is officially back online as of this afternoon.",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/960461/anthropics-claude-fable-5-is-officially-back-online-as-of-this-afternoon",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-            "publishedAt": "2026-07-01T20:15:57Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Portugal debuts first open-source AI model as Europe pushes for tech sovereignty",
-            "url": "https://www.thenews.com.pk/latest/1407809-portugal-debuts-first-open-source-ai-model-as-europe-pushes-for-tech-sovereignty",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-07-02/1407809_011448_updates.jpg",
-            "publishedAt": "2026-07-01T20:14:00Z"
-        },
-        {
-            "source": {
-                "id": "6330fe7e7b8cfc9b8540c05881fcc289",
-                "name": "U.Today",
-                "url": "https://u.today",
-                "country": "ae"
-            },
-            "title": "XRP and BTC Among Coins Targeted in New Malware Campaign",
-            "url": "https://u.today/xrp-and-btc-among-coins-targeted-in-new-malware-campaign",
-            "urlToImage": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2026-07/Depositphotos_218040352_S.jpg",
-            "publishedAt": "2026-07-01T20:00:34Z"
         }
     ]
 }
