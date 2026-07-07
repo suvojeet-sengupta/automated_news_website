@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-07-07T14:21:20.365699Z",
+    "lastUpdatedAt": "2026-07-07T17:09:15.495205Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Big Tech cage fight stars old investment fallacy",
+            "url": "https://www.reuters.com/commentary/breakingviews/big-tech-cage-fight-stars-old-investment-fallacy-2026-07-07/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/IYE4NFC5SNPADBV5JSO3Z2RUGM.jpg?auth=5fdb7a5cb24e1a2816f9ecc0c378119184ab04b74f60b877634c5f4097aa772f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-07T05:00:31Z"
+        },
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "Efficiency cannot be the only measure of progress with AI",
+            "url": "https://www.irishtimes.com/opinion/letters/2026/07/07/efficiency-cannot-be-the-only-measure-of-progress-with-ai/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/6GVJTWXOI5FYPOLOK3JLHZZVVU.jpg?smart=true&auth=2781af11b396c223ac2b1f05df19ecc2dafc39caa2ffa2f14069f0e5a11189ee&width=1200&height=630",
+            "publishedAt": "2026-07-07T05:00:01Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Google Brain cofounder writes an open letter on 'Loop engineering', the term made viral by Claude creator who said that 'coding is dead'",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-brain-cofounder-writes-an-open-letter-on-loop-engineering-the-term-made-viral-by-claude-creator-who-said-that-coding-is-dead/articleshow/132230526.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132230510,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-07T04:44:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "We’re only starting to grasp the pitfalls of using AI at work",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/were-only-starting-to-grasp-the-pitfalls-of-using-ai-at-work",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996378.jpg",
+            "publishedAt": "2026-07-07T04:30:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Nigeria probes big tech, AI firms for 'unlawful' media content use",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/nigeria-probes-big-tech-ai-firms-for-039unlawful039-media-content-use",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996351.jpg",
+            "publishedAt": "2026-07-07T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Elon Musk's xAI rebrands to SpaceXAI, unveils new logo",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-xai-rebrands-to-spacexai-unveils-new-logo/articleshow/132228745.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132228813,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-07T03:48:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Foxconn sales hit record high in second quarter on AI Demand",
+            "url": "https://www.tribuneindia.com/news/business/foxconn-sales-hit-record-high-in-second-quarter-on-ai-demand/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA1MTUzMjQwLTc5YjYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-07-07T03:43:24Z"
+        },
+        {
+            "source": {
+                "id": "214d496d625fc657723cf4da80cff8ce",
+                "name": "Deccan Chronicle",
+                "url": "https://www.deccanchronicle.com",
+                "country": "in"
+            },
+            "title": "Delhi High Court Protects Ravi Kishan's Personality Rights, Restrains AI and Deepfake Misuse",
+            "url": "https://www.deccanchronicle.com/entertainment/bollywood/delhi-high-court-protects-ravi-kishans-personality-rights-restrains-ai-and-deepfake-misuse-1968963",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/07/07/2060865-ravi-kishan.jpg",
+            "publishedAt": "2026-07-07T03:35:59Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "AI powers around a quarter of child image abuse cases",
+            "url": "https://www.perthnow.com.au/lifestyle/family-life/ai-powers-around-a-quarter-of-child-image-abuse-cases-c-22542307",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-22542307/8c0f1140b617b06dacb95094500f657836aa91fe-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-07-07T03:28:50Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Kospi tumbles 6% as AI investors fear rally may be overblown. A bigger crash coming closer?",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/kospi-tumbles-6-as-ai-investors-fear-rally-may-be-overblown-a-bigger-crash-coming-closer/articleshow/132229528.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132229522,width-1200,height-630,imgsize-114804,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-07-07T03:28:00Z"
+        },
         {
             "source": {
                 "id": "fd3677545b80d5db7541de8e111d27ba",
@@ -60,6 +180,24 @@
             "url": "https://www.thehitavada.com/Encyc/2026/7/7/will-humanity-shape-ai-or-let-it-shape-us.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/7/7/Will-humanity-shape-AI-or-let-it-shape-us_202607071127388575_H@@IGHT_573_W@@IDTH_1800.jpg",
             "publishedAt": "2026-07-07T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "goodreturns"
+            },
+            "title": "AI Bubble Bursting? South Korea's Kospi Crashes 7% Amid AI Stocks Valuation Concerns",
+            "url": "https://www.goodreturns.in/news/ai-bubble-bursting-south-koreas-kospi-crashes-7-amid-ai-stocks-valuation-concerns-1520443.html",
+            "urlToImage": "https://images.goodreturns.in/webp/img/2026/07/stockmarketcrash121-68881783396489.jpg",
+            "publishedAt": "2026-07-07 03:57:38"
+        },
+        {
+            "source": {
+                "name": "infotechlead"
+            },
+            "title": "AI-Driven Cyberattacks Double Critical Vulnerabilities as Check Point Urges Enterprises to Prioritize Exposure Management",
+            "url": "https://infotechlead.com/security/ai-driven-cyberattacks-double-critical-vulnerabilities-as-check-point-urges-enterprises-to-prioritize-exposure-management-96927",
+            "urlToImage": "https://infotechlead.com/wp-content/uploads/2018/10/Check-Point-Software-at-an-IT-event.jpg",
+            "publishedAt": "2026-07-07 03:11:16"
         },
         {
             "source": {
@@ -3252,150 +3390,6 @@
             "url": "https://www.lokmattimes.com/technology/ai-is-transforming-policing-from-reactive-to-preventive-say-experts-at-national-e-governance-conference-in-jaipur-2/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607023849763_202607.jpg",
             "publishedAt": "2026-07-02T16:34:13Z"
-        },
-        {
-            "source": {
-                "id": "6f68e6d7cd20b33baacb487a0e911008",
-                "name": "Santa Rosa Press Democrat",
-                "url": "https://www.pressdemocrat.com",
-                "country": "us"
-            },
-            "title": "Grim job outlook meets scrappy workforce as administrative assistants use AI",
-            "url": "https://www.pressdemocrat.com/2026/07/02/administrative-assistants-secretaries-ai/",
-            "urlToImage": "https://www.pressdemocrat.com/wp-content/uploads/2026/07/AI_Administrative_Assistants_57553-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-07-02T16:29:34Z"
-        },
-        {
-            "source": {
-                "id": "9ab210a1da58b160b3d40bd353f54b38",
-                "name": "St. Paul Pioneer Press",
-                "url": "https://www.twincities.com",
-                "country": "us"
-            },
-            "title": "Grim job outlook meets scrappy workforce as administrative assistants use AI",
-            "url": "https://www.twincities.com/2026/07/02/administrative-assistants-secretaries-ai/",
-            "urlToImage": "https://www.twincities.com/wp-content/uploads/2026/07/AI_Administrative_Assistants_57553-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-07-02T16:29:34Z"
-        },
-        {
-            "source": {
-                "id": "840efb5642a2fd3ae6da920bb4981626",
-                "name": "Santa Ana Orange County Register",
-                "url": "https://www.ocregister.com",
-                "country": "us"
-            },
-            "title": "Grim job outlook meets scrappy workforce as administrative assistants use AI",
-            "url": "https://www.ocregister.com/2026/07/02/administrative-assistants-secretaries-ai/",
-            "urlToImage": "https://www.ocregister.com/wp-content/uploads/2026/07/AI_Administrative_Assistants_57553-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-07-02T16:29:34Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "Grim job outlook meets scrappy workforce as administrative assistants use AI",
-            "url": "https://www.courant.com/2026/07/02/administrative-assistants-secretaries-ai/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/07/AI_Administrative_Assistants_57553-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-07-02T16:29:34Z"
-        },
-        {
-            "source": {
-                "id": "bc49d994b41ac710f5c89f6e6adeece4",
-                "name": "The Boston Herald",
-                "url": "https://www.bostonherald.com",
-                "country": "us"
-            },
-            "title": "Grim job outlook meets scrappy workforce as administrative assistants use AI",
-            "url": "https://www.bostonherald.com/2026/07/02/administrative-assistants-secretaries-ai/",
-            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/07/AI_Administrative_Assistants_57553-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-07-02T16:29:34Z"
-        },
-        {
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com",
-                "country": "us"
-            },
-            "title": "Grim job outlook meets scrappy workforce as administrative assistants use AI",
-            "url": "https://www.baltimoresun.com/2026/07/02/administrative-assistants-secretaries-ai/",
-            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2026/07/AI_Administrative_Assistants_57553-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-07-02T16:29:34Z"
-        },
-        {
-            "source": {
-                "id": "b864cc599bc4ba1ff99463aba17ae502",
-                "name": "Reading Eagle",
-                "url": "https://www.readingeagle.com",
-                "country": "us"
-            },
-            "title": "Grim job outlook meets scrappy workforce as administrative assistants use AI",
-            "url": "https://www.readingeagle.com/2026/07/02/administrative-assistants-secretaries-ai/",
-            "urlToImage": "https://www.readingeagle.com/wp-content/uploads/2026/07/AI_Administrative_Assistants_57553-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-07-02T16:29:34Z"
-        },
-        {
-            "source": {
-                "id": "8fac888ae06647c3a7d6093c60c9d9b5",
-                "name": "San Diego Union-Tribune",
-                "url": "https://www.sandiegouniontribune.com",
-                "country": "us"
-            },
-            "title": "Grim job outlook meets scrappy workforce as administrative assistants use AI",
-            "url": "https://www.sandiegouniontribune.com/2026/07/02/administrative-assistants-secretaries-ai/",
-            "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/AI_Administrative_Assistants_57553-1.jpg?w=1024&h=682",
-            "publishedAt": "2026-07-02T16:29:34Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Germany Revolutionizes Spy Agency Powers in Cybersecurity Overhaul",
-            "url": "https://www.devdiscourse.com/article/law-order/3944130-germany-revolutionizes-spy-agency-powers-in-cybersecurity-overhaul",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/04_09_2025_10_54_48_4812279.png&width=920&format=jpeg",
-            "publishedAt": "2026-07-02T11:45:47Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "\"Futuristic and limitless partnership\": India-Japan sign agreements on economic security, AI, defence, says PM Modi",
-            "url": "https://www.devdiscourse.com/article/international/3944121-futuristic-and-limitless-partnership-india-japan-sign-agreements-on-economic-security-ai-defence-says-pm-modi",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/02_07_2026_17_04_08_4225119.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-07-02T11:34:17Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Japan sign agreements on economic security, AI, defence, says PM Modi",
-            "url": "https://www.tribuneindia.com/news/world/futuristic-and-limitless-partnership-india-japan-sign-agreements-on-economic-security-ai-defence-says-pm-modi/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNjYzI2MDcwLTc2MDktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-02T11:33:01Z"
-        },
-        {
-            "source": {
-                "id": "bc002b453215c04fa081a97f2c6679b9",
-                "name": "The Hacker News",
-                "url": "https://thehackernews.com",
-                "country": "us"
-            },
-            "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
-            "url": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwwp0Bf4s6Xp_L13nlIV5Pf2D0awJsA5cDdev6yCr9f7nLVbmJmzqJ01cmdJkO4K0E3KEvdHhK10ZDai_tXV6gZDmgJqhnsARjEhVScA9gsWHKL4zzt64aQSSgPBImpeYxLuMiORSByYXgQunRUhYhymV8AQfvYf6qsBieuh82794N44iaJ9lEl8IS8Z0/s1700-e365/Identity-Lifecycle-Management.jpg",
-            "publishedAt": "2026-07-02T11:30:00Z"
         }
     ]
 }
