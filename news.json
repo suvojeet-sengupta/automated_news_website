@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-07-07T21:18:52.041665Z",
+    "lastUpdatedAt": "2026-07-07T22:56:14.898192Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI, clean energy push may trigger new commodity supercycle: Report",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-clean-energy-push-may-trigger-new-commodity-supercycle-report/articleshow/132237189.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-421588,resizemode-75,msid-132237189/tech/artificial-intelligence/ai-clean-energy-push-may-trigger-new-commodity-supercycle-report.jpg",
+            "publishedAt": "2026-07-07T10:38:59Z"
+        },
+        {
+            "source": {
+                "id": "2492bcb79914b2ce3d9867453dae22ac",
+                "name": "Financial Post",
+                "url": "https://financialpost.com",
+                "country": "ca"
+            },
+            "title": "Scotiabank teams up with companies to meet their AI needs",
+            "url": "https://financialpost.com/fp-finance/scotiabank-teams-up-canadian-companies-meet-ai-needs",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/0707-mg-socitabank.jpg",
+            "publishedAt": "2026-07-07T10:30:46Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Bank of England sees growing risks to financial stability from AI",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/bank-of-england-sees-growing-risks-to-financial-stability-from-ai",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3997279.jpg",
+            "publishedAt": "2026-07-07T09:45:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "\"I cleaned toilets and worked in a boarding school dormitory\": Nvidia CEO Jensen Huang on the childhood that shaped his success",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/i-cleaned-toilets-and-worked-in-a-boarding-school-dormitory-nvidia-ceo-jensen-huang-on-the-childhood-that-shaped-his-success/articleshow/132235805.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132235835,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-07T09:30:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "HCLTech achieves ISO/IEC 42001:2023 Certification demonstrating leadership in Responsible AI",
+            "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/pr-newswire/hcltech-achieves-isoiec-420012023-certification-demonstrating-leadership-in-responsible-ai/2379653",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1127270.jpg",
+            "publishedAt": "2026-07-07T09:28:52Z"
+        },
         {
             "source": {
                 "id": "e553cce06d349ac1f7fbb7618a979256",
@@ -372,6 +432,33 @@
             "url": "https://www.thehitavada.com/Encyc/2026/7/7/will-humanity-shape-ai-or-let-it-shape-us.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/7/7/Will-humanity-shape-AI-or-let-it-shape-us_202607071127388575_H@@IGHT_573_W@@IDTH_1800.jpg",
             "publishedAt": "2026-07-07T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "Argonne Team's ChemGraph Unlocks AI for Chemistry and Materials Science",
+            "url": "https://www.newswise.com/articles/argonne-team-s-chemgraph-unlocks-ai-for-chemistry-and-materials-science/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?image=/images/uploads/2026/07/07/6a4d0185d3707_34472D041OTDAuroraSkin1600x900.jpg",
+            "publishedAt": "2026-07-07 10:20:26"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "IBM debuts compact z17 mainframes and LinuxONE servers for on-premises enterprise AI",
+            "url": "https://siliconangle.com/2026/07/07/ibm-debuts-compact-z17-mainframes-linuxone-servers-premises-enterprise-ai/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-03-10-56-37.png",
+            "publishedAt": "2026-07-07 10:00:08"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "IBM Launches Compact z17 and LinuxONE Systems to Address Data Center Space and Cost Constraints",
+            "url": "https://en.prnasia.com/story/539903-0.shtml",
+            "urlToImage": "https://mmx.prnasia.com/media/MS1878436/LinuxONE-5-Single-Frame-Lifestyle.jpg?id=OA2752610&p=medium600",
+            "publishedAt": "2026-07-07 10:00:00"
         },
         {
             "source": {
@@ -3303,78 +3390,6 @@
             "url": "https://itbrief.in/story/ai-boom-to-leave-data-centre-demand-far-above-supply",
             "urlToImage": "https://itbrief.in/uploads/story/2026/07/04/compatible_ChatGPT_Image_Jul_3__2026__11_03_13_PM.jpg",
             "publishedAt": "2026-07-03 14:44:00"
-        },
-        {
-            "source": {
-                "name": "startupreporter"
-            },
-            "title": "Apple Isn’t Just Testing New Devices—It’s Quietly Testing The Future Of Personal Computing",
-            "url": "https://startupreporter.in/apple-isnt-just-testing-new-devices-its-quietly-testing-the-future-of-personal-computing/",
-            "urlToImage": "https://startupreporter.in/wp-content/uploads/2026/07/PNN-2026-07-03T191421.968-LFW0nH.jpg",
-            "publishedAt": "2026-07-03 13:47:30"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Anthropic in talks with Samsung to develop custom AI chip",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-with-samsung-to-develop-custom-ai-chip/articleshow/132163085.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-50976,resizemode-75,msid-132163085/tech/artificial-intelligence/anthropic-in-talks-with-samsung-to-develop-custom-ai-chip.jpg",
-            "publishedAt": "2026-07-03 13:33:34"
-        },
-        {
-            "source": {
-                "name": "nynewscast"
-            },
-            "title": "Mobile Artificial Intelligence Market Size to Surpass USD 322.21 Billion by 2035 | SNS Insider",
-            "url": "https://nynewscast.com/mobile-artificial-intelligence-market-size-to-surpass-usd-322-21-billion-by-2035-sns-insider-234511/",
-            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-            "publishedAt": "2026-07-03 13:30:00"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "In 1999, NVIDIA introduced the GeForce 256, helping graphics chips handle modern visual computing",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-1999-nvidia-introduced-the-geforce-256-helping-graphics-chips-handle-modern-visual-computing/articleshow/132135990.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132137487/132137487.jpg",
-            "publishedAt": "2026-07-03 13:08:34"
-        },
-        {
-            "source": {
-                "name": "tgdaily"
-            },
-            "title": "HP Neutralizes Agentic AI Intrusions Using Advanced Hardware Endpoint Isolation",
-            "url": "https://tgdaily.com/technology/hp-neutralizes-agentic-ai-intrusions-using-advanced-hardware-endpoint-isolation/",
-            "urlToImage": "https://tgdaily.com/wp-content/uploads/2026/07/HP-Capstone.webp",
-            "publishedAt": "2026-07-03 12:20:00"
-        },
-        {
-            "source": {
-                "name": "devicenext"
-            },
-            "title": "ASUS Brings Its Flagship ExpertBook Ultra and P Series Laptops to Flipkart’s GOAT Sale, Designed for Brilliance and a Worry-Free Business Experience",
-            "url": "https://www.devicenext.com/asus-brings-its-flagship-expertbook-ultra-and-p-series-laptops-to-flipkarts-goat-sale-designed-for-brilliance-and-a-worry-free-business-experience/",
-            "urlToImage": "https://www.devicenext.com/wp-content/uploads/2026/07/ASUS-Flagship-ExpertBook-Ultra.jpg",
-            "publishedAt": "2026-07-03 11:33:12"
-        },
-        {
-            "source": {
-                "name": "nynewscast"
-            },
-            "title": "1stProtect and Multiverse Computing Partner to Deliver Secure AI Inference at the Edge — No Cloud Required",
-            "url": "https://nynewscast.com/1stprotect-and-multiverse-computing-partner-to-deliver-secure-ai-inference-at-the-edge-no-cloud-required-234499/",
-            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-            "publishedAt": "2026-07-03 11:06:00"
-        },
-        {
-            "source": {
-                "name": "nynewsly"
-            },
-            "title": "1stProtect and Multiverse Computing Partner to Deliver Secure AI Inference at the Edge — No Cloud Required",
-            "url": "https://nynewsly.com/1stprotect-and-multiverse-computing-partner-to-deliver-secure-ai-inference-at-the-edge-no-cloud-required/37598/",
-            "urlToImage": "https://nynewsly.com/wp-content/themes/publisher/images/default-thumb/large.png",
-            "publishedAt": "2026-07-03 11:06:00"
         }
     ]
 }
