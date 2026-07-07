@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-07-07T19:48:28.848859Z",
+    "lastUpdatedAt": "2026-07-07T21:18:52.041665Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Those Soldiers Flooding Your Feeds? They Might Not Be Real.",
+            "url": "https://www.nytimes.com/2026/07/07/business/soldiers-ai-disinformation.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/06/29/29visualUploader-50263-cover/29visualUploader-50263-cover-facebookJumbo.jpg",
+            "publishedAt": "2026-07-07T09:03:01Z"
+        },
+        {
+            "source": {
+                "id": "2b5db686603d0197d748f18d2dc01aec",
+                "name": "Bloomberg Tax News",
+                "url": "https://news.bloombergtax.com",
+                "country": "us"
+            },
+            "title": "Sam Altman Offers a Trojan Horse to America: Gautam Mukunda",
+            "url": "https://news.bloombergtax.com/daily-tax-report/sam-altman-offers-a-trojan-horse-to-america-gautam-mukunda",
+            "urlToImage": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+            "publishedAt": "2026-07-07T09:00:20Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "ChatGPT outage disrupts Codex, Custom GPTs and workspace analytics",
+            "url": "https://www.lokmattimes.com/technology/chatgpt-outage-disrupts-codex-custom-gpts-and-workspace-analytics-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607073855007_202607.jpg",
+            "publishedAt": "2026-07-07T08:54:42Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "AI, clean energy push may trigger new commodity supercycle: Report",
+            "url": "https://www.tribuneindia.com/news/business/ai-clean-energy-push-may-trigger-new-commodity-supercycle-report/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIzOTdlZWYwLTc5ZTAtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-07-07T08:48:55Z"
+        },
+        {
+            "source": {
+                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
+                "name": "7NEWS Australia",
+                "url": "https://7news.com.au",
+                "country": "au"
+            },
+            "title": "Federal government report reveals which jobs are most at risk of artificial intelligence disruption",
+            "url": "https://7news.com.au/news/new-federal-government-report-reveals-which-jobs-are-most-at-risk-of-artificial-intelligence-disruption-c-22544889",
+            "urlToImage": "https://images.7news.com.au/publication/C-22544889/8a23ab210aef9ead6d67e5f01b2210a240fa575f-16x9-x0y0w1280h720.png?imwidth=1200",
+            "publishedAt": "2026-07-07T08:26:30Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "20-year-old Chinese student lands $317,000 deal after building an AI speed radar in 9 days using Claude and an old camera",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/20-year-old-chinese-student-lands-317000-deal-after-building-an-ai-speed-radar-in-9-days-using-claude-and-an-old-camera/articleshow/132234289.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132234362,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-07T08:09:00Z"
+        },
         {
             "source": {
                 "id": "92021aca7322dc2b29226023c35d9a4a",
@@ -300,6 +372,42 @@
             "url": "https://www.thehitavada.com/Encyc/2026/7/7/will-humanity-shape-ai-or-let-it-shape-us.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/7/7/Will-humanity-shape-AI-or-let-it-shape-us_202607071127388575_H@@IGHT_573_W@@IDTH_1800.jpg",
             "publishedAt": "2026-07-07T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "fastcompany"
+            },
+            "title": "I managed through four tech disruptions at HBO. ‘AI Minimalism’ is the secret to survival in the fifth disruption",
+            "url": "https://www.fastcompany.com/91564227/i-managed-through-four-tech-disruptions-at-hbo-ai-minimalism-is-the-secret-to-survival-in-the-fifth-disruption-ai-strategy-disruption-hbo",
+            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-91564227-AI-minimalism.jpg",
+            "publishedAt": "2026-07-07 09:08:00"
+        },
+        {
+            "source": {
+                "name": "ksandk"
+            },
+            "title": "Data Centre SEZ Framework under the Finance Bill, 2026: How India’s New Special Economic Zone Regime Could Tr...",
+            "url": "https://ksandk.com/information-technology/data-centre-sez-finance-bill-2026/",
+            "urlToImage": "https://ksandk.com/wp-content/uploads/data-centre-sez-framework-under-the-finance-bill-2.webp",
+            "publishedAt": "2026-07-07 08:58:22"
+        },
+        {
+            "source": {
+                "name": "dqchannels"
+            },
+            "title": "How AI transformation is replacing traditional IT services for enterprises",
+            "url": "https://www.dqchannels.com/emerging-tech/ai-transformation-services-system-integrators-virtusa-12141603",
+            "urlToImage": "https://img-cdn.publive.online/dqc/media/media_files/2026/07/07/how-ai-transformation-is-replacing-traditional-it-services-for-enterprises-1-2026-07-07-14-13-19.png",
+            "publishedAt": "2026-07-07 08:43:31"
+        },
+        {
+            "source": {
+                "name": "pratidintime"
+            },
+            "title": "Assam DITEC Director Ashwani Kumar Announces Internship 2.0 Programme",
+            "url": "https://www.pratidintime.com/latest-assam-news-breaking-news-assam/assam-ditec-director-ashwani-kumar-announces-internship-20-programme-12141572",
+            "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/pratidin/media/media_files/2026/07/07/web-pt-new-25-0-2026-07-07-13-44-58.jpg",
+            "publishedAt": "2026-07-07 08:15:16"
         },
         {
             "source": {
@@ -3267,114 +3375,6 @@
             "url": "https://nynewsly.com/1stprotect-and-multiverse-computing-partner-to-deliver-secure-ai-inference-at-the-edge-no-cloud-required/37598/",
             "urlToImage": "https://nynewsly.com/wp-content/themes/publisher/images/default-thumb/large.png",
             "publishedAt": "2026-07-03 11:06:00"
-        },
-        {
-            "source": {
-                "name": "itdigest"
-            },
-            "title": "The Rise of Sovereign AI: How the Cognizant-Domyn Partnership Redefines the Artificial Intelligence Landscape",
-            "url": "https://itdigest.com/artificial-intelligence/the-rise-of-sovereign-ai-how-the-cognizant-domyn-partnership-redefines-the-artificial-intelligence-landscape/",
-            "urlToImage": "https://itdigest.com/wp-content/uploads/2026/07/Cognizant-and-Domyn-announce-strategic-partnership-for-the-delivery-of-sovereign-AI-solutions-in-EMEA-.webp",
-            "publishedAt": "2026-07-03 10:30:20"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "The end of tokenmaxxing – and what comes next",
-            "url": "https://www.itpro.com/technology/artificial-intelligence/the-end-of-tokenmaxxing-and-what-comes-next",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5AJWFZfEbF65uW4JG8EGN3-1280-80.jpg",
-            "publishedAt": "2026-07-03 09:49:35"
-        },
-        {
-            "source": {
-                "name": "invenglobal"
-            },
-            "title": "HP OMEN 17: A Gaming Laptop Ready to Replace Your Desktop",
-            "url": "https://www.invenglobal.com/articles/23418/hp-omen-17-a-gaming-laptop-ready-to-replace-your-desktop",
-            "urlToImage": "https://static.invenglobal.com/upload/image/2026/07/03/i1783068621840035.png",
-            "publishedAt": "2026-07-03 08:48:10"
-        },
-        {
-            "source": {
-                "name": "cnbctv18"
-            },
-            "title": "Anthropic in talks with Samsung for custom AI chip manufacturing, says report",
-            "url": "https://www.cnbctv18.com/technology/anthropic-in-talks-with-samsung-for-custom-ai-chip-manufacturing-says-report-19937782.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-4d0f3ce1476abe4ac7344bfc168dd349.jpg",
-            "publishedAt": "2026-07-03 03:30:28"
-        },
-        {
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
-            },
-            "title": "Amazon Has New AI Chips for Home Tech Devices and Future Mobile Gadgets",
-            "url": "https://www.cnet.com/home/smart-home/amazon-reveals-silicon-chip-design-plans-alexa-plus-on-the-go-devices/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/cef9d1ee9538586761d38812e4c08fef2ce2e78f/hub/2025/11/18/d6d84de4-8e3e-4014-93c7-a305e2894e2c/echo-show-11-counter.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-07-02T23:33:28Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Pick n Pay launches AI grocery shopping assistant in South Africa",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/03/pick-n-pay-launches-ai-grocery-shopping-assistant-in-south-africa",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/03/3989826.jpg",
-            "publishedAt": "2026-07-02T23:18:00Z"
-        },
-        {
-            "source": {
-                "id": "1b97b25c0ec482f85326378f82f7f815",
-                "name": "Fox Business",
-                "url": "https://www.foxbusiness.com",
-                "country": "us"
-            },
-            "title": "Microsoft layoffs could affect 4% of its workforce next week",
-            "url": "https://www.foxbusiness.com/economy/microsoft-eyes-another-wave-layoffs-hit-5000-workers-next-week",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/07/0/0/gettyimages-2225644313.jpg?ve=1&tl=1",
-            "publishedAt": "2026-07-02T22:34:15Z"
-        },
-        {
-            "source": {
-                "id": "9f53afb019d44feb16bcc7da150e679a",
-                "name": "Baltimore News",
-                "url": "https://foxbaltimore.com",
-                "country": "us"
-            },
-            "title": "Fact Check Team: Trump moves to limit OpenAI model launch as their involvement grows",
-            "url": "https://foxbaltimore.com/news/nation-world/fact-check-team-trump-moves-to-limit-openai-model-launch-as-their-involvement-grows-systems-administration-officials-government-artificial-intelligence",
-            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/3000/1320/0x157/90/c6caa01b-5b42-4656-b8b5-ad020c42e778-GettyImages2282033290.jpg",
-            "publishedAt": "2026-07-02T22:05:34Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "Fact Check Team: Trump moves to limit OpenAI model launch as their involvement grows",
-            "url": "https://wjla.com/news/nation-world/fact-check-team-trump-moves-to-limit-openai-model-launch-as-their-involvement-grows-systems-administration-officials-government-artificial-intelligence",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/3000/1320/0x157/90/c6caa01b-5b42-4656-b8b5-ad020c42e778-GettyImages2282033290.jpg",
-            "publishedAt": "2026-07-02T22:05:34Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Finance Minister Sitharaman invites French businesses to partner in India's 'Viksit Bharat 2047' journey",
-            "url": "https://www.tribuneindia.com/news/world/finance-minister-sitharaman-invites-french-businesses-to-partner-in-indias-viksit-bharat-2047-journey/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNlNGM1M2QwLTc2NjEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-02T22:03:01Z"
         }
     ]
 }
