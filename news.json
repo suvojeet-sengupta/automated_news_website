@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-07-06T22:09:40.807302Z",
+    "lastUpdatedAt": "2026-07-07T00:03:02.303047Z",
     "articles": [
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "Explained: Why SK Hynix's record $29 billion NASDAQ listing matters for the AI boom",
+            "url": "https://www.cnbctv18.com/market/why-sk-hynix-nasdaq-adr-listing-matters-for-ai-19939436.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/07/sk-hynix-06jul-2026-07-5841b2a4a1e8d1566ee37b96a024399a.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-07-06T11:56:46Z"
+        },
+        {
+            "source": {
+                "id": "4ee8a93f92a1be4ced3de6f96b13bcca",
+                "name": "Africanews",
+                "url": "https://www.africanews.com",
+                "country": "fr"
+            },
+            "title": "UN Secretary-General calls for AI regulation",
+            "url": "https://www.africanews.com/2026/07/06/un-secretary-general-calls-for-ai-regulation/",
+            "urlToImage": "https://images.euronews.com/articles/stories/09/82/70/45/1024x538_cmsv2_53922367-7377-5133-9a11-323717a708e3-9827045.jpg",
+            "publishedAt": "2026-07-06T11:44:13Z"
+        },
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "ChatGPT picks the best time to short Nvidia stock",
+            "url": "https://finbold.com/chatgpt-picks-the-best-time-to-short-nvidia-stock/",
+            "urlToImage": "https://assets.finbold.com/uploads/2026/07/ChatGPTpicksthebesttimetoshortNvidiastock.jpg",
+            "publishedAt": "2026-07-06T11:39:54Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "OpenAI CEO Sam Altman watched his child put two words together; the moment reminded him of GPT-5.6 discovering new Maths",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-watched-his-child-put-two-words-together-the-moment-reminded-him-of-gpt-5-6-discovering-new-maths/articleshow/132215594.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132215651,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-06T11:30:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Global Push for Harmonized AI Rules: Guterres Calls for Child Safety Measures",
+            "url": "https://www.devdiscourse.com/article/technology/3945818-global-push-for-harmonized-ai-rules-guterres-calls-for-child-safety-measures",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2026_20_11_30_5508723.png&width=920&format=jpeg",
+            "publishedAt": "2026-07-06T11:17:42Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "World must not let AI 'vibe-code' humanity's future - UN chief",
+            "url": "https://www.manilatimes.net/2026/07/06/world/world-must-not-let-ai-vibe-code-humanitys-future-un-chief/2378857",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/06/1125734.jpg",
+            "publishedAt": "2026-07-06T10:19:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Tech Leaders Are Suddenly Changing Their Messaging on AI-Related Job Losses",
+            "url": "https://www.breitbart.com/tech/2026/07/06/tech-leaders-are-suddenly-changing-their-messaging-on-ai-related-job-losses/",
+            "urlToImage": "https://media.breitbart.com/media/2026/07/Sam-Altman-waves-to-America-640x335.jpg",
+            "publishedAt": "2026-07-06T10:10:30Z"
+        },
         {
             "source": {
                 "id": "f2ddccedc9e60d844e7a1045928cad48",
@@ -384,6 +468,15 @@
             "url": "https://www.thehitavada.com/Encyc/2026/7/6/meta-says-it-uses-ai-to-detect-violating-content.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/7/6/First-PinS-instrument-procedure_202607061151460395_H@@IGHT_314_W@@IDTH_600.jpg",
             "publishedAt": "2026-07-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Ceva Wins Landmark AI Licensing Deal with Major U.S. Software and AI Platform Company",
+            "url": "https://www.prnewswire.com/news-releases/ceva-wins-landmark-ai-licensing-deal-with-major-us-software-and-ai-platform-company-302818112.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1877773/Ceva_NeuPro-M_Custom_AI_Silicon_vFINAL.jpg?id=OA2750581&p=original",
+            "publishedAt": "2026-07-06 11:00:00"
         },
         {
             "source": {
@@ -3354,102 +3447,6 @@
             "url": "https://www.moneycontrol.com/news/business/markets/india-s-defence-sector-enters-structural-growth-phase-as-brokerages-see-deep-tech-exports-driving-next-leg-13963880.html",
             "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/02/20260201073701_defence.png",
             "publishedAt": "2026-07-02T03:50:22Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Philippine school shooting shines light on global online extremist network targeting children",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/02/philippine-school-shooting-shines-light-on-global-online-extremist-network-targeting-children",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/02/3987788.png",
-            "publishedAt": "2026-07-02T02:41:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "WhatsApp is bringing usernames, what does it mean for privacy and cybersecurity?",
-            "url": "https://www.indiatoday.in/technology/features/story/whatsapp-is-bringing-usernames-what-does-it-mean-for-privacy-and-cybersecurity-2938767-2026-07-02",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/whatsapps-username-021005823-16x9_0.png?VersionId=mjrq4uvvqsh7JPMKfPlku22NHuX0paaj",
-            "publishedAt": "2026-07-02T02:15:49Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Ford rehires engineers it laid off as company VP Charles Poon admits that AI is ‘only as good as…’",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ford-rehires-engineers-it-laid-off-as-company-vp-charles-poon-admits-that-ai-is-only-as-good-as/articleshow/132127151.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132127188,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-02T02:11:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Weird Al Yankovic Turned Down a ‘Pile of Money’ for AI Ad: ‘I Can’t Be the Poster Boy for AI’",
-            "url": "https://www.breitbart.com/entertainment/2026/07/02/weird-al-yankovic-turned-down-a-pile-of-money-for-ai-ad-i-cant-be-the-poster-boy-for-ai/",
-            "urlToImage": "https://media.breitbart.com/media/2026/07/Weird-Al-Yankovic-640x335.jpg",
-            "publishedAt": "2026-07-02T02:07:40Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Beyond the Essential Eight: Why Australia’s Next Cybersecurity Framework Must Focus on Identity",
-            "url": "https://itwire.com/guest-articles/guest-opinion/beyond-the-essential-eight-why-australia-s-next-cybersecurity-framework-must-focus-on-identity",
-            "urlToImage": "https://media.itwire.com/2026/07/02/beyond-the-essential-eight-why-australia-s-next-cybersecurity-framework-must-focus-on-identity-1f04ea573f05.webp",
-            "publishedAt": "2026-07-02T01:16:33Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Japan plans sovereign AI model, 10 million AI robots",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/02/japan-plans-sovereign-ai-model-10-million-ai-robots",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/02/3987121.jpg",
-            "publishedAt": "2026-07-02T01:00:00Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "Fear and anger brew inside Meta amid AI frenzy",
-            "url": "https://www.japantimes.co.jp/business/2026/07/02/tech/fear-anger-meta-ai/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/02/549341.JPG?v=3.1",
-            "publishedAt": "2026-07-02T00:57:45Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "A bit like a volcano, AI walks through the door",
-            "url": "https://indianexpress.com/article/opinion/editorials/a-bit-like-a-volcano-ai-walks-through-the-door-10767164/",
-            "urlToImage": "https://images.indianexpress.com/2026/07/Express-view-Copy-1.jpeg",
-            "publishedAt": "2026-07-02T00:45:21Z"
         }
     ]
 }
