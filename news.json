@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-07-09T10:25:13.203764Z",
+    "lastUpdatedAt": "2026-07-09T13:45:31.243769Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "China warns of 'security backdoor' in Anthropic AI coding tool",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/09/china-warns-of-039security-backdoor039-in-anthropic-ai-coding-tool",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/08/3999596.jpg",
+            "publishedAt": "2026-07-09T01:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Insilico Medicine Releases Positive Profit Alert for the First Half of 2026",
+            "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/pr-newswire/insilico-medicine-releases-positive-profit-alert-for-the-first-half-of-2026/2381289",
+            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-07-09T00:58:11Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "TCS braces for muted June quarter; AI outlook and deal pipeline in focus",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-braces-for-muted-june-quarter-ai-outlook-and-deal-pipeline-in-focus/articleshow/132274804.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132274805,width-1200,height-630,imgsize-50536,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-07-09T00:39:00Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Meta to build $13B data centre north of Edmonton",
+            "url": "https://www.cp24.com/news/canada/2026/07/09/county-north-of-edmonton-says-13b-meta-data-centre-is-welcome-as-water-power-logistics-unveiled/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/6JSDVXAYJBBORFMWK6GE7RX5LU.png?smart=true&auth=61bf2ffc910678066b764258dd20570b0aa6a5721aef559ddd9f9407ac9b58b8&width=1200&height=630",
+            "publishedAt": "2026-07-09T00:22:50Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Trump Announced His AI Action Plan Declaring ‘America Is Going to Win’",
+            "url": "https://www.benzinga.com/news/topics/26/07/60348396/trump-announced-his-ai-action-plan-declaring-america-is-going-to-win-the-same-day-he-bought-millions-in-nvidia-apple-and-microsoft",
+            "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/09/12-07-2018--Brussels--Belgium--Press-Con.jpg",
+            "publishedAt": "2026-07-09T00:01:08Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "Evaluating the quality, reliability and readability of digital and artificial intelligence resources for adults with cancer who have significant caregiving responsibilities for children",
+            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001493",
+            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001493.g002&size=inline",
+            "publishedAt": "2026-07-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Commvault launches AI-powered cyber resilience simulation to prepare organisations for the next generation of attacks",
+            "url": "https://itwire.com/business-it-news/security/commvault-launches-ai-powered-cyber-resilience-simulation-to-prepare-organisations-for-the-next-generation-of-attacks",
+            "urlToImage": "https://media.itwire.com/2026/07/08/commvault-launches-ai-powered-cyber-resilience-simulation-to-prepare-organisations-for-the-next-generation-of-attacks-1c5bd7c28db9.webp",
+            "publishedAt": "2026-07-08T23:57:05Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "How to prevent Meta from using your Instagram images in AI",
+            "url": "https://www.bostonglobe.com/2026/07/08/business/meta-instagram-images-ai/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/UOEYWA3DQFFS7E7FPJRISDMFDI.jpg?auth=b2c22819e88e463ebd8699901948bf19dd5db36b7aa7299eb7020e85d6e133cc&width=1440",
+            "publishedAt": "2026-07-08T23:16:16Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "With Anthropic expansion, will NYC stifle Boston's AI resurgence?",
+            "url": "https://www.bostonglobe.com/2026/07/08/business/ai-new-york-boston-jobs-talent/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/IMFTZN5GZXGETO7RPSPX5KW3IE.jpg?auth=0d60e77af782a2d223493af61626621c028c025e4e38c600f096e513a5d8d76a&width=1440",
+            "publishedAt": "2026-07-08T23:01:59Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Should a chatbot manage your bank account? Probably not, according to analysis",
+            "url": "https://phys.org/news/2026-07-chatbot-bank-account-analysis.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/chatbot-2.jpg",
+            "publishedAt": "2026-07-08T22:40:03Z"
+        },
         {
             "source": {
                 "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
@@ -864,6 +984,24 @@
             "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/as-ai-moves-into-the-physical-world-humanity-agi-summit-2026-brings-global-leaders-to-stanford/2380419",
             "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1128655.png",
             "publishedAt": "2026-07-08T00:38:18Z"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Would you talk to a deceased loved one using AI? CU Boulder researchers study 'generative ghosts'",
+            "url": "https://us.headtopics.com/news/would-you-talk-to-a-deceased-loved-one-using-ai-cu-boulder-85384238",
+            "urlToImage": "https://i.headtopics.com/images/2026/7/8/denverchannel/would-you-talk-to-a-deceased-loved-one-using-ai-cu-would-you-talk-to-a-deceased-loved-one-using-ai-cu-A7A04283B4008A87B90B098E3E483D6C.webp",
+            "publishedAt": "2026-07-08 23:36:31"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Binghamton University faculty receive grants to research AI in the arts and humanities",
+            "url": "https://completeaitraining.com/news/binghamton-university-faculty-receive-grants-to-research-ai/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/binghamton-university-faculty-receive-grants-to-research-ai-in-the-arts-and-huma_2026-07-08.jpg",
+            "publishedAt": "2026-07-08 22:37:20"
         },
         {
             "source": {
@@ -3261,132 +3399,6 @@
             "url": "https://news24online.com/information/beyond-the-scan-how-dr-ohmini-krishnamurthy-rajendran-is-changing-the-future-of-radiology/878713/",
             "urlToImage": "https://news24online.com/wp-content/uploads/2026/07/news-24-8-2.png?w=1024",
             "publishedAt": "2026-07-06 09:20:21"
-        },
-        {
-            "source": {
-                "name": "hindi_naukrinama"
-            },
-            "title": "CBSE Launches Free Online Courses for Students in Advanced Technologies",
-            "url": "https://hindi.naukrinama.com/cbse-launches-free-online-courses-for-students-in-advanced/cid18937234.htm",
-            "urlToImage": "https://hindi.naukrinama.com/static/c1e/client/99589/downloaded/bcd3a1aa0ffd3a8c2c496054968eca33.png?width=1280&height=720&resizemode=4",
-            "publishedAt": "2026-07-06 07:00:19"
-        },
-        {
-            "source": {
-                "name": "deccanchronicle"
-            },
-            "title": "Beyond the Hype: Trust, Economics, and the Future of AI Adoption",
-            "url": "https://www.deccanchronicle.com/360-degree/beyond-the-hype-trust-economics-and-the-future-of-ai-adoption-1968703",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/07/05/2060406-ai.webp",
-            "publishedAt": "2026-07-06 06:30:15"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "If the problem can be solved by an if-check, don’t ask AI to do it: Sumanta Ghosh, CTO, Bandhan Life",
-            "url": "https://www.expresscomputer.in/exclusives/if-the-problem-can-be-solved-by-an-if-check-dont-ask-ai-to-do-it-sumanta-ghosh-cto-bandhan-life/136574/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/07/06091749/New-Project-10.jpg",
-            "publishedAt": "2026-07-06 04:15:49"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Zoom Acquires Anthropic for $2B to Power AI Meeting Assistants",
-            "url": "https://www.webpronews.com/zoom-acquires-anthropic-for-2b-to-power-ai-meeting-assistants/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/07/article-20554-1783300052.jpeg",
-            "publishedAt": "2026-07-06 01:52:06"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "AI’s energy tax was already concerning. Research says AI agents are over hundred times worse",
-            "url": "https://us.headtopics.com/news/ai-s-energy-tax-was-already-concerning-research-says-ai-85264186",
-            "urlToImage": "https://i.headtopics.com/images/2026/7/6/digitaltrends/ai-s-energy-tax-was-already-concerning-research-sa-ai-s-energy-tax-was-already-concerning-research-sa-E1B6EDFDCA7730419F8680C98A2E27A9.webp",
-            "publishedAt": "2026-07-06 01:36:43"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "AI’s energy tax was already concerning. Research says AI agents are over hundred times worse",
-            "url": "https://www.digitaltrends.com/computing/ais-energy-tax-was-already-concerning-research-says-ai-agents-are-over-hundred-times-worse/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-06T062427.641.jpg?resize=1200%2C630",
-            "publishedAt": "2026-07-06 00:58:01"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Data centre success depends on power infrastructure",
-            "url": "https://www.bangkokpost.com/business/general/3281615/data-centre-success-depends-on-power-infrastructure",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260706/c1_3281615_260706051630_700.jpg",
-            "publishedAt": "2026-07-05T22:16:00Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Anti-drug video fiasco not a vote of confidence in Hong Kong’s AI goals",
-            "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3359325/anti-drug-video-fiasco-not-vote-confidence-hong-kongs-ai-goals",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/07/03/8e08842c-95b4-4a33-b7e0-aa79931f22ca_a049e41d.jpg?itok=ni1vo_ZR&v=1783070574",
-            "publishedAt": "2026-07-05T21:30:06Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Human wisdom must complement AI, says Chandigarh MP Tewari",
-            "url": "https://www.tribuneindia.com/news/chandigarh/human-wisdom-must-complement-ai-says-chandigarh-mp-tewari/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTczNjU0OWEwLTc4YTktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-05T19:40:58Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "ABC trials AI writing tools for news staff amid trust warnings",
-            "url": "https://www.abc.net.au/news/2026-07-06/abc-new-ai-policies/106844364",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/56667997907a208798c4221092477b71?impolicy=wcms_watermark_news&cropH=3213&cropW=5712&xPos=0&yPos=536&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-07-05T19:06:28Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "CEO of America's third-largest bank, Citi, that cut thousands of tech roles, says: AI will change the nature of jobs, like when I was an analyst, I spent time ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ceo-of-americas-third-largest-bank-citi-that-cut-thousands-of-tech-roles-says-ai-will-change-the-nature-of-jobs-like-when-i-was-an-analyst-i-spent-time-/articleshow/132202324.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132202318,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-05T18:58:00Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "Meta launches Pocket creative app",
-            "url": "https://www.socialmediatoday.com/news/meta-launches-pocket-creative-app/824424/",
-            "urlToImage": "https://imgproxy.divecdn.com/eFG6tegZIMJXDTq9wudpzF8hSvoungGlYK419_K4Df0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2dpem1vLnBuZw==.webp",
-            "publishedAt": "2026-07-05T18:03:56Z"
         }
     ]
 }
