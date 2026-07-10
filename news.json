@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2026-07-10T08:17:19.796559Z",
+    "lastUpdatedAt": "2026-07-10T11:46:14.601740Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "New Fed task force members share Chairman Kevin Warsh's embrace of AI",
+            "url": "https://www.cnbc.com/2026/07/09/fed-task-force-member-chairman-kevin-warsh-ai.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107401966-1713285147051-gettyimages-1408769890-sauditech1012web3.jpeg?v=1767980766&w=1920&h=1080",
+            "publishedAt": "2026-07-09T22:58:57Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Juneteenth Exchange Brings National Leaders Together for a Day of Innovation, Investment, and Impact",
+            "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/juneteenth-exchange-brings-national-leaders-together-for-a-day-of-innovation-investment-and-impact/2382073",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/10/1131983.png",
+            "publishedAt": "2026-07-09T22:55:05Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "AI adoption helps Thai firms become digitally mature",
+            "url": "https://www.bangkokpost.com/business/general/3283789/ai-adoption-helps-thai-firms-become-digitally-mature",
+            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/07/10/6149749_700.jpg",
+            "publishedAt": "2026-07-09T22:26:00Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "OpenAI Has Released Its Latest Series of AI Models, CEO Sam Altman Says That They Increase Efficiency By More Than 50%",
+            "url": "https://www.ibtimes.com/openai-has-released-its-latest-series-ai-models-ceo-sam-altman-says-that-they-increase-efficiency-3805128",
+            "urlToImage": "https://d.ibtimes.com/en/full/4651143/sam-altman.jpg",
+            "publishedAt": "2026-07-09T22:22:01Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "National Minority Quality Forum Calls for AI Policy That Prioritizes Communities with the Greatest Burden of Disease",
+            "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/national-minority-quality-forum-calls-for-ai-policy-that-prioritizes-communities-with-the-greatest-burden-of-disease/2382066",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/10/1131970.jpg",
+            "publishedAt": "2026-07-09T22:14:55Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "The good, bad and ugly of AI’s economic impact",
+            "url": "https://www.reuters.com/commentary/breakingviews/good-bad-ugly-ais-economic-impact-2026-07-09/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ODUOGVYCRFMCLD4UCRBQ6P35YY.jpg?auth=4c829787b6e0ed7435fa08efbb3911a5bfd749b9d06808325a5828c4e18e6b6b&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-09T22:00:26Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Why employee AI adoption isn't one-size-fits-all",
+            "url": "https://phys.org/news/2026-07-employee-ai-isnt-size.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/employee-1.jpg",
+            "publishedAt": "2026-07-09T22:00:07Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Nobel-Winning U.S. Chemist Omar Yaghi Will Move to China to Lead A.I. Institute",
+            "url": "https://www.nytimes.com/2026/07/09/science/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/07/09/multimedia/09SCI-YAGHI-jvfg/09SCI-YAGHI-jvfg-facebookJumbo.jpg",
+            "publishedAt": "2026-07-09T21:15:56Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Anthropic Recruits Former Fed Chair Ben Bernanke to Its AI Oversight Trust",
+            "url": "https://markets.businessinsider.com/news/stocks/anthropic-recruits-former-fed-chair-ben-bernanke-to-its-ai-oversight-trust-1036313188",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-21-1024x316.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-07-09T20:56:49Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -1104,6 +1212,24 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001486.g006&size=inline",
             "publishedAt": "2026-07-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cnbc"
+            },
+            "title": "Jim Cramer says investors are making a mistake with the trillion-dollar tech giants",
+            "url": "https://www.cnbc.com/2026/07/09/jim-cramer-investors-making-mistake-trillion-dollar-tech-giants.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1200&h=675",
+            "publishedAt": "2026-07-09 22:21:39"
+        },
+        {
+            "source": {
+                "name": "androidheadlines"
+            },
+            "title": "Meta Is Massively Ramping Up Its In-House AI Silicon Production This September to Fight 'Chipflation'",
+            "url": "https://www.androidheadlines.com/2026/07/meta-iris-ai-chip-production-september-custom-silicon.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2026/04/Meta-Muse-Spark-AI-model-logo-2.jpg",
+            "publishedAt": "2026-07-09 22:21:37"
         },
         {
             "source": {
@@ -3333,138 +3459,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-brain-cofounder-writes-an-open-letter-on-loop-engineering-the-term-made-viral-by-claude-creator-who-said-that-coding-is-dead/articleshow/132230526.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-132230510,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-07-07T04:44:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "We’re only starting to grasp the pitfalls of using AI at work",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/were-only-starting-to-grasp-the-pitfalls-of-using-ai-at-work",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996378.jpg",
-            "publishedAt": "2026-07-07T04:30:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Nigeria probes big tech, AI firms for 'unlawful' media content use",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/nigeria-probes-big-tech-ai-firms-for-039unlawful039-media-content-use",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996351.jpg",
-            "publishedAt": "2026-07-07T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Elon Musk's xAI rebrands to SpaceXAI, unveils new logo",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-xai-rebrands-to-spacexai-unveils-new-logo/articleshow/132228745.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132228813,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-07T03:48:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Foxconn sales hit record high in second quarter on AI Demand",
-            "url": "https://www.tribuneindia.com/news/business/foxconn-sales-hit-record-high-in-second-quarter-on-ai-demand/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA1MTUzMjQwLTc5YjYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-07T03:43:24Z"
-        },
-        {
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
-                "country": "in"
-            },
-            "title": "Delhi High Court Protects Ravi Kishan's Personality Rights, Restrains AI and Deepfake Misuse",
-            "url": "https://www.deccanchronicle.com/entertainment/bollywood/delhi-high-court-protects-ravi-kishans-personality-rights-restrains-ai-and-deepfake-misuse-1968963",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/07/07/2060865-ravi-kishan.jpg",
-            "publishedAt": "2026-07-07T03:35:59Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "AI powers around a quarter of child image abuse cases",
-            "url": "https://www.perthnow.com.au/lifestyle/family-life/ai-powers-around-a-quarter-of-child-image-abuse-cases-c-22542307",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-22542307/8c0f1140b617b06dacb95094500f657836aa91fe-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-07-07T03:28:50Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Kospi tumbles 6% as AI investors fear rally may be overblown. A bigger crash coming closer?",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/kospi-tumbles-6-as-ai-investors-fear-rally-may-be-overblown-a-bigger-crash-coming-closer/articleshow/132229528.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132229522,width-1200,height-630,imgsize-114804,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-07-07T03:28:00Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "First Tick: Top global cues to watch in today's trade",
-            "url": "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-180-13967104.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/07/20260704033427_market_stocks_sensex_Nifty.jpg",
-            "publishedAt": "2026-07-07T02:03:28Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Wall Street warms to India’s markets as oil pressures fade",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-warms-to-indias-markets-as-oil-pressures-fade/articleshow/132228488.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132228478,width-1200,height-630,imgsize-140766,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-07-07T02:01:00Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Before we hail Hong Kong cinema’s return, let’s ensure its survival",
-            "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3359454/we-hail-hong-kong-cinemas-return-lets-ensure-its-survival",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/07/05/bfada570-05cd-4ac2-b1df-80defced23de_a8bb2f28.jpg?itok=4ewka_N0&v=1783227989",
-            "publishedAt": "2026-07-07T01:30:06Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Ashiana Public School, Chandigarh, hosts faculty development session on AI",
-            "url": "https://www.tribuneindia.com/news/schools/ashiana-public-school-chandigarh-hosts-faculty-development-session-on-ai/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBiNDI0YjgwLTc5OTgtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-07T00:08:27Z"
         }
     ]
 }
