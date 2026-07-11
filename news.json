@@ -1,6 +1,150 @@
 {
-    "lastUpdatedAt": "2026-07-11T00:02:51.626611Z",
+    "lastUpdatedAt": "2026-07-11T04:09:03.821801Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Supreme Court framework taps AI to assist, not replace, Philippine judges",
+            "url": "https://www.manilatimes.net/2026/07/11/news/national/supreme-court-framework-taps-ai-to-assist-not-replace-philippine-judges/2382512",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/10/1132874.jpg",
+            "publishedAt": "2026-07-10T16:07:00Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "SK Hynix rises 14% in debut on Wall Street as demand for memory chips soars amid AI frenzy",
+            "url": "https://www.barchart.com/story/news/3222276/sk-hynix-rises-14-in-debut-on-wall-street-as-demand-for-memory-chips-soars-amid-ai-frenzy",
+            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/d1aa45e9415a48d783dc7f4aac9571b6/d1aa45e9415a48d783dc7f4aac9571b6_main_south_korea_financial_markets_35437.jpg",
+            "publishedAt": "2026-07-10T16:03:07Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "​ADB spearheads APAC power grids integration",
+            "url": "https://www.manilatimes.net/2026/07/11/business/green-industries/adb-spearheads-apac-power-grids-integration/2382368",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/10/1132675.jpg",
+            "publishedAt": "2026-07-10T16:02:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "As national drought deepens, a new AI model helps balance water demands",
+            "url": "https://phys.org/news/2026-07-national-drought-deepens-ai-demands.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/as-national-drought-de.jpg",
+            "publishedAt": "2026-07-10T15:40:03Z"
+        },
+        {
+            "source": {
+                "id": "9ced38a34d90982504f8670109a9bfcd",
+                "name": "Money Week",
+                "url": "https://moneyweek.com",
+                "country": "gb"
+            },
+            "title": "Worried about an AI bubble? These investment trusts could help",
+            "url": "https://moneyweek.com/investments/investment-trusts/investment-trusts-worried-about-ai-bubble",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/AP4rAVUP52zpJBGbbSUkoY-2121-80.jpg",
+            "publishedAt": "2026-07-10T15:34:50Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "SK Hynix Debuts On Nasdaq With $26.5 Bn Listing, Marking Milestone In AI Chip Growth",
+            "url": "https://www.outlookbusiness.com/markets/sk-hynix-debuts-on-nasdaq-with-265-bn-listing-marking-milestone-in-ai-chip-growth",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-07-06/3ugen739/SK-Hynix-Launches-28-Billion-US-Listing?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-07-10T15:24:30Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "South Korean billionaire's risky bet pays off, as SK Hynix debuts in New York",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-billionaires-risky-bet-pays-off-as-sk-hynix-debuts-in-new-york/articleshow/132315233.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132315233,width-1200,height-630,imgsize-105188,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-07-10T15:21:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Draft health research policy proposes National Research Agenda to address emerging health challenges",
+            "url": "https://www.tribuneindia.com/news/india/draft-health-research-policy-proposes-national-research-agenda-to-address-emerging-health-challenges/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI0OTFjZTQwLTdjNzEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-07-10T15:07:47Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Fed report cites 'stepped-up' inflation due to tariffs, Iran war, AI buildout",
+            "url": "https://www.reuters.com/business/fed-report-cites-stepped-up-inflation-2026-07-10/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/CGKA7RZ675LGHPBYN2TFWTFNRI.jpg?auth=6984d309025ec8622c54cb204e5529f01d2d084d6de64914f1631774bde0cb71&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-10T15:02:42Z"
+        },
+        {
+            "source": {
+                "id": "494f687bd1dfaa9f7b4a705c860671d0",
+                "name": "Hartford Courant",
+                "url": "https://www.courant.com",
+                "country": "us"
+            },
+            "title": "Micron boosts US spending to $250 billion to feed memory boom",
+            "url": "https://www.courant.com/2026/07/10/micron-boosts-us-spending-to-250-billion-to-feed-memory-boom-3/",
+            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/07/202607091407MCT_____PHOTO____BIZ-CPT-MICRON-MEMORY-CHIPS-FILEPIC-ID_4cfdff.jpg?w=1024&h=617",
+            "publishedAt": "2026-07-10T15:00:26Z"
+        },
+        {
+            "source": {
+                "id": "63fec970d50112ee9b8bc1418d9c5872",
+                "name": "Scientific Computing World",
+                "url": "https://www.scientific-computing.com",
+                "country": "us"
+            },
+            "title": "The shifting landscape of HPC storage: balancing AI workloads and parallel file systems",
+            "url": "https://www.scientific-computing.com/article/shifting-landscape-hpc-storage-balancing-ai-workloads-parallel-file-systems",
+            "urlToImage": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
+            "publishedAt": "2026-07-10T14:38:23Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "Simplilearn and UC Santa Barbara Professional and Continuing Education Collaborate to Introduce the Professional Certificate in AI and Machine Learning with a focus on GenAI & Agentic AI",
+            "url": "https://www.prnewswire.co.uk/news-releases/simplilearn-and-uc-santa-barbara-professional-and-continuing-education-collaborate-to-introduce-the-professional-certificate-in-ai-and-machine-learning-with-a-focus-on-genai--agentic-ai-302822646.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1825100/UC-Santa-Barbara-Logo.jpg?id=OA2758352&p=facebook",
+            "publishedAt": "2026-07-10T12:03:00Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -663,6 +807,51 @@
         },
         {
             "source": {
+                "name": "brookings"
+            },
+            "title": "Borrowed expertise: Why AI’s productivity boom may not survive the generation that built it",
+            "url": "https://www.brookings.edu/articles/borrowed-expertise-why-ais-productivity-boom-may-not-survive-the-generation-that-built-it/",
+            "urlToImage": "https://www.brookings.edu/wp-content/uploads/2026/06/YutongLiu-DigitDigitalNomads-Across-Time-2560x1440-1.jpg?quality=50",
+            "publishedAt": "2026-07-10 13:06:13"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Is Embodied AI The Next Great Computing Revolution?",
+            "url": "https://www.forbes.com/sites/michaelashley/2026/07/10/is-embodied-ai-the-next-great-computing-revolution/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a4fd536421af636388d7f1e/0x0.jpg",
+            "publishedAt": "2026-07-10 12:30:00"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Enterprise software is harder to manage by category",
+            "url": "https://www.techtarget.com/searcherp/feature/Enterprise-software-is-harder-to-manage-by-category",
+            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/security_g1204196785.jpg",
+            "publishedAt": "2026-07-10 12:15:00"
+        },
+        {
+            "source": {
+                "name": "indianexpress"
+            },
+            "title": "Tech Launches (July 10, 2026): ASUS Vivobook AI PCs, Dell Pro Precision workstations, and more",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/tech-launches-july-10-2026-asus-vivobook-ai-pcs-dell-pro-precision-workstations-and-more-10780677/",
+            "urlToImage": "https://images.indianexpress.com/2026/07/tech-launches-1.jpg",
+            "publishedAt": "2026-07-10 12:08:18"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "You can now check if a Google ad was made using AI",
+            "url": "https://us.headtopics.com/news/you-can-now-check-if-a-google-ad-was-made-using-ai-85446011",
+            "urlToImage": "https://i.headtopics.com/images/2026/7/10/digitaltrends/you-can-now-check-if-a-google-ad-was-made-using-ai-you-can-now-check-if-a-google-ad-was-made-using-ai-7E1416449C4F69129E3FB75922AAFD97.webp",
+            "publishedAt": "2026-07-10 12:06:56"
+        },
+        {
+            "source": {
                 "name": "digitaltrends"
             },
             "title": "You can now check if a Google ad was made using AI",
@@ -906,6 +1095,18 @@
         },
         {
             "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "New physics-based machine-learning method speeds search for 2D quantum materials",
+            "url": "https://phys.org/news/2026-07-physics-based-machine-method-2d.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-tool-speeds-search.jpg",
+            "publishedAt": "2026-07-09T19:10:02Z"
+        },
+        {
+            "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
                 "name": "Reuters",
                 "url": "https://www.reuters.com",
@@ -1095,6 +1296,18 @@
             "url": "https://apnews.com/article/openai-new-york-times-ai-copyright-lawsuit-7ce19c7a25aad60d4c94556d36e96cc9",
             "urlToImage": "https://dims.apnews.com/dims4/default/9aeaf90/2147483647/strip/true/crop/4771x3179+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbe%2F45%2F86af1ec5ef1b9f5e0e115ade8d4d%2Fdf048727b111403e9acdb937a29ddbe9",
             "publishedAt": "2026-07-09T14:39:31Z"
+        },
+        {
+            "source": {
+                "id": "34cc62608b4607dc3a776802caadb7bd",
+                "name": "ThePrint",
+                "url": "https://theprint.in",
+                "country": "in"
+            },
+            "title": "AI reviewers make it easier to get research published. US study calls it paper-laundering",
+            "url": "https://theprint.in/science/ai-reviewers-research-published-us-study-calls-it-paper-laundering/2982221/",
+            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/07/Lava1.jpg",
+            "publishedAt": "2026-07-09T13:41:09Z"
         },
         {
             "source": {
@@ -3246,192 +3459,6 @@
             "url": "https://news.clemson.edu/july-ai-office-hours-and-workshops-support-practical-learning-research-and-exploration/",
             "urlToImage": "https://news.clemson.edu/wp-content/uploads/2026/07/AdobeStock_553228015_Editorial_Use_Only-scaled.jpeg",
             "publishedAt": "2026-07-08 18:19:42"
-        },
-        {
-            "source": {
-                "name": "techgenyz"
-            },
-            "title": "Samsung PM1763 Becomes World’s First PCIe 6.0 SSD for AI Servers",
-            "url": "https://techgenyz.com/samsung-pm1763-pcie-6-enterprise-ssd-ai-servers/",
-            "urlToImage": "https://techgenyz.com/wp-content/uploads/2026/07/samsung-pm1763-1.webp",
-            "publishedAt": "2026-07-08 17:29:11"
-        },
-        {
-            "source": {
-                "name": "computer"
-            },
-            "title": "Product Management in the Age of AI: From Roadmaps to Reasoning Systems",
-            "url": "https://wpcms.computer.org/publications/tech-news/trends/product-management-with-ai",
-            "urlToImage": "https://www.computer.org/wp-content/uploads/2026/01/AIimage_lg.png",
-            "publishedAt": "2026-07-08 15:13:40"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "Argonne Team’s ChemGraph Unlocks AI for Chemistry and Materials Science",
-            "url": "https://www.hpcwire.com/off-the-wire/argonne-teams-chemgraph-unlocks-ai-for-chemistry-and-materials-science/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2025/07/aurora-skin.jpg",
-            "publishedAt": "2026-07-08 14:20:45"
-        },
-        {
-            "source": {
-                "name": "dallasinnovates"
-            },
-            "title": "Patented: Topgolf’s Newest Award and More Inventions Across North Texas",
-            "url": "https://s24806.pcdn.co/patented-topgolfs-newest-award-and-more-inventions-across-north-texas/",
-            "urlToImage": "https://dallasinnovates.com/wp-content/uploads/2025/11/Photo-Topgolf.jpeg",
-            "publishedAt": "2026-07-08 13:47:57"
-        },
-        {
-            "source": {
-                "name": "mindinventory"
-            },
-            "title": "Real Estate Software Development: A Comprehensive Guide for Modern Businesses",
-            "url": "https://www.mindinventory.com/blog/real-estate-software-development/",
-            "urlToImage": "https://www.mindinventory.com/blog/wp-content/uploads/2026/07/real-estate-software-development.webp",
-            "publishedAt": "2026-07-08 13:04:35"
-        },
-        {
-            "source": {
-                "name": "businesswire"
-            },
-            "title": "IBM and Red Hat Expand Lightwell with New Offerings to Build the Trust Infrastructure for AI-Era Open Source",
-            "url": "http://www.businesswire.com/news/home/20260708263341/en/IBM-and-Red-Hat-Expand-Lightwell-with-New-Offerings-to-Build-the-Trust-Infrastructure-for-AI-Era-Open-Source/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
-            "urlToImage": "https://mms.businesswire.com/media/20260708263341/en/719420/21/Red_Hat_new_BW.jpg",
-            "publishedAt": "2026-07-08 13:00:00"
-        },
-        {
-            "source": {
-                "name": "infotechlead"
-            },
-            "title": "AMD Launches Vitis Software Platform 2026.1 with AI Engine Enhancements, Hardware-in-the-Loop Testing and AI-Assisted Development",
-            "url": "https://infotechlead.com/networking/amd-launches-vitis-software-platform-2026-1-with-ai-engine-enhancements-hardware-in-the-loop-testing-and-ai-assisted-development-96978",
-            "urlToImage": "https://infotechlead.com/wp-content/uploads/2026/07/AMD-Vitis-Software-Platform-2026.1.jpg",
-            "publishedAt": "2026-07-08 12:15:46"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Voiskey Officially Launches: The First AI Voice Typing App Focused on Expression Intelligence",
-            "url": "https://www.prnewswire.com/news-releases/voiskey-officially-launches-the-first-ai-voice-typing-app-focused-on-expression-intelligence-302819816.html",
-            "urlToImage": "https://mma.prnewswire.com/media/3004582/image1.jpg?p=original",
-            "publishedAt": "2026-07-08 12:00:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Voiskey Officially Launches: The First AI Voice Typing App Focused on Expression Intelligence",
-            "url": "https://en.prnasia.com/story/540095-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/3004582/image1.jpg?p=medium600",
-            "publishedAt": "2026-07-08 12:00:00"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Google to plant its AI flag in India: What it means for the country",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/google-cloud-plants-its-ai-flag-in-india-gemini-local-hosting-data-sovereignty-what-it-means-for-the-country/articleshow/132257905.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132258328,resizemode-4,width-1200,height-900,imgsize-153722,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-07-08 08:37:51"
-        },
-        {
-            "source": {
-                "name": "cnbctv18"
-            },
-            "title": "Meta deploys Muse Image Generator amid public-profile scraping backlash",
-            "url": "https://www.cnbctv18.com/technology/meta-deploys-muse-image-generator-amid-public-profile-scraping-backlash-19940837.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/07/muse-image-2026-07-20000c8f5307af06ee2e92874a143a1f.jpg",
-            "publishedAt": "2026-07-08 08:12:20"
-        },
-        {
-            "source": {
-                "name": "firstpost"
-            },
-            "title": "Microsoft reportedly cuts dependence on OpenAI, Anthropic as AI costs mount|",
-            "url": "https://www.firstpost.com/tech/microsoft-reportedly-cuts-dependence-on-openai-anthropic-as-ai-costs-mount-14029702.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/04/Microsoft-France-Paris-office-Reuters-2026-04-5f2eff05e16013477aa0d46015a01aa1.jpg",
-            "publishedAt": "2026-07-08 05:44:32"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "From AI pilots to autonomous lending: Inside L&T Finance’s enterprise AI journey",
-            "url": "https://www.expresscomputer.in/exclusives/from-ai-pilots-to-autonomous-lending-inside-lt-finances-enterprise-ai-journey/136627/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/07/08103551/EC_Dr_Debarag_Banerjee_L__T_Finance_750.jpg",
-            "publishedAt": "2026-07-08 05:11:32"
-        },
-        {
-            "source": {
-                "name": "itbrief_in"
-            },
-            "title": "Google Cloud says firms need AI infrastructure upgrades",
-            "url": "https://itbrief.in/story/google-cloud-says-firms-need-ai-infrastructure-upgrades",
-            "urlToImage": "https://itbrief.in/uploads/story/2026/07/08/compatible_professional-business-team-ai-infrastructure-data-center-cloud-nodes-digital-illustration.jpg",
-            "publishedAt": "2026-07-08 03:15:00"
-        },
-        {
-            "source": {
-                "id": "d894d2a2b7c9ae7ff7505a197738f18c",
-                "name": "Marketing Interactive",
-                "url": "https://www.marketing-interactive.com",
-                "country": "sg"
-            },
-            "title": "Three things we need to stop pretending about Gen AI",
-            "url": "https://www.marketing-interactive.com/three-things-we-need-to-stop-pretending-about-gen-ai",
-            "urlToImage": "https://marketing-interactive-assets.b-cdn.net/article_images/three-things-we-need-to-stop-pretending-about-gen-ai/1782889683_video.jpg",
-            "publishedAt": "2026-07-07T23:56:30Z"
-        },
-        {
-            "source": {
-                "id": "046a50607901bb9bca25f6624dc87f76",
-                "name": "NBC 5 Chicago",
-                "url": "https://www.nbcchicago.com",
-                "country": "us"
-            },
-            "title": "Illinois passes what advocate calls strongest AI safety law in US",
-            "url": "https://www.nbcchicago.com/news/local/illinois-new-ai-safety-law-is-the-nations-strongest-advocate-says/3958692/",
-            "urlToImage": "https://media.nbcchicago.com/2026/07/0_24-WMAQ-4A-M-F-_-SOTVO-CHI-Illinois-AI-Protections-Legislation.png?resize=1200%2C675&quality=85&strip=all",
-            "publishedAt": "2026-07-07T23:19:16Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "Commentary: AI will change warfare but people remain core to SAF",
-            "url": "https://www.channelnewsasia.com/commentary/saf-day-ai-defence-war-drone-military-6237926",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--CrJKf6pC--/c_crop,h_900,w_1600,x_0,y_2/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/08/04/ilim6781.jpg?itok=ZpNpAbS5",
-            "publishedAt": "2026-07-07T22:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "Markets live: Oil prices surge after US launches strikes on Iran, ASX to slip after Wall Street's tech sell-off",
-            "url": "https://www.abc.net.au/news/2026-07-08/asx-markets-business-live-news/106891254",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/b46ef7ba423f4cbd92326131879ea127?impolicy=wcms_watermark_news&cropH=2700&cropW=4800&xPos=0&yPos=250&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-07-07T21:54:23Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Google Cloud to Host its Latest AI Models in India: Thomas Kurian",
-            "url": "https://economictimes.indiatimes.com/et-front/first-goal-is-data-centre-then-we-bring-supply-chain-manufacturing/articleshow/132248916.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132250945,width-1200,height-630,imgsize-251432,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-07-07T21:32:00Z"
         }
     ]
 }
