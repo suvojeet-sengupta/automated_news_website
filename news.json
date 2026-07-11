@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-07-11T20:03:30.324375Z",
+    "lastUpdatedAt": "2026-07-11T21:43:27.739802Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "India set to play larger role in building global fintech infrastructure, says Payoneer",
+            "url": "https://economictimes.indiatimes.com/tech/technology/india-set-to-play-larger-role-in-building-global-fintech-infrastructure-says-payoneer/articleshow/132327385.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13484,resizemode-75,msid-132327385/tech/technology/india-set-to-play-larger-role-in-building-global-fintech-infrastructure-says-payoneer.jpg",
+            "publishedAt": "2026-07-11T09:24:46Z"
+        },
+        {
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+            },
+            "title": "HDFC Bank FY26 report: AI ambitions, wealth growth, ESG focus, ₹60,000 crore fundraise",
+            "url": "https://www.businesstoday.in/latest/corporate/story/hdfc-bank-fy26-report-ai-ambitions-wealth-growth-esg-focus-rs60000-crore-fundraise-542380-2026-07-11",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a51f9cd30ea0-hdfc-bank-stock-110735454-16x9.jpg",
+            "publishedAt": "2026-07-11T08:35:02Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Manipal University Jaipur and Rajasthan Agriculture Department Sign MoU to Promote AI",
+            "url": "https://www.tribuneindia.com/news/business/manipal-university-jaipur-and-rajasthan-agriculture-department-sign-mou-to-promote-ai-driven-agricultural-innovation/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNhMDhjZTEwLTdkMDEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-07-11T08:23:20Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Entrepreneurship Is No Longer Limited by Geography-Only by Opportunity",
+            "url": "https://www.dailyexcelsior.com/entrepreneurship-is-no-longer-limited-by-geography-only-by-opportunity/",
+            "urlToImage": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWI3MDExNzEwLTdkMDAtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-07-11T08:15:43Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -216,6 +264,15 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-claude-and-other-ai-chatbots-may-help-lonely-people-feel-better-but-they-cannot-offer-what-humans-can-yale-professor-warns/articleshow/132320734.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-132320736,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-07-11T01:01:00Z"
+        },
+        {
+            "source": {
+                "name": "csmonitor"
+            },
+            "title": "AI moved in next door. For this Memphis community, life got more complicated.",
+            "url": "https://www.csmonitor.com/USA/Society/2026/0711/ai-data-center-spacex-musk-memphis",
+            "urlToImage": "https://images.csmonitor.com/csm/2026/07/0707_NBOXTOWN_LEDE.jpg?alias=standard_1200x800",
+            "publishedAt": "2026-07-11 09:00:10"
         },
         {
             "source": {
@@ -3384,66 +3441,6 @@
             "url": "https://www.ibtimes.com/us-has-repeatedly-issued-warnings-about-chinese-ai-now-beijing-doing-same-3805072",
             "urlToImage": "https://d.ibtimes.com/en/full/4648344/anthropic.jpg",
             "publishedAt": "2026-07-08T17:17:06Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "Google adds AI-powered Video Remix option",
-            "url": "https://www.socialmediatoday.com/news/google-adds-ai-powered-video-remix-option/824769/",
-            "urlToImage": "https://imgproxy.divecdn.com/l9i_R4oazv1c9ACG1zbVoMzB0NO26FTih8qJAugcZYQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nb29nbGVfcGhvdG9zX1RySDNjZFYucG5n.webp",
-            "publishedAt": "2026-07-08T16:46:57Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Anthropic leases new NYC office building, set to double local workforce by end of year",
-            "url": "https://nypost.com/2026/07/08/business/anthropic-leases-new-nyc-office-building-set-to-double-local-workforce-by-end-of-year/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133759486.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-07-08T16:38:41Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "Allianz layoffs: German insurance giant to cut up to 1,800 jobs amid growing use of AI",
-            "url": "https://techstartups.com/2026/07/08/allianz-layoffs-german-insurance-giant-to-cut-up-to-1800-jobs-amid-growing-use-of-ai/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2026/07/Allianz-layoffs-960x547.jpg",
-            "publishedAt": "2026-07-08T16:32:47Z"
-        },
-        {
-            "source": {
-                "id": "3f09ae62ee37a33ab191a698fec83f4b",
-                "name": "WEAU",
-                "url": "https://www.weau.com",
-                "country": "us"
-            },
-            "title": "AI helps doctors estimate your heart’s ‘age’",
-            "url": "https://www.weau.com/2026/07/08/ai-helps-doctors-estimate-your-hearts-age/",
-            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/Z6F4KIDKW5DRPIMA7KTC7M2SZI.png?auth=807fb2762b7a3e1d74863db83b7b73c245fcf2feee03beccafade8f6132e24c1&width=1200&height=600&smart=true",
-            "publishedAt": "2026-07-08T14:19:55Z"
-        },
-        {
-            "source": {
-                "id": "e7b4d14003cc89c64a689f1c38723ef5",
-                "name": "Live 5 News WCSC",
-                "url": "https://www.live5news.com",
-                "country": "us"
-            },
-            "title": "AI helps doctors estimate your heart’s ‘age’",
-            "url": "https://www.live5news.com/2026/07/08/ai-helps-doctors-estimate-your-hearts-age/",
-            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/Z6F4KIDKW5DRPIMA7KTC7M2SZI.png?auth=807fb2762b7a3e1d74863db83b7b73c245fcf2feee03beccafade8f6132e24c1&width=1200&height=600&smart=true",
-            "publishedAt": "2026-07-08T14:19:55Z"
         }
     ]
 }
