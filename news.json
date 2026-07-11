@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-07-11T10:59:41.433272Z",
+    "lastUpdatedAt": "2026-07-11T11:57:55.263242Z",
     "articles": [
+        {
+            "source": {
+                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
+                "name": "Toronto Star",
+                "url": "https://www.thestar.com",
+                "country": "ca"
+            },
+            "title": "There’s no terminating the artificial intelligence takeover. I fear it will devour the world",
+            "url": "https://www.thestar.com/opinion/star-columnists/theres-no-terminating-the-artificial-intelligence-takeover-i-fear-it-will-devour-the-world/article_dfe68084-4655-412d-a741-15ab1b776b70.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/b6/9b60ef08-72cc-5d47-9030-41f7b5bcd2fe/6a5176de8664d.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-07-10T23:15:00Z"
+        },
+        {
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            },
+            "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+            "url": "https://www.ajc.com/news/2026/07/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/E2FRLJCBCBHF3EMSLGRYYTGYTI.jpg?auth=7acba7bf2c1b4cd57ba2bf14ed2ecf568a4a1e03978380aa15d8085562644a16&width=1200&height=630&smart=true",
+            "publishedAt": "2026-07-10T23:01:14Z"
+        },
         {
             "source": {
                 "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
@@ -3426,30 +3450,6 @@
             "url": "https://www.thehindu.com/sci-tech/technology/openai-to-launch-new-model-after-us-freeze/article71197150.ece",
             "urlToImage": "https://th-i.thgim.com/public/sci-tech/technology/wvcwln/article71197175.ece/alternates/LANDSCAPE_1200/2024-11-19T113638Z_1875356777_RC2SJ6ABQ8CR_RTRMADP_3_OPENAI-ANI-LAWSUIT.jpg",
             "publishedAt": "2026-07-08T08:11:26Z"
-        },
-        {
-            "source": {
-                "id": "b76d069607ae6330d5f65a02c543a320",
-                "name": "Outlook India",
-                "url": "https://www.outlookindia.com",
-                "country": "in"
-            },
-            "title": "US Lawmakers Eye Curbs on Chinese AI as Tech Rivalry Deepens",
-            "url": "https://www.outlookindia.com/international/us-lawmakers-eye-curbs-on-chinese-ai-as-tech-rivalry-deepens",
-            "urlToImage": "https://cf-images.assettype.com/outlookindia/2025-10-04/02u2dlnt/shutterstock2400648421.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-07-08T07:54:22Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI could unlock $490 billion for Indian MSMEs, says Google report",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-could-unlock-490-billion-for-indian-msmes-says-google-report/articleshow/132257221.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132257219,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-08T07:54:00Z"
         }
     ]
 }
