@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-07-12T16:54:22.409661Z",
+    "lastUpdatedAt": "2026-07-12T17:55:57.917346Z",
     "articles": [
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "LTM Profit Jumps 17% to ₹1,468 Cr in Apr",
+            "url": "https://www.outlookbusiness.com/markets/ltm-profit-jumps-17-to-1468-cr-in-apr-jun-quarter",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-07-12/q62xq56t/Mensa-Campus-LTIMindtree.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-07-12T05:48:21Z"
+        },
+        {
+            "source": {
+                "id": "3d24c816061d69b2e23b8583aed9b447",
+                "name": "Euronews",
+                "url": "https://www.euronews.com",
+                "country": "fr"
+            },
+            "title": "'What's left is you': AI is the elephant in the room of Europe's biggest animation festival",
+            "url": "https://www.euronews.com/culture/2026/07/12/whats-left-is-you-ai-is-the-elephant-in-the-room-of-europes-biggest-animation-festival",
+            "urlToImage": "https://images.euronews.com/articles/stories/09/83/47/69/1200x675_cmsv2_5801489c-3381-5de6-9d5b-3a3c845b3599-9834769.jpg",
+            "publishedAt": "2026-07-12T05:47:55Z"
+        },
+        {
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            },
+            "title": "Focus turns to building stronger institutions in Africa to speed shift to renewable energy",
+            "url": "https://www.ajc.com/news/2026/07/focus-turns-to-building-stronger-institutions-in-africa-to-speed-shift-to-renewable-energy/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/DXBI7ZFAIRBQ5KGGD26MVIG6W4.jpg?auth=7171bb9bb0f1fc691dfcd7316a6354329d376758cbb18fb19961b5adef8ebd6f&width=1200&height=630&smart=true",
+            "publishedAt": "2026-07-12T05:12:51Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -597,6 +633,15 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-claude-and-other-ai-chatbots-may-help-lonely-people-feel-better-but-they-cannot-offer-what-humans-can-yale-professor-warns/articleshow/132320734.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-132320736,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-07-11T01:01:00Z"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "500 Blog Posts To Learn About Aws",
+            "url": "https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-aws-AD25BC61-76F7-46A8-BF7F-7872871AD530",
+            "urlToImage": "https://static.bundle.app/news/9d4c9770-72d2-5383-88a6-02686c99cc75.jpg",
+            "publishedAt": "2026-07-11 22:31:32"
         },
         {
             "source": {
@@ -3417,42 +3462,6 @@
             "url": "https://hackernoon.com/195-blog-posts-to-learn-about-architecture",
             "urlToImage": "https://hackernoon.imgix.net/images/github/architecture-600.png",
             "publishedAt": "2026-07-09 14:00:59"
-        },
-        {
-            "source": {
-                "name": "ibm"
-            },
-            "title": "How training environments can teach AI models to misbehave",
-            "url": "https://research.ibm.com/blog/how-the-wrong-training-environment-can-teach-ai-models-to-misbehave",
-            "urlToImage": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/blog_Art_ICML_still_Image_e43a853e59.png",
-            "publishedAt": "2026-07-09 13:30:39"
-        },
-        {
-            "source": {
-                "name": "dqchannels"
-            },
-            "title": "Dell Launches AI-Ready Pro Precision Workstations and Deskside Agentic AI in India",
-            "url": "https://www.dqchannels.com/products/dell-launches-ai-ready-pro-precision-workstations-and-deskside-agentic-ai-in-india-12149028",
-            "urlToImage": "https://img-cdn.publive.online/dqc/media/media_files/2026/07/09/dell-launches-ai-ready-pro-precision-workstations-and-deskside-agentic-ai-in-india-2026-07-09-17-24-16.jpg",
-            "publishedAt": "2026-07-09 11:54:36"
-        },
-        {
-            "source": {
-                "name": "medianama"
-            },
-            "title": "Govt. was hiring Director for its IndiaAI Safety Institute",
-            "url": "https://www.medianama.com/2026/07/223-meity-india-ai-safety-institute-director-hiring/",
-            "urlToImage": "https://www.medianama.com/wp-content/uploads/2020/10/industry-moves-hiring.jpg.jpg",
-            "publishedAt": "2026-07-09 11:52:24"
-        },
-        {
-            "source": {
-                "name": "wccftech"
-            },
-            "title": "AI Catapulted Samsung’s Memory Business To New Heights; Now, It’s Pushing The Development Of A 4nm AI Accelerator SoC For PCs To Take On Qualcomm",
-            "url": "https://wccftech.com/samsung-developing-ai-accelerator-to-take-on-qualcomm-and-nvidia/",
-            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Samsung-AI-accelerator-1456x819.jpg",
-            "publishedAt": "2026-07-09 11:51:43"
         }
     ]
 }
