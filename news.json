@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-07-12T22:41:55.724096Z",
+    "lastUpdatedAt": "2026-07-12T23:48:47.925834Z",
     "articles": [
+        {
+            "source": {
+                "id": "3d24c816061d69b2e23b8583aed9b447",
+                "name": "Euronews",
+                "url": "https://www.euronews.com",
+                "country": "fr"
+            },
+            "title": "From space rovers to hunger maps: How AI is reshaping humanitarian aid",
+            "url": "https://www.euronews.com/next/2026/07/12/from-space-rovers-to-hunger-maps-how-ai-is-reshaping-humanitarian-aid",
+            "urlToImage": "https://images.euronews.com/articles/stories/09/83/40/07/1200x675_cmsv2_f87c0551-1305-5224-b4d6-51c5af662239-9834007.jpg",
+            "publishedAt": "2026-07-12T11:23:20Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -3477,15 +3489,6 @@
             "url": "https://www.cnbc.com/2026/07/09/jim-cramer-investors-making-mistake-trillion-dollar-tech-giants.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1200&h=675",
             "publishedAt": "2026-07-09 22:21:39"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "Meta Is Massively Ramping Up Its In-House AI Silicon Production This September to Fight 'Chipflation'",
-            "url": "https://www.androidheadlines.com/2026/07/meta-iris-ai-chip-production-september-custom-silicon.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2026/04/Meta-Muse-Spark-AI-model-logo-2.jpg",
-            "publishedAt": "2026-07-09 22:21:37"
         }
     ]
 }
