@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-07-12T20:39:05.845555Z",
+    "lastUpdatedAt": "2026-07-12T21:43:05.656660Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI, science and the risks in China’s reliance on imported precision equipment",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/12/ai-science-and-the-risks-in-chinas-reliance-on-imported-precision-equipment",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/12/4004531.jpg",
+            "publishedAt": "2026-07-12T09:43:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Simaero plans to add more simulators, tap local engg talent in India: CEO",
+            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/simaero-plans-to-add-more-simulators-tap-local-engg-talent-in-india-ceo/articleshow/132343527.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132343575,width-1200,height-630,imgsize-109636,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-12T09:33:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "IIT Guwahati 28th Convocation: 2,265 degrees awarded, 412 PhD scholars among graduates",
+            "url": "https://indianexpress.com/article/education/iit-guwahati-28th-convocation-2026-degree-awarded-2265-phd-scholars-among-graduates-iitg-ac-in-10782734/",
+            "urlToImage": "https://images.indianexpress.com/2026/07/iit-guwahati-2026-convocation.jpg",
+            "publishedAt": "2026-07-12T08:58:36Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions/articleshow/132343064.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49158,resizemode-75,msid-132343064/tech/artificial-intelligence/tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions.jpg",
+            "publishedAt": "2026-07-12T08:55:15Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -3438,42 +3486,6 @@
             "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/09/how-hyperscale-infrastructure-sovereign-ai-and-quantum-computing-redefine-enterprise-strategy/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a4e97d7e9505ea63b70bc19/0x0.jpg?width=960",
             "publishedAt": "2026-07-09 16:15:00"
-        },
-        {
-            "source": {
-                "name": "infotechlead"
-            },
-            "title": "Omdia Names AWS, Dell, Google Cloud, HPE, IBM and Lenovo as 2026 Cloud & Data Center Ecosystem Champions Amid AI Boom",
-            "url": "https://infotechlead.com/cloud/omdia-names-aws-dell-google-cloud-hpe-ibm-and-lenovo-as-2026-cloud-data-center-ecosystem-champions-amid-ai-boom-97011",
-            "urlToImage": "https://infotechlead.com/wp-content/uploads/2026/07/Cloud-and-data-center-leadership-Omdia-report-2026.png",
-            "publishedAt": "2026-07-09 15:26:32"
-        },
-        {
-            "source": {
-                "name": "newkerala"
-            },
-            "title": "Critical Infrastructure, Banks Must Go Quantum-Ready to Thwart Future Cyber Threats",
-            "url": "https://www.newkerala.com/news/a/critical-infrastructure-banks-must-become-quantum-ready-tackle-future-961.htm",
-            "urlToImage": "https://one.newkerala.com/images/r/newkerala-com-news250.webp",
-            "publishedAt": "2026-07-09 14:46:29"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | Critical Infrastructure, Banks Must Become Quantum-ready to Tackle Future Cyber Threats: President, CyberPeace",
-            "url": "https://www.latestly.com/agency-news/business-news-critical-infrastructure-banks-must-become-quantum-ready-to-tackle-future-cyber-threats-president-cyberpeace-7510017.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2020/10/news-default-img.jpg",
-            "publishedAt": "2026-07-09 14:42:23"
-        },
-        {
-            "source": {
-                "name": "wallst_247"
-            },
-            "title": "South Korea’s $576 Billion AI Bet Shows Why Vertiv Is More Than a Cooling Company",
-            "url": "https://247wallst.com/technology-3/2026/07/09/south-koreas-576-billion-ai-bet-shows-why-vertiv-is-more-than-a-cooling-company/",
-            "urlToImage": "https://247wallst.com/wp-content/uploads/2025/04/shutterstock-1062915266-huge-licensed-scaled.jpg",
-            "publishedAt": "2026-07-09 14:30:17"
         }
     ]
 }
