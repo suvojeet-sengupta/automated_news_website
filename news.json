@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2026-07-12T02:20:56.980057Z",
+    "lastUpdatedAt": "2026-07-12T05:52:23.708019Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Machine learning redefines precision cancer therapy using smart radiopharmaceuticals",
+            "url": "https://www.news-medical.net/news/20260711/Machine-learning-redefines-precision-cancer-therapy-using-smart-radiopharmaceuticals.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
+            "publishedAt": "2026-07-11T17:33:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "HDFC Bank redeploys backend employees to customer-facing roles",
+            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-redeploys-backend-employees-to-customer-facing-roles/articleshow/132335364.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132335388,width-1200,height-630,imgsize-109478,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-11T17:30:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Amid criticism, Meta reins in new AI tool that automatically accessed public Instagram images",
+            "url": "https://www.tribuneindia.com/news/science-technology/amid-criticism-meta-reins-in-new-ai-tool-that-automatically-accessed-public-instagram-images/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTliNzdlMGEwLTdkNGItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-07-11T17:11:42Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "Leaked Meta Memo Reveals Plans to Double AI Computing Capacity to 14 Gigawatts",
+            "url": "https://www.naturalnews.com/2026-07-11-leaked-meta-memo-plans-double-ai-computing.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/meta-ai-expansion-14-gigawatts-ai-infrastructure-2653-original.jpg",
+            "publishedAt": "2026-07-11T17:00:06Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "driven legislative reforms, 213 new degree colleges in Bihar",
+            "url": "https://www.lokmattimes.com/national/cm-samrat-choudhary-announces-ai-driven-legislative-reforms-213-new-degree-colleges-in-bihar/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607113861135_202607.jpg",
+            "publishedAt": "2026-07-11T16:58:49Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "driven legislative reforms, 213 new degree colleges in Bihar",
+            "url": "https://www.lokmattimes.com/technology/cm-samrat-choudhary-announces-ai-driven-legislative-reforms-213-new-degree-colleges-in-bihar-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607113861135_202607.jpg",
+            "publishedAt": "2026-07-11T16:58:49Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "News Outlets Seek Sanctions Against OpenAI in Copyright Dispute",
+            "url": "https://www.naturalnews.com/2026-07-11-news-outlets-seek-sanctions-openai-copyright-dispute.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/openai-copyright-infringement-fair-use-2654-original.jpg",
+            "publishedAt": "2026-07-11T16:50:12Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI data center expansion is creating transformer shortages across the US, forcing power companies to order up to five years in advance",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-data-center-expansion-is-creating-transformer-shortages-across-the-us-forcing-power-companies-to-order-up-to-five-years-in-advance/articleshow/132331511.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132331482,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-11T16:47:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Independent UN panel warns AI is outpacing the world’s ability to govern it",
+            "url": "https://www.manilatimes.net/2026/07/12/business/sunday-business-it/independent-un-panel-warns-ai-is-outpacing-the-worlds-ability-to-govern-it/2382705",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1133285.jpg",
+            "publishedAt": "2026-07-11T16:05:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Securing the modern Philippine workspace",
+            "url": "https://www.manilatimes.net/2026/07/12/business/sunday-business-it/securing-the-modern-philippine-workspace/2382704",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1133260.jpg",
+            "publishedAt": "2026-07-11T16:03:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Mobile sector seen adding $11.3T by 2030",
+            "url": "https://www.manilatimes.net/2026/07/12/business/sunday-business-it/mobile-sector-seen-adding-113t-by-2030/2382700",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1133253.jpg",
+            "publishedAt": "2026-07-11T16:00:00Z"
+        },
         {
             "source": {
                 "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
@@ -24,6 +156,18 @@
             "url": "https://www.cnbctv18.com/market/hdfc-bank-bets-on-ai-seeks-rs-60000-crore-capital-raise-as-digital-push-gathers-pace-19943409.htm",
             "urlToImage": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-49-2026-07-9ef887122ec312c18e46017b1bb07951.jpg?im=FitAndFill,width=1200,height=675",
             "publishedAt": "2026-07-11T11:53:09Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Machine learning framework enables low-cost water toxin detection",
+            "url": "https://www.news-medical.net/news/20260711/Machine-learning-framework-enables-low-cost-water-toxin-detection.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2026-07-11T11:36:00Z"
         },
         {
             "source": {
@@ -432,6 +576,18 @@
         },
         {
             "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "How Machine Learning in Finance Works: A Guide for the US Financial Market",
+            "url": "https://techbullion.com/machine-learning-in-finance-guide-us-2026/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/07/761890-featured-1000x504.jpg",
+            "publishedAt": "2026-07-10T23:30:00Z"
+        },
+        {
+            "source": {
                 "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
                 "name": "Toronto Star",
                 "url": "https://www.thestar.com",
@@ -453,6 +609,18 @@
             "url": "https://www.ajc.com/news/2026/07/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets/",
             "urlToImage": "https://images.ajc.com/resizer/v2/E2FRLJCBCBHF3EMSLGRYYTGYTI.jpg?auth=7acba7bf2c1b4cd57ba2bf14ed2ecf568a4a1e03978380aa15d8085562644a16&width=1200&height=630&smart=true",
             "publishedAt": "2026-07-10T23:01:14Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Machine Learning in Finance Explained: What It Means for Consumers and Businesses in the USA",
+            "url": "https://techbullion.com/machine-learning-in-finance-explained-what-it-means-for-consumers-and-businesses-in-the-usa/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/07/766057-featured-1000x504.jpg",
+            "publishedAt": "2026-07-10T23:00:00Z"
         },
         {
             "source": {
@@ -3270,168 +3438,6 @@
             "url": "https://www.forbes.com/sites/bernardmarr/2026/07/09/10-things-you-must-see-at-goodwood-festival-of-speed-2026/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a4f3afd6ba5fd47ef3a5ef1/0x0.jpg",
             "publishedAt": "2026-07-09 06:12:48"
-        },
-        {
-            "source": {
-                "name": "etnownews"
-            },
-            "title": "AI won't cause ‘jobs apocalypse’ but will disrupt 32 million roles: Gartner explains how",
-            "url": "https://www.etnownews.com/technology/ai-wont-cause-jobs-apocalypse-but-will-disrupt-32-million-roles-gartner-explains-how-article-155011887",
-            "urlToImage": "https://images.etnownews.com/thumb/msid-155011887,updatedat-1783574257084,width-1280,height-720,resizemode-75/155011887.jpg",
-            "publishedAt": "2026-07-09 05:19:46"
-        },
-        {
-            "source": {
-                "name": "moneycontrol"
-            },
-            "title": "OPINION | Why robotics is finally ready for its breakthrough moment",
-            "url": "https://www.moneycontrol.com/news/opinion/why-robotics-is-finally-ready-for-its-breakthrough-moment-13969575.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/07/20260709041211_ROBOTICS-MOMENT-AI-378x213.jpg",
-            "publishedAt": "2026-07-09 05:10:02"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Commvault launches AI-powered cyber resilience simulation to prepare organisations for the next generation of attacks",
-            "url": "https://itwire.com/business-it-news/security/commvault-launches-ai-powered-cyber-resilience-simulation-to-prepare-organisations-for-the-next-generation-of-attacks",
-            "urlToImage": "https://media.itwire.com/2026/07/08/commvault-launches-ai-powered-cyber-resilience-simulation-to-prepare-organisations-for-the-next-generation-of-attacks-1c5bd7c28db9.webp",
-            "publishedAt": "2026-07-08T23:57:05Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "How to prevent Meta from using your Instagram images in AI",
-            "url": "https://www.bostonglobe.com/2026/07/08/business/meta-instagram-images-ai/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/UOEYWA3DQFFS7E7FPJRISDMFDI.jpg?auth=b2c22819e88e463ebd8699901948bf19dd5db36b7aa7299eb7020e85d6e133cc&width=1440",
-            "publishedAt": "2026-07-08T23:16:16Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "With Anthropic expansion, will NYC stifle Boston's AI resurgence?",
-            "url": "https://www.bostonglobe.com/2026/07/08/business/ai-new-york-boston-jobs-talent/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/IMFTZN5GZXGETO7RPSPX5KW3IE.jpg?auth=0d60e77af782a2d223493af61626621c028c025e4e38c600f096e513a5d8d76a&width=1440",
-            "publishedAt": "2026-07-08T23:01:59Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Should a chatbot manage your bank account? Probably not, according to analysis",
-            "url": "https://phys.org/news/2026-07-chatbot-bank-account-analysis.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/chatbot-2.jpg",
-            "publishedAt": "2026-07-08T22:40:03Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Meta plans billions for first AI data center in Canada, largest outside the US",
-            "url": "https://wtop.com/social-media/2026/07/meta-plans-billions-for-first-ai-data-center-in-canada-largest-outside-the-us/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-            "publishedAt": "2026-07-08T22:24:27Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Meta plans billions for first AI data center in Canada, largest outside US",
-            "url": "https://apnews.com/article/meta-ai-data-center-canada-922a7d15ab730ec53b934269fc00a0fa",
-            "urlToImage": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-            "publishedAt": "2026-07-08T22:20:55Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "Meta plans billions for first AI data center in Canada, largest outside the US",
-            "url": "https://www.clickondetroit.com/business/2026/07/08/meta-plans-billions-for-first-ai-data-center-in-canada-largest-outside-the-us/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/CFA7NACVFZAJ5CMW2RUVFGZLPE.jpg?_a=DATAg1kSZAA0",
-            "publishedAt": "2026-07-08T22:20:54Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Quote of the day by Nikola Tesla: 'In the twenty-first century, the robot will take the place which slave...' - A century-old prediction on AI, robots and humanity's technological future by the world'",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-nikola-tesla-in-the-twenty-first-century-the-robot-will-take-the-place-which-slave-a-century-old-prediction-on-ai-robots-and-humanitys-technological-future-by-the-worlds-greatest-inventor/articleshow/132271989.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132272046,width-1200,height-630,imgsize-76571,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2026-07-08T21:29:00Z"
-        },
-        {
-            "source": {
-                "id": "df629db3114c958c28ad4d39b3d50ec1",
-                "name": "Greensboro News & Record",
-                "url": "https://greensboro.com",
-                "country": "us"
-            },
-            "title": "Applied data science program upskills 12 BWXT employees",
-            "url": "https://greensboro.com/article_c4c4e8e3-9210-579b-812d-182bd3d5328d.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/6/61/6616eb66-e13b-5a8f-b468-4fd83ea4dcf6/6a4f7be06c5f4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2026-07-08T20:36:13Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "US crackdown on top AI fuels open",
-            "url": "https://www.breitbart.com/news/us-crackdown-on-top-ai-fuels-open-source-surge/",
-            "urlToImage": "https://media.breitbart.com/media/2026/07/wi/afp/09dac12ebaf50ce8a7092bb71672c8590ea13bcc-models-china-deepseek-gaining-fans-close-640x335.jpg",
-            "publishedAt": "2026-07-08T20:34:12Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Scientists invented a fake eye disease to see if AI chatbots could spot it, but the experiment took an unexpected turn when ChatGPT, Gemini started treating the fictional illness as a real medical con",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/scientists-invented-a-fake-eye-disease-to-see-if-ai-chatbots-could-spot-it-but-the-experiment-took-an-unexpected-turn-when-chatgpt-gemini-started-treating-the-fictional-illness-as-a-real-medical-condition/articleshow/132272168.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132272370,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-08T20:26:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Intelligent Automation Meets Data Security: SAP Technology Leader Puneet Khatri on AI-Driven SAP Operations and the New Rules of Data Masking",
-            "url": "https://techbullion.com/intelligent-automation-meets-data-security-sap-technology-leader-puneet-khatri-on-ai-driven-sap-operations-and-the-new-rules-of-data-masking/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/07/Puneet-Khatri-on-AI-Driven-SAP-Operations-1000x600.png",
-            "publishedAt": "2026-07-08T19:57:09Z"
         }
     ]
 }
