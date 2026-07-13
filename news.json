@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-07-13T21:51:41.666992Z",
+    "lastUpdatedAt": "2026-07-13T22:51:41.086017Z",
     "articles": [
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Massive AI buildout poses the latest inflation threat for consumers and the Fed",
+            "url": "https://apnews.com/article/ai-inflation-federal-reserve-434f02e62a02f9b92e57995d9375df57",
+            "urlToImage": "https://dims.apnews.com/dims4/default/cfae71b/2147483647/strip/true/crop/3657x2437+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1c%2F62%2F6478db5a29a2e2389f40d106c34e%2F53412e7a108a463fb005a1b5e0229ccd",
+            "publishedAt": "2026-07-13T10:17:16Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "White House to rally utilities, data centers over AI power costs",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/13/white-house-to-rally-utilities-data-centers-over-ai-power-costs",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/13/4008124.jpg",
+            "publishedAt": "2026-07-13T10:13:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Chinese President Xi Jinping to deliver keynote speech at 2026 World AI Conference in Shanghai",
+            "url": "https://www.tribuneindia.com/news/business/chinese-president-xi-jinping-to-deliver-keynote-speech-at-2026-world-ai-conference-in-shanghai/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNkZmVkZGYwLTdlYTItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-07-13T10:08:26Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Meta expands Louisiana data center to 5 gigawatts compute capacity",
+            "url": "https://economictimes.indiatimes.com/tech/technology/meta-expands-louisiana-data-center-to-5-gigawatts-compute-capacity/articleshow/132363303.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-73124,resizemode-75,msid-132363303/tech/technology/meta-expands-louisiana-data-center-to-5-gigawatts-compute-capacity.jpg",
+            "publishedAt": "2026-07-13T10:08:04Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "Artificial intelligence, leadership take centre stage at Waves 2026",
+            "url": "https://www.thehindubusinessline.com/news/artificial-intelligence-leadership-take-centre-stage-at-waves-2026/article71216821.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/w9nfph/article71216809.ece/alternates/LANDSCAPE_1200/PMI%20WAVES%20Inauguration.jpg",
+            "publishedAt": "2026-07-13T10:06:54Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "White House to rally utilities, data centers over AI power costs",
+            "url": "https://www.reuters.com/legal/litigation/white-house-rally-utilities-data-centers-over-ai-power-costs-2026-07-13/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/NQTZBJPUPFIFLJQB4XPJXIP2WA.jpg?auth=a3c8d4c9dcb5fb04c8cf97f2ff09b7ebee5f38d20549845944d07eb4ee9be3c9&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-13T10:05:08Z"
+        },
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            },
+            "title": "Across Canada, the fight against artificial intelligence goes offline",
+            "url": "https://www.theglobeandmail.com/canada/article-fight-against-artificial-intelligence-canada/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/3ZG6D3PLOBAGXFTEMX7ZRZTPR4.JPG?auth=6b78361fc77ff3aa637abf74ae4f0aeee55d2f9a57a3648891c0ba0980010d8b&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2026-07-13T10:00:00Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -348,6 +432,33 @@
             "url": "https://www.manilatimes.net/2026/07/13/tmt-newswire/pr-newswire/deepening-collaboration-in-ai-powered-rd-acceleration-insilico-medicine-and-cms-announce-additional-collaborations-in-cns-diseases/2383007",
             "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
             "publishedAt": "2026-07-13T00:55:30Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "When AI Writes Your Code, Who Owns The ‘Why’?",
+            "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/when-ai-writes-your-code-who-owns-the-why/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a4ecd83118a99486dc4d1a7/0x0.jpg?width=960",
+            "publishedAt": "2026-07-13 10:15:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "From Tech to AI: The First Billionaires Who Changed the World",
+            "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/from-tech-to-ai-the-first-billionaires-who-changed-the-world",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-07-13/4a6s1js7/From-Tech-to-AI-The-First-Billionaires-Who-Changed-the-World.jpg",
+            "publishedAt": "2026-07-13 10:03:00"
+        },
+        {
+            "source": {
+                "name": "business-standard"
+            },
+            "title": "AI memory explained: How smarter digital assistants reshape privacy debate",
+            "url": "https://www.business-standard.com/technology/artificial-intelligence/ai-memory-explained-how-smarter-digital-assistants-reshape-privacy-debate-126071300658_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/13/full/1783936702-8049.jpg",
+            "publishedAt": "2026-07-13 09:58:08"
         },
         {
             "source": {
@@ -3327,126 +3438,6 @@
             "url": "https://www.thenews.com.pk/latest/1408581-metas-muse-ai-tool-heres-how-it-works",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-07-09/1408581_045343_updates.jpg",
             "publishedAt": "2026-07-09T11:49:25Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Trinka Launches Initiative to Support Strong Writing Skills in the Age of AI",
-            "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/plentisoft/trinka-launches-initiative-to-support-strong-writing-skills-in-the-age-of-ai/2381548",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/09/1131082.jpg",
-            "publishedAt": "2026-07-09T11:49:08Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Meta to put AI chip into production in September: Report",
-            "url": "https://www.cnbc.com/2026/07/09/meta-to-put-ai-chip-into-production-in-september-report.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108310069-17793063292026-05-20t194305z_1806485342_rc27dla6rwc7_rtrmadp_0_tech-ai-meta-layoffs.jpeg?v=1779306361&w=1920&h=1080",
-            "publishedAt": "2026-07-09T11:44:40Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "TCS Adds 9,279 Employees In Q1, Highest Quarterly Hiring In Over A Year",
-            "url": "https://www.outlookbusiness.com/corporate/tcs-adds-9279-employees-in-q1-highest-quarterly-hiring-in-over-a-year",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-06-16/ahk4a9e9/TCS.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-07-09T11:42:32Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Exclusive-Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/09/exclusive-meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/09/4001741.jpg",
-            "publishedAt": "2026-07-09T11:34:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows/articleshow/132285360.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-65770,resizemode-75,msid-132285360/tech/artificial-intelligence/meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows.jpg",
-            "publishedAt": "2026-07-09T11:33:18Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "AI not replacing jobs but enhancing human roles, says CEA Nageswaran",
-            "url": "https://www.thehindubusinessline.com/economy/ai-not-replacing-jobs-but-enhancing-human-roles-says-cea-nageswaran/article71202070.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/j20jkh/article71202093.ece/alternates/LANDSCAPE_1200/BVR_9017.JPG",
-            "publishedAt": "2026-07-09T11:33:10Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
-            "url": "https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/JO6A6BRKB5P57AK3IPZJLA7KKU.jpg?auth=1b1d5ba1bbda1c379e4b63fcec16c9cf631c15c93dd6fe94ec06ba9b2aaa743f&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-07-09T11:22:34Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "MeitY empanels six tech firms including TCS and CoRover for Government AI Mission",
-            "url": "https://www.devdiscourse.com/article/business/3947812-meity-empanels-six-tech-firms-including-tcs-and-corover-for-government-ai-mission",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/09_07_2026_16_44_10_5055053.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-07-09T11:14:16Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "MeitY empanels six tech firms including TCS and CoRover for Government AI Mission",
-            "url": "https://www.tribuneindia.com/news/business/meity-empanels-six-tech-firms-including-tcs-and-corover-for-government-ai-mission/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMwOGZkNTEwLTdiODctMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-09T11:13:12Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Study raises concerns about AI health-prediction models trained on unreliable datasets",
-            "url": "https://medicalxpress.com/news/2026-07-ai-health-unreliable-datasets.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/doctor-online.jpg",
-            "publishedAt": "2026-07-09T11:00:05Z"
         }
     ]
 }
