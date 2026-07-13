@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-07-13T02:22:50.002654Z",
+    "lastUpdatedAt": "2026-07-13T06:10:53.805261Z",
     "articles": [
+        {
+            "source": {
+                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
+                "name": "Social Media Today",
+                "url": "https://www.socialmediatoday.com",
+                "country": "us"
+            },
+            "title": "Meta removes Instagram’s AI remix option",
+            "url": "https://www.socialmediatoday.com/news/meta-removes-instagrams-ai-remix-option/825017/",
+            "urlToImage": "https://imgproxy.divecdn.com/xYKhDbY0emAyzw8_Rxx_HELslVWhWdnAo05B16beD0g/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbnN0YV9sb2dvX3VwZGF0ZS5wbmc=.webp",
+            "publishedAt": "2026-07-12T17:58:02Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Sai Maneesh Kumar Prodduturi's New Indian Patent Application Aims to Advance",
+            "url": "https://techbullion.com/sai-maneesh-kumar-prodduturis-new-indian-patent-application-aims-to-advance/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/07/Screenshot_2026-07-12-22-13-05-35_a1b1bbe5f63d5b96c1a0f87c197ebfae-907x600.jpg",
+            "publishedAt": "2026-07-12T17:16:41Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+            "url": "https://www.manilatimes.net/2026/07/13/business/foreign-business/indias-tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions/2382961",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/12/1133910.png",
+            "publishedAt": "2026-07-12T16:05:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Meta scraps AI image feature days after launch following privacy backlash",
+            "url": "https://www.manilatimes.net/2026/07/13/business/foreign-business/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/2382957",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/12/1134065.jpg",
+            "publishedAt": "2026-07-12T16:02:00Z"
+        },
+        {
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            },
+            "title": "After Rs 3.3 lakh crore infra push, Airtel eyes cloud, NBFC and data centres: Sunil Mittal",
+            "url": "https://www.moneycontrol.com/news/telecom/after-rs-3-3-lakh-crore-infra-push-airtel-eyes-cloud-nbfc-and-data-centres-sunil-mittal-13972040.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/08/Sunil-Mittal-B20-Summit.jpg",
+            "publishedAt": "2026-07-12T15:34:10Z"
+        },
+        {
+            "source": {
+                "id": "494f687bd1dfaa9f7b4a705c860671d0",
+                "name": "Hartford Courant",
+                "url": "https://www.courant.com",
+                "country": "us"
+            },
+            "title": "Trump administration targets state AI laws over ideology",
+            "url": "https://www.courant.com/2026/07/12/trump-administration-targets-state-ai-laws-over-ideology-2/",
+            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/07/202607110500MCT_____PHOTO____US-NEWS-TRUMP-AI-STATE-LAWS-FILEPIC-GET.jpg?w=1024&h=682",
+            "publishedAt": "2026-07-12T15:00:54Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Instagram boss Adam Mosseri joins rising AI costs debate, says company shut down ‘silly things’ that helped …",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/instagram-boss-adam-mosseri-joins-rising-ai-costs-debate-says-company-shut-down-silly-things-that-helped-/articleshow/132347461.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132347462,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-12T14:38:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -216,6 +300,42 @@
             "url": "https://www.digitaltrends.com/home-theater/your-next-spotify-song-could-soon-carry-an-ai-warning-label-and-the-music-industry-is-all-for-it/",
             "urlToImage": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-12T060317.613.jpg?resize=1200%2C630",
             "publishedAt": "2026-07-12T00:37:51Z"
+        },
+        {
+            "source": {
+                "name": "norfolkdailynews"
+            },
+            "title": "Elite AEO Labs Launches Two-Tier AI Visibility Service Model",
+            "url": "https://norfolkdailynews.com/online_features/press_releases/elite-aeo-labs-launches-two-tier-ai-visibility-service-model/article_4ab084bb-3bb6-5512-b762-f8fffc717158.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/d/74/d74d29c8-4af9-5aea-bd62-d662960ff928/6a53e6413258d.image.png?resize=300%2C168",
+            "publishedAt": "2026-07-12 17:25:00"
+        },
+        {
+            "source": {
+                "name": "norfolkdailynews"
+            },
+            "title": "Elite AEO Labs Expands AI Search Optimization Resources for Businesses",
+            "url": "https://norfolkdailynews.com/online_features/press_releases/elite-aeo-labs-expands-ai-search-optimization-resources-for-businesses/article_c9247de1-0564-51fb-af60-bd428d03b401.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/e/82/e82d5ac2-307c-533d-86a1-b0df61cd8716/6a53e63453cb2.image.png?resize=300%2C168",
+            "publishedAt": "2026-07-12 17:25:00"
+        },
+        {
+            "source": {
+                "name": "firstpost"
+            },
+            "title": "Samsung wants to put its own AI chip in your next PC: Here's what Gaia could bring",
+            "url": "https://www.firstpost.com/tech/samsung-wants-to-put-its-own-ai-chip-in-your-next-pc-heres-what-gaia-could-bring-14030858.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/05/2026-05-20T045522Z_161452686_RC2RCLAGYCP3_RTRMADP_3_SAMSUNG-DISPUTE-2026-05-e779ff7a51693b80a0ea8a6dff3e76c8.jpg",
+            "publishedAt": "2026-07-12 16:53:21"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "How to Become a Data Engineer in 2026: Complete Career Transition Guide",
+            "url": "https://www.analyticsinsight.net/courses/how-to-become-a-data-engineer-in-2026-complete-career-transition-guide",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-07-12/eeqmndlg/How-to-Become-a-Data-Engineer-in-2026.jpg",
+            "publishedAt": "2026-07-12 15:30:00"
         },
         {
             "source": {
@@ -3360,138 +3480,6 @@
             "url": "https://www.nation.com.pk/09-Jul-2026/ai-may-affect-nearly-80-million-workers-asean-region-ilo",
             "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
             "publishedAt": "2026-07-09T02:22:00Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "IMF expects world economy to grow a sluggish 3% this year, weighed down by Iran war but helped by AI",
-            "url": "https://www.ajc.com/news/2026/07/imf-expects-world-economy-to-grow-a-sluggish-3-this-year-weighed-down-by-iran-war-but-helped-by-ai/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/3DX7THJYPFDGNF56RKCOAVIUNY.jpg?auth=d6b4cb71fb5db704ff17b0369477caceeef0a390e3aa23c2bc3195b04097c381&width=1200&height=630&smart=true",
-            "publishedAt": "2026-07-09T02:21:45Z"
-        },
-        {
-            "source": {
-                "id": "6536182115f7e8188f38d864bab0e1c6",
-                "name": "DAWN.com",
-                "url": "https://www.dawn.com",
-                "country": "pk"
-            },
-            "title": "OpenAI to launch new model after US freeze",
-            "url": "https://www.dawn.com/news/2013998/openai-to-launch-new-model-after-us-freeze",
-            "urlToImage": "https://i.dawn.com/large/2026/07/09034432a7fccbb.webp",
-            "publishedAt": "2026-07-09T02:08:28Z"
-        },
-        {
-            "source": {
-                "id": "94466d37d8c67a438250646866df36df",
-                "name": "SBS Australia",
-                "url": "https://www.sbs.com.au",
-                "country": "au"
-            },
-            "title": "Artificial intelligence won't eliminate jobs but will create new opportunities: Dr Kamran Shaukat",
-            "url": "https://www.sbs.com.au/language/urdu/en/podcast-episode/artificial-intelligence-wont-eliminate-jobs-but-will-create-new-opportunities-dr-kamran-shaukat/oabvpzpjz",
-            "urlToImage": "https://assets.sbs.com.au/dims4/default/544cfe1/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fb1%2Fec%2F2349a8f54841859916a449e31745%2Fai-article-header-v2.jpg",
-            "publishedAt": "2026-07-09T02:00:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "China warns of 'security backdoor' in Anthropic AI coding tool",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/09/china-warns-of-039security-backdoor039-in-anthropic-ai-coding-tool",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/08/3999596.jpg",
-            "publishedAt": "2026-07-09T01:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Insilico Medicine Releases Positive Profit Alert for the First Half of 2026",
-            "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/pr-newswire/insilico-medicine-releases-positive-profit-alert-for-the-first-half-of-2026/2381289",
-            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-07-09T00:58:11Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "TCS braces for muted June quarter; AI outlook and deal pipeline in focus",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-braces-for-muted-june-quarter-ai-outlook-and-deal-pipeline-in-focus/articleshow/132274804.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132274805,width-1200,height-630,imgsize-50536,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-07-09T00:39:00Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Meta to build $13B data centre north of Edmonton",
-            "url": "https://www.cp24.com/news/canada/2026/07/09/county-north-of-edmonton-says-13b-meta-data-centre-is-welcome-as-water-power-logistics-unveiled/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/6JSDVXAYJBBORFMWK6GE7RX5LU.png?smart=true&auth=61bf2ffc910678066b764258dd20570b0aa6a5721aef559ddd9f9407ac9b58b8&width=1200&height=630",
-            "publishedAt": "2026-07-09T00:22:50Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Trump Announced His AI Action Plan Declaring ‘America Is Going to Win’",
-            "url": "https://www.benzinga.com/news/topics/26/07/60348396/trump-announced-his-ai-action-plan-declaring-america-is-going-to-win-the-same-day-he-bought-millions-in-nvidia-apple-and-microsoft",
-            "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/09/12-07-2018--Brussels--Belgium--Press-Con.jpg",
-            "publishedAt": "2026-07-09T00:01:08Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Evaluating the quality, reliability and readability of digital and artificial intelligence resources for adults with cancer who have significant caregiving responsibilities for children",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001493",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001493.g002&size=inline",
-            "publishedAt": "2026-07-09T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Modeling predictors of incomplete antenatal care utilization among reproductive-age women in Ethiopia using machine learning algorithms and SHAP interpretation",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001489",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001489.g008&size=inline",
-            "publishedAt": "2026-07-09T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "On the road to fully automated insulin delivery: A systematic review of meal announcement free algorithms",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001492",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001492.g007&size=inline",
-            "publishedAt": "2026-07-09T00:00:00Z"
         }
     ]
 }
