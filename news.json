@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-07-12T23:48:47.925834Z",
+    "lastUpdatedAt": "2026-07-13T02:22:50.002654Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "After Fidji Simo, OpenAI’s head of safety says he is leaving: List of high-profile departures from ChatGPT-maker",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-fidji-simo-openais-head-of-safety-says-he-is-leaving-list-of-high-profile-departures-from-chatgpt-maker/articleshow/132346952.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132346957,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-12T14:13:00Z"
+        },
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            },
+            "title": "The growing problem of ‘skill fishing’ in the hiring world",
+            "url": "https://www.theglobeandmail.com/business/careers/article-the-growing-problem-of-skill-fishing-in-the-hiring-world/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/24GTUIWWMNEF5DJ7SSCKSPUWZQ.jpg?auth=9559d529c00f1ddaa5e7c412e12c572edb8c7c1a88795abff228259077422372&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2026-07-12T13:00:00Z"
+        },
+        {
+            "source": {
+                "id": "41ffcb0a7e770544afd8def89d1e0674",
+                "name": "Scroll.in",
+                "url": "https://scroll.in",
+                "country": "in"
+            },
+            "title": "SIR: UN special rapporteurs flag concerns about targeting of minorities, discriminatory rhetoric",
+            "url": "https://scroll.in/latest/1094216/sir-un-special-rapporteurs-flag-concerns-about-targeting-of-minorities-discriminatory-rhetoric",
+            "urlToImage": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/210387-cziwfwqqml-1762779930.jpeg",
+            "publishedAt": "2026-07-12T12:47:00Z"
+        },
         {
             "source": {
                 "id": "3d24c816061d69b2e23b8583aed9b447",
@@ -180,6 +216,24 @@
             "url": "https://www.digitaltrends.com/home-theater/your-next-spotify-song-could-soon-carry-an-ai-warning-label-and-the-music-industry-is-all-for-it/",
             "urlToImage": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-12T060317.613.jpg?resize=1200%2C630",
             "publishedAt": "2026-07-12T00:37:51Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "What is Copilot? Everything you need to know about Microsoft’s AI assistant",
+            "url": "https://www.digitaltrends.com/computing/what-is-copilot/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/04/Microsoft-Copilot-Banner-Featured.jpg?resize=440%2C292",
+            "publishedAt": "2026-07-12 13:37:49"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+            "url": "https://us.headtopics.com/news/scientists-side-hustle-using-ai-and-quantum-computing-to-85497234",
+            "urlToImage": "https://i.headtopics.com/images/2026/7/12/wired/scientists-side-hustle-using-ai-and-quantum-comput-scientists-side-hustle-using-ai-and-quantum-comput-CF13BD5010EE39C0BF1F53DE5BC80591.webp",
+            "publishedAt": "2026-07-12 12:07:34"
         },
         {
             "source": {
@@ -3438,57 +3492,6 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001492",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001492.g007&size=inline",
             "publishedAt": "2026-07-09T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Advancing outbreak detection: Hybridizing machine learning with wavelets for weekly dengue case forecasting",
-            "url": "https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014444",
-            "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014444.g007&size=inline",
-            "publishedAt": "2026-07-09T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "MERWACS: Development and external validation of a non-invasive machine learning tool for identifying subjects to be screened for CKD",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001486.g006&size=inline",
-            "publishedAt": "2026-07-09T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "SK Hynix Nasdaq Debut: The AI Memory Giant Behind the Boom Comes to Wall Street",
-            "url": "https://www.bundle.app/en/technology/sk-hynix-nasdaq-debut-the-ai-memory-giant-behind-the-boom-comes-to-wall-street-5E1FE6AC-FB86-45B7-862E-2A5AA6096A2D",
-            "urlToImage": "https://static.bundle.app/news/889a752f-db44-57fc-a8af-f247b8dace46.jpg",
-            "publishedAt": "2026-07-09 22:35:02"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "195 Blog Posts To Learn About Architecture",
-            "url": "https://www.bundle.app/en/technology/195-blog-posts-to-learn-about-architecture-2E07061B-DD50-4F56-B601-6CB8CDC8FBB6",
-            "urlToImage": "https://static.bundle.app/news/c00d36bc-b5b3-5abe-b9f3-4a842b827eba.jpg",
-            "publishedAt": "2026-07-09 22:31:30"
-        },
-        {
-            "source": {
-                "name": "cnbc"
-            },
-            "title": "Jim Cramer says investors are making a mistake with the trillion-dollar tech giants",
-            "url": "https://www.cnbc.com/2026/07/09/jim-cramer-investors-making-mistake-trillion-dollar-tech-giants.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1200&h=675",
-            "publishedAt": "2026-07-09 22:21:39"
         }
     ]
 }
