@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-07-15T22:55:13.947925Z",
+    "lastUpdatedAt": "2026-07-15T23:55:12.972732Z",
     "articles": [
+        {
+            "source": {
+                "id": "09dc1bda762f4f787cec10477a894d96",
+                "name": "Toronto Sun",
+                "url": "https://torontosun.com",
+                "country": "ca"
+            },
+            "title": "Meta employees allege discriminatory AI-driven layoffs",
+            "url": "https://torontosun.com/technology/meta-employees-allege-discriminatory-ai-driven-layoffs",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/07/d27d36455572036b58cc377e2abed3c02f55dd38-e1784115374828.jpg",
+            "publishedAt": "2026-07-15T11:36:31Z"
+        },
+        {
+            "source": {
+                "id": "f4967fce32bfc735983f0f39dcdba127",
+                "name": "pv magazine",
+                "url": "https://www.pv-magazine.com",
+                "country": "de"
+            },
+            "title": "AI for the electricity grid",
+            "url": "https://www.pv-magazine.com/2026/07/15/ai-for-the-electricity-grid/",
+            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2026/07/Power-line-with-AI.png",
+            "publishedAt": "2026-07-15T11:32:10Z"
+        },
+        {
+            "source": {
+                "id": "d86acd5a472cad336b1f19dca3331ef5",
+                "name": "M Live Michigan ",
+                "url": "https://www.mlive.com",
+                "country": "us"
+            },
+            "title": "New York is the first state to impose an AI data center ban",
+            "url": "https://www.mlive.com/news/2026/07/new-york-is-the-first-state-to-approve-an-ai-data-center-ban.html",
+            "urlToImage": "https://www.mlive.com/resizer/v2/BZYUZQT3DFD4JDBEQIKJO73OLU.jpg?auth=7b40334224c677a266d1ee8203259a05f0b6c0c3e0d51efd9037ddd36e120522&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-07-15T11:20:35Z"
+        },
+        {
+            "source": {
+                "id": "34cc62608b4607dc3a776802caadb7bd",
+                "name": "ThePrint",
+                "url": "https://theprint.in",
+                "country": "in"
+            },
+            "title": "Karnataka to roll out comprehensive data centre policy to support infra requirements of AI",
+            "url": "https://theprint.in/india/karnataka-to-roll-out-comprehensive-data-centre-policy-to-support-infra-requirements-of-ai/2987219/",
+            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+            "publishedAt": "2026-07-15T11:18:21Z"
+        },
+        {
+            "source": {
+                "id": "62c14ad4f80bd5e90cbba873513fe4b9",
+                "name": "PetaPixel",
+                "url": "https://petapixel.com",
+                "country": "us"
+            },
+            "title": "George Lucas Says 'There's Nothing You Can Do About AI'",
+            "url": "https://petapixel.com/2026/07/15/george-lucas-says-theres-nothing-you-can-do-about-ai/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2026/07/George-Lucas.jpg",
+            "publishedAt": "2026-07-15T11:09:40Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "Scientists Are Rewriting The Economics Of Deep Tech",
+            "url": "https://www.forbes.com/councils/forbesfinancecouncil/2026/07/15/the-self-driving-lab-how-ai-co-scientists-are-rewriting-the-economics-of-deep-tech/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6848362609df89b83dde24b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-07-15T11:00:00Z"
+        },
         {
             "source": {
                 "id": "e553cce06d349ac1f7fbb7618a979256",
@@ -600,6 +672,15 @@
             "url": "https://www.caixinglobal.com/2026-07-15/china-unveils-sweeping-health-care-plan-to-curb-mega-hospitals-and-boost-ai-102464367.html",
             "urlToImage": "https://img.caixin.com/2026-07-14/178400538347748_560_373.jpg",
             "publishedAt": "2026-07-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "mitsloanindia"
+            },
+            "title": "IBM Says It Faltered as AI Spending Upends Enterprise Buying",
+            "url": "https://mitsloanindia.com/article/ibm-says-it-faltered-as-ai-spending-upends-enterprise-buying",
+            "urlToImage": "https://mitsloanindia.com/wp-content/uploads/2026/03/IBM.jpg.jpeg",
+            "publishedAt": "2026-07-15 11:25:23"
         },
         {
             "source": {
@@ -3339,69 +3420,6 @@
             "url": "https://mitsloanindia.com/article/apple-openai-fight-signals-ais-hardware-shift",
             "urlToImage": "https://mitsloanindia.com/wp-content/uploads/2026/07/Open-AI-Lawsusit.jpg",
             "publishedAt": "2026-07-13 11:47:35"
-        },
-        {
-            "source": {
-                "name": "pcquest"
-            },
-            "title": "Acer Aspire 5 A514-54H review: Lightweight, capable, and ready for work",
-            "url": "https://www.pcquest.com/reviews/acer-aspire-5-a514-54h-review-12158743",
-            "urlToImage": "https://img-cdn.publive.online/pcq/media/media_files/2026/07/13/acer-aspire-5-a514-54h-review-2026-07-13-11-51-26.png",
-            "publishedAt": "2026-07-13 11:33:14"
-        },
-        {
-            "source": {
-                "name": "idahoednews_org"
-            },
-            "title": "Idaho’s AI draft standards aim to teach students when — and how — to use the technology",
-            "url": "https://www.idahoednews.org/news/idahos-ai-draft-standards-aim-to-teach-students-when-and-how-to-use-the-technology/",
-            "urlToImage": "https://www.idahoednews.org/wp-content/uploads/2023/12/IMG_1228-1180x787.jpg",
-            "publishedAt": "2026-07-13 11:00:40"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "When AI Writes Your Code, Who Owns The ‘Why’?",
-            "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/when-ai-writes-your-code-who-owns-the-why/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a4ecd83118a99486dc4d1a7/0x0.jpg?width=960",
-            "publishedAt": "2026-07-13 10:15:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "From Tech to AI: The First Billionaires Who Changed the World",
-            "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/from-tech-to-ai-the-first-billionaires-who-changed-the-world",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-07-13/4a6s1js7/From-Tech-to-AI-The-First-Billionaires-Who-Changed-the-World.jpg",
-            "publishedAt": "2026-07-13 10:03:00"
-        },
-        {
-            "source": {
-                "name": "business-standard"
-            },
-            "title": "AI memory explained: How smarter digital assistants reshape privacy debate",
-            "url": "https://www.business-standard.com/technology/artificial-intelligence/ai-memory-explained-how-smarter-digital-assistants-reshape-privacy-debate-126071300658_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/13/full/1783936702-8049.jpg",
-            "publishedAt": "2026-07-13 09:58:08"
-        },
-        {
-            "source": {
-                "name": "alltechmagazine"
-            },
-            "title": "The Top Agencies Shaping the AI & Robotics Narrative",
-            "url": "https://alltechmagazine.com/top-agencies-shaping-the-ai-robotics-narrative/",
-            "urlToImage": "https://alltechmagazine.com/wp-content/uploads/2026/07/AI-agencies.webp",
-            "publishedAt": "2026-07-13 07:38:12"
-        },
-        {
-            "source": {
-                "name": "newsbytesapp"
-            },
-            "title": "Memory chip shortage to peak in 2027, warns SK Hynix",
-            "url": "https://www.newsbytesapp.com/news/science/ai-driven-memory-chip-shortage-to-peak-in-2027-sk-hynix/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l16520260713120346.jpeg",
-            "publishedAt": "2026-07-13 06:37:10"
         }
     ]
 }
