@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-07-15T21:55:14.645971Z",
+    "lastUpdatedAt": "2026-07-15T22:55:13.947925Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Australia to Impose Energy, Water Guardrails on Data Centers Amid A.I. Boom",
+            "url": "https://www.nytimes.com/2026/07/15/world/asia/australia-artificial-intelligence-guardrails.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/07/15/multimedia/15int-oz-ai-plan-01-mkpb/15int-oz-ai-plan-01-mkpb-facebookJumbo.jpg",
+            "publishedAt": "2026-07-15T10:52:34Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Australia to Impose Energy and Water Guardrails on Data Centers Amid A.I. Boom",
+            "url": "https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/07/15/multimedia/15int-oz-ai-plan-01-mkpb/15int-oz-ai-plan-01-mkpb-facebookJumbo.jpg",
+            "publishedAt": "2026-07-15T10:52:34Z"
+        },
+        {
+            "source": {
+                "id": "63fec970d50112ee9b8bc1418d9c5872",
+                "name": "Scientific Computing World",
+                "url": "https://www.scientific-computing.com",
+                "country": "us"
+            },
+            "title": "why data foundations matter more than algorithms",
+            "url": "https://www.scientific-computing.com/article/ai-readiness-why-data-foundations-matter-more-algorithms",
+            "urlToImage": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
+            "publishedAt": "2026-07-15T10:39:34Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Is The Rise Of AI Fatigue Beginning To Drive S&P 500 Lower?",
+            "url": "https://www.benzinga.com/Opinion/26/07/60462632/is-rise-of-ai-fatigue-beginning-to-drive-sp500-lower",
+            "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/15/SP-500.jpg",
+            "publishedAt": "2026-07-15T10:19:47Z"
+        },
+        {
+            "source": {
+                "id": "34cc62608b4607dc3a776802caadb7bd",
+                "name": "ThePrint",
+                "url": "https://theprint.in",
+                "country": "in"
+            },
+            "title": "J'khand Guv calls upon tech institutions to emerge powerful centres for innovation, research",
+            "url": "https://theprint.in/india/jkhand-guv-calls-upon-tech-institutions-to-emerge-powerful-centres-for-innovation-research/2987132/",
+            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+            "publishedAt": "2026-07-15T10:19:27Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "U.S. Workers Are Becoming More Productive Than Ever. Economists Say AI Isn't the Main Reason Yet",
+            "url": "https://www.ibtimes.com/us-workers-are-becoming-more-productive-ever-economists-say-ai-isnt-main-reason-yet-3805276",
+            "urlToImage": "https://d.ibtimes.com/en/full/4566609/factory-worker.jpg",
+            "publishedAt": "2026-07-15T10:03:01Z"
+        },
         {
             "source": {
                 "id": "530b8080433a018c4a490dc7cbefce4a",
@@ -528,6 +600,15 @@
             "url": "https://www.caixinglobal.com/2026-07-15/china-unveils-sweeping-health-care-plan-to-curb-mega-hospitals-and-boost-ai-102464367.html",
             "urlToImage": "https://img.caixin.com/2026-07-14/178400538347748_560_373.jpg",
             "publishedAt": "2026-07-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cioinfluence"
+            },
+            "title": "Cloudera and VAST Data Announce Strategic Partnership to Deliver AI Data Platform Anywhere",
+            "url": "https://cioinfluence.com/machine-learning/cloudera-and-vast-data-announce-strategic-partnership-to-deliver-ai-data-platform-anywhere/",
+            "urlToImage": "https://cioinfluence.com/wp-content/uploads/2026/07/HDStockImages.com-5GNqBg.jpg",
+            "publishedAt": "2026-07-15 10:43:08"
         },
         {
             "source": {
@@ -3321,72 +3402,6 @@
             "url": "https://www.newsbytesapp.com/news/science/ai-driven-memory-chip-shortage-to-peak-in-2027-sk-hynix/story",
             "urlToImage": "https://i.cdn.newsbytesapp.com/images/l16520260713120346.jpeg",
             "publishedAt": "2026-07-13 06:37:10"
-        },
-        {
-            "source": {
-                "name": "firstpost"
-            },
-            "title": "'Reverse Information Paradox': Microsoft CEO Satya Nadella warns AI could cost businesses more than they realise",
-            "url": "https://www.firstpost.com/tech/reverse-information-paradox-microsoft-ceo-satya-nadella-warns-ai-could-cost-businesses-more-than-they-realise-14030965.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/06/Satya-Nadella-from-Build-Confrence-2026-06-f83c9fb1d1d923ffcf5524b6207fcd07.jpg",
-            "publishedAt": "2026-07-13 06:30:35"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Scammers are now cloning trusted news websites to steal your money",
-            "url": "https://us.headtopics.com/news/scammers-are-now-cloning-trusted-news-websites-to-steal-85514790",
-            "urlToImage": "https://i.headtopics.com/images/2026/7/13/digitaltrends/scammers-are-now-cloning-trusted-news-websites-to--scammers-are-now-cloning-trusted-news-websites-to--863F16106E3F74AF0577F810CEE742D1.webp",
-            "publishedAt": "2026-07-13 04:37:31"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Zapata Quantum Bets Software, AI Partnerships Will Unlock Quantum Computing Value",
-            "url": "https://www.thelincolnianonline.com/2026/07/13/zapata-quantum-bets-software-ai-partnerships-will-unlock-quantum-computing-value.html",
-            "urlToImage": "https://www.marketbeat.com/logos/zapata-quantum-logo-1200x675.png?v=20260317112023",
-            "publishedAt": "2026-07-13 04:02:45"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Scammers are now cloning trusted news websites to steal your money",
-            "url": "https://www.digitaltrends.com/computing/scammers-are-now-cloning-trusted-news-websites-to-steal-your-money/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-13T092816.994.jpg?resize=440%2C292",
-            "publishedAt": "2026-07-13 04:01:47"
-        },
-        {
-            "source": {
-                "name": "hospitalitynews_in"
-            },
-            "title": "McDonald’s and Accenture: Pioneering Tech Transformation for a Seamless Future",
-            "url": "https://hospitalitynews.in/news/mcdonalds-and-accenture-pioneering-tech-transformation-for-a-seamless-future",
-            "urlToImage": "https://hospitalitynews.in/uploads/images/202312/image_870x580_658aca2078ec9.jpg",
-            "publishedAt": "2026-07-13 00:00:00"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "Daily 'AI for Work' Pulse: 13th of July",
-            "url": "https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-13th-of-july-2/",
-            "urlToImage": "https://cdn.completeaitraining.com/newsletters/newsletter_2026-07-13_ghostwebsite.png",
-            "publishedAt": "2026-07-13 00:00:00"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "The Week in Breakingviews: Causes of correlation",
-            "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-07-12/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/XUSYUVG45ZI6LFZT2TSG6RPWAQ.jpg?auth=fda97f09fba9db7b896ec7132e92fb4ec69fba24c7e3830cda17b3b577596e1b&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-07-12T22:45:29Z"
         }
     ]
 }
