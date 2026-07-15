@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-07-15T13:26:28.431529Z",
+    "lastUpdatedAt": "2026-07-15T15:23:29.557146Z",
     "articles": [
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Albanese hits data centres with grid mandate in major AI pivot",
+            "url": "https://www.afr.com/technology/albanese-hits-data-centres-with-grid-mandate-in-major-ai-pivot-20260715-p60fg6",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.8454%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_386%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e0f1d47add74988f739d4ab165632f229de6d2ea",
+            "publishedAt": "2026-07-15T03:03:27Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Plug and Play Announces a Strategic Partnership with Thales to Support Global Expansion of Deep-Tech Startups through Trust My Tech Program",
+            "url": "https://www.manilatimes.net/2026/07/15/tmt-newswire/pr-newswire/plug-and-play-announces-a-strategic-partnership-with-thales-to-support-global-expansion-of-deep-tech-startups-through-trust-my-tech-program/2384681",
+            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-07-15T02:26:00Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "AI infrastructure company unveils plans for Callaway County data center",
+            "url": "https://abc17news.com/news/top-stories/2026/07/14/ai-infrastructure-company-unveils-plans-for-callaway-county-data-center/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/07/Screenshot-2026-07-14-at-8.49.04-PM.png",
+            "publishedAt": "2026-07-15T01:59:22Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "US steps up AI, minerals race against China",
+            "url": "https://www.lokmattimes.com/international/us-steps-up-ai-minerals-race-against-china/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607153864587_202607.jpg",
+            "publishedAt": "2026-07-15T01:40:24Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Publishers accuse Google of stealing copyrighted content in new lawsuit",
+            "url": "https://economictimes.indiatimes.com/news/international/global-trends/publishers-accuse-google-of-stealing-copyrighted-content-in-new-lawsuit/articleshow/132403807.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132403810,width-1200,height-630,imgsize-41876,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-15T01:35:00Z"
+        },
         {
             "source": {
                 "id": "f2ddccedc9e60d844e7a1045928cad48",
@@ -3321,57 +3381,6 @@
             "url": "https://us.headtopics.com/news/i-spent-a-fortune-on-a-copilot-pc-and-i-ve-barely-ever-85495305",
             "urlToImage": "https://i.headtopics.com/images/2026/7/12/digitaltrends/i-spent-a-fortune-on-a-copilot-pc-and-i-ve-barely--i-spent-a-fortune-on-a-copilot-pc-and-i-ve-barely--0D758EB2FDB9BA0B92E11EF1CBD298BE.webp",
             "publishedAt": "2026-07-12 10:37:39"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-            "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-            "urlToImage": "https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/16:9/w_2400,h_1350,c_limit/Quantum%20Computing.jpg",
-            "publishedAt": "2026-07-12 10:00:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI",
-            "url": "https://www.digitaltrends.com/computing/i-spent-a-fortune-on-a-copilot-pc-and-ive-barely-ever-touched-microsofts-ai/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2025/11/windows-AigsWJmvoEo-unsplash.jpg?resize=440%2C292",
-            "publishedAt": "2026-07-12 09:53:30"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "What happens when AI detectors fail? Researchers say we must be trained to spot fake AI faces",
-            "url": "https://www.digitaltrends.com/computing/what-happens-when-ai-detectors-fail-researchers-say-we-must-be-trained-to-spot-fake-ai-faces/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2019/11/mark-zuckerberg-deepfake-feature.jpg?resize=440%2C292",
-            "publishedAt": "2026-07-12 01:44:26"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "AGA launches AI-powered virtual assistant for gastroenterology and hepatology care",
-            "url": "https://www.news-medical.net/news/20260711/AGA-launches-AI-powered-virtual-assistant-for-gastroenterology-and-hepatology-care.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Gastroenterology-620x480.jpg",
-            "publishedAt": "2026-07-11T19:05:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "The gap between forecasts and reality can change public emotions during disasters",
-            "url": "https://phys.org/news/2026-07-gap-reality-emotions-disasters.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-gap-between-foreca.jpg",
-            "publishedAt": "2026-07-11T19:00:04Z"
         }
     ]
 }
