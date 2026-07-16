@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-07-16T08:04:39.070882Z",
+    "lastUpdatedAt": "2026-07-16T10:54:03.328259Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Cadence rolls out AI agent to speed circuit board, chip packaging design",
+            "url": "https://www.reuters.com/business/cadence-rolls-out-ai-agent-speed-circuit-board-chip-packaging-design-2026-07-15/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/FVP6VKOPT5LJXOIQMZVH7IKKMI.jpg?auth=ee4628bfcaace073e9fbd7b8333f6fa2e723102af7ca7107ab2ac29873d99e94&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-15T22:32:01Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "India, EU strengthen strategic partnership at 3rd TTC; announce cooperation in AI, semiconductors, clean technologies",
+            "url": "https://www.tribuneindia.com/news/world/india-eu-strengthen-strategic-partnership-at-3rd-ttc-announce-cooperation-in-ai-semiconductors-clean-technologies/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBlMzY5M2EwLTgwOWItMTFmMS1hMjIxLWM3MTFjYjk5YTdlZS5qcGc=",
+            "publishedAt": "2026-07-15T22:18:01Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "EU Trade and Technology Council advances cooperation across 3 key working groups on tech, clean energy, trade",
+            "url": "https://www.tribuneindia.com/news/world/india-eu-trade-and-technology-council-advances-cooperation-across-3-key-working-groups-on-tech-clean-energy-trade/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE4NmZiMjAwLTgwOTktMTFmMS1hMjIxLWM3MTFjYjk5YTdlZS5qcGc=",
+            "publishedAt": "2026-07-15T22:08:01Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "Quebec and Alberta plan to work together to integrate AI in government",
+            "url": "https://www.sootoday.com/national-news/quebec-and-alberta-plan-to-work-together-to-integrate-ai-in-government-12551305",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/91905bda1f05ed62fd841ed917e66a4c7e7a40506c232cf281e0c17995e08e56.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-07-15T21:43:24Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "Quebec and Alberta plan to work together to integrate AI in government",
+            "url": "https://www.baytoday.ca/national-news/quebec-and-alberta-plan-to-work-together-to-integrate-ai-in-government-12551305",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/91905bda1f05ed62fd841ed917e66a4c7e7a40506c232cf281e0c17995e08e56.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-07-15T21:43:24Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Cancer clinicians welcome AI that supports human expertise",
+            "url": "https://medicalxpress.com/news/2026-07-cancer-clinicians-ai-human-expertise.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/radiotherapy.jpg",
+            "publishedAt": "2026-07-15T20:20:07Z"
+        },
         {
             "source": {
                 "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
@@ -1020,6 +1092,42 @@
             "url": "https://www.caixinglobal.com/2026-07-15/china-unveils-sweeping-health-care-plan-to-curb-mega-hospitals-and-boost-ai-102464367.html",
             "urlToImage": "https://img.caixin.com/2026-07-14/178400538347748_560_373.jpg",
             "publishedAt": "2026-07-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "rutlandherald"
+            },
+            "title": "Cadence Introduces AuraStack AI Super Agent, the World’s First Agentic AI Platform for PCB and Advanced Packaging",
+            "url": "https://www.rutlandherald.com/news/business/cadence-introduces-aurastack-ai-super-agent-the-world-s-first-agentic-ai-platform-for-pcb/article_bd675f4d-40d3-56f0-b35d-72b5aa096fd7.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/assets/v3/editorial/f/37/f372ad18-cadc-5ebc-945f-4c4e74044de0/6a580bb8c9580.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-07-15 22:30:18"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Cadence Introduces AuraStack AI Super Agent, the World’s First Agentic AI Platform for PCB and Advanced Packaging",
+            "url": "https://www.postregister.com/businessreport/technology/cadence-introduces-aurastack-ai-super-agent-the-world-s-first-agentic-ai-platform-for-pcb/article_900d6900-8bc9-5642-bbfa-15f7edadd9f1.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/8/5f/85f93e35-8f8c-56d5-8fa6-e4e52868239a/6a580bb554c5f.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-07-15 22:30:18"
+        },
+        {
+            "source": {
+                "name": "norfolkdailynews"
+            },
+            "title": "Cadence Introduces AuraStack AI Super Agent, the World’s First Agentic AI Platform for PCB and Advanced Packaging",
+            "url": "https://norfolkdailynews.com/online_features/press_releases/cadence-introduces-aurastack-ai-super-agent-the-world-s-first-agentic-ai-platform-for-pcb/article_d411119f-509c-5621-bc7d-61bd5d550c14.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/2/b3/2b3b4068-b72d-5d8c-af15-86de1c8f4710/6a58159d2b42e.image.png",
+            "publishedAt": "2026-07-15 22:30:00"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "GigaIO’s Gryf and Manticore Earn Nutanix Validation for Enterprise AI and Kubernetes Workloads",
+            "url": "https://www.hpcwire.com/off-the-wire/gigaios-gryf-and-manticore-earn-nutanix-validation-for-enterprise-ai-and-kubernetes-workloads/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2023/11/GIGAIO.jpg",
+            "publishedAt": "2026-07-15 22:05:04"
         },
         {
             "source": {
@@ -3312,126 +3420,6 @@
             "url": "https://apnews.com/article/ai-inflation-federal-reserve-434f02e62a02f9b92e57995d9375df57",
             "urlToImage": "https://dims.apnews.com/dims4/default/cfae71b/2147483647/strip/true/crop/3657x2437+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1c%2F62%2F6478db5a29a2e2389f40d106c34e%2F53412e7a108a463fb005a1b5e0229ccd",
             "publishedAt": "2026-07-13T10:17:16Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "White House to rally utilities, data centers over AI power costs",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/13/white-house-to-rally-utilities-data-centers-over-ai-power-costs",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/13/4008124.jpg",
-            "publishedAt": "2026-07-13T10:13:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Chinese President Xi Jinping to deliver keynote speech at 2026 World AI Conference in Shanghai",
-            "url": "https://www.tribuneindia.com/news/business/chinese-president-xi-jinping-to-deliver-keynote-speech-at-2026-world-ai-conference-in-shanghai/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNkZmVkZGYwLTdlYTItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-13T10:08:26Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Meta expands Louisiana data center to 5 gigawatts compute capacity",
-            "url": "https://economictimes.indiatimes.com/tech/technology/meta-expands-louisiana-data-center-to-5-gigawatts-compute-capacity/articleshow/132363303.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-73124,resizemode-75,msid-132363303/tech/technology/meta-expands-louisiana-data-center-to-5-gigawatts-compute-capacity.jpg",
-            "publishedAt": "2026-07-13T10:08:04Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "Artificial intelligence, leadership take centre stage at Waves 2026",
-            "url": "https://www.thehindubusinessline.com/news/artificial-intelligence-leadership-take-centre-stage-at-waves-2026/article71216821.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/w9nfph/article71216809.ece/alternates/LANDSCAPE_1200/PMI%20WAVES%20Inauguration.jpg",
-            "publishedAt": "2026-07-13T10:06:54Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "White House to rally utilities, data centers over AI power costs",
-            "url": "https://www.reuters.com/legal/litigation/white-house-rally-utilities-data-centers-over-ai-power-costs-2026-07-13/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/NQTZBJPUPFIFLJQB4XPJXIP2WA.jpg?auth=a3c8d4c9dcb5fb04c8cf97f2ff09b7ebee5f38d20549845944d07eb4ee9be3c9&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-07-13T10:05:08Z"
-        },
-        {
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            },
-            "title": "Across Canada, the fight against artificial intelligence goes offline",
-            "url": "https://www.theglobeandmail.com/canada/article-fight-against-artificial-intelligence-canada/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/3ZG6D3PLOBAGXFTEMX7ZRZTPR4.JPG?auth=6b78361fc77ff3aa637abf74ae4f0aeee55d2f9a57a3648891c0ba0980010d8b&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2026-07-13T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Chipmaker TSMC sees 36% growth in sales, 68% surge in June revenues amid sustained global demand for AI hardware",
-            "url": "https://www.livemint.com/companies/news/chipmaker-tsmc-sees-36-growth-in-sales-68-surge-in-june-revenues-amid-sustained-global-demand-for-ai-hardware-11783933977062.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/13/1600x900/logo/TSMC-RESULTS--0_1783935060321_1783935092698_5a9f45bd-6f05-4c60-8e32-7545404b94bd.JPG",
-            "publishedAt": "2026-07-13T09:36:10Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "based cyberattacks replacing traditional hacking as biggest threat to financial institutions: Report",
-            "url": "https://www.tribuneindia.com/news/business/trust-based-cyberattacks-replacing-traditional-hacking-as-biggest-threat-to-financial-institutions-report/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ2MmFlZWEwLTdlOWQtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-13T09:28:50Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "India’s push to upskill workers for an AI-powered future",
-            "url": "https://www.channelnewsasia.com/watch/indias-push-upskill-workers-ai-powered-future-6250616",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--9y3s1Q10--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/13/1783931236-image.jpg?itok=hXozhIhY",
-            "publishedAt": "2026-07-13T09:24:53Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "TCS takes on OpenAI, Anthropic, Amazon and Microsoft; to build a team of forward-deployed engineers; CEO K Krithivasan says: We would be ensuring ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/tcs-takes-on-openai-anthropic-amazon-and-microsoft-to-build-a-team-of-forward-deployed-engineers-ceo-k-krithivasan-says-we-would-be-ensuring-/articleshow/132362389.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132362387,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-13T09:23:00Z"
         }
     ]
 }
