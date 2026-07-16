@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-07-16T14:56:16.118646Z",
+    "lastUpdatedAt": "2026-07-16T16:15:33.298003Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Europe Wants to Break Free From American and Chinese Technology. But How?",
+            "url": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/07/11/multimedia/11int-Europe-AI-hzbl/11int-Europe-AI-hzbl-facebookJumbo.jpg",
+            "publishedAt": "2026-07-16T04:01:08Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "China's Grand Vision for AI Governance: A New World Stage",
+            "url": "https://www.devdiscourse.com/article/technology/3951010-chinas-grand-vision-for-ai-governance-a-new-world-stage",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/19_05_2025_12_39_11_9918184.png&width=920&format=jpeg",
+            "publishedAt": "2026-07-16T03:41:22Z"
+        },
         {
             "source": {
                 "id": "85b540771682043e2a9f294068f5345b",
@@ -1346,6 +1370,15 @@
             "title": "SIGGRAPH 2026 Returns to Los Angeles, Spotlighting Southern California's Computer Graphics Community",
             "url": "https://www.aspendailynews.com/online_features/press_releases/siggraph-2026-returns-to-los-angeles-spotlighting-southern-californias-computer-graphics-community/article_29eb2b22-2520-5aef-a4fb-dff17e0b857b.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/aspendailynews.com/content/tncms/assets/v3/editorial/f/68/f6857f86-b29a-5add-9bd4-4d4d068383a3/6a5898ddea3b1.image.jpg?resize=300%2C200",
+            "publishedAt": "2026-07-15 23:15:00"
+        },
+        {
+            "source": {
+                "name": "dailyrepublic"
+            },
+            "title": "SIGGRAPH 2026 Returns to Los Angeles, Spotlighting Southern California's Computer Graphics Community",
+            "url": "https://www.dailyrepublic.com/online_features/press_releases/siggraph-2026-returns-to-los-angeles-spotlighting-southern-californias-computer-graphics-community/article_391d7b22-1ee3-5da0-b8da-ad6a3a934fa0.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailyrepublic.com/content/tncms/assets/v3/editorial/7/31/7315f976-1af3-5975-a113-d70bc5fc74bd/6a58a5dd836bf.image.jpg?resize=300%2C200",
             "publishedAt": "2026-07-15 23:15:00"
         },
         {
@@ -3360,42 +3393,6 @@
             "url": "https://www.cleveland.com/shopping/2026/07/dyson-drops-impressive-new-airwrap-with-gen2-motor-that-curls-your-unique-hair-type-using-ai.html",
             "urlToImage": "https://www.cleveland.com/resizer/v2/PVHCKWP555C4FHMOTJR5A5Q7ZA.png?auth=660cb019366bef5c8a9b01e5627780d94e2922183d045b6e662da1ba5fc0e569&width=1280&smart=true&quality=90",
             "publishedAt": "2026-07-13T17:57:20Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Labels for Music Created With A.I. Could Join Explicit Lyrics Warnings",
-            "url": "https://www.nytimes.com/2026/07/13/arts/music/ai-labels-warnings-riaa.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/07/13/multimedia/13cul-ai-music-labels-cphb/13cul-ai-music-labels-cphb-facebookJumbo.jpg",
-            "publishedAt": "2026-07-13T17:32:29Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "Ravee Optics raises $6 million to meet growing AI demand for faster data transfers in space",
-            "url": "https://techstartups.com/2026/07/13/ravee-optics-raises-6-million-to-meet-growing-ai-demand-for-faster-data-transfers-in-space/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2026/07/Ravee-Optics-Raises-6-Million-Seed-Funding-Round-960x544.jpg",
-            "publishedAt": "2026-07-13T17:29:26Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Trump Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?",
-            "url": "https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/07/13/multimedia/00dc-equity-stake-jlmt/00dc-equity-stake-jlmt-facebookJumbo.jpg",
-            "publishedAt": "2026-07-13T17:26:22Z"
         }
     ]
 }
