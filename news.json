@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-07-17T08:01:31.742685Z",
+    "lastUpdatedAt": "2026-07-17T10:41:54.164142Z",
     "articles": [
+        {
+            "source": {
+                "id": "2b5db686603d0197d748f18d2dc01aec",
+                "name": "Bloomberg Tax News",
+                "url": "https://news.bloombergtax.com",
+                "country": "us"
+            },
+            "title": "Appeals Court Warns Bankruptcy Lawyer Over Alleged AI Citations",
+            "url": "https://news.bloombergtax.com/daily-tax-report/appeals-court-warns-bankruptcy-lawyer-over-alleged-ai-citations",
+            "urlToImage": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+            "publishedAt": "2026-07-16T22:02:14Z"
+        },
+        {
+            "source": {
+                "id": "435d508bebcc8689d5c7711d44865b80",
+                "name": "Activist Post",
+                "url": "https://www.activistpost.com",
+                "country": "us"
+            },
+            "title": "Rising AI Demand Drives Surge in Data Center Water Consumption, Reports Indicate",
+            "url": "https://www.activistpost.com/rising-ai-demand-drives-surge-in-data-center-water-consumption-reports-indicate/",
+            "urlToImage": "https://www.activistpost.com/wp-content/uploads/2026/07/ai-demand-data-center-water-consumption-cooling-systems-2542-original.jpg",
+            "publishedAt": "2026-07-16T22:00:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US judge warns Justice Department about AI use in immigration case",
+            "url": "https://www.reuters.com/legal/government/us-judge-warns-justice-department-about-ai-use-immigration-case-2026-07-16/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/AJSNZE3B5BLJ5JSAZD5MUOZXFE.jpg?auth=355a4c1f258a00cdf09911f7f456e2c54f77996d9148225d2808581f4ef37520&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-16T21:57:24Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "MLB effectively outlaws use of AI on dugout iPads during games",
+            "url": "https://www.foxnews.com/sports/mlb-effectively-outlaws-use-ai-dugout-ipads-games",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Stanton-and-Judge-on-iPad.jpg",
+            "publishedAt": "2026-07-16T21:55:04Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "AI humanoid robotics company sets up shop in Fremont",
+            "url": "https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/07/SJM-L-FMTROBOTICS-02.jpg?w=1024&h=834",
+            "publishedAt": "2026-07-16T21:22:16Z"
+        },
+        {
+            "source": {
+                "id": "4ee8a93f92a1be4ced3de6f96b13bcca",
+                "name": "Africanews",
+                "url": "https://www.africanews.com",
+                "country": "fr"
+            },
+            "title": "Humanoid robots and smart homes put AI centre stage at VivaTech 2026 in Paris",
+            "url": "https://www.africanews.com/2026/06/18/humanoid-robots-and-smart-homes-put-ai-centre-stage-at-vivatech-2026-in-paris/",
+            "urlToImage": "https://www.africanews.com/favicon-32x32.png?v=3",
+            "publishedAt": "2026-07-16T20:59:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Xi to present China's AI dream at major conference",
+            "url": "https://www.manilatimes.net/2026/07/17/world/xi-to-present-chinas-ai-dream-at-major-conference/2386291",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/17/1140623.jpg",
+            "publishedAt": "2026-07-16T20:51:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "China's Xi says AI should not be dominated by one country",
+            "url": "https://www.breitbart.com/news/chinas-xi-says-ai-should-not-be-dominated-by-one-country/",
+            "urlToImage": "https://media.breitbart.com/media/2026/07/wi/afp/chinese-ai-models-catching-up-powerful-offerings-united-chinese-ai-models-catching-640x335.jpg",
+            "publishedAt": "2026-07-16T20:34:12Z"
+        },
         {
             "source": {
                 "id": "458ddf355ab77631d3eb3dd84a0351b4",
@@ -1128,6 +1224,60 @@
             "url": "https://www.naturalnews.com/2026-07-16-chinese-startup-3d-chip-architecture-bypass-restrictions.html",
             "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/3d-chip-architecture-us-export-restrictions-dongfang-suanxin-2723-original.jpg",
             "publishedAt": "2026-07-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
+            "url": "https://www.bundle.app/en/technology/elon-musks-memphis-ai-empire-is-the-epicenter-of-the-data-center-backlash-3F9E79CB-697C-454F-9405-3F1772B10E7E",
+            "urlToImage": "https://static.bundle.app/news/2ef0a33a-5722-53f7-817a-a85edef33eea.jpg",
+            "publishedAt": "2026-07-16 22:35:59"
+        },
+        {
+            "source": {
+                "name": "cnbc"
+            },
+            "title": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
+            "url": "https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108334424-1783985707375-Loretta_house_drone.jpg?v=1784162359&w=1200&h=675",
+            "publishedAt": "2026-07-16 22:09:55"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "Physics-Augmented Diffusion Modeling for planetary geology survey missions across multilingual stakeholder groups",
+            "url": "https://www.bundle.app/en/technology/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-across-multilingual-stakeholder-groups-8EFB6DDB-C59E-460D-B4DB-009B09905505",
+            "urlToImage": "https://static.bundle.app/news/1cc17f60-dd77-5e20-9ada-dfc073640627.jpg",
+            "publishedAt": "2026-07-16 22:06:06"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "Cadence Launches AuraStack AI Super Agent for PCB and Packaging Design",
+            "url": "https://www.hpcwire.com/off-the-wire/cadence-launches-aurastack-ai-super-agent-for-pcb-and-packaging-design/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2026/07/J61804_AuraStack_AI_Super_Agent_Creative_Final.jpg",
+            "publishedAt": "2026-07-16 21:53:36"
+        },
+        {
+            "source": {
+                "name": "freep"
+            },
+            "title": "What to know about data centers as citizens demand more regulations",
+            "url": "https://www.freep.com/story/news/environment/2026/07/16/data-center-protests-planned-what-to-know-about-these-developments/90943926007/",
+            "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2026/07/15/PDTF/90932803007-071426-dowagiacdatacenter-007.jpg?crop=2399,1350,x0,y240&width=1600&height=800&format=pjpg&auto=webp",
+            "publishedAt": "2026-07-16 20:29:20"
+        },
+        {
+            "source": {
+                "name": "moneycontrol"
+            },
+            "title": "Xi Jinping to present China's AI dream at major conference",
+            "url": "https://www.moneycontrol.com/world/xi-to-present-china-s-ai-dream-at-major-conference-article-13976133.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/03/20250318024250_Xi-Jinping-AFP-photo.jpg",
+            "publishedAt": "2026-07-16 20:23:22"
         },
         {
             "source": {
@@ -3249,174 +3399,6 @@
             "url": "https://www.mercurynews.com/2026/07/14/massive-ai-buildout-poses-latest-inflation-threat-as-consumers-pay-more-for-laptops-and-electricity/",
             "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/07/Apple_Mac_Price_Hikes__4357-1.jpg?w=1024&h=683",
             "publishedAt": "2026-07-14T13:35:05Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "AI uncertainty is rising. So is investor conviction",
-            "url": "https://www.reuters.com/commentary/reuters-open-interest/ai-uncertainty-is-rising-so-is-investor-conviction-2026-07-14/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/QNVCI74YOVMQZHUK76XZFEH6W4.jpg?auth=b5121bf0ca553e331925a67a2a37432ca30feefabb236a5a40b6ad5ac8faea8f&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-07-14T13:34:31Z"
-        },
-        {
-            "source": {
-                "id": "0c047612bc7bc0113342d2651f47b208",
-                "name": "GB News",
-                "url": "https://www.gbnews.com",
-                "country": "gb"
-            },
-            "title": "'Christianity holds everything together!' Jonathan Pageau's STARK WARNING on faith, AI and civilisation",
-            "url": "https://www.gbnews.com/news/christianity-ai-faith-jonathan-pageau-warning",
-            "urlToImage": "https://www.gbnews.com/media-library/image.png?id=67154126&width=1200&height=600&coordinates=0%2C0%2C0%2C120",
-            "publishedAt": "2026-07-14T13:28:13Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "New York imposes the first statewide ban on large data centers",
-            "url": "https://www.mercurynews.com/2026/07/14/new-york-data-center-moratorium/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/07/Data_Center_Moratorium_New_York_9526_.jpg?w=1024&h=682",
-            "publishedAt": "2026-07-14T13:22:54Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Hyperlink InfoSystem Helps Businesses Reduce AI Implementation Risks Through Strategic Planning",
-            "url": "https://www.prnewswire.co.uk/news-releases/hyperlink-infosystem-helps-businesses-reduce-ai-implementation-risks-through-strategic-planning-302824754.html",
-            "urlToImage": "https://mmx.prnewswire.com/media/MS1566012/Hyperlink-InfoSystem-Logo.jpg?id=OA2762049&p=facebook",
-            "publishedAt": "2026-07-14T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI economy must protect workers; BMS seeks fairer growth model",
-            "url": "https://timesofindia.indiatimes.com/india/ai-economy-must-protect-workers-bms-seeks-fairer-growth-model/articleshow/132392268.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132392382,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-14T12:56:00Z"
-        },
-        {
-            "source": {
-                "id": "9962a9b594044b42e892f4760e2dfd7e",
-                "name": "Sputnik News",
-                "url": "https://sputnikglobe.com",
-                "country": "ru"
-            },
-            "title": "AI Boom Fuels Air Cargo Surge as Semiconductors, High-Tech Electronics Spark Upswing",
-            "url": "https://sputnikglobe.com/20260714/ai-boom-fuels-air-cargo-surge-as-semiconductors-high-tech-electronics-spark-upswing-1124445976.html",
-            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124445976.jpg?10825399951784048162",
-            "publishedAt": "2026-07-14T12:51:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Google AI CEO Demis Hassabis and OpenAI CEO Sam Altman do not agree on how AI can be made safe; says: I have spent my whole life working on ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ai-ceo-demis-hassabis-and-openai-ceo-sam-altman-do-not-agree-on-how-ai-can-be-made-safe-says-i-have-spent-my-whole-life-working-on-/articleshow/132392257.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132392258,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-14T12:50:00Z"
-        },
-        {
-            "source": {
-                "id": "a6eca0d46b8950e7f02b79d1f1477607",
-                "name": "BreakingNews.ie",
-                "url": "https://www.breakingnews.ie",
-                "country": "ie"
-            },
-            "title": "The Script frontman backs Sinn Féin’s artificial intelligence motion",
-            "url": "https://www.breakingnews.ie/ireland/the-script-frontman-backs-sinn-feins-artificial-intelligence-motion-1926652.html",
-            "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTQxMjM4NDdcXFwvMi44Mjg4NjA1My5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImNmZjYwN2E3NWIzMGU5MmM0NGFhYWVlYzdkMmMwMzVmNmJhZjIwYWMifQ==/the-script-frontman-backs-sinn-fin-s-artificial-intelligence-motion.jpg",
-            "publishedAt": "2026-07-14T11:43:49Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Lower-skilled workers could earn more in an AI world, research indicates",
-            "url": "https://phys.org/news/2026-07-skilled-workers-ai-world.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/carpenter-1.jpg",
-            "publishedAt": "2026-07-14T11:40:03Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "High-Yield Opportunities From AI Investments, Fat Monthly Income",
-            "url": "https://seekingalpha.com/article/4921476-high-yield-opportunities-from-ai-investments-fat-monthly-income",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2229574852/image_2229574852.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-07-14T11:35:00Z"
-        },
-        {
-            "source": {
-                "id": "027234d3c0a6aefa3d7ab81380e63d86",
-                "name": "LBC",
-                "url": "https://www.lbc.co.uk",
-                "country": "gb"
-            },
-            "title": "The Script frontman backs Sinn Féin’s artificial intelligence motion",
-            "url": "https://www.lbc.co.uk/article/a6612b83b2c043bc8edd224d4ca431d4-5HjddZZ_2/",
-            "urlToImage": "https://images.globalplayer.com/images/827942?crop=16_9&width=1200&signature=BzE1vj-CMsyOtdCt4NC6cWSVHFA=",
-            "publishedAt": "2026-07-14T11:34:05Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "New York becomes first US state to impose a data center moratorium",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-york-becomes-first-us-state-to-impose-a-data-center-moratorium/articleshow/132390158.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-116608,resizemode-75,msid-132390158/tech/artificial-intelligence/new-york-becomes-first-us-state-to-impose-a-data-center-moratorium.jpg",
-            "publishedAt": "2026-07-14T11:33:26Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "SoftBank Group's CEO says $5 trillion a year needed globally to meet AI demand",
-            "url": "https://www.barchart.com/story/news/3270244/softbank-group-s-ceo-says-5-trillion-a-year-needed-globally-to-meet-ai-demand",
-            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/e060a25d94bc472ca4cf7751f8e0f0b4/e060a25d94bc472ca4cf7751f8e0f0b4_main_japan_softbank_openai_35964.jpg",
-            "publishedAt": "2026-07-14T11:30:07Z"
-        },
-        {
-            "source": {
-                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-                "name": "SFGATE",
-                "url": "https://www.sfgate.com",
-                "country": "us"
-            },
-            "title": "SoftBank Group's CEO says $5 trillion a year needed globally to meet AI demand",
-            "url": "https://www.sfgate.com/news/world/article/softbank-group-s-ceo-says-5-trillion-a-year-22344385.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/66/65/00/31150110/3/rawImage.jpg",
-            "publishedAt": "2026-07-14T11:30:07Z"
         }
     ]
 }
