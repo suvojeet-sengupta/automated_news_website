@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-07-17T16:10:31.307745Z",
+    "lastUpdatedAt": "2026-07-17T18:00:42.401680Z",
     "articles": [
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "Why South Korea is racing to build a sovereign AI model for cybersecurity",
+            "url": "https://www.scmp.com/week-asia/politics/article/3360901/why-south-korea-racing-build-sovereign-ai-model-cybersecurity",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/17/85081fc2-98ac-4d1e-91ac-3a14528917ab_ec5f61f0.jpg?itok=4ZS3nfTG&v=1784267744",
+            "publishedAt": "2026-07-17T05:58:33Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "What makes an AI for Business programme relevant for working professionals in today's AI-first world",
+            "url": "https://timesofindia.indiatimes.com/education/what-makes-an-ai-for-business-programme-relevant-for-working-professionals-in-todays-ai-first-world/articleshow/132453623.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132453770,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-17T05:55:00Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "AI should not be a 'solo performance' but 'symphony of global collaboration' : Xi Jinping",
+            "url": "https://www.thehindu.com/news/international/ai-should-not-be-a-solo-performance-but-symphony-of-global-collaboration-xi-jinping/article71232848.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/w6cza8/article71232852.ece/alternates/LANDSCAPE_1200/2026-07-17T042447Z_732115653_RC2EFMA4DLWW_RTRMADP_3_CHINA-AI-XI.JPG",
+            "publishedAt": "2026-07-17T05:44:49Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "AI Cybersecurity Firm TAC InfoSec Sets INR 100 Crore Revenue Guidance for FY27, Q1 FY27 Results Total Income Rises 97% YoY, PAT Surges 137% YoY",
+            "url": "https://www.tribuneindia.com/news/business/ai-cybersecurity-firm-tac-infosec-sets-inr-100-crore-revenue-guidance-for-fy27-q1-fy27-results-total-income-rises-97-yoy-pat-surges-137-yoy/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWYxZGFjYmUwLTgxOWUtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+            "publishedAt": "2026-07-17T05:18:22Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "AI Firms Fuel San Francisco’s Office Market Recovery, Driving Record Leasing Demand Nationwide",
+            "url": "https://www.naturalnews.com/2026-07-17-ai-firms-fuel-san-franciscos-office-market-recovery.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/ai-companies-office-space-demand-san-francisco-2730-original.jpg",
+            "publishedAt": "2026-07-17T05:18:03Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "William Lee sees Fed on hold, backs India as long",
+            "url": "https://www.cnbctv18.com/market/william-lee-fed-on-hold-higher-oil-prices-india-investment-outlook-ai-gold-19947787.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/07/stock-market1-2026-07-69ab6f5fa2bf07ecae2467c18338829f.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-07-17T04:36:51Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "China Takes the Helm: Xi's Vision for Global AI Leadership",
+            "url": "https://www.devdiscourse.com/article/technology/3951654-china-takes-the-helm-xis-vision-for-global-ai-leadership",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/26_06_2026_12_40_10_2278969.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-07-17T04:14:10Z"
+        },
         {
             "source": {
                 "id": "94466d37d8c67a438250646866df36df",
@@ -27,6 +111,18 @@
         },
         {
             "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "After hundreds of layoffs and restructuring of engineering teams, Microsoft’s new security chief to employees in internal memo: Companies will be rewarded that...",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-hundreds-of-layoffs-and-restructuring-of-engineering-teams-microsofts-new-security-chief-to-employees-in-internal-memo-companies-will-be-rewarded-that-/articleshow/132451863.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132451859,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-17T03:39:00Z"
+        },
+        {
+            "source": {
                 "id": "a3391c15eb1d3136f9b9dd080940d0e8",
                 "name": "The Nation",
                 "url": "https://www.nation.com.pk",
@@ -48,6 +144,18 @@
             "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/17/china039s-xi-says-ai-should-not-be-dominated-by-one-country",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/17/4015125.JPG",
             "publishedAt": "2026-07-17T03:28:00Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "US warns voter databases vulnerable to cyber attacks",
+            "url": "https://www.lokmattimes.com/international/us-warns-voter-databases-vulnerable-to-cyber-attacks/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607173867291_202607.jpeg",
+            "publishedAt": "2026-07-17T03:01:21Z"
         },
         {
             "source": {
@@ -147,6 +255,42 @@
         },
         {
             "source": {
+                "name": "ndtv"
+            },
+            "title": "China's Xi Says AI Should Not Be Dominated By One Nation",
+            "url": "https://www.ndtv.com/world-news/chinas-xi-says-ai-should-not-be-dominated-by-one-nation-11782614",
+            "urlToImage": "https://c.ndtvimg.com/2026-06/qkmgfd98_chinese-president-xi-jinping-bbg_625x300_05_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+            "publishedAt": "2026-07-17 05:57:13"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Startups bet on AI - and a leaner future",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/startups-bet-on-ai-and-a-leaner-future/articleshow/132453344.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70200,resizemode-75,msid-132453344/tech/artificial-intelligence/startups-bet-on-ai-and-a-leaner-future.jpg",
+            "publishedAt": "2026-07-17 05:32:33"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Driving the Agentic AI Era: MiTAC Computing Showcases Comprehensive AI Infrastructure at WAIC",
+            "url": "https://www.prnewswire.com/apac/news-releases/driving-the-agentic-ai-era-mitac-computing-showcases-comprehensive-ai-infrastructure-at-waic-302827518.html",
+            "urlToImage": "https://mma.prnewswire.com/media/3006208/image1.jpg?p=original",
+            "publishedAt": "2026-07-17 05:30:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Driving the Agentic AI Era: MiTAC Computing Showcases Comprehensive AI Infrastructure at WAIC",
+            "url": "https://en.prnasia.com/story/541035-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/3006208/image1.jpg?p=medium600",
+            "publishedAt": "2026-07-17 05:30:00"
+        },
+        {
+            "source": {
                 "name": "headtopics"
             },
             "title": "China's Xi Jinping warns Shanghai summit against single-country dominance in AI",
@@ -162,6 +306,30 @@
             "url": "https://www.france24.com/en/asia-pacific/20260717-china-s-xi-urges-global-cooperation-on-ai-warns-against-single-country-dominance",
             "urlToImage": "https://s.france24.com/media/display/7d3f4e58-7525-11f1-a16a-005056bf30b7/w:1024/p:16x9/2026-07-01T024246Z-704518603-RC2Q4MACD9KM-RTRMADP-3-CHINA-POLITICS-ANNIVERSARY.jpg",
             "publishedAt": "2026-07-17 03:19:21"
+        },
+        {
+            "source": {
+                "id": "1a6c3258d04827f52d40713ad8166b1b",
+                "name": "Interesting Engineering",
+                "url": "https://interestingengineering.com",
+                "country": "us"
+            },
+            "title": "Humanoid robot tackles unseen terrain with a faster learning method",
+            "url": "https://interestingengineering.com/ai-robotics/georgia-tech-humanoid-robot-walks-rough-terrain",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/GT.jpg",
+            "publishedAt": "2026-07-16T23:46:45Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "Venture capital & startup funding roundup, July 16, 2026: 8VC, Accel, ARK Invest, GV, Khosla Ventures, Mark Cuban, and Sequoia Capital,",
+            "url": "https://techstartups.com/2026/07/16/venture-capital-startup-funding-roundup-july-16-2026-8vc-accel-ark-invest-gv-khosla-ventures-mark-cuban-and-sequoia-capital/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2026/07/Fireworks-founder-and-CEO-Lin-Qiao.jpg",
+            "publishedAt": "2026-07-16T23:23:02Z"
         },
         {
             "source": {
@@ -273,6 +441,18 @@
         },
         {
             "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Cycurion Receives Nasdaq Delisting Determination Letter; Appeal Underway, Trading to Continue, Focus on Shareholder Value",
+            "url": "https://www.manilatimes.net/2026/07/17/tmt-newswire/globenewswire/cycurion-receives-nasdaq-delisting-determination-letter-appeal-underway-trading-to-continue-focus-on-shareholder-value/2386288",
+            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-07-16T20:48:14Z"
+        },
+        {
+            "source": {
                 "id": "85b540771682043e2a9f294068f5345b",
                 "name": "Breitbart News Network",
                 "url": "https://www.breitbart.com",
@@ -282,6 +462,18 @@
             "url": "https://www.breitbart.com/news/chinas-xi-says-ai-should-not-be-dominated-by-one-country/",
             "urlToImage": "https://media.breitbart.com/media/2026/07/wi/afp/chinese-ai-models-catching-up-powerful-offerings-united-chinese-ai-models-catching-640x335.jpg",
             "publishedAt": "2026-07-16T20:34:12Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Whatnot Bets on AI Discovery With Acquisition of Shaped",
+            "url": "https://www.benzinga.com/markets/private-markets/26/07/60513733/whatnot-bets-on-ai-discovery-with-acquisition-of-shaped",
+            "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/16/Small-Shopping-Cart-On-A-Laptop-Keyboard.jpg",
+            "publishedAt": "2026-07-16T20:32:06Z"
         },
         {
             "source": {
@@ -873,6 +1065,18 @@
         },
         {
             "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "How Technology Is Transforming Tree Risk Assessments",
+            "url": "https://techbullion.com/how-technology-is-transforming-tree-risk-assessments/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/07/EBC67D9C-6B57-4053-88CA-92B26615D8D0_F57881B4-6EEF-4CF7-A121-5140855121B4-1000x600.jpeg",
+            "publishedAt": "2026-07-16T09:32:45Z"
+        },
+        {
+            "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
                 "name": "The Economic Times",
                 "url": "https://economictimes.indiatimes.com",
@@ -1413,6 +1617,42 @@
         },
         {
             "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "Screening of core targets for Di(2-ethylhexyl) Phthalate-related gastric cancer based on machine learning, molecular docking, and SHAP analysis",
+            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014514",
+            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014514.g009&size=inline",
+            "publishedAt": "2026-07-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "Machine learning-driven integration of 24-hour ambulatory blood pressure and its variability",
+            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001499",
+            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001499.g006&size=inline",
+            "publishedAt": "2026-07-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "Machine learning prediction of physician-assigned treatment categories from pre-procedural electronic medical record data in cardiac patients: A multiclass classification study",
+            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001149",
+            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001149.g010&size=inline",
+            "publishedAt": "2026-07-16T00:00:00Z"
+        },
+        {
+            "source": {
                 "name": "norfolkdailynews"
             },
             "title": "XMPro mentioned in the 2026 Gartner® Agentic Arbitrage: Decoupled Workflows Unlock ERP's $40 Billion Agentic Core Report",
@@ -1899,6 +2139,18 @@
         },
         {
             "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "New machine learning model improves cholesterol calculation accessibility",
+            "url": "https://www.news-medical.net/news/20260715/New-machine-learning-model-improves-cholesterol-calculation-accessibility.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Cholesterol-620x480.jpg",
+            "publishedAt": "2026-07-15T19:15:00Z"
+        },
+        {
+            "source": {
                 "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
                 "name": "Social Media Today",
                 "url": "https://www.socialmediatoday.com",
@@ -1947,6 +2199,18 @@
         },
         {
             "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Amazon senior cloud executive departs after 18 years",
+            "url": "https://www.cnbc.com/2026/07/15/amazon-dave-brown-treadwell-aws.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108231083-17640050712025-11-24t165543z_2060181263_rc2j7hahwjx9_rtrmadp_0_amazon-com-ai-usa.jpeg?v=1764005096&w=1920&h=1080",
+            "publishedAt": "2026-07-15T18:23:06Z"
+        },
+        {
+            "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
                 "name": "Reuters",
                 "url": "https://www.reuters.com",
@@ -1968,6 +2232,18 @@
             "url": "https://en.protothema.gr/2026/07/15/gerapetritis-greece-chooses-a-foreign-policy-guided-by-international-law/",
             "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/07/6996440-1.jpg-1.jpg",
             "publishedAt": "2026-07-15T17:57:56Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Amazon AWS executive and CEO advisor Dave Brown to leave after 19 years",
+            "url": "https://economictimes.indiatimes.com/tech/technology/amazon-aws-executive-and-ceo-advisor-dave-brown-to-leave-after-19-years/articleshow/132422415.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-78528,resizemode-75,msid-132422415/tech/technology/amazon-aws-executive-and-ceo-advisor-dave-brown-to-leave-after-19-years.jpg",
+            "publishedAt": "2026-07-15T17:51:04Z"
         },
         {
             "source": {
@@ -2016,6 +2292,18 @@
             "url": "https://www.devdiscourse.com/article/politics/3950888-data-center-moratorium-a-national-debate-unfolds",
             "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/14_07_2026_22_58_16_0441424.jpg&width=920&format=jpeg",
             "publishedAt": "2026-07-15T17:09:29Z"
+        },
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+            "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/Whatnot_AppIcon_Screen.jpg?w=1200",
+            "publishedAt": "2026-07-15T17:00:00Z"
         },
         {
             "source": {
@@ -3117,279 +3405,6 @@
             "url": "https://cioinfluence.com/machine-learning/cloudera-and-vast-data-announce-strategic-partnership-to-deliver-ai-data-platform-anywhere/",
             "urlToImage": "https://cioinfluence.com/wp-content/uploads/2026/07/HDStockImages.com-5GNqBg.jpg",
             "publishedAt": "2026-07-15 10:43:08"
-        },
-        {
-            "source": {
-                "name": "cioandleader"
-            },
-            "title": "Cloudera and VAST Data Announce Strategic Partnership to Deliver AI Data Platform Anywhere",
-            "url": "https://www.cioandleader.com/cloudera-and-vast-data-announce-strategic-partnership-to-deliver-ai-data-platform-anywhere/",
-            "urlToImage": "https://www.cioandleader.com/wp-content/uploads/2026/02/AI.webp",
-            "publishedAt": "2026-07-15 08:59:22"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Machines That Dream in Physics",
-            "url": "https://hackernoon.com/the-machines-that-dream-in-physics",
-            "urlToImage": "https://hackernoon.imgix.net/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-a683azd.jpeg",
-            "publishedAt": "2026-07-15 07:56:24"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Looking for a job? AI skills could help you earn a higher starting salary",
-            "url": "https://economictimes.indiatimes.com/jobs/fresher/looking-for-a-job-ai-skills-could-help-you-earn-a-higher-starting-salary/articleshow/132409293.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132409293,resizemode-4,width-1200,height-900,imgsize-1330184,overlay-etcareers/articleshow.jpg",
-            "publishedAt": "2026-07-15 07:32:29"
-        },
-        {
-            "source": {
-                "name": "recentlyheard"
-            },
-            "title": "As SpaceX preps for big Starship launch, Evercore initiates with Outperform rating",
-            "url": "https://recentlyheard.com/as-spacex-preps-for-big-starship-launch-evercore-initiates-with-outperform-rating/",
-            "urlToImage": "https://recentlyheard.com/wp-content/uploads/2026/07/As-SpaceX-preps-for-big-Starship-launch-Evercore-initiates-with.net2Fimages2F2026-072Feb513fb6-ad40-4ac4-ac32-0e5aeff05b73.webp",
-            "publishedAt": "2026-07-15 07:22:06"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "Why IBM admits it stumbled this quarter: read CEO Arvind Krishna's full letter here",
-            "url": "https://www.thehansindia.com/technology/tech-news/why-ibm-admits-it-stumbled-this-quarter-read-ceo-arvind-krishnas-full-letter-here-1097634",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2026/07/15/1677653-ceo-arvind-krishna.webp",
-            "publishedAt": "2026-07-15 05:13:13"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "Apple Opens New Siri AI to Public with iOS 27 Beta: Ecosystem Shift",
-            "url": "https://startupnews.fyi/tech/apple-opens-new-siri-ai-to-public-with-ios-27-beta-ecosystem-shift",
-            "urlToImage": "https://startupnews-media-2026.s3.us-east-1.amazonaws.com/startupnews-in/uploads/2026/07/admin-1784091711991-p6p8n8opu.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZQ3DRHCSCL44VIMT%2F20260715%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260715T155309Z&X-Amz-Expires=604800&X-Amz-Signature=0a8611d0fe8eb4882f58201b2b8f79ab31453910980ab606e932f51ab67b8588&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-            "publishedAt": "2026-07-15 05:03:26"
-        },
-        {
-            "source": {
-                "name": "english_jagran"
-            },
-            "title": "Learn Python, AI, And Cybersecurity: CBSE Introduces 19 Free Tech Certification Courses via NDU Platform",
-            "url": "https://www.thedailyjagran.com/education/learn-python-ai-and-cybersecurity-for-free-cbse-introduces-19-free-tech-certification-courses-via-ndu-platform-10320655",
-            "urlToImage": "https://images.thedailyjagran.com/article-img/2026/07/15/1200x675/cbsefreecourse-1784088433979.webp",
-            "publishedAt": "2026-07-15 05:00:47"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top 10 Data Science Concepts You Must Learn in 2026",
-            "url": "https://www.analyticsinsight.net/data-science/top-10-data-science-concepts-you-must-learn-in-2026",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-07-14/0tu81uye/Top-10-Data-Science-Concepts-You-Must-Learn-in-2026.jpg",
-            "publishedAt": "2026-07-15 04:30:00"
-        },
-        {
-            "source": {
-                "name": "ng_shotoe"
-            },
-            "title": "OpenAI releases large language model upgrade GPT-4",
-            "url": "https://ng.shotoe.com/gpt-4-st_437899/news/openai-releases-large-language-model-upgrade-gpt-4-sn_4166560/",
-            "urlToImage": "https://ng.shotoe.com/uploads/news/41/4166/5/4166560-openai-releases-large-language-model-upgrade-gpt-4.jpg",
-            "publishedAt": "2026-07-15 00:00:00"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "Labor’s AI move ‘appropriate’ but ‘too late’, MPs say",
-            "url": "https://www.perthnow.com.au/news/technology/labors-ai-move-appropriate-but-too-late-mps-say-c-22579340",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-22579340/32ddfd1619c570b92f26bb25d0822087cba848ed-16x9-x0y395w1024h576.jpg?imwidth=1200",
-            "publishedAt": "2026-07-14T23:11:48Z"
-        },
-        {
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            },
-            "title": "AI blueprint looms as PM examines 'lessons from abroad'",
-            "url": "https://www.canberratimes.com.au/story/9310843/ai-blueprint-looms-as-pm-examines-lessons-from-abroad/",
-            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/ee24f318-4c59-4add-b039-9970af49d84a.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-07-14T23:11:19Z"
-        },
-        {
-            "source": {
-                "id": "49751e72ee79ba8eb1d9dcf6e10bf195",
-                "name": "NJ.com",
-                "url": "https://www.nj.com",
-                "country": "us"
-            },
-            "title": "N.J. man accused of using artificial intelligence to create disturbing child sexual abuse videos",
-            "url": "https://www.nj.com/news/2026/07/nj-man-accused-of-using-artificial-intelligence-to-create-disturbing-child-sexual-abuse-videos.html",
-            "urlToImage": "https://www.nj.com/resizer/v2/L4V4PMBBKFCNLJ27IEXWVCOJVE.jpg?auth=319047e13ca34ddc5458956d1b37fe6bf766201847fbd0592026f3e8f6d09163&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-07-14T22:54:08Z"
-        },
-        {
-            "source": {
-                "id": "c477009a98f37b19212d8ae20ce8c018",
-                "name": "POLITICO",
-                "url": "https://www.politico.com",
-                "country": "us"
-            },
-            "title": "White House launches cybersecurity clearinghouse to patch software flaws discovered by AI",
-            "url": "https://www.politico.com/news/2026/07/14/white-house-launches-gold-eagle-cybersecurity-clearinghouse-to-patch-software-flaws-discovered-by-ai-00998011",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2d%2F93%2F987ecb194ef29115c01f4d29e306%2Fwhite-house-22140.jpg",
-            "publishedAt": "2026-07-14T22:38:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "26 Meta employees sue over AI-driven layoffs",
-            "url": "https://www.manilatimes.net/2026/07/15/business/sunday-business-it/26-meta-employees-sue-over-ai-driven-layoffs/2384615",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/15/1137346.jpg",
-            "publishedAt": "2026-07-14T22:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "driven layoff picks hit workers on medical and parental leave",
-            "url": "https://wtop.com/parenting/2026/07/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/07/UE-META_8_623-scaled.jpg",
-            "publishedAt": "2026-07-14T21:44:48Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Lawsuit claims Meta's AI unfairly targeted employees on leave",
-            "url": "https://apnews.com/article/meta-lawsuit-workers-target-ai-layoffs-leave-019fb9c7fdc09167e91547546bce5be8",
-            "urlToImage": "https://dims.apnews.com/dims4/default/0a76a8c/2147483647/strip/true/crop/5804x3867+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2Fb1%2F000183a919584eadc43fff5823f6%2F3ed49573c8ac45ce80ecbac67158dea1",
-            "publishedAt": "2026-07-14T21:42:33Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave",
-            "url": "https://www.clickondetroit.com/business/2026/07/14/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/OGHOBLS3DFCFDMGF53INE6OZXQ.jpg?_a=DATAg1kSZAA0",
-            "publishedAt": "2026-07-14T21:42:33Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "'Getting this right': Labor unveils blueprint for AI",
-            "url": "https://www.perthnow.com.au/news/politics/getting-this-right-labor-unveils-blueprint-for-ai-c-22578547",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-22578547/88bdd3ae4999808528c40d4b34c45765a46d3913-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-07-14T20:10:53Z"
-        },
-        {
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            },
-            "title": "'Getting this right': Labor unveils blueprint for AI",
-            "url": "https://www.canberratimes.com.au/story/9310843/getting-this-right-labor-unveils-blueprint-for-ai/",
-            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/69a9e258-39b2-4cf3-8aad-592f6068969f.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-07-14T20:08:29Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Meta faces lawsuit over alleged AI-based layoff discrimination",
-            "url": "https://www.thenews.com.pk/latest/1409134-meta-faces-lawsuit-over-alleged-ai-based-layoff-discrimination",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-07-15/1409134_124336_updates.jpg",
-            "publishedAt": "2026-07-14T19:43:00Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "Karnataka To Establish India's First Govt-Driven Artificial Intelligence University: CM DK Shivakumar",
-            "url": "https://www.timesnownews.com/bengaluru/karnataka-to-establish-india-first-govt-driven-artificial-intelligence-university-cm-dk-shivakumar-article-155098939",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-155099507,thumbsize-35446,width-1280,height-720,resizemode-75/155099507.jpg",
-            "publishedAt": "2026-07-14T19:17:38Z"
-        },
-        {
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            },
-            "title": "AI inflates gas costs while solar and wind charge ahead",
-            "url": "https://www.canberratimes.com.au/story/9310839/ai-inflates-gas-costs-while-solar-and-wind-charge-ahead/",
-            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/541ecd3b-e2f8-4bc6-b5c5-77ea8b60a3e9.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-07-14T19:00:02Z"
-        },
-        {
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
-                "country": "us"
-            },
-            "title": "George Lucas Is Pro AI, Which Shouldn’t Be a Surprise",
-            "url": "https://gizmodo.com/george-lucas-is-pro-ai-which-shouldnt-be-a-surprise-2000785497",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/George-Lucas-Photo-Gustavo-Caballero-Getty-Images-1200x675.jpg",
-            "publishedAt": "2026-07-14T18:00:09Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "What Is Going on With NVIDIA Stock on Tuesday?",
-            "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60452792/what-is-going-on-with-nvidia-stock-on-tuesday",
-            "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/14/Kyiv--Ukraine---January-29--2025-Nvidia-.jpg",
-            "publishedAt": "2026-07-14T17:58:18Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "NASA astronaut Anil Menon, others embark on 8-month sojourn to International Space Station",
-            "url": "https://www.onmanorama.com/news/world/2026/07/14/nasa-astronaut-anil-menon-embarks-on-8-month-sojourn-to-international-space-station.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/7/12/anil-menon.jpg",
-            "publishedAt": "2026-07-14T17:48:41Z"
         }
     ]
 }
