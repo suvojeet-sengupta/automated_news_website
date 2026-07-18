@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-07-18T11:54:06.042980Z",
+    "lastUpdatedAt": "2026-07-18T13:03:54.693694Z",
     "articles": [
+        {
+            "source": {
+                "id": "267a32dd6133c54878c9e1cba8696c1b",
+                "name": "theScore",
+                "url": "https://www.thescore.com",
+                "country": "ca"
+            },
+            "title": "MLB restricts dugout iPad use to prevent AI help with",
+            "url": "https://www.thescore.com/mlb/news/3567361/mlb-restricts-dugout-i-pad-use-to-prevent-ai-help-with-strategy-ottavino-says-mets-were-involved",
+            "urlToImage": "https://assets-cms.thescore.com/uploads/image/file/841852/w640xh480_GettyImages-2285272980.jpg?ts=1784334062",
+            "publishedAt": "2026-07-18T00:40:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Scale can measure university students' confidence in using AI",
+            "url": "https://phys.org/news/2026-07-scale-university-students-confidence-ai.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/student-on-computer.jpg",
+            "publishedAt": "2026-07-18T00:20:01Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Mets among teams who used AI loophole with dugout iPads",
+            "url": "https://nypost.com/2026/07/17/sports/mets-among-teams-who-used-ai-loophole-with-dugout-ipads/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-40019414.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-07-18T00:13:39Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3348,42 +3384,6 @@
             "url": "https://www.news-medical.net/news/20260715/New-machine-learning-model-improves-cholesterol-calculation-accessibility.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Cholesterol-620x480.jpg",
             "publishedAt": "2026-07-15T19:15:00Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "China bans romantic relationships with AI companions",
-            "url": "https://www.socialmediatoday.com/news/china-bans-romantic-relationships-with-ai-companions/825373/",
-            "urlToImage": "https://imgproxy.divecdn.com/g6bQWDXRcq3LXrHybGb9nZrT5v8ET7qr36roEb_wU4Q/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjc1NzQ2MDIwLmpwZw==.webp",
-            "publishedAt": "2026-07-15T19:08:02Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI flags heart failure risk five years early from routine ECG recordings",
-            "url": "https://medicalxpress.com/news/2026-07-ai-flags-heart-failure-years.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/heart-warning.jpg",
-            "publishedAt": "2026-07-15T19:00:10Z"
-        },
-        {
-            "source": {
-                "id": "840efb5642a2fd3ae6da920bb4981626",
-                "name": "Santa Ana Orange County Register",
-                "url": "https://www.ocregister.com",
-                "country": "us"
-            },
-            "title": "Fed’s Cook says prepared to act if inflation doesn’t cool",
-            "url": "https://www.ocregister.com/2026/07/15/feds-cook-says-prepared-to-act-if-inflation-doesnt-cool/",
-            "urlToImage": "https://www.ocregister.com/wp-content/uploads/2026/07/Supreme_Court_Executive_Power__1761_90aa9c.jpg?w=1024&h=682",
-            "publishedAt": "2026-07-15T18:31:24Z"
         }
     ]
 }
