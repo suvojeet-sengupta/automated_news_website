@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-07-19T21:46:32.022057Z",
+    "lastUpdatedAt": "2026-07-19T22:45:30.499739Z",
     "articles": [
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "China Fires Back At US AI Copying Claims, Calls Allegations 'Misguided'",
+            "url": "https://www.timesnownews.com/technology-science/china-fires-back-at-us-ai-copying-claims-calls-allegations-misguided-article-155132844",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-155132932,thumbsize-2219479,width-1280,height-720,resizemode-75/155132932.jpg",
+            "publishedAt": "2026-07-19T10:16:09Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
+            "url": "https://www.manilatimes.net/2026/07/19/business/sunday-business-it/chinese-ai-model-takes-us-tech-industry-by-surprise-with-abilities-rivaling-claude-and-chatgpt/2387110",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/19/1142471.jpg",
+            "publishedAt": "2026-07-19T10:09:00Z"
+        },
         {
             "source": {
                 "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
@@ -168,6 +192,15 @@
             "url": "https://www.forbes.com/sites/jonathanreichental/2026/07/18/artificial-intelligence-is-changing-the-economics-of-cybercrime/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a5c23b95945db78a654da4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2026-07-19T01:30:39Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Nvidia CEO Jensen Huang bets on ‘Made in Japan’ AI robots to solve country’s 'one of biggest problems’",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-bets-on-made-in-japan-ai-robots-to-solve-countrys-one-of-biggest-problems/articleshow/132492812.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132492782/132492782.jpg",
+            "publishedAt": "2026-07-19 10:21:36"
         },
         {
             "source": {
@@ -3387,42 +3420,6 @@
             "url": "https://economictimes.indiatimes.com/tech/technology/tcs-and-google-cloud-launch-gemini-experience-center-in-kolkata/articleshow/132433314.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-48742,resizemode-75,msid-132433314/tech/technology/tcs-and-google-cloud-launch-gemini-experience-center-in-kolkata.jpg",
             "publishedAt": "2026-07-16T08:03:53Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’",
-            "url": "https://wtop.com/world/2026/07/fujitsu-and-leading-japanese-robotics-companies-to-use-nvidia-technology-in-physical-ai/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/06/Artificial_Intelligence_Nvidia_74313-scaled.jpg",
-            "publishedAt": "2026-07-16T08:01:03Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Fujitsu leading Japanese push in robotics and AI using Nvidia technology",
-            "url": "https://apnews.com/article/ai-nvidia-fujitsu-japan-technology-robots-tokyo-86823c1bcc959ad603ecb25d022207b1",
-            "urlToImage": "https://dims.apnews.com/dims4/default/6ef620a/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2Ff7%2F6eda9385bac664594e072168c1e5%2Fa2b5f82c2cb1476e9513c710f48ba5c3",
-            "publishedAt": "2026-07-16T07:43:47Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "Fujitsu and leading Japanese robotics companies to use Nvidia technology in 'physical AI'",
-            "url": "https://www.clickondetroit.com/business/2026/07/16/fujitsu-and-leading-japanese-robotics-companies-to-use-nvidia-technology-in-physical-ai/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GWG3ARQJM5DTTGTWBR67KNUO4I.jpg?_a=DATAg1kSZAA0",
-            "publishedAt": "2026-07-16T07:43:45Z"
         }
     ]
 }
