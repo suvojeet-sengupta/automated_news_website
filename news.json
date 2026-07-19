@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-07-19T17:54:18.772720Z",
+    "lastUpdatedAt": "2026-07-19T18:59:08.984388Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence: Are we headed towards a new multiverse God?",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/artificial-intelligence-are-we-headed-towards-a-new-multiverse-god/articleshow/132490436.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132490452,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-19T06:01:00Z"
+        },
         {
             "source": {
                 "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
@@ -48,6 +60,24 @@
             "url": "https://www.forbes.com/sites/jonathanreichental/2026/07/18/artificial-intelligence-is-changing-the-economics-of-cybercrime/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a5c23b95945db78a654da4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2026-07-19T01:30:39Z"
+        },
+        {
+            "source": {
+                "name": "financialexpress"
+            },
+            "title": "Chinese Kimi K3 outshines Fable, OpenAI’s Codex hardware, and Perplexity returns with SPACE — Weekly AI Roundup 19 July",
+            "url": "https://www.financialexpress.com/life/technology-chinese-kimi-k3-outshines-fable-openais-codex-hardware-and-perplexity-returns-with-space-weekly-ai-roundup-19-july-4296162/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/07/Weekly-ai-roundup-july19.jpg",
+            "publishedAt": "2026-07-19 05:59:39"
+        },
+        {
+            "source": {
+                "name": "aitechtrend"
+            },
+            "title": "How Intel Uses Gemini Enterprise for AI Workforce Transformation",
+            "url": "https://aitechtrend.com/intel-enterprise-ai-transformation/",
+            "urlToImage": "https://aitechtrend.com/wp-content/uploads/2026/07/intel__googlecloud_collaborate_to_drive_intel_s_enterprise_ai_transformation.png",
+            "publishedAt": "2026-07-19 05:56:00"
         },
         {
             "source": {
@@ -3393,42 +3423,6 @@
             "url": "https://economictimes.indiatimes.com/news/international/business/airbus-picks-iliads-scaleway-for-ai-defence-work-in-sovereignty-push/articleshow/132430923.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-132430958,width-1200,height-630,imgsize-40310,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2026-07-16T05:58:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "TSMC Q2 profit jumps 77% to record, far surpasses expectations",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/16/tsmc-q2-profit-jumps-77-to-record-far-surpasses-expectations",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/16/4013515.jpg",
-            "publishedAt": "2026-07-16T05:53:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "TSMC posts 77% profit jump for Q2, surging past market expectations",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/tsmc-posts-77-profit-jump-for-q2-surging-past-market-expectations/articleshow/132430884.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132430894,width-1200,height-630,imgsize-87866,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-07-16T05:52:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Google DeepMind CEO Calls for U.S.-Led Global AI Safety Watchdog",
-            "url": "https://www.breitbart.com/tech/2026/07/16/google-deepmind-ceo-calls-for-u-s-led-global-ai-safety-watchdog/",
-            "urlToImage": "https://media.breitbart.com/media/2026/07/Google-DeepMind-CEO-Demis-Hassabis-640x335.jpg",
-            "publishedAt": "2026-07-16T05:51:05Z"
         }
     ]
 }
