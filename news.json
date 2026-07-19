@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-07-19T13:06:23.165885Z",
+    "lastUpdatedAt": "2026-07-19T14:50:31.660531Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Netflix now using AI to generate crowds and battle scenes",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/19/netflix-now-using-ai-to-generate-crowds-and-battle-scenes",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/17/4016005.jpg",
+            "publishedAt": "2026-07-19T02:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Emdoor Launches \"Ailyn\" AI Hub at WAIC 2026: Unifying Intelligence Across Every Device",
+            "url": "https://www.manilatimes.net/2026/07/19/tmt-newswire/pr-newswire/emdoor-launches-ailyn-ai-hub-at-waic-2026-unifying-intelligence-across-every-device/2387053",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/19/1142314.jpg",
+            "publishedAt": "2026-07-19T01:44:17Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "Artificial Intelligence Is Changing The Economics Of Cybercrime",
+            "url": "https://www.forbes.com/sites/jonathanreichental/2026/07/18/artificial-intelligence-is-changing-the-economics-of-cybercrime/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a5c23b95945db78a654da4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-07-19T01:30:39Z"
+        },
         {
             "source": {
                 "id": "28bc60a23a7bf89e60f893506992a3fe",
@@ -3396,42 +3432,6 @@
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-partners-with-japan-robotics-firms-on-ai-development/articleshow/132430720.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-237738,resizemode-75,msid-132430720/tech/artificial-intelligence/nvidia-partners-with-japan-robotics-firms-on-ai-development.jpg",
             "publishedAt": "2026-07-16T05:43:59Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "TSMC Q2 profit jumps 77% to record, far surpasses expectations",
-            "url": "https://www.reuters.com/world/asia-pacific/tsmc-q2-profit-jumps-77-record-far-surpasses-expectations-2026-07-16/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/MSVUG2ZSRZPEFL23Y7AN55WX5I.jpg?auth=09b2032add67c483b8f5f2450282a598948924a54c6d470d8cdda2ce073d479d&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-07-16T05:36:12Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "Asian shares mostly decline with South Korea's Kospi down 6.6%, while oil prices slip",
-            "url": "https://www.ajc.com/news/2026/07/asian-shares-mostly-decline-with-south-koreas-kospi-down-66-while-oil-prices-slip/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/5AVCZ67LZNHMDIEAB5NMMTFLJ4.jpg?auth=91cfa0b21425f5124cba49a7996d061df0b0342ea743fa8a62f0d0204e1579d1&width=1200&height=630&smart=true",
-            "publishedAt": "2026-07-16T05:23:19Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How I Learned to Stop Trusting Token Predictors and Start Thinking About World Models",
-            "url": "https://techbullion.com/how-i-learned-to-stop-trusting-token-predictors-and-start-thinking-about-world-models/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/07/E4B747DD-46FD-4930-8115-5D9E4A347FEE_164D33A5-DD18-4130-A609-C9588062819E.jpeg",
-            "publishedAt": "2026-07-16T05:14:04Z"
         }
     ]
 }
