@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-07-21T08:19:42.646613Z",
+    "lastUpdatedAt": "2026-07-21T11:03:18.675512Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "CNBC's The China Connection newsletter: The AI consumer bet might surprise you",
+            "url": "https://www.cnbc.com/2026/07/20/cnbcs-the-china-connection-newsletter-the-ai-consumer-bet-might-surprise-you.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335119-1784094916462-mmexport1784094836064.jpg?v=1784095053&w=1920&h=1080",
+            "publishedAt": "2026-07-20T23:00:01Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Anthropic's $1.5B settlement of authors' AI copyright lawsuit gets greenlight",
+            "url": "https://nypost.com/2026/07/20/business/anthropics-1-5b-settlement-of-authors-ai-copyright-lawsuit-gets-greenlight/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/anthropic-dario-amodei-claude.jpg?quality=75&strip=all&1784572443&w=1200",
+            "publishedAt": "2026-07-20T22:54:32Z"
+        },
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "Artificial Intelligence in Behavioral Threat Assessment: Early Identification and Threat Hunting",
+            "url": "https://www.europesays.com/3143592/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/campussecuritytodayOG.jpg",
+            "publishedAt": "2026-07-20T22:35:32Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "Netflix Discloses Use of Generative AI in Hundreds of Films and Television Shows",
+            "url": "https://www.naturalnews.com/2026-07-20-netflix-discloses-generative-ai-use-films-shows.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/netflix-generative-ai-film-production-2836-original.jpg",
+            "publishedAt": "2026-07-20T22:30:19Z"
+        },
+        {
+            "source": {
+                "id": "e7b4d14003cc89c64a689f1c38723ef5",
+                "name": "Live 5 News WCSC",
+                "url": "https://www.live5news.com",
+                "country": "us"
+            },
+            "title": "SC $80M investment in data centers draw scrutiny over power, jobs",
+            "url": "https://www.live5news.com/2026/07/20/sc-80m-investment-in-data-centers-draw-scrutiny-over-power-jobs/",
+            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/RPFXQLEHZFGKFD2J6QMTXVT6LQ.png?auth=b84823147fea9a8b6fc8d082a46f2d330d5a2ebba36535ef8289c72305d8c6bb&width=1200&height=600&smart=true",
+            "publishedAt": "2026-07-20T21:50:00Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Southern California taps AI to issue hefty street parking fines",
+            "url": "https://nypost.com/2026/07/20/lifestyle/southern-california-taps-ai-to-issue-hefty-street-parking-fines/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-40039876.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-07-20T20:56:25Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Calgary police warn of AI images, video",
+            "url": "https://www.cp24.com/news/canada/2026/07/20/police-ask-for-flow-of-ai-images-video-to-stop-as-search-for-missing-boy-continues/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/JMUGPJRAU5GLNBMB7T62CRQFWE.jpg?smart=true&auth=7a6d7a488507f9ed06ccc29d89b2e3b1f2de3fdc444f4dce98c2fa1a34c38c37&width=1200&height=630",
+            "publishedAt": "2026-07-20T20:50:01Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
+            "url": "https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/6SHJJYHGLZPLFGOLJA4UZ3I2WY.jpg?auth=1904ccde136828e186de47ffed68450abc640a2abbdf12e2ceb1df747f5a990d&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-20T20:49:07Z"
+        },
         {
             "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
@@ -972,6 +1068,51 @@
             "url": "https://www.caixinglobal.com/2026-07-20/un-officials-urge-multilateral-ai-rules-to-avert-economic-divide-102466146.html",
             "urlToImage": "https://img.caixin.com/2026-07-18/178436993110452_560_373.jpg",
             "publishedAt": "2026-07-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "rdrnews"
+            },
+            "title": "Tech for Good: Alibaba Brings Frontier AI Out of the Lab to Revolutionize Early Cancer Screening Globally",
+            "url": "https://www.rdrnews.com/online_features/press_releases/tech-for-good-alibaba-brings-frontier-ai-out-of-the-lab-to-revolutionize-early-cancer/article_96f78fee-c78c-5e19-a6cd-55e0a6a5e8cb.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/custom/image/02f7cf54-8b5e-11ec-8535-4bfe01fe72af.png?resize=600%2C315",
+            "publishedAt": "2026-07-20 22:30:02"
+        },
+        {
+            "source": {
+                "name": "virginislandsdailynews"
+            },
+            "title": "Tech for Good: Alibaba Brings Frontier AI Out of the Lab to Revolutionize Early Cancer Screening Globally",
+            "url": "https://www.virginislandsdailynews.com/online_features/press_releases/tech-for-good-alibaba-brings-frontier-ai-out-of-the-lab-to-revolutionize-early-cancer/article_435426e4-c8d9-5dd2-872a-b73ab31cdf0c.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/virginislandsdailynews.com/content/tncms/custom/image/95b63ab2-a8b4-11e5-8204-cfb6801a818b.jpg?resize=600%2C315",
+            "publishedAt": "2026-07-20 22:30:02"
+        },
+        {
+            "source": {
+                "name": "emporiagazette"
+            },
+            "title": "Tech for Good: Alibaba Brings Frontier AI Out of the Lab to Revolutionize Early Cancer Screening Globally",
+            "url": "https://www.emporiagazette.com/online_features/press_releases/article_32cc282d-dd01-56a4-b0fa-9d12a3ea9561.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/custom/image/931cafec-1d0e-11e6-80bf-b78b86c1ea06.jpg?resize=600%2C315",
+            "publishedAt": "2026-07-20 22:30:02"
+        },
+        {
+            "source": {
+                "name": "wyomingnews"
+            },
+            "title": "Tech for Good: Alibaba Brings Frontier AI Out of the Lab to Revolutionize Early Cancer Screening Globally",
+            "url": "https://www.wyomingnews.com/online_features/press_releases/tech-for-good-alibaba-brings-frontier-ai-out-of-the-lab-to-revolutionize-early-cancer/article_3b51bef6-ba0b-5b97-9c45-8f7fd3b087c0.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/custom/image/61f5c8ba-f436-11e4-826d-83047f727c6d.jpg?resize=600%2C315",
+            "publishedAt": "2026-07-20 22:30:02"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "NVIDIA’s new AI can detect deepfake videos in just 22 milliseconds",
+            "url": "https://www.digitaltrends.com/computing/nvidias-new-ai-can-detect-deepfake-videos-in-just-22-milliseconds/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/05/Nvidia-logo.jpg?resize=440%2C292",
+            "publishedAt": "2026-07-20 22:05:58"
         },
         {
             "source": {
@@ -3282,162 +3423,6 @@
             "url": "https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html",
             "urlToImage": "https://static01.nyt.com/images/2026/07/17/multimedia/17biz-china-ai-mwtq/17biz-china-ai-mwtq-facebookJumbo.jpg",
             "publishedAt": "2026-07-17T10:21:08Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Chinese new AI startup Moonshot sparks fresh selloff in AI, semiconductor stocks",
-            "url": "https://www.moneycontrol.com/news/business/markets/chinese-new-ai-startup-moonshot-surprises-investors-sparks-fresh-selloff-in-tech-stocks-13976795.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/07/20260717101254_Moonshot-AI-china-startup.png",
-            "publishedAt": "2026-07-17T10:14:21Z"
-        },
-        {
-            "source": {
-                "id": "435d508bebcc8689d5c7711d44865b80",
-                "name": "Activist Post",
-                "url": "https://www.activistpost.com",
-                "country": "us"
-            },
-            "title": "Why Trust Will Decide the Future of AI",
-            "url": "https://www.activistpost.com/why-trust-will-decide-the-future-of-ai/",
-            "urlToImage": "https://www.activistpost.com/wp-content/uploads/2026/07/ef35ad07-b820-4657-8c89-371387b973b0.webp",
-            "publishedAt": "2026-07-17T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "435d508bebcc8689d5c7711d44865b80",
-                "name": "Activist Post",
-                "url": "https://www.activistpost.com",
-                "country": "us"
-            },
-            "title": "'It's like having a dumb friend': Young San Franciscans hate AI",
-            "url": "https://www.activistpost.com/its-like-having-a-dumb-friend-young-san-franciscans-hate-ai/",
-            "urlToImage": "https://www.activistpost.com/wp-content/uploads/2026/07/ratio3x2_1440.webp",
-            "publishedAt": "2026-07-17T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "Google Delays Gemini 3.5 Pro Release Over Coding Issues",
-            "url": "https://www.outlookbusiness.com/corporate/google-delays-gemini-35-pro-release-over-coding-issues",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-07-17/smx1qsui/image5f9ccf29.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-07-17T08:57:07Z"
-        },
-        {
-            "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
-                "country": "in"
-            },
-            "title": "Nubia NaviX Ultra design revealed: AI phone to debut in 4 colour options",
-            "url": "https://www.indiatvnews.com/technology/news/nubia-navix-ultra-design-revealed-ai-phone-to-debut-in-4-colour-options-2026-07-17-1048554",
-            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/07/nubia-1784276839.jpg",
-            "publishedAt": "2026-07-17T08:53:25Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Pakistan, China discuss AI, trade and CPEC 2.0 cooperation in Shanghai",
-            "url": "https://www.indiatoday.in/world/story/pakistan-china-ai-cpec-2-0-talks-shanghai-waico-ptag-2949877-2026-07-17",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pti-international-2-original_151-sixteen_nine.png?VersionId=ypRcO3tgRtgZ3MIwzXz4Kt23AAxRnVm9",
-            "publishedAt": "2026-07-17T08:50:33Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Mount Carmel School, Chandigarh, hosts capacity building programme",
-            "url": "https://www.tribuneindia.com/news/schools/mount-carmel-school-chandigarh-hosts-capacity-building-programme/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg3OWNmMDAwLTgxYmMtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-            "publishedAt": "2026-07-17T08:50:12Z"
-        },
-        {
-            "source": {
-                "id": "99e7373ae0bd64167072ee76b85a79f3",
-                "name": "LADbible",
-                "url": "https://www.ladbible.com",
-                "country": "gb"
-            },
-            "title": "ITV's Robert Peston has new chilling warning after 'predicting Covid' and 2008 financial crisis",
-            "url": "https://www.ladbible.com/technology/ai-market-crash-warning-robert-peston-predicts-financial-turmoil-812166-20260717",
-            "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt35be10186b8efa28/6a59e3bee1cbf080d688eb55/robert-peston-ai-warning-financial-crash.jpeg",
-            "publishedAt": "2026-07-17T08:31:33Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Agentic AI: the next battleground for Chinese brands",
-            "url": "https://www.scmp.com/opinion/china-opinion/article/3360497/agentic-ai-next-battleground-chinese-brands",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/07/16/d80c7d1d-e6b2-4968-b8da-f9c8c6c35212_5ddc0e7c.jpg?itok=9nGiHS-K&v=1784172771",
-            "publishedAt": "2026-07-17T08:30:06Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Architecting the Age of Artificial Intelligence: LongServing Technology's Vision for a Photonic Computing Future",
-            "url": "https://techbullion.com/architecting-the-age-of-artificial-intelligence-longserving-technologys-vision-for-a-photonic-computing-future/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-1.24.52-PM.jpeg",
-            "publishedAt": "2026-07-17T08:29:42Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "After 8,000 layoffs, Meta taken to court by former employees who claim that ⁠the company used internal AI systems to select people to be fired and gave them scores and ratings based on ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-8000-layoffs-meta-taken-to-court-by-former-employees-who-claim-that-the-company-used-internal-ai-systems-to-select-people-to-be-fired-and-gave-them-scores-and-ratings-based-on-/articleshow/132456336.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132456331,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-17T08:10:00Z"
-        },
-        {
-            "source": {
-                "id": "9962a9b594044b42e892f4760e2dfd7e",
-                "name": "Sputnik News",
-                "url": "https://sputnikglobe.com",
-                "country": "ru"
-            },
-            "title": "AI Development Must Not Harm Diversity of Civilizations - Xi Jinping",
-            "url": "https://sputnikglobe.com/20260717/ai-development-must-not-harm-diversity-of-civilizations---xi-jinping-1124457709.html",
-            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124457709.jpg?11229455331784275340",
-            "publishedAt": "2026-07-17T08:02:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Is the AI stock boom losing steam after the latest chip selloff?",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-the-ai-stock-boom-losing-steam-after-the-latest-chip-selloff/slideshow/132456124.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132456124,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-            "publishedAt": "2026-07-17T07:57:00Z"
         }
     ]
 }
