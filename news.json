@@ -1,6 +1,96 @@
 {
-    "lastUpdatedAt": "2026-07-23T11:47:39.989946Z",
+    "lastUpdatedAt": "2026-07-23T13:46:11.102761Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Newborn Town targets global viewers with AI-made short dramas",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/23/newborn-town-targets-global-viewers-with-ai-made-short-dramas",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/23/4022817.jpg",
+            "publishedAt": "2026-07-23T01:00:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Global Market Today: Asian shares rise as chipmakers gain, oil climbs",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-rise-as-chipmakers-gain-oil-climbs/articleshow/132570164.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132570167,width-1200,height-630,imgsize-147336,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-07-23T00:46:00Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "Nearly 200 Silicon Valley startups urge Trump not to ban Chinese AI models, warn it could kill innovation",
+            "url": "https://techstartups.com/2026/07/22/nearly-200-silicon-valley-startups-urge-trump-not-to-ban-chinese-ai-models-warn-it-could-kill-innovation/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2026/07/Chinese-AI-Models.jpg",
+            "publishedAt": "2026-07-23T00:30:31Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Caitlin Clark featured on NBA 2K27 video game cover with 'weird' twist",
+            "url": "https://nypost.com/2026/07/22/sports/caitlin-clark-featured-on-nba-2k27-video-game-cover-with-weird-twist/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-40063770_92fdad.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-07-23T00:26:18Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Google burns through $8.4b in cash as AI spending climbs again",
+            "url": "https://www.afr.com/technology/google-burns-through-8-4b-in-cash-as-ai-spending-climbs-again-20260723-p60hso",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.1324%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/b88fd8d6f965618432056b278a20ca5227e3a408",
+            "publishedAt": "2026-07-23T00:10:12Z"
+        },
+        {
+            "source": {
+                "id": "839b9d172147498877bab641815b0631",
+                "name": "Entrepreneur",
+                "url": "https://www.entrepreneur.com",
+                "country": "us"
+            },
+            "title": "How to Turn Your AI Business Plan Into an Investor Magnet",
+            "url": "https://www.entrepreneur.com/building-a-business/as-a-startup-advisor-i-see-ais-limitations-daily-heres-how-to-refine-its-output-so-it-actually-attracts-investors",
+            "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/ai-business-plan-attract-investors-0726_g2238898410.jpg?resize=1024,683",
+            "publishedAt": "2026-07-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "businessworld"
+            },
+            "title": "Utho Cloud To Deploy 10,000 GPUs To Expand India's AI Infrastructure",
+            "url": "https://www.businessworld.in/article/utho-cloud-to-deploy-10-000-gpus-to-expand-india-s-ai-infrastructure-616199",
+            "urlToImage": "https://static.businessworld.in/cloud_20240717090828_original_image_17.webp",
+            "publishedAt": "2026-07-23 00:00:00"
+        },
+        {
+            "source": {
+                "name": "springer"
+            },
+            "title": "A three-stage gene selection algorithm based on intrinsic dimension and the concise particle swarm optimization",
+            "url": "https://link.springer.com/article/10.1007/s40314-025-03590-4",
+            "urlToImage": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs40314-025-03590-4/MediaObjects/40314_2025_3590_Fig1_HTML.png",
+            "publishedAt": "2026-07-23 00:00:00"
+        },
         {
             "source": {
                 "id": "c477009a98f37b19212d8ae20ce8c018",
@@ -3324,102 +3414,6 @@
             "url": "https://www.cp24.com/news/money/2026/07/20/south-koreas-kospi-drops-45-as-some-ai-stocks-swoon-while-oil-keeps-climbing/",
             "urlToImage": "https://www.cp24.com/resizer/v2/EGBAOXGUWQFDRENQ75P7WBFKMY.jpg?smart=true&auth=2e54d614a9de7048840fdce802126651054385feb26f2a5937d418481b5996dc&width=1200&height=630",
             "publishedAt": "2026-07-20T10:15:41Z"
-        },
-        {
-            "source": {
-                "id": "79baacd62152cf257ee35e8c0bec19a2",
-                "name": "UPI News",
-                "url": "https://www.upi.com",
-                "country": "us"
-            },
-            "title": "Seoul stocks dip over 4 pct on extended chip rout, Mideast tensions",
-            "url": "https://www.upi.com/Top_News/World-News/2026/07/20/korea-KOSPI-Korea-Stock-Index-fall-four-percent-AI-woes-Middle-East-tensions/1751784541758/",
-            "urlToImage": "https://cdnph.upi.com/sv/ph/og/i/1751784541758/2026/1/17845420355234/v1.5/Seoul-stocks-dip-over-4-pct-on-extended-chip-rout-Mideast-tensions.jpg",
-            "publishedAt": "2026-07-20T10:15:31Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI memory shortage threatens to trigger geopolitical strain, warns SK Group chief",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-memory-shortage-threatens-to-trigger-geopolitical-strain-warns-sk-group-chief/articleshow/132512095.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-14616,resizemode-75,msid-132512095/tech/artificial-intelligence/ai-memory-shortage-threatens-to-trigger-geopolitical-strain-warns-sk-group-chief.jpg",
-            "publishedAt": "2026-07-20T09:58:32Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "China’s New AI Governance Body Explained: Why Beijing Wants to Write the Rules for AI",
-            "url": "https://www.outlookbusiness.com/news/chinas-new-ai-governance-body-explained-why-beijing-wants-to-write-the-rules-for-ai",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-07-20/4919610c/WhatsApp-Image-2026-07-20-at-3.23.46-PM.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-07-20T09:55:10Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
-            "url": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/07/17/multimedia/00biz-us-china-ai-xi-qcwh/00biz-us-china-ai-xi-qcwh-facebookJumbo.jpg",
-            "publishedAt": "2026-07-20T09:02:12Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Jeff Bezos and UK government invest in £2bn British startup CuspAI",
-            "url": "https://www.europesays.com/3142430/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/3136.jpg",
-            "publishedAt": "2026-07-20T08:59:29Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "led investment cycle to shape global markets in coming years: Moody's",
-            "url": "https://www.tribuneindia.com/news/business/higher-borrowing-costs-ai-led-investment-cycle-to-shape-global-markets-in-coming-years-moodys/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQzNjgyYzkwLTg0MTctMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-            "publishedAt": "2026-07-20T08:48:42Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Tencent Cloud and Rockstreamer bring \"Over The Top\" Infrastructure and sports streaming to Bangladesh",
-            "url": "https://www.manilatimes.net/2026/07/20/tmt-newswire/pr-newswire/tencent-cloud-and-rockstreamer-bring-over-the-top-infrastructure-and-sports-streaming-to-bangladesh/2387353",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/20/1143039.jpg",
-            "publishedAt": "2026-07-20T08:29:55Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Symposium on International Law and Artificial Intelligence in Armed Conflict: Introduction",
-            "url": "https://www.europesays.com/3142360/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/google-deepmind-9Y4ronQmPjk-unsplash.jpg",
-            "publishedAt": "2026-07-20T08:13:24Z"
         }
     ]
 }
