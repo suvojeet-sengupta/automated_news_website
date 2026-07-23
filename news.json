@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-07-23T20:57:17.629773Z",
+    "lastUpdatedAt": "2026-07-23T22:04:19.393612Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Amazon's Bezos pushes Prime Video redesign focused on AI",
+            "url": "https://www.reuters.com/business/media-telecom/amazons-bezos-pushes-prime-video-redesign-focused-ai-2026-07-23/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ZIMSNJ34UZNBRI6JFIAGSAKOHA.jpg?auth=d3a24dd6e6e7ab53ee1a8910ee4cf4ac50b36dd9e321f94c2f300a83d53b2c73&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-23T10:04:17Z"
+        },
+        {
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com",
+                "country": "us"
+            },
+            "title": "Illinois ordered an audit of AI developers. Who will do it?",
+            "url": "https://www.chicagotribune.com/2026/07/23/opinion-artificial-intelligence-ai-audits-illinois/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2026/07/CTC-L-pritzker-AI002_264489366-e1783366509361.jpg?w=1024&h=752",
+            "publishedAt": "2026-07-23T10:00:29Z"
+        },
+        {
+            "source": {
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
+                "country": "us"
+            },
+            "title": "Zuckerberg Says AI Should Empower People, Not Replace Them",
+            "url": "https://www.foxbusiness.com/technology/meta-ai-vision-empower-people-mark-zuckerberg",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/mark-zuckerberg-trial-meta.jpg?ve=1&tl=1",
+            "publishedAt": "2026-07-23T10:00:06Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Firmus tries to fast track SA data centres as Tassie plans stall",
+            "url": "https://www.afr.com/companies/infrastructure/firmus-tries-to-fast-track-sa-data-centres-as-tassie-plans-stall-20260720-p60gwj",
+            "urlToImage": "https://static.ffx.io/images/$zoom_1.2285%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f6846bbe1f60769c23c91529b58efc51032f28b4",
+            "publishedAt": "2026-07-23T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "CEP IIT Delhi Announces the Launch of Batch 2 of its Executive Programme for AI in Healthcare",
+            "url": "https://www.tribuneindia.com/news/business/cep-iit-delhi-announces-the-launch-of-batch-2-of-its-executive-programme-for-ai-in-healthcare/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU2MWJiODgwLTg2N2MtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+            "publishedAt": "2026-07-23T09:53:13Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "CEP IIT Delhi Announces the Launch of Batch 2 of its Executive Programme for AI in Healthcare",
+            "url": "https://www.aninews.in/news/business/cep-iit-delhi-announces-the-launch-of-batch-2-of-its-executive-programme-for-ai-in-healthcare20260723151943/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260723094931-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-07-23T09:49:43Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Uber lays off 10% of customer support employees, orders remote staff back to offices, and the reason it gave is a first for the company",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/uber-lays-off-10-of-customer-support-employees-orders-remote-staff-back-to-offices-and-the-reason-it-gave-is-a-first-for-the-company/articleshow/132576563.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132576714,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-23T09:41:00Z"
+        },
+        {
+            "source": {
+                "id": "530b8080433a018c4a490dc7cbefce4a",
+                "name": "Portfolio Adviser",
+                "url": "https://portfolio-adviser.com",
+                "country": "gb"
+            },
+            "title": "Amundi launches memory chip and data centre ETFs",
+            "url": "https://portfolio-adviser.com/amundi-launches-memory-chip-and-data-centre-etfs/",
+            "urlToImage": "https://s44696.pcdn.co/wp-content/uploads/2023/12/AI-Nov-mag-2023.jpg",
+            "publishedAt": "2026-07-23T09:40:19Z"
+        },
+        {
+            "source": {
+                "id": "2ecd1f56187ac56ca5291d4a630b32e8",
+                "name": "Funds Europe",
+                "url": "https://funds-europe.com",
+                "country": "gb"
+            },
+            "title": "Connectivity is the missing link in the AI revolution",
+            "url": "https://funds-europe.com/connectivity-is-the-missing-link-in-the-ai-revolution/",
+            "urlToImage": "https://funds-europe.com/wp-content/uploads/2026/07/chris-purcell.png",
+            "publishedAt": "2026-07-23T09:36:38Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "China’s A.I. Has a Winning Formula. America, Don’t Panic.",
+            "url": "https://www.nytimes.com/2026/07/23/opinion/china-ai-open-weight-us.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/07/23/opinion/23_hsu_burton/23_hsu_burton-facebookJumbo.jpg",
+            "publishedAt": "2026-07-23T09:01:31Z"
+        },
         {
             "source": {
                 "id": "76a2f820b104591b97fed1b0932cec38",
@@ -468,6 +588,24 @@
             "url": "https://www.entrepreneur.com/building-a-business/as-a-startup-advisor-i-see-ais-limitations-daily-heres-how-to-refine-its-output-so-it-actually-attracts-investors",
             "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/ai-business-plan-attract-investors-0726_g2238898410.jpg?resize=1024,683",
             "publishedAt": "2026-07-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "Government to support 20 sovereign and indigenous AI models under the IndiaAI mission",
+            "url": "https://www.thehansindia.com/technology/tech-news/government-to-support-20-sovereign-and-indigenous-ai-models-under-the-indiaai-mission-1100537",
+            "urlToImage": "https://assets.thehansindia.com/h-upload/2026/07/23/1680817-indiaai.webp",
+            "publishedAt": "2026-07-23 09:31:50"
+        },
+        {
+            "source": {
+                "name": "insider"
+            },
+            "title": "How Amazon weaned Alexa off Anthropic's pricey models to slash AI costs",
+            "url": "https://www.businessinsider.com/amazon-push-lower-alexa-ai-costs-use-anthropic-models-less-2026-7",
+            "urlToImage": "https://i.insider.com/6a612428548c9c486b30f4a5?width=1200&format=jpeg",
+            "publishedAt": "2026-07-23 09:00:03"
         },
         {
             "source": {
@@ -3255,132 +3393,6 @@
             "url": "https://www.thehindu.com/sci-tech/technology/ai-and-the-brain-similar-in-scale-different-in-design/article70663265.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/fnqxqb/article70664426.ece/alternates/FREE_1200/iStock-1495853199.jpg",
             "publishedAt": "2026-07-21 07:17:18"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "The new economics of enterprise AI with Berger Paint’s Partha Protim Mondal",
-            "url": "https://www.expresscomputer.in/exclusives/the-new-economics-of-enterprise-ai-with-berger-paints-partha-protim-mondal/136902/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/09/03095336/EC_Partha_Protim_Mondal_Berger_Paints_750.jpg",
-            "publishedAt": "2026-07-21 04:30:36"
-        },
-        {
-            "source": {
-                "name": "moneycontrol"
-            },
-            "title": "Google is working on new 'Frozen v2' AI chip for Gemini: Here's what it could do",
-            "url": "https://www.moneycontrol.com/technology/google-is-working-on-new-frozen-v2-ai-chip-for-gemini-here-s-what-it-could-do-article-13979159.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/04/20260416193338_Gemini-.png",
-            "publishedAt": "2026-07-21 04:21:25"
-        },
-        {
-            "source": {
-                "name": "supplychainbrain"
-            },
-            "title": "Why Supply Chains Leaders Are Still Underutilizing AI",
-            "url": "https://www.supplychainbrain.com/blogs/1-think-tank/post/44316-why-supply-chains-leaders-are-still-underutilizing-ai",
-            "urlToImage": "https://www.supplychainbrain.com/ext/resources/2025/09/16/artificial-intelligence-supply-chain-data-iStock-1477430842.webp?t=1758081767",
-            "publishedAt": "2026-07-21 04:00:00"
-        },
-        {
-            "source": {
-                "name": "infotechlead"
-            },
-            "title": "Hut 8 Secures $9.8 bn AI Data Center Lease, Fully Commercializes 1 GW Texas Campus",
-            "url": "https://infotechlead.com/data-center/hut-8-secures-9-8-bn-ai-data-center-lease-fully-commercializes-1-gw-texas-campus-97191",
-            "urlToImage": "https://infotechlead.com/wp-content/uploads/2024/09/NVIDIA-Blackwell.jpg",
-            "publishedAt": "2026-07-21 03:57:08"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Samsung’s GAIA Chip: A Quiet Bid to End Exynos Overheating Woes",
-            "url": "https://www.webpronews.com/samsungs-gaia-chip-a-quiet-bid-to-end-exynos-overheating-woes/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/07/article-21617-1784579407.jpeg",
-            "publishedAt": "2026-07-21 00:52:06"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "NVIDIA Unveils DLSS 5 and Cosmos AI Push at SIGGRAPH Keynote",
-            "url": "https://www.thelincolnianonline.com/2026/07/20/nvidia-unveils-dlss-5-and-cosmos-ai-push-at-siggraph-keynote.html",
-            "urlToImage": "https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916",
-            "publishedAt": "2026-07-21 00:02:44"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/21/us-judge-approves-anthropic039s-15-billion-settlement-of-copyright-lawsuit",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/21/4020617.jpg",
-            "publishedAt": "2026-07-20T23:47:00Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "Papua New Guinea moves to outlaw AI deepfakes as victims call for more protection",
-            "url": "https://www.abc.net.au/news/2026-07-21/new-laws-in-png-target-ai-deepfakes/106928414",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0628e1df143222ed07026a4a1f323f75?impolicy=wcms_watermark_news&cropH=789&cropW=1402&xPos=0&yPos=167&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-07-20T23:26:32Z"
-        },
-        {
-            "source": {
-                "id": "2492bcb79914b2ce3d9867453dae22ac",
-                "name": "Financial Post",
-                "url": "https://financialpost.com",
-                "country": "ca"
-            },
-            "title": "Burnham Picks Narayan as First UK AI Minister to Attend Cabinet",
-            "url": "https://financialpost.com/pmn/business-pmn/burnham-picks-narayan-as-first-uk-ai-minister-to-attend-cabinet",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/776508112.jpg",
-            "publishedAt": "2026-07-20T23:20:54Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "CNBC's The China Connection newsletter: The AI consumer bet might surprise you",
-            "url": "https://www.cnbc.com/2026/07/20/cnbcs-the-china-connection-newsletter-the-ai-consumer-bet-might-surprise-you.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335119-1784094916462-mmexport1784094836064.jpg?v=1784095053&w=1920&h=1080",
-            "publishedAt": "2026-07-20T23:00:01Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Anthropic's $1.5B settlement of authors' AI copyright lawsuit gets greenlight",
-            "url": "https://nypost.com/2026/07/20/business/anthropics-1-5b-settlement-of-authors-ai-copyright-lawsuit-gets-greenlight/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/anthropic-dario-amodei-claude.jpg?quality=75&strip=all&1784572443&w=1200",
-            "publishedAt": "2026-07-20T22:54:32Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Artificial Intelligence in Behavioral Threat Assessment: Early Identification and Threat Hunting",
-            "url": "https://www.europesays.com/3143592/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/campussecuritytodayOG.jpg",
-            "publishedAt": "2026-07-20T22:35:32Z"
         }
     ]
 }
