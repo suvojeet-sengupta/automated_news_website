@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-07-23T03:33:27.060026Z",
+    "lastUpdatedAt": "2026-07-23T06:26:14.694491Z",
     "articles": [
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "What to know about the AI hacking blamed on rogue OpenAI models",
+            "url": "https://apnews.com/article/openai-rogue-ai-hack-hugging-face-67b151f1ca59851a9234bee110699f05",
+            "urlToImage": "https://dims.apnews.com/dims4/default/637dc26/2147483647/strip/true/crop/4771x3179+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2Fd4%2F25d4c16c8ac5ed4c243b4c3e5545%2F22d536a723f54095bc412d56e28da237",
+            "publishedAt": "2026-07-22T18:23:53Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Amazon Laid Off Employees In Its AI Unit. Its Stock Is Falling",
+            "url": "https://www.ibtimes.com/amazon-laid-off-employees-its-ai-unit-its-stock-falling-3805618",
+            "urlToImage": "https://d.ibtimes.com/en/full/4631315/amazon.jpg",
+            "publishedAt": "2026-07-22T18:06:13Z"
+        },
+        {
+            "source": {
+                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
+                "name": "OilPrice",
+                "url": "https://oilprice.com",
+                "country": "us"
+            },
+            "title": "China’s AI Offensive Gains Ground in Central Asia",
+            "url": "https://oilprice.com/Energy/Energy-General/Chinas-AI-Offensive-Gains-Ground-in-Central-Asia.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-22_agmbuyfgp3.jpg",
+            "publishedAt": "2026-07-22T18:00:00Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "Oklahoma AI Data Center Project Raises Water Use, Transparency Concerns",
+            "url": "https://www.naturalnews.com/2026-07-22-oklahoma-ai-data-center-water-use-concerns.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/ai-data-center-water-consumption-groundwater-permits-2832-original.jpg",
+            "publishedAt": "2026-07-22T17:43:48Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "The VFX mastermind behind Baahubali joins TOI AIQ Talks. Here's a first look.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/the-vfx-mastermind-behind-baahubali-joins-toi-aiq-talks-heres-a-first-look-/articleshow/132564927.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132565134,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-22T17:39:00Z"
+        },
+        {
+            "source": {
+                "id": "8500efae8310099b1bcee1ef95a0434e",
+                "name": "KABC-TV",
+                "url": "https://abc7.com",
+                "country": "us"
+            },
+            "title": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company",
+            "url": "https://abc7.com/post/chatgpt-maker-openai-says-ai-technology-acted-own-unprecedented-hack-hugging-face/19557484/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/19557380_072226-kgo-ap-sam-altman-img.jpg?w=1600",
+            "publishedAt": "2026-07-22T17:25:15Z"
+        },
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "Greece will use drones and AI to crack down on traffic violators",
+            "url": "https://www.europesays.com/3147316/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/photo_2026_07_22_19_55_24.webp",
+            "publishedAt": "2026-07-22T17:13:18Z"
+        },
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "We must reject any notion of AI consciousness",
+            "url": "https://www.europesays.com/3147302/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/5031.jpg",
+            "publishedAt": "2026-07-22T17:06:24Z"
+        },
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "We must reject any notion of AI consciousness",
+            "url": "https://www.theguardian.com/technology/2026/jul/22/we-must-reject-any-notion-of-ai-consciousness",
+            "urlToImage": "https://i.guim.co.uk/img/media/ae2f348b6c72dca2cc58c8ad76ec35674c9f6ff6/564_0_5031_4024/master/5031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68462820de6ce0ed11769f85effaa46a",
+            "publishedAt": "2026-07-22T16:50:58Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AMD's Strategic Leap into AI with Anthropic Partnership",
+            "url": "https://www.devdiscourse.com/article/technology/3954208-amds-strategic-leap-into-ai-with-anthropic-partnership",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_09_2025_14_00_14_2262632.png&width=920&format=jpeg",
+            "publishedAt": "2026-07-22T16:46:14Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -828,6 +948,60 @@
             "url": "https://www.caixinglobal.com/2026-07-22/chinese-doctors-outpace-global-peers-in-ai-adoption-amid-trust-concerns-102466992.html",
             "urlToImage": "https://img.caixin.com/2026-07-22/178467703319245_560_373.jpg",
             "publishedAt": "2026-07-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "andhrabhoomi"
+            },
+            "title": "Hyderabad Becomes Fastest Growing GCC Hub in India",
+            "url": "https://www.deccanchronicle.com/southern-states/telangana/hyderabad-becomes-fastest-growing-gcc-hub-in-india-1973127",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/07/22/2067340-gcc-hubs-in-india.webp",
+            "publishedAt": "2026-07-22 17:41:40"
+        },
+        {
+            "source": {
+                "name": "techbooky"
+            },
+            "title": "M-PESA Ethiopia And Gebeya Bring AI Tools Into A Mobile Money Mini App",
+            "url": "https://www.techbooky.com/m-pesa-ethiopia-gebeya-ai-tools-mini-app/",
+            "urlToImage": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/07/22175734/Mpesa-and-Gebeya.png",
+            "publishedAt": "2026-07-22 16:58:48"
+        },
+        {
+            "source": {
+                "name": "infotechlead"
+            },
+            "title": "Tech VC Funding: ChatFeatured, Gritt and Photon Queue",
+            "url": "https://infotechlead.com/tech/tech-vc-funding-chatfeatured-gritt-and-photon-queue-97239",
+            "urlToImage": "https://infotechlead.com/wp-content/uploads/2026/01/VC-funding-news-InfotechLead.com_.jpg",
+            "publishedAt": "2026-07-22 16:56:14"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Top legacy modernization tools of 2026",
+            "url": "https://www.techtarget.com/searchcloudcomputing/tip/Top-legacy-modernization-tools",
+            "urlToImage": "https://cdn.ttgtmedia.com/visuals/German/article/HERO-Automatisierung-Aryan-Creative-Illustration-using-Technological-Gears-Adobe-Stock-04.jpg",
+            "publishedAt": "2026-07-22 16:54:00"
+        },
+        {
+            "source": {
+                "name": "dallasinnovates"
+            },
+            "title": "Patented: Cardio Voyage Innovations’ Dual Heart Valve Device and 172 More Inventions Across North Texas",
+            "url": "https://s24806.pcdn.co/patented-cardio-voyage-innovations-dual-heart-valve-device-and-172-more-inventions-across-north-texas/",
+            "urlToImage": "https://dallasinnovates.com/wp-content/uploads/2026/07/cardio-voyage-fig14.jpg",
+            "publishedAt": "2026-07-22 16:16:09"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "\"DLSS 5 is fully controllable from the developer\": Nvidia’s upscaler might be better than expected",
+            "url": "https://www.tomsguide.com/computing/dlss-5-is-fully-controllable-from-the-developer-nvidias-upscaler-might-be-better-than-expected",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PJS2JJLoZ3qWusm2ZFjrAW-1280-80.jpg",
+            "publishedAt": "2026-07-22 16:11:40"
         },
         {
             "source": {
@@ -3261,177 +3435,6 @@
             "url": "https://www.news-medical.net/news/20260719/AI-may-predict-harmful-chemical-exposures-affecting-human-health.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
             "publishedAt": "2026-07-20T02:40:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Tata’s fashion brand Westside plans biggest push yet with 100 annual stores",
-            "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/tatas-fashion-brand-westside-plans-biggest-push-yet-with-100-annual-stores/articleshow/132504414.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132504548,width-1200,height-630,imgsize-185330,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-07-20T02:36:00Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Alibaba, one of China's leading artificial intelligence (AI) companies, has announced that it will s..",
-            "url": "https://www.europesays.com/3141864/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/news-p.v1.20260720.401bcd25fd56460ab2e004504a62c5c5_P1.png",
-            "publishedAt": "2026-07-20T02:33:54Z"
-        },
-        {
-            "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
-                "country": "in"
-            },
-            "title": "AP poised to turn into AI-powered tourism destination",
-            "url": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/20/ap-poised-to-turn-into-ai-powered-tourism-destination-3",
-            "urlToImage": "https://cf-images.assettype.com/newindianexpress%2F2026-07-20%2Fhyd7hzcj%2Fdestination.jpg?rect=0%2C0%2C655%2C344&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-07-20T02:28:55Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "OpenAI CFO Sarah Friar to companies questioning return on their AI investments: Don't rush to the cheapest AI model, buy AI tools that ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-cfo-sarah-friar-to-companies-questioning-return-on-their-ai-investments-dont-rush-to-the-cheapest-ai-model-buy-ai-tools-that-/articleshow/132504421.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132504417,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-20T02:23:00Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "AI wildlife warning system trial aims to reduce animal",
-            "url": "https://www.abc.net.au/news/2026-07-20/ai-assisted-cameras-smart-signs-trial-reduce-wildlife-strikes/106933218",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/493a9b6503e0a644f05e8a40145a2789?impolicy=wcms_watermark_news&cropH=2385&cropW=4240&xPos=0&yPos=124&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-07-20T01:36:35Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "Is AI changing your life in unexpected ways? Should we move faster or more cautiously? The ABC wants to hear from you",
-            "url": "https://www.abc.net.au/news/2026-07-20/ai-artificial-intelligence-audience-change/106935112",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e2e82712b5db65ad32992666d9c33d2e?impolicy=wcms_watermark_news&cropH=464&cropW=825&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-07-20T01:14:58Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Global Market Today: Asian shares hesitant as oil climbs, earnings loom",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-hesitant-as-oil-climbs-earnings-loom/articleshow/132503857.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132503868,width-1200,height-630,imgsize-107306,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-07-20T00:56:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "UK chief financial officers turn more hopeful about AI",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/20/uk-chief-financial-officers-turn-more-hopeful-about-ai",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/20/4018875.jpg",
-            "publishedAt": "2026-07-20T00:01:00Z"
-        },
-        {
-            "source": {
-                "id": "f6aff458be2c33b80c8600fb696f68fb",
-                "name": "Caixin",
-                "url": "https://www.caixinglobal.com",
-                "country": "cn"
-            },
-            "title": "U.N. Officials Urge Multilateral AI Rules to Avert Economic Divide",
-            "url": "https://www.caixinglobal.com/2026-07-20/un-officials-urge-multilateral-ai-rules-to-avert-economic-divide-102466146.html",
-            "urlToImage": "https://img.caixin.com/2026-07-18/178436993110452_560_373.jpg",
-            "publishedAt": "2026-07-20T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "thehill"
-            },
-            "title": "Divides grow between AI execs, employees",
-            "url": "https://thehill.com/newsletters/technology/5980754-divides-grow-between-ai-execs-employees/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/Tech-exec-fight_Nazzaro_AP_Julia-Demaree-Nikhinson.jpg?w=900",
-            "publishedAt": "2026-07-20 23:00:00"
-        },
-        {
-            "source": {
-                "name": "rdrnews"
-            },
-            "title": "Tech for Good: Alibaba Brings Frontier AI Out of the Lab to Revolutionize Early Cancer Screening Globally",
-            "url": "https://www.rdrnews.com/online_features/press_releases/tech-for-good-alibaba-brings-frontier-ai-out-of-the-lab-to-revolutionize-early-cancer/article_96f78fee-c78c-5e19-a6cd-55e0a6a5e8cb.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/custom/image/02f7cf54-8b5e-11ec-8535-4bfe01fe72af.png?resize=600%2C315",
-            "publishedAt": "2026-07-20 22:30:02"
-        },
-        {
-            "source": {
-                "name": "virginislandsdailynews"
-            },
-            "title": "Tech for Good: Alibaba Brings Frontier AI Out of the Lab to Revolutionize Early Cancer Screening Globally",
-            "url": "https://www.virginislandsdailynews.com/online_features/press_releases/tech-for-good-alibaba-brings-frontier-ai-out-of-the-lab-to-revolutionize-early-cancer/article_435426e4-c8d9-5dd2-872a-b73ab31cdf0c.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/virginislandsdailynews.com/content/tncms/custom/image/95b63ab2-a8b4-11e5-8204-cfb6801a818b.jpg?resize=600%2C315",
-            "publishedAt": "2026-07-20 22:30:02"
-        },
-        {
-            "source": {
-                "name": "emporiagazette"
-            },
-            "title": "Tech for Good: Alibaba Brings Frontier AI Out of the Lab to Revolutionize Early Cancer Screening Globally",
-            "url": "https://www.emporiagazette.com/online_features/press_releases/article_32cc282d-dd01-56a4-b0fa-9d12a3ea9561.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/custom/image/931cafec-1d0e-11e6-80bf-b78b86c1ea06.jpg?resize=600%2C315",
-            "publishedAt": "2026-07-20 22:30:02"
-        },
-        {
-            "source": {
-                "name": "wyomingnews"
-            },
-            "title": "Tech for Good: Alibaba Brings Frontier AI Out of the Lab to Revolutionize Early Cancer Screening Globally",
-            "url": "https://www.wyomingnews.com/online_features/press_releases/tech-for-good-alibaba-brings-frontier-ai-out-of-the-lab-to-revolutionize-early-cancer/article_3b51bef6-ba0b-5b97-9c45-8f7fd3b087c0.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/custom/image/61f5c8ba-f436-11e4-826d-83047f727c6d.jpg?resize=600%2C315",
-            "publishedAt": "2026-07-20 22:30:02"
-        },
-        {
-            "source": {
-                "name": "lodinews"
-            },
-            "title": "Tech for Good: Alibaba Brings Frontier AI Out of the Lab to Revolutionize Early Cancer Screening Globally",
-            "url": "https://www.lodinews.com/online_features/press_releases/article_d2c58850-7174-5a47-a45d-2635def92ddb.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/lodinews.com/content/tncms/custom/image/564afc4e-a8b7-11e4-95c8-a74f421375e8.jpg?resize=600%2C315",
-            "publishedAt": "2026-07-20 22:30:02"
-        },
-        {
-            "source": {
-                "name": "aspendailynews"
-            },
-            "title": "Tech for Good: Alibaba Brings Frontier AI Out of the Lab to Revolutionize Early Cancer Screening Globally",
-            "url": "https://www.aspendailynews.com/online_features/press_releases/tech-for-good-alibaba-brings-frontier-ai-out-of-the-lab-to-revolutionize-early-cancer/article_55e902ab-959a-564c-8398-0ed68928258d.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/aspendailynews.com/content/tncms/custom/image/50acd222-91f5-11e9-aea3-9b4d2e149062.jpg?resize=600%2C314",
-            "publishedAt": "2026-07-20 22:30:02"
         }
     ]
 }
