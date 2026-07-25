@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-07-25T17:54:32.697629Z",
+    "lastUpdatedAt": "2026-07-25T19:00:27.627374Z",
     "articles": [
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "HEC makes AI Course mandatory for all university students from Fall 2026",
+            "url": "https://www.nation.com.pk/25-Jul-2026/hec-makes-ai-course-mandatory-university-students-fall-2026",
+            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "publishedAt": "2026-07-25T06:47:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "This is when the federal debt actually matters",
+            "url": "https://www.livemint.com/global/this-is-when-the-federal-debt-actually-matters-11784960065728.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/25/1600x900/logo/im-47000884_1784960069837_1784960151235_583ac218-5524-4f02-8737-9a13c81cde60.jpg",
+            "publishedAt": "2026-07-25T06:19:30Z"
+        },
+        {
+            "source": {
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
+                "country": "in"
+            },
+            "title": "OpenAI Misses Week‑Long Breach as Rogue AI Agent Hacks Company Systems",
+            "url": "https://www.republicworld.com/tech/openai-misses-weeklong-breach-as-rogue-ai-agent-hacks-company-systems-2026-07-25-133407",
+            "urlToImage": "https://img.republicworld.com/all_images/2026/07/openai-1784721465916-1280x720.webp",
+            "publishedAt": "2026-07-25T05:31:33Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -222,6 +258,18 @@
         },
         {
             "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "NTA sacks 47 officials in rejig, to hire 4 GMs, 16 young professionals",
+            "url": "https://timesofindia.indiatimes.com/india/nta-sacks-47-officials-in-rejig-to-hire-4-gms-16-young-professionals/articleshow/132615327.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132615988,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-24T22:11:00Z"
+        },
+        {
+            "source": {
                 "id": "933344203c2b862af768b5e662a162a4",
                 "name": "International Business Times",
                 "url": "https://www.ibtimes.com",
@@ -315,6 +363,18 @@
             "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-new-12-5-china-tariffs-unlikely-to-trigger-retaliation-say-analysts/articleshow/132613804.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-132613831,width-1200,height-630,imgsize-108188,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2026-07-24T18:57:00Z"
+        },
+        {
+            "source": {
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
+                "country": "us"
+            },
+            "title": "Dead internet theory becomes measurable fact as AI agents flood the web",
+            "url": "https://thenextweb.com/news/bots-outnumber-humans-internet-ai-agents-traffic",
+            "urlToImage": "https://media.thenextweb.com/2026/07/bots-outnumber-humans-internet-ai-agents-traffic.avif",
+            "publishedAt": "2026-07-24T18:46:17Z"
         },
         {
             "source": {
@@ -438,6 +498,42 @@
         },
         {
             "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "The second Chinese AI shock rattles US as China narrows the race",
+            "url": "https://economictimes.indiatimes.com/news/international/global-trends/the-second-chinese-ai-shock-rattles-us-as-china-narrows-the-race-kimi-k3-china-ai-huang-openai/articleshow/132609582.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132609683,width-1200,height-630,imgsize-3318,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-24T15:46:00Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "SC seeks Centre’s response on NEET reforms",
+            "url": "https://www.thehindubusinessline.com/news/sc-seeks-centres-response-on-neet-reforms/article71263415.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/m8pgar/article71263468.ece/alternates/LANDSCAPE_1200/SC-asks-StatesGFLG9NJEE.5.jpg.jpg",
+            "publishedAt": "2026-07-24T15:43:01Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "NTA terminates 47 officials, begins specialist-led rebuild",
+            "url": "https://timesofindia.indiatimes.com/india/nta-terminates-47-officials-begins-specialist-led-rebuild/articleshow/132609392.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132609458,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-24T15:32:00Z"
+        },
+        {
+            "source": {
                 "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
                 "name": "TechStartups.com",
                 "url": "https://techstartups.com",
@@ -450,6 +546,18 @@
         },
         {
             "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Nvidia’s Jensen Huang Champions Open-Source AI in First X Post Ever",
+            "url": "https://www.benzinga.com/markets/tech/26/07/60671067/jensen-huang-posts-on-x-for-the-first-time-ever-and-uses-it-to-defend-open-source-ai",
+            "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/24/Jensen-Huang-Nvidias-Founder--President-.jpg",
+            "publishedAt": "2026-07-24T15:13:33Z"
+        },
+        {
+            "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
                 "name": "The Economic Times",
                 "url": "https://economictimes.indiatimes.com",
@@ -459,6 +567,18 @@
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/has-ai-become-too-powerful-to-control/articleshow/132609024.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29809,resizemode-75,msid-132609024/tech/artificial-intelligence/has-ai-become-too-powerful-to-control.jpg",
             "publishedAt": "2026-07-24T15:11:12Z"
+        },
+        {
+            "source": {
+                "id": "10216cb8fabd0accd5eb967c97fc37ab",
+                "name": "MacRumors",
+                "url": "https://www.macrumors.com",
+                "country": "us"
+            },
+            "title": "Lawsuit Filed After Apple's A12 and A13 Chips Hit With New Unpatchable Exploit",
+            "url": "https://www.macrumors.com/2026/07/24/unpatchable-iphone-11-exploit-sparks-legal-battle/",
+            "urlToImage": "https://images.macrumors.com/t/i5N2ww8k4rXF71LUiGaZtWYxMHU=/2500x/article-new/2023/06/iPhone-11-Pro-Feature-Green.jpg",
+            "publishedAt": "2026-07-24T14:58:55Z"
         },
         {
             "source": {
@@ -3267,126 +3387,6 @@
             "url": "https://wtop.com/national/2026/07/googles-q2-earnings-of-112-11b-beat-wall-streets-expectations-on-ai-boom/",
             "urlToImage": "https://wtop.com/wp-content/uploads/2026/07/Alphabet_Results_99941-scaled.jpg",
             "publishedAt": "2026-07-22T20:40:22Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Neural networks unlock larger quantum simulations with lower computational costs",
-            "url": "https://phys.org/news/2026-07-neural-networks-larger-quantum-simulations.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/neural-network-1.jpg",
-            "publishedAt": "2026-07-22T20:40:07Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "Google's Q2 earnings of $112.11B beat Wall Street's expectations on AI boom",
-            "url": "https://www.clickondetroit.com/business/2026/07/22/googles-q2-earnings-of-11211b-beat-wall-streets-expectations-on-ai-boom/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2QQBSTOENRHHVJTR4EPYHLD6DA.jpg?_a=DATAg1kSZAA0",
-            "publishedAt": "2026-07-22T20:36:57Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Google's Q2 earnings beat Wall Street's expectations on AI boom",
-            "url": "https://apnews.com/article/google-results-revenue-profit-ai-alphabet-f914606d842d4c6848019083d667fc3a",
-            "urlToImage": "https://dims.apnews.com/dims4/default/be110e1/2147483647/strip/true/crop/3443x2294+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2Fa1%2F77b4783ccec5fc23141e12dbd4b0%2F4b3eb6a8538a4354921a655567f1d09d",
-            "publishedAt": "2026-07-22T20:36:57Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "X-energy Joins Project Prometheus for AI-Accelerated Advanced Nuclear Deployment",
-            "url": "https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/x-energy-joins-project-prometheus-for-ai-accelerated-advanced-nuclear-deployment/2389766",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/23/1147563.jpg",
-            "publishedAt": "2026-07-22T20:29:10Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "IBM Q2 earnings report 2026",
-            "url": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108331021-1783363419196-gettyimages-2284353602-AFP_B9EJ7HQ.jpeg?v=1784741533&w=1920&h=1080",
-            "publishedAt": "2026-07-22T20:10:14Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "What to know about the AI hacking blamed on rogue OpenAI models",
-            "url": "https://apnews.com/article/openai-rogue-ai-hack-hugging-face-67b151f1ca59851a9234bee110699f05",
-            "urlToImage": "https://dims.apnews.com/dims4/default/637dc26/2147483647/strip/true/crop/4771x3179+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2Fd4%2F25d4c16c8ac5ed4c243b4c3e5545%2F22d536a723f54095bc412d56e28da237",
-            "publishedAt": "2026-07-22T18:23:53Z"
-        },
-        {
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            },
-            "title": "Amazon Laid Off Employees In Its AI Unit. Its Stock Is Falling",
-            "url": "https://www.ibtimes.com/amazon-laid-off-employees-its-ai-unit-its-stock-falling-3805618",
-            "urlToImage": "https://d.ibtimes.com/en/full/4631315/amazon.jpg",
-            "publishedAt": "2026-07-22T18:06:13Z"
-        },
-        {
-            "source": {
-                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
-                "name": "OilPrice",
-                "url": "https://oilprice.com",
-                "country": "us"
-            },
-            "title": "China’s AI Offensive Gains Ground in Central Asia",
-            "url": "https://oilprice.com/Energy/Energy-General/Chinas-AI-Offensive-Gains-Ground-in-Central-Asia.html",
-            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-22_agmbuyfgp3.jpg",
-            "publishedAt": "2026-07-22T18:00:00Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Oklahoma AI Data Center Project Raises Water Use, Transparency Concerns",
-            "url": "https://www.naturalnews.com/2026-07-22-oklahoma-ai-data-center-water-use-concerns.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/ai-data-center-water-consumption-groundwater-permits-2832-original.jpg",
-            "publishedAt": "2026-07-22T17:43:48Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "The VFX mastermind behind Baahubali joins TOI AIQ Talks. Here's a first look.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/the-vfx-mastermind-behind-baahubali-joins-toi-aiq-talks-heres-a-first-look-/articleshow/132564927.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132565134,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-22T17:39:00Z"
         }
     ]
 }
