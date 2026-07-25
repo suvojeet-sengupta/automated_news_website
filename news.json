@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-07-25T22:50:13.473395Z",
+    "lastUpdatedAt": "2026-07-25T23:55:38.789680Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "WILLIAM BENNETT, JON HAGE: AI can mimic a teacher, but it cannot shepherd a soul",
+            "url": "https://www.foxnews.com/opinion/william-bennett-jon-hage-ai-mimic-teacher-cannot-shepherd-soul",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/AI-Classroom.jpg",
+            "publishedAt": "2026-07-25T11:00:45Z"
+        },
+        {
+            "source": {
+                "id": "d9acc08d8066fc3620da5e6b20b406ad",
+                "name": "Boulder Daily Camera",
+                "url": "https://www.dailycamera.com",
+                "country": "us"
+            },
+            "title": "AI, like a hovering parent, protects students from the failures they need (Opinion)",
+            "url": "https://www.dailycamera.com/2026/07/25/ai-education-crisis-learning-classroom-parent-protects-students-failures-opinion/",
+            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2026/07/AI_Health_Care_Poll_84564_1d4d7c.jpg?w=2000&h=1333",
+            "publishedAt": "2026-07-25T11:00:41Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Ready Data Centres with CFD Engineering",
+            "url": "https://www.tribuneindia.com/news/business/designing-ai-ready-data-centres-with-cfd-engineering/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBjNmNkMzgwLTg4MTctMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+            "publishedAt": "2026-07-25T10:53:13Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Designing AI-Ready Data Centres with CFD Engineering",
+            "url": "https://www.aninews.in/news/business/designing-ai-ready-data-centres-with-cfd-engineering20260725162105/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260725105045-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-07-25T10:51:06Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -3333,42 +3381,6 @@
             "url": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/indias-ai-infrastructure-75-reliant-on-global-supply-chains-says-red-hats-navtez-bal/132573188",
             "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-132573188,width-1200,height-900,resizemode-4/.jpg",
             "publishedAt": "2026-07-23 06:13:28"
-        },
-        {
-            "source": {
-                "name": "helpnetsecurity"
-            },
-            "title": "Product Showcase: AppViewX Agent Identity Security",
-            "url": "https://www.helpnetsecurity.com/2026/07/23/product-showcase-appviewx-agent-identity-security/",
-            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/22101907/appviewx-product_showcase.webp",
-            "publishedAt": "2026-07-23 05:30:01"
-        },
-        {
-            "source": {
-                "name": "techgenyz"
-            },
-            "title": "Google Frozen v2 Could Transform Future Gemini AI",
-            "url": "https://techgenyz.com/google-frozen-v2-gemini-ai-chip/",
-            "urlToImage": "https://techgenyz.com/wp-content/uploads/2026/07/frozen-v2-2.webp",
-            "publishedAt": "2026-07-23 04:39:52"
-        },
-        {
-            "source": {
-                "name": "marinij"
-            },
-            "title": "OpenAI models break out of test environment, hack company to steal answers",
-            "url": "https://www.marinij.com/2026/07/23/bay-area-ai-giant-openais-bot-rogue-attacks-company/",
-            "urlToImage": "https://www.marinij.com/wp-content/uploads/2026/07/ChatGPT-Ads_24182.jpg?w=1600&resize=1600,900",
-            "publishedAt": "2026-07-23 04:30:21"
-        },
-        {
-            "source": {
-                "name": "businessworld"
-            },
-            "title": "Utho Cloud To Deploy 10,000 GPUs To Expand India's AI Infrastructure",
-            "url": "https://www.businessworld.in/article/utho-cloud-to-deploy-10-000-gpus-to-expand-india-s-ai-infrastructure-616199",
-            "urlToImage": "https://static.businessworld.in/cloud_20240717090828_original_image_17.webp",
-            "publishedAt": "2026-07-23 00:00:00"
         }
     ]
 }
