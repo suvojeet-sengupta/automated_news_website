@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-07-25T06:12:23.260111Z",
+    "lastUpdatedAt": "2026-07-25T08:57:03.284712Z",
     "articles": [
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Washington Is Weighing Curbs On Chinese AI. Nvidia, Microsoft And Meta Warn Open Models Shouldn't Be Included",
+            "url": "https://www.ibtimes.com/washington-weighing-curbs-chinese-ai-nvidia-microsoft-meta-warn-open-models-shouldnt-included-3805714",
+            "urlToImage": "https://d.ibtimes.com/en/full/4649643/microsoft-ai.jpg",
+            "publishedAt": "2026-07-24T20:21:37Z"
+        },
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "Verizon Lands $1 Billion AI Infrastructure Deal With Google",
+            "url": "https://www.europesays.com/3151707/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/Verizon.jpg",
+            "publishedAt": "2026-07-24T20:21:13Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Restraining ChatGPT from using copyrighted work detrimental to AI growth: Delhi HC",
+            "url": "https://www.tribuneindia.com/news/india/restraining-chatgpt-from-using-copyrighted-work-detrimental-to-ai-growth-delhi-hc/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZlYTQ4NjkwLTg3OTgtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+            "publishedAt": "2026-07-24T19:50:58Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Meta, Nvidia, Microsoft defend open-weight AI against proposed US bans",
+            "url": "https://www.thenews.com.pk/latest/1410153-meta-nvidia-microsoft-defend-open-weight-ai-against-proposed-us-bans",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-07-24/1410153_124631_updates.jpg",
+            "publishedAt": "2026-07-24T19:49:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Marcos said Ph is ready for the AI era",
+            "url": "https://www.manilatimes.net/2026/07/25/news/marcos-said-ph-is-ready-for-the-ai-era/2391283",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/25/1150544.jpg",
+            "publishedAt": "2026-07-24T19:44:00Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "The $11 billion mistake: submarines over sovereign artificial intelligence",
+            "url": "https://www.canberratimes.com.au/story/9316576/letters-anthony-albanese-ai-plan-risks-australias-national-independence/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/pMXRnDj3SUU44AkPpn97sC/3167ff7b-629e-4a02-9259-0370e6a8426f.jpg/r0_36_1920_1044_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-07-24T19:30:00Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "Over-regulating AI could kill productivity's golden goose",
+            "url": "https://www.canberratimes.com.au/story/9316443/opinion-over-regulating-ai-could-kill-golden-goose/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/231012065/717801a6-29a0-4284-b574-2c327cf0e204.jpg/r0_30_1600_870_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-07-24T19:30:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Trump's new 12.5% China tariffs unlikely to trigger retaliation, say analysts",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-new-12-5-china-tariffs-unlikely-to-trigger-retaliation-say-analysts/articleshow/132613804.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132613831,width-1200,height-630,imgsize-108188,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-24T18:57:00Z"
+        },
         {
             "source": {
                 "id": "2f5884e252590f739df55c0e7db375df",
@@ -975,6 +1071,15 @@
         },
         {
             "source": {
+                "name": "abajournal"
+            },
+            "title": "How to close the legal experience gap with simulation-based learning platforms",
+            "url": "https://www.abajournal.com/columns/article/closing-the-legal-experience-gap-with-simulation-based-learning-platforms/",
+            "urlToImage": "https://www.abajournal.com/images/main_images/NicoleBlack2.jpg",
+            "publishedAt": "2026-07-24 18:56:00"
+        },
+        {
+            "source": {
                 "name": "cnbc"
             },
             "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
@@ -1017,6 +1122,15 @@
             "url": "https://www.techbooky.com/meta-facebook-verified-free-ai-scams-real-people/",
             "urlToImage": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/07/24142719/Introducing-Facebook-Verified_Header.webp",
             "publishedAt": "2026-07-24 13:28:25"
+        },
+        {
+            "source": {
+                "name": "sweetwaterreporter"
+            },
+            "title": "A Small AI Company Just Took the Stage at One of the Biggest Events in Computing, and It Points to Where Drug Discovery Is Headed",
+            "url": "https://www.sweetwaterreporter.com/online_features/press_releases/a-small-ai-company-just-took-the-stage-at-one-of-the-biggest-events-in/article_bbb0c795-110b-5b91-b0cf-0e2795a3f242.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/sweetwaterreporter.com/content/tncms/assets/v3/editorial/a/7a/a7a67381-42f8-57ac-af4f-f0787c66f208/6a64691213d45.image.jpg?resize=300%2C53",
+            "publishedAt": "2026-07-24 13:10:00"
         },
         {
             "source": {
@@ -3291,126 +3405,6 @@
             "url": "https://www.republicworld.com/india/are-you-using-genuine-apps-victims-lose-rs-6438-crore-as-school-dropout-uses-ai-to-develop-112-fake-banking-apps-2026-07-22-133101",
             "urlToImage": "https://img.republicworld.com/all_images/2026/07/are-you-using-genuine-apps-victims-lose-rs-6438-crore-as-school-dropout-uses-ai-to-develop-112-fake-banking-apps-1784718580756-1280x720.webp",
             "publishedAt": "2026-07-22T11:09:46Z"
-        },
-        {
-            "source": {
-                "id": "720c8090279dd552e56c637e16f9926a",
-                "name": "Davenport Quad-City Times",
-                "url": "https://qctimes.com",
-                "country": "us"
-            },
-            "title": "New AI-robotic arm at Scott Area Recycling Center",
-            "url": "https://qctimes.com/news/local/article_922efde4-f2f2-45da-93cb-54f208a36901.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/9/22/922efde4-f2f2-45da-93cb-54f208a36901/6a5fa13c34b4f.preview.jpg?crop=1683%2C884%2C0%2C173&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2026-07-22T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "85% of Indian finance leaders under pressure to prove AI ROI as governance lags: Survey",
-            "url": "https://www.tribuneindia.com/news/business/85-of-indian-finance-leaders-under-pressure-to-prove-ai-roi-as-governance-lags-survey/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTUwM2M3MDAwLTg1YmMtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-            "publishedAt": "2026-07-22T10:58:39Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "OpenAI says its technology, on its own, carried out \"unprecedented\" hack of another AI company",
-            "url": "https://www.cbsnews.com/news/openai-technology-on-its-own-unprecedented-hack-another-ai-company-hugging-face/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/10/8b428eb1-3552-47df-bc62-99114427bf13/thumbnail/1200x630/54f15a0f9d3968cfa4401dfad5ecac39/cbsn-fusion-openai-announces-plan-go-public-spacex-file-ipo-this-week-thumbnail.jpg",
-            "publishedAt": "2026-07-22T10:52:38Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "OpenAI says its technology, on its own, carried out \"unprecedented\" hack of another AI company",
-            "url": "https://www.cbsnews.com/sacramento/news/openai-technology-on-its-own-unprecedented-hack-another-ai-company-hugging-face/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/10/8b428eb1-3552-47df-bc62-99114427bf13/thumbnail/1200x630/54f15a0f9d3968cfa4401dfad5ecac39/cbsn-fusion-openai-announces-plan-go-public-spacex-file-ipo-this-week-thumbnail.jpg",
-            "publishedAt": "2026-07-22T10:52:00Z"
-        },
-        {
-            "source": {
-                "id": "aa1c24d57e58af502dd5aa31f23c45f4",
-                "name": "The Local Spain",
-                "url": "https://www.thelocal.es",
-                "country": "es"
-            },
-            "title": "AI unable to agree if Spain's property prices will drop",
-            "url": "https://www.thelocal.es/20260722/ai-unable-to-agree-if-spains-property-prices-will-drop",
-            "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-AFP__20240603__34UK7XU__v2__MidRes__SpainTourismRealEstate.jpg@webp",
-            "publishedAt": "2026-07-22T10:26:31Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "AI is reshaping software engineering, here's what developers say",
-            "url": "https://www.thenews.com.pk/latest/1409857-ai-is-reshaping-software-engineering-heres-what-developers-say",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-07-22/1409857_032324_updates.jpg",
-            "publishedAt": "2026-07-22T10:20:26Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Global Market: Chinese tech firms raise over $27 billion in Hong Kong to fuel AI, chip expansion",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-tech-firms-raise-over-27-billion-in-hong-kong-to-fuel-ai-chip-expansion/articleshow/132554758.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132556215,width-1200,height-630,imgsize-34814,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-07-22T10:09:00Z"
-        },
-        {
-            "source": {
-                "id": "f11e9506aaab942b5eafbb067eb85c51",
-                "name": "Modern Diplomacy",
-                "url": "https://moderndiplomacy.eu",
-                "country": "fr"
-            },
-            "title": "US and China Set for AI Talks in September",
-            "url": "https://moderndiplomacy.eu/2026/07/22/us-and-china-set-for-ai-talks-in-september/",
-            "urlToImage": "https://moderndiplomacy.eu/wp-content/uploads/2026/03/USA-China.jpg",
-            "publishedAt": "2026-07-22T10:00:28Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Anthropic to donate $20 million to US political group that supports AI regulation",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-to-donate-20-million-to-us-political-group-that-supports-ai-regulation/articleshow/132555814.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-101952,resizemode-75,msid-132555814/tech/artificial-intelligence/anthropic-to-donate-20-million-to-us-political-group-that-supports-ai-regulation.jpg",
-            "publishedAt": "2026-07-22T09:53:51Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "US-China AI Talks: Navigating the Frontier of Risk and Regulation",
-            "url": "https://www.devdiscourse.com/article/technology/3953956-us-china-ai-talks-navigating-the-frontier-of-risk-and-regulation",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_05_2026_14_02_24_5653608.png&width=920&format=jpeg",
-            "publishedAt": "2026-07-22T09:47:41Z"
         }
     ]
 }
