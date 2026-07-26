@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-07-26T19:15:54.928983Z",
+    "lastUpdatedAt": "2026-07-26T20:52:30.154164Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Yogi Adityanath on misinformation: Teachers must guide students to credible sources",
+            "url": "https://www.indiatoday.in/india/story/yogi-adityanath-teachers-students-misinformation-credible-sources-ptag-utrith-2956598-2026-07-26",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/up-cm-yogi-adityanath-232341862-16x9.jpg?VersionId=nfnTXU4raQnGOCJOTVLK8X2B.p76o_kK",
+            "publishedAt": "2026-07-26T08:42:43Z"
+        },
+        {
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            },
+            "title": "AI spending soars as tech giants keep cutting thousands of jobs",
+            "url": "https://www.moneycontrol.com/world/ai-spending-soars-as-tech-giants-keep-cutting-thousands-of-jobs-article-13983752.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/06/20260611110618_artificial-intelligence.jpg",
+            "publishedAt": "2026-07-26T08:35:45Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI adoption reshapes workflows and hiring across high",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-adoption-reshapes-workflows-and-hiring-across-high-growth-technology-companies-report/articleshow/132638128.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-87430,resizemode-75,msid-132638128/tech/artificial-intelligence/ai-adoption-reshapes-workflows-and-hiring-across-high-growth-technology-companies-report.jpg",
+            "publishedAt": "2026-07-26T07:55:54Z"
+        },
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "Portugal has energy for data centers. But will it have a network to connect them?",
+            "url": "https://www.europesays.com/3154681/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/server-room-data-center-networking-database-co-2026-01-09-10-39-47-utc.jpg",
+            "publishedAt": "2026-07-26T07:27:18Z"
+        },
         {
             "source": {
                 "id": "9f2e79f0f9194d0d88f0074def064e60",
@@ -168,6 +216,15 @@
             "url": "https://www.europesays.com/3154098/",
             "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/urlhttps3A2F2Fg.foolcdn.com2Feditorial2Fimages2F8792422Felon-musk_tesla_tsla_ceo_imagesourc.jpeg",
             "publishedAt": "2026-07-26T00:38:33Z"
+        },
+        {
+            "source": {
+                "name": "insider"
+            },
+            "title": "Microsoft bet everything on AI. Is its North Star now a noose?",
+            "url": "https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7",
+            "urlToImage": "https://i.insider.com/6a638819ce52cb26b8393951?width=1200&format=jpeg",
+            "publishedAt": "2026-07-26 08:07:01"
         },
         {
             "source": {
@@ -3405,66 +3462,6 @@
             "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/alphabets-quarterly-earnings-beat-wall-street-estimates-but-heres-what-is-spooking-investors/articleshow/132572049.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-132572092,width-1200,height-630,imgsize-345734,overlay-etmarkets/articleshow.jpg",
             "publishedAt": "2026-07-23T04:44:00Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "A busy parent's guide to students using AI",
-            "url": "https://abc17news.com/stacker-ai/2026/07/22/a-busy-parents-guide-to-students-using-ai/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/07/verizons-a-busy-parents-guide-to-students-using-ai.jpg",
-            "publishedAt": "2026-07-23T04:39:36Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/23/openai-blamed-a-hacking-event-on-its-ai-models-going-rogue-here-are-some-things-to-know",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/23/4024135.jpg",
-            "publishedAt": "2026-07-23T04:30:00Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "As AI expands, California communities debate new data center projects",
-            "url": "https://www.cbsnews.com/sacramento/news/as-ai-expands-california-communities-debate-new-data-center-projects/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/23/de829c74-af9f-4e2e-b7d3-4999efa21081/thumbnail/1200x630/bd8827d5d2c1da588c5268dc2495ac1f/gettyimages-2285284957.jpg",
-            "publishedAt": "2026-07-23T04:25:55Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
-            "url": "https://www.breitbart.com/news/openai-says-rogue-ai-models-broke-free-from-human-control-some-see-it-as-a-warning-shot/",
-            "urlToImage": "https://media.breitbart.com/media/2026/07/wi/ap/openai-56692-openai-openai-logo-is-displayed-cell-phone-front-of-an-image-generated-by-chatgpt-dall-640x335.jpg",
-            "publishedAt": "2026-07-23T03:50:14Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "China has cracked down on AI companions. What can we learn from this?",
-            "url": "https://www.tribuneindia.com/news/china/china-has-cracked-down-on-ai-companions-what-can-we-learn-from-this/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTlmMTdhNDEwLTg2NDgtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-            "publishedAt": "2026-07-23T03:43:03Z"
         }
     ]
 }
