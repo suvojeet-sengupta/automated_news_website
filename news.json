@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-07-27T22:01:25.264985Z",
+    "lastUpdatedAt": "2026-07-27T23:58:16.678090Z",
     "articles": [
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "What Makes U.S. Markets More Resistant To Roiling?",
+            "url": "https://www.forbes.com/councils/forbesfinancecouncil/2026/07/27/what-makes-us-markets-more-resistant-to-roiling/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a638c7642f0a8cf1ba2e382/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-07-27T11:45:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "HSBC to hire 100 AI specialists, 100 wealth managers in boost to Singapore hub",
+            "url": "https://economictimes.indiatimes.com/jobs/mid-career/hsbc-to-hire-100-ai-specialists-100-wealth-managers-in-boost-to-singapore-hub/articleshow/132659955.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132660103,width-1200,height-630,imgsize-32046,overlay-etcareers/articleshow.jpg",
+            "publishedAt": "2026-07-27T11:23:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Technology Must Be Anchored in Trust, Says Dr. Kashyap Jani at PRSI National Conference on Fact",
+            "url": "https://www.tribuneindia.com/news/business/technology-must-be-anchored-in-trust-says-dr-kashyap-jani-at-prsi-national-conference-on-fact-checking-in-the-age-of-ai/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU1MjQ3Y2YwLTg5YWMtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+            "publishedAt": "2026-07-27T11:18:22Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "Wipro expands Databricks partnership for enterprise AI, sets up dedicated business practice",
+            "url": "https://www.cnbctv18.com/market/stocks/wipro-share-price-expands-databricks-partnership-for-enterprise-ai-sets-up-dedicated-business-practice-19954847.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/07/codex-micro-3-2026-07-608ca1605c73dac71d500494071a1bd8.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-07-27T11:16:02Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Technology Must Be Anchored in Trust, Says Dr. Kashyap Jani at PRSI National Conference on Fact-Checking in the Age of AI",
+            "url": "https://www.aninews.in/news/business/technology-must-be-anchored-in-trust-says-dr-kashyap-jani-at-prsi-national-conference-on-fact-checking-in-the-age-of-ai20260727164556/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260727111543-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-07-27T11:15:56Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Sam Altman, Satya Nadella, Sundar Pichai, Elon Musk and Jensen Huang unite behind one AI vision: Why America's biggest tech billionaires are calling for open-weight AI models",
+            "url": "https://economictimes.indiatimes.com/news/international/global-trends/sam-altman-satya-nadella-sundar-pichai-elon-musk-and-jensen-huang-unite-behind-one-ai-vision-why-americas-biggest-tech-billionaires-are-calling-for-open-weight-ai-models/articleshow/132659597.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132659746,width-1200,height-630,imgsize-204628,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-27T11:08:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "HSBC to hire 100 AI specialists, 100 wealth managers in boost to Singapore hub",
+            "url": "https://www.reuters.com/legal/transactional/hsbc-hire-100-ai-specialists-100-wealth-managers-boost-singapore-hub-2026-07-27/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/M6INGREYDVJZNOZWIC6JRJP4HA.jpg?auth=fc39f5d5b2017f4796130db5cb251c37e86cf6e9aa58eda040fe5a0fb0e324a0&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-27T11:05:14Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Data center bans across the US could give China the edge in AI war",
+            "url": "https://www.foxnews.com/opinion/war-data-centers-jeopardizes-economy-national-security",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/utah-data-center-protest-box-elder-county.jpeg",
+            "publishedAt": "2026-07-27T11:00:39Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Sam Altman says singularity is here and humans must not be terrified",
+            "url": "https://www.indiatoday.in/technology/news/story/sam-altman-says-singularity-is-here-and-humans-must-not-be-terrified-2957287-2026-07-27",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/sam-altman-175223836-16x9.jpg?VersionId=iPgMfhNUche5BXpecbGR0y9Gc.Igktrc",
+            "publishedAt": "2026-07-27T10:55:20Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "China and Brazil: Strategic Coordination and Future Trade Enhancements",
+            "url": "https://www.devdiscourse.com/article/politics/3955893-china-and-brazil-strategic-coordination-and-future-trade-enhancements",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_23_01_9613234.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-07-27T10:46:37Z"
+        },
         {
             "source": {
                 "id": "435d508bebcc8689d5c7711d44865b80",
@@ -444,6 +564,24 @@
             "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
             "urlToImage": "https://images.theconversation.com/files/750128/original/file-20260726-57-o10gwu.jpg?ixlib=rb-4.1.1&rect=0%2C182%2C4288%2C2144&q=45&auto=format&w=1356&h=668&fit=crop",
             "publishedAt": "2026-07-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "indianexpress"
+            },
+            "title": "Did OpenAI’s AI agents go ‘rogue’? Why the answer is more complicated than it seems",
+            "url": "https://indianexpress.com/article/explained/explained-ai/openai-ai-agents-hacked-hugging-face-ai-safety-10805721/",
+            "urlToImage": "https://images.indianexpress.com/2026/07/OpenAI-agent-hack.jpg",
+            "publishedAt": "2026-07-27 11:14:24"
+        },
+        {
+            "source": {
+                "name": "infotechlead"
+            },
+            "title": "AI, Stablecoins and Agentic Commerce Drive Fintech Transformation as Visa, Mastercard, Stripe, NVIDIA and Google Lead Payment Infrastructure Race",
+            "url": "https://infotechlead.com/digital/ai-stablecoins-and-agentic-commerce-drive-fintech-transformation-as-visa-mastercard-stripe-nvidia-and-google-lead-payment-infrastructure-race-97307",
+            "urlToImage": "https://infotechlead.com/wp-content/uploads/2016/12/digital-payment-and-technology.jpg",
+            "publishedAt": "2026-07-27 10:07:04"
         },
         {
             "source": {
@@ -3288,132 +3426,6 @@
             "url": "https://aithority.com/it-and-devops/cloud/qumulusai-signs-32-million-two-year-nvidia-blackwell-b300-agreement-with-ai-inference-platform-provider/",
             "urlToImage": "https://aithority.com/wp-content/uploads/2026/07/3d-rendering-artificial-intelligence-ai-research-600nw-2372502853.jpg",
             "publishedAt": "2026-07-24 07:22:19"
-        },
-        {
-            "source": {
-                "name": "business-standard"
-            },
-            "title": "Amazon cuts jobs in AGI unit as it sharpens focus on key AI projects",
-            "url": "https://www.business-standard.com/industry/news/amazon-cuts-jobs-in-agi-unit-as-it-sharpens-focus-on-key-ai-projects-126072400229_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/05/full/1780636957-6275.JPG",
-            "publishedAt": "2026-07-24 04:32:50"
-        },
-        {
-            "source": {
-                "name": "itbusinessnet"
-            },
-            "title": "GOAI Global Open-Source AI Challenge – Four Tracks Officially Launched",
-            "url": "https://itbusinessnet.com/2026/07/goai-global-open-source-ai-challenge-four-tracks-officially-launched/",
-            "urlToImage": "https://itbusinessnet.com/wp-content/uploads/2026/07/306212_8fc8e0f3a46d78bc_001.jpg",
-            "publishedAt": "2026-07-24 03:03:48"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Amazon Layoffs: AGI Team Hit With Job Cuts as AI Strategy Shifts",
-            "url": "https://www.latestly.com/technology/amazon-layoffs-agi-team-hit-with-job-cuts-as-ai-strategy-shifts-7529481.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/10/12-450304461.jpg",
-            "publishedAt": "2026-07-24 02:02:21"
-        },
-        {
-            "source": {
-                "name": "natlawreview"
-            },
-            "title": "Choosing Between U.S. and Chinese AI Models: The Export Control Risks on Both Sides",
-            "url": "https://natlawreview.com/article/choosing-between-us-and-chinese-ai-models-export-control-risks-both-sides",
-            "urlToImage": "https://natlawreview.com/sites/default/files/2026-07/Artificial%20Intelligence%20ai%20.jpg",
-            "publishedAt": "2026-07-24 00:48:37"
-        },
-        {
-            "source": {
-                "name": "businessworld"
-            },
-            "title": "Amazon Cuts Jobs In Parts Of AGI Team As It Refocuses AI Efforts",
-            "url": "https://www.businessworld.in/article/amazon-cuts-jobs-in-parts-of-agi-team-as-it-refocuses-ai-efforts-616358",
-            "urlToImage": "https://static.businessworld.in/1603356797_x5tE1Q_2020_10_22T054049Z_1_LYNXMPEG9L0CL_RTROPTP_4_EU_AMAZON_COM_ANTITRUST.JPG",
-            "publishedAt": "2026-07-24 00:00:00"
-        },
-        {
-            "source": {
-                "name": "businessworld"
-            },
-            "title": "Meta Warns Smart Glasses Users Of Instagram Suspension Under New Rules",
-            "url": "https://www.businessworld.in/article/meta-warns-smart-glasses-users-of-instagram-suspension-under-new-rules-616485",
-            "urlToImage": "https://static.businessworld.in/meta_20250125090554_original_image_16.webp",
-            "publishedAt": "2026-07-24 00:00:00"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Engineering Intelligence: Shyamala Bai Kotin’s Journey Toward Trustworthy AI in Aerospace",
-            "url": "https://techbullion.com/engineering-intelligence-shyamala-bai-kotins-journey-toward-trustworthy-ai-in-aerospace/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/07/Shyamala-Pic-1-791x600.jpeg",
-            "publishedAt": "2026-07-23T23:20:03Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Alan Turing's gay short story reveals 'fun, cheeky' man who loved sex and literature",
-            "url": "https://phys.org/news/2026-07-alan-turing-gay-short-story.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/alan-turings-gay-short.jpg",
-            "publishedAt": "2026-07-23T23:10:01Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "track AI use cases to enhance public service delivery",
-            "url": "https://www.dailyexcelsior.com/cs-directs-deptts-to-fast-track-ai-use-cases-to-enhance-public-service-delivery/",
-            "urlToImage": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTAxYTIyOWIwLTg2ZWEtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-            "publishedAt": "2026-07-23T22:58:20Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "DES minister says building trust key to creating AI hub",
-            "url": "https://www.bangkokpost.com/business/general/3290812/des-minister-says-building-trust-key-to-creating-ai-hub",
-            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/07/24/6165047_700.jpeg",
-            "publishedAt": "2026-07-23T22:36:00Z"
-        },
-        {
-            "source": {
-                "id": "5bf0bdeb15a50383d0bd0c332086a129",
-                "name": "Mail & Guardian",
-                "url": "https://mg.co.za",
-                "country": "za"
-            },
-            "title": "How Waico is democratising AI",
-            "url": "https://mg.co.za/thought-leader/2026-07-23-how-waico-is-democratising-ai/",
-            "urlToImage": "https://images.newsteam.io/image/400/GbSdY1y2zckUP7s2AsqEmEuBcsfo7fmsXEs8ur62p87zopwG9Z1Z1k5ACm5zUPQRVLpQAsZQhcuCmFs87AbUFszTVSVREaF1WMD7qtyLQ5Zzsb2XC4eYMbkqMmFEWrt1CuUZ7DxRMb4wwM3R5AqHt",
-            "publishedAt": "2026-07-23T22:00:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns",
-            "url": "https://www.reuters.com/business/sap-cfo-says-ai-must-move-beyond-chatbot-low-hanging-fruit-before-seeing-returns-2026-07-23/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/6G6IQB2COFOW3P3AXAKZH73FLE.jpg?auth=0def16f7ab7328c959a28dc5ba95f98e75aa2bcf261221d9d3ac7f9eb27fa01a&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-07-23T21:53:00Z"
         }
     ]
 }
