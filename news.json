@@ -1,6 +1,135 @@
 {
-    "lastUpdatedAt": "2026-07-28T11:12:47.449642Z",
+    "lastUpdatedAt": "2026-07-28T13:53:55.453129Z",
     "articles": [
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "US lawmakers move to ban deceptive AI ads",
+            "url": "https://www.lokmattimes.com/international/us-lawmakers-move-to-ban-deceptive-ai-ads/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607283880892_202607.jpg",
+            "publishedAt": "2026-07-28T01:32:19Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US firms training AI using Chinese examples: Beijing",
+            "url": "https://timesofindia.indiatimes.com/business/international-business/us-firms-training-ai-using-chinese-examples-beijing/articleshow/132673221.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132673234,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-28T01:28:00Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "US bill targets addictive AI chatbots",
+            "url": "https://www.lokmattimes.com/international/us-bill-targets-addictive-ai-chatbots/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607283880890_202607.jpeg",
+            "publishedAt": "2026-07-28T01:24:33Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "UAE sovereign funds, firms to boost investments in India",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/uae-sovereign-funds-firms-to-boost-investments-in-india/articleshow/132673170.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132673190,width-1200,height-630,imgsize-241810,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-07-28T01:23:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Global Market Today: Asian stocks fall on AI jitters, oil extends drop",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-on-ai-jitters-oil-extends-drop/articleshow/132673128.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132673126,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-07-28T01:02:00Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "World Economic Forum unveils next tech wave",
+            "url": "https://www.bangkokpost.com/business/general/3292769/world-economic-forum-unveils-next-tech-wave",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260728/c1_3292769_260728060542_700.jpg",
+            "publishedAt": "2026-07-28T00:10:00Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "WEF unveils the next tech wave",
+            "url": "https://www.bangkokpost.com/business/general/3292769/wef-unveils-the-next-tech-wave",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260728/c1_3292769_260728060542_700.jpg",
+            "publishedAt": "2026-07-28T00:10:00Z"
+        },
+        {
+            "source": {
+                "name": "beforeitsnews"
+            },
+            "title": "AI PC Market Fueled by NPU Integration and Next-Generation Computing",
+            "url": "https://beforeitsnews.com/science-and-technology/2026/07/ai-pc-market-fueled-by-npu-integration-and-next-generation-computing-3107955.html",
+            "urlToImage": "https://beforeitsnews.com/img/v3/no-img.png",
+            "publishedAt": "2026-07-28 01:24:12"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Ilya Sutskever’s Safe Superintelligence gets access to Nvidia’s Vera Rubin platform",
+            "url": "https://siliconangle.com/2026/07/27/ilya-sutskevers-safe-superintelligence-gets-access-nvidias-vera-rubin-platform/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Photo-1.png",
+            "publishedAt": "2026-07-28 01:06:48"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "The AI Cost Trap: How Local Processing on PCs Could Tame Runaway Cloud Bills Without Killing the Cloud",
+            "url": "https://www.webpronews.com/the-ai-cost-trap-how-local-processing-on-pcs-could-tame-runaway-cloud-bills-without-killing-the-cloud/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/07/article-22191-1785184418.jpeg",
+            "publishedAt": "2026-07-28 00:32:06"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "KAIST researchers develop AI that learns executable theories of the world from observation",
+            "url": "https://completeaitraining.com/news/kaist-researchers-develop-ai-that-learns-executable/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/kaist-researchers-develop-ai-that-learns-executable-theories-of-the-world-from-o_2026-07-27.jpg",
+            "publishedAt": "2026-07-28 00:29:36"
+        },
+        {
+            "source": {
+                "name": "businessworld"
+            },
+            "title": "South Korea Emerges As Key Beneficiary Of Global AI Chip Race",
+            "url": "https://www.businessworld.in/article/south-korea-emerges-as-key-beneficiary-of-global-ai-chip-race-616614",
+            "urlToImage": "https://static.businessworld.in/1670932375_xIWKL7_SEMICONDUCTOR_CHIP_iStock_129613.jpg",
+            "publishedAt": "2026-07-28 00:00:00"
+        },
         {
             "source": {
                 "id": "6956007add5fc13a6721202ec906b1c4",
@@ -1044,6 +1173,24 @@
             "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
             "urlToImage": "https://images.theconversation.com/files/750128/original/file-20260726-57-o10gwu.jpg?ixlib=rb-4.1.1&rect=0%2C182%2C4288%2C2144&q=45&auto=format&w=1356&h=668&fit=crop",
             "publishedAt": "2026-07-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cnbc"
+            },
+            "title": "Microsoft touts cost-saving AI model for cybersecurity",
+            "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108340745-1785183915472-gettyimages-2272651611-gchanceo-2-4_mcfn9tsu.jpeg?v=1785184205&w=1200&h=675",
+            "publishedAt": "2026-07-27 23:46:25"
+        },
+        {
+            "source": {
+                "name": "centralchronicle_in"
+            },
+            "title": "IndiaAI Mission’s Safe & Trusted AI pillar advances responsible AI, 13 projects approved to tackle deepfakes and bias",
+            "url": "https://centralchronicle.in/indiaai-missions-safe-trusted-ai-pillar-advances-responsible-ai-13-projects-approved-to-tackle-deepfakes-and-bias/",
+            "urlToImage": "https://centralchronicle.in/wp-content/uploads/2026/07/cc-default.jpg",
+            "publishedAt": "2026-07-27 23:39:31"
         },
         {
             "source": {
@@ -3294,174 +3441,6 @@
             "url": "https://www.aninews.in/news/business/karnataka-looks-to-deepen-ai-ecosystem-with-industry-partnership-focus-on-youth-and-rural-education20260724135929/",
             "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260724082919-thumbnail-320x180-70.jpg",
             "publishedAt": "2026-07-24T08:29:29Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Rohtak's retired Professor honoured in Vietnam with 'Outstanding Professor Award'",
-            "url": "https://www.tribuneindia.com/news/haryana/rohtaks-retired-professor-honoured-in-vietnam-with-outstanding-professor-award/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJhZjA2MGYwLTg3MzgtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-            "publishedAt": "2026-07-24T08:21:48Z"
-        },
-        {
-            "source": {
-                "id": "f11e9506aaab942b5eafbb067eb85c51",
-                "name": "Modern Diplomacy",
-                "url": "https://moderndiplomacy.eu",
-                "country": "fr"
-            },
-            "title": "Can the U.S. and China Keep AI Safe as Their Tech Rivalry Deepens?",
-            "url": "https://moderndiplomacy.eu/2026/07/24/can-the-u-s-and-china-keep-ai-safe-as-their-tech-rivalry-deepens/",
-            "urlToImage": "https://moderndiplomacy.eu/wp-content/uploads/2026/03/USA-China.jpg",
-            "publishedAt": "2026-07-24T08:04:43Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "Trump expands pledge to curb high utility bills",
-            "url": "https://www.arkansasonline.com/news/2026/jul/24/trump-expands-pledge-to-curb-high-utility-bills/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213305008_213304071-1c430173136042ea9ce92b1e0eb52774_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-            "publishedAt": "2026-07-24T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Why China is rejecting US claims that Moonshot AI stole Anthropic technology",
-            "url": "https://www.thenews.com.pk/latest/1410080-why-china-is-rejecting-us-claims-that-moonshot-ai-stole-anthropic-technology",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-07-24/1410080_125133_updates.jpg",
-            "publishedAt": "2026-07-24T07:51:00Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "The UK Cabinet just got an AI Minister born in Bihar’s Muzaffarpur",
-            "url": "https://indianexpress.com/shorts/cities/patna/united-kingdom-cabinet-ai-minister-kanishka-narayan-bihar-muzaffarpur-10801449/",
-            "urlToImage": "https://images.indianexpress.com/2026/07/kanishka-narayan-1.jpg",
-            "publishedAt": "2026-07-24T07:47:28Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "The UK Cabinet just got an AI Minister born in Bihar’s Muzaffarpur",
-            "url": "https://indianexpress.com/article/cities/patna/united-kingdom-cabinet-ai-minister-kanishka-narayan-bihar-muzaffarpur-10801449/",
-            "urlToImage": "https://images.indianexpress.com/2026/07/kanishka-narayan-1.jpg",
-            "publishedAt": "2026-07-24T07:45:36Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "AI companies would need ‘kill switch’ under new bipartisan bill",
-            "url": "https://triblive.com/news/world/ai-companies-would-need-kill-switch-under-new-bipartisan-bill/",
-            "urlToImage": "https://assets-varnish.triblive.com/2026/07/9786497_web1_US-NEWS-CONGRESS-AI-LEGISLATION-FILEPIC-GET.jpg",
-            "publishedAt": "2026-07-24T07:39:36Z"
-        },
-        {
-            "source": {
-                "id": "027234d3c0a6aefa3d7ab81380e63d86",
-                "name": "LBC",
-                "url": "https://www.lbc.co.uk",
-                "country": "gb"
-            },
-            "title": "Second World War codebreaker Alan Turing shows ‘funny, cheeky’ side in story",
-            "url": "https://www.lbc.co.uk/article/second-world-war-codebreaker-alan-turing-shows-funny-cheeky-side-in-story-5Hjdf6s_2/",
-            "urlToImage": "https://images.globalplayer.com/images/830322?crop=16_9&width=1200&signature=q-qZSHKSeF94axKX8uyF0G6l1e8=",
-            "publishedAt": "2026-07-24T07:31:42Z"
-        },
-        {
-            "source": {
-                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
-                "name": "7NEWS Australia",
-                "url": "https://7news.com.au",
-                "country": "au"
-            },
-            "title": "Former Gold Coast teacher Robert John Thomas charged with making explicit images of children using artificial intelligence",
-            "url": "https://7news.com.au/news/former-gold-coast-teacher-robert-john-thomas-charged-with-making-explicit-images-of-children-using-artificial-intelligence-c-22624094",
-            "urlToImage": "https://images.7news.com.au/publication/C-22624094/b52b87022dca0b4cded38b796d78315b6167bb70-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-07-24T07:23:46Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Safe lift-off for ASX’s first software IPO since SaaSpocalypse",
-            "url": "https://www.afr.com/technology/safe-lift-off-for-asx-s-first-software-ipo-since-saaspocalypse-20260724-p60i6y",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.4463%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_225%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/737fb00e2a9ff4f7f6317a378731284d091c9f2d",
-            "publishedAt": "2026-07-24T07:23:26Z"
-        },
-        {
-            "source": {
-                "id": "f11e9506aaab942b5eafbb067eb85c51",
-                "name": "Modern Diplomacy",
-                "url": "https://moderndiplomacy.eu",
-                "country": "fr"
-            },
-            "title": "Who Is Funding America’s Growing Debt to the Rest of the World?",
-            "url": "https://moderndiplomacy.eu/2026/07/24/who-is-funding-americas-growing-debt-to-the-rest-of-the-world/",
-            "urlToImage": "https://moderndiplomacy.eu/wp-content/uploads/2026/04/Donald-Trump-2.jpg",
-            "publishedAt": "2026-07-24T07:15:40Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI investment boom faces growing credit risks as hyperscalers ramp up debt: Jefferies",
-            "url": "https://www.tribuneindia.com/news/business/ai-investment-boom-faces-growing-credit-risks-as-hyperscalers-ramp-up-debt-jefferies/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/assets/v22-12/dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9kZXNpZ246ZmF2aWNvbjJmOGNiY2MwLTQyODktMTFlZi04NjVmLTU3YzNkNjY2OGU0Ng==",
-            "publishedAt": "2026-07-24T06:08:35Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AI investment boom faces growing credit risks as hyperscalers ramp up debt: Jefferies",
-            "url": "https://www.livemint.com/technology/ai-investment-boom-faces-growing-credit-risks-as-hyperscalers-ramp-up-debt-jefferies-11784873184404.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
-            "publishedAt": "2026-07-24T06:06:23Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "born MP becomes UK's first AI minister",
-            "url": "https://www.tribuneindia.com/news/science-technology/who-is-kanishka-narayan-bihar-born-mp-becomes-uks-first-ai-minister/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTgyOWFhYTcwLTg3MjUtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-            "publishedAt": "2026-07-24T06:04:11Z"
         }
     ]
 }
