@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-07-29T05:46:45.021148Z",
+    "lastUpdatedAt": "2026-07-29T08:31:53.699400Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Coursera backs co-founder Andrew Ng's new AI education firm with $100 million investment",
+            "url": "https://www.reuters.com/technology/coursera-backs-co-founder-andrew-ngs-new-ai-education-firm-with-100-million-2026-07-28/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/D5RA4NKZKVMETK6KOQYI55B72Q.jpg?auth=064a82021a9655ea0abe3859677649c60d2548847b46016da5253b38b71ff3fe&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-28T20:08:59Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "How A.I. Books Sneak Their Way Into Stores",
+            "url": "https://www.nytimes.com/2026/07/28/books/ai-bookselling-amazon.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/06/11/books/00TBR-AI-bookselling/00TBR-AI-bookselling-facebookJumbo.jpg",
+            "publishedAt": "2026-07-28T19:22:00Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Cumulative fatigue emerges as top predictor of women's soccer injuries",
+            "url": "https://medicalxpress.com/news/2026-07-cumulative-fatigue-emerges-predictor-women.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/women-soccer.jpg",
+            "publishedAt": "2026-07-28T19:00:02Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "AI boom or debt trap? Why big tech’s billion",
+            "url": "https://www.cnbctv18.com/business/companies/ai-boom-or-debt-trap-why-big-techs-billion-dollar-borrowing-spree-is-worrying-investors-19955938.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-9dfab796ce8be0ac1f96553408789fc2.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-07-28T18:50:54Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Trump administration bans new Chinese humanoid robots, to protect US AI buildout",
+            "url": "https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ZJACBDZXEFKLVPNL36NC37YBXU.jpg?auth=cc20962b2b3bb4f3cb1c8048c09723c7b6ac4f0c4be7909b11b1dd3b110c3553&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-28T18:33:22Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "New AI tool predicts bowel cancer relapse risk from routine slides",
+            "url": "https://www.news-medical.net/news/20260728/New-AI-tool-predicts-bowel-cancer-relapse-risk-from-routine-slides.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+            "publishedAt": "2026-07-28T18:08:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets",
+            "url": "https://www.reuters.com/default/ai-startup-runlayer-sues-hr-technology-firm-rippling-allegedly-stealing-trade-2026-07-28/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/OQ2AJTSR55NI3JHD36BWN5UPBU.jpg?auth=b0e06be82af3455491cb0e01ead8d03c2b35ba2625596421c408673f677db2ed&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-28T17:51:41Z"
+        },
         {
             "source": {
                 "id": "0a4c92a1a91d0994627a96e134064d69",
@@ -924,6 +1008,33 @@
             "url": "https://www.bangkokpost.com/business/general/3292769/wef-unveils-the-next-tech-wave",
             "urlToImage": "https://static.bangkokpost.com/media/content/20260728/c1_3292769_260728060542_700.jpg",
             "publishedAt": "2026-07-28T00:10:00Z"
+        },
+        {
+            "source": {
+                "name": "powermag"
+            },
+            "title": "Microsoft’s $60 Million Genesis Mission Commitment Puts Nuclear AI at the Center",
+            "url": "https://www.powermag.com/microsofts-60-million-genesis-mission-commitment-puts-nuclear-ai-at-the-center/",
+            "urlToImage": "https://www.powermag.com/wp-content/uploads/2023/04/inl-materials-and-fuels-complex.jpg",
+            "publishedAt": "2026-07-28 20:14:42"
+        },
+        {
+            "source": {
+                "name": "thenewstack_io"
+            },
+            "title": "Jensen Huang says AI agents could drive a 5-10x computing boom: “100 billion agents and billions of robots”",
+            "url": "https://thenewstack.io/huang-semiconductor-tenfold-ai-agents/",
+            "urlToImage": "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png",
+            "publishedAt": "2026-07-28 19:46:50"
+        },
+        {
+            "source": {
+                "name": "swapupdate"
+            },
+            "title": "Exclusive: Samsung’s JB Park on Galaxy AI Costs, Monetisation, and What Stays Free",
+            "url": "https://www.swapupdate.in/exclusive-samsungs-jb-park-on-galaxy-ai-costs-monetisation-and-what-stays-free/",
+            "urlToImage": "https://i.gadgets360cdn.com/large/samsung-galaxy-z-fold8-fold-ultra-flip8_1785237963188.jpg",
+            "publishedAt": "2026-07-28 18:22:02"
         },
         {
             "source": {
@@ -3279,126 +3390,6 @@
             "url": "https://www.manilatimes.net/2026/07/26/business/sunday-business-it/what-happens-to-company-work-inside-personal-ai-accounts/2391398",
             "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/25/1150796.jpg",
             "publishedAt": "2026-07-25T16:01:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Japan expands physical AI strategy",
-            "url": "https://www.manilatimes.net/2026/07/26/business/sunday-business-it/japan-expands-physical-ai-strategy/2391397",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/25/1150795.jpg",
-            "publishedAt": "2026-07-25T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "RS Chairman asks first-time MPs to embrace AI, uphold parliamentary traditions",
-            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/rs-chairman-asks-first-time-mps-to-embrace-ai-uphold-parliamentary-traditions/articleshow/132629550.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132629595,width-1200,height-630,imgsize-89830,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-07-25T15:42:00Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "CJI Surya Kant flags concerns over accuracy, ethical use of AI in arbitration",
-            "url": "https://theprint.in/india/cji-surya-kant-flags-concerns-over-accuracy-ethical-use-of-ai-in-arbitration/2996819/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-07-25T14:16:08Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Asia Today: AI Partnerships, Geopolitics, Trade & Business",
-            "url": "https://www.europesays.com/3153271/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/6a1c7cd.jpeg",
-            "publishedAt": "2026-07-25T14:13:28Z"
-        },
-        {
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            },
-            "title": "The AI jobs apocalypse probably isn’t coming anytime soon",
-            "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-            "urlToImage": "https://i.guim.co.uk/img/media/e9dc22d7de9bd5d0f413d80dd7b363bb0c6517cc/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=b4774108bb4ef4e3b836d5fcd4c71fdd",
-            "publishedAt": "2026-07-25T13:00:43Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "Anita Chabria: AI companies are creating ‘all-powerful psychopaths.’ Maybe not a great idea?",
-            "url": "https://www.courant.com/2026/07/25/anita-chabria-ai-companies-are-creating-all-powerful-psychopaths-maybe-not-a-great-idea/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/07/202607241230MCT_____PHOTO____OPED-CHABRIA-COLUMN-FILEPIC-GET.jpg?w=2000&h=1333",
-            "publishedAt": "2026-07-25T13:00:01Z"
-        },
-        {
-            "source": {
-                "id": "c04519542112d0e7f8d0152ed4b8c1bb",
-                "name": "The Leader Newspaper",
-                "url": "https://theleader.info",
-                "country": "es"
-            },
-            "title": "Artificial Intelligence in the Vega Baja: Control Is the Challenge",
-            "url": "https://theleader.info/2026/07/25/artificial-intelligence-in-the-vega-baja-control-is-the-challenge/",
-            "urlToImage": "https://j6n3r3q2.delivery.rocketcdn.me/wp-content/uploads/2026/07/Lady-sat-at-desk-using-AI.png",
-            "publishedAt": "2026-07-25T12:31:10Z"
-        },
-        {
-            "source": {
-                "id": "eba2f6a49db29efc8343807ba675665f",
-                "name": "NewsBytes",
-                "url": "https://www.newsbytesapp.com",
-                "country": "in"
-            },
-            "title": "Why Karnataka government has joined hands with Anthropic",
-            "url": "https://www.newsbytesapp.com/news/science/karnataka-partners-with-anthropic-to-explore-ai-applications-in-governance/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l46920260725170411.jpeg",
-            "publishedAt": "2026-07-25T12:22:22Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "WILLIAM BENNETT, JON HAGE: AI can mimic a teacher, but it cannot shepherd a soul",
-            "url": "https://www.foxnews.com/opinion/william-bennett-jon-hage-ai-mimic-teacher-cannot-shepherd-soul",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/AI-Classroom.jpg",
-            "publishedAt": "2026-07-25T11:00:45Z"
-        },
-        {
-            "source": {
-                "id": "d9acc08d8066fc3620da5e6b20b406ad",
-                "name": "Boulder Daily Camera",
-                "url": "https://www.dailycamera.com",
-                "country": "us"
-            },
-            "title": "AI, like a hovering parent, protects students from the failures they need (Opinion)",
-            "url": "https://www.dailycamera.com/2026/07/25/ai-education-crisis-learning-classroom-parent-protects-students-failures-opinion/",
-            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2026/07/AI_Health_Care_Poll_84564_1d4d7c.jpg?w=2000&h=1333",
-            "publishedAt": "2026-07-25T11:00:41Z"
         }
     ]
 }
