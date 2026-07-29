@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-07-28T23:04:17.092317Z",
+    "lastUpdatedAt": "2026-07-29T02:08:43.375387Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Hedge funds on track for another stellar year on AI boom",
+            "url": "https://www.reuters.com/business/finance/hedge-funds-track-another-stellar-year-ai-boom-2026-07-28/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ENJY7K6GJJJILCLNPXAZPLRSHY.jpg?auth=b5beb49a7488b73fd55c44dcfa9a6197b80bbc76fbd783d5475587ebcdc2d8bb&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-28T14:01:35Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "Workplaces look for cheaper AI as ‘tokenmaxxing’ fades as a corporate fad",
+            "url": "https://www.barchart.com/story/news/3501606/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad",
+            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/f3abc5890f1f4a78ba2e9b4870d59d81/f3abc5890f1f4a78ba2e9b4870d59d81_main_trump_anthropic_ai_49628.jpg",
+            "publishedAt": "2026-07-28T13:32:56Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Andhra govt partners with AstraZeneca to transform cancer care",
+            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/andhra-govt-partners-with-astrazeneca-to-transform-cancer-care/articleshow/132685561.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132685609,width-1200,height-630,imgsize-92516,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-28T13:27:00Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Anthropic’s Dario Amodei rejects open model ban, calls for testing",
+            "url": "https://www.mercurynews.com/2026/07/28/anthropics-amodei-rejects-open-model-ban-calls-for-testing/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/07/Trump_Anthropic_AI_49628_563b7b.jpg?w=2000&h=1333",
+            "publishedAt": "2026-07-28T13:13:34Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "From artificial intelligence to photonic intelligence: The next big frontier for science, industry, and society",
+            "url": "https://www.cnbctv18.com/technology/from-artificial-intelligence-to-photonic-intelligence-the-next-big-frontier-for-science-industry-and-society-19952547.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/07/image-1-2026-07-e5f2f70d5b9f1bcd21f44b3c955639ac.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-07-28T13:04:33Z"
+        },
+        {
+            "source": {
+                "id": "494f687bd1dfaa9f7b4a705c860671d0",
+                "name": "Hartford Courant",
+                "url": "https://www.courant.com",
+                "country": "us"
+            },
+            "title": "Nvidia’s $750 billion deals revive fear of AI circular financing",
+            "url": "https://www.courant.com/2026/07/28/nvidias-750-billion-deals-revive-fear-of-ai-circular-financing-2/",
+            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/07/202607271408MCT_____PHOTO____BIZ-PFP-AI-FINANCING-NVIDIA-FILEPIC-DA_12724f.jpg?w=2000&h=1334",
+            "publishedAt": "2026-07-28T13:00:05Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "From Microsoft to Uber, AI Shrinks Customer Service Workforces",
+            "url": "https://www.outlookbusiness.com/corporate/from-microsoft-to-uber-ai-shrinks-customer-service-workforces",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-07-28/rmessn30/5.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-07-28T12:46:34Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "BULL AND KALRAY PARTNER TO DEVELOP THE NEXT GENERATION OF HIGH-SPEED NETWORKS FOR THE AI ERA",
+            "url": "https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/bull-and-kalray-partner-to-develop-the-next-generation-of-high-speed-networks-for-the-ai-era/2393091",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/28/1154340.png",
+            "publishedAt": "2026-07-28T12:40:20Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "NASA's AI-powered Mission PRAXIS aims to touch Saturn's rings for the first time: Here's how it could solve a decades-old mystery",
+            "url": "https://economictimes.indiatimes.com/news/international/global-trends/nasas-ai-powered-mission-praxis-aims-to-touch-saturns-rings-for-the-first-time-heres-how-it-could-solve-a-decades-old-mystery/articleshow/132684225.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132684577,width-1200,height-630,imgsize-91348,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-28T12:22:00Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+            "url": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/07/28/multimedia/28biz-apple-leasing-mfpj/28biz-apple-leasing-mfpj-facebookJumbo-v2.jpg",
+            "publishedAt": "2026-07-28T12:20:06Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -684,6 +804,78 @@
             "url": "https://www.bangkokpost.com/business/general/3292769/wef-unveils-the-next-tech-wave",
             "urlToImage": "https://static.bangkokpost.com/media/content/20260728/c1_3292769_260728060542_700.jpg",
             "publishedAt": "2026-07-28T00:10:00Z"
+        },
+        {
+            "source": {
+                "name": "computer"
+            },
+            "title": "A Legacy of Insight, A Future of Impact in Computer Graphics and Applications",
+            "url": "https://wpcms.computer.org/publications/tech-news/insider-membership-news/cga-legacy-insight-impact/",
+            "urlToImage": "https://www.computer.org/wp-content/uploads/2018/06/CGA-EIC-06-18-2024-1.jpg",
+            "publishedAt": "2026-07-28 14:00:12"
+        },
+        {
+            "source": {
+                "name": "nynewscast"
+            },
+            "title": "Graphic Design Software Market Size to Hit $22.19 Billion by 2035 | SNS Insider",
+            "url": "https://nynewscast.com/graphic-design-software-market-size-to-hit-22-19-billion-by-2035-sns-insider-241689/",
+            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+            "publishedAt": "2026-07-28 13:30:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "As Token Costs Plunge, Enterprise AI Providers Face A New Margin Squeeze",
+            "url": "https://www.forbes.com/sites/petercohan/2026/07/28/as-token-costs-plunge-enterprise-ai-providers-face-a-new-margin-squeeze/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a688f1a729649e785675307/0x0.jpg",
+            "publishedAt": "2026-07-28 13:24:11"
+        },
+        {
+            "source": {
+                "name": "webwire"
+            },
+            "title": "Qualcomm Innovation Fellowship Europe Rewards Excellent Research in AI and Cybersecurity",
+            "url": "https://www.webwire.com/ViewPressRel.asp?aId=358238",
+            "urlToImage": "https://photos.webwire.com/prmedia/6/358238/358238-1-m.jpg",
+            "publishedAt": "2026-07-28 12:58:38"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "At AMD Advancing AI, Helios was the star around which everything else revolved",
+            "url": "https://www.itpro.com/technology/artificial-intelligence/at-amd-advancing-ai-helios-was-the-star-around-which-everything-else-revolved",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/n9kBkjpbdhJz5tWSt52M95-1280-80.jpg",
+            "publishedAt": "2026-07-28 12:33:42"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "QumulusAI Signs $71.9 Million, Three-Year Agreement With AI Inference Platform Provider",
+            "url": "https://www.postregister.com/businessreport/technology/qumulusai-signs-71-9-million-three-year-agreement-with-ai-inference-platform-provider/article_4530338d-f5f4-55da-99e6-ab074e33aa4f.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2026-07-28 12:17:43"
+        },
+        {
+            "source": {
+                "name": "cxotoday"
+            },
+            "title": "From Silicon Valley to Silicon Valley of India: Deep-Tech Startups Redefining Edge Computing and Cybersecurity",
+            "url": "https://cxotoday.com/others/from-silicon-valley-to-silicon-valley-of-india-deep-tech-startups-redefining-edge-computing-and-cybersecurity/",
+            "urlToImage": "https://cxotoday.com/wp-content/uploads/2026/07/Deep-Tech.jpg",
+            "publishedAt": "2026-07-28 11:36:53"
+        },
+        {
+            "source": {
+                "name": "gadgets360"
+            },
+            "title": "Exclusive: Samsung's JB Park on Galaxy AI Costs, Monetisation, and What Stays Free",
+            "url": "https://www.gadgets360.com/ai/features/samsungs-jb-park-on-galaxy-ai-costs-monetisation-and-what-stays-free-exclusive-11832849",
+            "urlToImage": "https://i.gadgets360cdn.com/large/jb-park-samsung-g360_1785237596283.jpg",
+            "publishedAt": "2026-07-28 11:26:29"
         },
         {
             "source": {
@@ -3225,207 +3417,6 @@
             "url": "https://www.newsbytesapp.com/news/india/government-exposes-ai-generated-fake-videos/story",
             "urlToImage": "https://i.cdn.newsbytesapp.com/images/l89420260725103352.png",
             "publishedAt": "2026-07-25T05:05:35Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Karnataka to set up working groups with Anthropic to explore AI applications in governance, education",
-            "url": "https://www.tribuneindia.com/news/business/karnataka-to-set-up-working-groups-with-anthropic-to-explore-ai-applications-in-governance-education/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI1ZjJjMTEwLTg3ZTYtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-            "publishedAt": "2026-07-25T05:03:11Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "Robert Morris University infuses artificial intelligence into MBA curriculum",
-            "url": "https://triblive.com/local/valley-news-dispatch/robert-morris-university-infuses-artificial-intelligence-into-mba-curriculum/",
-            "urlToImage": "https://assets-varnish.triblive.com/2026/07/9777206_web1_260716-Trib-Article-Photo-2.jpg",
-            "publishedAt": "2026-07-25T05:01:00Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Karnataka to set up working groups with Anthropic to explore AI applications in governance, education",
-            "url": "https://www.aninews.in/news/business/karnataka-to-set-up-working-groups-with-anthropic-to-explore-ai-applications-in-governance-education20260725102722/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260725045707-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-07-25T04:57:22Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Financial Times: China Mulls Tighter Export Controls on AI Models and Chips",
-            "url": "https://www.naturalnews.com/2026-07-25-china-mulls-tighter-controls-ai-models-chips.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/export-controls-ai-models-semiconductors-2903-original.jpg",
-            "publishedAt": "2026-07-25T04:51:41Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Google is building an AI fence around the Internet it once championed",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/25/google-is-building-an-ai-fence-around-the-internet-it-once-championed",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/24/4021272.jpg",
-            "publishedAt": "2026-07-25T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Wall Street Week Ahead: US stocks face tests from Fed decision, tech-led earnings deluge",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-week-ahead-us-stocks-face-tests-from-fed-decision-tech-led-earnings-deluge/articleshow/132618500.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132618521,width-1200,height-630,imgsize-342318,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-07-25T03:41:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "weight AI, says openness key to American leadership",
-            "url": "https://www.tribuneindia.com/news/business/nvidia-ceo-jensen-huang-backs-open-weight-ai-says-openness-key-to-american-leadership/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTk5ZjdlODkwLTg3ZDktMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-            "publishedAt": "2026-07-25T03:33:22Z"
-        },
-        {
-            "source": {
-                "id": "90a3acff66edeb0244b1d0b26b580755",
-                "name": "Rolling Stone",
-                "url": "https://www.rollingstone.com",
-                "country": "us"
-            },
-            "title": "Guillermo del Toro on ‘Pan’s Labyrinth’ 3D Re-Release: 'No Goddamn AI’",
-            "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/guillermo-del-toro-pans-labyrinth-3d-re-release-no-ai-1235598765/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/07/pans-labyrinth-no-ai.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2026-07-25T03:30:08Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "NVIDIA CEO Jensen Huang backs open-weight AI, says openness key to American leadership",
-            "url": "https://www.aninews.in/news/business/nvidia-ceo-jensen-huang-backs-open-weight-ai-says-openness-key-to-american-leadership20260725085733/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260725031330-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-07-25T03:27:33Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Caribbean charts united course for artificial intelligence",
-            "url": "https://www.europesays.com/3152197/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/8502682.jpg",
-            "publishedAt": "2026-07-25T01:55:18Z"
-        },
-        {
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            },
-            "title": "Anthropic unveils Claude Opus 5, betting lower costs will win the AI race",
-            "url": "https://www.malaymail.com/news/tech-gadgets/2026/07/25/anthropic-unveils-claude-opus-5-betting-lower-costs-will-win-the-ai-race/228865",
-            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/07/25/353630.JPG",
-            "publishedAt": "2026-07-25T01:07:15Z"
-        },
-        {
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            },
-            "title": "Washington Wants To Limit Chinese AI Models. One Of Them Helped Contain OpenAI's Cyber Incident.",
-            "url": "https://www.ibtimes.com/washington-wants-limit-chinese-ai-models-one-them-helped-contain-openais-cyber-incident-3805700",
-            "urlToImage": "https://d.ibtimes.com/en/full/4650920/openai.jpg",
-            "publishedAt": "2026-07-25T00:36:01Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "Can AI solve physics' biggest mystery quantum gravity? Physicist Ashoke Sen says this",
-            "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/can-ai-solve-physics-biggest-mystery-quantum-gravity-physicist-ashoke-sen-says-this-545071-2026-07-25",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a6339876f44d-quantum-gravity-is-regarded-as-one-of-the-biggest-unsolved-problems-in-modern-physics-240801989-16x9.jpg",
-            "publishedAt": "2026-07-25T00:15:02Z"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "405 Blog Posts To Learn About Development",
-            "url": "https://www.bundle.app/en/technology/405-blog-posts-to-learn-about-development-2C89604B-DFAF-4EE8-8D46-A33FE0D86504",
-            "urlToImage": "https://static.bundle.app/news/7076df5c-6f8d-52dd-b2d2-4b924e06973e.jpg",
-            "publishedAt": "2026-07-25 22:31:32"
-        },
-        {
-            "source": {
-                "name": "scitechdaily"
-            },
-            "title": "Scientists Built a Programmable Chip That Can Slow Light on Command",
-            "url": "https://scitechdaily.com/scientists-built-a-programmable-chip-that-can-slow-light-on-command/",
-            "urlToImage": "https://scitechdaily.com/images/Programmable-CRIT-Photonic-Integrated-Circuit-scaled.jpg",
-            "publishedAt": "2026-07-25 16:31:04"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Meta Rolls Out Free Facebook Verified Badge to Combat AI Fakes",
-            "url": "https://www.webpronews.com/meta-rolls-out-free-facebook-verified-badge-to-combat-ai-fakes/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/07/article-22018-1784926422.jpeg",
-            "publishedAt": "2026-07-25 14:32:06"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "405 Blog Posts To Learn About Development",
-            "url": "https://hackernoon.com/405-blog-posts-to-learn-about-development",
-            "urlToImage": "https://hackernoon.imgix.net/images/github/development-934.png",
-            "publishedAt": "2026-07-25 14:00:15"
-        },
-        {
-            "source": {
-                "name": "stlnews"
-            },
-            "title": "Hidden Giants of the AI Boom: Why Micron Technology and Qualcomm Remain Deeply Undervalued",
-            "url": "https://www.stl.news/hidden-giants-ai-boom-micron-technology-qualcomm/",
-            "urlToImage": "https://85336464.delivery.rocketcdn.me/wp-content/uploads/2026/07/BigStock-Stock-Chart-Green-Arrow-Up-BIG.jpg",
-            "publishedAt": "2026-07-25 13:04:04"
         }
     ]
 }
