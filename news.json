@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-07-29T08:31:53.699400Z",
+    "lastUpdatedAt": "2026-07-29T11:20:45.391880Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "AI is fuelling new wave of identity fraud",
+            "url": "https://www.bangkokpost.com/business/general/3293227/ai-is-fuelling-new-wave-of-identity-fraud",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260729/c1_3293227_260729061724_700.jpg",
+            "publishedAt": "2026-07-28T23:17:00Z"
+        },
+        {
+            "source": {
+                "id": "cc589abcee543815a82a8b2856ebe9ed",
+                "name": "Malay Mail",
+                "url": "https://www.malaymail.com",
+                "country": "my"
+            },
+            "title": "Made by AI? EU tells firms to stick a label on it from Sunday as deepfake rules take effect",
+            "url": "https://www.malaymail.com/news/tech-gadgets/2026/07/29/made-by-ai-eu-tells-firms-to-stick-a-label-on-it-from-sunday-as-deepfake-rules-take-effect/229229",
+            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/07/28/354151.jpg",
+            "publishedAt": "2026-07-28T23:00:00Z"
+        },
+        {
+            "source": {
+                "id": "cc589abcee543815a82a8b2856ebe9ed",
+                "name": "Malay Mail",
+                "url": "https://www.malaymail.com",
+                "country": "my"
+            },
+            "title": "Made by AI? EU tells firms to stick a label on it from Sunday as deepfake rules take effect",
+            "url": "https://www.malaymail.com/news/life/2026/07/29/made-by-ai-eu-tells-firms-to-stick-a-label-on-it-from-sunday-as-deepfake-rules-take-effect/229229",
+            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/07/28/354151.jpg",
+            "publishedAt": "2026-07-28T23:00:00Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "SK hynix posts 1,200% net profit boost on AI chip boom",
+            "url": "https://www.channelnewsasia.com/business/sk-hynix-profit-ai-memory-chip-demand-6284436",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Te_jzgMH--/c_crop,h_449,w_799,x_1,y_84/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-28T225720Z_1_LYNXMPEM6R1UO_RTROPTP_3_SK-HYNIX-RESULTS.JPG?itok=eZs-w2dV",
+            "publishedAt": "2026-07-28T22:57:00Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Employees at the world’s biggest AI companies are calling for a slowdown in AI development",
+            "url": "https://edition.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1460688324-20260728210550546.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-07-28T22:53:55Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Nasdaq 100 Is Approaching a Correction as Chips Selloff Worsens",
+            "url": "https://www.livemint.com/market/nasdaq-100-is-approaching-a-correction-as-chips-selloff-worsens-11785276889410.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+            "publishedAt": "2026-07-28T22:14:48Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Vocational gap threatens AI drive",
+            "url": "https://www.bangkokpost.com/thailand/general/3293332/vocational-gap-threatens-ai-drive",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260729/c1_3293332_260729051739_700.jpg",
+            "publishedAt": "2026-07-28T22:06:00Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "AI industry slowdown may be needed after security scare, leaders warn",
+            "url": "https://www.channelnewsasia.com/business/ai-industry-slowdown-may-be-needed-after-security-scare-leaders-warn-6284401",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--oDV4rcNM--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-21T041305Z_2_LYNXMPEM6K086_RTROPTP_3_GLOBAL-AI-ECONOMY.JPG?itok=pIVlYENb",
+            "publishedAt": "2026-07-28T22:03:00Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Scientists develop a two-step system for detecting and classifying brain tumors from MRI images",
+            "url": "https://medicalxpress.com/news/2026-07-scientists-brain-tumors-mri-images.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-develop-a-t.jpg",
+            "publishedAt": "2026-07-28T21:40:03Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Goldman Says Japan’s AI Stock Trade ‘Not Broken’ After Rout",
+            "url": "https://www.livemint.com/market/goldman-says-japan-s-ai-stock-trade-not-broken-after-rout-11785273521589.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+            "publishedAt": "2026-07-28T21:18:41Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -1008,6 +1128,15 @@
             "url": "https://www.bangkokpost.com/business/general/3292769/wef-unveils-the-next-tech-wave",
             "urlToImage": "https://static.bangkokpost.com/media/content/20260728/c1_3292769_260728060542_700.jpg",
             "publishedAt": "2026-07-28T00:10:00Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "OpenJustice founder Samuel Dahan receives nearly $500,000 for global study on courts' use of AI",
+            "url": "https://completeaitraining.com/news/openjustice-founder-samuel-dahan-receives-nearly-500000-for/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/openjustice-founder-samuel-dahan-receives-nearly-500-000-for-global-study-on-cou_2026-07-28.jpg",
+            "publishedAt": "2026-07-28 20:38:24"
         },
         {
             "source": {
@@ -3258,138 +3387,6 @@
             "url": "https://www.canberratimes.com.au/story/9317537/through-the-looking-glass-smartglasses-face-scrutiny/",
             "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/b5fbf136-f1f6-4440-bd59-259de778ea27.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
             "publishedAt": "2026-07-25T22:30:05Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Nebius vs. Strategy: Comparing Revenue Trends Between an Artificial Intelligence Company and a Bitcoin Giant",
-            "url": "https://www.europesays.com/3153900/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/urlhttps3A2F2Fg.foolcdn.com2Fcharts2Fproduction2Fprocessed2Fnbis-mstr2Fquarter2Frevenue2.png",
-            "publishedAt": "2026-07-25T22:25:24Z"
-        },
-        {
-            "source": {
-                "id": "435d508bebcc8689d5c7711d44865b80",
-                "name": "Activist Post",
-                "url": "https://www.activistpost.com",
-                "country": "us"
-            },
-            "title": "Why Trust Will Decide the Future of AI",
-            "url": "https://www.activistpost.com/why-trust-will-decide-the-future-of-ai/",
-            "urlToImage": "https://www.activistpost.com/wp-content/uploads/2026/07/ef35ad07-b820-4657-8c89-371387b973b0.webp",
-            "publishedAt": "2026-07-25T22:00:00Z"
-        },
-        {
-            "source": {
-                "id": "435d508bebcc8689d5c7711d44865b80",
-                "name": "Activist Post",
-                "url": "https://www.activistpost.com",
-                "country": "us"
-            },
-            "title": "Sailing the Stormy Seas of AI",
-            "url": "https://www.activistpost.com/sailing-the-stormy-seas-of-ai/",
-            "urlToImage": "https://www.activistpost.com/wp-content/uploads/2026/07/istockphoto-520794474-612x612-1.jpg",
-            "publishedAt": "2026-07-25T22:00:00Z"
-        },
-        {
-            "source": {
-                "id": "ff08198bd1f06590c448195855068383",
-                "name": "Tulsa World",
-                "url": "https://tulsaworld.com",
-                "country": "us"
-            },
-            "title": "Muscogee Nation to examine role of data centers, AI",
-            "url": "https://tulsaworld.com/news/local/indigenous/article_27a45ec6-ebec-40ac-b49d-70b744016c50.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/2/7a/27a45ec6-ebec-40ac-b49d-70b744016c50/6a65338a418b6.preview.jpg?crop=1719%2C902%2C0%2C151&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2026-07-25T22:00:00Z"
-        },
-        {
-            "source": {
-                "id": "09dc1bda762f4f787cec10477a894d96",
-                "name": "Toronto Sun",
-                "url": "https://torontosun.com",
-                "country": "ca"
-            },
-            "title": "If you think AI helped terminate you, read this",
-            "url": "https://torontosun.com/opinion/columnists/think-ai-helped-terminate-you-read-this",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/GettyImages-2150966252-e1731446434618.jpg",
-            "publishedAt": "2026-07-25T21:25:04Z"
-        },
-        {
-            "source": {
-                "id": "b98becfda029f124cf65538c8af36d20",
-                "name": "BGR",
-                "url": "https://www.bgr.com",
-                "country": "us"
-            },
-            "title": "How Does Google Maps Predict Traffic?",
-            "url": "https://www.bgr.com/2219037/how-does-google-maps-predict-traffic/",
-            "urlToImage": "https://www.bgr.com/img/gallery/how-does-google-maps-predict-traffic/l-intro-1784571930.jpg",
-            "publishedAt": "2026-07-25T20:17:00Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Nvidia vs. Planet Labs: Comparing Revenue Trends Between an Artificial Intelligence Giant and a Rising Star of the Space",
-            "url": "https://www.europesays.com/3153656/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/urlhttps3A2F2Fg.foolcdn.com2Fcharts2Fproduction2Fprocessed2Fnvda-pl2Fquarter2Frevenue2Fb.png",
-            "publishedAt": "2026-07-25T19:31:21Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "IBM lays out AI-first roadmap for APAC",
-            "url": "https://www.manilatimes.net/2026/07/26/business/sunday-business-it/ibm-lays-out-ai-first-roadmap-for-apac/2391403",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/25/1150751.jpg",
-            "publishedAt": "2026-07-25T16:05:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "AI capability is accelerating, adoption at an unprecedented pace, outpacing education",
-            "url": "https://www.manilatimes.net/2026/07/26/business/sunday-business-it/ai-capability-is-accelerating-adoption-at-an-unprecedented-pace-outpacing-education/2391401",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/25/1150797.jpg",
-            "publishedAt": "2026-07-25T16:03:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Why AI infrastructure planning must happen now",
-            "url": "https://www.manilatimes.net/2026/07/26/business/sunday-business-it/why-ai-infrastructure-planning-must-happen-now/2391400",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/25/1150746.jpeg",
-            "publishedAt": "2026-07-25T16:02:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "What happens to company work inside personal AI accounts?",
-            "url": "https://www.manilatimes.net/2026/07/26/business/sunday-business-it/what-happens-to-company-work-inside-personal-ai-accounts/2391398",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/25/1150796.jpg",
-            "publishedAt": "2026-07-25T16:01:00Z"
         }
     ]
 }
