@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-07-30T21:02:34.026026Z",
+    "lastUpdatedAt": "2026-07-30T23:00:31.107582Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI system could make autism screening more accessible",
+            "url": "https://medicalxpress.com/news/2026-07-ai-autism-screening-accessible.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/autism-screening.jpg",
+            "publishedAt": "2026-07-30T11:00:10Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "OpenAI's Push Into Research Labs Explained: Why It Is Offering ChatGPT for Free",
+            "url": "https://www.outlookbusiness.com/deeptech/openais-push-into-research-labs-explained-why-it-is-offering-chatgpt-for-free",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-07-30/sesqn6lr/ChatGPT-Image-Jul-30-2026-041140-PM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-07-30T10:49:56Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Yiren Digital Releases 2025 ESG Report: Advancing Responsible AI and Sustainable Growth",
+            "url": "https://www.manilatimes.net/2026/07/30/tmt-newswire/pr-newswire/yiren-digital-releases-2025-esg-report-advancing-responsible-ai-and-sustainable-growth/2394820",
+            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-07-30T10:20:56Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Oil prices gain and Asian shares are mostly lower",
+            "url": "https://www.cp24.com/news/money/2026/07/30/oil-prices-gain-and-asian-shares-are-mostly-lower-as-investors-sell-ai-stocks/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/RV62JWQY3PH635MKJ2AL4BIC3U.jpg?smart=true&auth=e1a4019b8073e71d383e7317ef3906d0a14d67f3d84c646d0e7bab30ab6e9087&width=1200&height=630",
+            "publishedAt": "2026-07-30T10:16:20Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Oil prices gain and Asian shares are mostly lower",
+            "url": "https://www.bnnbloomberg.ca/markets/2026/07/30/oil-prices-gain-and-asian-shares-are-mostly-lower-as-investors-sell-ai-stocks/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/RV62JWQY3PH635MKJ2AL4BIC3U.jpg?smart=true&auth=e1a4019b8073e71d383e7317ef3906d0a14d67f3d84c646d0e7bab30ab6e9087&width=1200&height=630",
+            "publishedAt": "2026-07-30T10:16:20Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Philp: California’s data center hysteria is more hype than facts",
+            "url": "https://www.mercurynews.com/2026/07/30/tom-philp-californias-data-center-hysteria-is-more-hype-than-facts-2/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/07/202607280400MCT_____PHOTO____OPED-PHILP-COLUMN-FILEPIC-GET.jpg?w=2000&h=1328",
+            "publishedAt": "2026-07-30T10:00:52Z"
+        },
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "Reusability report: Exploring the utility and extensibility of an integrated modelling framework for liquid electrolyte design",
+            "url": "https://www.europesays.com/3162935/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/42256_2026_1277_Fig1_HTML.png",
+            "publishedAt": "2026-07-30T09:51:19Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Will AI take your job? From cashiers to doctors, which professions face the biggest risk",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/will-ai-take-your-job-from-cashiers-to-doctors-which-professions-face-the-biggest-risk/articleshow/132734469.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132734987,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-30T09:44:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Yash Raj Films, Google to host AI filmmaking workshop for creative community",
+            "url": "https://economictimes.indiatimes.com/industry/media/entertainment/yash-raj-films-google-to-host-ai-filmmaking-workshop-for-creative-community/articleshow/132734693.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132734821,width-1200,height-630,imgsize-60598,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-30T09:37:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI poised to reshape Malaysia's built environment, says Housing Minister",
+            "url": "https://www.thestar.com.my/news/nation/2026/07/30/ai-poised-to-reshape-malaysia039s-built-environment-says-housing-minister",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/30/4035249.jpeg",
+            "publishedAt": "2026-07-30T09:17:00Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -483,6 +603,18 @@
         },
         {
             "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Researchers train AI to detect diabetes and assign four diagnostic labels",
+            "url": "https://www.news-medical.net/news/20260729/Researchers-train-AI-to-detect-diabetes-and-assign-four-diagnostic-labels.aspx",
+            "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_843677_17853766576503141.jpg",
+            "publishedAt": "2026-07-30T01:58:00Z"
+        },
+        {
+            "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
                 "name": "EUROPE SAYS",
                 "url": "https://www.europesays.com",
@@ -519,6 +651,30 @@
         },
         {
             "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Machine learning LDL-C equation comparable to original Martin-Hopkins",
+            "url": "https://medicalxpress.com/news/2026-07-machine-ldl-equation-martin-hopkins.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/machine-learning-ldl-c.jpg",
+            "publishedAt": "2026-07-30T00:40:03Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Machine learning LDL-C equation comparable to original Martin-Hopkins",
+            "url": "https://phys.org/news/2026-07-machine-ldl-equation-martin-hopkins.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/machine-learning-ldl-c.jpg",
+            "publishedAt": "2026-07-30T00:40:03Z"
+        },
+        {
+            "source": {
                 "id": "91120a92e0d24e24fbffb6d0affabfe6",
                 "name": "Bangkok Post",
                 "url": "https://www.bangkokpost.com",
@@ -528,6 +684,54 @@
             "url": "https://www.bangkokpost.com/business/general/3293824/thai-businesses-urged-to-fully-embed-ai",
             "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2026/07/30/6171644_700.jpeg",
             "publishedAt": "2026-07-30T00:06:00Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "Aligning deep learning and interpretable models for blood cell classification: A dual-model framework for explainability",
+            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001514",
+            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001514.g011&size=inline",
+            "publishedAt": "2026-07-30T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "roboticsandautomationnews"
+            },
+            "title": "Qualcomm completes acquisition of software platform provider Modular",
+            "url": "https://roboticsandautomationnews.com/2026/07/30/qualcomm-completes-acquisition-of-software-platform-provider-modular/103765/",
+            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/modular-inc-interface-1.png",
+            "publishedAt": "2026-07-30 10:13:55"
+        },
+        {
+            "source": {
+                "name": "insider"
+            },
+            "title": "Sam Altman says cognitive atrophy is one of the most overlooked risks of the AI era",
+            "url": "https://www.businessinsider.com/sam-altman-ai-risk-cognitive-atrophy-brain-skills-openai-2026-7",
+            "urlToImage": "https://i.insider.com/6a69ecc9548c9c486b311bbf?width=1200&format=jpeg",
+            "publishedAt": "2026-07-30 10:00:08"
+        },
+        {
+            "source": {
+                "name": "morningstar_com"
+            },
+            "title": "As Semiconductor Stocks Slide, These Chip Startup IPOs Go On Hold",
+            "url": "https://www.morningstar.com/stocks/semiconductor-stocks-slide-these-chip-startup-ipos-go-hold",
+            "urlToImage": "https://media.morningstar.com/resizer/v2/MJ3FSXZXVFDYPHHGXT7LMKSZD4.png?auth=f0627bb4be6cf5be15df15e2979d98bf47c7c1869ed355e423d6f5495eb2cfc1&smart=true&height=500",
+            "publishedAt": "2026-07-30 10:00:00"
+        },
+        {
+            "source": {
+                "name": "techedition"
+            },
+            "title": "OpenAI president says a family of ChatGPT devices will launch soon",
+            "url": "https://www.techedt.com/openai-president-says-a-family-of-chatgpt-devices-will-launch-soon",
+            "urlToImage": "https://www.techedt.com/wp-content/uploads/2026/07/OpenAI-president-says-a-family-of-ChatGPT-devices-will-launch-soon.jpg",
+            "publishedAt": "2026-07-30 09:20:00"
         },
         {
             "source": {
@@ -975,6 +1179,18 @@
         },
         {
             "source": {
+                "id": "4ce3819b1c9751d3ed773d7b33b5796f",
+                "name": "FreightWaves",
+                "url": "https://www.freightwaves.com",
+                "country": "us"
+            },
+            "title": "How Intelligent Audit Turned Three Decades of Freight Expertise Into an AI Early Warning System",
+            "url": "https://www.freightwaves.com/news/how-intelligent-audit-turned-three-decades-of-freight-expertise-into-an-ai-early-warning-system",
+            "urlToImage": "https://www.freightwaves.com/wp-content/uploads/2026/07/29/shutterstock_2755406053-scaled.jpg",
+            "publishedAt": "2026-07-29T15:06:19Z"
+        },
+        {
+            "source": {
                 "id": "b1fa63410571207862faad9daf9b4527",
                 "name": "Pittsburgh Tribune-Review",
                 "url": "https://triblive.com",
@@ -1092,6 +1308,18 @@
             "url": "https://www.thenews.com.pk/latest/1410609-2-biggest-misconceptions-about-ai-says-pwc-ceo",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-07-29/1410609_065524_updates.jpg",
             "publishedAt": "2026-07-29T13:54:04Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Madhya Pradesh gets massive development boost with Rs 2,480 crore push: From drone centre to IT parks – What’s in store?",
+            "url": "https://www.financialexpress.com/india-news/madhya-pradesh-massive-development-boost-with-rs-2480-crore-push-drone-centre-to-it-parks-mp-cabinet-backs-infrastructure-irrigation-sports/4305205/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/07/mohan.jpg",
+            "publishedAt": "2026-07-29T12:52:10Z"
         },
         {
             "source": {
@@ -1284,6 +1512,18 @@
             "url": "https://www.latimes.com/business/story/2026-07-29/openai-said-its-ai-went-rogue-what-can-you-do-to-protect-yourself-from-rogue-ais",
             "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/ac9bf5b/2147483647/strip/true/crop/5164x2711+0+366/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faf%2F1a%2Fe6b61c5746a180d88284746254e2%2Fopenai-logo-06988.jpg",
             "publishedAt": "2026-07-29T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "Machine learning algorithm sets BNB price for August 1, 2026",
+            "url": "https://finbold.com/machine-learning-algorithm-sets-bnb-price-for-august-1-2026/",
+            "urlToImage": "https://assets.finbold.com/uploads/2026/07/machine-learning-algorithm-sets-bnb-price-for-august-1-2026-e52736.jpg",
+            "publishedAt": "2026-07-29T09:53:32Z"
         },
         {
             "source": {
@@ -2478,6 +2718,18 @@
         },
         {
             "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            },
+            "title": "HeyDonto launches DFT Labs to pursue physics",
+            "url": "https://siliconangle.com/2026/07/28/heydonto-launches-dft-labs-pursue-physics-based-machine-learning-capabilities/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/A-ghostly-hand-made-of-white-lines-with-palm-pointing-up-reaching-from-the-left-side-of-the-image-in.jpeg",
+            "publishedAt": "2026-07-28T13:00:32Z"
+        },
+        {
+            "source": {
                 "id": "494f687bd1dfaa9f7b4a705c860671d0",
                 "name": "Hartford Courant",
                 "url": "https://www.courant.com",
@@ -2487,6 +2739,18 @@
             "url": "https://www.courant.com/2026/07/28/nvidias-750-billion-deals-revive-fear-of-ai-circular-financing-2/",
             "urlToImage": "https://www.courant.com/wp-content/uploads/2026/07/202607271408MCT_____PHOTO____BIZ-PFP-AI-FINANCING-NVIDIA-FILEPIC-DA_12724f.jpg?w=2000&h=1334",
             "publishedAt": "2026-07-28T13:00:05Z"
+        },
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "Machine learning algorithm sets Solana price for August 1, 2026",
+            "url": "https://finbold.com/machine-learning-algorithm-sets-solana-price-for-august-1-2026-2/",
+            "urlToImage": "https://assets.finbold.com/uploads/2026/07/machine-learning-algorithm-sets-solana-price-for-august-1-2026-f4f5b6.jpg",
+            "publishedAt": "2026-07-28T12:56:00Z"
         },
         {
             "source": {
@@ -2994,6 +3258,18 @@
         },
         {
             "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Everyone can use AI now. That is exactly why judgment just became expensive",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/everyone-can-use-ai-now-that-is-exactly-why-judgment-just-became-expensive/articleshow/132675938.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-132675982,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-28T05:20:00Z"
+        },
+        {
+            "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
                 "name": "The Star",
                 "url": "https://www.thestar.com.my",
@@ -3195,228 +3471,6 @@
             "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-on-ai-jitters-oil-extends-drop/articleshow/132673128.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-132673126,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
             "publishedAt": "2026-07-28T01:02:00Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "World Economic Forum unveils next tech wave",
-            "url": "https://www.bangkokpost.com/business/general/3292769/world-economic-forum-unveils-next-tech-wave",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260728/c1_3292769_260728060542_700.jpg",
-            "publishedAt": "2026-07-28T00:10:00Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "WEF unveils the next tech wave",
-            "url": "https://www.bangkokpost.com/business/general/3292769/wef-unveils-the-next-tech-wave",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260728/c1_3292769_260728060542_700.jpg",
-            "publishedAt": "2026-07-28T00:10:00Z"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Highest-Paying AI Certifications That Employers Value in 2026",
-            "url": "https://www.analyticsinsight.net/courses/highest-paying-ai-certifications-that-employers-value-in-2026",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-07-28/20o9ezo5/Highest-Paying-AI-Certifications-That-Employers-Value-in-2026.jpg",
-            "publishedAt": "2026-07-28 23:30:00"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "US lab adapts ChatGPT-like transformer tech to speed up nuclear reactor simulations",
-            "url": "https://interestingengineering.com/energy/argonne-transformers-advanced-nuclear-reactor-simulations",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/GettyImages-2282964738_eea317.jpg",
-            "publishedAt": "2026-07-28 23:27:21"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "OpenJustice founder Samuel Dahan receives nearly $500,000 for global study on courts' use of AI",
-            "url": "https://completeaitraining.com/news/openjustice-founder-samuel-dahan-receives-nearly-500000-for/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/openjustice-founder-samuel-dahan-receives-nearly-500-000-for-global-study-on-cou_2026-07-28.jpg",
-            "publishedAt": "2026-07-28 20:38:24"
-        },
-        {
-            "source": {
-                "name": "powermag"
-            },
-            "title": "Microsoft’s $60 Million Genesis Mission Commitment Puts Nuclear AI at the Center",
-            "url": "https://www.powermag.com/microsofts-60-million-genesis-mission-commitment-puts-nuclear-ai-at-the-center/",
-            "urlToImage": "https://www.powermag.com/wp-content/uploads/2023/04/inl-materials-and-fuels-complex.jpg",
-            "publishedAt": "2026-07-28 20:14:42"
-        },
-        {
-            "source": {
-                "name": "thenewstack_io"
-            },
-            "title": "Jensen Huang says AI agents could drive a 5-10x computing boom: “100 billion agents and billions of robots”",
-            "url": "https://thenewstack.io/huang-semiconductor-tenfold-ai-agents/",
-            "urlToImage": "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png",
-            "publishedAt": "2026-07-28 19:46:50"
-        },
-        {
-            "source": {
-                "name": "swapupdate"
-            },
-            "title": "Exclusive: Samsung’s JB Park on Galaxy AI Costs, Monetisation, and What Stays Free",
-            "url": "https://www.swapupdate.in/exclusive-samsungs-jb-park-on-galaxy-ai-costs-monetisation-and-what-stays-free/",
-            "urlToImage": "https://i.gadgets360cdn.com/large/samsung-galaxy-z-fold8-fold-ultra-flip8_1785237963188.jpg",
-            "publishedAt": "2026-07-28 18:22:02"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Researchers have built a tool that can identify the AI used to make a fake video",
-            "url": "https://www.digitaltrends.com/computing/researchers-have-built-a-tool-that-can-identify-the-ai-used-to-make-a-fake-video/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/07/fake-ai-video.jpg?resize=440%2C292",
-            "publishedAt": "2026-07-28 17:40:22"
-        },
-        {
-            "source": {
-                "name": "nynewsly"
-            },
-            "title": "Qisda Group’s AEWIN Launches Comprehensive Server Portfolio Featuring AMD EPYCTM 9006 Series Server CPUs",
-            "url": "https://nynewsly.com/qisda-groups-aewin-launches-comprehensive-server-portfolio-featuring-amd-epyc-9006-series-server-cpus/40461/",
-            "urlToImage": "https://nynewsly.com/wp-content/themes/publisher/images/default-thumb/large.png",
-            "publishedAt": "2026-07-28 17:00:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Qisda Group's AEWIN Launches Comprehensive Server Portfolio Featuring AMD EPYCTM 9006 Series Server CPUs",
-            "url": "https://en.prnasia.com/story/542217-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/3008078/AEWIN_Launches_Comprehensive_Server_Portfolio_Featuring_AMD_EPYC__9006_Series_Server_CPUs.jpg?p=medium600",
-            "publishedAt": "2026-07-28 17:00:00"
-        },
-        {
-            "source": {
-                "name": "blockchain_news"
-            },
-            "title": "NVIDIA Jetson Orin Nano Super Brings AI Robotics to Your Fingertips",
-            "url": "https://blockchain.news/news/nvidia-jetson-orin-nano-super-ai-robotics",
-            "urlToImage": "https://image.blockchain.news/features/D8E08E86F8EDBDDCD68414CF49BDD8B1401B11A69515DFF98E6B2B03EE9CF9D7.jpg",
-            "publishedAt": "2026-07-28 15:41:09"
-        },
-        {
-            "source": {
-                "name": "techrepublic"
-            },
-            "title": "Meta Faces Scrutiny After Report Finds Thousands of AI Nudify Ads on Facebook, Instagram",
-            "url": "https://www.techrepublic.com/article/news-meta-nudify-ai-ads-facebook-instagram-ttp/",
-            "urlToImage": "https://assets.techrepublic.com/uploads/2026/07/julio-lopez-ilbjfRwOgzA-unsplash-1-2.jpg?f=jpeg",
-            "publishedAt": "2026-07-28 15:31:52"
-        },
-        {
-            "source": {
-                "name": "techgenyz"
-            },
-            "title": "Vector Search & RAG: Modern Ways AI Is Changing SEO Forever",
-            "url": "https://techgenyz.com/vector-search-rag-changing-seo/",
-            "urlToImage": "https://techgenyz.com/wp-content/uploads/2026/07/vector-search-and-RAG.webp",
-            "publishedAt": "2026-07-28 15:00:00"
-        },
-        {
-            "source": {
-                "name": "computer"
-            },
-            "title": "A Legacy of Insight, A Future of Impact in Computer Graphics and Applications",
-            "url": "https://wpcms.computer.org/publications/tech-news/insider-membership-news/cga-legacy-insight-impact/",
-            "urlToImage": "https://www.computer.org/wp-content/uploads/2018/06/CGA-EIC-06-18-2024-1.jpg",
-            "publishedAt": "2026-07-28 14:00:12"
-        },
-        {
-            "source": {
-                "name": "nynewscast"
-            },
-            "title": "Graphic Design Software Market Size to Hit $22.19 Billion by 2035 | SNS Insider",
-            "url": "https://nynewscast.com/graphic-design-software-market-size-to-hit-22-19-billion-by-2035-sns-insider-241689/",
-            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-            "publishedAt": "2026-07-28 13:30:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "As Token Costs Plunge, Enterprise AI Providers Face A New Margin Squeeze",
-            "url": "https://www.forbes.com/sites/petercohan/2026/07/28/as-token-costs-plunge-enterprise-ai-providers-face-a-new-margin-squeeze/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a688f1a729649e785675307/0x0.jpg",
-            "publishedAt": "2026-07-28 13:24:11"
-        },
-        {
-            "source": {
-                "name": "webwire"
-            },
-            "title": "Qualcomm Innovation Fellowship Europe Rewards Excellent Research in AI and Cybersecurity",
-            "url": "https://www.webwire.com/ViewPressRel.asp?aId=358238",
-            "urlToImage": "https://photos.webwire.com/prmedia/6/358238/358238-1-m.jpg",
-            "publishedAt": "2026-07-28 12:58:38"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "At AMD Advancing AI, Helios was the star around which everything else revolved",
-            "url": "https://www.itpro.com/technology/artificial-intelligence/at-amd-advancing-ai-helios-was-the-star-around-which-everything-else-revolved",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/n9kBkjpbdhJz5tWSt52M95-1280-80.jpg",
-            "publishedAt": "2026-07-28 12:33:42"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "QumulusAI Signs $71.9 Million, Three-Year Agreement With AI Inference Platform Provider",
-            "url": "https://www.postregister.com/businessreport/technology/qumulusai-signs-71-9-million-three-year-agreement-with-ai-inference-platform-provider/article_4530338d-f5f4-55da-99e6-ab074e33aa4f.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2026-07-28 12:17:43"
-        },
-        {
-            "source": {
-                "name": "cxotoday"
-            },
-            "title": "From Silicon Valley to Silicon Valley of India: Deep-Tech Startups Redefining Edge Computing and Cybersecurity",
-            "url": "https://cxotoday.com/others/from-silicon-valley-to-silicon-valley-of-india-deep-tech-startups-redefining-edge-computing-and-cybersecurity/",
-            "urlToImage": "https://cxotoday.com/wp-content/uploads/2026/07/Deep-Tech.jpg",
-            "publishedAt": "2026-07-28 11:36:53"
-        },
-        {
-            "source": {
-                "name": "gadgets360"
-            },
-            "title": "Exclusive: Samsung's JB Park on Galaxy AI Costs, Monetisation, and What Stays Free",
-            "url": "https://www.gadgets360.com/ai/features/samsungs-jb-park-on-galaxy-ai-costs-monetisation-and-what-stays-free-exclusive-11832849",
-            "urlToImage": "https://i.gadgets360cdn.com/large/jb-park-samsung-g360_1785237596283.jpg",
-            "publishedAt": "2026-07-28 11:26:29"
-        },
-        {
-            "source": {
-                "name": "cio_in"
-            },
-            "title": "You’re calling the same AI API thousands of times: Why redundant requests are driving hidden AI costs",
-            "url": "https://www.cio.com/article/4201936/why-redundant-requests-are-driving-hidden-ai-costs.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2026/07/4201936-0-45242000-1785236553-shutterstock_69103444.jpg?quality=50&strip=all",
-            "publishedAt": "2026-07-28 11:00:00"
-        },
-        {
-            "source": {
-                "name": "organiser"
-            },
-            "title": "Sovereign AI Models of India: A bold strategic shield to fortify digital sovereignty amid tech weaponisation",
-            "url": "https://organiser.org/2026/07/28/372199/bharat/sovereign-ai-models-of-india-a-bold-strategic-shield-to-fortify-digital-sovereignty-amid-tech-weaponisation/",
-            "urlToImage": "https://organiser.org/wp-content/uploads/2026/07/screenshot-105.webp",
-            "publishedAt": "2026-07-28 10:50:11"
         }
     ]
 }
