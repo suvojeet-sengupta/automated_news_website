@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-07-30T05:38:00.240216Z",
+    "lastUpdatedAt": "2026-07-30T08:16:53.145522Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Trump Administration Eyes AI Controls After OpenAI Incident",
+            "url": "https://www.devdiscourse.com/article/technology/3956912-trump-administration-eyes-ai-controls-after-openai-incident",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_05_2025_20_28_53_3406583.png&width=920&format=jpeg",
+            "publishedAt": "2026-07-29T19:44:43Z"
+        },
+        {
+            "source": {
+                "id": "8c6e9834b8fccfc4c516038dbb543005",
+                "name": "The London Free Press",
+                "url": "https://lfpress.com",
+                "country": "gb"
+            },
+            "title": "Strathroy mayor opposes rezoning that could allow data centre",
+            "url": "https://lfpress.com/news/local-news/strathroy-mayor-opposes-rezoning-that-could-allow-data-centre",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/lfpress/wp-content/uploads/2026/01/0612-sd-strathroy.SD_-1.jpg",
+            "publishedAt": "2026-07-29T19:16:39Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Anthropic and OpenAI making more revenue than McDonald's, Starbucks",
+            "url": "https://nypost.com/2026/07/29/business/anthropic-and-openai-making-more-revenue-than-mcdonalds-starbucks/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135880641.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-07-29T19:16:19Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "AI hits software stocks but boosts demand for cybersecurity",
+            "url": "https://www.afr.com/technology/as-ai-battered-software-stocks-cybersecurity-investors-cashed-in-20260726-p60ios",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2942%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/81eb634d5c118699046a99d4311fe616ad7de2f3",
+            "publishedAt": "2026-07-29T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Transfer of unclaimed shares may go digital; AI, data analytics to perform several tasks",
+            "url": "https://economictimes.indiatimes.com/news/india/transfer-of-unclaimed-shares-may-go-digital-ai-data-analytics-to-perform-several-tasks/articleshow/132720862.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132720987,width-1200,height-630,imgsize-65810,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-29T18:59:00Z"
+        },
+        {
+            "source": {
+                "id": "c477009a98f37b19212d8ae20ce8c018",
+                "name": "POLITICO",
+                "url": "https://www.politico.com",
+                "country": "us"
+            },
+            "title": "Sam Altman previews new AI model on Capitol Hill after cyber breach",
+            "url": "https://www.politico.com/news/2026/07/29/sam-altman-previews-new-ai-model-on-capitol-hill-after-cyber-breach-01015247",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa9%2Ff4%2F4d4e022840cab8f875db7b5a7db2%2Fu-s-congress-854-7.jpg",
+            "publishedAt": "2026-07-29T18:16:00Z"
+        },
+        {
+            "source": {
+                "id": "321f3fa90dde0946a7b4a17731c0314d",
+                "name": "The New Zealand Herald",
+                "url": "https://www.nzherald.co.nz",
+                "country": "nz"
+            },
+            "title": "Alarming ERO report reveals most teachers fear AI is eroding critical thinking",
+            "url": "https://www.nzherald.co.nz/nz/auckland/alarming-ero-report-reveals-most-teachers-fear-ai-is-eroding-critical-thinking/5OGZFWBRPBER5ABUTPDM4HAQV4/",
+            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/533DM3CM7FBJVALFRMYL6Q54W4.jpg?auth=6cac6f56dce81087a1ea35c29f4ef5b4eb57020cc5c2ad30f6ee9078054eb609&width=1200&height=675&quality=70&focal=1368%2C711&smart=false",
+            "publishedAt": "2026-07-29T18:00:00Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -3327,90 +3411,6 @@
             "url": "https://www.cryptobreaking.com/coinbase-ceo-backs-agentic-finance/",
             "urlToImage": "https://www.cryptobreaking.com/wp-content/uploads/2026/07/Coinbase-CEO-Backs-Agentic-Finance-as-Base-Reaches-100M-AI.jpg",
             "publishedAt": "2026-07-27T09:28:40Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Product head of $10 billion startup Mercor on the company junking take-home job interview assignments that can be completed with AI",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/product-head-of-10-billion-startup-mercor-on-the-company-junking-take-home-job-interview-assignments-that-can-be-completed-with-ai/articleshow/132657196.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132657262,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-27T09:18:00Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "China memory chipmaker CXMT's shares soar in a blockbuster share listing in Shanghai",
-            "url": "https://www.ajc.com/news/2026/07/china-memory-chipmaker-cxmts-shares-soar-in-a-blockbuster-share-listing-in-shanghai/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/26FNAXHRONE53DGFDGNBP5WPEM.jpg?auth=8a0f623bbecc2b93409d668cd940e9be31c80c25c1259e9722bee35b69d7e3a8&width=1200&height=630&smart=true",
-            "publishedAt": "2026-07-27T09:01:38Z"
-        },
-        {
-            "source": {
-                "id": "c477009a98f37b19212d8ae20ce8c018",
-                "name": "POLITICO",
-                "url": "https://www.politico.com",
-                "country": "us"
-            },
-            "title": "Georgia Gov. Brian Kemp isn’t done with EVs",
-            "url": "https://www.politico.com/news/2026/07/27/georgia-governor-brian-kemp-electric-vehicles-01012228",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F92%2F94%2Facc4e3424a9aa91ebf7fe5b7e590%2Fus-wildfires-5735.jpg",
-            "publishedAt": "2026-07-27T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Most Hotels Do Not Need a 2030 AI Strategy. They Need Confidence About 2026",
-            "url": "https://www.europesays.com/3156803/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/1785142223_image.png",
-            "publishedAt": "2026-07-27T08:50:15Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI Could Unlock Africa's Growth, But Infrastructure and Skills Hold the Key to Success: IMF",
-            "url": "https://www.devdiscourse.com/article/technology/3955638-ai-could-unlock-africas-growth-but-infrastructure-and-skills-hold-the-key-to-success-imf",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/26_07_2026_13_41_33_9299543.png&width=920&format=jpeg",
-            "publishedAt": "2026-07-27T08:15:47Z"
-        },
-        {
-            "source": {
-                "id": "3d24c816061d69b2e23b8583aed9b447",
-                "name": "Euronews",
-                "url": "https://www.euronews.com",
-                "country": "fr"
-            },
-            "title": "How ABB Bank is integrating AI across banking operations in Central Asia and the Caucasus",
-            "url": "https://www.euronews.com/business/2026/07/27/how-abb-bank-is-integrating-ai-across-banking-operations-in-central-asia-and-the-caucasus",
-            "urlToImage": "https://images.euronews.com/articles/stories/09/84/96/84/1200x675_cmsv2_b8331894-9abb-5baa-8a58-5a6d703c3e4e-9849684.jpg",
-            "publishedAt": "2026-07-27T08:00:38Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "Big Firms Ramp Up Hiring Amid AI Job Cut Fears",
-            "url": "https://www.outlookbusiness.com/corporate/big-firms-ramp-up-hiring-amid-ai-job-cut-fears",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-07-27/1tp6t2rg/5.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-07-27T07:29:57Z"
         }
     ]
 }
