@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-07-31T22:09:51.647430Z",
+    "lastUpdatedAt": "2026-07-31T23:57:39.920907Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "EU says necessary to monitor high risk AI systems after OpenAI, Anthropic AI hacking incidents",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/31/eu-says-necessary-to-monitor-high-risk-ai-systems-after-openai-anthropic-ai-hacking-incidents",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/31/4037543.jpg",
+            "publishedAt": "2026-07-31T11:50:00Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Anthropic says its AI models hacked 3 organizations during testing",
+            "url": "https://www.bnnbloomberg.ca/business/2026/07/31/anthropic-says-its-ai-models-hacked-3-organizations-during-testing/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/ZO3XEBFRQXNSBI5ECCWKGXSPS4.jpg?smart=true&auth=51d5e6b70202ea1b21fef17047c6234d038fae5c5354349271fdda212556866e&width=1200&height=630",
+            "publishedAt": "2026-07-31T11:24:06Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Here's why AI model distillation has gained spotlight in AI race between US and China, explained",
+            "url": "https://www.livemint.com/technology/tech-news/ai-model-distillation-what-explained-why-focus-research-development-technique-spotlight-us-china-ai-race-cheaper-options-11785489028070.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/31/1600x900/logo/artificial_intelligence_AI_pexels-photo-225250_1785496087844_1785496088048_b91b58ae-edfc-4267-811a-53629247079b.jpeg",
+            "publishedAt": "2026-07-31T11:14:20Z"
+        },
+        {
+            "source": {
+                "id": "8500efae8310099b1bcee1ef95a0434e",
+                "name": "KABC-TV",
+                "url": "https://abc7.com",
+                "country": "us"
+            },
+            "title": "Anthropic says its AI models hacked 3 organizations during testing",
+            "url": "https://abc7.com/post/anthropic-says-ai-models-hacked-3-organizations-during-testing/19606080/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/19606115_073126-cc-ap-anthropic-img.jpg?w=1600",
+            "publishedAt": "2026-07-31T11:09:56Z"
+        },
+        {
+            "source": {
+                "id": "b76d069607ae6330d5f65a02c543a320",
+                "name": "Outlook India",
+                "url": "https://www.outlookindia.com",
+                "country": "in"
+            },
+            "title": "Review Of ‘Open Intelligence: Education Between Art and Artificial’",
+            "url": "https://www.outlookindia.com/books/review-of-open-intelligence-education-between-art-and-artificial",
+            "urlToImage": "https://cf-images.assettype.com/outlookindia/2026-07-30/07jc8tjw/Open-Intelligence-Education-Between-Art-and-Artificial.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-07-31T11:09:10Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "AI tool to assist judges in legal research undergoing pilot tests: Arjun Ram Meghwal",
+            "url": "https://www.lokmattimes.com/national/ai-tool-to-assist-judges-in-legal-research-undergoing-pilot-tests-arjun-ram-meghwal/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260720372_202607.jpg",
+            "publishedAt": "2026-07-31T11:03:16Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "AI tool to assist judges in legal research undergoing pilot tests: Arjun Ram Meghwal",
+            "url": "https://www.lokmattimes.com/technology/ai-tool-to-assist-judges-in-legal-research-undergoing-pilot-tests-arjun-ram-meghwal-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260720372_202607.jpg",
+            "publishedAt": "2026-07-31T11:03:16Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "3 AI ETFs to Harness the Power of Artificial Intelligence",
+            "url": "https://www.barchart.com/story/news/3572839/3-ai-etfs-to-harness-the-power-of-artificial-intelligence",
+            "urlToImage": "https://assets.barchart.com/img/barchart-og.png",
+            "publishedAt": "2026-07-31T11:00:02Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "3 AI ETFs to Harness the Power of Artificial Intelligence",
+            "url": "https://www.barchart.com/story/news/3572840/3-ai-etfs-to-harness-the-power-of-artificial-intelligence",
+            "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/AI%20(artificial%20intelligence)/Artificial%20intelligence%20and%20machine%20learning%20concept%20-%20by%20amgun%20via%20iStock.jpg",
+            "publishedAt": "2026-07-31T11:00:02Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "EU calls for stricter monitoring of high-risk AI systems after OpenAI, Anthropic hacking incidents",
+            "url": "https://www.thenews.com.pk/latest/1410824-eu-calls-for-stricter-monitoring-of-high-risk-ai-systems-after-openai-anthropic-hacking-incidents",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-07-31/1410824_034557_updates.jpg",
+            "publishedAt": "2026-07-31T10:45:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -684,6 +804,33 @@
             "url": "https://www.barchart.com/story/news/3566310/south-koreas-kospi-index-jumps-more-than-13-on-a-surge-of-chipmaking-stocks",
             "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/6e28f83b6a34491ca51f961c1870d362/6e28f83b6a34491ca51f961c1870d362_main_south_korea_financial_markets__4855.jpg",
             "publishedAt": "2026-07-31T00:49:22Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "How To Get A Return On AI Investments And Prevent 'Tokenmaxxing'",
+            "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/31/how-to-get-a-return-on-ai-investments-and-prevent-tokenmaxxing/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a6a091a519277638d88f29f/0x0.jpg?width=960",
+            "publishedAt": "2026-07-31 11:15:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Adolfo Hernandez",
+            "url": "https://www.analyticsinsight.net/biography/adolfo-hernandez",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-07-31/0ni81007/Adolfo-Hernandez3rd-July-2026.jpg",
+            "publishedAt": "2026-07-31 11:14:04"
+        },
+        {
+            "source": {
+                "name": "techedition"
+            },
+            "title": "Lenovo Yoga 9n leak points to first RTX Spark-powered convertible laptop",
+            "url": "https://www.techedt.com/lenovo-yoga-9n-leak-points-to-first-rtx-spark-powered-convertible-laptop",
+            "urlToImage": "https://www.techedt.com/wp-content/uploads/2026/07/Lenovo-Yoga-9n-leak-points-to-first-RTX-Spark-powered-convertible-laptop.jpg",
+            "publishedAt": "2026-07-31 10:11:56"
         },
         {
             "source": {
@@ -3300,162 +3447,6 @@
             "url": "https://www.tribuneindia.com/news/business/sonatype-and-forrester-address-the-growing-ai-era-software-supply-chain-risk-facing-indian-enterprises-in-the-guru-forum/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZhZDM1ZjgwLThiMDktMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
             "publishedAt": "2026-07-29T04:53:11Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Sonatype and Forrester Address the Growing AI-Era Software Supply Chain Risk Facing Indian Enterprises in the Guru Forum",
-            "url": "https://www.aninews.in/news/business/sonatype-and-forrester-address-the-growing-ai-era-software-supply-chain-risk-facing-indian-enterprises-in-the-guru-forum20260729101901/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260729044844-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-07-29T04:49:01Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Deepfakes to be labelled as per new EU policy on artificial intelligence",
-            "url": "https://www.hindustantimes.com/world-news/ai-artifical-intelligence-openai-google-meta-chatgpt-nvidia-apple-eu-europe-european-union-policy-code-of-conduct-101785299741219.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/07/29/550x309/AMD-AI-Conference-11_1785300291283_1785300304369_3f6654c6-16cb-4a3c-b0ec-7820789e3671.jpg",
-            "publishedAt": "2026-07-29T04:48:03Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Global Market: Warning signals flash red as oil, AI concerns and debt risks rattle investors",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-warning-signals-flash-red-as-oil-ai-concerns-and-debt-risks-rattle-investors/articleshow/132700977.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132701012,width-1200,height-630,imgsize-38126,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-07-29T04:44:00Z"
-        },
-        {
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            },
-            "title": "South Korean chipmaker SK hynix’s quarterly net profit jumps over 1,200pc on AI demand",
-            "url": "https://www.malaymail.com/news/money/2026/07/29/south-korean-chipmaker-sk-hynixs-quarterly-net-profit-jumps-over-1200pc-on-ai-demand/229378",
-            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/07/29/354358.jpg",
-            "publishedAt": "2026-07-29T04:42:56Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Silicon Valley Startups Urge Trump to Avoid Ban on Chinese AI Models",
-            "url": "https://www.naturalnews.com/2026-07-29-silicon-valley-startups-trump-avoid-chinese-ai-ban.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/silicon-valley-startups-trump-administration-chinese-ai-models-2986-original.jpg",
-            "publishedAt": "2026-07-29T04:38:15Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Global Market | AI boom could complicate central banks’ inflation assessment, monetary policy decisions: BIS",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ai-boom-could-complicate-central-banks-inflation-assessment-monetary-policy-decisions-bis/articleshow/132700645.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132700791,width-1200,height-630,imgsize-84518,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-07-29T04:36:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "FIIs cut stakes in 7 Nifty IT stocks. Then the index surged 16% in July",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stakes-in-7-nifty-it-stocks-then-the-index-surged-16-in-july/articleshow/132699326.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132699338,width-1200,height-630,imgsize-192745,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-07-29T03:29:00Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Himachal turns to AI to boost green cover",
-            "url": "https://www.hindustantimes.com/cities/chandigarh-news/himachal-turns-to-ai-to-boost-green-cover-101785267242527.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/07/28/550x309/This-AI-powered-systems-assists--WhereToPlant-and-_1785267240516.jpg",
-            "publishedAt": "2026-07-29T03:28:38Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Guru Purnima today: How Madhya Pradesh showcases Sandipani schools as new education model",
-            "url": "https://www.livemint.com/education/news/guru-purnima-2026-wishes-how-madhya-pradesh-showcases-sandipani-schools-as-new-education-model-11785291485425.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/29/1600x900/logo/SCHOOLS_1785291831234_1785291838078_1f7f009c-237f-4455-89a1-989409a0fefe.jpg",
-            "publishedAt": "2026-07-29T02:26:02Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "Citrus Heights PD launches website that uses AI to help people report crimes",
-            "url": "https://www.cbsnews.com/sacramento/news/citrus-heights-police-crime-reporting-website/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/29/6862ba04-7229-4138-abe9-0e3b663430de/thumbnail/1200x630/ce6cbff01da161c0b34f7b49a956f289/d80c31416168ac9c5b4b740909706c8e.jpg",
-            "publishedAt": "2026-07-29T02:11:04Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "OpenAI models hacked Hugging Face: human minds must figure out how to make the world safer",
-            "url": "https://www.livemint.com/opinion/online-views/openai-models-hacked-hugging-face-artificial-intelligence-digital-security-anthropic-11785247438818.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/openai_ap_credit_1785248307698_1785248312604_3ec7433f-b667-49fd-a57e-3a6e55d8aecb.jpg",
-            "publishedAt": "2026-07-29T02:01:07Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "FPJ 98th Anniversary: How Maharashtra Continues To Lead India's Economic Growth",
-            "url": "https://www.freepressjournal.in/lifestyle/fpj-98th-anniversary-how-maharashtra-continues-to-lead-indias-economic-growth",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-07-26/egugecv0/megha-maha-economy.png",
-            "publishedAt": "2026-07-29T01:30:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "OpenAI CEO: AI industry slowdown may be needed after security scare",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/29/openai-ceo-ai-industry-slowdown-may-be-needed-after-security-scare",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/29/4032783.jpg",
-            "publishedAt": "2026-07-29T01:00:00Z"
         }
     ]
 }
