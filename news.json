@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-08-01T02:56:04.721570Z",
+    "lastUpdatedAt": "2026-08-01T05:52:32.494203Z",
     "articles": [
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Silicon Valley says Trump’s 'woke AI' crackdown can’t be done",
+            "url": "https://nypost.com/2026/07/31/business/silicon-valley-says-trumps-woke-ai-crackdown-cant-be-done-even-as-leading-chatbots-show-lefty-bias/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/136091647.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-07-31T17:33:17Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Seoul shares surge record 18 pct to reclaim 6,500",
+            "url": "https://www.upi.com/Top_News/World-News/2026/07/31/korea-KOSPI-Korea-Stock-Index-skyrocketed-eighteen-percent-record-semiconductor-gains/2811785517975/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/i/2811785517975/2026/1/17855183152677/v1.5/Seoul-shares-surge-record-18-pct-to-reclaim-6500-point-level-on-chip-rally.jpg",
+            "publishedAt": "2026-07-31T17:21:23Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI can accurately detect left ventricular dysfunction from electrocardiograms",
+            "url": "https://medicalxpress.com/news/2026-07-ai-accurately-left-ventricular-dysfunction.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/ai-can-accurately-dete.jpg",
+            "publishedAt": "2026-07-31T17:20:07Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Scavenger AI Launches Platform That Uses Artificial Intelligence to Surface In-Store Clearance Deals for U.S. Shoppers",
+            "url": "https://techbullion.com/scavenger-ai-launches-platform-that-uses-artificial-intelligence-to-surface-in-store-clearance-deals-for-u-s-shoppers/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/07/Scavenger-AI-Launches-Platform-1000x600.png",
+            "publishedAt": "2026-07-31T16:10:39Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Amazon shares surge 13% as cloud growth eases AI spending fears",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/amazon-shares-surge-13-as-cloud-growth-eases-ai-spending-fears/articleshow/132772194.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-132772194,width-1200,height-630,imgsize-56278,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-07-31T16:10:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Amazon to boost spending on AI by $20B",
+            "url": "https://www.manilatimes.net/2026/08/01/business/foreign-business/amazon-to-boost-spending-on-ai-by-20b/2395862",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/31/1159194.jpg",
+            "publishedAt": "2026-07-31T16:09:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Building the PETRONAS of data",
+            "url": "https://www.thestar.com.my/business/insight/2026/08/01/building-the-petronas-of-data",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/01/4037740.jpg",
+            "publishedAt": "2026-07-31T16:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Anthropic artificial intelligence models access 3 organization in testing",
+            "url": "https://www.foxnews.com/tech/ai-newsletter-models-accessed-systems-3-real-organizations-company-reveals",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/anthropic-dario-amodei-artificial-intelligence.jpg",
+            "publishedAt": "2026-07-31T15:46:00Z"
+        },
+        {
+            "source": {
+                "id": "2492bcb79914b2ce3d9867453dae22ac",
+                "name": "Financial Post",
+                "url": "https://financialpost.com",
+                "country": "ca"
+            },
+            "title": "CIBC weighs costs as select employees test powerful AI tool",
+            "url": "https://financialpost.com/fp-finance/banking/cibc-weighs-costs-employees-test-ai-tool",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/0801-mg-cibc.jpg",
+            "publishedAt": "2026-07-31T15:02:33Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI blood assay detects liver cancer across diverse international populations",
+            "url": "https://medicalxpress.com/news/2026-07-ai-blood-assay-liver-cancer.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/blood-work.jpg",
+            "publishedAt": "2026-07-31T15:00:07Z"
+        },
         {
             "source": {
                 "id": "2f5884e252590f739df55c0e7db375df",
@@ -924,6 +1044,24 @@
             "url": "https://www.barchart.com/story/news/3566310/south-koreas-kospi-index-jumps-more-than-13-on-a-surge-of-chipmaking-stocks",
             "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/6e28f83b6a34491ca51f961c1870d362/6e28f83b6a34491ca51f961c1870d362_main_south_korea_financial_markets__4855.jpg",
             "publishedAt": "2026-07-31T00:49:22Z"
+        },
+        {
+            "source": {
+                "name": "cnbctv18"
+            },
+            "title": "This Indian startup wants to keep your AI data inside the country",
+            "url": "https://www.cnbctv18.com/technology/sarvam-ai-launches-indus-full-stack-ai-platform-india-enterprises-19959275.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/07/sarvam-31jul-2026-07-32efa6aa22c8fdf86b313821207929f5.jpg",
+            "publishedAt": "2026-07-31 16:28:20"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Montage Technology Announces Industry-First Trial Production of CXL 3.2 MXC Chip",
+            "url": "https://www.postregister.com/businessreport/technology/montage-technology-announces-industry-first-trial-production-of-cxl-3-2-mxc-chip/article_7a1e9ee5-e6c8-51da-9f6d-691919a2092c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/1/d0/1d05717a-aa54-50fa-a65f-3eff6de732cf/6a6cbab7086ff.image.jpg?resize=300%2C324",
+            "publishedAt": "2026-07-31 15:00:40"
         },
         {
             "source": {
@@ -3285,150 +3423,6 @@
             "url": "https://www.prnewswire.co.uk/news-releases/fewer-than-7-of-offshore-professionals-fear-ai-will-harm-their-roles-302837635.html",
             "urlToImage": "https://mmx.prnewswire.com/media/MS1855691/Sourcefit-Logo.jpg?id=OA2799663&p=facebook",
             "publishedAt": "2026-07-29T09:46:00Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Mains answer practice GS 2 (Week 165)",
-            "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-mains-answer-practice-gs-2-week-165-10808758/",
-            "urlToImage": "https://images.indianexpress.com/2026/07/Artificial-Intelligence-governance.jpg",
-            "publishedAt": "2026-07-29T09:19:03Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "PowerCompute Regains Compliance with Nasdaq Minimum Bid Price Requirement",
-            "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/powercompute-regains-compliance-with-nasdaq-minimum-bid-price-requirement/2393789",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/29/1155592.jpg",
-            "publishedAt": "2026-07-29T09:18:30Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
-            "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/07/30/multimedia/00BIZ-DATACENTER-LABOR-01-vczj/00BIZ-DATACENTER-LABOR-01-vczj-facebookJumbo.jpg",
-            "publishedAt": "2026-07-29T09:01:35Z"
-        },
-        {
-            "source": {
-                "id": "1b97b25c0ec482f85326378f82f7f815",
-                "name": "Fox Business",
-                "url": "https://www.foxbusiness.com",
-                "country": "us"
-            },
-            "title": "How AI could redefine healthcare by the end of the decade",
-            "url": "https://www.foxbusiness.com/technology/how-ai-could-redefine-healthcare-end-decade",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/philips-ultrasound-technology-doctor.jpg?ve=1&tl=1",
-            "publishedAt": "2026-07-29T09:00:49Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Hospitals Can’t Outsource AI Accountability",
-            "url": "https://www.europesays.com/3160734/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/SB4-AI-healthcare-techreg-with-overlay.png",
-            "publishedAt": "2026-07-29T08:39:21Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "China should lean into its defining AI advantage - accessibility",
-            "url": "https://www.scmp.com/opinion/china-opinion/article/3361895/china-should-lean-its-defining-ai-advantage-accessibility",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/07/27/4b281e30-a864-4bcf-b9fb-1b079c368615_221a2f0a.jpg?itok=CV9iJpRx&v=1785141857",
-            "publishedAt": "2026-07-29T08:30:06Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Vishal Sikka bets on 'AI surfing' with Hang Ten, raises $32 million to help enterprises ride the wave",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/vishal-sikka-bets-on-ai-surfing-with-hang-ten-raises-32-million-to-help-enterprises-ride-the-wave/articleshow/132706517.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132706535,width-1200,height-630,imgsize-33224,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-07-29T08:27:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "435 billion investment in AI, data centre infrastructure by 2030: Report",
-            "url": "https://www.tribuneindia.com/news/business/india-may-need-usd-350-435-billion-investment-in-ai-data-centre-infrastructure-by-2030-report/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY1MDdjNzgwLThiMjMtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
-            "publishedAt": "2026-07-29T08:03:10Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Elon Musk's xAI Files Lawsuit Challenging Minnesota's Ban on AI 'Nudify' Apps that Create Deepfake Porn",
-            "url": "https://www.breitbart.com/politics/2026/07/29/elon-musks-xai-files-lawsuit-challenging-minnesotas-ban-on-ai-nudify-apps-that-create-deepfake-porn/",
-            "urlToImage": "https://media.breitbart.com/media/2026/07/Elon-Musk-loves-AI-deepfakes-640x335.jpg",
-            "publishedAt": "2026-07-29T08:00:49Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Elon Musk's xAI Files Lawsuit Challenging Minnesota's Ban on AI 'Nudify' Apps that Create Deepfake Porn",
-            "url": "https://www.breitbart.com/tech/2026/07/29/elon-musks-xai-files-lawsuit-challenging-minnesotas-ban-on-ai-nudify-apps-that-create-deepfake-porn/",
-            "urlToImage": "https://media.breitbart.com/media/2026/07/Elon-Musk-loves-AI-deepfakes-640x335.jpg",
-            "publishedAt": "2026-07-29T08:00:49Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Lenovo Capital takes aim at robotics, coding agents in ‘sniper’ AI investment strategy",
-            "url": "https://www.scmp.com/tech/tech-trends/article/3362213/lenovo-capital-takes-aim-robotics-coding-agents-sniper-ai-investment-strategy",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/29/b4628ac0-a722-40d3-aa69-fa4b5bbbe713_632a4640.jpg?itok=FVimB1h_&v=1785301133",
-            "publishedAt": "2026-07-29T08:00:13Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "India may need USD 350-435 billion investment in AI, data centre infrastructure by 2030: Report",
-            "url": "https://www.aninews.in/news/business/india-may-need-usd-350-435-billion-investment-in-ai-data-centre-infrastructure-by-2030-report20260729132814/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260729075357-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-07-29T07:58:14Z"
         }
     ]
 }
