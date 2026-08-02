@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-02T11:58:26.487078Z",
+    "lastUpdatedAt": "2026-08-02T13:37:00.151079Z",
     "articles": [
+        {
+            "source": {
+                "id": "cc589abcee543815a82a8b2856ebe9ed",
+                "name": "Malay Mail",
+                "url": "https://www.malaymail.com",
+                "country": "my"
+            },
+            "title": "When AI hacks you, who gets sued?",
+            "url": "https://www.malaymail.com/news/tech-gadgets/2026/08/02/when-ai-hacks-you-who-gets-sued/229929",
+            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/08/02/355081.jpg",
+            "publishedAt": "2026-08-02T01:26:16Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Indian Missions lean on AI-enabled videos to serve diaspora better",
+            "url": "https://indianexpress.com/article/india/indian-missions-lean-on-ai-enabled-videos-to-serve-diaspora-better-10814066/",
+            "urlToImage": "https://images.indianexpress.com/2026/08/US_968e3c_20260802005345.jpg",
+            "publishedAt": "2026-08-02T00:54:08Z"
+        },
         {
             "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
@@ -738,6 +762,15 @@
             "url": "https://startupnews.fyi/funding/amazon-completes-50b-openai-investment-as-ipo-nears",
             "urlToImage": "https://startupnews-media-2026.s3.us-east-1.amazonaws.com/startupnews-in/uploads/2026/08/admin-1785597151051-6omhy42vr.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZQ3DRHCSCL44VIMT%2F20260801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260801T184628Z&X-Amz-Expires=604800&X-Amz-Signature=588b40b90b4759e323c44e66273cd8b0918cf9f17b89c94ab4a58c238394d4bd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
             "publishedAt": "2026-08-01 15:13:23"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "Uber is building an autonomous vehicle empire, and here's every company it's using to do it",
+            "url": "https://www.bundle.app/en/technology/uber-is-building-an-autonomous-vehicle-empire-and-heres-every-company-its-using-to-do-it-F2B6382D-E160-479C-BE01-BAD1283BB7E5",
+            "urlToImage": "https://static.bundle.app/news/39efc674-d5cf-5035-9c57-44a1d1937661.jpg",
+            "publishedAt": "2026-08-01 15:05:43"
         },
         {
             "source": {
@@ -3456,42 +3489,6 @@
             "url": "https://www.ajc.com/news/2026/07/samsung-reports-record-profit-as-south-korean-chip-giants-benefit-from-global-ai-boom/",
             "urlToImage": "https://images.ajc.com/resizer/v2/7B6LUIJEEJFFRKYBMIUAP4APTE.jpg?auth=e1c2e96f75e3489c339a4235d82836e1621a4ed65b37255c6dc091b9a751a4a8&width=1200&height=630&smart=true",
             "publishedAt": "2026-07-30T01:03:04Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "Growing concerns over Flock cameras in Columbia mirror national debate over surveillance technology",
-            "url": "https://abc17news.com/news/columbia/2026/07/29/growing-concerns-over-flock-cameras-in-columbia-mirror-national-debate-over-surveillance-technology/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/06/flock-system-tz.jpg",
-            "publishedAt": "2026-07-30T00:49:40Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Machine learning LDL-C equation comparable to original Martin-Hopkins",
-            "url": "https://medicalxpress.com/news/2026-07-machine-ldl-equation-martin-hopkins.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/machine-learning-ldl-c.jpg",
-            "publishedAt": "2026-07-30T00:40:03Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Machine learning LDL-C equation comparable to original Martin-Hopkins",
-            "url": "https://phys.org/news/2026-07-machine-ldl-equation-martin-hopkins.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/machine-learning-ldl-c.jpg",
-            "publishedAt": "2026-07-30T00:40:03Z"
         }
     ]
 }
