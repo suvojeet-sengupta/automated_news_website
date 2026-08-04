@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-08-04T19:24:16.651073Z",
+    "lastUpdatedAt": "2026-08-04T21:06:32.024402Z",
     "articles": [
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "Shenzhen-based AI mathematician Yurii Nesterov wins top prize in applied maths",
+            "url": "https://www.scmp.com/news/china/science/article/3362465/shenzhen-based-ai-mathematician-yurii-nesterov-wins-top-prize-applied-maths",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/31/f6f050cc-a42b-4b5c-aa63-8269e76c39e4_e6c6e403.jpg?itok=HvLB0TTR&v=1785465129",
+            "publishedAt": "2026-08-04T09:00:07Z"
+        },
+        {
+            "source": {
+                "id": "4ee8a93f92a1be4ced3de6f96b13bcca",
+                "name": "Africanews",
+                "url": "https://www.africanews.com",
+                "country": "fr"
+            },
+            "title": "AI fuels more than half of cybercrime in Africa as digital scams surge, INTERPOL",
+            "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+            "urlToImage": "https://images.euronews.com/articles/stories/09/86/16/37/1024x538_cmsv2_22bead50-7add-5dea-a3fe-b0aa30cab0eb-9861637.jpg",
+            "publishedAt": "2026-08-04T08:08:47Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "OpenAI counters Apple trade secrets case with internal evidence",
+            "url": "https://www.thenews.com.pk/latest/1411194-openai-counters-apple-trade-secrets-case-with-internal-evidence",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-04/1411194_010725_updates.jpg",
+            "publishedAt": "2026-08-04T08:07:00Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "White House finalizes AI hacking tests with tech giants after rogue models breach corporate systems",
+            "url": "https://www.thenews.com.pk/latest/1411189-white-house-finalizes-ai-hacking-tests-with-tech-giants-after-rogue-models-breach-corporate-systems",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-04/1411189_125310_updates.jpg",
+            "publishedAt": "2026-08-04T07:48:00Z"
+        },
         {
             "source": {
                 "id": "384b3c633f1aa3e0a1bcb208f94d519d",
@@ -360,6 +408,24 @@
             "url": "https://www.thehitavada.com/Encyc/2026/8/4/south-korea-conducts-1st-undersea-mine-sweeping-trial-using-ai-officer.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/8/4/South-Korea-conducts-1st-undersea-mine-sweeping-trial-using-AI-officer_202608041111429246_H@@IGHT_443_W@@IDTH_886.jpg",
             "publishedAt": "2026-08-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "indianexpress"
+            },
+            "title": "Why AI companies are cutting up books to train AI models",
+            "url": "https://indianexpress.com/article/explained/explained-ai/ai-companies-buying-physical-books-training-data-10817242/",
+            "urlToImage": "https://images.indianexpress.com/2026/08/Ai-books.jpg",
+            "publishedAt": "2026-08-04 08:47:05"
+        },
+        {
+            "source": {
+                "name": "semiconductor_today"
+            },
+            "title": "Palomino completes acquisition of Vega Links",
+            "url": "https://www.semiconductor-today.com/news_items/2026/aug/palomino-040826.shtml",
+            "urlToImage": "https://www.semiconductor-today.com/news_items/2026/aug/team-composite-with-logo.jpg",
+            "publishedAt": "2026-08-04 08:39:34"
         },
         {
             "source": {
@@ -3381,78 +3447,6 @@
             "url": "https://www.thestar.com.my/business/insight/2026/08/01/building-the-petronas-of-data",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/01/4037740.jpg",
             "publishedAt": "2026-07-31T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Anthropic artificial intelligence models access 3 organization in testing",
-            "url": "https://www.foxnews.com/tech/ai-newsletter-models-accessed-systems-3-real-organizations-company-reveals",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/anthropic-dario-amodei-artificial-intelligence.jpg",
-            "publishedAt": "2026-07-31T15:46:00Z"
-        },
-        {
-            "source": {
-                "id": "2492bcb79914b2ce3d9867453dae22ac",
-                "name": "Financial Post",
-                "url": "https://financialpost.com",
-                "country": "ca"
-            },
-            "title": "CIBC weighs costs as select employees test powerful AI tool",
-            "url": "https://financialpost.com/fp-finance/banking/cibc-weighs-costs-employees-test-ai-tool",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/0801-mg-cibc.jpg",
-            "publishedAt": "2026-07-31T15:02:33Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI blood assay detects liver cancer across diverse international populations",
-            "url": "https://medicalxpress.com/news/2026-07-ai-blood-assay-liver-cancer.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/blood-work.jpg",
-            "publishedAt": "2026-07-31T15:00:07Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "China, U.S. in artificial intelligence race shaping the economy & security",
-            "url": "https://wjla.com/news/nation-world/china-us-in-artificial-intelligence-race-shaping-the-economy-security-data-centers-netchoice-patrick-hedger",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/1280/1320/center/90/a5d37ddd-9d3c-4843-a55f-463ea00e1bf7-ARTIFICIALINTELLIGENCE.png",
-            "publishedAt": "2026-07-31T14:26:28Z"
-        },
-        {
-            "source": {
-                "id": "9f53afb019d44feb16bcc7da150e679a",
-                "name": "Baltimore News",
-                "url": "https://foxbaltimore.com",
-                "country": "us"
-            },
-            "title": "China, U.S. in artificial intelligence race shaping the economy & security",
-            "url": "https://foxbaltimore.com/news/nation-world/china-us-in-artificial-intelligence-race-shaping-the-economy-security-data-centers-netchoice-patrick-hedger",
-            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/1280/1320/center/90/a5d37ddd-9d3c-4843-a55f-463ea00e1bf7-ARTIFICIALINTELLIGENCE.png",
-            "publishedAt": "2026-07-31T14:26:28Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "In the battle of the AI stacks, model quality won’t be the most decisive factor",
-            "url": "https://www.europesays.com/3165405/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/07/Reuters-AI-image.jpg",
-            "publishedAt": "2026-07-31T14:00:30Z"
         }
     ]
 }
