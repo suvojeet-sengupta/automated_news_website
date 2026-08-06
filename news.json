@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-06T08:26:54.228254Z",
+    "lastUpdatedAt": "2026-08-06T11:17:02.475841Z",
     "articles": [
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "AI Linked to 55% of Cybercrime Cases in Africa, Interpol Report Says",
+            "url": "https://www.naturalnews.com/2026-08-05-ai-linked-cybercrime-cases-africa-interpol-report.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/artificial-intelligence-cybercrime-africa-interpol-report-3190-original.jpg",
+            "publishedAt": "2026-08-05T22:17:44Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "Amazon’s AI Story Is Bigger Than You Think. Here Are 3 Reasons Why.",
+            "url": "https://www.barchart.com/story/news/3675334/amazons-ai-story-is-bigger-than-you-think-here-are-3-reasons-why",
+            "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/AI%20(artificial%20intelligence)/AI%20engineer%20working%20on%20laptop%20by%20ART%20STOCK%20CREATIVE%20via%20Shutterstock.jpg",
+            "publishedAt": "2026-08-05T21:00:18Z"
+        },
+        {
+            "source": {
+                "id": "214d496d625fc657723cf4da80cff8ce",
+                "name": "Deccan Chronicle",
+                "url": "https://www.deccanchronicle.com",
+                "country": "in"
+            },
+            "title": "Journalism Rooted In Empathy, Not AI, Say Experts At National Seminar In Odisha",
+            "url": "https://www.deccanchronicle.com/nation/journalism-rooted-in-empathy-not-ai-say-experts-at-national-seminar-in-odisha-1976959",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/08/05/2072975-experts-with-the-authorities-and-students-of-cuo.jpg",
+            "publishedAt": "2026-08-05T20:46:50Z"
+        },
         {
             "source": {
                 "id": "79e9a45376a66fd7e1a4e68bba928c39",
@@ -1131,12 +1167,57 @@
         },
         {
             "source": {
+                "name": "esecurityplanet"
+            },
+            "title": "AI Attacks Are Evolving: TryHackMe Demo Explores Prompt Injection",
+            "url": "https://www.esecurityplanet.com/threats/ai-attacks-are-evolving-tryhackme-demo-explores-prompt-injection/",
+            "urlToImage": "https://assets.esecurityplanet.com/uploads/2026/07/Prompt-injection.png",
+            "publishedAt": "2026-08-05 21:19:52"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Global RAM Shortage to Persist Through 2026 as AI Demand Surges",
+            "url": "https://www.webpronews.com/global-ram-shortage-to-persist-through-2026-as-ai-demand-surges/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/08/article-22893-1785959369.jpeg",
+            "publishedAt": "2026-08-05 21:12:11"
+        },
+        {
+            "source": {
+                "name": "ijr"
+            },
+            "title": "Nvidia Backs $100,000,000 Push To Spread AI Across College Campuses",
+            "url": "https://ijr.com/article/nividia-ai-college-campuses-national-science-foundation",
+            "urlToImage": "https://assets.ijr.com/syndicated/46331b82dd08221af665f9e0ebed53c894245a69.jpg",
+            "publishedAt": "2026-08-05 20:58:38"
+        },
+        {
+            "source": {
                 "name": "hackernoon"
             },
             "title": "97 Blog Posts To Learn About Google Cloud Platform",
             "url": "https://hackernoon.com/97-blog-posts-to-learn-about-google-cloud-platform",
             "urlToImage": "https://cdn.hackernoon.com/images/github/google-cloud-platform-203.png",
             "publishedAt": "2026-08-05 20:00:03"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Microsoft Orders Engineers to Cut LLM Token Burning Over Soaring Costs",
+            "url": "https://www.webpronews.com/microsoft-orders-engineers-to-cut-llm-token-burning-over-soaring-costs/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/08/article-22866-1785952533.jpeg",
+            "publishedAt": "2026-08-05 19:42:06"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "China’s World AI Cooperation Organization Agenda",
+            "url": "https://www.bundle.app/en/breaking-news/chinas-world-ai-cooperation-organization-agenda-5EF40716-6EFB-4A5E-BC3E-57FED14EFC85",
+            "urlToImage": "https://static.bundle.app/news/6d58342d-bc74-5455-9481-e257270f2b50.jpg",
+            "publishedAt": "2026-08-05 18:05:30"
         },
         {
             "source": {
@@ -3375,102 +3456,6 @@
             "url": "https://www.tribuneindia.com/news/business/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-j-p-morgan/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ3NjNlY2MwLThmMDMtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
             "publishedAt": "2026-08-03T06:23:22Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "AI shrinks vulnerability exploitation window to one day, raises cyber risks: J.P. Morgan",
-            "url": "https://www.aninews.in/news/business/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-jp-morgan20260803114822/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260803061043-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-03T06:18:22Z"
-        },
-        {
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            },
-            "title": "AI and chip investments position Malaysia as regional growth outlier",
-            "url": "https://www.malaymail.com/news/money/2026/08/03/ai-and-chip-investments-position-malaysia-as-regional-growth-outlier/230072",
-            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/08/03/355295.jpg",
-            "publishedAt": "2026-08-03T06:18:13Z"
-        },
-        {
-            "source": {
-                "id": "6330fe7e7b8cfc9b8540c05881fcc289",
-                "name": "U.Today",
-                "url": "https://u.today",
-                "country": "ae"
-            },
-            "title": "Claude Identifies $100 Million Bitcoin Vulnerability in Eight Minutes",
-            "url": "https://u.today/claude-identifies-100-million-bitcoin-vulnerability-in-eight-minutes",
-            "urlToImage": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2026-08/Depositphotos_786952454_S.jpg",
-            "publishedAt": "2026-08-03T06:02:15Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "AI Boom Delivers Historic Earnings Beats",
-            "url": "https://www.benzinga.com/markets/tech/26/08/60863456/ai-spending-pays-off-as-big-tech-delivers-historic-earnings-beats-etfs-to-watch",
-            "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/03/Ai-Robot-Hand-Touching-Forex-Charts-And-.jpg",
-            "publishedAt": "2026-08-03T05:58:00Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "5 Growth Stocks That Pass Peter Lynch's Favorite Test",
-            "url": "https://www.benzinga.com/news/26/08/60863142/5-growth-stocks-that-pass-peter-lynchs-favorite-test",
-            "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/03/Green-Bullish-Chart.jpg",
-            "publishedAt": "2026-08-03T04:42:06Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "At colleges, the AI boom means everyone wants to dabble in computer science",
-            "url": "https://wtop.com/lifestyle/2026/08/at-colleges-the-ai-boom-means-everyone-wants-to-dabble-in-computer-science/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/08/Education_AI_Computer_Science__7578-scaled.jpg",
-            "publishedAt": "2026-08-03T04:16:36Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Techie-turned-officer finds AI solution to speed up rural works in Mysuru",
-            "url": "https://timesofindia.indiatimes.com/city/mysuru/techie-turned-officer-finds-ai-solution-to-speed-up-rural-works-in-mysuru/articleshow/132818186.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132818406,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-03T04:09:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US equity funds see inflows as AI optimism revives demand for tech stocks",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-equity-funds-see-inflows-as-ai-optimism-revives-demand-for-tech-stocks/articleshow/132818268.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132818391,width-1200,height-630,imgsize-16770,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-08-03T04:07:00Z"
         }
     ]
 }
