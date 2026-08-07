@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-07T14:08:54.109225Z",
+    "lastUpdatedAt": "2026-08-07T15:51:13.166218Z",
     "articles": [
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "OpenAI’s new device will be hockey puck-size and cost over $300",
+            "url": "https://www.japantimes.co.jp/business/2026/08/07/companies/openai-new-device/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/07/556005.JPG?v=3.1",
+            "publishedAt": "2026-08-07T03:02:54Z"
+        },
+        {
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            },
+            "title": "Love with deadlines, digital hearts: Korea's dating reality boom tests ethics of romance TV",
+            "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260807/love-with-deadlines-digital-hearts-koreas-dating-reality-boom-tests-ethics-of-romance-tv",
+            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/06/dbb01dde-ba48-4ba0-8500-fa43729fac58.jpg",
+            "publishedAt": "2026-08-07T03:00:04Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "AI detects multiple heart failure types from routine ECGs",
+            "url": "https://www.news-medical.net/news/20260806/AI-detects-multiple-heart-failure-types-from-routine-ECGs.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg",
+            "publishedAt": "2026-08-07T02:43:00Z"
+        },
         {
             "source": {
                 "id": "321f3fa90dde0946a7b4a17731c0314d",
@@ -3423,42 +3459,6 @@
             "url": "https://www.ajc.com/news/2026/08/japan-says-combat-drones-key-to-adapting-to-new-warfare-as-tension-rises-in-the-region/",
             "urlToImage": "https://images.ajc.com/resizer/v2/BHGLDVU5ZBGGLMMYTMX55QWUS4.jpg?auth=6939918aaab606521763d3f8eb5b93af8c9381ce1a5927950e983daa859baedf&width=1200&height=630&smart=true",
             "publishedAt": "2026-08-04T02:52:26Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Japan says low-cost combat drones are essential to its defense",
-            "url": "https://apnews.com/article/japan-defense-paper-china-drones-5a6c6223b22deec4619af31cf69fdc34",
-            "urlToImage": "https://dims.apnews.com/dims4/default/b2b3055/2147483647/strip/true/crop/8256x5501+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2F3d%2Ff9e3676899f7f54daad9226a29f7%2Ff6140923d12f40cdbe4e95b826b99c05",
-            "publishedAt": "2026-08-04T02:49:02Z"
-        },
-        {
-            "source": {
-                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-                "name": "SFGATE",
-                "url": "https://www.sfgate.com",
-                "country": "us"
-            },
-            "title": "Japan says combat drones key to adapting to new warfare as tension rises in the region",
-            "url": "https://www.sfgate.com/news/world/article/japan-says-combat-drones-key-to-adapting-to-new-22372742.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/66/77/14/31191867/3/rawImage.jpg",
-            "publishedAt": "2026-08-04T02:49:02Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "Japan says combat drones key to adapting to new warfare as tension rises in the region",
-            "url": "https://www.clickondetroit.com/news/world/2026/08/04/japan-says-combat-drones-key-to-adapting-to-new-warfare-as-tension-rises-in-the-region/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QICMZHRINZC6DJKUC7PNQJU32E.jpg?_a=DATAg1kSZAA0",
-            "publishedAt": "2026-08-04T02:49:01Z"
         }
     ]
 }
