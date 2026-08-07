@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-08-07T18:48:22.339523Z",
+    "lastUpdatedAt": "2026-08-07T19:48:46.436360Z",
     "articles": [
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Jeff Bridges Says 'Soon I'll Be out of a Gig' Thanks to AI, Might 'Lease' His Likeness",
+            "url": "https://www.breitbart.com/entertainment/2026/08/07/jeff-bridges-says-soon-ill-be-out-of-a-gig-thanks-to-ai-might-lease-his-likeness/",
+            "urlToImage": "https://media.breitbart.com/media/2026/08/jeff-bridges-640x335.jpg",
+            "publishedAt": "2026-08-07T07:42:18Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "SEBI Deploys AI Tools To Curb Finfluencer Risk, Says 62% Of Investors Influenced By Them",
+            "url": "https://www.outlookbusiness.com/corporate/sebi-deploys-ai-tools-to-curb-finfluencer-risk-says-62-of-investors-influenced-by-them",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-05-26/9r4kr8xw/60-61-1-sixteen_nine.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-08-07T07:41:24Z"
+        },
+        {
+            "source": {
+                "id": "f11e9506aaab942b5eafbb067eb85c51",
+                "name": "Modern Diplomacy",
+                "url": "https://moderndiplomacy.eu",
+                "country": "fr"
+            },
+            "title": "Is AI Ending Wall Street's EPS Obsession?",
+            "url": "https://moderndiplomacy.eu/2026/08/07/is-ai-ending-wall-streets-eps-obsession/",
+            "urlToImage": "https://moderndiplomacy.eu/wp-content/uploads/2025/10/Wall-Street-NY.jpg",
+            "publishedAt": "2026-08-07T07:33:53Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+            "url": "https://www.breitbart.com/news/some-us-adults-are-using-ai-for-financial-guidance-but-few-trust-it-gallup-poll-finds/",
+            "urlToImage": "https://media.breitbart.com/media/2026/08/wi/ap/financial-wellness-ai-poll-726-financial-wellness-ai-poll-chat-gpt-app-icon-is-smartphone-screen-640x335.jpg",
+            "publishedAt": "2026-08-07T07:04:35Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "Balochistan youth urged to harness AI for national progress",
+            "url": "https://www.nation.com.pk/07-Aug-2026/balochistan-youth-urged-harness-ai-national-progress",
+            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "publishedAt": "2026-08-07T06:49:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -252,6 +312,24 @@
             "url": "https://foxbaltimore.com/news/nation-world/significant-risk-ai-expert-calls-for-legislation-to-address-security-breaches-white-house-anthropic-google-open-ai-meta",
             "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/4479/1320/0x234/90/1f77769f-4022-43b9-b035-a98d3d08c9f3-GettyImages22881819444.jpg",
             "publishedAt": "2026-08-07T00:23:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Top Kubernetes-Native Inference Servers Ranked (2026)",
+            "url": "https://hackernoon.com/top-kubernetes-native-inference-servers-ranked-2026",
+            "urlToImage": "https://cdn.hackernoon.com/images/C6NlnXrvNTcpydMl4JoNNf761wx1-6z83bm2.png",
+            "publishedAt": "2026-08-07 07:34:59"
+        },
+        {
+            "source": {
+                "name": "robohub"
+            },
+            "title": "AI agents create virtual playgrounds to help robots get crucial training data",
+            "url": "https://robohub.org/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data/",
+            "urlToImage": "https://robohub.org/wp-content/uploads/2026/07/Screenshot-2026-07-30-at-16.11.36-1024x676.jpeg",
+            "publishedAt": "2026-08-07 07:17:33"
         },
         {
             "source": {
@@ -3363,90 +3441,6 @@
             "url": "https://www.scmp.com/news/china/science/article/3362465/shenzhen-based-ai-mathematician-yurii-nesterov-wins-top-prize-applied-maths",
             "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/31/f6f050cc-a42b-4b5c-aa63-8269e76c39e4_e6c6e403.jpg?itok=HvLB0TTR&v=1785465129",
             "publishedAt": "2026-08-04T09:00:07Z"
-        },
-        {
-            "source": {
-                "id": "4ee8a93f92a1be4ced3de6f96b13bcca",
-                "name": "Africanews",
-                "url": "https://www.africanews.com",
-                "country": "fr"
-            },
-            "title": "AI fuels more than half of cybercrime in Africa as digital scams surge, INTERPOL",
-            "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-            "urlToImage": "https://images.euronews.com/articles/stories/09/86/16/37/1024x538_cmsv2_22bead50-7add-5dea-a3fe-b0aa30cab0eb-9861637.jpg",
-            "publishedAt": "2026-08-04T08:08:47Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "OpenAI counters Apple trade secrets case with internal evidence",
-            "url": "https://www.thenews.com.pk/latest/1411194-openai-counters-apple-trade-secrets-case-with-internal-evidence",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-04/1411194_010725_updates.jpg",
-            "publishedAt": "2026-08-04T08:07:00Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "White House finalizes AI hacking tests with tech giants after rogue models breach corporate systems",
-            "url": "https://www.thenews.com.pk/latest/1411189-white-house-finalizes-ai-hacking-tests-with-tech-giants-after-rogue-models-breach-corporate-systems",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-04/1411189_125310_updates.jpg",
-            "publishedAt": "2026-08-04T07:48:00Z"
-        },
-        {
-            "source": {
-                "id": "63fec970d50112ee9b8bc1418d9c5872",
-                "name": "Scientific Computing World",
-                "url": "https://www.scientific-computing.com",
-                "country": "us"
-            },
-            "title": "Berkeley Lab unveils AI modelling breakthrough to accelerate advanced materials development",
-            "url": "https://www.scientific-computing.com/article/berkeley-lab-unveils-ai-modelling-breakthrough-accelerate-advanced-materials-development",
-            "urlToImage": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
-            "publishedAt": "2026-08-04T07:38:20Z"
-        },
-        {
-            "source": {
-                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-                "name": "SFGATE",
-                "url": "https://www.sfgate.com",
-                "country": "us"
-            },
-            "title": "Regional: California Implements New Regulations On Generative Ai",
-            "url": "https://www.sfgate.com/news/bayarea/article/regional-california-implements-new-regulations-22373303.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/66/77/25/31192434/3/rawImage.jpg",
-            "publishedAt": "2026-08-04T07:16:01Z"
-        },
-        {
-            "source": {
-                "id": "9f2e79f0f9194d0d88f0074def064e60",
-                "name": "The Korea Times",
-                "url": "https://www.koreatimes.co.kr",
-                "country": "kr"
-            },
-            "title": "Korea unveils plan to power AI boom entirely with clean energy",
-            "url": "https://www.koreatimes.co.kr/southkorea/society/20260804/korea-unveils-plan-to-power-ai-boom-entirely-with-clean-energy",
-            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/04/137e59e9-1cc0-4fa2-8935-7641442ab964.jpg",
-            "publishedAt": "2026-08-04T07:04:03Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Why our leadership isn’t ready for AI (Part 4)",
-            "url": "https://www.bangkokpost.com/business/investment/3296369/why-our-leadership-isnt-ready-for-ai-part-4",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260804/c1_3296369_700.jpeg",
-            "publishedAt": "2026-08-04T06:58:00Z"
         }
     ]
 }
