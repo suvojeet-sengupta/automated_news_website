@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-07T15:51:13.166218Z",
+    "lastUpdatedAt": "2026-08-07T16:48:39.148507Z",
     "articles": [
+        {
+            "source": {
+                "id": "2b5db686603d0197d748f18d2dc01aec",
+                "name": "Bloomberg Tax News",
+                "url": "https://news.bloombergtax.com",
+                "country": "us"
+            },
+            "title": "China’s Trade Boom Survives Extreme Rains as AI Race Lifts Sales",
+            "url": "https://news.bloombergtax.com/daily-tax-report/chinas-trade-boom-survives-extreme-rains-as-ai-race-lifts-sales",
+            "urlToImage": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+            "publishedAt": "2026-08-07T04:43:19Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "U.K. Agency: OpenAI and Anthropic Models Created Fake Profiles, Tried to Trick Humans in Cyber Evaluation",
+            "url": "https://www.naturalnews.com/2026-08-07-uk-agency-openai-anthropic-models-created-fake-profiles.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-safety-uk-ai-security-institute-openai-3196-original.jpg",
+            "publishedAt": "2026-08-07T04:16:41Z"
+        },
         {
             "source": {
                 "id": "4b9101ef61d45607a32072a7504f5fb0",
@@ -84,6 +108,15 @@
             "url": "https://foxbaltimore.com/news/nation-world/significant-risk-ai-expert-calls-for-legislation-to-address-security-breaches-white-house-anthropic-google-open-ai-meta",
             "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/4479/1320/0x234/90/1f77769f-4022-43b9-b035-a98d3d08c9f3-GettyImages22881819444.jpg",
             "publishedAt": "2026-08-07T00:23:00Z"
+        },
+        {
+            "source": {
+                "name": "startupnews"
+            },
+            "title": "OpenAI's New AI Smart Speaker Will Reportedly Cost $300-$400",
+            "url": "https://startupnews.fyi/tech/openai-s-new-ai-smart-speaker-will-reportedly-cost-300-400",
+            "urlToImage": "https://startupnews-media-2026.s3.us-east-1.amazonaws.com/startupnews-in/uploads/2026/08/admin-1786075743358-uuushaful.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZQ3DRHCSCL44VIMT%2F20260807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260807T111655Z&X-Amz-Expires=604800&X-Amz-Signature=8cf39dcc6a1c164c162a9dcece2b5d0e0609fc110f558cc2edd11575add5fe85&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+            "publishedAt": "2026-08-07 04:10:22"
         },
         {
             "source": {
@@ -3423,42 +3456,6 @@
             "url": "https://www.manilatimes.net/2026/08/04/tmt-newswire/globenewswire/rapid-nutrition-joins-global-conversation-on-the-future-of-ai-driven-healthtech/2397600",
             "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/04/1162563.jpg",
             "publishedAt": "2026-08-04T03:13:02Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "border M&A likely to stay strong in 2H 2026; AI, energy key drivers: Report",
-            "url": "https://www.aninews.in/news/business/cross-border-mampa-likely-to-stay-strong-in-2h-2026-ai-energy-key-drivers-report20260804083521/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260804030052-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-04T03:05:21Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Rapid Nutrition Joins Global Conversation on the Future of",
-            "url": "https://www.globenewswire.com/news-release/2026/08/04/3338000/0/en/rapid-nutrition-joins-global-conversation-on-the-future-of-ai-driven-healthtech.html",
-            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/f5152816-94d7-4584-a49f-05ae66a44bf0",
-            "publishedAt": "2026-08-04T03:00:00Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "Japan says combat drones key to adapting to new warfare as tension rises in the region",
-            "url": "https://www.ajc.com/news/2026/08/japan-says-combat-drones-key-to-adapting-to-new-warfare-as-tension-rises-in-the-region/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/BHGLDVU5ZBGGLMMYTMX55QWUS4.jpg?auth=6939918aaab606521763d3f8eb5b93af8c9381ce1a5927950e983daa859baedf&width=1200&height=630&smart=true",
-            "publishedAt": "2026-08-04T02:52:26Z"
         }
     ]
 }
