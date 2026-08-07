@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2026-08-07T05:36:31.409231Z",
+    "lastUpdatedAt": "2026-08-07T07:06:58.865766Z",
     "articles": [
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "OpenAI Reveals AI Agents Turned on Its Own Testing Environment Before Hacking Hugging Face",
+            "url": "https://www.ibtimes.com/openai-reveals-ai-agents-turned-its-own-testing-environment-before-hacking-hugging-face-3806148",
+            "urlToImage": "https://d.ibtimes.com/en/full/4640977/openai.jpg",
+            "publishedAt": "2026-08-06T18:16:57Z"
+        },
+        {
+            "source": {
+                "id": "109f2b4a20da4fe1c2fd502b03c07243",
+                "name": "BBC News",
+                "url": "https://www.bbc.com",
+                "country": "gb"
+            },
+            "title": "Artificial Intelligence used to design brand new viruses",
+            "url": "https://www.bbc.com/news/articles/c5y3j3ngevmo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e150/live/81e84950-91b8-11f1-bab9-173de0e7d358.jpg",
+            "publishedAt": "2026-08-06T18:01:52Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "This A.I. Just Created Viruses Not Found in Nature",
+            "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
+            "urlToImage": "https://static01.nyt.com/images/2026/08/05/00sci-ai-virus-17812-cover/00sci-ai-virus-17812-cover-facebookJumbo.jpg",
+            "publishedAt": "2026-08-06T18:00:05Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Hacked AI email accounts can help attackers steal $250,000 through CEO fraud: Report",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/hacked-ai-email-accounts-can-help-attackers-steal-250000-through-ceo-fraud-report/articleshow/133007329.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133007372,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-06T17:45:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Furious pace of AI investment on some Fed officials' radar now",
+            "url": "https://www.reuters.com/legal/transactional/furious-pace-ai-investment-some-fed-officials-radar-now-2026-08-06/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/J22ENJKKZNLSTII7V4SK2SAXMU.jpg?auth=ec269835a2984bccc52ca021a7e159b99ba46917b6a7fa80de7e489445bf0100&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-08-06T17:41:22Z"
+        },
         {
             "source": {
                 "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
@@ -3339,66 +3399,6 @@
             "url": "https://www.sfgate.com/tech/article/chatgpt-parenting-advice-22372408.php",
             "urlToImage": "https://s.hdnux.com/photos/01/66/77/05/31191415/3/rawImage.jpg",
             "publishedAt": "2026-08-03T21:47:39Z"
-        },
-        {
-            "source": {
-                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-                "name": "SFGATE",
-                "url": "https://www.sfgate.com",
-                "country": "us"
-            },
-            "title": "OpenAI CEO goes viral for strange ChatGPT parenting advice",
-            "url": "https://www.sfgate.com/tech/article/sam-altman-ai-parenting-22372408.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/66/77/05/31191415/3/rawImage.jpg",
-            "publishedAt": "2026-08-03T21:47:39Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Sam Altman Tells Parents to Use ChatGPT to Connect With Family and Gets Roasted: ‘What If You Just Talked",
-            "url": "https://www.benzinga.com/markets/tech/26/08/60892663/sam-altman-tells-parents-to-use-chatgpt-to-connect-with-family-and-gets-roasted-what-if-you-just-talked-to-your-children",
-            "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/03/Openai-Ceo-Sam-Altman-Attends-The-Artifi.jpg",
-            "publishedAt": "2026-08-03T21:10:53Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI-enabled measurements of 'local brain aging' offer detailed insights on dementia and more",
-            "url": "https://medicalxpress.com/news/2026-08-ai-enabled-local-brain-aging.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-enabled-measurement.jpg",
-            "publishedAt": "2026-08-03T21:00:06Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "New AI model generates detailed maps of aging in brain regions",
-            "url": "https://www.news-medical.net/news/20260803/New-AI-model-generates-detailed-maps-of-aging-in-brain-regions.aspx",
-            "urlToImage": "https://www.news-medical.net/images/tags/TagImage-1241-45296008423622681466-620x480.jpg",
-            "publishedAt": "2026-08-03T20:41:00Z"
-        },
-        {
-            "source": {
-                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-                "name": "Washington Examiner",
-                "url": "https://www.washingtonexaminer.com",
-                "country": "us"
-            },
-            "title": "The updated list of Trump ownership stakes in private companies",
-            "url": "https://www.washingtonexaminer.com/news/business/4673015/updated-list-trump-ownership-stakes-private-enterprises-equity-chip-production/",
-            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/quantum-computing-deals.jpg?resize=1200,683",
-            "publishedAt": "2026-08-03T20:38:06Z"
         }
     ]
 }
