@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-07T12:52:29.465202Z",
+    "lastUpdatedAt": "2026-08-07T14:08:54.109225Z",
     "articles": [
+        {
+            "source": {
+                "id": "321f3fa90dde0946a7b4a17731c0314d",
+                "name": "The New Zealand Herald",
+                "url": "https://www.nzherald.co.nz",
+                "country": "nz"
+            },
+            "title": "This AI just created viruses not found in nature",
+            "url": "https://www.nzherald.co.nz/business/this-ai-just-created-viruses-not-found-in-nature/premium/YXJWWI7PMNFY3AQQ4PEHOJIL2Y/",
+            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/R4XQ6BUDQJDDFMWRCNBWIZUHAI.jpg?auth=1727156805e9d74d0959f0856f0ee5e2d347e7ad8cdfc3906bf4e50aee21f80a&width=1200&height=675&quality=70&focal=703%2C468&smart=false",
+            "publishedAt": "2026-08-07T01:12:11Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI risks require tougher cyber defences, top US officials warn",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/07/ai-risks-require-tougher-cyber-defences-top-us-officials-warn",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/07/4047925.jpg",
+            "publishedAt": "2026-08-07T01:00:00Z"
+        },
         {
             "source": {
                 "id": "2f5884e252590f739df55c0e7db375df",
@@ -3435,30 +3459,6 @@
             "url": "https://www.clickondetroit.com/news/world/2026/08/04/japan-says-combat-drones-key-to-adapting-to-new-warfare-as-tension-rises-in-the-region/",
             "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QICMZHRINZC6DJKUC7PNQJU32E.jpg?_a=DATAg1kSZAA0",
             "publishedAt": "2026-08-04T02:49:01Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Palantir lifts annual revenue forecast on steady demand for AI",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/palantir-lifts-annual-revenue-forecast-on-steady-demand-for-ai-powered-data-analytics/articleshow/132844747.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-43900,resizemode-75,msid-132844747/tech/artificial-intelligence/palantir-lifts-annual-revenue-forecast-on-steady-demand-for-ai-powered-data-analytics.jpg",
-            "publishedAt": "2026-08-04T02:47:47Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "Ben Carroll adds artificial intelligence ministry to Victorian cabinet, dumps transport infrastructure",
-            "url": "https://www.abc.net.au/news/2026-08-04/ben-carroll-ministry-named-artificial-intelligence-added/106994074",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e208519c3a12f9c46e316618dfbabc93?impolicy=wcms_watermark_news&cropH=1079&cropW=1918&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-08-04T02:20:09Z"
         }
     ]
 }
