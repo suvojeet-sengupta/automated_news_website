@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-08T05:38:08.120753Z",
+    "lastUpdatedAt": "2026-08-08T06:42:35.976571Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Deep learning refines how bionic eyes communicate with the brain",
+            "url": "https://medicalxpress.com/news/2026-08-deep-refines-bionic-eyes-communicate.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/deep-learning-refines.jpg",
+            "publishedAt": "2026-08-07T18:20:03Z"
+        },
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "How North Carolina newsrooms are using AI",
+            "url": "https://www.europesays.com/3180651/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/wunc_sign.jpeg",
+            "publishedAt": "2026-08-07T18:18:26Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "Elon Musk’s Net Worth Tops $800 Billion Amid SpaceX Rally",
+            "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/07/elon-musks-net-worth-tops-800-billion-again-as-spacex-shares-spike-11/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a7618e95d8e161346af8425/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-08-07T17:43:31Z"
+        },
         {
             "source": {
                 "id": "f282f77e41f55d72f00fefcaccc92954",
@@ -1056,6 +1092,24 @@
             "url": "https://foxbaltimore.com/news/nation-world/significant-risk-ai-expert-calls-for-legislation-to-address-security-breaches-white-house-anthropic-google-open-ai-meta",
             "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/4479/1320/0x234/90/1f77769f-4022-43b9-b035-a98d3d08c9f3-GettyImages22881819444.jpg",
             "publishedAt": "2026-08-07T00:23:00Z"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Article on EXCLUSIVE Alibaba plans to cha...",
+            "url": "https://completeaitraining.com/news/article-on-exclusive-alibaba-plans-to-cha/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/article-on-exclusive-alibaba-plans-to-cha_2026-08-07.jpg",
+            "publishedAt": "2026-08-07 18:19:42"
+        },
+        {
+            "source": {
+                "name": "informationweek"
+            },
+            "title": "AI inference attacks put new pressure on enterprise privacy",
+            "url": "https://www.informationweek.com/cybersecurity/ai-inference-attacks-put-new-pressure-on-enterprise-privacy",
+            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt8f6d5be497113959/6a761852014e297e66d579b0/081026_IWK_AIinferencing_GettyImages-2262316593.png?width=720&quality=80&disable=upscale",
+            "publishedAt": "2026-08-07 17:42:52"
         },
         {
             "source": {
@@ -3408,51 +3462,6 @@
             "url": "https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-good-company-FF3139E5-B585-4CE7-A582-069160A13B94",
             "urlToImage": "https://static.bundle.app/news/c4f87c38-f61e-595e-9d44-344a2d05a5bb.jpg",
             "publishedAt": "2026-08-05 16:31:33"
-        },
-        {
-            "source": {
-                "name": "investopedia"
-            },
-            "title": "A Guide to Investing in AI-Focused ETFs",
-            "url": "https://www.investopedia.com/a-guide-to-investing-in-ai-focused-etfs-12000530",
-            "urlToImage": "https://www.investopedia.com/thmb/cj4FGTJH-2yEUBofLmlkmmiiMGo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TopHoldings-d27749258de94fc9be579220b10ab2f8.jpg",
-            "publishedAt": "2026-08-05 16:24:05"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Agentic AI Isn’t Just Another Technology Wave. It’s The Next Enterprise Operating Model",
-            "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/agentic-ai-isnt-just-another-technology-wave-its-the-next-enterprise-operating-model/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a70ff15e48075eddd2c781c/0x0.jpg?width=960",
-            "publishedAt": "2026-08-05 15:00:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "500 Blog Posts To Learn About Good Company",
-            "url": "https://hackernoon.com/500-blog-posts-to-learn-about-good-company",
-            "urlToImage": "https://cdn.hackernoon.com/images/github/good-company-412.png",
-            "publishedAt": "2026-08-05 14:00:12"
-        },
-        {
-            "source": {
-                "name": "timesnownews"
-            },
-            "title": "Microsoft Warns Employees Against 'Tokenmaxxing' After GPT 5.6 Rollout",
-            "url": "https://www.timesnownews.com/technology-science/microsoft-warns-employees-against-tokenmaxxing-after-gpt-5-6-rollout-article-155305384",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-155305448,thumbsize-52758,width-1280,height-720,resizemode-75/155305448.jpg",
-            "publishedAt": "2026-08-05 11:58:29"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "The future of artificial intelligence will be defined by identity",
-            "url": "https://us.headtopics.com/news/the-future-of-artificial-intelligence-will-be-defined-by-86298954",
-            "urlToImage": "https://i.headtopics.com/images/2026/8/5/newsweek/the-future-of-artificial-intelligence-will-be-defi-the-future-of-artificial-intelligence-will-be-defi-0A4EC8DEE1332B5C1C25B8BE2BA784D6.webp",
-            "publishedAt": "2026-08-05 11:36:37"
         }
     ]
 }
