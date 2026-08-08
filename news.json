@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-08T10:26:45.905194Z",
+    "lastUpdatedAt": "2026-08-08T11:23:13.132128Z",
     "articles": [
+        {
+            "source": {
+                "id": "2b5db686603d0197d748f18d2dc01aec",
+                "name": "Bloomberg Tax News",
+                "url": "https://news.bloombergtax.com",
+                "country": "us"
+            },
+            "title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns (1)",
+            "url": "https://news.bloombergtax.com/daily-tax-report/openai-pauses-some-work-on-new-astra-model-on-cyber-concerns-1",
+            "urlToImage": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+            "publishedAt": "2026-08-07T23:12:34Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The Democratization of AI: Why No-Code Is the Bridge Between AI Capability and Business Execution",
+            "url": "https://techbullion.com/the-democratization-of-ai-why-no-code-is-the-bridge-between-ai-capability-and-business-execution/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/08/Jeff-Kuo-Portrait.jpg",
+            "publishedAt": "2026-08-07T22:58:11Z"
+        },
         {
             "source": {
                 "id": "321f3fa90dde0946a7b4a17731c0314d",
@@ -3453,24 +3477,6 @@
             "url": "https://ijr.com/article/nividia-ai-college-campuses-national-science-foundation",
             "urlToImage": "https://assets.ijr.com/syndicated/46331b82dd08221af665f9e0ebed53c894245a69.jpg",
             "publishedAt": "2026-08-05 20:58:38"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "97 Blog Posts To Learn About Google Cloud Platform",
-            "url": "https://hackernoon.com/97-blog-posts-to-learn-about-google-cloud-platform",
-            "urlToImage": "https://cdn.hackernoon.com/images/github/google-cloud-platform-203.png",
-            "publishedAt": "2026-08-05 20:00:03"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Microsoft Orders Engineers to Cut LLM Token Burning Over Soaring Costs",
-            "url": "https://www.webpronews.com/microsoft-orders-engineers-to-cut-llm-token-burning-over-soaring-costs/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/08/article-22866-1785952533.jpeg",
-            "publishedAt": "2026-08-05 19:42:06"
         }
     ]
 }
