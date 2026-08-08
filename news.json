@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-08T04:51:25.556282Z",
+    "lastUpdatedAt": "2026-08-08T05:38:08.120753Z",
     "articles": [
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Gujarat notifies Data Center Policy 2026-29, targets 7.5 GW Green AI capacity",
+            "url": "https://www.aninews.in/news/national/general-news/gujarat-notifies-data-center-policy-2026-29-targets-75-gw-green-ai-capacity20260807230226/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260807172228-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-08-07T17:32:26Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "BRICS WAVES Bazaar Draws 900 Delegates and New Global Media Deals",
+            "url": "https://www.devdiscourse.com/article/law-order/3961264-brics-waves-bazaar-draws-900-delegates-and-new-global-media-deals",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/07_08_2026_21_57_41_7071656.png&width=920&format=jpeg",
+            "publishedAt": "2026-08-07T16:56:05Z"
+        },
         {
             "source": {
                 "id": "6fea3ee012f060c6309366516e8d00be",
@@ -1032,6 +1056,15 @@
             "url": "https://foxbaltimore.com/news/nation-world/significant-risk-ai-expert-calls-for-legislation-to-address-security-breaches-white-house-anthropic-google-open-ai-meta",
             "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/4479/1320/0x234/90/1f77769f-4022-43b9-b035-a98d3d08c9f3-GettyImages22881819444.jpg",
             "publishedAt": "2026-08-07T00:23:00Z"
+        },
+        {
+            "source": {
+                "name": "techrepublic"
+            },
+            "title": "OpenAI’s ‘Doughnut-Shaped’ AI Speaker Could Launch in 2027",
+            "url": "https://www.techrepublic.com/article/news-openai-ai-speaker-chatgpt-hardware-analysis/",
+            "urlToImage": "https://assets.techrepublic.com/uploads/2026/08/openai-speaker.jpg?f=jpeg",
+            "publishedAt": "2026-08-07 17:09:28"
         },
         {
             "source": {
@@ -3420,33 +3453,6 @@
             "url": "https://us.headtopics.com/news/the-future-of-artificial-intelligence-will-be-defined-by-86298954",
             "urlToImage": "https://i.headtopics.com/images/2026/8/5/newsweek/the-future-of-artificial-intelligence-will-be-defi-the-future-of-artificial-intelligence-will-be-defi-0A4EC8DEE1332B5C1C25B8BE2BA784D6.webp",
             "publishedAt": "2026-08-05 11:36:37"
-        },
-        {
-            "source": {
-                "name": "publictv_in"
-            },
-            "title": "AI can help developing economies achieve century’s progress in a decade if governments act now: World Bank",
-            "url": "https://english.publictv.in/ai-can-help-developing-economies-achieve-centurys-progress-in-a-decade-if-governments-act-now-world-bank/",
-            "urlToImage": "https://english.publictv.in/wp-content/uploads/2026/06/AI-artificial-intelligence-chip-a-1.jpg",
-            "publishedAt": "2026-08-05 11:12:09"
-        },
-        {
-            "source": {
-                "name": "hillpost"
-            },
-            "title": "AI – A Lifeline To Developing Economies Facing Weak Growth – World Bank",
-            "url": "https://hillpost.in/2026/08/ai-a-lifeline-to-developing-economies-facing-weak-growth-world-bank/169454/",
-            "urlToImage": "https://hillpost.in/wp-content/uploads/2026/08/World-Bank-AI.jpg",
-            "publishedAt": "2026-08-05 10:50:50"
-        },
-        {
-            "source": {
-                "name": "newsweek"
-            },
-            "title": "The Future of Artificial Intelligence Will Be Defined by Identity",
-            "url": "https://www.newsweek.com/the-future-of-artificial-intelligence-will-be-defined-by-identity-12283271",
-            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/08/GettyImages-2238330221.jpg?w=1600&h=900&q=88",
-            "publishedAt": "2026-08-05 10:47:03"
         }
     ]
 }
