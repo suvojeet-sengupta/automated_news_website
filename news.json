@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-08-08T07:44:16.203011Z",
+    "lastUpdatedAt": "2026-08-08T08:33:56.968082Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+            "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106413615-1582815498409img_8994r.jpg?v=1698963731&w=1920&h=1080",
+            "publishedAt": "2026-08-07T20:22:17Z"
+        },
         {
             "source": {
                 "id": "0a4c92a1a91d0994627a96e134064d69",
@@ -1092,6 +1104,15 @@
             "url": "https://foxbaltimore.com/news/nation-world/significant-risk-ai-expert-calls-for-legislation-to-address-security-breaches-white-house-anthropic-google-open-ai-meta",
             "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/4479/1320/0x234/90/1f77769f-4022-43b9-b035-a98d3d08c9f3-GettyImages22881819444.jpg",
             "publishedAt": "2026-08-07T00:23:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "186 Blog Posts To Learn About Hackernoon Community",
+            "url": "https://hackernoon.com/186-blog-posts-to-learn-about-hackernoon-community",
+            "urlToImage": "https://cdn.hackernoon.com/images/github/hackernoon-community-508.png",
+            "publishedAt": "2026-08-07 20:00:05"
         },
         {
             "source": {
@@ -3444,24 +3465,6 @@
             "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
             "urlToImage": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-man-holding-a-ginormous-lightbulb-with-ai-written-on-it.jpg?id=67568096&width=980",
             "publishedAt": "2026-08-05 18:00:03"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "Article on Beyond genAI and agentic AI, h...",
-            "url": "https://completeaitraining.com/news/article-on-beyond-genai-and-agentic-ai-h/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/article-on-beyond-genai-and-agentic-ai-h_2026-08-05.jpg",
-            "publishedAt": "2026-08-05 17:23:35"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "500 Blog Posts To Learn About Good Company",
-            "url": "https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-good-company-FF3139E5-B585-4CE7-A582-069160A13B94",
-            "urlToImage": "https://static.bundle.app/news/c4f87c38-f61e-595e-9d44-344a2d05a5bb.jpg",
-            "publishedAt": "2026-08-05 16:31:33"
         }
     ]
 }
