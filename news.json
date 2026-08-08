@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-08T08:33:56.968082Z",
+    "lastUpdatedAt": "2026-08-08T09:32:14.127607Z",
     "articles": [
+        {
+            "source": {
+                "id": "321f3fa90dde0946a7b4a17731c0314d",
+                "name": "The New Zealand Herald",
+                "url": "https://www.nzherald.co.nz",
+                "country": "nz"
+            },
+            "title": "Tenancy Tribunal issues new artificial intelligence guidelines amid concerns over ‘cases with AI slop’",
+            "url": "https://www.nzherald.co.nz/nz/tenancy-tribunal-issues-new-artificial-intelligence-guidelines-amid-concerns-over-cases-with-ai-slop/HUNYEY3O4VFO5HPNNXTI7SDDHI/",
+            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/WA72ORUUG6ZW6B243YF6NHLYXU.jpg?auth=7567b43738d9b9af4b02eee68ecdf128b56962c78a0b9881abca01042b694567&width=1200&height=675&quality=70&smart=true",
+            "publishedAt": "2026-08-07T20:59:39Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Apple and OpenAI escalate legal battle over devices",
+            "url": "https://www.manilatimes.net/2026/08/08/world/apple-and-openai-escalate-legal-battle-over-devices/2401256",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/08/1168799.jpg",
+            "publishedAt": "2026-08-07T20:44:00Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -3447,24 +3471,6 @@
             "url": "https://www.bundle.app/en/finance/we-need-the-bravery-to-change-the-process-how-ai-is-impacting-physical-environments-DC68E001-A2BB-4ADC-9DB9-4F05BE876340",
             "urlToImage": "https://static.bundle.app/news/2f8fab18-3781-59ee-ba51-e5085d205f3f.jpg",
             "publishedAt": "2026-08-05 19:38:14"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "China’s World AI Cooperation Organization Agenda",
-            "url": "https://www.bundle.app/en/breaking-news/chinas-world-ai-cooperation-organization-agenda-5EF40716-6EFB-4A5E-BC3E-57FED14EFC85",
-            "urlToImage": "https://static.bundle.app/news/6d58342d-bc74-5455-9481-e257270f2b50.jpg",
-            "publishedAt": "2026-08-05 18:05:30"
-        },
-        {
-            "source": {
-                "name": "ieee_spectrum"
-            },
-            "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
-            "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
-            "urlToImage": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-man-holding-a-ginormous-lightbulb-with-ai-written-on-it.jpg?id=67568096&width=980",
-            "publishedAt": "2026-08-05 18:00:03"
         }
     ]
 }
