@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-09T21:26:09.138269Z",
+    "lastUpdatedAt": "2026-08-09T22:24:38.423224Z",
     "articles": [
+        {
+            "source": {
+                "id": "eba2f6a49db29efc8343807ba675665f",
+                "name": "NewsBytes",
+                "url": "https://www.newsbytesapp.com",
+                "country": "in"
+            },
+            "title": "Samsung is studying how users interact with AI in devices",
+            "url": "https://www.newsbytesapp.com/news/science/samsung-uses-consumer-feedback-to-shape-future-ai-experiences/story",
+            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l271_39161786266789.jpg",
+            "publishedAt": "2026-08-09T10:10:17Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Watching cancer cells live could open new frontiers in drug discovery: Experts",
+            "url": "https://www.dailyexcelsior.com/watching-cancer-cells-live-could-open-new-frontiers-in-drug-discovery-experts/",
+            "urlToImage": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTY3Njc5MDMwLTkzZGEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+            "publishedAt": "2026-08-09T10:09:26Z"
+        },
+        {
+            "source": {
+                "id": "b683218c3952d77a76b7bda7512f2f6e",
+                "name": "WIRED",
+                "url": "https://www.wired.com",
+                "country": "us"
+            },
+            "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+            "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+            "urlToImage": "https://media.wired.com/photos/6a72492d52a9268da4f15181/191:100/w_1280,c_limit/AI-Barons-Business.jpg",
+            "publishedAt": "2026-08-09T09:30:00Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -168,6 +204,15 @@
             "url": "https://www.europesays.com/3183358/",
             "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/6a77cad30203e.hires_.jpg",
             "publishedAt": "2026-08-09T00:51:15Z"
+        },
+        {
+            "source": {
+                "name": "newsbytesapp"
+            },
+            "title": "AI push is putting banks at risk, says Moody's",
+            "url": "https://www.newsbytesapp.com/news/business/banks-ai-rush-could-lead-to-systemic-risks-moody-s/story",
+            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l7120260809150420.jpeg",
+            "publishedAt": "2026-08-09 10:06:43"
         },
         {
             "source": {
@@ -3414,54 +3459,6 @@
             "url": "https://www.ajc.com/news/2026/08/stocks-waver-on-wall-street-and-hover-around-records-as-oil-prices-hold-steady/",
             "urlToImage": "https://images.ajc.com/resizer/v2/26OOH7W4RBFE5B522Q3EYQA6T4.jpg?auth=0086c2b179072ab52438a2a9b7c2027f9bfe3ad13c6f8a713ad62725738df29c&width=1200&height=630&smart=true",
             "publishedAt": "2026-08-05T17:22:10Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "First-in-class small molecule inhibitor shows promise against pancreatic cancer in preclinical studies",
-            "url": "https://medicalxpress.com/news/2026-08-class-small-molecule-inhibitor-pancreatic.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/small-molecule-inhibit.jpg",
-            "publishedAt": "2026-08-05T17:20:08Z"
-        },
-        {
-            "source": {
-                "id": "ae2702c2a2dec11fe1079f1a797d178a",
-                "name": "Manchester Evening News",
-                "url": "https://www.manchestereveningnews.co.uk",
-                "country": "gb"
-            },
-            "title": "The revolutionary tool in the fight to stop a 'silent killer'",
-            "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/revolutionary-tool-fight-stop-silent-34410308",
-            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/article34410378.ece/ALTERNATES/s1200d/0_Prostate-AI-tool-work-station.jpg",
-            "publishedAt": "2026-08-05T16:56:33Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "Why SpaceX stock is falling despite strong revenue growth",
-            "url": "https://www.cbsnews.com/news/spacex-stock-falls-ai-spending/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/05/43be3050-9652-4e03-9879-7296f1626883/thumbnail/1200x630/229010e4c31a472336c8a10d025901c0/gettyimages-2289079330.jpg",
-            "publishedAt": "2026-08-05T16:53:00Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "How China’s A.I. Is Surging Across Africa",
-            "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
-            "urlToImage": "https://static01.nyt.com/images/2026/07/30/30visualUploader-29943-cover/30visualUploader-29943-cover-facebookJumbo.jpg",
-            "publishedAt": "2026-08-05T14:12:56Z"
         }
     ]
 }
