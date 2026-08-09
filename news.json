@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-08-08T23:23:02.995882Z",
+    "lastUpdatedAt": "2026-08-09T01:18:34.326433Z",
     "articles": [
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills",
+            "url": "https://www.aninews.in/news/business/12-value-added-courses-at-chandigarh-university-uttar-pradesh-ai-business-analytics-amp-more-to-boost-student-skills20260808182806/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260808125740-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-08-08T12:58:06Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Ampcus Cyber Convenes National Leaders at GRC India AI Conclave 2026 to Advance AI Governance, Cybersecurity, and Digital Trust",
+            "url": "https://www.aninews.in/news/business/ampcus-cyber-convenes-national-leaders-at-grc-india-ai-conclave-2026-to-advance-ai-governance-cybersecurity-and-digital-trust20260808181714/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260808124650-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-08-08T12:47:14Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
+            "url": "https://www.reuters.com/business/retail-consumer/apple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ENK6HSJLLBIRZCJESFYNPKKUWI.jpg?auth=e2f1f2ec5fe0e8c95e6c0c02a754f173cb7f3714b3d1dafb1b0c7475a8420dd1&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-08-08T12:35:17Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills",
+            "url": "https://www.tribuneindia.com/news/business/12-value-added-courses-at-chandigarh-university-uttar-pradesh-ai-business-analytics-more-to-boost-student-skills/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU5N2RlZjgwLTkzMjMtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+            "publishedAt": "2026-08-08T12:17:22Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "UP State Curriculum Framework: AI May Be Optional Subject, Emotional Development & Social Responsibility In Focus; Draft Under Review",
+            "url": "https://www.freepressjournal.in/education/up-state-curriculum-framework-ai-may-be-optional-subject-emotional-development-social-responsibility-in-focus-draft-under-review",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-08-08/g9u94hxg/HPLFQyLa0AAJBqN.jfif",
+            "publishedAt": "2026-08-08T11:39:51Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Elon Musk on jobs that will soon become redundant and the ones that are likely to survive in the age of AI",
+            "url": "https://timesofindia.indiatimes.com/etimes/work-career/elon-musk-on-jobs-that-will-soon-become-redundant-and-the-jobs-that-are-likely-to-survive-in-the-age-of-ai/articleshow/133051537.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133051632,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-08T11:32:00Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -360,6 +432,24 @@
             "url": "https://www.thestar.com.my/news/nation/2026/08/08/fahmi-advises-parents-to-be-careful-when-kids-make-ai-039friends039",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/08/4049974.JPG",
             "publishedAt": "2026-08-08T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "ciol"
+            },
+            "title": "Quantum AI Is Not Ready for Enterprise Production, Gartner Warns",
+            "url": "https://www.ciol.com/technews-of-the-week/quantum-ai-is-not-ready-for-enterprise-production-gartner-warns-12242554",
+            "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/ciol/media/media_files/2026/08/08/qunantum-2026-08-08-17-28-22.png",
+            "publishedAt": "2026-08-08 11:59:19"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "Not Skynet — yet: Four AI firms, multiple escape routes, and a debate about how close human intelligence is",
+            "url": "https://www.hindustantimes.com/ht-explainers/rogue-ai-kimi-k3-moonshot-openai-chatgpt-anthropic-claude-artificial-intelligence-human-agi-development-what-it-means-101786185716204.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/08/08/1600x900/logo/AI_1786188961996_1786188978838_b65ed037-332d-4ef0-9d59-d7cc75bedaa6.jpg",
+            "publishedAt": "2026-08-08 11:42:39"
         },
         {
             "source": {
@@ -3384,102 +3474,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/palantir-ceo-alex-karp-to-openai-and-anthropic-dont-try-to-drug-addict-us/articleshow/132902500.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-132902473,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-08-05T07:30:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "New Study: Indian Enterprises Have Funded AI at Scale",
-            "url": "https://www.tribuneindia.com/news/business/new-study-indian-enterprises-have-funded-ai-at-scale-only-12-can-prove-it-is-paying-off/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU0ZWU4YzYwLTkwOWQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-05T07:18:38Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Intelligence Indeed's Z-Agent Becomes OSWorld's First 90%+ Dark Horse",
-            "url": "https://www.manilatimes.net/2026/08/05/tmt-newswire/globenewswire/intelligence-indeeds-z-agent-becomes-osworlds-first-90-dark-horse/2398664",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/05/1164353.jpg",
-            "publishedAt": "2026-08-05T07:14:02Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Europe's established tech firms emerge as unexpected AI winners",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/europes-established-tech-firms-emerge-as-unexpected-ai-winners/articleshow/132896490.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-86928,resizemode-75,msid-132896490/tech/artificial-intelligence/europes-established-tech-firms-emerge-as-unexpected-ai-winners.jpg",
-            "publishedAt": "2026-08-05T06:15:15Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI now fuels over half of Africa’s cybercrime, study finds",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/05/ai-now-fuels-over-half-of-africas-cybercrime-study-finds",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/05/4044243.jpg",
-            "publishedAt": "2026-08-05T06:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Parmita’s using chip tech & AI to understand living cells",
-            "url": "https://timesofindia.indiatimes.com/technology/times-techies/parmitas-using-chip-tech-ai-to-understand-living-cells/articleshow/132893406.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-132894001,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-05T05:37:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Book recommendations by Elon Musk: Looking for your next read that helps you think like world's richest man? SpaceX founder suggests these 5 books on innovation, science and success",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/book-recommendations-by-elon-musk-looking-for-your-next-read-that-helps-you-think-like-worlds-richest-man-spacex-founder-suggests-these-5-books-on-innovation-science-and-success/articleshow/132892999.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-132893453,width-1200,height-630,imgsize-88954,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-08-05T05:32:00Z"
-        },
-        {
-            "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
-                "country": "gb"
-            },
-            "title": "generated tales preferred to human",
-            "url": "https://www.bbc.com/news/articles/c0kmpd6lr80o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6211/live/37e69b90-9041-11f1-b8ee-9b3c26ad07bb.png",
-            "publishedAt": "2026-08-05T05:25:50Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "NuSummit Joins CREST AI Charter Founding Signatories to Advance Trusted AI in Cybersecurity",
-            "url": "https://www.tribuneindia.com/news/business/nusummit-joins-crest-ai-charter-founding-signatories-to-advance-trusted-ai-in-cybersecurity/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc0OGJiNDkwLTkwOGMtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-05T05:13:48Z"
         }
     ]
 }
