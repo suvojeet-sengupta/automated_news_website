@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-09T07:50:01.505727Z",
+    "lastUpdatedAt": "2026-08-09T08:35:46.672098Z",
     "articles": [
+        {
+            "source": {
+                "id": "09dc1bda762f4f787cec10477a894d96",
+                "name": "Toronto Sun",
+                "url": "https://torontosun.com",
+                "country": "ca"
+            },
+            "title": "ELDER: AI cannot give writers something to say",
+            "url": "https://torontosun.com/opinion/columnists/ai-cannot-give-writers-something-to-say",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/08/AdobeStock_739390615.jpeg",
+            "publishedAt": "2026-08-08T20:00:18Z"
+        },
+        {
+            "source": {
+                "id": "a264eb6813d0472e83bde84a1aef630a",
+                "name": "Akron Beacon Journal",
+                "url": "https://www.beaconjournal.com",
+                "country": "us"
+            },
+            "title": "Medina County fair warns of AI app spreading false info",
+            "url": "https://www.beaconjournal.com/story/news/local/2026/08/08/medina-county-fair-warns-of-ai-app-spreading-false-info/91228455007/",
+            "urlToImage": "https://www.beaconjournal.com/gcdn/presto/2021/08/05/NABJ/b40782c2-d0a3-4a7e-bacf-bb196502cb9d-time02.jpg?crop=1565,881,x0,y457&width=1565&height=881&format=pjpg&auto=webp",
+            "publishedAt": "2026-08-08T19:53:51Z"
+        },
         {
             "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
@@ -3447,30 +3471,6 @@
             "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/05/spacex-posts-loss-in-first-report-as-a-public-company-but-less-than-expected/",
             "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/STHUCK6RPK44XU7HO3CUY3YXW4.jpg?smart=true&auth=e2feaa7502c67d042d6c0b38545e69d6027e83ca49146a6341bf2ef05703b8c5&width=1200&height=630",
             "publishedAt": "2026-08-05T09:51:39Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Elon Musk faces questions at SpaceX's earnings call",
-            "url": "https://www.cp24.com/news/money/2026/08/05/spacex-posts-loss-in-first-report-as-a-public-company-but-less-than-expected/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/STHUCK6RPK44XU7HO3CUY3YXW4.jpg?smart=true&auth=e2feaa7502c67d042d6c0b38545e69d6027e83ca49146a6341bf2ef05703b8c5&width=1200&height=630",
-            "publishedAt": "2026-08-05T09:51:39Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Global Times: Bridging divides through Open Source: The iterative logic of China's AI",
-            "url": "https://www.manilatimes.net/2026/08/05/tmt-newswire/pr-newswire/global-times-bridging-divides-through-open-source-the-iterative-logic-of-chinas-ai/2398708",
-            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-08-05T09:30:08Z"
         }
     ]
 }
