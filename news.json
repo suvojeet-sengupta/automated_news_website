@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-10T14:18:31.336652Z",
+    "lastUpdatedAt": "2026-08-10T15:55:15.825544Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Google’s search monopoly is becoming an AI monopoly",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/googles-search-monopoly-is-becoming-an-ai-monopoly/articleshow/133079731.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133079772,width-1200,height-630,imgsize-58302,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-10T03:33:00Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Explainable AI helps predict dangerous bleeding after severe heart attacks",
+            "url": "https://www.news-medical.net/news/20260809/Explainable-AI-helps-predict-dangerous-bleeding-after-severe-heart-attacks.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Heart_Attack-620x480.jpg",
+            "publishedAt": "2026-08-10T03:05:00Z"
+        },
+        {
+            "source": {
+                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
+                "name": "Anchorage Daily News",
+                "url": "https://www.adn.com",
+                "country": "us"
+            },
+            "title": "Opinion: Artificial intelligence is moving fast while Alaska policy stands still",
+            "url": "https://www.adn.com/opinions/2026/08/09/opinion-artificial-intelligence-is-moving-fast-while-alaska-policy-stands-still/",
+            "urlToImage": "https://www.adn.com/resizer/v2/LNLAFO3X55EZVPTFLJHAKIL4GQ.jpg?smart=true&auth=d0c26007c9f5e001240d3de823d6d52ec7cc022ef1f2e23b83f9fd659c987304&width=1200&height=630",
+            "publishedAt": "2026-08-10T03:04:36Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -60,6 +96,15 @@
             "url": "https://www.thehitavada.com//Encyc/2026/8/10/brics-leaders-experience-magic-of-bharatiyagpt.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/8/10/BRICS-leaders-experience-magic-of-BharatiyaGPT_202608101114354141_H@@IGHT_821_W@@IDTH_1281.jpg",
             "publishedAt": "2026-08-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "itechpost"
+            },
+            "title": "Microsoft Opens Largest Data Center in India as Hyderabad Becomes an AI Infrastructure Hub",
+            "url": "https://www.itechpost.com/articles/236981/20260809/microsoft-opens-largest-data-center-india-hyderabad-becomes-ai-infrastructure-hub.htm",
+            "urlToImage": "https://d.itechpost.com/en/full/222667/microsoft.jpg",
+            "publishedAt": "2026-08-10 02:40:06"
         },
         {
             "source": {
@@ -351,6 +396,15 @@
             "url": "https://www.digitaltrends.com/home-theater/im-already-surrounded-by-ai-i-dont-need-chatgpt-living-beside-my-bed/",
             "urlToImage": "https://www.digitaltrends.com/tachyon/2023/01/apple-homepod-2023-review-13.jpg?resize=440%2C292",
             "publishedAt": "2026-08-09 18:45:28"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "Distributed Trust and Multimodal Perception for Next-Generation Autonomous Drone Defense",
+            "url": "https://www.bundle.app/en/technology/distributed-trust-and-multimodal-perception-for-next-generation-autonomous-drone-defense-F59FE6DA-E3C0-471B-8722-611CBFA078E9",
+            "urlToImage": "https://static.bundle.app/news/2043c3c6-4abc-50b3-9146-8fda48c36b20.jpg",
+            "publishedAt": "2026-08-09 16:38:53"
         },
         {
             "source": {
@@ -3384,63 +3438,6 @@
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sandisk-forecasts-upbeat-quarterly-revenue-on-ai-driven-demand/articleshow/132981333.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42850,resizemode-75,msid-132981333/tech/artificial-intelligence/sandisk-forecasts-upbeat-quarterly-revenue-on-ai-driven-demand.jpg",
             "publishedAt": "2026-08-06 04:23:47"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "South Korea's government overtakes telcos as top cyber attack target",
-            "url": "https://www.computerweekly.com/news/366647735/South-Koreas-government-overtakes-telcos-as-top-cyber-attack-target",
-            "urlToImage": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/South-Korea-flag-hero-AdobeStock_500991221.jpg",
-            "publishedAt": "2026-08-06 00:07:00"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "AI Linked to 55% of Cybercrime Cases in Africa, Interpol Report Says",
-            "url": "https://www.naturalnews.com/2026-08-05-ai-linked-cybercrime-cases-africa-interpol-report.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/artificial-intelligence-cybercrime-africa-interpol-report-3190-original.jpg",
-            "publishedAt": "2026-08-05T22:17:44Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "Amazon’s AI Story Is Bigger Than You Think. Here Are 3 Reasons Why.",
-            "url": "https://www.barchart.com/story/news/3675334/amazons-ai-story-is-bigger-than-you-think-here-are-3-reasons-why",
-            "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/AI%20(artificial%20intelligence)/AI%20engineer%20working%20on%20laptop%20by%20ART%20STOCK%20CREATIVE%20via%20Shutterstock.jpg",
-            "publishedAt": "2026-08-05T21:00:18Z"
-        },
-        {
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
-                "country": "in"
-            },
-            "title": "Journalism Rooted In Empathy, Not AI, Say Experts At National Seminar In Odisha",
-            "url": "https://www.deccanchronicle.com/nation/journalism-rooted-in-empathy-not-ai-say-experts-at-national-seminar-in-odisha-1976959",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/08/05/2072975-experts-with-the-authorities-and-students-of-cuo.jpg",
-            "publishedAt": "2026-08-05T20:46:50Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "US stocks hold near records on hopes of an agreement with Iran",
-            "url": "https://www.ajc.com/news/2026/08/stocks-hover-near-record-highs-and-oil-prices-stabilize-with-talk-of-a-deal-to-open-strait-of-hormuz/",
-            "urlToImage": "https://images.ajc.com/resizer/v2/26OOH7W4RBFE5B522Q3EYQA6T4.jpg?auth=0086c2b179072ab52438a2a9b7c2027f9bfe3ad13c6f8a713ad62725738df29c&width=1200&height=630&smart=true",
-            "publishedAt": "2026-08-05T20:11:15Z"
         }
     ]
 }
