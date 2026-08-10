@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-10T03:48:32.411980Z",
+    "lastUpdatedAt": "2026-08-10T05:21:11.505038Z",
     "articles": [
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "Linked Payments Can Save AI Sales",
+            "url": "https://www.europesays.com/3184669/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/2026-Q2-eBook-Splitit.jpg",
+            "publishedAt": "2026-08-09T16:33:40Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "PH electronics exports to grow 10%, says Seipi",
+            "url": "https://www.manilatimes.net/2026/08/10/business/top-business/ph-electronics-exports-to-grow-10-says-seipi/2401613",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/09/1169856.jpg",
+            "publishedAt": "2026-08-09T16:10:00Z"
+        },
         {
             "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
@@ -216,6 +240,15 @@
             "url": "https://www.europesays.com/3183358/",
             "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/6a77cad30203e.hires_.jpg",
             "publishedAt": "2026-08-09T00:51:15Z"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Duos Technologies Group (NASDAQ:DUOT) & WhiteFiber (NASDAQ:WYFI) Head-To-Head Survey",
+            "url": "https://www.thelincolnianonline.com/2026/08/09/duos-technologies-group-nasdaqduot-whitefiber-nasdaqwyfi-head-to-head-survey.html",
+            "urlToImage": "https://www.marketbeat.com/logos/duos-technologies-group-inc-logo-1200x675.png",
+            "publishedAt": "2026-08-09 16:14:50"
         },
         {
             "source": {
@@ -3420,42 +3453,6 @@
             "url": "https://foxbaltimore.com/news/nation-world/ai-safety-questions-grow-after-testing-incident-raises-concerns-about-system-controls-leeza-garber-artificial-intelligence-technology-sam-altman-chatgpt-openai-breach-congress-china-pangram-social-media-constitution",
             "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/5842/1320/0x357/90/4ad6d139-01dd-44a9-9d22-bb900719d6e0-GettyImages22773198901.jpg",
             "publishedAt": "2026-08-05T17:33:11Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "AI safety questions grow after testing incident raises concerns about system controls",
-            "url": "https://wjla.com/news/nation-world/ai-safety-questions-grow-after-testing-incident-raises-concerns-about-system-controls-leeza-garber-artificial-intelligence-technology-sam-altman-chatgpt-openai-breach-congress-china-pangram-social-media-constitution",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/5842/1320/0x357/90/4ad6d139-01dd-44a9-9d22-bb900719d6e0-GettyImages22773198901.jpg",
-            "publishedAt": "2026-08-05T17:33:11Z"
-        },
-        {
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            },
-            "title": "Report reveals extent of AI boost to Australian economy",
-            "url": "https://www.canberratimes.com.au/story/9324895/report-reveals-extent-of-ai-boost-to-australian-economy/",
-            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/1e877e18-f983-4e77-8db7-d4773ea0d84a.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-08-05T17:31:04Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "Anthropic, OpenAI models used fake identities to plant malicious code",
-            "url": "https://wjla.com/news/nation-world/anthropic-openai-models-used-fake-identities-plant-malicious-code-security-institute",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/5879/1320/0x140/90/67f7683a-a9d1-4d5f-a274-b79a3af99cea-GettyImages22773197192.jpg",
-            "publishedAt": "2026-08-05T17:31:00Z"
         }
     ]
 }
