@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-10T12:56:22.536706Z",
+    "lastUpdatedAt": "2026-08-10T14:18:31.336652Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/10/some-us-adults-are-using-ai-for-financial-guidance-but-few-trust-it-gallup-poll-finds",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/10/4052083.jpg",
+            "publishedAt": "2026-08-10T02:00:00Z"
+        },
+        {
+            "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+            },
+            "title": "AI - Friend or foe of IT workers?",
+            "url": "https://www.sbs.com.au/language/indonesian/en/podcast-episode/ai-friend-or-foe-of-it-workers/hmhdzwdcw",
+            "urlToImage": "https://assets.sbs.com.au/dims4/default/054720d/2147483647/strip/true/crop/8600x4838+0+126/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F98%2F59%2F7499b3084cd9ab9189ca933d0273%2Fgettyimages-2225645020.jpg",
+            "publishedAt": "2026-08-10T01:23:56Z"
+        },
         {
             "source": {
                 "id": "7f6e8514e9d8f8376aaa9a7229861518",
@@ -327,6 +351,15 @@
             "url": "https://www.digitaltrends.com/home-theater/im-already-surrounded-by-ai-i-dont-need-chatgpt-living-beside-my-bed/",
             "urlToImage": "https://www.digitaltrends.com/tachyon/2023/01/apple-homepod-2023-review-13.jpg?resize=440%2C292",
             "publishedAt": "2026-08-09 18:45:28"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "92 Blog Posts To Learn About Infrastructure As Code",
+            "url": "https://www.bundle.app/en/technology/92-blog-posts-to-learn-about-infrastructure-as-code-CD2ED092-C555-4AD7-8243-FA6D8AAABCBA",
+            "urlToImage": "https://static.bundle.app/news/f571b6ce-ff36-558d-8240-dc94e20003b2.jpg",
+            "publishedAt": "2026-08-09 16:31:33"
         },
         {
             "source": {
@@ -3408,42 +3441,6 @@
             "url": "https://www.ajc.com/news/2026/08/stocks-hover-near-record-highs-and-oil-prices-stabilize-with-talk-of-a-deal-to-open-strait-of-hormuz/",
             "urlToImage": "https://images.ajc.com/resizer/v2/26OOH7W4RBFE5B522Q3EYQA6T4.jpg?auth=0086c2b179072ab52438a2a9b7c2027f9bfe3ad13c6f8a713ad62725738df29c&width=1200&height=630&smart=true",
             "publishedAt": "2026-08-05T20:11:15Z"
-        },
-        {
-            "source": {
-                "id": "8867e8e7dcb6466620736bb48c455572",
-                "name": "STAT",
-                "url": "https://www.statnews.com",
-                "country": "us"
-            },
-            "title": "Federal regulators invite industry, lobbyists to closed-door meetings on clinical AI",
-            "url": "https://www.statnews.com/2026/08/05/fedeal-regulators-invite-industry-closed-door-meetings-clinical-ai/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_551617477-1024x576.jpeg",
-            "publishedAt": "2026-08-05T20:05:08Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "Reddit expands test of moderation tools",
-            "url": "https://www.socialmediatoday.com/news/reddit-expands-test-of-moderation-tools/827171/",
-            "urlToImage": "https://imgproxy.divecdn.com/Dxute1hlZ-wcFj-Lp0L1u0yeZ0mOT57TdW2paegjpjA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yZWRkaXRfbG9nb19ibGFjay5wbmc=.webp",
-            "publishedAt": "2026-08-05T19:31:07Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "Can the apps stop AI slop?",
-            "url": "https://www.socialmediatoday.com/news/can-the-apps-stop-ai-slop/827170/",
-            "urlToImage": "https://imgproxy.divecdn.com/xEnICNA2d9kixbjfziLcnYectJV5dGWk7fqmwuAE1W4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9haV9zbG9wX21lbWUucG5n.webp",
-            "publishedAt": "2026-08-05T19:08:24Z"
         }
     ]
 }
