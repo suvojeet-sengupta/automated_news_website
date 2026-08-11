@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-08-11T05:02:05.028815Z",
+    "lastUpdatedAt": "2026-08-11T06:57:55.085097Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI persona practice boosts empathy scores in small pilot study",
+            "url": "https://phys.org/news/2026-08-ai-persona-boosts-empathy-scores.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/empathy-1.jpg",
+            "publishedAt": "2026-08-10T18:20:05Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "U.S. Tech companies becoming increasingly reliant on Chinese chip companies blacklisted by the Pentagon",
+            "url": "https://www.naturalnews.com/2026-08-10-us-tech-companies-reliant-chinese-chip-companies.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-talent-restrictions-overseas-travel-controls-china-technology-protection-1789-original.jpg",
+            "publishedAt": "2026-08-10T17:53:10Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "OpenAI launches GPT-5.6-Cyber as companies prepare for AI agents hacking",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-launches-gpt-5-6-cyber-as-companies-prepare-for-ai-agents-hacking/articleshow/133125914.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133126055,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-10T17:43:00Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "When AI Goes Rogue, Who Pays The Price?",
+            "url": "https://www.timesnownews.com/opinion/india/when-ai-goes-rogue-who-pays-the-price-article-155528167",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-155531066,thumbsize-1781157,width-1280,height-720,resizemode-75/155531066.jpg",
+            "publishedAt": "2026-08-10T17:41:26Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Brad Pitt backs smart use of AI in Hollywood",
+            "url": "https://www.thenews.com.pk/latest/1411860-brad-pitt-backs-smart-use-of-ai-in-hollywood",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-10/1411860_102949_updates.jpg",
+            "publishedAt": "2026-08-10T17:37:00Z"
+        },
+        {
+            "source": {
+                "id": "97497c18f5cb431f5f324b3d8643c24f",
+                "name": "The Independent",
+                "url": "https://www.independent.co.uk",
+                "country": "gb"
+            },
+            "title": "Tucker Carlson claims Israel was pushing Hunter Biden laptop story that obsessed Trump and Fox",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/tucker-carlson-hunter-biden-laptop-b3030658.html",
+            "urlToImage": "https://static.independent.co.uk/2026/08/10/17/15/Tucker-Carlson-interviewing-Hunter-Biden.png?trim=0,284,0,175&width=1200&height=800&crop=1200:800",
+            "publishedAt": "2026-08-10T17:35:45Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Anand Mahindra praises Operation Safed Sagar series, hails IAF innovation",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/anand-mahindra-praises-operation-safed-sagar-series-hails-iaf-innovation/articleshow/133120544.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133124032,width-1200,height-630,imgsize-47494,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-10T17:19:00Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Mumbai’s cybersecurity is national economic priority: Maha Minister",
+            "url": "https://www.lokmattimes.com/national/mumbais-cybersecurity-is-national-economic-priority-maha-minister/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608103899176_202608.jpg",
+            "publishedAt": "2026-08-10T17:05:25Z"
+        },
         {
             "source": {
                 "id": "26269dbc42635df9af8c24f3cdab8e37",
@@ -804,6 +900,24 @@
             "url": "https://www.thehitavada.com//Encyc/2026/8/10/brics-leaders-experience-magic-of-bharatiyagpt.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/8/10/BRICS-leaders-experience-magic-of-BharatiyaGPT_202608101114354141_H@@IGHT_821_W@@IDTH_1281.jpg",
             "publishedAt": "2026-08-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Computer vision team develops an efficient method for scaling pretrained AI models",
+            "url": "https://techxplore.com/news/2026-08-vision-team-efficient-method-scaling.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2026/snu-computer-vision-te.jpg",
+            "publishedAt": "2026-08-10 18:40:05"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Humanoid Robotics Are Blurring The Line Between Humans And Machines",
+            "url": "https://www.forbes.com/sites/chuckbrooks/2026/08/10/humanoid-robotics-are-blurring-the-line-between-humans-and-machines/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a7a0e455bc0484d2b3ec9d0/0x0.jpg",
+            "publishedAt": "2026-08-10 17:58:53"
         },
         {
             "source": {
@@ -3348,111 +3462,6 @@
             "url": "https://hackernoon.com/top-kubernetes-native-inference-servers-ranked-2026",
             "urlToImage": "https://cdn.hackernoon.com/images/C6NlnXrvNTcpydMl4JoNNf761wx1-6z83bm2.png",
             "publishedAt": "2026-08-07 07:34:59"
-        },
-        {
-            "source": {
-                "name": "robohub"
-            },
-            "title": "AI agents create virtual playgrounds to help robots get crucial training data",
-            "url": "https://robohub.org/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data/",
-            "urlToImage": "https://robohub.org/wp-content/uploads/2026/07/Screenshot-2026-07-30-at-16.11.36-1024x676.jpeg",
-            "publishedAt": "2026-08-07 07:17:33"
-        },
-        {
-            "source": {
-                "name": "eletimes_ai"
-            },
-            "title": "Innovating the Next-Gen Cloud: Nuvoton’s Advanced Silicon for OCP Ecosystem",
-            "url": "https://www.eletimes.ai/innovating-the-next-gen-cloud-nuvotons-advanced-silicon-for-ocp-ecosystem",
-            "urlToImage": "https://www.eletimes.ai/wp-content/uploads/2026/08/IMAGE1.jpg",
-            "publishedAt": "2026-08-07 05:55:37"
-        },
-        {
-            "source": {
-                "name": "dqchannels"
-            },
-            "title": "Quantum AI isn’t enterprise-ready yet, says Gartner report",
-            "url": "https://www.dqchannels.com/news/quantum-ai-isnt-enterprise-ready-yet-12236639",
-            "urlToImage": "https://img-cdn.publive.online/dqc/media/media_files/2026/08/06/chatgpt-2026-08-06-18-13-55.png",
-            "publishedAt": "2026-08-07 05:31:37"
-        },
-        {
-            "source": {
-                "name": "equity_insider"
-            },
-            "title": "Where Will Sandisk Stock Be in 5 Years?",
-            "url": "https://equity-insider.com/where-will-sandisk-stock-be-in-5-years/",
-            "urlToImage": "https://equity-insider.com/wp-content/uploads/2026/08/untitled-1.jpg",
-            "publishedAt": "2026-08-07 05:12:44"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "OpenAI's New AI Smart Speaker Will Reportedly Cost $300-$400",
-            "url": "https://startupnews.fyi/tech/openai-s-new-ai-smart-speaker-will-reportedly-cost-300-400",
-            "urlToImage": "https://startupnews-media-2026.s3.us-east-1.amazonaws.com/startupnews-in/uploads/2026/08/admin-1786075743358-uuushaful.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZQ3DRHCSCL44VIMT%2F20260807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260807T111655Z&X-Amz-Expires=604800&X-Amz-Signature=8cf39dcc6a1c164c162a9dcece2b5d0e0609fc110f558cc2edd11575add5fe85&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-            "publishedAt": "2026-08-07 04:10:22"
-        },
-        {
-            "source": {
-                "id": "3f09ae62ee37a33ab191a698fec83f4b",
-                "name": "WEAU",
-                "url": "https://www.weau.com",
-                "country": "us"
-            },
-            "title": "Scientists have created new viruses using AI. Here’s how they did it",
-            "url": "https://www.weau.com/2026/08/06/scientists-have-created-new-viruses-using-ai-heres-how-they-did-it/",
-            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/VTQKZ2B725CR7M46SOD4VBZE4U.jpg?auth=c62cfd7d972b47280c8efb4894553c043f8c62e9400e45c97a41f491c0319381&width=1200&height=600&smart=true",
-            "publishedAt": "2026-08-06T23:55:35Z"
-        },
-        {
-            "source": {
-                "id": "04c17c43a7507fac95fd9ba5d47715b5",
-                "name": "WIS10",
-                "url": "https://www.wistv.com",
-                "country": "us"
-            },
-            "title": "Scientists have created new viruses using AI. Here’s how they did it",
-            "url": "https://www.wistv.com/2026/08/06/scientists-have-created-new-viruses-using-ai-heres-how-they-did-it/",
-            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/VTQKZ2B725CR7M46SOD4VBZE4U.jpg?auth=c62cfd7d972b47280c8efb4894553c043f8c62e9400e45c97a41f491c0319381&width=1200&height=600&smart=true",
-            "publishedAt": "2026-08-06T23:55:35Z"
-        },
-        {
-            "source": {
-                "id": "e7b4d14003cc89c64a689f1c38723ef5",
-                "name": "Live 5 News WCSC",
-                "url": "https://www.live5news.com",
-                "country": "us"
-            },
-            "title": "Scientists have created new viruses using AI. Here’s how they did it",
-            "url": "https://www.live5news.com/2026/08/06/scientists-have-created-new-viruses-using-ai-heres-how-they-did-it/",
-            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/VTQKZ2B725CR7M46SOD4VBZE4U.jpg?auth=c62cfd7d972b47280c8efb4894553c043f8c62e9400e45c97a41f491c0319381&width=1200&height=600&smart=true",
-            "publishedAt": "2026-08-06T23:55:35Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "AI creates 16 new viruses from scratch, showing promise for drug resistance and drawing warnings about potential for misuse",
-            "url": "https://edition.cnn.com/2026/08/06/health/ai-viruses-bacteriophages",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-983949850.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-08-06T23:52:33Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "AI creates 16 new viruses from scratch, showing promise for drug resistance and drawing warnings about potential for misuse",
-            "url": "https://abc17news.com/cnn-health/2026/08/06/ai-creates-16-new-viruses-from-scratch-showing-promise-for-drug-resistance-and-drawing-warnings-about-potential-for-misuse/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
-            "publishedAt": "2026-08-06T23:52:33Z"
         }
     ]
 }
