@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-08-11T08:09:30.095881Z",
+    "lastUpdatedAt": "2026-08-11T09:55:41.510318Z",
     "articles": [
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Aussie AI player goes public, dodges data centre waste",
+            "url": "https://www.perthnow.com.au/news/business/aussie-ai-player-goes-public-dodges-data-centre-waste-c-22704397",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-22704397/7339ba8d66c711f3a336d48ff75213020e11409b-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-08-10T21:01:26Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Howard University expands AI education opportunities for students",
+            "url": "https://wtop.com/education/2026/08/new-web-story-howard-university-expands-ai-education-opportunities-for-students/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/07/Howard_University_Students_Unenrolled_24174-scaled.jpg",
+            "publishedAt": "2026-08-10T20:49:55Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "Trump shrugs off the concern over AI",
+            "url": "https://www.bostonglobe.com/2026/08/10/nation/voters-grow-anxious-over-ai-trump-shrugs-off-concern/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/M2SAYOERX5ZPG5GGYQQZPRP3Y4.jpg?auth=3221e03e17a9562b514c0d4ff5150bc3e3e0ad0e14831c4be03c6e83ceb47410&width=1440",
+            "publishedAt": "2026-08-10T20:49:33Z"
+        },
+        {
+            "source": {
+                "id": "9290338c23f31e3f547a2dbfa1c52c03",
+                "name": "Scientific American",
+                "url": "https://www.scientificamerican.com",
+                "country": "us"
+            },
+            "title": "Scientists are using AI to design new viruses. Should they be?",
+            "url": "https://www.scientificamerican.com/article/scientists-are-using-ai-to-design-new-viruses-should-they-be/",
+            "urlToImage": "https://static.scientificamerican.com/dam/asset/483a16e5-03ef-462a-8d08-cbc0ecd5ae5b/AI-virus.jpg?m=1786393762.741&w=1200",
+            "publishedAt": "2026-08-10T20:20:00Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -3438,42 +3486,6 @@
             "url": "https://www.informationweek.com/cybersecurity/ai-inference-attacks-put-new-pressure-on-enterprise-privacy",
             "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt8f6d5be497113959/6a761852014e297e66d579b0/081026_IWK_AIinferencing_GettyImages-2262316593.png?width=720&quality=80&disable=upscale",
             "publishedAt": "2026-08-07 17:42:52"
-        },
-        {
-            "source": {
-                "name": "techrepublic"
-            },
-            "title": "OpenAI’s ‘Doughnut-Shaped’ AI Speaker Could Launch in 2027",
-            "url": "https://www.techrepublic.com/article/news-openai-ai-speaker-chatgpt-hardware-analysis/",
-            "urlToImage": "https://assets.techrepublic.com/uploads/2026/08/openai-speaker.jpg?f=jpeg",
-            "publishedAt": "2026-08-07 17:09:28"
-        },
-        {
-            "source": {
-                "name": "oreilly"
-            },
-            "title": "This Week in AI: Who Controls AI?",
-            "url": "https://www.oreilly.com/radar/this-week-in-ai-who-controls-ai/",
-            "urlToImage": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/05/0642572383770_This_Week_in_AI_Cover-scaled.jpg",
-            "publishedAt": "2026-08-07 15:55:09"
-        },
-        {
-            "source": {
-                "name": "itbrief_in"
-            },
-            "title": "NVIDIA expands open world models for physical AI development",
-            "url": "https://itbrief.in/story/nvidia-expands-open-world-models-for-physical-ai-development",
-            "urlToImage": "https://itbrief.in/uploads/story/2026/08/07/compatible_innovation-warehouse-robot-arm-self-driving-car-drone-data-streams-digital-illustration-story-314385.jpg",
-            "publishedAt": "2026-08-07 15:34:00"
-        },
-        {
-            "source": {
-                "name": "nynewscast"
-            },
-            "title": "Artificial Intelligence in Cybersecurity Market to Reach $275.02 Billion by 2035 | SNS Insider",
-            "url": "https://nynewscast.com/artificial-intelligence-in-cybersecurity-market-to-reach-275-02-billion-by-2035-sns-insider-244937/",
-            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-            "publishedAt": "2026-08-07 13:30:00"
         }
     ]
 }
