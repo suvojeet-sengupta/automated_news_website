@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-11T18:55:25.809803Z",
+    "lastUpdatedAt": "2026-08-11T19:58:30.145842Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "SBI chairman says that AI is helping boost farm loan decisions",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-chairman-says-that-ai-is-helping-boost-farm-loan-decisions/articleshow/133146756.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133146838,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-11T07:42:00Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "Wipro’s Nifty exit reflects waning clout of IT giants",
+            "url": "https://www.thehindubusinessline.com/info-tech/wipros-nifty-exit-reflects-waning-clout-of-it-giants/article71331360.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/uhrnqr/article71331433.ece/alternates/LANDSCAPE_1200/2026-05-29T034603Z_1308592796_RC296GA9F5HJ_RTRMADP_3_WIPRO-LTD-STOCKS.JPG",
+            "publishedAt": "2026-08-11T07:20:50Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -384,6 +408,33 @@
             "url": "https://www.thehitavada.com/Encyc/2026/8/11/india-advances-to-global-ai-power-status-gulf-today.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/8/11/Moistt_202608111133504437_H@@IGHT_86_W@@IDTH_139.jpg",
             "publishedAt": "2026-08-11T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techbooky"
+            },
+            "title": "Apple’s Glass iPhone Plan Is Reportedly Still Alive",
+            "url": "https://www.techbooky.com/apple-glass-iphone-2027-redesign-still-alive/",
+            "urlToImage": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/08/11085314/Liquid-Glass_01-1024x576-1.jpg",
+            "publishedAt": "2026-08-11 07:54:16"
+        },
+        {
+            "source": {
+                "name": "hybiz_tv"
+            },
+            "title": "MIT BLRU, IBM SkillsBuild Launch AI Lab to Accelerate Research and Democratise AI Skills",
+            "url": "https://hybiz.tv/mit-blru-ibm-skillsbuild-launch-ai-lab-to-accelerate-research-and-democratise-ai-skills/",
+            "urlToImage": "https://hybiz.tv/wp-content/uploads/2026/08/36437_mahe-image-ZSl6oh.webp",
+            "publishedAt": "2026-08-11 07:08:32"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "Meta Doesn’t Need to Build Frontier Models to Win AI Race",
+            "url": "https://analyticsindiamag.com/global-tech/meta-doesnt-need-to-build-frontier-models-to-win-ai-race",
+            "urlToImage": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1786431749665-w0nw4k.webp",
+            "publishedAt": "2026-08-11 07:03:19"
         },
         {
             "source": {
@@ -3396,66 +3447,6 @@
             "url": "https://www.aninews.in/news/business/chitkara-university-hosted-the-aikosh-university-engagement-programme-under-indiaai-mission-250-cse-ai-students-participated20260807155424/",
             "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260807102350-thumbnail-320x180-70.jpg",
             "publishedAt": "2026-08-07T10:24:24Z"
-        },
-        {
-            "source": {
-                "id": "f11e9506aaab942b5eafbb067eb85c51",
-                "name": "Modern Diplomacy",
-                "url": "https://moderndiplomacy.eu",
-                "country": "fr"
-            },
-            "title": "Who Is Liable When AI Goes Rogue? Legal Risks Grow Over Autonomous AI",
-            "url": "https://moderndiplomacy.eu/2026/08/07/who-is-liable-when-ai-goes-rogue-legal-risks-grow-over-autonomous-ai/",
-            "urlToImage": "https://moderndiplomacy.eu/wp-content/uploads/2025/10/artificial-intelligence.jpg",
-            "publishedAt": "2026-08-07T10:21:12Z"
-        },
-        {
-            "source": {
-                "id": "c97ef3cad273a1993c998ca7ddcc5212",
-                "name": "Daily Express",
-                "url": "https://www.express.co.uk",
-                "country": "gb"
-            },
-            "title": "Panic as AI creates never-before-seen viruses - risk of ‘serious harm’",
-            "url": "https://www.express.co.uk/news/uk/2236934/panic-ai-viruses-serious-harm",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7082859.jpg",
-            "publishedAt": "2026-08-07T10:09:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Who is liable when AI goes rogue? Lawyers see new risks",
-            "url": "https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/PQYIATF5UZPSXNAVJN2WJ566YU.jpg?auth=3d8629660ffaba233494fe5a6e55925fb47f96766714eb989a001f90b6453459&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-08-07T10:07:25Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "EXPLAINER-Who is liable when AI goes rogue? Lawyers see new risks",
-            "url": "https://www.devdiscourse.com/article/technology/3961063-explainer-who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_06_2025_05_10_32_2752594.png&width=920&format=jpeg",
-            "publishedAt": "2026-08-07T10:00:59Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Bird’s Eye Zones: The Technology That Revolutionized Radar-Based Motion Detection",
-            "url": "https://techbullion.com/birds-eye-zones-the-technology-that-revolutionized-radar-based-motion-detection/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/08/real_2d130cf1-cd2c-4667-a576-1268f71a72b2.jpeg",
-            "publishedAt": "2026-08-07T09:55:41Z"
         }
     ]
 }
