@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-08-11T19:58:30.145842Z",
+    "lastUpdatedAt": "2026-08-11T20:49:57.388684Z",
     "articles": [
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Is the Modern MBA Keeping Pace with Artificial Intelligence?",
+            "url": "https://techbullion.com/is-the-modern-mba-keeping-pace-with-artificial-intelligence/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/08/is-an-mba-worth-it-in-the-ai-era-image_blog-1000x600.jpg",
+            "publishedAt": "2026-08-11T08:45:40Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "China bets on AI weather forecasting as extreme weather intensifies",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-bets-on-ai-weather-forecasting-as-extreme-weather-intensifies/articleshow/133147991.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-59914,resizemode-75,msid-133147991/tech/artificial-intelligence/china-bets-on-ai-weather-forecasting-as-extreme-weather-intensifies.jpg",
+            "publishedAt": "2026-08-11T08:43:17Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "AI can make more Indians bankable, to shape this decade of banking: RBI Governor",
+            "url": "https://www.lokmattimes.com/business/ai-can-make-more-indians-bankable-to-shape-this-decade-of-banking-rbi-governor/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608113899638_202608.jpg",
+            "publishedAt": "2026-08-11T08:42:02Z"
+        },
+        {
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            },
+            "title": "Is that the real Faker? Generative AI replaces live filming in Korean TV shows",
+            "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260811/is-that-the-real-faker-generative-ai-replaces-live-filming-in-korean-tv-shows",
+            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/11/4529c3e7-d20d-46d5-9cc6-52eef6eac7cd.jpg",
+            "publishedAt": "2026-08-11T08:40:04Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Can AI power India to a $30 Trillion economy? TOI AIQ Talks teases the next big leap",
+            "url": "https://timesofindia.indiatimes.com/technology/can-ai-power-india-to-a-30-trillion-economy-toi-aiq-talks-teases-the-next-big-leap/articleshow/133147607.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133147644,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-11T08:16:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Students adopting AI faster than schools can adapt, creating learning gap: Report",
+            "url": "https://www.tribuneindia.com/news/business/students-adopting-ai-faster-than-schools-can-adapt-creating-learning-gap-report/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIyZmM1MjAwLTk1NWItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+            "publishedAt": "2026-08-11T08:03:22Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Students adopting AI faster than schools can adapt, creating learning gap: Report",
+            "url": "https://www.aninews.in/news/business/students-adopting-ai-faster-than-schools-can-adapt-creating-learning-gap-report20260811132839/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260811075829-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-08-11T07:58:39Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -3363,90 +3447,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-september-2025-microsoft-ai-ceo-mustafa-suleyman-outlined-a-clear-red-line-for-ai-said-ai-must-be-shut-down-immediately-if-it-ever-gains-/articleshow/133031943.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-133031976,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-08-07T11:02:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Scientists use AI to create new viruses: Should humans be worried as artificial intelligence learns DNA patterns?",
-            "url": "https://www.livemint.com/science/news/scientists-use-ai-to-create-new-viruses-should-humans-be-worried-as-artificial-intelligence-learns-dna-patterns-11786099591539.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/pexels-photo-13014236_1786099965114_1786099973880_2a7ea8bc-5072-4892-91bc-1233a56ed40f.jpeg",
-            "publishedAt": "2026-08-07T10:53:14Z"
-        },
-        {
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            },
-            "title": "The 'Godfather Of AI' Says The Worst Is Yet To Come With Smarter Models Becoming Harder To Control",
-            "url": "https://www.ibtimes.com/godfather-ai-says-worst-yet-come-smarter-models-becoming-harder-control-3806149",
-            "urlToImage": "https://d.ibtimes.com/en/full/4469979/computer-scientist-geoffrey-hinton-known-godfather-ai-speaks-during-collision-tech.jpg",
-            "publishedAt": "2026-08-07T10:48:02Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Explainer-Who is liable when AI goes rogue? Lawyers see new risks",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/07/explainer-who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/07/4048968.jpg",
-            "publishedAt": "2026-08-07T10:41:00Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "Some U.S. adults are using AI for financial guidance but few trust it, Gallup poll finds",
-            "url": "https://triblive.com/news/world/some-u-s-adults-are-using-ai-for-financial-guidance-but-few-trust-it-gallup-poll-finds/",
-            "urlToImage": "https://assets-varnish.triblive.com/2026/08/9826997_web1_9826997-705bdb510c2548149d2a8454d80bb26d.jpg",
-            "publishedAt": "2026-08-07T10:31:07Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Chitkara University Hosted the AIKosh University Engagement Programme Under IndiaAI Mission, 250 CSE",
-            "url": "https://www.tribuneindia.com/news/business/chitkara-university-hosted-the-aikosh-university-engagement-programme-under-indiaai-mission-250-cse-ai-students-participated/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ1MDlhM2QwLTkyNGEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-07T10:29:06Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "AI designs 16 novel viruses never seen in nature: Scientific breakthrough or bio threat?",
-            "url": "https://www.thenews.com.pk/latest/1411519-ai-designs-16-novel-viruses-never-seen-in-nature-scientific-breakthrough-or-bio-threat",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-07/1411519_032840_updates.jpg",
-            "publishedAt": "2026-08-07T10:28:00Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Chitkara University Hosted the AIKosh University Engagement Programme Under IndiaAI Mission, 250 CSE-AI Students Participated",
-            "url": "https://www.aninews.in/news/business/chitkara-university-hosted-the-aikosh-university-engagement-programme-under-indiaai-mission-250-cse-ai-students-participated20260807155424/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260807102350-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-07T10:24:24Z"
         }
     ]
 }
