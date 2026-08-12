@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-08-12T16:52:29.681847Z",
+    "lastUpdatedAt": "2026-08-12T17:53:54.416125Z",
     "articles": [
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "AI Is Now Engineering Pathogenic Proteins That Could Threaten the Entire Human Race",
+            "url": "https://www.naturalnews.com/2026-08-12-ai-is-now-engineering-pathogenic-proteins.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-generated-viruses-pathogenic-proteins-bioweapons-3322-original.jpg",
+            "publishedAt": "2026-08-12T05:38:30Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Tech Titans Unite: Huawei and Changan's Pioneering Partnership",
+            "url": "https://www.devdiscourse.com/article/technology/3962724-tech-titans-unite-huawei-and-changans-pioneering-partnership",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_07_2024_14_27_39_2170823.png&width=920&format=jpeg",
+            "publishedAt": "2026-08-12T05:35:35Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "China bets on AI weather forecasting as extreme weather intensifies",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/12/china-bets-on-ai-weather-forecasting-as-extreme-weather-intensifies",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/12/4055497.jpg",
+            "publishedAt": "2026-08-12T05:31:00Z"
+        },
+        {
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            },
+            "title": "Peak memory fears put focus on Samsung, SK Hynix cash returns",
+            "url": "https://www.moneycontrol.com/news/business/peak-memory-fears-put-focus-on-samsung-sk-hynix-cash-returns-14002730.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/08/20260812052838_chip.jpg",
+            "publishedAt": "2026-08-12T05:30:01Z"
+        },
+        {
+            "source": {
+                "id": "2492bcb79914b2ce3d9867453dae22ac",
+                "name": "Financial Post",
+                "url": "https://financialpost.com",
+                "country": "ca"
+            },
+            "title": "Vacuum pump makers, gases producers are the new AI winners",
+            "url": "https://financialpost.com/investing/vacuum-pump-makers-producers-of-gases-new-ai-winners",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0813-mg-air-liquide1.png",
+            "publishedAt": "2026-08-12T05:23:42Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "SpaceXAI unveils Grok bot to work like a team of AI agents",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/12/spacexai-unveils-grok-bot-to-work-like-a-team-of-ai-agents",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/12/4055275.jpg",
+            "publishedAt": "2026-08-12T05:00:00Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -276,6 +348,51 @@
             "url": "https://www.financialexpress.com/market/stock-insights/33-margin-5-million-patient-records-meet-indias-hidden-healthcare-tech-stock/4315571/",
             "urlToImage": "https://images.financialexpressdigital.com/2026/08/hoss.jpg",
             "publishedAt": "2026-08-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "dharmakshethra"
+            },
+            "title": "Nathu La: Zoho’s India-Designed Server Takes Aim at AI Costs and Technological Dependence",
+            "url": "https://dharmakshethra.com/nathu-la-zohos-india-designed-server-takes-aim-at-ai-costs-and-technological-dependence/",
+            "urlToImage": "https://dharmakshethra.com/wp-content/uploads/2026/07/Nathu-La-Server.webp",
+            "publishedAt": "2026-08-12 05:50:44"
+        },
+        {
+            "source": {
+                "name": "yourstory"
+            },
+            "title": "Aditya Gupta: Building intelligence into contracts at scale",
+            "url": "https://yourstory.com/2026/08/aditya-gupta-building-intelligence-into-contracts-at-scale",
+            "urlToImage": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/AI100-AdityaGupta-1786455250605.jpeg",
+            "publishedAt": "2026-08-12 05:47:13"
+        },
+        {
+            "source": {
+                "name": "yourstory"
+            },
+            "title": "David Gildea: On a mission to democratize data security",
+            "url": "https://yourstory.com/2026/08/david-gildea-on-a-mission-to-democratize-data-security",
+            "urlToImage": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/AI10031DavidGildea-1786453638296.png",
+            "publishedAt": "2026-08-12 05:46:28"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "From hype to impact: Operationalising AI for scalable enterprise transformation",
+            "url": "https://www.expresscomputer.in/guest-blogs/from-hype-to-impact-operationalising-ai-for-scalable-enterprise-transformation/137640/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/08/12111520/EC_Ganesan_Karuppanaicker_CTO_Birlasoft_750.jpg",
+            "publishedAt": "2026-08-12 05:46:14"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "How Dabur is leveraging intelligence for business transformation",
+            "url": "https://www.expresscomputer.in/exclusives/dabur-ai-transformation-fmcg/137638/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/08/12105816/EC_Manas-Mehra_CIO_Dabur_750.jpg",
+            "publishedAt": "2026-08-12 05:40:19"
         },
         {
             "source": {
@@ -3291,108 +3408,6 @@
             "url": "https://www.canberratimes.com.au/story/9326596/premier-pens-deal-with-chatgpt-developer-on-us-trip/",
             "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/0fb09902-4be6-4862-a59d-f15ed3869d8d.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
             "publishedAt": "2026-08-09T01:44:14Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Big Sky coaches, players move forward cautiously in age of artificial intelligence",
-            "url": "https://www.europesays.com/3183358/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/6a77cad30203e.hires_.jpg",
-            "publishedAt": "2026-08-09T00:51:15Z"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "Generative AI has changed mathematics forever. Where to from here?",
-            "url": "https://www.bundle.app/en/breaking-news/generative-ai-has-changed-mathematics-forever-where-to-from-here-9C07BBDB-76C8-4DB2-89FC-402BF3F42426",
-            "urlToImage": "https://static.bundle.app/news/322d3a16-316a-5c44-bf69-1078a38e8272.jpg",
-            "publishedAt": "2026-08-09 20:11:30"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "I’m already surrounded by AI. I don’t need ChatGPT living beside my bed",
-            "url": "https://us.headtopics.com/news/i-m-already-surrounded-by-ai-i-don-t-need-chatgpt-living-86444166",
-            "urlToImage": "https://i.headtopics.com/images/2026/8/9/digitaltrends/i-m-already-surrounded-by-ai-i-don-t-need-chatgpt--i-m-already-surrounded-by-ai-i-don-t-need-chatgpt--766FB10427EEEE83C573A4C4D68B0BB9.webp",
-            "publishedAt": "2026-08-09 19:07:01"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "I’m already surrounded by AI. I don’t need ChatGPT living beside my bed",
-            "url": "https://www.digitaltrends.com/home-theater/im-already-surrounded-by-ai-i-dont-need-chatgpt-living-beside-my-bed/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2023/01/apple-homepod-2023-review-13.jpg?resize=440%2C292",
-            "publishedAt": "2026-08-09 18:45:28"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "Distributed Trust and Multimodal Perception for Next-Generation Autonomous Drone Defense",
-            "url": "https://www.bundle.app/en/technology/distributed-trust-and-multimodal-perception-for-next-generation-autonomous-drone-defense-F59FE6DA-E3C0-471B-8722-611CBFA078E9",
-            "urlToImage": "https://static.bundle.app/news/2043c3c6-4abc-50b3-9146-8fda48c36b20.jpg",
-            "publishedAt": "2026-08-09 16:38:53"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "92 Blog Posts To Learn About Infrastructure As Code",
-            "url": "https://www.bundle.app/en/technology/92-blog-posts-to-learn-about-infrastructure-as-code-CD2ED092-C555-4AD7-8243-FA6D8AAABCBA",
-            "urlToImage": "https://static.bundle.app/news/f571b6ce-ff36-558d-8240-dc94e20003b2.jpg",
-            "publishedAt": "2026-08-09 16:31:33"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Duos Technologies Group (NASDAQ:DUOT) & WhiteFiber (NASDAQ:WYFI) Head-To-Head Survey",
-            "url": "https://www.thelincolnianonline.com/2026/08/09/duos-technologies-group-nasdaqduot-whitefiber-nasdaqwyfi-head-to-head-survey.html",
-            "urlToImage": "https://www.marketbeat.com/logos/duos-technologies-group-inc-logo-1200x675.png",
-            "publishedAt": "2026-08-09 16:14:50"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "92 Blog Posts To Learn About Infrastructure As Code",
-            "url": "https://hackernoon.com/92-blog-posts-to-learn-about-infrastructure-as-code",
-            "urlToImage": "https://cdn.hackernoon.com/images/github/infrastructure-as-code-457.png",
-            "publishedAt": "2026-08-09 14:00:03"
-        },
-        {
-            "source": {
-                "name": "newsbytesapp"
-            },
-            "title": "AI push is putting banks at risk, says Moody's",
-            "url": "https://www.newsbytesapp.com/news/business/banks-ai-rush-could-lead-to-systemic-risks-moody-s/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l7120260809150420.jpeg",
-            "publishedAt": "2026-08-09 10:06:43"
-        },
-        {
-            "source": {
-                "name": "androidauthority"
-            },
-            "title": "A Snapdragon-powered Pixel might sound amazing. Here’s why it’s a terrible idea",
-            "url": "https://www.androidauthority.com/google-pixel-not-better-snapdragon-3691461/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2020/10/Google-Pixel-5-standing-up-back-on-table-2.jpg",
-            "publishedAt": "2026-08-09 09:00:49"
-        },
-        {
-            "source": {
-                "name": "theguardian"
-            },
-            "title": "AI push is putting banks at mercy of tech firms, warns Moody’s",
-            "url": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
-            "urlToImage": "https://i.guim.co.uk/img/media/155f183baa3a7bbeae6d10fead4d288fa7bc8e66/1241_0_6468_5174/master/6468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02cbdcf488f20eef0c85c017ee94bdf2",
-            "publishedAt": "2026-08-09 09:00:10"
         }
     ]
 }
