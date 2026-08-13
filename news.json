@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-13T12:58:19.674601Z",
+    "lastUpdatedAt": "2026-08-13T14:22:37.608384Z",
     "articles": [
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "Irish founders take aim at costly, bad marketing briefs",
+            "url": "https://www.irishtimes.com/business/innovation/2026/08/13/irish-founders-take-aim-at-costly-bad-marketing-briefs/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/4ZKK7GZYWBH6DNDIBQGRZNL2XY.jpg?smart=true&auth=dcff20b26cdf3505ad0bafc4538a31d50ebc3818ad04f7a97d3b9b923484fadf&width=1200&height=630",
+            "publishedAt": "2026-08-13T02:15:00Z"
+        },
+        {
+            "source": {
+                "id": "f11e9506aaab942b5eafbb067eb85c51",
+                "name": "Modern Diplomacy",
+                "url": "https://moderndiplomacy.eu",
+                "country": "fr"
+            },
+            "title": "APEC 2026: Why China Chose Shenzhen to Showcase Its Technology Power",
+            "url": "https://moderndiplomacy.eu/2026/08/13/apec-2026-why-china-chose-shenzhen-to-showcase-its-technology-power/",
+            "urlToImage": "https://moderndiplomacy.eu/wp-content/uploads/2025/07/quantum-technology.jpg",
+            "publishedAt": "2026-08-13T02:00:33Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "UK plans safeguards to stop terrorists using AI for bioweapons",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/13/uk-plans-safeguards-to-stop-terrorists-using-ai-for-bioweapons",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/13/4057099.jpg",
+            "publishedAt": "2026-08-13T02:00:00Z"
+        },
         {
             "source": {
                 "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
@@ -1320,6 +1356,15 @@
             "url": "https://www.genengnews.com/topics/bioprocessing/biopharmas-drawdown-is-a-chance-to-build-biotech-back-better/",
             "urlToImage": "https://www.genengnews.com/wp-content/uploads/2026/08/GettyImages-2249359741.jpg",
             "publishedAt": "2026-08-12 18:46:01"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "Advanced Micro Devices vs. Alphabet: Which Artificial Intelligence Stock Is a Better Buy in 2026?",
+            "url": "https://www.bundle.app/en/finance/advanced-micro-devices-vs-alphabet-which-artificial-intelligence-stock-is-a-better-buy-in-2026-EF4CD806-B021-4FBC-B678-6E93BF584A2E",
+            "urlToImage": "https://static.bundle.app/news/9eda1aa6-2470-5809-b372-a38e0c61f53f.jpg",
+            "publishedAt": "2026-08-12 16:50:51"
         },
         {
             "source": {
@@ -3339,54 +3384,6 @@
             "url": "https://www.cnbc.com/2026/08/10/jpmorgan-is-the-latest-to-raise-its-sp-500-target-this-time-to-8000-heres-why.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106403530-1582315290122img_7820rr.jpg?v=1732725061&w=1920&h=1080",
             "publishedAt": "2026-08-10T16:35:46Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Seipi: Pax Silica could turn PH into manufacturing hub",
-            "url": "https://www.manilatimes.net/2026/08/11/business/top-business/seipi-pax-silica-could-turn-ph-into-manufacturing-hub/2402276",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/10/1171201.jpeg",
-            "publishedAt": "2026-08-10T16:11:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Marian Rivera tries AI for restorative sleep",
-            "url": "https://www.manilatimes.net/2026/08/11/entertainment-lifestyle/show-times/marian-rivera-tries-ai-for-restorative-sleep/2401886",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/10/1170382.jpeg",
-            "publishedAt": "2026-08-10T16:02:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Zuckerberg pushes open-source AI approach as Meta unveils latest model",
-            "url": "https://www.manilatimes.net/2026/08/10/business/sunday-business-it/zuckerberg-pushes-open-source-ai-approach-as-meta-unveils-latest-model/2402274",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/10/1171199.jpg",
-            "publishedAt": "2026-08-10T15:46:00Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "source approach on AI as Meta releases its latest model",
-            "url": "https://wtop.com/business-finance/2026/08/zuckerberg-manifesto-pushes-an-open-source-approach-on-ai-as-meta-releases-its-latest-model/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/08/US_Alaska_Zuckerberg_Yacht_68128-scaled.jpg",
-            "publishedAt": "2026-08-10T15:44:30Z"
         }
     ]
 }
