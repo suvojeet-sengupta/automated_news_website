@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-08-13T22:35:35.818569Z",
+    "lastUpdatedAt": "2026-08-13T23:35:35.086020Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Bernie Sanders claims AI will eliminate jobs, demands government action",
+            "url": "https://www.foxnews.com/politics/dems-sound-alarm-ai-job-apocalypse-labor-market-isnt-following-script",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/bernie-sanders-alexandria-ocasio-cortez-march-2026.jpg",
+            "publishedAt": "2026-08-13T11:21:19Z"
+        },
+        {
+            "source": {
+                "id": "b2be64a3780bbe84214fe23ea9ac98db",
+                "name": "akron.com",
+                "url": "https://www.akron.com",
+                "country": "us"
+            },
+            "title": "‘Akron Pulse’ creates discovery platform for local events",
+            "url": "https://www.akron.com/articles/akron-pulse-creates-discovery-platform-for-local-events/",
+            "urlToImage": "https://www.akron.com/wp-content/uploads/2026/08/Akron-PulseCOVER.jpg",
+            "publishedAt": "2026-08-13T11:00:31Z"
+        },
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "Chatbots are doing the work of Congress with little oversight",
+            "url": "https://www.inquirer.com/politics/nation/congress-staff-ai-chatbot-use-20260813.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/GO3NPHDO3YA7YVFLFQ7DEO25ZY.jpg?auth=546c93b1fa705aa9af86841e4c294ee7166b4fd6a71c7f731988ae3d58b5248d&width=760&height=507&smart=true",
+            "publishedAt": "2026-08-13T10:46:28Z"
+        },
+        {
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+            },
+            "title": "Punjab Police's Sadak Surakhya Force to become India's first 3D policing model",
+            "url": "https://www.newindianexpress.com/india/2026/Aug/13/punjab-polices-sadak-surakhya-force-to-become-indias-first-3d-policing-model",
+            "urlToImage": "https://cf-images.assettype.com/newindianexpress%2F2026-02-13%2Fl3yy2z94%2FANI_20260213075957.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-08-13T10:37:39Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -576,6 +624,33 @@
             "url": "https://www.aroundosceola.com/sports/neocitys-lily-george-found-spot-game-ea-sports-steam-camp",
             "urlToImage": "https://www.aroundosceola.com/sites/aroundosceola.com/files/2026-08/Lily-George.jpg",
             "publishedAt": "2026-08-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cioandleader"
+            },
+            "title": "India Doesn’t Need More AI Pilots; It Needs an AI Execution Layer",
+            "url": "https://www.cioandleader.com/india-doesnt-need-more-ai-pilots-it-needs-an-ai-execution-layer/",
+            "urlToImage": "https://www.cioandleader.com/wp-content/uploads/2025/10/ai-cloud-concept-with-robot-arms-scaled.webp",
+            "publishedAt": "2026-08-13 11:04:55"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Anthropic in talks to acquire Nvidia-backed Decart AI for $6 billion: Report",
+            "url": "https://www.livemint.com/ai/artificial-intelligence/anthropic-in-talks-to-acquire-nvidia-backed-decart-ai-for-6-billion-report-11786614257095.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/OPENAI-ANTHROPIC-CYBERSECURITY-0_1786614378446_1786614427165_3095e96d-6a9c-4c83-8e42-0f0bb6cb9327.JPG",
+            "publishedAt": "2026-08-13 11:00:43"
+        },
+        {
+            "source": {
+                "name": "indiaobservers"
+            },
+            "title": "IBM Partners With CHRIST University to Launch Advanced AI Innovation Center in Bengaluru",
+            "url": "https://indiaobservers.com/ibm-christ-ai-innovation-center-bengaluru/",
+            "urlToImage": "https://indiaobservers.com/wp-content/uploads/2026/08/IBM-CHRIST-AI-Innovation-Center.webp",
+            "publishedAt": "2026-08-13 10:50:56"
         },
         {
             "source": {
@@ -3378,87 +3453,6 @@
             "url": "https://www.livemint.com/opinion/online-views/fend-off-doom-world-multilateral-regulatory-framework-artificial-intelligence-kimi-k3-11786365433085.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/iStock-1337101074_web_1786378479794_1786378486176_78d18f47-cefe-4e79-89e4-3c2d6e8610c8.jpg",
             "publishedAt": "2026-08-11T02:00:33Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "Quote of the Day by Elon Musk: 'If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not'",
-            "url": "https://www.businesstoday.in/latest/trends/story/quote-of-the-day-by-elon-musk-if-you-get-up-in-the-morning-and-think-the-future-is-going-to-be-better-it-is-a-bright-day-otherwise-its-not-547958-2026-08-11",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a75b5e2c185c-elon-musk--racisim--elon-musk-indian-wife-245324636-16x9.png",
-            "publishedAt": "2026-08-11T02:00:04Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Chinese AI drives price competition among US labs",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/11/chinese-ai-drives-price-competition-among-us-labs",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/11/4052691.jpg",
-            "publishedAt": "2026-08-11T02:00:00Z"
-        },
-        {
-            "source": {
-                "id": "94466d37d8c67a438250646866df36df",
-                "name": "SBS Australia",
-                "url": "https://www.sbs.com.au",
-                "country": "au"
-            },
-            "title": "AI, skills and innovation: How Australia and India’s youth are preparing for the future",
-            "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/ai-skills-and-innovation-how-australia-and-indias-youth-are-preparing-for-the-future/2dg67tlk8",
-            "urlToImage": "https://assets.sbs.com.au/dims4/default/cd36262/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F6c%2Fff%2F5a95fc9347f9ad3f8301a6bdabe1%2Fyouth-lead.png",
-            "publishedAt": "2026-08-11T00:30:00Z"
-        },
-        {
-            "source": {
-                "id": "ad679e3c7caaa4d82a4efb8f9e7d62b5",
-                "name": "The Oregonian",
-                "url": "https://www.oregonlive.com",
-                "country": "us"
-            },
-            "title": "Intel to sell at least $15 billion in stock",
-            "url": "https://www.oregonlive.com/silicon-forest/2026/08/intel-to-sell-at-least-15-billion-in-stock.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/v2/UKOEHIBOKFEB7CD6ECRHDWUJ34.jpg?auth=4f40c65387ed9cf44e01b593f56bef1d9f7f789f70c72f2fc26a550d2dedb407&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-08-11T00:04:17Z"
-        },
-        {
-            "source": {
-                "id": "6e38967e862de6c07c77ef45d72183a4",
-                "name": "The Morning Star",
-                "url": "https://morningstaronline.co.uk",
-                "country": "gb"
-            },
-            "title": "Artificial intelligence - the saviour of the capitalist system of production or its executioner?",
-            "url": "https://morningstaronline.co.uk/article/artificial-intelligence-saviour-capitalist-system-production-or-its-executioner",
-            "urlToImage": "https://morningstaronline.co.uk/sites/default/files/styles/wide/public/2026-08/PA-83261907.jpg.webp?itok=wA2VXKA_",
-            "publishedAt": "2026-08-11T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
-                "country": "in"
-            },
-            "title": "India advances to global AIpower status: Gulf Today",
-            "url": "https://www.thehitavada.com/Encyc/2026/8/11/india-advances-to-global-ai-power-status-gulf-today.html",
-            "urlToImage": "https://www.thehitavada.com/Encyc/2026/8/11/Moistt_202608111133504437_H@@IGHT_86_W@@IDTH_139.jpg",
-            "publishedAt": "2026-08-11T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "Lumentum's Supply-Demand Imbalance and Transceiver Constraints Clash With Cost-Cutting Claims",
-            "url": "https://www.bundle.app/en/finance/lumentums-supply-demand-imbalance-and-transceiver-constraints-clash-with-cost-cutting-claims-67C7DBDC-373B-4E8D-91AB-DF3558D36190",
-            "urlToImage": "https://static.bundle.app/news/2b768f09-b7c3-5310-8ac3-e07e16f4ef5f.jpg",
-            "publishedAt": "2026-08-11 23:48:22"
         }
     ]
 }
