@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-08-14T01:27:29.386042Z",
+    "lastUpdatedAt": "2026-08-14T04:02:34.933568Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Tougher data, AI oversight planned",
+            "url": "https://www.thestar.com.my/news/nation/2026/08/14/tougher-data-ai-oversight-planned",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/14/4058875.jpg",
+            "publishedAt": "2026-08-13T16:00:00Z"
+        },
+        {
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            },
+            "title": "Nvidia, Stock Of The Day, Nears Buy Point Before Fiscal Q2 Earnings Report",
+            "url": "https://www.investors.com/research/ibd-stock-of-the-day/nvidia-stock-nears-buy-point-fiscal-q2-earnings/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2026/08/sotd-for-08-13-2026-desktop.png",
+            "publishedAt": "2026-08-13T15:42:02Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Reddit analysis finds AI trust narrowly exceeds distrust, 31% to 26%",
+            "url": "https://phys.org/news/2026-08-generative-ai-attitudes-distrust-analysis.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/using-ai-on-phone.jpg",
+            "publishedAt": "2026-08-13T15:40:03Z"
+        },
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "Twitch users: Amazon could use your content for AI training. Here's what you should know",
+            "url": "https://www.cbc.ca/news/world/twitch-amazon-ai-livestreams-training-9.7305806",
+            "urlToImage": "https://i.cbc.ca/ais/ff3f40d4-c44b-4292-b4b2-296338eff039,1786626814354/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C224%2C4313%2C2426%29%3BResize%3D620",
+            "publishedAt": "2026-08-13T15:24:34Z"
+        },
+        {
+            "source": {
+                "id": "391302f06b19835f4e0d9f8b4aa57091",
+                "name": "Breaking Defense",
+                "url": "https://breakingdefense.com",
+                "country": "us"
+            },
+            "title": "AI’s next leap for the Intelligence Community: Agents managing agents",
+            "url": "https://breakingdefense.com/2026/08/ais-next-leap-for-the-intelligence-community-agents-managing-agents/",
+            "urlToImage": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/agentic-ai-image-1024x576.jpg",
+            "publishedAt": "2026-08-13T15:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Uttarakhand CM Dhami interacts with Doon University students, outlines initiatives on employment, migration and AI",
+            "url": "https://www.aninews.in/news/national/general-news/uttarakhand-cm-dhami-interacts-with-doon-university-students-outlines-initiatives-on-employment-migration-and-ai20260813201817/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260813144805-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-08-13T14:48:17Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding",
+            "url": "https://www.reuters.com/legal/transactional/databricks-raises-5-billion-financing-190-billion-valuation-2026-08-13/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/Z3FRW5QHABNGBFQVM5EMHVINVQ.jpg?auth=254cb37e83f0998b203cc8659d56c7fdc9f0bbec53bd65e2bb5ca7dd4734475f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-08-13T14:21:32Z"
+        },
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "DPC spends €615,000 warning parents about sharing their children’s details online",
+            "url": "https://www.irishtimes.com/business/2026/08/13/dpc-spends-615000-warning-parents-about-sharing-their-childrens-details-online/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/AKIGRGSFHVOLNBLDJK5UWQDTD4.jpg?smart=true&auth=2e6afe42a7db254c805e66c91555de3fd03a41f9785dd5939fdeaae7dee6a2e3&width=1200&height=630",
+            "publishedAt": "2026-08-13T14:20:27Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Anthropic in talks to acquire Decart AI for record $6 billion: What We Know",
+            "url": "https://www.thenews.com.pk/latest/1412169-anthropic-in-talks-to-acquire-decart-ai-for-record-6-billion-what-we-know",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-13/1412169_072112_updates.jpg",
+            "publishedAt": "2026-08-13T14:20:00Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "Massachusetts teen accused of killing mother, brother with help from ChatGPT",
+            "url": "https://www.nbcnews.com/news/us-news/teen-accused-killing-mother-brother-help-chatgpt-rcna592308",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260813-chatgpt-rs-02524b.jpg",
+            "publishedAt": "2026-08-13T14:10:35Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -744,6 +864,42 @@
             "url": "https://www.aroundosceola.com/sports/neocitys-lily-george-found-spot-game-ea-sports-steam-camp",
             "urlToImage": "https://www.aroundosceola.com/sites/aroundosceola.com/files/2026-08/Lily-George.jpg",
             "publishedAt": "2026-08-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Why the convergence of AI, agentic AI, cloud and quantum will define the next enterprise AI platform",
+            "url": "https://www.expresscomputer.in/guest-blogs/why-the-convergence-of-ai-agentic-ai-cloud-and-quantum-will-define-the-next-enterprise-ai-platform/137698/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/03/05083404/AI-Artificial-Intelligence.jpg",
+            "publishedAt": "2026-08-13 15:30:56"
+        },
+        {
+            "source": {
+                "name": "pcmag"
+            },
+            "title": "Google Pixel Watch 5 First Look: Move Over Galaxy, This Might Be My New Favorite Android Smartwatch",
+            "url": "https://www.pcmag.com/news/google-pixel-watch-5-first-look-move-over-galaxy-this-might-be-my-new-favorite",
+            "urlToImage": "https://i.pcmag.com/imagery/articles/06HjNL2EDfy79EKdJuPdlIk-1..v1786634599.jpg",
+            "publishedAt": "2026-08-13 15:30:26"
+        },
+        {
+            "source": {
+                "name": "techbooky"
+            },
+            "title": "Twitch Will Train Amazon AI On Streamers’ Content By Default",
+            "url": "https://www.techbooky.com/twitch-amazon-ai-training-creator-consent-broken/",
+            "urlToImage": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/08/13162355/blog_og-image.avif",
+            "publishedAt": "2026-08-13 15:24:46"
+        },
+        {
+            "source": {
+                "name": "techbooky"
+            },
+            "title": "Anthropic’s Reported Decart Talks Show Compute Efficiency Is The New Prize",
+            "url": "https://www.techbooky.com/anthropic-decart-talks-compute-efficiency-ai-prize/",
+            "urlToImage": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/02/07121609/anthropic.jpg",
+            "publishedAt": "2026-08-13 15:22:04"
         },
         {
             "source": {
@@ -3267,174 +3423,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/can-ai-power-india-to-a-30-trillion-economy-toi-aiq-talks-teases-the-next-big-leap/articleshow/133147607.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-133147644,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-08-11T08:16:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Students adopting AI faster than schools can adapt, creating learning gap: Report",
-            "url": "https://www.tribuneindia.com/news/business/students-adopting-ai-faster-than-schools-can-adapt-creating-learning-gap-report/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIyZmM1MjAwLTk1NWItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-11T08:03:22Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Students adopting AI faster than schools can adapt, creating learning gap: Report",
-            "url": "https://www.aninews.in/news/business/students-adopting-ai-faster-than-schools-can-adapt-creating-learning-gap-report20260811132839/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260811075829-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-11T07:58:39Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "SBI chairman says that AI is helping boost farm loan decisions",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-chairman-says-that-ai-is-helping-boost-farm-loan-decisions/articleshow/133146756.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133146838,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-11T07:42:00Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "Wipro’s Nifty exit reflects waning clout of IT giants",
-            "url": "https://www.thehindubusinessline.com/info-tech/wipros-nifty-exit-reflects-waning-clout-of-it-giants/article71331360.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/uhrnqr/article71331433.ece/alternates/LANDSCAPE_1200/2026-05-29T034603Z_1308592796_RC296GA9F5HJ_RTRMADP_3_WIPRO-LTD-STOCKS.JPG",
-            "publishedAt": "2026-08-11T07:20:50Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "led banking to reach rural India, small businesses",
-            "url": "https://www.tribuneindia.com/news/business/sbi-chairman-cs-setty-calls-for-ai-led-banking-to-reach-rural-india-small-businesses/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE2OTYwOWQwLTk1NTAtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-11T06:44:16Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "SBI Chairman CS Setty calls for AI-led banking to reach rural India, small businesses",
-            "url": "https://www.aninews.in/news/business/sbi-chairman-cs-setty-calls-for-ai-led-banking-to-reach-rural-india-small-businesses20260811121105/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260811064045-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-11T06:41:05Z"
-        },
-        {
-            "source": {
-                "id": "6330fe7e7b8cfc9b8540c05881fcc289",
-                "name": "U.Today",
-                "url": "https://u.today",
-                "country": "ae"
-            },
-            "title": "Bitcoin Miner Riot Secures Massive Deal With Anthropic",
-            "url": "https://u.today/bitcoin-miner-riot-secures-massive-deal-with-anthropic",
-            "urlToImage": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2026-08/234242423412423.jpg",
-            "publishedAt": "2026-08-11T06:20:04Z"
-        },
-        {
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            },
-            "title": "National University of Singapore mandates AI courses for all students, gives free access to ChatGPT for learners and staff",
-            "url": "https://www.malaymail.com/news/singapore/2026/08/11/national-university-of-singapore-mandates-ai-courses-for-all-students-gives-free-access-to-chatgpt-for-learners-and-staff/230931",
-            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/08/11/356510.jpg",
-            "publishedAt": "2026-08-11T06:16:09Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "India must shape its AI journey rather than be shaped by default: RBI Governor Sanjay Malhotra",
-            "url": "https://www.livemint.com/technology/india-must-shape-its-ai-journey-rather-than-be-shaped-by-default-rbi-governor-sanjay-malhotra-11786428751973.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
-            "publishedAt": "2026-08-11T06:12:31Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "Nvidia, Wall Street Giants Join Forces To Unlock $500 Bn For AI",
-            "url": "https://www.outlookbusiness.com/corporate/nvidia-wall-street-giants-join-forces-to-unlock-500-bn-for-ai",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-08-11/uajcmmjx/nvidia_1651928213.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-08-11T06:08:35Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "SettleMint India Rebrands as Quadcentrix to Mark Expansion Beyond Blockchain into AI, Data Analytics and Enterprise Digital Solutions",
-            "url": "https://www.tribuneindia.com/news/business/settlemint-india-rebrands-as-quadcentrix-to-mark-expansion-beyond-blockchain-into-ai-data-analytics-and-enterprise-digital-solutions/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE1MTEzMGQwLTk1NGItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-11T06:08:26Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "India must shape its AI journey rather than be shaped by default: RBI Governor Sanjay Malhotra",
-            "url": "https://www.tribuneindia.com/news/business/india-must-shape-its-ai-journey-rather-than-be-shaped-by-default-rbi-governor-sanjay-malhotra/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTEwYWQzYTcwLTk1NGItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-11T06:08:20Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "India must shape its AI journey rather than be shaped by default: RBI Governor Sanjay Malhotra",
-            "url": "https://www.aninews.in/news/business/india-must-shape-its-ai-journey-rather-than-be-shaped-by-default-rbi-governor-sanjay-malhotra20260811113620/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260811060608-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-11T06:06:20Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "SettleMint India Rebrands as Quadcentrix to Mark Expansion Beyond Blockchain into AI, Data Analytics and Enterprise Digital Solutions",
-            "url": "https://www.aninews.in/news/business/settlemint-india-rebrands-as-quadcentrix-to-mark-expansion-beyond-blockchain-into-ai-data-analytics-and-enterprise-digital-solutions20260811113354/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260811060341-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-11T06:03:54Z"
         }
     ]
 }
