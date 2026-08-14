@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-14T14:13:23.004248Z",
+    "lastUpdatedAt": "2026-08-14T15:45:12.667335Z",
     "articles": [
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Naidu inaugurates Seed Access Road for Amaravati, quarters for MLAs and MLCs",
+            "url": "https://www.hindustantimes.com/india-news/naidu-inaugurates-seed-access-road-for-amaravati-quarters-for-mlas-and-mlcs-101786649463583.html",
+            "urlToImage": "https://images.hindustantimes.com/default/1600x900.jpg",
+            "publishedAt": "2026-08-14T03:31:09Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Maharashtra to form ministerial task force for effective implementation of drone policy",
+            "url": "https://www.hindustantimes.com/cities/mumbai-news/maharashtra-to-form-ministerial-task-force-for-effective-implementation-of-drone-policy-101786648258379.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/08/13/1600x900/logo/The-task-force-will-be-chaired-by-the-state-s-elec_1786648256580.jpg",
+            "publishedAt": "2026-08-14T03:19:07Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Taiwan says AI agents used in cyberattacks targeting island",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-says-ai-agents-used-in-cyberattacks-targeting-island/articleshow/133227692.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-107509,resizemode-75,msid-133227692/tech/artificial-intelligence/taiwan-says-ai-agents-used-in-cyberattacks-targeting-island.jpg",
+            "publishedAt": "2026-08-14T02:50:09Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -60,6 +96,15 @@
             "url": "https://www.caixinglobal.com/2026-08-14/commentary-electricity-takes-center-stage-in-the-global-ai-race-102474099.html",
             "urlToImage": "https://img.caixin.com/2026-08-13/178660857161434_560_373.jpg",
             "publishedAt": "2026-08-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Robot Dogs Are Leaving the Lab: What Quadrupeds Reveal About Embodied AI",
+            "url": "https://hackernoon.com/robot-dogs-are-leaving-the-lab-what-quadrupeds-reveal-about-embodied-ai",
+            "urlToImage": "https://cdn.hackernoon.com/images/X7dsqXQjSRhlkIqvFrodOmLFOGX2-t383b6o.jpeg",
+            "publishedAt": "2026-08-14 03:08:50"
         },
         {
             "source": {
@@ -3348,54 +3393,6 @@
             "url": "https://www.thestar.com.my/business/business-news/2026/08/12/tech-sector-poised-to-ride-ai-supercycle",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/12/4055179.jpg",
             "publishedAt": "2026-08-11T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Target appoints chief AI officer Chandhu Nair",
-            "url": "https://www.cnbc.com/2026/08/11/target-appoints-chief-ai-officer-chandhu-nair.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108305558-1778591015384-gettyimages-2267652036-260318_hd_signs_148.jpeg?v=1778591055&w=1920&h=1080",
-            "publishedAt": "2026-08-11T15:44:43Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Manus Parts Ways with Meta: A New Chapter for AI Innovation",
-            "url": "https://www.devdiscourse.com/article/technology/3962493-manus-parts-ways-with-meta-a-new-chapter-for-ai-innovation",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/11_07_2024_14_06_41_0966445.png&width=920&format=jpeg",
-            "publishedAt": "2026-08-11T15:28:38Z"
-        },
-        {
-            "source": {
-                "id": "2492bcb79914b2ce3d9867453dae22ac",
-                "name": "Financial Post",
-                "url": "https://financialpost.com",
-                "country": "ca"
-            },
-            "title": "Spotify asks artists to disclose whether they’re human or AI",
-            "url": "https://financialpost.com/technology/tech-news/spotify-asks-artists-disclose-humans-or-ai",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0812-mg-spotify-ai.jpg",
-            "publishedAt": "2026-08-11T15:26:06Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "HireQuotient's EasySource Delivers $60,000 Cost Savings for Stern at Home Therapy, US Healthcare Firm",
-            "url": "https://techbullion.com/hirequotients-easysource-delivers-60000-cost-savings-for-stern-at-home-therapy-us-healthcare-firm/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/08/WhatsApp_Image_2026-08-11_at_42020_PM_1786445453KUu92HfvYw-864x600.jpeg",
-            "publishedAt": "2026-08-11T15:05:58Z"
         }
     ]
 }
