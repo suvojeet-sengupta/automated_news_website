@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-14T18:45:37.844363Z",
+    "lastUpdatedAt": "2026-08-14T19:43:28.805064Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Apple trains its own AI model for China market with Alibaba ahead of Apple Intelligence launch",
+            "url": "https://www.thenews.com.pk/latest/1412233-apple-trains-its-own-ai-model-for-china-market-with-alibaba-ahead-of-apple-intelligence-launch",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-14/1412233_124252_updates.jpg",
+            "publishedAt": "2026-08-14T07:41:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Punjab’s road safety force turns to AI, drones and satellites after saving 47,000 lives",
+            "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjabs-road-safety-force-turns-to-ai-drones-and-satellites-after-saving-47000-lives/articleshow/133231761.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133231994,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-14T07:16:00Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -180,6 +204,15 @@
             "url": "https://www.caixinglobal.com/2026-08-14/commentary-electricity-takes-center-stage-in-the-global-ai-race-102474099.html",
             "urlToImage": "https://img.caixin.com/2026-08-13/178660857161434_560_373.jpg",
             "publishedAt": "2026-08-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "asianjournal"
+            },
+            "title": "The AI boom is global. So is its bill",
+            "url": "https://asianjournal.com/features/opinion-editorial-columnists/ai-boom-global-power-grid-jobs-us-philippines/",
+            "urlToImage": "https://asianjournal.com/wp-content/uploads/2026/08/AI-PHOTO-scaled.jpg",
+            "publishedAt": "2026-08-14 06:55:14"
         },
         {
             "source": {
@@ -3348,42 +3381,6 @@
             "url": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
             "urlToImage": "https://static01.nyt.com/images/2026/08/11/multimedia/11biz-openai-lightcap-qfmv/11biz-openai-lightcap-qfmv-facebookJumbo.jpg",
             "publishedAt": "2026-08-11T18:39:16Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "AI Could Create Even More Disposable Workers, MIT Prof Says",
-            "url": "https://www.forbes.com/sites/courtney-connley-hampton/2026/08/11/employers-are-treating-more-workers-as-disposable-ai-could-speed-up-that-trend/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a7b5dc72840160bccbda8e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-08-11T18:19:08Z"
-        },
-        {
-            "source": {
-                "id": "9290338c23f31e3f547a2dbfa1c52c03",
-                "name": "Scientific American",
-                "url": "https://www.scientificamerican.com",
-                "country": "us"
-            },
-            "title": "Can AI make mathematics more human?",
-            "url": "https://www.scientificamerican.com/article/can-ai-make-mathematics-more-human/",
-            "urlToImage": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg?m=1785858312.019&w=1200",
-            "publishedAt": "2026-08-11T18:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Can Artificial Intelligence Make Home Loans More Accessible?",
-            "url": "https://techbullion.com/can-artificial-intelligence-make-home-loans-more-accessible/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/08/AI-IN-mortgage-application-1000x600.png",
-            "publishedAt": "2026-08-11T17:44:14Z"
         }
     ]
 }
