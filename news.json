@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-14T12:54:20.047258Z",
+    "lastUpdatedAt": "2026-08-14T14:13:23.004248Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "How Sunway College’s new applied AI Diploma prepares students for the tech economy",
+            "url": "https://www.thestar.com.my/starpicks/2026/08/14/how-sunway-colleges-new-applied-ai-diploma-prepares-students-for-the-tech-economy",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/14/4058952.jpg",
+            "publishedAt": "2026-08-14T01:49:00Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "What universities can offer in the age of AI",
+            "url": "https://www.channelnewsasia.com/advertorial/what-universities-can-offer-in-age-ai-6282021",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--ebVe6Ybw--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/28/brand_studio_x_taylors_university_advertorial_photo_2.jpg?itok=cxyK2zBy",
+            "publishedAt": "2026-08-14T01:30:31Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "China’s capital flight is fueling global AI. Beijing cracks down.",
+            "url": "https://www.livemint.com/global/china-capital-flight-global-ai-beijing-11786670655769.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/im-49486230_1786670659718_1786670684126_8dfa565b-9687-4ecc-806d-598117d4b458.jpg",
+            "publishedAt": "2026-08-14T01:28:00Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -3360,42 +3396,6 @@
             "url": "https://techbullion.com/hirequotients-easysource-delivers-60000-cost-savings-for-stern-at-home-therapy-us-healthcare-firm/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2026/08/WhatsApp_Image_2026-08-11_at_42020_PM_1786445453KUu92HfvYw-864x600.jpeg",
             "publishedAt": "2026-08-11T15:05:58Z"
-        },
-        {
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            },
-            "title": "‘Everything about me is good in his eyes’: the women in China choosing AI boyfriends over human men",
-            "url": "https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary",
-            "urlToImage": "https://i.guim.co.uk/img/media/123961f29862cfca4a8b15229837715e5948dd1a/516_0_1214_971/master/1214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0eaa3d07141a7bf249b77d49fd0c3da0",
-            "publishedAt": "2026-08-11T15:00:02Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Bernie Sanders to CEO of tech companies whose AI models hacked other organisations: Stop building machines that humans cannot …",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/bernie-sanders-to-ceo-of-tech-companies-whose-ai-models-hacked-other-organisations-stop-building-machines-that-humans-cannot-/articleshow/133158159.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133158233,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-11T14:53:00Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "The Companies Winning With AI Aren’t Replacing Workers",
-            "url": "https://www.forbes.com/sites/garydrenik/2026/08/11/the-companies-winning-with-ai-arent-replacing-workers/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a555e21d6792444070cefb9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-08-11T14:00:00Z"
         }
     ]
 }
