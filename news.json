@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-16T06:31:23.875971Z",
+    "lastUpdatedAt": "2026-08-16T07:26:11.150585Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Harvard researcher says schools are preparing students to lose to AI",
+            "url": "https://www.foxnews.com/media/harvard-research-fellow-says-higher-education-must-rethink-what-students-learn-ai-era",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/STUDENT-STUDYING-AI.jpg",
+            "publishedAt": "2026-08-15T19:00:33Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "As country's AI talent gap grows, investors step in to help companies hire",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/as-countrys-ai-talent-gap-grows-investors-step-in-to-help-companies-hire/articleshow/133267229.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133267253,width-1200,height-630,imgsize-85460,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-15T18:59:00Z"
+        },
         {
             "source": {
                 "id": "188e9ebf53d05fc7ba360240a0b28154",
@@ -3408,30 +3432,6 @@
             "url": "https://www.news-medical.net/news/20260812/Insilico-Medicine-nominates-powerful-oral-drug-candidate-for-the-management-of-heart-risks.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
             "publishedAt": "2026-08-12T17:14:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Indian banks shift from AI experimentation to scale, focus on credit, productivity and risk",
-            "url": "https://www.tribuneindia.com/news/business/indian-banks-shift-from-ai-experimentation-to-scale-focus-on-credit-productivity-and-risk/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThkMTk1MjMwLTk2NmItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-12T16:33:22Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Online AI breastfeeding advice causes dangerous delays in infant care",
-            "url": "https://www.news-medical.net/news/20260812/Online-AI-breastfeeding-advice-causes-dangerous-delays-in-infant-care.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/147309906-620x480.jpg",
-            "publishedAt": "2026-08-12T16:30:00Z"
         }
     ]
 }
