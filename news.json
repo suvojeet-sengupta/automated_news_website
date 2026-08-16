@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-08-16T10:17:27.475011Z",
+    "lastUpdatedAt": "2026-08-16T11:15:24.514451Z",
     "articles": [
+        {
+            "source": {
+                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+                "name": "ZeroHedge",
+                "url": "https://www.zerohedge.com",
+                "country": "us"
+            },
+            "title": "Can Artificial Intelligence Replace Human Judges?",
+            "url": "https://www.zerohedge.com/political/can-artificial-intelligence-replace-human-judges",
+            "urlToImage": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-08/image%20%2833%29.jpg?itok=yDMTBdG1",
+            "publishedAt": "2026-08-15T22:40:00Z"
+        },
         {
             "source": {
                 "id": "bcf30bc045f2e6dc279666907e09eab5",
@@ -3420,18 +3432,6 @@
             "url": "https://www.socialmediatoday.com/news/youtube-expands-access-to-its-in-app-ai-chatbot/827757/",
             "urlToImage": "https://imgproxy.divecdn.com/89iSPAMk0h-NH-XrUi0ryrlKuewRlywJYUR9wuY9PQU/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc2tfeW91dHViZV9kZXNrdG9wLnBuZw==.webp",
             "publishedAt": "2026-08-12T18:07:40Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Q&A: Deploying AI to create proteins never before seen in nature",
-            "url": "https://phys.org/news/2026-08-qa-deploying-ai-proteins-nature.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/protein-engineering.jpg",
-            "publishedAt": "2026-08-12T17:40:04Z"
         }
     ]
 }
