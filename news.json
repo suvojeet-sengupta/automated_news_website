@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-08-16T14:16:56.195667Z",
+    "lastUpdatedAt": "2026-08-16T15:15:40.681565Z",
     "articles": [
+        {
+            "source": {
+                "id": "cc589abcee543815a82a8b2856ebe9ed",
+                "name": "Malay Mail",
+                "url": "https://www.malaymail.com",
+                "country": "my"
+            },
+            "title": "NTU to ditch AI detectors, says technology too unreliable to prove cheating",
+            "url": "https://www.malaymail.com/news/singapore/2026/08/16/ntu-to-ditch-ai-detectors-says-technology-too-unreliable-to-prove-cheating/231541",
+            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/08/16/357309.jpg",
+            "publishedAt": "2026-08-16T03:13:51Z"
+        },
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent",
+            "url": "https://www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/14/a7ffd008-25c8-4a31-9a28-6c36b8fa494a_2ba54826.jpg?itok=ukBYY1lV&v=1786708468",
+            "publishedAt": "2026-08-16T03:00:12Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI could cut doctors' paperwork burden as global health worker shortage looms: Report",
+            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/ai-could-cut-doctors-paperwork-burden-as-global-health-worker-shortage-looms-report/articleshow/133269081.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133269163,width-1200,height-630,imgsize-43320,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-16T02:48:00Z"
+        },
+        {
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+            },
+            "title": "16-year-old in Telangana uses brain tumour recovery period to learn coding",
+            "url": "https://www.newindianexpress.com/cities/hyderabad/2026/Aug/16/16-year-old-in-telangana-uses-brain-tumour-recovery-period-to-learn-coding",
+            "urlToImage": "https://cf-images.assettype.com/newindianexpress%2F2026-08-16%2Fmqnhxy7z%2Fcats.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-08-16T02:46:20Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "AI could cut doctors' paperwork burden as global health worker shortage looms: Report",
+            "url": "https://www.tribuneindia.com/news/business/ai-could-cut-doctors-paperwork-burden-as-global-health-worker-shortage-looms-report/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRhYWVlMzUwLTk5MWEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+            "publishedAt": "2026-08-16T02:33:18Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "AI could cut doctors' paperwork burden as global health worker shortage looms: Report",
+            "url": "https://www.aninews.in/news/business/ai-could-cut-doctors-paperwork-burden-as-global-health-worker-shortage-looms-report20260816075958/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260816014729-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-08-16T02:29:58Z"
+        },
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "Bond traders agonise over $70 bn of shadow credit backstops for AI firms",
+            "url": "https://www.business-standard.com/world-news/bond-traders-agonise-over-70-bn-of-shadow-credit-backstops-for-ai-firms-126081600051_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/16/thumb/fitandfill/1200X628/1786846965-4966.jpg",
+            "publishedAt": "2026-08-16T02:24:41Z"
+        },
         {
             "source": {
                 "id": "6d317e2944258f799763413d14b479f4",
@@ -24,6 +108,15 @@
             "url": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg",
             "publishedAt": "2026-08-16T00:00:01Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "AI companies may be gobbling up old books, and I really hope they aren’t destroying them",
+            "url": "https://www.digitaltrends.com/computing/ai-companies-may-be-gobbling-up-old-books-and-i-really-hope-they-arent-destroying-them/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/08/Old-books-scaled.jpg?resize=440%2C292",
+            "publishedAt": "2026-08-16 02:43:29"
         },
         {
             "source": {
@@ -3333,102 +3426,6 @@
             "url": "https://www.canberratimes.com.au/story/9329404/ai-detection-tools-miss-the-mark-for-student-assessment/",
             "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/85c71ff6-c4fa-4876-8e34-501154b900bd.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
             "publishedAt": "2026-08-12T21:00:01Z"
-        },
-        {
-            "source": {
-                "id": "321f3fa90dde0946a7b4a17731c0314d",
-                "name": "The New Zealand Herald",
-                "url": "https://www.nzherald.co.nz",
-                "country": "nz"
-            },
-            "title": "How AI is an ‘exaggerator’ for the reach and impact of domestic and global threats to NZ",
-            "url": "https://www.nzherald.co.nz/nz/politics/how-ai-is-an-exaggerator-for-the-reach-and-impact-of-domestic-and-global-threats-to-nz/VYB7PVJHFRHHJHO7ODZTPKJXNU/",
-            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/ZQAIEGRR5RB7FI3AQQNU7HNQM4.jpg?auth=9cb1cce13106a5cefd819461f041780b64003b1fa75011748646036631c2ddda&width=1200&height=675&quality=70&smart=true",
-            "publishedAt": "2026-08-12T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
-                "name": "CBC.ca",
-                "url": "https://www.cbc.ca",
-                "country": "ca"
-            },
-            "title": "Oakville becomes first Ontario municipality to enact 1-year moratorium on data centres",
-            "url": "https://www.cbc.ca/news/canada/toronto/oakville-data-centre-moratorium-9.7305034",
-            "urlToImage": "https://i.cbc.ca/ais/f6fa325d-5ca3-49cb-bbb2-3218e15b1346,1785510301637/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C134%2C2135%2C1200%29%3BResize%3D620",
-            "publishedAt": "2026-08-12T19:58:20Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "The blueprint for agentic operations",
-            "url": "https://www.europesays.com/3189896/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/AzAiEtFsAgbK6o4A6cYGBK-1920-80.png",
-            "publishedAt": "2026-08-12T19:54:20Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Beyond medical breakthroughs: Health literacy India’s greatest need",
-            "url": "https://www.tribuneindia.com/news/himachal/beyond-medical-breakthroughs-health-literacy-indias-greatest-need/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ2ODc3ZTcwLTk2YzMtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-12T19:52:12Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "AI-augmented analysis sheds new light on Crohn's disease complications",
-            "url": "https://www.news-medical.net/news/20260812/AI-augmented-analysis-sheds-new-light-on-Crohns-disease-complications.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2026-08-12T19:37:00Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Oakville enacts data centre pause as Ontario municipalities wrestle with AI buildout",
-            "url": "https://www.cp24.com/local/halton/2026/08/12/oakville-enacts-data-centre-pause-as-ontario-municipalities-wrestle-with-ai-buildout/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/V3DFV7I4Y77X3RNALSV2DLKVYA.jpg?smart=true&auth=e3c34deac486c000b37e4ebdfe20c400f6f1f96792b9ca1474aa48af34600574&width=1200&height=630",
-            "publishedAt": "2026-08-12T19:02:54Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Oakville enacts data centre pause as Ontario municipalities wrestle with AI buildout",
-            "url": "https://www.baytoday.ca/ontario-news/oakville-enacts-data-centre-pause-as-ontario-municipalities-wrestle-with-ai-buildout-12658077",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/08/669d6fcbe4db8fb896ba08214728d5239957c5a9065f28cb6f6afb641f4504db.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-08-12T18:30:32Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "Oakville enacts data centre pause as Ontario municipalities wrestle with AI buildout",
-            "url": "https://www.sootoday.com/ontario-news/oakville-enacts-data-centre-pause-as-ontario-municipalities-wrestle-with-ai-buildout-12658077",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/08/669d6fcbe4db8fb896ba08214728d5239957c5a9065f28cb6f6afb641f4504db.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-08-12T18:30:32Z"
         }
     ]
 }
