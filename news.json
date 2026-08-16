@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-16T21:14:48.637610Z",
+    "lastUpdatedAt": "2026-08-16T22:15:16.279586Z",
     "articles": [
+        {
+            "source": {
+                "id": "49751e72ee79ba8eb1d9dcf6e10bf195",
+                "name": "NJ.com",
+                "url": "https://www.nj.com",
+                "country": "us"
+            },
+            "title": "Flock is watching you | Sheneman",
+            "url": "https://www.nj.com/opinion/2026/08/flock-is-watching-you-sheneman.html",
+            "urlToImage": "https://www.nj.com/resizer/v2/5Y7EGGDNNZG4ZCJI4XK6QGJQEM.jpg?auth=5e4cba167f24b960d5f658afdcdc1556a82e0321fd817deba6ef4fd71df3a925&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-08-16T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "AI's New Red Flag: US Dangles Pax Silica At Partners To Sideline China",
+            "url": "https://www.ibtimes.com/ais-new-red-flag-us-dangles-pax-silica-partners-sideline-china-3806460",
+            "urlToImage": "https://d.ibtimes.com/en/full/4652150/smartphone-displaying-words-ai-artificial-intelligence.jpg",
+            "publishedAt": "2026-08-16T09:45:09Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Why Wikipedia still won't let AI write articles, says CEO Jimmy Wales",
+            "url": "https://www.thenews.com.pk/latest/1412452-why-wikipedia-still-wont-let-ai-write-articles-says-ceo-jimmy-wales",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-16/1412452_023632_updates.jpg",
+            "publishedAt": "2026-08-16T09:34:15Z"
+        },
         {
             "source": {
                 "id": "556649d353181a589d24339ce922b9f8",
@@ -39,6 +75,18 @@
         },
         {
             "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Queen's Brian May Warns Against the Artificial Intelligence Rush in Music",
+            "url": "https://www.breitbart.com/europe/2026/08/16/we-actually-dont-need-ai-queens-brian-may-warns-against-the-artificial-intelligence-rush-in-music/",
+            "urlToImage": "https://media.breitbart.com/media/2026/08/Brian-May-of-Queen-640x335.jpg",
+            "publishedAt": "2026-08-16T07:41:47Z"
+        },
+        {
+            "source": {
                 "id": "9f2e79f0f9194d0d88f0074def064e60",
                 "name": "The Korea Times",
                 "url": "https://www.koreatimes.co.kr",
@@ -46,6 +94,18 @@
             },
             "title": "Young Korean workers hit hardest as AI automation slashes jobs",
             "url": "https://www.koreatimes.co.kr/economy/20260816/young-korean-workers-hit-hardest-as-ai-automation-slashes-jobs",
+            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/16/48fcc600-9f03-45c9-b0e2-3aa0012d1109.jpg",
+            "publishedAt": "2026-08-16T07:16:03Z"
+        },
+        {
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            },
+            "title": "Young workers hit hardest as AI automation slashes jobs in Korea",
+            "url": "https://www.koreatimes.co.kr/economy/20260816/young-workers-hit-hardest-as-ai-automation-slashes-jobs-in-korea",
             "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/16/48fcc600-9f03-45c9-b0e2-3aa0012d1109.jpg",
             "publishedAt": "2026-08-16T07:16:03Z"
         },
@@ -3429,51 +3489,6 @@
             "url": "https://www.techbooky.com/anthropic-decart-talks-compute-efficiency-ai-prize/",
             "urlToImage": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/02/07121609/anthropic.jpg",
             "publishedAt": "2026-08-13 15:22:04"
-        },
-        {
-            "source": {
-                "name": "techbooky"
-            },
-            "title": "Standard Bank’s AI Push Shows African Banking Is Moving Fast",
-            "url": "https://www.techbooky.com/standard-bank-ai-push-african-banking-moving-fast/",
-            "urlToImage": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/08/13142311/GGFWBZ3XAJIYZGFJFPNUCEJSBM.avif",
-            "publishedAt": "2026-08-13 13:24:18"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "L&T bags ‘mega’ AI infra order from Together AI",
-            "url": "https://timesofindia.indiatimes.com/city/bengaluru/lt-bags-mega-ai-infra-order-from-together-ai/articleshow/133213414.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-133213408/133213408.jpg",
-            "publishedAt": "2026-08-13 13:04:02"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "Twitch Users Outraged by Amazon's Default AI Training Opt-Out",
-            "url": "https://startupnews.fyi/social-media/twitch-users-outraged-by-amazon-s-default-ai-training-opt-out",
-            "urlToImage": "https://startupnews-media-2026.s3.us-east-1.amazonaws.com/startupnews-in/uploads/2026/08/admin-1786621980886-w79vo0uid.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZQ3DRHCSCL44VIMT%2F20260813%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260813T185008Z&X-Amz-Expires=604800&X-Amz-Signature=e5f6c38acc22734e9fc4bebcf19417f307531684fb6440796513b7c47d9a59a9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-            "publishedAt": "2026-08-13 13:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Oracle and AWS Deepen Strategic Collaboration as Enterprise Adoption of Oracle AI Database@AWS Accelerates",
-            "url": "https://www.prnewswire.com/news-releases/oracle-and-aws-deepen-strategic-collaboration-as-enterprise-adoption-of-oracle-ai-databaseaws-accelerates-302850291.html",
-            "urlToImage": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo-Logo.jpg?id=OA2876620&p=original",
-            "publishedAt": "2026-08-13 12:00:00"
-        },
-        {
-            "source": {
-                "name": "cioandleader"
-            },
-            "title": "India Doesn’t Need More AI Pilots; It Needs an AI Execution Layer",
-            "url": "https://www.cioandleader.com/india-doesnt-need-more-ai-pilots-it-needs-an-ai-execution-layer/",
-            "urlToImage": "https://www.cioandleader.com/wp-content/uploads/2025/10/ai-cloud-concept-with-robot-arms-scaled.webp",
-            "publishedAt": "2026-08-13 11:04:55"
         }
     ]
 }
