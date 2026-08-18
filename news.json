@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-08-18T15:26:13.747056Z",
+    "lastUpdatedAt": "2026-08-18T16:24:41.919841Z",
     "articles": [
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "OpenAI launches ChatGPT for Teens, promising a more age",
+            "url": "https://www.breitbart.com/news/openai-launches-chatgpt-for-teens-promising-a-more-age-appropriate-chatbot/",
+            "urlToImage": "https://media.breitbart.com/media/2026/08/wi/ap/chatgpt-teens-33976-chatgpt-teens-chatgpt-app-is-displayed-an-iphone-york-18-2023-ap-photo-richard-640x335.jpg",
+            "publishedAt": "2026-08-18T04:19:30Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Nikkei, KOSPI to US stocks: Global equity heatmap before the opening bell of the Indian stock market on Tuesday - Aug 18",
+            "url": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-markets-equity-heatmap-before-the-opening-bell-of-the-indian-stock-market-today-11787022404352.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/Global_Asian_markets_today_Sensex_today_Gift_Nifty_1787024775295_1787024775423_246851f4-482d-4eff-8a55-f79adbceefa8.png",
+            "publishedAt": "2026-08-18T03:52:06Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "AI powers growing threat to Australia's energy networks",
+            "url": "https://www.canberratimes.com.au/story/9332622/ai-powers-growing-threat-to-australias-energy-networks/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/4046808f-8c04-4dbc-9f2c-b440a775daa1.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-08-18T03:42:25Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "This 16-year-old Canadian student built an autonomous AI-powered robot turtle that can detect tiny microplastics in water",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/this-16-year-old-canadian-student-built-an-autonomous-ai-powered-robot-turtle-that-can-detect-tiny-microplastics-in-water/articleshow/133310597.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133310631,width-1200,height-630,imgsize-965434,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-18T03:37:00Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "exposed sectors see sharp drop in youth employment: BOK",
+            "url": "https://www.lokmattimes.com/technology/ai-exposed-sectors-see-sharp-drop-in-youth-employment-bok-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608183908415_202608.jpg",
+            "publishedAt": "2026-08-18T03:35:12Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "exposed sectors see sharp drop in youth employment: BOK",
+            "url": "https://www.lokmattimes.com/business/ai-exposed-sectors-see-sharp-drop-in-youth-employment-bok/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608183908415_202608.jpg",
+            "publishedAt": "2026-08-18T03:35:12Z"
+        },
+        {
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            },
+            "title": "exposed sectors see sharp drop in youth employment: BOK report",
+            "url": "https://www.koreatimes.co.kr/southkorea/society/20260818/ai-exposed-sectors-see-sharp-drop-in-youth-employment-bok-report",
+            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/18/66fc4cb2-aa09-4ca1-8b3a-3078622e9cac.jpg",
+            "publishedAt": "2026-08-18T03:27:03Z"
+        },
         {
             "source": {
                 "id": "046a50607901bb9bca25f6624dc87f76",
@@ -24,6 +108,15 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/08/18/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4064270.JPG",
             "publishedAt": "2026-08-18T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "foreignaffairs"
+            },
+            "title": "AI and the New Age of Bioweapons",
+            "url": "https://www.foreignaffairs.com/united-states/ai-and-new-age-bioweapons-sherwood-randall",
+            "urlToImage": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/x_large_1x/public/images/2026/08/05/AI_Disease_Crop.jpg?itok=i4TuL8sN",
+            "publishedAt": "2026-08-18 04:00:00"
         },
         {
             "source": {
@@ -3369,102 +3462,6 @@
             "url": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349275-1786641181966-gettyimages-2154852749-img_8452.jpeg?v=1786641309&w=1920&h=1080",
             "publishedAt": "2026-08-14T12:15:01Z"
-        },
-        {
-            "source": {
-                "id": "9962a9b594044b42e892f4760e2dfd7e",
-                "name": "Sputnik News",
-                "url": "https://sputnikglobe.com",
-                "country": "ru"
-            },
-            "title": "Russia Suggests Strengthening BRICS Cooperation in AI, Digital Transformation",
-            "url": "https://sputnikglobe.com/20260814/russia-suggests-strengthening-brics-cooperation-in-ai-digital-transformation-1124577842.html",
-            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124577842.jpg?11224050891786708029",
-            "publishedAt": "2026-08-14T11:47:00Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Not Micron, Not Sandisk. This Artificial Intelligence (AI) Memory Stock Could Be the Next Nvidia.",
-            "url": "https://www.europesays.com/3193250/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/urlhttps3A2F2Fg.foolcdn.com2Feditorial2Fimages2F8828702Fsk-hynix-logo.pngw1200opresize.png",
-            "publishedAt": "2026-08-14T11:44:27Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Accenture LearnVantage and Galgotias University form industry-academia partnership to develop future-ready talent",
-            "url": "https://timesofindia.indiatimes.com/education/accenture-learnvantage-and-galgotias-university-form-industry-academia-partnership-to-develop-future-ready-talent/articleshow/133240024.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133240086,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-14T11:43:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI-skilled job postings more than double in Q1 FY27 as demand spreads beyond tech roles: Report",
-            "url": "https://economictimes.indiatimes.com/news/india/ai-skilled-job-postings-more-than-double-in-q1-fy27-as-demand-spreads-beyond-tech-roles-report/articleshow/133239626.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-133239625,width-1200,height-630,imgsize-173670,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-08-14T11:23:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Five Microsoft Labs to Transform AI Learning and Innovation Across MAHE",
-            "url": "https://www.tribuneindia.com/news/business/five-microsoft-labs-to-transform-ai-learning-and-innovation-across-mahe-2-2/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE2MmUxNDAwLTk3ZDItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-14T11:22:46Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Goldman Sachs Says AI Unlikely To Cause Widespread Job Losses In India, Services Sector Faces Risk",
-            "url": "https://www.freepressjournal.in/business/goldman-sachs-says-ai-unlikely-to-cause-widespread-job-losses-in-india-services-sector-faces-risk",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-03-14/j1q45ex0/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-03-14T063422.412.jpg",
-            "publishedAt": "2026-08-14T11:20:54Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI can change how students learn: Join Class 1 of AI for Academic Excellence, free on 15 August",
-            "url": "https://economictimes.indiatimes.com/industry/services/education/ai-can-change-how-students-learn-join-class-1-of-ai-for-academic-excellence-free-on-15-august-/articleshow/133238806.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-133239288,width-1200,height-630,imgsize-135228,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-08-14T11:11:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Tech layoffs 2026: AI drives mass job cuts; tech majors like Meta, Microsoft take lead",
-            "url": "https://www.livemint.com/companies/news/tech-layoffs-2026-ai-drives-mass-job-cuts-1-25-000-tech-majors-like-meta-microsoft-take-lead-11786700857349.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/pexels-photo-14606305_1786700800420_1786700851951_fba763fe-5547-4f94-9693-2136eb1f9c25.jpeg",
-            "publishedAt": "2026-08-14T10:48:34Z"
         }
     ]
 }
