@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-18T10:22:20.795247Z",
+    "lastUpdatedAt": "2026-08-18T11:20:10.230348Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Pentagon pressure to move AI faster drives Smack's new funding round, CEO says",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/18/pentagon-pressure-to-move-ai-faster-drives-smack039s-new-funding-round-ceo-says",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4064690.jpg",
+            "publishedAt": "2026-08-17T23:15:00Z"
+        },
+        {
+            "source": {
+                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+                "name": "The Sun",
+                "url": "https://www.thesun.co.uk",
+                "country": "gb"
+            },
+            "title": "Spending spree on AI skills to help turbocharge business growth, bank survey says",
+            "url": "https://www.thesun.co.uk/money/40084312/artificial-intelligence-firms-tech-lloyds-bank/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2026/06/message-reading-ai-artificial-intelligence-1085769011.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+            "publishedAt": "2026-08-17T23:01:00Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Money or power? The key to winning the U.S.-China AI race",
+            "url": "https://www.cnbc.com/2026/08/17/money-or-power-the-key-to-winning-the-us-china-ai-race.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350114-1786923132275-gettyimages-2289238743-AFP_C4A63CQ.jpeg?v=1786923189&w=1920&h=1080",
+            "publishedAt": "2026-08-17T23:00:01Z"
+        },
         {
             "source": {
                 "id": "9f53afb019d44feb16bcc7da150e679a",
@@ -1125,6 +1161,15 @@
             "url": "https://www.itpro.com/cloud/cloud-computing/agentic-ai-is-spurring-a-fundamental-shift-in-cloud-infrastructure-consumption",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/CbbpGhvJgeZMgcMmxS62j5-1280-80.jpg",
             "publishedAt": "2026-08-17 15:24:39"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "David Tepper's Latest AI Bet Is CoreWeave",
+            "url": "https://www.bundle.app/en/finance/david-teppers-latest-ai-bet-is-coreweave-E112003D-E755-4B26-9BA9-4DABB0DE22F2",
+            "urlToImage": "https://static.bundle.app/news/0cb54af5-ae60-5ca2-8733-83847e5e556f.jpg",
+            "publishedAt": "2026-08-17 13:43:27"
         },
         {
             "source": {
@@ -3420,54 +3465,6 @@
             "url": "https://www.tribuneindia.com/news/business/five-microsoft-labs-to-transform-ai-learning-and-innovation-across-mahe/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZkOWI1ZjEwLTk3YzAtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
             "publishedAt": "2026-08-14T09:13:28Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Five Microsoft Labs to Transform AI Learning and Innovation Across MAHE",
-            "url": "https://www.aninews.in/news/business/five-microsoft-labs-to-transform-ai-learning-and-innovation-across-mahe20260814143720/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260814090709-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-14T09:07:20Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "India's data centre capacity grows over four",
-            "url": "https://www.tribuneindia.com/news/business/indias-data-centre-capacity-grows-over-four-fold-to-1575-mw-since-2020/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTUwNDVhZDAwLTk3YmUtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-14T08:58:20Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "India's data centre capacity grows over four-fold to 1,575 MW since 2020",
-            "url": "https://www.aninews.in/news/business/indias-data-centre-capacity-grows-over-four-fold-to-1575-mw-since-202020260814142608/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260814085025-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-14T08:56:08Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "CA is here — you just don’t see it yet",
-            "url": "https://www.cnbctv18.com/business/finance/ai-ca-claude-accounting-auditing-professional-review-submission-technology-view-19969431.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/06/1781842142_wReSLmhsSV-artificial-intelligence-ai-may19jpg-KveajFrDFT.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-08-14T08:39:33Z"
         }
     ]
 }
