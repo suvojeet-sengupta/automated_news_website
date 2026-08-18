@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-08-18T12:35:03.120436Z",
+    "lastUpdatedAt": "2026-08-18T13:37:46.483399Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Alibaba launches AI music generation model HappyShrimp in beta",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/18/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4064270.JPG",
+            "publishedAt": "2026-08-18T01:00:00Z"
+        },
         {
             "source": {
                 "id": "85e5403407038478a5e7d8d100ff8e8f",
@@ -3453,18 +3465,6 @@
             "url": "https://en.protothema.gr/2026/08/14/new-eu-rules-on-the-use-of-artificial-intelligence-how-ai-generated-images-text-will-be-identified/",
             "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/08/generate-ai-1.jpg-1.jpg",
             "publishedAt": "2026-08-14T10:47:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI biotech company Cellular Intelligence names Arjun Raj its chief scientific officer",
-            "url": "https://timesofindia.indiatimes.com/world/us/ai-biotech-company-cellular-intelligence-names-arjun-raj-its-chief-scientific-officer/articleshow/133237590.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133237961,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-14T10:28:00Z"
         }
     ]
 }
