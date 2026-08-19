@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-08-19T20:20:21.099232Z",
+    "lastUpdatedAt": "2026-08-19T21:19:53.440859Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "China pushes back as US urges countries to pick sides in AI race",
+            "url": "https://www.thenews.com.pk/latest/1412775-china-pushes-back-as-us-urges-countries-to-pick-sides-in-ai-race",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-19/1412775_020533_updates.jpg",
+            "publishedAt": "2026-08-19T09:05:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "French tax office to use AI to probe vulnerabilities after hack",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/19/french-tax-office-to-use-ai-to-probe-vulnerabilities-after-hack",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/19/4067358.jpg",
+            "publishedAt": "2026-08-19T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            },
+            "title": "Artificial intelligence is Trump’s next cudgel against Canada on trade",
+            "url": "https://www.theglobeandmail.com/business/commentary/article-transshipment-artificial-intelligence-ai-trump-trade-usmca/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/B3AZ2TO4TVAC7E4Q7ATPHKRRTA.JPG?auth=0a97c33d35c5b69b964d37caec228cce0186c5fcf6b8facfbabadc79c7056ba4&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2026-08-19T08:58:04Z"
+        },
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "Europe can't afford to miss AI revolution - Lagarde",
+            "url": "https://www.rte.ie/news/business/2026/0819/1588478-europe-cant-afford-to-miss-ai-revolution-largarde/",
+            "urlToImage": "https://www.rte.ie/images/0024bf19-1600.jpg",
+            "publishedAt": "2026-08-19T08:56:25Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Team Plus Launches Remote AI Staffing Solutions For Global Tech Companies",
+            "url": "https://www.tribuneindia.com/news/business/team-plus-launches-remote-ai-staffing-solutions-for-global-tech-companies-2-2/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMyZDliNGIwLTliYWEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+            "publishedAt": "2026-08-19T08:39:01Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Skills remain key as Asia hiring outlook cools in third quarter",
+            "url": "https://www.bangkokpost.com/business/general/3304424/skills-remain-key-as-asia-hiring-outlook-cools-in-third-quarter",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260819/c1_3304424_260819152552_700.jpg",
+            "publishedAt": "2026-08-19T08:28:00Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "85 pc of AI developers rely on public cloud, 74.5 pc see enough choice among providers: Report",
+            "url": "https://www.lokmattimes.com/business/85-pc-of-ai-developers-rely-on-public-cloud-745-pc-see-enough-choice-among-providers-report/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608193910067_202608.jpg",
+            "publishedAt": "2026-08-19T08:23:55Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "85 pc of AI developers rely on public cloud, 74.5 pc see enough choice among providers: Report",
+            "url": "https://www.lokmattimes.com/technology/85-pc-of-ai-developers-rely-on-public-cloud-745-pc-see-enough-choice-among-providers-report-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608193910067_202608.jpg",
+            "publishedAt": "2026-08-19T08:23:55Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -480,6 +576,24 @@
             "url": "https://www.thehitavada.com//Encyc/2026/8/19/when-reality-becomes-optional-why-photography-must-defend-the-truth-in-the-age-of-artificial-intelligence.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/8/19/When-reality-becomes-optional_202608191126000686_H@@IGHT_600_W@@IDTH_1067.jpg",
             "publishedAt": "2026-08-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Balancing infrastructure priorities for AI integration",
+            "url": "https://www.techtarget.com/it-infrastructure/post/Balancing-infrastructure-priorities-for-AI-integration",
+            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/ai_g1183318665.jpg",
+            "publishedAt": "2026-08-19 09:18:00"
+        },
+        {
+            "source": {
+                "name": "aithority"
+            },
+            "title": "MLPerf Client v2.0 Expands AI PC Benchmarking with Image Generation and Agentic AI",
+            "url": "https://aithority.com/machine-learning/mlperf-client-v2-0-expands-ai-pc-benchmarking-with-image-generation-and-agentic-ai/",
+            "urlToImage": "https://aithority.com/wp-content/uploads/2026/08/ai-robot-artificial-intelligence-using-modish-600nw-2361304135.jpg",
+            "publishedAt": "2026-08-19 08:42:37"
         },
         {
             "source": {
@@ -3357,96 +3471,6 @@
             "url": "https://www.marketwatch.com/story/apples-stock-could-rise-30-if-it-strikes-an-nvidia-deal-for-ai-this-analyst-says-f5f5c861?mod=mw_rss_topstories",
             "urlToImage": "https://images.mktw.net/im-99723537",
             "publishedAt": "2026-08-17 16:00:00"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "What Meta's RE100 exit means for tech's clean energy commitments",
-            "url": "https://www.techtarget.com/sustainability/feature/What-Metas-RE100-exit-means-for-techs-clean-energy-commitments",
-            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/esg_a506458222.jpg",
-            "publishedAt": "2026-08-17 15:50:00"
-        },
-        {
-            "source": {
-                "name": "gfmag"
-            },
-            "title": "Best Treasury and Cash Management Providers 2026 | Systems and Services",
-            "url": "https://gfmag.com/award/award-winners/treasury-and-cash-management-2026-systems-services/",
-            "urlToImage": "https://gfmag.com/wp-content/uploads/2026/08/shutterstock_2757512927-scaled.jpg",
-            "publishedAt": "2026-08-17 15:42:20"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "Agentic AI is spurring a ‘fundamental shift’ in cloud infrastructure consumption",
-            "url": "https://www.itpro.com/cloud/cloud-computing/agentic-ai-is-spurring-a-fundamental-shift-in-cloud-infrastructure-consumption",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CbbpGhvJgeZMgcMmxS62j5-1280-80.jpg",
-            "publishedAt": "2026-08-17 15:24:39"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "David Tepper's Latest AI Bet Is CoreWeave",
-            "url": "https://www.bundle.app/en/finance/david-teppers-latest-ai-bet-is-coreweave-E112003D-E755-4B26-9BA9-4DABB0DE22F2",
-            "urlToImage": "https://static.bundle.app/news/0cb54af5-ae60-5ca2-8733-83847e5e556f.jpg",
-            "publishedAt": "2026-08-17 13:43:27"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "How Samsung is transforming ‘Back to School’ season into a launchpad for future AI masters",
-            "url": "https://timesofindia.indiatimes.com/technology/how-samsung-is-transforming-back-to-school-season-into-a-launchpad-for-future-ai-masters/articleshow/133297568.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-133297609/133297609.jpg",
-            "publishedAt": "2026-08-17 12:52:15"
-        },
-        {
-            "source": {
-                "name": "pennlive"
-            },
-            "title": "Wall Street's most unexpected AI winner isn't a chipmaker — it's Best Buy",
-            "url": "https://www.pennlive.com/business/2026/08/why-smart-glasses-ai-wearables-and-next-gen-pcs-could-quietly-transform-best-buys-fortunes.html",
-            "urlToImage": "https://www.pennlive.com/resizer/v2/U6A43UALERDFBGWPSN4WOOYJGY.jpg?auth=4c2bfdeb7bba6aad25b160c9b9187dbbd5d00aa0a967cb9ed8c8fc40b1171ed7&smart=true&height=1200",
-            "publishedAt": "2026-08-17 12:36:25"
-        },
-        {
-            "source": {
-                "name": "oregonlive"
-            },
-            "title": "Wall Street's most unexpected AI winner isn't a chipmaker — it's Best Buy",
-            "url": "https://www.oregonlive.com/trending/2026/08/why-smart-glasses-ai-wearables-and-next-gen-pcs-could-quietly-transform-best-buys-fortunes.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/v2/U6A43UALERDFBGWPSN4WOOYJGY.jpg?auth=4c2bfdeb7bba6aad25b160c9b9187dbbd5d00aa0a967cb9ed8c8fc40b1171ed7&smart=true&height=1200",
-            "publishedAt": "2026-08-17 12:36:25"
-        },
-        {
-            "source": {
-                "name": "masslive"
-            },
-            "title": "Wall Street's most unexpected AI winner isn't a chipmaker — it's Best Buy",
-            "url": "https://www.masslive.com/business/2026/08/why-smart-glasses-ai-wearables-and-next-gen-pcs-could-quietly-transform-best-buys-fortunes.html",
-            "urlToImage": "https://www.masslive.com/resizer/v2/U6A43UALERDFBGWPSN4WOOYJGY.jpg?auth=4c2bfdeb7bba6aad25b160c9b9187dbbd5d00aa0a967cb9ed8c8fc40b1171ed7&smart=true&height=1200",
-            "publishedAt": "2026-08-17 12:36:25"
-        },
-        {
-            "source": {
-                "name": "syracuse"
-            },
-            "title": "Wall Street's most unexpected AI winner isn't a chipmaker — it's Best Buy",
-            "url": "https://www.syracuse.com/us-news/2026/08/why-smart-glasses-ai-wearables-and-next-gen-pcs-could-quietly-transform-best-buys-fortunes.html",
-            "urlToImage": "https://www.syracuse.com/resizer/v2/U6A43UALERDFBGWPSN4WOOYJGY.jpg?auth=4c2bfdeb7bba6aad25b160c9b9187dbbd5d00aa0a967cb9ed8c8fc40b1171ed7&smart=true&height=1200",
-            "publishedAt": "2026-08-17 12:36:25"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "WhiteFiber Expands North Carolina Data Center Footprint with Agreement to Acquire Two New Development Sites",
-            "url": "https://www.prnewswire.com/news-releases/whitefiber-expands-north-carolina-data-center-footprint-with-agreement-to-acquire-two-new-development-sites-302852438.html",
-            "urlToImage": "https://mmx.prnewswire.com/media/MS1700748/WhiteFiber-Logo.jpg?id=OA2888487&p=original",
-            "publishedAt": "2026-08-17 12:00:00"
         }
     ]
 }
