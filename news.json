@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-08-19T02:18:15.652131Z",
+    "lastUpdatedAt": "2026-08-19T03:41:07.898189Z",
     "articles": [
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot",
+            "url": "https://www.mercurynews.com/2026/08/18/openai-chatgpt-for-teens/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/08/ChatGPT_Teens_33976.jpg?w=2000&h=1333",
+            "publishedAt": "2026-08-18T15:14:28Z"
+        },
+        {
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            },
+            "title": "AI beauty ratings raise concerns for young people",
+            "url": "https://www.koreatimes.co.kr/southkorea/20260819/ai-beauty-ratings-raise-concerns-for-young-people",
+            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/18/9b9acf2b-5703-439e-8e02-ab53494460d8.jpg",
+            "publishedAt": "2026-08-18T15:00:03Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "France to use AI tools to test cybsecurity vulnerabilities after tax agency hacking",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/18/france-to-use-ai-tools-to-test-cybsecurity-vulnerabilities-after-tax-agency-hacking",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4066235.jpg",
+            "publishedAt": "2026-08-18T14:46:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "French government to hire French AI providers such as Mistral, Minister says",
+            "url": "https://www.reuters.com/world/france-use-ai-tools-test-cybsecurity-vulnerabilities-after-tax-agency-hacking-2026-08-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/IMSOXHNRK5PRDACGMB6VSAUPXU.jpg?auth=d0a653fae0cae4caad8e2162c6e0fbe268bc0ac1b466f90a0016ca17c23ab731&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-08-18T14:40:38Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "DFRobot VP Speaks at TAMYZ FORUM 2026 on AI Education and Global Developer Ecosystem",
+            "url": "https://www.manilatimes.net/2026/08/18/tmt-newswire/pr-newswire/dfrobot-vp-speaks-at-tamyz-forum-2026-on-ai-education-and-global-developer-ecosystem/2407807",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/18/1181592.jpg",
+            "publishedAt": "2026-08-18T14:34:30Z"
+        },
+        {
+            "source": {
+                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
+                "name": "7NEWS Australia",
+                "url": "https://7news.com.au",
+                "country": "au"
+            },
+            "title": "Thousands of innocent Australians locked out by Meta's artificial intelligence safety bots",
+            "url": "https://7news.com.au/technology/thousands-of-innocent-australians-locked-out-by-metas-artificial-intelligence-safety-bots-c-22742851",
+            "urlToImage": "https://images.7news.com.au/publication/C-22742851/172b3a448817c4bba5b54b10206499737f04933a-16x9-x0y0w1280h720.png?imwidth=1200",
+            "publishedAt": "2026-08-18T14:30:51Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -876,6 +948,24 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/08/18/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4064270.JPG",
             "publishedAt": "2026-08-18T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "MLPerf Client v2.0 Expands AI PC Benchmarking with Image Generation and Agentic AI",
+            "url": "https://www.postregister.com/businessreport/technology/mlperf-client-v2-0-expands-ai-pc-benchmarking-with-image-generation-and-agentic-ai/article_f32b0ba3-84c7-513c-9cc3-3d66ef499d28.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2026-08-18 15:32:14"
+        },
+        {
+            "source": {
+                "name": "nynewscast"
+            },
+            "title": "MLPerf Client v2.0 Expands AI PC Benchmarking with Image Generation and Agentic AI",
+            "url": "https://nynewscast.com/mlperf-client-v2-0-expands-ai-pc-benchmarking-with-image-generation-and-agentic-ai-247960/",
+            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+            "publishedAt": "2026-08-18 15:29:00"
         },
         {
             "source": {
@@ -3333,102 +3423,6 @@
             "url": "https://www.thestar.com.my/news/nation/2026/08/16/scammers-embrace-ai-generated-love",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/16/4061731.jpeg",
             "publishedAt": "2026-08-15T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "AI, scams raise risks for Philippine banks",
-            "url": "https://www.manilatimes.net/2026/08/16/business/sunday-business-it/ai-scams-raise-risks-for-philippine-banks/2406146",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/15/1178022.jpg",
-            "publishedAt": "2026-08-15T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Deciphering signs of a love scam before it’s too late",
-            "url": "https://www.thestar.com.my/news/nation/2026/08/16/deciphering-signs-of-a-love-scam-before-its-too-late",
-            "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-            "publishedAt": "2026-08-15T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "45feb5d82cbb4a21911b36edd4bb175a",
-                "name": "Greater Kashmir",
-                "url": "https://www.greaterkashmir.com",
-                "country": "in"
-            },
-            "title": "Independence Day 2026: PM Modi announces series of initiatives, targets",
-            "url": "https://www.greaterkashmir.com/national/independence-day-2026-pm-modi-announces-series-of-initiatives-targets-12263668",
-            "urlToImage": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/07/11/pm-modi-2026-07-11-19-07-56.jpeg",
-            "publishedAt": "2026-08-15T15:58:15Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "Nvidia Is Turning Its Massive Cash Flow Into Another AI Growth Engine",
-            "url": "https://www.barchart.com/story/news/3870011/nvidia-is-turning-its-massive-cash-flow-into-another-ai-growth-engine",
-            "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Famous%20People/A%20photo%20of%20CEO%20Jensen%20Huang%20in%20front%20of%20the%20Nvidia%20logo%20by%20FotoField%20via%20Shutterstock.jpg",
-            "publishedAt": "2026-08-15T15:45:02Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Tesco’s India GCC transforms from a basic dashboard to cockpit in last 20 years",
-            "url": "https://www.thehindu.com/business/tescos-india-gcc-transforms-from-a-basic-dashboard-to-cockpit-in-last-20-years/article71322186.ece",
-            "urlToImage": "https://th-i.thgim.com/public/business/phq5vq/article71350260.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-15%20at%206.32.55%20PM_edited.jpg",
-            "publishedAt": "2026-08-15T15:13:32Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
-            "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344539-1785853710278-Traders-Photo-20260803-KK-PRESS-016.jpg?v=1785853829&w=1920&h=1080",
-            "publishedAt": "2026-08-15T14:22:54Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "PM Modi’s agriculture push can open new global opportunities for Indian farmers: Expert",
-            "url": "https://www.lokmattimes.com/business/pm-modis-agriculture-push-can-open-new-global-opportunities-for-indian-farmers-expert-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608153905822_202608.jpg",
-            "publishedAt": "2026-08-15T13:40:13Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Alibaba’s Qwen AI Models Cross 3 Billion Downloads, Surpass Google And Meta In Open-Source AI",
-            "url": "https://www.freepressjournal.in/business/alibabas-qwen-ai-models-cross-3-billion-downloads-surpass-google-and-meta-in-open-source-ai",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-08-15/jssrwkn4/images-22.jpg",
-            "publishedAt": "2026-08-15T12:18:01Z"
         }
     ]
 }
