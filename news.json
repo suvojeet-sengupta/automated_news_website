@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-08-19T08:30:30.100669Z",
+    "lastUpdatedAt": "2026-08-19T09:28:07.375272Z",
     "articles": [
+        {
+            "source": {
+                "id": "bc49d994b41ac710f5c89f6e6adeece4",
+                "name": "The Boston Herald",
+                "url": "https://www.bostonherald.com",
+                "country": "us"
+            },
+            "title": "OpenAI introduces ChatGPT for Teens",
+            "url": "https://www.bostonherald.com/2026/08/18/ticker-openai-introduces-chatgpt-for-teens/",
+            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/08/AP26229853333976.jpg?w=5528&h=3686",
+            "publishedAt": "2026-08-18T20:59:09Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "OMNIQ Corp. Issues Second Quarter 2026 Shareholder Letter and Reports Financial Results",
+            "url": "https://www.manilatimes.net/2026/08/19/tmt-newswire/globenewswire/omniq-corp-issues-second-quarter-2026-shareholder-letter-and-reports-financial-results/2407995",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/19/1181916.png",
+            "publishedAt": "2026-08-18T20:46:01Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "How to Choose Between Hiring AI Developers and Building a Dedicated AI Development Team",
+            "url": "https://techbullion.com/how-to-choose-between-hiring-ai-developers-and-building-a-dedicated-ai-development-team/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/08/image-40-3-1000x600.png",
+            "publishedAt": "2026-08-18T20:42:39Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Grasshopper-inspired AI boosts emergency resource prediction",
+            "url": "https://phys.org/news/2026-08-grasshopper-ai-boosts-emergency-resource.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/grasshopper.jpg",
+            "publishedAt": "2026-08-18T20:40:04Z"
+        },
         {
             "source": {
                 "id": "7f6e8514e9d8f8376aaa9a7229861518",
@@ -3387,54 +3435,6 @@
             "url": "https://www.tribuneindia.com/news/business/us-economic-mobility-outlook-hinges-on-financial-security-skills-and-stronger-community-support-mckinsey/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBmMmFiMDcwLTk5MmQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
             "publishedAt": "2026-08-16T04:43:36Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "US economic mobility outlook hinges on financial security, skills and stronger community support: McKinsey",
-            "url": "https://www.aninews.in/news/business/us-economic-mobility-outlook-hinges-on-financial-security-skills-and-stronger-community-support-mckinsey20260816100955/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260816042017-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-16T04:39:55Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Life in an IIT | ‘I was scared of science. Then I scored full marks in JEE Physics’",
-            "url": "https://indianexpress.com/article/education/life-in-iit-guwahati-aryan-gupta-jee-mains-advanced-garba-student-club-iit-journey-physics-percentile-10834869/",
-            "urlToImage": "https://images.indianexpress.com/2026/08/LIFE-IN-AN-IIT-guwahati-aryan.jpg",
-            "publishedAt": "2026-08-16T04:37:30Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power",
-            "url": "https://www.tribuneindia.com/news/business/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM0ZjlmYTcwLTk5MmEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-16T04:23:12Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power",
-            "url": "https://www.livemint.com/technology/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power-11786854040200.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
-            "publishedAt": "2026-08-16T04:20:39Z"
         }
     ]
 }
