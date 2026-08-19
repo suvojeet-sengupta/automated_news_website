@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-19T05:24:15.953380Z",
+    "lastUpdatedAt": "2026-08-19T06:35:16.243129Z",
     "articles": [
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "OpenAI is hardening AI testing and training in light of hacking incidents",
+            "url": "https://edition.cnn.com/2026/08/18/business/openai-testing-training",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236933779-20260818175505595.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-08-18T18:25:58Z"
+        },
+        {
+            "source": {
+                "id": "c9db5acf558cb3805c540ea4298687bc",
+                "name": "Shaw Local Enewspapers",
+                "url": "https://www.shawlocal.com",
+                "country": "us"
+            },
+            "title": "Campton Township man charged with using AI to create child sexual abuse images",
+            "url": "https://www.shawlocal.com/kane-county-chronicle/2026/08/18/campton-township-man-charged-with-using-ai-to-create-child-sexual-abuse-images/",
+            "urlToImage": "https://www.shawlocal.com/resizer/v2/KNMVG5JDWRE5LNVPG4UV5KLAPA.jpg?auth=c3ce09da5e1e951ff4b0b190dfddbe4a50cd599460deca859a4c37611af391aa&width=1200&height=630&focal=134%2C168",
+            "publishedAt": "2026-08-18T17:40:19Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Oral exams are making a comeback to stop AI cheating. But they have their own problems",
+            "url": "https://phys.org/news/2026-08-oral-exams-comeback-ai-problems.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/teacher-lecture.jpg",
+            "publishedAt": "2026-08-18T17:40:11Z"
+        },
         {
             "source": {
                 "id": "fd3677545b80d5db7541de8e111d27ba",
@@ -1092,6 +1128,24 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/08/18/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4064270.JPG",
             "publishedAt": "2026-08-18T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "MLPerf Client v2.0 Expands AI PC Benchmarking with Image Generation and Agentic AI",
+            "url": "https://www.hpcwire.com/off-the-wire/mlperf-client-v2-0-expands-ai-pc-benchmarking-with-image-generation-and-agentic-ai/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2023/09/mlcommons_pic.jpg",
+            "publishedAt": "2026-08-18 18:11:08"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "From AI pilots to production: Building governed AI systems for BFSI",
+            "url": "https://www.expresscomputer.in/guest-blogs/from-ai-pilots-to-production-building-governed-ai-systems-for-bfsi/137904/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/11/24153406/EC_06_Artificial_Intelligence_AI_Technology_750.jpg",
+            "publishedAt": "2026-08-18 17:51:49"
         },
         {
             "source": {
@@ -3384,51 +3438,6 @@
             "url": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg",
             "publishedAt": "2026-08-16T00:00:01Z"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "2026 FMS Shows Storage And Memory Market Continued Growth",
-            "url": "https://www.forbes.com/sites/tomcoughlin/2026/08/16/2026-fms-shows-storage-and-memory-market-continued-growth/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a8247b473899be8bfa49904/0x0.jpg",
-            "publishedAt": "2026-08-16 23:44:05"
-        },
-        {
-            "source": {
-                "name": "onlineindiannews"
-            },
-            "title": "India’s Position in AI: Where Does the Country Stand in 2026?",
-            "url": "https://www.onlineindiannews.com/india-position-in-ai-2026/",
-            "urlToImage": "https://www.onlineindiannews.com/new/wp-content/uploads/2026/08/corover.jpg",
-            "publishedAt": "2026-08-16 23:14:44"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "500 Blog Posts To Learn About Kubernetes",
-            "url": "https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-kubernetes-5B873DC8-5CDE-4C05-8CDE-C5D59C8EE970",
-            "urlToImage": "https://static.bundle.app/news/0a30489d-6ad2-52ad-90ef-d73a6f34299b.jpg",
-            "publishedAt": "2026-08-16 22:45:16"
-        },
-        {
-            "source": {
-                "name": "autoconnectedcar"
-            },
-            "title": "Connected Car News: Stoneridge, Geotab, E Ink, BMW, Kinetic Technologies, Flock Safety, Magna, Ford & Lincoln",
-            "url": "https://www.autoconnectedcar.com/2026/08/connected-car-news-stoneridge-geotab-e-ink-bmw-kinetic-technologies-flock-safety-magna-ford-lincoln/",
-            "urlToImage": "https://cdn.autoconnectedcar.com/wp-content/uploads/2016/02/embeddedchipstipstiny.png",
-            "publishedAt": "2026-08-16 22:16:53"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "500 Blog Posts To Learn About Kubernetes",
-            "url": "https://hackernoon.com/500-blog-posts-to-learn-about-kubernetes",
-            "urlToImage": "https://cdn.hackernoon.com/images/github/kubernetes-9.png",
-            "publishedAt": "2026-08-16 20:00:07"
         }
     ]
 }
