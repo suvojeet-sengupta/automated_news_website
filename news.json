@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-08-20T08:31:21.176643Z",
+    "lastUpdatedAt": "2026-08-20T09:28:19.128502Z",
     "articles": [
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            },
+            "title": "AI researcher Sanja Fidler raises US$90-million for robotics startup",
+            "url": "https://www.theglobeandmail.com/business/article-sanja-fidler-veeda-innovation-nvidia-ai-robotics-training-toronto/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/XW3QQ2Q3ABAWJGCOKTZ5CAOWA4.JPG?auth=175cec875b88e443d30dff417e913b2a9440381e79852b39a708e9ecb88de4fb&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2026-08-19T20:58:35Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -1224,6 +1236,24 @@
             "url": "https://www.thehitavada.com//Encyc/2026/8/19/when-reality-becomes-optional-why-photography-must-defend-the-truth-in-the-age-of-artificial-intelligence.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/8/19/When-reality-becomes-optional_202608191126000686_H@@IGHT_600_W@@IDTH_1067.jpg",
             "publishedAt": "2026-08-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "bloomberg"
+            },
+            "title": "US vs China AI Race: How ChatGPT, Gemini, Deepseek, Kimi Agents Compare",
+            "url": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix.FrxohWBio/v0/1200x630.png",
+            "publishedAt": "2026-08-19 21:00:01"
+        },
+        {
+            "source": {
+                "name": "techbooky"
+            },
+            "title": "Meta And Nigeria Build AI Academy To Turn Training Into Startups",
+            "url": "https://www.techbooky.com/meta-nigeria-ai-academy-training-startups/",
+            "urlToImage": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/08/19213910/Meta-FMCIDE-3MTT-and-RAIN-Partner-900x600-1-800x500-1.webp",
+            "publishedAt": "2026-08-19 20:39:56"
         },
         {
             "source": {
@@ -3417,42 +3447,6 @@
             "url": "https://www.manilatimes.net/2026/08/18/regions/norwegian-firm-pulls-out-ai-data-center-proposal/2406983",
             "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/17/1180009.jpg",
             "publishedAt": "2026-08-17T16:10:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Emerging markets march out of ‘valley of tears’",
-            "url": "https://www.manilatimes.net/2026/08/18/business/foreign-business/emerging-markets-march-out-of-valley-of-tears/2407015",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/17/1180114.jpg",
-            "publishedAt": "2026-08-17T16:01:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Emerging markets march out of ‘valley of tears’",
-            "url": "https://www.manilatimes.net/2026/08/18/business/foreign-business/emerging-markets-march-out-of-valley-of-tears/2406903",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/17/1179789.jpg",
-            "publishedAt": "2026-08-17T16:01:00Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "TikTok owner ByteDance signs Motion Picture Association deal",
-            "url": "https://www.socialmediatoday.com/news/tiktok-owner-bytedance-signs-motion-picture-association-deal/828088/",
-            "urlToImage": "https://imgproxy.divecdn.com/rW5kNhacJ_x9M0Nm09MX4DhJZckixjoqeXQLe6h9o5w/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tcGFfdGlrdG9rLnBuZw==.webp",
-            "publishedAt": "2026-08-17T15:54:53Z"
         }
     ]
 }
