@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-08-20T21:22:02.190718Z",
+    "lastUpdatedAt": "2026-08-20T22:20:51.502240Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Contributor: Stop shaming the use of AI. For some with disabilities, it's a godsend",
+            "url": "https://www.latimes.com/opinion/story/2026-08-20/artificial-intelligence-writing-disability",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/a0ce69f/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F56%2F7f%2F8ba6e16449d19ce91d5df9b29d00%2F1298533103.jpg",
+            "publishedAt": "2026-08-20T10:17:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/how-a-texas-student-blew-the-whistle-on-a-rogue-ai-hacking-attempt/articleshow/133373762.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133373831,width-1200,height-630,imgsize-1281140,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-20T10:16:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Alibaba reports 9% rise in quarterly revenue",
+            "url": "https://economictimes.indiatimes.com/tech/technology/alibaba-reports-9-rise-in-quarterly-revenue/articleshow/133373637.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2102799,resizemode-75,msid-133373637/tech/technology/alibaba-reports-9-rise-in-quarterly-revenue.jpg",
+            "publishedAt": "2026-08-20T10:08:19Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+            "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/GFNC2EQNWJMOZMUPZM64EHOTIU.jpg?auth=2d26e3f2b24b5cd07e0430fb9b389521ff44e221e876af73dc4042359a10ebd4&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-08-20T10:05:42Z"
+        },
+        {
+            "source": {
+                "id": "21429acfcc768f50c40264e7c8cbe16c",
+                "name": "National Post",
+                "url": "https://nationalpost.com",
+                "country": "ca"
+            },
+            "title": "News Corp. leads the way in the battle against AI theft",
+            "url": "https://nationalpost.com/opinion/news-corp-leads-the-way-in-the-battle-against-ai-theft",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/08/GettyImages-1728659906.jpg",
+            "publishedAt": "2026-08-20T10:00:07Z"
+        },
+        {
+            "source": {
+                "id": "eba2f6a49db29efc8343807ba675665f",
+                "name": "NewsBytes",
+                "url": "https://www.newsbytesapp.com",
+                "country": "in"
+            },
+            "title": "UC Berkeley professor admits using AI in op-ed criticizing students",
+            "url": "https://www.newsbytesapp.com/news/science/us-professor-uses-ai-in-op-ed-slamming-students-math-skills/story",
+            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l84920260820150131.jpeg",
+            "publishedAt": "2026-08-20T09:32:09Z"
+        },
+        {
+            "source": {
+                "id": "94e9a9cb0a0fac470baf1800e3521d4d",
+                "name": "EUobserver",
+                "url": "https://euobserver.com",
+                "country": "fr"
+            },
+            "title": "Who profits from banking’s AI moment?",
+            "url": "https://euobserver.com/232859/who-profits-from-bankings-ai-moment/",
+            "urlToImage": "https://static.euobserver.com/2026/08/nguyen-dang-hoang-nhu-tlnXTrg6D3s-unsplash-2400x1600.jpg",
+            "publishedAt": "2026-08-20T09:27:47Z"
+        },
         {
             "source": {
                 "id": "79e9a45376a66fd7e1a4e68bba928c39",
@@ -3408,69 +3492,6 @@
             "url": "https://www.hpcwire.com/off-the-wire/mlperf-client-v2-0-expands-ai-pc-benchmarking-with-image-generation-and-agentic-ai/",
             "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2023/09/mlcommons_pic.jpg",
             "publishedAt": "2026-08-18 18:11:08"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "From AI pilots to production: Building governed AI systems for BFSI",
-            "url": "https://www.expresscomputer.in/guest-blogs/from-ai-pilots-to-production-building-governed-ai-systems-for-bfsi/137904/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/11/24153406/EC_06_Artificial_Intelligence_AI_Technology_750.jpg",
-            "publishedAt": "2026-08-18 17:51:49"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "What is AWS Trainium?",
-            "url": "https://www.itpro.com/infrastructure/what-is-aws-trainium",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/re6EmQSf4nMedPZYqUgpcH-1280-80.jpg",
-            "publishedAt": "2026-08-18 16:09:38"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "MLPerf Client v2.0 Expands AI PC Benchmarking with Image Generation and Agentic AI",
-            "url": "https://www.postregister.com/businessreport/technology/mlperf-client-v2-0-expands-ai-pc-benchmarking-with-image-generation-and-agentic-ai/article_f32b0ba3-84c7-513c-9cc3-3d66ef499d28.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2026-08-18 15:32:14"
-        },
-        {
-            "source": {
-                "name": "nynewscast"
-            },
-            "title": "MLPerf Client v2.0 Expands AI PC Benchmarking with Image Generation and Agentic AI",
-            "url": "https://nynewscast.com/mlperf-client-v2-0-expands-ai-pc-benchmarking-with-image-generation-and-agentic-ai-247960/",
-            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-            "publishedAt": "2026-08-18 15:29:00"
-        },
-        {
-            "source": {
-                "name": "infotechlead"
-            },
-            "title": "Baidu Q2 2026 AI Business Revenue Jumps 25% to RMB 12.5 Billion as GPU Cloud Surges 283%",
-            "url": "https://infotechlead.com/cloud/baidu-q2-2026-ai-business-revenue-jumps-25-to-rmb-12-5-billion-as-gpu-cloud-surges-283-97831",
-            "urlToImage": "https://infotechlead.com/wp-content/uploads/2026/08/Baidu-AI-Cloud-Infra-revenue-in-Q2-2026.jpg",
-            "publishedAt": "2026-08-18 13:55:36"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "Warning to enterprises: Vibe coding can be a threat",
-            "url": "https://www.computerworld.com/article/4210633/warning-to-enterprises-vibe-coding-can-be-a-threat.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2026/08/4210633-0-71200100-1787051023-shutterstock_2469670095.jpg?quality=50&strip=all",
-            "publishedAt": "2026-08-18 11:00:00"
-        },
-        {
-            "source": {
-                "name": "news18"
-            },
-            "title": "AI Is Moving Fast In Classrooms. Are India’s Computer Science Teachers Ready?",
-            "url": "https://www.news18.com/education-career/ai-is-moving-fast-in-classrooms-are-indias-computer-science-teachers-ready-ws-e-10277152.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/08/image-2026-08-f3cd9539266c4d732f59229461abd867-1200x800.jpg",
-            "publishedAt": "2026-08-18 10:28:14"
         }
     ]
 }
