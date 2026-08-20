@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-20T13:41:04.193526Z",
+    "lastUpdatedAt": "2026-08-20T14:30:14.744260Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/us-warns-siemens-devices-can-be-hacked-amid-fears-iran-is-breaching-water-plants/articleshow/133361876.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133361900,width-1200,height-630,imgsize-149986,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-20T02:08:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool",
+            "url": "https://www.reuters.com/business/finance/citi-hsbc-stanchart-adopt-ant-internationals-forex-ai-tool-2026-08-20/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/G45G3BIJ65I7LEM3327HK6QNOM.jpg?auth=1c53e3344d995ffc0211437c5c3bfda1d484d7b9a36ea88db4b8f328b004a109&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-08-20T02:06:12Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "OpenAI to enhance safety processes for paid tool customers",
+            "url": "https://www.thehindubusinessline.com/info-tech/openai-to-enhance-safety-processes-for-paid-tool-customers/article71367607.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/sih868/article71367612.ece/alternates/LANDSCAPE_1200/2026-08-18T115114Z_956305570_RC2URLA2ZZCN_RTRMADP_3_OPENAI-SAFETY-TEENS.JPG",
+            "publishedAt": "2026-08-20T02:00:35Z"
+        },
         {
             "source": {
                 "id": "95a96a1867c4dac6f720e9d08d4c1b96",
@@ -36,6 +72,15 @@
             "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108019082-1723463960946-gettyimages-1388181678-japaneseflagoncpu.jpeg?v=1731479400&w=1920&h=1080",
             "publishedAt": "2026-08-20T00:01:01Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Why Google’s AI Architect Tells Young People to Stop Chasing Mastery and Start Skimming Papers",
+            "url": "https://www.webpronews.com/why-googles-ai-architect-tells-young-people-to-stop-chasing-mastery-and-start-skimming-papers/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/08/article-23955-1787171796.jpeg",
+            "publishedAt": "2026-08-20 01:52:07"
         },
         {
             "source": {
@@ -3393,54 +3438,6 @@
             "url": "https://www.timesnownews.com/world/us/us-news/uk-pm-andy-burnham-duped-susie-wiles-white-house-hack-trump-chief-of-staff-article-155720242",
             "urlToImage": "https://images.timesnownews.com/thumb/msid-155720301,thumbsize-66012,width-1280,height-720,resizemode-75/155720301.jpg",
             "publishedAt": "2026-08-17T18:37:51Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "AI splits tech hiring into builders & adopters",
-            "url": "https://www.financialexpress.com/business/industry-ai-splits-tech-hiring-into-builders-amp-adopters-4319870/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/08/Artificial-intelligence_20251109140415_20251121073953_20251123145912_20251217192848_20251219144708_20260220141953_20260227203818_20260703183355_20260704120044_20260718192416_20260731135805_20260811174232_20260817183335.jpg",
-            "publishedAt": "2026-08-17T18:33:58Z"
-        },
-        {
-            "source": {
-                "id": "2b5db686603d0197d748f18d2dc01aec",
-                "name": "Bloomberg Tax News",
-                "url": "https://news.bloombergtax.com",
-                "country": "us"
-            },
-            "title": "OpenAI to Fund Think Tank’s Study On Options for Taxing AI",
-            "url": "https://news.bloombergtax.com/daily-tax-report/openai-to-fund-think-tanks-study-on-options-for-taxing-ai",
-            "urlToImage": "https://bwrite-static.bloombergindustry.com/dims4/default/44943aa/2147483647/crop/6098x2350+0+157/resize/960x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F80%2F4b%2F316eebe443dc98e8aa12f7d3c3c3%2Fgettyimages-2032109653-1.jpg",
-            "publishedAt": "2026-08-17T18:09:06Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI companies look to the ocean as a place to put more data centers",
-            "url": "https://phys.org/news/2026-08-ai-companies-ocean-centers.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/data-center-4.jpg",
-            "publishedAt": "2026-08-17T18:00:11Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "After weeks of shaky ground, AI related stocks are on the rise again-Here's what Elon Musk's post indicates about trend",
-            "url": "https://www.livemint.com/market/stock-market-news/ai-stocks-rise-after-weeks-down-elon-musk-indicates-if-market-trend-will-continue-memory-sk-hynix-micron-sandisk-samsung-11786983343642.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/USA-CHINA-NVIDIA-4_1746584994308_1786988582227_1e4f887a-d6e3-4cc1-92f1-1a8fd941bfec.JPG",
-            "publishedAt": "2026-08-17T17:49:59Z"
         }
     ]
 }
