@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-20T11:21:11.352711Z",
+    "lastUpdatedAt": "2026-08-20T12:37:16.851989Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
+            "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108019082-1723463960946-gettyimages-1388181678-japaneseflagoncpu.jpeg?v=1731479400&w=1920&h=1080",
+            "publishedAt": "2026-08-20T00:01:01Z"
+        },
+        {
+            "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+            },
+            "title": "Artificial intelligence can be friend and foe",
+            "url": "https://www.sbs.com.au/language/german/en/podcast-episode/artificial-intelligence-can-be-friend-and-foe/wqzrztv0r",
+            "urlToImage": "https://assets.sbs.com.au/dims4/default/d05a972/2147483647/strip/true/crop/704x396+0+1/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fdrupal%2Fyourlanguage%2Fpublic%2Fpodcast_images%2Fai_0.jpg",
+            "publishedAt": "2026-08-19T23:33:04Z"
+        },
         {
             "source": {
                 "id": "95a96a1867c4dac6f720e9d08d4c1b96",
@@ -3417,30 +3441,6 @@
             "url": "https://www.tribuneindia.com/news/business/sebi-cyber-defence-symposium-highlights-need-for-ai-led-resilience-cybersecurity-skills/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVkMDU5MWYwLTlhNWMtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
             "publishedAt": "2026-08-17T16:58:46Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "SEBI Cyber Defence Symposium highlights need for AI-led resilience, cybersecurity skills",
-            "url": "https://www.aninews.in/news/business/sebi-cyber-defence-symposium-highlights-need-for-ai-led-resilience-cybersecurity-skills20260817222808/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260817153636-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-17T16:58:08Z"
-        },
-        {
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            },
-            "title": "Fortinet, IBD Stock Of The Day, Steps Up AI Acquisitions To Build Cloud Platform",
-            "url": "https://www.investors.com/research/ibd-stock-of-the-day/fortinet-stock-artificial-intelligence-acquisition/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2026/08/sotd-for-08-17-2026-desktop.png",
-            "publishedAt": "2026-08-17T16:55:45Z"
         }
     ]
 }
