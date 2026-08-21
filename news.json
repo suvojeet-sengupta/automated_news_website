@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-08-21T22:18:09.661736Z",
+    "lastUpdatedAt": "2026-08-21T23:18:15.433714Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Analysis-US corporate AI debt surge tests investor limits as fatigue emerges",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/21/analysis-us-corporate-ai-debt-surge-tests-investor-limits-as-fatigue-emerges",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4071618.jpg",
+            "publishedAt": "2026-08-21T10:20:00Z"
+        },
         {
             "source": {
                 "id": "85e5403407038478a5e7d8d100ff8e8f",
@@ -480,6 +492,15 @@
             "url": "https://www.thehindu.com/life-and-style/artificial-intelligence-ai-lines-i-wont-cross-sima-kumar-skill-set-creativity-critical-thinking/article71363873.ece",
             "urlToImage": "https://th-i.thgim.com/public/life-and-style/178f09/article71368576.ece/alternates/LANDSCAPE_1200/AI%20and%20the%20lines%20I%20won%E2%80%99t%20cross.png",
             "publishedAt": "2026-08-21T00:40:00Z"
+        },
+        {
+            "source": {
+                "name": "itdigest"
+            },
+            "title": "GitLab Expands Agentic AI Across Software Delivery to Accelerate Enterprise Development",
+            "url": "https://itdigest.com/information-communications-technology/it-and-devops/gitlab-expands-agentic-ai-across-software-delivery-to-accelerate-enterprise-development/",
+            "urlToImage": "https://itdigest.com/wp-content/uploads/2026/08/GitLab-Scales-Agentic-AI-Across-Trusted-Software-Delivery-Workflows.webp",
+            "publishedAt": "2026-08-21 10:55:11"
         },
         {
             "source": {
@@ -3429,24 +3450,6 @@
             "url": "https://fortune.com/article/princeton-ai-snake-oil-author-future-of-work-thinking-machines/",
             "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/arvind.png?w=2048",
             "publishedAt": "2026-08-19 07:00:00"
-        },
-        {
-            "source": {
-                "name": "techbooky"
-            },
-            "title": "Google’s AI Ad Labels Put Marketers On Notice",
-            "url": "https://www.techbooky.com/google-ai-ad-labels-marketers-compliance/",
-            "urlToImage": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/08/19073522/Expanding_AI_transparency_hero.width-1600.format-webp.webp",
-            "publishedAt": "2026-08-19 06:38:55"
-        },
-        {
-            "source": {
-                "name": "eletimes_ai"
-            },
-            "title": "Nuvoton Launches Mass Production of 16-Cell Battery Monitoring ICs with Daisy-Chain Communication for AI Servers",
-            "url": "https://www.eletimes.ai/nuvoton-launches-mass-production-of-16-cell-battery-monitoring-ics-with-daisy-chain-communication-for-ai-servers",
-            "urlToImage": "https://www.eletimes.ai/wp-content/uploads/2026/08/Nuvoton-Launches-Mass-Production-of-16-Cell-Battery-Monitoring-ICs-with-Daisy-Chain-Communication-for-AI-Servers.png",
-            "publishedAt": "2026-08-19 06:30:21"
         }
     ]
 }
