@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-08-21T01:00:36.633571Z",
+    "lastUpdatedAt": "2026-08-21T02:57:23.887357Z",
     "articles": [
+        {
+            "source": {
+                "id": "e3cad7a35669a0f5933fa172f5aa2e41",
+                "name": "Albuquerque Journal",
+                "url": "https://www.abqjournal.com",
+                "country": "us"
+            },
+            "title": "Bubonicon 57 celebrates androids, robots and A.I. with authors Patricia Briggs and Martha Wells",
+            "url": "https://www.abqjournal.com/lifestyles/these-are-the-droids-youre-looking-for/3104572",
+            "urlToImage": "https://image.abqjournal.com/3104686.jpg?imageId=3104686&x=0&y=1.12&cropw=100&croph=48.31&panox=0&panoy=1.12&panow=100&panoh=48.31&width=1200&height=683",
+            "publishedAt": "2026-08-20T14:45:00Z"
+        },
+        {
+            "source": {
+                "id": "97497c18f5cb431f5f324b3d8643c24f",
+                "name": "The Independent",
+                "url": "https://www.independent.co.uk",
+                "country": "gb"
+            },
+            "title": "Artificial intelligence helps man win landmark employment case",
+            "url": "https://www.independent.co.uk/news/world/australasia/artificial-intelligence-law-case-australia-b3036435.html",
+            "urlToImage": "https://static.independent.co.uk/2026/08/20/13/48/iStock-1995289625.jpeg?trim=0,27,0,27&width=1200&height=800&crop=1200:800",
+            "publishedAt": "2026-08-20T14:28:22Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "American billionaire Mark Cuban on how he will use Claude, ChatGPT and Gemini if he was a doctor",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/american-billionaire-mark-cuban-on-how-he-will-use-claude-chatgpt-and-gemini-if-he-was-a-doctor/articleshow/133380454.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133380466,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-20T14:21:00Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Meta emerges as a major Microsoft Azure AI customer: What to know",
+            "url": "https://www.thenews.com.pk/latest/1412944-meta-emerges-as-a-major-microsoft-azure-ai-customer-what-to-know",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-20/1412944_070022_updates.jpg",
+            "publishedAt": "2026-08-20T14:00:00Z"
+        },
+        {
+            "source": {
+                "id": "924bf3bd483540da3b42eafbf67d09e3",
+                "name": "RubberWorld",
+                "url": "https://rubberworld.com",
+                "country": "us"
+            },
+            "title": "Using artificial intelligence in research and development: Opportunities and pitfalls",
+            "url": "https://rubberworld.com/using-artificial-intelligence-in-research-and-development-opportunities-and-pitfalls/",
+            "urlToImage": "https://rubberworld.com/wp-content/uploads/2026/08/RUbberAI.png",
+            "publishedAt": "2026-08-20T13:21:46Z"
+        },
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            },
+            "title": "CIBC appoints Prasanna Gopalakrishnan to board of directors",
+            "url": "https://www.theglobeandmail.com/business/article-cibc-appoints-prasanna-gopalakrishnan-to-board-of-directors/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/3QUNSZR545HV7PT6U64SSJWSHY.JPG?auth=162c00ca683a3c552fe73b6a3f3a69529941cd3dd62067b7a2c5723db3ad3da4&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2026-08-20T13:10:26Z"
+        },
         {
             "source": {
                 "id": "49853ffafc28f405ff8ed06043290ae8",
@@ -495,6 +567,18 @@
         },
         {
             "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "IIT Kharagpur’s next 75-year plan: Education 5.0, AI, deep tech and new PhD pathways",
+            "url": "https://indianexpress.com/article/education/iit-kharagpurs-next-75-year-plan-education-5-0-ai-deep-tech-and-new-phd-pathways-10841245/",
+            "urlToImage": "https://images.indianexpress.com/2026/08/iit-kharagpur.jpg",
+            "publishedAt": "2026-08-20T05:27:34Z"
+        },
+        {
+            "source": {
                 "id": "79e9a45376a66fd7e1a4e68bba928c39",
                 "name": "The Atlanta Journal-Constitution",
                 "url": "https://www.ajc.com",
@@ -636,6 +720,15 @@
             "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108019082-1723463960946-gettyimages-1388181678-japaneseflagoncpu.jpeg?v=1731479400&w=1920&h=1080",
             "publishedAt": "2026-08-20T00:01:01Z"
+        },
+        {
+            "source": {
+                "name": "gizmochina"
+            },
+            "title": "Tensor G6 vs Snapdragon 8 Elite Gen 5: Benchmark score, spec sheet, and more",
+            "url": "https://www.gizmochina.com/2026/08/20/tensor-g6-vs-snapdragon-8-elite-gen-5-benchmark-score-spec-sheet-more/",
+            "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2026/08/Tensor-G6-vs-Snapdragon-8-Elite-Gen-5.png",
+            "publishedAt": "2026-08-20 14:55:02"
         },
         {
             "source": {
@@ -3399,102 +3492,6 @@
             "url": "https://www.malaymail.com/news/money/2026/08/18/spirits-bankrupt-but-its-data-is-flying-high-after-us10m-google-deal/231773",
             "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/08/18/357625.jpg",
             "publishedAt": "2026-08-18T05:27:21Z"
-        },
-        {
-            "source": {
-                "id": "027234d3c0a6aefa3d7ab81380e63d86",
-                "name": "LBC",
-                "url": "https://www.lbc.co.uk",
-                "country": "gb"
-            },
-            "title": "More police calls to be answered by AI chatbots - to filter out pothole complaints",
-            "url": "https://www.lbc.co.uk/article/police-calls-ai-chatbots-pothole-complaints-5HjdgDX_2/",
-            "urlToImage": "https://images.globalplayer.com/images/835711?crop=16_9&width=1200&signature=l7Ig_IHbGnCWSLeu0pKW7Sn5c38=",
-            "publishedAt": "2026-08-18T05:18:05Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Tech Behind It: A Modern Destination for Technology News, AI Insights, Gadgets, and Digital Innovation",
-            "url": "https://www.tribuneindia.com/news/business/tech-behind-it-a-modern-destination-for-technology-news-ai-insights-gadgets-and-digital-innovation/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWEzY2MyMDAwLTlhYzMtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-18T05:14:00Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Tech Behind It: A Modern Destination for Technology News, AI Insights, Gadgets, and Digital Innovation",
-            "url": "https://www.aninews.in/news/business/tech-behind-it-a-modern-destination-for-technology-news-ai-insights-gadgets-and-digital-innovation20260818104229/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260818051157-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-18T05:12:29Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Mavrix Makes the Case for Trusted Human Evidence in the AI Era at Quirk's New York",
-            "url": "https://www.tribuneindia.com/news/business/mavrix-makes-the-case-for-trusted-human-evidence-in-the-ai-era-at-quirks-new-york/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ5Nzc2NzEwLTlhYzItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-18T05:08:20Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Mavrix Makes the Case for Trusted Human Evidence in the AI Era at Quirk's New York",
-            "url": "https://www.aninews.in/news/business/mavrix-makes-the-case-for-trusted-human-evidence-in-the-ai-era-at-quirks-new-york20260818103806/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260818050743-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-18T05:08:06Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AI infrastructure, not algorithms, emerging as key AI growth constraint: Nvidias Jensen Huang",
-            "url": "https://www.livemint.com/technology/ai-infrastructure-not-algorithms-emerging-as-key-ai-growth-constraint-nvidias-jensen-huang-11787028020862.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
-            "publishedAt": "2026-08-18T04:40:20Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Hidden layer of Battery-as-a-Service",
-            "url": "https://www.hindustantimes.com/ht-insight/future-tech/hidden-layer-of-batteryasaservice-101787027113757.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/08/18/1600x900/logo/photo-1753513291124-4f615bf1f6de_1785344739425_1787027199210_ffe4ab5a-002b-45d8-a064-6be4a9577a2a.jpg",
-            "publishedAt": "2026-08-18T04:39:51Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI infrastructure, not algorithms, emerging as key AI growth constraint: Nvidia's Jensen Huang",
-            "url": "https://www.tribuneindia.com/news/business/ai-infrastructure-not-algorithms-emerging-as-key-ai-growth-constraint-nvidias-jensen-huang/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIwYTNiYWUwLTlhYmUtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-18T04:38:34Z"
         }
     ]
 }
