@@ -1,5 +1,5 @@
 {
-    "lastUpdatedAt": "2026-08-21T09:30:52.684260Z",
+    "lastUpdatedAt": "2026-08-21T10:23:57.019067Z",
     "articles": [
         {
             "source": {
@@ -12,6 +12,18 @@
             "url": "https://www.live5news.com/2026/08/20/charleston-county-school-district-launches-ai-resource-hub/",
             "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/AUKWX2BQCBFTBDECEWQBSZKMVU.jpg?auth=fb29d0c10db3a039c84c971f75fabe02a8c1d4f973d713bf85b2e61c485370a8&width=1200&height=600&smart=true",
             "publishedAt": "2026-08-20T21:20:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms",
+            "url": "https://www.reuters.com/world/americas/brazil-launches-ai-supercomputer-push-splits-projects-between-chinese-us-firms-2026-08-20/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/XZAB6W45Y5OAZD56STZWTO6HUI.jpg?auth=91315eff901d7290002b50dc0ef579c18922b0b2386db4d359ef9bc617fdaea4&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-08-20T21:07:31Z"
         },
         {
             "source": {
@@ -1032,6 +1044,15 @@
             "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108019082-1723463960946-gettyimages-1388181678-japaneseflagoncpu.jpeg?v=1731479400&w=1920&h=1080",
             "publishedAt": "2026-08-20T00:01:01Z"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Cloudera unveils Anywhere Cloud as enterprises pull AI back on-premises",
+            "url": "https://www.computerweekly.com/news/366649445/Cloudera-unveils-Anywhere-Cloud-as-enterprises-pull-AI-back-on-premises",
+            "urlToImage": "https://cdn.ttgtmedia.com/visuals/German/article/data-lake-2-adobe.jpg",
+            "publishedAt": "2026-08-20 22:19:00"
         },
         {
             "source": {
@@ -3462,30 +3483,6 @@
             "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-reveals-using-ai-in-his-music-projects-says-keep-it-under-control/articleshow/133319234.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-133319292,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-08-18T10:34:00Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "New AI Engine Aims to Make Defense Decisions More Traceable",
-            "url": "https://www.europesays.com/3201061/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/1000w_q95-1.jpeg",
-            "publishedAt": "2026-08-18T10:15:28Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Man arrested for posting 'objectionable' AI video of Shah, Adityanath",
-            "url": "https://www.dailyexcelsior.com/man-arrested-for-posting-objectionable-ai-video-of-shah-adityanath/",
-            "urlToImage": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWU5NGU4MjUwLTlhZTktMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-18T09:48:04Z"
         }
     ]
 }
