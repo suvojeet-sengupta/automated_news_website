@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-08-21T04:32:27.703104Z",
+    "lastUpdatedAt": "2026-08-21T05:27:12.613124Z",
     "articles": [
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+            "url": "https://www.europesays.com/3205495/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/plc.jpg",
+            "publishedAt": "2026-08-20T17:17:23Z"
+        },
+        {
+            "source": {
+                "id": "4bff0292330df9581a5e2014068ca2d2",
+                "name": "FOX 4 News",
+                "url": "https://www.fox4news.com",
+                "country": "us"
+            },
+            "title": "One monthly bill Americans can’t avoid is quietly surging thanks to emerging industry",
+            "url": "https://www.fox4news.com/news/electric-bills-quietly-surging-data-centers",
+            "urlToImage": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/power-worker-lines.jpeg?ve=1&tl=1",
+            "publishedAt": "2026-08-20T17:13:06Z"
+        },
+        {
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            },
+            "title": "PM Narendra Modi chairs third high-level meeting with Secretaries to Government of India",
+            "url": "https://www.moneycontrol.com/news/india/pm-narendra-modi-chairs-third-high-level-meeting-with-secretaries-to-government-of-india-14011845.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/02/20260215124410_narendramodipti.png",
+            "publishedAt": "2026-08-20T17:08:26Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "PM Modi asks babus to break silos, bring youth and universities into policymaking",
+            "url": "https://economictimes.indiatimes.com/news/india/pm-modi-asks-babus-to-break-silos-bring-youth-and-universities-into-policymaking/articleshow/133383916.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133384002,width-1200,height-630,imgsize-157464,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-20T17:00:00Z"
+        },
+        {
+            "source": {
+                "id": "03f4f74aaa0a44ccbb846a1630123293",
+                "name": "Crypto Breaking News",
+                "url": "https://www.cryptobreaking.com",
+                "country": "ae"
+            },
+            "title": "Bitcoin Mining Capex Surges as AI Push Outruns Revenue 15:1",
+            "url": "https://www.cryptobreaking.com/bitcoin-mining-capex-surges-as/",
+            "urlToImage": "https://www.cryptobreaking.com/wp-content/uploads/2026/08/Bitcoin-Mining-Capex-Surges-as-AI-Push-Outruns-Revenue-151.jpg",
+            "publishedAt": "2026-08-20T16:56:52Z"
+        },
+        {
+            "source": {
+                "id": "bcf30bc045f2e6dc279666907e09eab5",
+                "name": "Ukrinform",
+                "url": "https://www.ukrinform.net",
+                "country": "ua"
+            },
+            "title": "One Step Away from Terminators",
+            "url": "https://www.ukrinform.net/rubric-ato/4155812-one-step-away-from-terminators.html",
+            "urlToImage": "https://static.ukrinform.com/photos/2026_08/thumb_files/630_360_1787230813-324.png",
+            "publishedAt": "2026-08-20T16:40:00Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "Micron Plans $10 Bn Research Push As AI Fuels Memory Chip Demand",
+            "url": "https://www.outlookbusiness.com/corporate/micron-plans-10-bn-research-push-as-ai-fuels-memory-chip-demand",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-08-20/w5y8riv5/21china-micron-photo-vlzc-jumbo.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-08-20T16:35:13Z"
+        },
         {
             "source": {
                 "id": "1b697445987e8a33f6c82842e17d60d9",
@@ -840,6 +924,15 @@
             "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108019082-1723463960946-gettyimages-1388181678-japaneseflagoncpu.jpeg?v=1731479400&w=1920&h=1080",
             "publishedAt": "2026-08-20T00:01:01Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Demystifying AI in higher education",
+            "url": "https://timesofindia.indiatimes.com/toi-blogs/nation-notes/demystifying-ai-in-higher-education/articleshow/133383376.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-133383462/133383462.jpg",
+            "publishedAt": "2026-08-20 16:51:04"
         },
         {
             "source": {
@@ -3393,102 +3486,6 @@
             "url": "https://www.northjersey.com/story/news/education/2026/08/18/ai-school-for-grades-1-8-at-drew-university-madison-higher-education/91303053007/",
             "urlToImage": "https://www.northjersey.com/gcdn/authoring/authoring-images/2026/08/14/PMOR/91305118007-491479333-18507005047040189-33295527804507648-n.jpg?crop=1439,811,x0,y74&width=1439&height=811&format=pjpg&auto=webp",
             "publishedAt": "2026-08-18T08:35:47Z"
-        },
-        {
-            "source": {
-                "id": "2b5db686603d0197d748f18d2dc01aec",
-                "name": "Bloomberg Tax News",
-                "url": "https://news.bloombergtax.com",
-                "country": "us"
-            },
-            "title": "Taxing AI to Help Workers Sounds Good, But Public Deserves More",
-            "url": "https://news.bloombergtax.com/daily-tax-report/taxing-ai-to-help-workers-sounds-good-but-public-deserves-more",
-            "urlToImage": "https://bwrite-static.bloombergindustry.com/dims4/default/549c38f/2147483647/legacy_thumbnail/960x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Ffb%2F3a%2F7d4d0d724497a2cd8c346a7d0b69%2Fbli-technically-speaking-2026.png",
-            "publishedAt": "2026-08-18T08:30:03Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Companies Must Balance AI With Human Thinking, Expert Says",
-            "url": "https://techbullion.com/companies-must-balance-ai-with-human-thinking-expert-says/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2026/08/fi-20.png",
-            "publishedAt": "2026-08-18T08:19:44Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "Sterlite Tech, KEI, Polycab, Havells: Targets for cables & wires stocks, top 2 picks",
-            "url": "https://www.businesstoday.in/markets/stocks/story/sterlite-tech-kei-polycab-havells-targets-for-cables-wires-stocks-top-2-picks-549770-2026-08-18",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a840de467fb2-nuvama-has-maintained-a-positive-view-on-the-cables-and-wires-segment--with-kei-industries-and-polyc-184638149-16x9.png",
-            "publishedAt": "2026-08-18T07:48:15Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "Trump crypto firm in China AI venture",
-            "url": "https://www.arkansasonline.com/news/2026/aug/18/trump-crypto-firm-in-china-ai-venture/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213462703_2026-08-17T143816Z_3_LYNXMPEM7G0M5_RTROPTP_4_USA-TRUMP-WORLDCLAW_t1200.JPG?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-            "publishedAt": "2026-08-18T07:32:00Z"
-        },
-        {
-            "source": {
-                "id": "9f2e79f0f9194d0d88f0074def064e60",
-                "name": "The Korea Times",
-                "url": "https://www.koreatimes.co.kr",
-                "country": "kr"
-            },
-            "title": "LG AI Research, SK Telecom, Upstage survive next cut in national AI model project",
-            "url": "https://www.koreatimes.co.kr/business/tech-science/20260818/lg-ai-research-sk-telecom-upstage-survive-next-cut-in-national-ai-model-project",
-            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/18/583d7aa2-a9c6-481e-8528-557c28e58f94.jpg",
-            "publishedAt": "2026-08-18T07:21:02Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "Maharashtra govt to invest in Marathi films to reel in Gen-Z audience: Shelar",
-            "url": "https://theprint.in/india/maharashtra-govt-to-invest-in-marathi-films-to-reel-in-gen-z-audience-shelar/3017983/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-08-18T07:16:50Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Mavrix Makes the Case for Trusted Human Evidence in the AI Era at Quirk's New York",
-            "url": "https://www.tribuneindia.com/news/business/mavrix-makes-the-case-for-trusted-human-evidence-in-the-ai-era-at-quirks-new-york-2-2/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY4OGQ1ZTYwLTlhZDItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-18T07:01:49Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Sick of AI slop? So are tech giants",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/18/sick-of-ai-slop-so-are-tech-giants",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4065225.jpg",
-            "publishedAt": "2026-08-18T07:00:00Z"
         }
     ]
 }
