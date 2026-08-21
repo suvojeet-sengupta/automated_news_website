@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-08-21T21:18:39.460542Z",
+    "lastUpdatedAt": "2026-08-21T22:18:09.661736Z",
     "articles": [
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Schools are teaching AI literacy",
+            "url": "https://www.cp24.com/news/world/2026/08/21/schools-are-starting-to-teach-ai-literacy-for-many-that-means-helping-kids-see-chatbots-flaws/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/I3O5S3XM525O6H27MHFWH3LPJI.jpg?smart=true&auth=353ca120ad671df91a5671796191313437c82bad8930b37ac7da506759994046&width=1200&height=630",
+            "publishedAt": "2026-08-21T10:15:36Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "S&P 500 Earnings Are Surging More Than 50%. AI Is Making the Numbers Look Even Bigger.",
+            "url": "https://www.ibtimes.com/sp-500-earnings-are-surging-more-50-ai-making-numbers-look-even-bigger-3806615",
+            "urlToImage": "https://d.ibtimes.com/en/full/4649445/stocks.jpg",
+            "publishedAt": "2026-08-21T10:11:01Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
+            "url": "https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/6ETTQKTP2ZKMTBFT2IKEGOH2JA.jpg?auth=3dded593c0e95ce720c138da9b4f3a35d2d13d3ba724c898dab0bff6398eaeeb&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-08-21T10:02:37Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Indian CAs may soon get to practice in Singapore as ICAI, ISCA move towards mutual recognition",
+            "url": "https://indianexpress.com/article/education/icai-indian-chartered-accountants-ca-practise-in-singamore-mutual-recognition-mou-isca-mra-agreement-10843359/",
+            "urlToImage": "https://images.indianexpress.com/2026/08/icai-isca-mra-2026.jpg",
+            "publishedAt": "2026-08-21T09:54:08Z"
+        },
         {
             "source": {
                 "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
@@ -432,6 +480,33 @@
             "url": "https://www.thehindu.com/life-and-style/artificial-intelligence-ai-lines-i-wont-cross-sima-kumar-skill-set-creativity-critical-thinking/article71363873.ece",
             "urlToImage": "https://th-i.thgim.com/public/life-and-style/178f09/article71368576.ece/alternates/LANDSCAPE_1200/AI%20and%20the%20lines%20I%20won%E2%80%99t%20cross.png",
             "publishedAt": "2026-08-21T00:40:00Z"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "The Brains Who Powered China’s Surprising AI Leap",
+            "url": "https://www.hindustantimes.com/world-news/the-brains-who-powered-china-s-surprising-ai-leap-101787306413319.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/08/21/1600x900/logo/im-04885044_1787306420144_1787306441296_d97acf01-23d1-4be9-9228-0f938cc31427.jpg",
+            "publishedAt": "2026-08-21 10:01:20"
+        },
+        {
+            "source": {
+                "name": "dharmakshethra"
+            },
+            "title": "India’s AI Opportunity Lies in Applications, Data Centres and Green Energy, Says Ashwini Vaishnaw",
+            "url": "https://dharmakshethra.com/indias-ai-opportunity/",
+            "urlToImage": "https://dharmakshethra.com/wp-content/uploads/2020/06/india-India-joins-Global-Partnership-on-Artificial-Intelligence-GPAI-as-a-founding-member-diplomacy-Dharmakshethra.jpg",
+            "publishedAt": "2026-08-21 09:34:00"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "IBM CEO Arvind Krishna shares why he pre-announced historic 25% stock plunge",
+            "url": "https://www.thehansindia.com/tech/ibm-ceo-arvind-krishna-shares-why-he-pre-announced-historic-25-stock-plunge-1112201",
+            "urlToImage": "https://assets.thehansindia.com/h-upload/2026/08/21/1692241-ibm-ceo-arvind-krishna.webp",
+            "publishedAt": "2026-08-21 09:20:19"
         },
         {
             "source": {
@@ -3372,81 +3447,6 @@
             "url": "https://www.eletimes.ai/nuvoton-launches-mass-production-of-16-cell-battery-monitoring-ics-with-daisy-chain-communication-for-ai-servers",
             "urlToImage": "https://www.eletimes.ai/wp-content/uploads/2026/08/Nuvoton-Launches-Mass-Production-of-16-Cell-Battery-Monitoring-ICs-with-Daisy-Chain-Communication-for-AI-Servers.png",
             "publishedAt": "2026-08-19 06:30:21"
-        },
-        {
-            "source": {
-                "name": "sify"
-            },
-            "title": "Amazon Caught Destroying Rare Books to Feed AI: Historians and Book Lovers Furious",
-            "url": "https://www.sify.com/ai-analytics/amazon-caught-destroying-rare-books-to-feed-ai-historians-and-book-lovers-furious/",
-            "urlToImage": "https://www.sify.com/wp-content/uploads/2026/08/amazon.webp",
-            "publishedAt": "2026-08-19 06:26:23"
-        },
-        {
-            "source": {
-                "name": "inc42"
-            },
-            "title": "The Enterprise Fight Against Runaway AI Costs",
-            "url": "https://inc42.com/features/the-enterprise-fight-against-runaway-ai-costs/",
-            "urlToImage": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/FTR-5-1.jpg",
-            "publishedAt": "2026-08-19 05:30:34"
-        },
-        {
-            "source": {
-                "name": "ncnonline_net"
-            },
-            "title": "Trane Technologies and Eaton Collaborate on Industry-First Reference Design to Help Boost AI Data Center Efficiency and Cut Installation Costs",
-            "url": "https://www.ncnonline.net/trane-technologies-and-eaton-collaborate-on-industry-first-reference-design-to-help-boost-ai-data-center-efficiency-and-cut-installation-costs/",
-            "urlToImage": "https://www.ncnonline.net/wp-content/uploads/2026/08/Trane-Technologies-and-Eaton-Collaborate-on-Industry-First-Reference-Design-to-Help-Boost-AI-Data-Center-Efficiency-and-Cut-Installation-Costs.jpg",
-            "publishedAt": "2026-08-19 03:30:00"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Artificial intelligence acts as an 'ideological chameleon' and may deepen political polarization",
-            "url": "https://phys.org/news/2026-08-artificial-intelligence-ideological-chameleon-deepen.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-64.jpg",
-            "publishedAt": "2026-08-18T23:30:01Z"
-        },
-        {
-            "source": {
-                "id": "ab6b7d957a91e0dbf63976cb1b9c26f5",
-                "name": "Santa Clarita Valley Signal",
-                "url": "https://signalscv.com",
-                "country": "us"
-            },
-            "title": "SCV Chamber of Commerce hosts ‘The AI Advantage’ seminar",
-            "url": "https://signalscv.com/2026/08/scv-chamber-of-commerce-hosts-the-ai-advantage-seminar/",
-            "urlToImage": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2026/08/18155633/081826_CHAMBERAI_KM_02-scaled.jpg",
-            "publishedAt": "2026-08-18T22:58:05Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Shares fall in Asia, with Kospi down 5.2%, while oil prices jump",
-            "url": "https://www.breitbart.com/news/shares-fall-in-asia-with-kospi-down-5-2-while-oil-prices-jump/",
-            "urlToImage": "https://media.breitbart.com/media/2026/08/wi/ap/south-korea-financial-markets-74256-south-korea-financial-markets-currency-trader-passes-by-screen-640x335.jpg",
-            "publishedAt": "2026-08-18T22:49:34Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Canada's AI strategy needs educators who feel prepared, not just trained",
-            "url": "https://phys.org/news/2026-08-canada-ai-strategy.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/canadas-ai-strategy-ne.jpg",
-            "publishedAt": "2026-08-18T22:20:03Z"
         }
     ]
 }
