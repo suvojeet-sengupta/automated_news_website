@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-21T14:28:56.271855Z",
+    "lastUpdatedAt": "2026-08-21T15:26:54.126822Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Anthropic plans to change data retention policy for advanced AI",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/21/anthropic-plans-to-changedata-retention-policy-for-advanced-ai",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4070677.jpg",
+            "publishedAt": "2026-08-21T03:00:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "America’s top VC Chamath Palihapitiya may have just told Sam Altman and Dario Amodei: You have failed miserably; lists three ‘biggest mistakes’",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/americas-top-vc-chamath-palihapitiya-may-have-just-told-sam-altman-and-dario-amodei-you-have-failed-miserably-lists-three-biggest-mistakes/articleshow/133391273.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133391291,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-21T02:51:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI-driven literature mining speeds discovery of heat-stable lead-free dielectric materials",
+            "url": "https://phys.org/news/2026-08-ai-driven-literature-discovery-stable.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-mines-research-pape.jpg",
+            "publishedAt": "2026-08-21T02:40:01Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -63,6 +99,18 @@
         },
         {
             "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Psilocybin may make the brain more organized than scientists expected",
+            "url": "https://www.news-medical.net/news/20260820/Psilocybin-may-make-the-brain-more-organized-than-scientists-expected.aspx",
+            "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_845308_17872726167614195.jpg",
+            "publishedAt": "2026-08-21T00:43:00Z"
+        },
+        {
+            "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
                 "name": "Phys.org",
                 "url": "https://phys.org",
@@ -84,6 +132,24 @@
             "url": "https://www.thehindu.com/life-and-style/artificial-intelligence-ai-lines-i-wont-cross-sima-kumar-skill-set-creativity-critical-thinking/article71363873.ece",
             "urlToImage": "https://th-i.thgim.com/public/life-and-style/178f09/article71368576.ece/alternates/LANDSCAPE_1200/AI%20and%20the%20lines%20I%20won%E2%80%99t%20cross.png",
             "publishedAt": "2026-08-21T00:40:00Z"
+        },
+        {
+            "source": {
+                "name": "orissapost"
+            },
+            "title": "The AI Geopolitics",
+            "url": "https://www.orissapost.com/the-ai-geopolitics/",
+            "urlToImage": "https://www.orissapost.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-203925.png",
+            "publishedAt": "2026-08-21 02:45:17"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "The AI race: can India turn sunlight into intelligence?",
+            "url": "https://www.hindustantimes.com/opinion/the-ai-race-can-india-turn-sunlight-into-intelligence-101787253387877.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/India-has-plentiful-solar-potential--and-it-is-alr_1787253385401.jpg",
+            "publishedAt": "2026-08-21 02:30:59"
         },
         {
             "source": {
@@ -396,6 +462,18 @@
         },
         {
             "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna",
+            "url": "https://phys.org/news/2026-08-3d-imaging-machine-noncontact-weight.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/3d-imaging-and-machine.jpg",
+            "publishedAt": "2026-08-20T16:20:01Z"
+        },
+        {
+            "source": {
                 "id": "7eeaf9a839918543cc708f2d331c3be4",
                 "name": "Free Press Journal",
                 "url": "https://www.freepressjournal.in",
@@ -545,6 +623,18 @@
                 "url": "https://rubberworld.com",
                 "country": "us"
             },
+            "title": "Machine learning for rubber development",
+            "url": "https://rubberworld.com/machine-learning-for-rubber-development/",
+            "urlToImage": "https://rubberworld.com/wp-content/uploads/2026/08/RubberAiPredictions.jpg",
+            "publishedAt": "2026-08-20T13:21:58Z"
+        },
+        {
+            "source": {
+                "id": "924bf3bd483540da3b42eafbf67d09e3",
+                "name": "RubberWorld",
+                "url": "https://rubberworld.com",
+                "country": "us"
+            },
             "title": "Using artificial intelligence in research and development: Opportunities and pitfalls",
             "url": "https://rubberworld.com/using-artificial-intelligence-in-research-and-development-opportunities-and-pitfalls/",
             "urlToImage": "https://rubberworld.com/wp-content/uploads/2026/08/RUbberAI.png",
@@ -633,6 +723,18 @@
             "url": "https://www.reuters.com/business/ai-productivity-gains-may-not-curb-inflation-imfs-tenreyro-warns-2026-08-20/",
             "urlToImage": "https://www.reuters.com/resizer/v2/6VU5636N2BPJFNGSPEI7FFSW64.jpg?auth=ebc451a8127caa4a687bdb1f79323908311b91a864b72cf451232d85d959791e&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2026-08-20T12:14:32Z"
+        },
+        {
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            },
+            "title": "This 'Dynamo' Biotech Puts AI-Fueled Breakout In Motion",
+            "url": "https://www.investors.com/research/ibd-stock-analysis/relay-therapeutics-dynamo-biotech-puts-ai-fueled-breakout-in-motion/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2026/08/stock-pharma-pill-adobe.jpg",
+            "publishedAt": "2026-08-20T12:00:43Z"
         },
         {
             "source": {
@@ -1133,6 +1235,18 @@
                 "url": "https://www.news-medical.net",
                 "country": "gb"
             },
+            "title": "A single blood test could offer a glimpse of disease risk years in advance",
+            "url": "https://www.news-medical.net/news/20260819/A-single-blood-test-could-offer-a-glimpse-of-disease-risk-years-in-advance.aspx",
+            "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_845231_17871960689234181.jpg",
+            "publishedAt": "2026-08-20T03:25:00Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
             "title": "New AI spots hypertrophic cardiomyopathy obstruction from standard ultrasounds",
             "url": "https://www.news-medical.net/news/20260819/New-AI-spots-hypertrophic-cardiomyopathy-obstruction-from-standard-ultrasounds.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Ultrasound-620x480.jpg",
@@ -1404,6 +1518,18 @@
         },
         {
             "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Transparency for global health aid: 60% of disease burden draws just 2.5% of targeted funds, analysis reveals",
+            "url": "https://medicalxpress.com/news/2026-08-transparency-global-health-aid-disease.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/transparency-for-globa.jpg",
+            "publishedAt": "2026-08-19T21:00:09Z"
+        },
+        {
+            "source": {
                 "id": "f5081afeaba654292dd91fffd29f9dd4",
                 "name": "The Globe and Mail",
                 "url": "https://www.theglobeandmail.com",
@@ -1473,6 +1599,18 @@
             "url": "https://economictimes.indiatimes.com/news/international/global-trends/bird-evolution-didnt-happen-steadily-ai-reveals-45-million-years-of-climate-driven-changes-in-skeletons/articleshow/133358101.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-133358121,width-1200,height-630,imgsize-144272,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2026-08-19T19:07:00Z"
+        },
+        {
+            "source": {
+                "id": "33f362be7687af8e3a60d162209954d5",
+                "name": "News24",
+                "url": "https://www.news24.com",
+                "country": "za"
+            },
+            "title": "From Top 24 to Top 19: Minnie Dlamini reveals women advancing in Miss South Africa 2026",
+            "url": "https://www.news24.com/life/arts-and-entertainment/celebrities/from-top-24-to-top-19-minnie-dlamini-reveals-women-advancing-in-miss-south-africa-2026-20260819-1076",
+            "urlToImage": "https://news24cobalt.24.co.za/resources/02a8-2163074dc20b-a466c0228111-1000/format/inline/miss_sa_top_19.jpeg",
+            "publishedAt": "2026-08-19T18:01:19Z"
         },
         {
             "source": {
@@ -1677,6 +1815,18 @@
             "url": "https://phys.org/news/2026-08-offloading-tasks-ai-brains.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/brain-and-ai.jpg",
             "publishedAt": "2026-08-19T14:40:03Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Meet Seth Nabat, the 18-year-old California student who built a two-network machine-learning system to track particle collisions; he won $40,000",
+            "url": "https://timesofindia.indiatimes.com/science/meet-seth-nabat-the-18-year-old-california-student-who-built-a-two-network-machine-learning-system-to-track-particle-collisions-he-won-40000/articleshow/133323429.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133323687,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-19T14:39:00Z"
         },
         {
             "source": {
@@ -1980,6 +2130,18 @@
         },
         {
             "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "Machine learning algorithm sets Palantir stock price for September 1, 2026",
+            "url": "https://finbold.com/machine-learning-algorithm-sets-palantir-stock-price-for-september-1-2026/",
+            "urlToImage": "https://finbold.com/cdn-cgi/image/format=auto,quality=90,width=1600,height=900,fit=cover/https://assets.finbold.com/uploads/2026/08/Machine-learning-algorithm-sets-Palantir-stock-price-for-September-1-2026.jpg",
+            "publishedAt": "2026-08-19T10:16:14Z"
+        },
+        {
+            "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
                 "name": "The Star",
                 "url": "https://www.thestar.com.my",
@@ -2061,6 +2223,18 @@
             "url": "https://www.outlookbusiness.com/deeptech/ai-music-india-copyright-act-song-ownership-lyrics-data-training-disputes-explained",
             "urlToImage": "https://media.assettype.com/outlookbusiness/2026-08-19/3rwhn74k/AI-Copyright-Cases-Are-Rising-But-Current-Laws-Dont-Address-Issues-Directly?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
             "publishedAt": "2026-08-19T09:27:19Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Sebi to soon roll out AI rules with a ‘kill switch’ for stock market",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-roll-out-ai-rules-with-a-kill-switch-for-stock-market/articleshow/133343252.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133343285,width-1200,height-630,imgsize-60830,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-08-19T09:13:00Z"
         },
         {
             "source": {
@@ -3285,186 +3459,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-within-six-months-chatgpt-could-watch-your-screen-meetings-and-emails/articleshow/133327319.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-133327335,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-08-18T16:22:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "The use of AI in biotechnology is changing faster than the rules governing either technology",
-            "url": "https://phys.org/news/2026-08-ai-biotechnology-faster-technology.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/biotechnology.jpg",
-            "publishedAt": "2026-08-18T16:20:09Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Public support will make or break acceptance of PH’s ‘tech future’",
-            "url": "https://www.manilatimes.net/2026/08/19/opinion/editorial/public-support-will-make-or-break-acceptance-of-phs-tech-future/2407772",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/18/1181532.jpg",
-            "publishedAt": "2026-08-18T16:09:00Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Matthew McConaughey says Pope Leo XIV meeting sparked political ambitions",
-            "url": "https://www.foxnews.com/entertainment/matthew-mcconaughey-hints-political-ambitions-after-meeting-pope-leo-xiv-vatican-city",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/matthew.jpg",
-            "publishedAt": "2026-08-18T16:06:59Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "China unfolds AI landscape",
-            "url": "https://www.manilatimes.net/2026/08/19/business/foreign-business/china-unfolds-ai-landscape/2407489",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/18/1180949.jpeg",
-            "publishedAt": "2026-08-18T16:04:00Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot",
-            "url": "https://www.mercurynews.com/2026/08/18/openai-chatgpt-for-teens/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/08/ChatGPT_Teens_33976.jpg?w=2000&h=1333",
-            "publishedAt": "2026-08-18T15:14:28Z"
-        },
-        {
-            "source": {
-                "id": "9f2e79f0f9194d0d88f0074def064e60",
-                "name": "The Korea Times",
-                "url": "https://www.koreatimes.co.kr",
-                "country": "kr"
-            },
-            "title": "AI beauty ratings raise concerns for young people",
-            "url": "https://www.koreatimes.co.kr/southkorea/20260819/ai-beauty-ratings-raise-concerns-for-young-people",
-            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/18/9b9acf2b-5703-439e-8e02-ab53494460d8.jpg",
-            "publishedAt": "2026-08-18T15:00:03Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "France to use AI tools to test cybsecurity vulnerabilities after tax agency hacking",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/18/france-to-use-ai-tools-to-test-cybsecurity-vulnerabilities-after-tax-agency-hacking",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4066235.jpg",
-            "publishedAt": "2026-08-18T14:46:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "French government to hire French AI providers such as Mistral, Minister says",
-            "url": "https://www.reuters.com/world/france-use-ai-tools-test-cybsecurity-vulnerabilities-after-tax-agency-hacking-2026-08-18/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/IMSOXHNRK5PRDACGMB6VSAUPXU.jpg?auth=d0a653fae0cae4caad8e2162c6e0fbe268bc0ac1b466f90a0016ca17c23ab731&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-08-18T14:40:38Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "DFRobot VP Speaks at TAMYZ FORUM 2026 on AI Education and Global Developer Ecosystem",
-            "url": "https://www.manilatimes.net/2026/08/18/tmt-newswire/pr-newswire/dfrobot-vp-speaks-at-tamyz-forum-2026-on-ai-education-and-global-developer-ecosystem/2407807",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/18/1181592.jpg",
-            "publishedAt": "2026-08-18T14:34:30Z"
-        },
-        {
-            "source": {
-                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
-                "name": "7NEWS Australia",
-                "url": "https://7news.com.au",
-                "country": "au"
-            },
-            "title": "Thousands of innocent Australians locked out by Meta's artificial intelligence safety bots",
-            "url": "https://7news.com.au/technology/thousands-of-innocent-australians-locked-out-by-metas-artificial-intelligence-safety-bots-c-22742851",
-            "urlToImage": "https://images.7news.com.au/publication/C-22742851/172b3a448817c4bba5b54b10206499737f04933a-16x9-x0y0w1280h720.png?imwidth=1200",
-            "publishedAt": "2026-08-18T14:30:51Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "GE Aerospace uses AI to cut aircraft engine turnaround time by five days",
-            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/ge-aerospace-uses-ai-to-cut-aircraft-engine-turnaround-time-by-five-days/articleshow/133324842.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-133324917,width-1200,height-630,imgsize-93170,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-08-18T14:11:00Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "CM Bhupendra Patel invites US industry leaders to partner in new opportunities for cooperation in semiconductors, innovation and cyber security in Gujarat",
-            "url": "https://www.aninews.in/news/national/general-news/cm-bhupendra-patel-invites-us-industry-leaders-to-partner-in-new-opportunities-for-cooperation-in-semiconductors-innovation-and-cyber-security-in-gujarat20260818185258/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260818132239-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-18T13:22:58Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "AI Voice-To-Text Startup Wispr Flow Raises $280 Mn At $2 Bn Valuation",
-            "url": "https://www.outlookbusiness.com/deeptech/ai-voice-to-text-startup-wispr-flow-raises-280-mn-at-2-bn-valuation",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-08-18/1vw3nl7u/AI-Startup-funding?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-08-18T13:20:35Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "MP govt responds to PM call, announces free online coaching, AI skills training for youths",
-            "url": "https://theprint.in/india/mp-govt-responds-to-pm-call-announces-free-online-coaching-ai-skills-training-for-youths/3018499/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-08-18T13:19:58Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "Google is buying all of Spirit Airlines’ data to feed its AI models",
-            "url": "https://edition.cnn.com/2026/08/18/business/google-spirit-airlines-data",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2274586037.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-08-18T13:08:44Z"
         }
     ]
 }
