@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-08-22T13:26:44.564807Z",
+    "lastUpdatedAt": "2026-08-22T14:15:45.571306Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Singapore allocates 200MW of new data centre capacity to four operators",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/singapore-allocates-200mw-of-new-data-centre-capacity-to-four-operators",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4072573.jpg",
+            "publishedAt": "2026-08-22T01:47:00Z"
+        },
         {
             "source": {
                 "id": "435d508bebcc8689d5c7711d44865b80",
@@ -24,6 +36,15 @@
             "url": "https://www.livemint.com/news/india/centre-to-leverage-ai-for-maintaining-rural-roads-11787307329728.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/2-0-71718672-rural-views-4C-0_1681408401328_1787312492915_7b5c2079-8d70-4857-be5c-974ba331f343.jpg",
             "publishedAt": "2026-08-22T00:45:59Z"
+        },
+        {
+            "source": {
+                "name": "beforeitsnews"
+            },
+            "title": "Clayton Morris: Blackouts & Water Shortages, Tech Overlords Build AI Dystopia & Crush Resistance (Tucker Carlson Video)",
+            "url": "https://beforeitsnews.com/economics-and-politics/2026/08/clayton-morris-blackouts-water-shortages-tech-overlords-build-ai-dystopia-crush-resistance-tucker-carlson-video-2537131.html",
+            "urlToImage": "https://i.ytimg.com/vi/KMsklsr_nBM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBeTuwdz1kOBOTAgJI3zt7QvPjryQ",
+            "publishedAt": "2026-08-22 02:11:22"
         },
         {
             "source": {
@@ -3474,30 +3495,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/08/19/europe-ai-data-centres-seek-cheaper-quicker-energy-and-land",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/19/4067715.jpg",
             "publishedAt": "2026-08-19T10:15:00Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "World shares mostly decline, hit by heavy selling of AI-related shares",
-            "url": "https://www.barchart.com/story/news/3920086/world-shares-mostly-decline-hit-by-heavy-selling-of-ai-related-shares",
-            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/6b928701677f4089b5edb2b19057557b/6b928701677f4089b5edb2b19057557b_main_south_korea_financial_markets_545_7.jpg",
-            "publishedAt": "2026-08-19T10:08:13Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Shares fall in Asia as oil jumps",
-            "url": "https://www.cp24.com/news/money/2026/08/19/shares-fall-in-asia-with-kospi-down-57-while-oil-prices-jump/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/MEF6Q6TM2HCEBD6LAVNJMHBG7U.jpg?smart=true&auth=b9bfe5056e59a6207e3a1cd7fddfa97f0c2dd75bef95da00df86119413b0ddf8&width=1200&height=630",
-            "publishedAt": "2026-08-19T10:07:28Z"
         }
     ]
 }
