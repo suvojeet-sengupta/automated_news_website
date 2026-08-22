@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-08-22T21:16:17.028860Z",
+    "lastUpdatedAt": "2026-08-22T22:16:10.490214Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Now is the time to resist ai rights, says 'Sapiens' author",
+            "url": "https://www.thenews.com.pk/latest/1413183-now-is-the-time-to-resist-ai-rights-says-sapiens-author",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-22/1413183_025133_updates.jpg",
+            "publishedAt": "2026-08-22T09:47:49Z"
+        },
+        {
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            },
+            "title": "Apple layoffs: iPhone maker to cut 200 jobs, half of it from a single product division",
+            "url": "https://www.theweek.in/news/biz-tech/2026/08/22/apple-layoffs-iphone-maker-to-cut-200-jobs-half-of-it-from-a-single-product-division.html",
+            "urlToImage": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2024/10/6/apple-ios-logo.jpg",
+            "publishedAt": "2026-08-22T09:45:33Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "Housing sales decline 6% across top 8 cities in April",
+            "url": "https://www.cnbctv18.com/real-estate/housing-sales-decline-6-across-top-8-cities-in-april-june-proptiger-19974936.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/08/housing-support-2026-08-526a807c5b61bfbe5c0540eaedb98ffe.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-08-22T09:32:30Z"
+        },
+        {
+            "source": {
+                "id": "e185a9e522f5881b82bc4bd40cbea8e0",
+                "name": "MassLive",
+                "url": "https://www.masslive.com",
+                "country": "us"
+            },
+            "title": "AI will soon answer some nonemergency calls at Westcomm Regional Dispatch in Western Mass.",
+            "url": "https://www.masslive.com/westernmass/2026/08/ai-will-soon-answer-nonemergency-calls-at-wmass-dispatch-center.html",
+            "urlToImage": "https://www.masslive.com/resizer/v2/BGHEYTMHEREAHBD62DFM3CKSHA.jpg?auth=4ae7038fae254d195e037a6bb117752348cc2d4f06831b8c89f9c8fa906ad9c3&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-08-22T09:30:00Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -3441,54 +3489,6 @@
             "url": "https://www.newstatesman.com/politics/society/2026/08/the-anti-ai-revolt-is-here",
             "urlToImage": "https://dl6pgk4f88hky.cloudfront.net/2026/08/19/202634tinlineai-649x418.jpg?1787189393",
             "publishedAt": "2026-08-19T15:23:11Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Students need more than AI skills-they need accountable AI literacy",
-            "url": "https://phys.org/news/2026-08-students-ai-skills-accountable-literacy.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/students-need-more-tha.jpg",
-            "publishedAt": "2026-08-19T15:20:09Z"
-        },
-        {
-            "source": {
-                "id": "996b4ad0804caad8f61702c5d7917ec0",
-                "name": "City A.M.",
-                "url": "https://www.cityam.com",
-                "country": "gb"
-            },
-            "title": "Goldman: Junior white-collar workers squeezed hardest by AI hiring slump",
-            "url": "https://www.cityam.com/goldman-junior-white-collar-workers-squeezed-hardest-by-ai-hiring-slump/",
-            "urlToImage": "https://www.cityam.com/wp-content/uploads/2026/02/Job-centre-unemployment-e1771954254456.jpg",
-            "publishedAt": "2026-08-19T14:51:13Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Offloading work tasks to AI comes with a cost-to our brains",
-            "url": "https://phys.org/news/2026-08-offloading-tasks-ai-brains.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/brain-and-ai.jpg",
-            "publishedAt": "2026-08-19T14:40:03Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Meet Seth Nabat, the 18-year-old California student who built a two-network machine-learning system to track particle collisions; he won $40,000",
-            "url": "https://timesofindia.indiatimes.com/science/meet-seth-nabat-the-18-year-old-california-student-who-built-a-two-network-machine-learning-system-to-track-particle-collisions-he-won-40000/articleshow/133323429.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133323687,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-19T14:39:00Z"
         }
     ]
 }
