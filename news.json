@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-08-23T12:29:51.226502Z",
+    "lastUpdatedAt": "2026-08-23T13:27:41.285958Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "What are companies getting for all that AI spending?",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/23/what-are-companies-getting-for-all-that-ai-spending",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4044309.jpg",
+            "publishedAt": "2026-08-23T01:00:00Z"
+        },
         {
             "source": {
                 "id": "2ff4b6327735b249ca9fe9bb8f044251",
@@ -3459,18 +3471,6 @@
             "url": "https://www.webpronews.com/why-googles-ai-architect-tells-young-people-to-stop-chasing-mastery-and-start-skimming-papers/",
             "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/08/article-23955-1787171796.jpeg",
             "publishedAt": "2026-08-20 01:52:07"
-        },
-        {
-            "source": {
-                "id": "94466d37d8c67a438250646866df36df",
-                "name": "SBS Australia",
-                "url": "https://www.sbs.com.au",
-                "country": "au"
-            },
-            "title": "Artificial intelligence can be friend and foe",
-            "url": "https://www.sbs.com.au/language/german/en/podcast-episode/artificial-intelligence-can-be-friend-and-foe/wqzrztv0r",
-            "urlToImage": "https://assets.sbs.com.au/dims4/default/d05a972/2147483647/strip/true/crop/704x396+0+1/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fdrupal%2Fyourlanguage%2Fpublic%2Fpodcast_images%2Fai_0.jpg",
-            "publishedAt": "2026-08-19T23:33:04Z"
         }
     ]
 }
