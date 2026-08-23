@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-23T02:56:52.561724Z",
+    "lastUpdatedAt": "2026-08-23T03:49:38.647982Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "IAF turning to predictive AI and digital twins to prepare for future challenges: Air Chief Marshal AP Singh",
+            "url": "https://economictimes.indiatimes.com/news/defence/iaf-turning-to-predictive-ai-and-digital-twins-to-prepare-for-future-challenges-air-chief-marshal-ap-singh/articleshow/133426687.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133426686,width-1200,height-630,imgsize-40882,overlay-etdefence/articleshow.jpg",
+            "publishedAt": "2026-08-22T15:11:00Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "IAF turning to predictive AI and digital twins to prepare for future challenges: Air Chief Marshal AP Singh",
+            "url": "https://www.aninews.in/news/national/general-news/iaf-turning-to-predictive-ai-and-digital-twins-to-prepare-for-future-challenges-air-chief-marshal-ap-singh20260822203222/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260822150212-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-08-22T15:02:22Z"
+        },
         {
             "source": {
                 "id": "91120a92e0d24e24fbffb6d0affabfe6",
@@ -3456,30 +3480,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-h200-ai-processors-enter-china-these-two-companies-secure-new-batches/articleshow/133356136.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-133356305,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-08-19T17:54:00Z"
-        },
-        {
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com",
-                "country": "us"
-            },
-            "title": "Schools spend billions on AI, but struggle to figure out what’s worth buying",
-            "url": "https://www.baltimoresun.com/2026/08/19/schools-spend-billions-on-ai-but-struggle-to-figure-out-whats-worth-buying/",
-            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2026/08/US-NEWS-EDU-SCHOOLS-AI-SPENDING-FILEPIC-DMT.jpg?w=2738&h=1825",
-            "publishedAt": "2026-08-19T17:38:22Z"
-        },
-        {
-            "source": {
-                "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
-                "name": "InvenGlobal",
-                "url": "https://www.invenglobal.com",
-                "country": "us"
-            },
-            "title": "NEXUS launches AI Labs portal with 11 in-house AI solutions",
-            "url": "https://www.invenglobal.com/articles/24914/nexus-launches-ai-labs-portal-with-11-in-house-ai-solutions",
-            "urlToImage": "https://static.invenglobal.com/upload/image/2026/08/19/r1787159539199550.png",
-            "publishedAt": "2026-08-19T17:14:57Z"
         }
     ]
 }
