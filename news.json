@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-08-23T16:18:32.119486Z",
+    "lastUpdatedAt": "2026-08-23T17:15:57.264030Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Alibaba plans $10 billion Hong Kong share placement to fund AI spending",
+            "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/VVVDWUI6GRLEFIZ42XETHVDYOM.jpg?auth=befa607830f7913bd1c3c9ec80ee0c4a087aeb28732ee104f649ba8231c760aa&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-08-23T04:47:38Z"
+        },
         {
             "source": {
                 "id": "556649d353181a589d24339ce922b9f8",
@@ -3477,15 +3489,6 @@
             "url": "https://thenewstack.io/edge-kubernetes-fleet-management/",
             "urlToImage": "https://cdn.thenewstack.io/media/2026/08/6c862555-alina-grubnyak-ziqkhi7417a-unsplash-scaled.jpg",
             "publishedAt": "2026-08-20 13:00:00"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "‘Capital alone no longer clears a site’: Morgan Stanley says data centers’ big money era is over",
-            "url": "https://fortune.com/2026/08/20/data-centers-money-era-morgan-stanley/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2280560027-e1787189894332.jpg?w=2048",
-            "publishedAt": "2026-08-20 12:12:16"
         }
     ]
 }
