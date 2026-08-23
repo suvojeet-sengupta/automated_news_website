@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-23T20:16:08.830621Z",
+    "lastUpdatedAt": "2026-08-23T21:16:13.015806Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Piyush Goyal leads India's largest business delegation to Japan for trade and investment talks",
+            "url": "https://economictimes.indiatimes.com/news/india/piyush-goyal-leads-indias-largest-business-delegation-to-japan-for-trade-and-investment-talks/articleshow/133437220.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133437304,width-1200,height-630,imgsize-40336,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-23T09:10:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "American politicians who once fought for data centers are now trashing them; Texas Senator makes chatbot that tells why state electricity bills are up",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/american-politicians-who-once-fought-for-data-centers-are-now-trashing-them-texas-senator-makes-chatbot-that-tells-why-state-electricity-bills-are-up/articleshow/133436850.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133436864,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-23T08:34:00Z"
+        },
         {
             "source": {
                 "id": "fd3677545b80d5db7541de8e111d27ba",
@@ -3489,24 +3513,6 @@
             "url": "https://wccftech.com/why-memory-performance-is-more-important-than-ever-in-modern-computing/",
             "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Memory-Performance-1456x971.jpg",
             "publishedAt": "2026-08-20 22:38:34"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Cloudera unveils Anywhere Cloud as enterprises pull AI back on-premises",
-            "url": "https://www.computerweekly.com/news/366649445/Cloudera-unveils-Anywhere-Cloud-as-enterprises-pull-AI-back-on-premises",
-            "urlToImage": "https://cdn.ttgtmedia.com/visuals/German/article/data-lake-2-adobe.jpg",
-            "publishedAt": "2026-08-20 22:19:00"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "OpenAI Uses NVIDIA GB200 NVL72 for Model Training as Rubin Deployments Expand",
-            "url": "https://www.bundle.app/en/technology/openai-uses-nvidia-gb200-nvl72-for-model-training-as-rubin-deployments-expand-ADA05412-7588-4ED7-80D0-BC2186C7529F",
-            "urlToImage": "https://static.bundle.app/news/eb4b615c-1afa-592a-811b-1bbb23f1de83.jpg",
-            "publishedAt": "2026-08-20 20:00:30"
         }
     ]
 }
