@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-08-24T00:59:52.561068Z",
+    "lastUpdatedAt": "2026-08-24T02:24:55.604865Z",
     "articles": [
+        {
+            "source": {
+                "id": "ca0ac0e9c1dc28f0363e86d46cc022aa",
+                "name": "Kiplinger",
+                "url": "https://www.kiplinger.com",
+                "country": "us"
+            },
+            "title": "Hidden Watermarks Will Track AI-Generated Text",
+            "url": "https://www.kiplinger.com/business/hidden-watermarks-will-track-ai-generated-text",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FEHvuiKF566tqdKWuA5bki-1024-80.jpg",
+            "publishedAt": "2026-08-23T14:10:00Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -288,6 +300,15 @@
             "url": "https://www.thehitavada.com/Encyc/2026/8/23/india-must-become-an-ai-creator-not-just-a-user-delhi-cm-gupta.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/8/23/13_202608230941090959_H@@IGHT_523_W@@IDTH_1285.png",
             "publishedAt": "2026-08-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Silicon Valley wants AI everywhere. It just doesn’t want us to notice",
+            "url": "https://us.headtopics.com/news/silicon-valley-wants-ai-everywhere-it-just-doesn-t-want-us-86930670",
+            "urlToImage": "https://i.headtopics.com/images/2026/8/23/digitaltrends/silicon-valley-wants-ai-everywhere-it-just-doesn-t-silicon-valley-wants-ai-everywhere-it-just-doesn-t-01CAC296FB5BA7C35D05CE027CCA4A09-16x9.webp",
+            "publishedAt": "2026-08-23 13:06:15"
         },
         {
             "source": {
@@ -3498,30 +3519,6 @@
             "url": "https://www.news-medical.net/news/20260819/New-AI-spots-hypertrophic-cardiomyopathy-obstruction-from-standard-ultrasounds.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Ultrasound-620x480.jpg",
             "publishedAt": "2026-08-20T02:57:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/us-warns-siemens-devices-can-be-hacked-amid-fears-iran-is-breaching-water-plants/articleshow/133361876.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-133361900,width-1200,height-630,imgsize-149986,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-08-20T02:08:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool",
-            "url": "https://www.reuters.com/business/finance/citi-hsbc-stanchart-adopt-ant-internationals-forex-ai-tool-2026-08-20/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/G45G3BIJ65I7LEM3327HK6QNOM.jpg?auth=1c53e3344d995ffc0211437c5c3bfda1d484d7b9a36ea88db4b8f328b004a109&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-08-20T02:06:12Z"
         }
     ]
 }
