@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2026-08-24T04:39:08.592801Z",
+    "lastUpdatedAt": "2026-08-24T05:33:31.378516Z",
     "articles": [
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "Fast-evolving online scams fleece millions from Aussies",
+            "url": "https://www.canberratimes.com.au/story/9335746/fast-evolving-online-scams-fleece-millions-from-aussies/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/dc2e667b-72c9-4830-b3be-a9e3e7383fb2.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-08-23T17:30:05Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3507,18 +3519,6 @@
             "url": "https://www.aninews.in/news/business/indias-ai-strength-lies-in-applications-data-centres-digital-infrastructure-vaishnaw-to-morgan-stanleys-ridham-desai20260820113454/",
             "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260820060442-thumbnail-320x180-70.jpg",
             "publishedAt": "2026-08-20T06:04:54Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "IIT Kharagpur’s next 75-year plan: Education 5.0, AI, deep tech and new PhD pathways",
-            "url": "https://indianexpress.com/article/education/iit-kharagpurs-next-75-year-plan-education-5-0-ai-deep-tech-and-new-phd-pathways-10841245/",
-            "urlToImage": "https://images.indianexpress.com/2026/08/iit-kharagpur.jpg",
-            "publishedAt": "2026-08-20T05:27:34Z"
         }
     ]
 }
