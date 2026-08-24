@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-08-24T20:23:42.507357Z",
+    "lastUpdatedAt": "2026-08-24T21:23:19.046258Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "ET AI Hackathon: Innovation begins with a challenge",
+            "url": "https://economictimes.indiatimes.com/tech/technology/et-ai-hackathon-innovation-begins-with-a-challenge/articleshow/133458897.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-79864,resizemode-75,msid-133458897/tech/technology/et-ai-hackathon-innovation-begins-with-a-challenge.jpg",
+            "publishedAt": "2026-08-24T09:10:25Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Taiwan indicts nine, including employees of Nvidia and Super Micro, over alleged illegal export of AI servers to foreign countries",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/24/taiwan-indicts-nine-including-employees-of-nvidia-and-super-micro-over-alleged-illegal-export-of-ai-servers-to-foreign-countries",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/24/4075530.jpg",
+            "publishedAt": "2026-08-24T09:05:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Study showing when LLM acceleration helps, and when it backfires, wins Best Paper at INCECT 2026",
+            "url": "https://timesofindia.indiatimes.com/education/news/study-showing-when-llm-acceleration-helps-and-when-it-backfires-wins-best-paper-at-incect-2026/articleshow/133459123.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133459132,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-24T08:58:00Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "Claude Down! Users Report Outage Across Chat, Code And API",
+            "url": "https://www.outlookbusiness.com/deeptech/claude-down-users-report-outage-across-chat-code-and-api",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-08-24/lkgntc7d/Claude.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-08-24T08:47:02Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
+            "url": "https://www.manilatimes.net/2026/08/24/world/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs/2410737",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1187558.jpg",
+            "publishedAt": "2026-08-24T08:35:00Z"
+        },
+        {
+            "source": {
+                "id": "2b5db686603d0197d748f18d2dc01aec",
+                "name": "Bloomberg Tax News",
+                "url": "https://news.bloombergtax.com",
+                "country": "us"
+            },
+            "title": "Private Equity’s Public Accounting Push Reflects a Tech Shock",
+            "url": "https://news.bloombergtax.com/daily-tax-report/private-equitys-public-accounting-push-reflects-a-tech-shock",
+            "urlToImage": "https://bwrite-static.bloombergindustry.com/dims4/default/c942b48/2147483647/legacy_thumbnail/960x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F76%2F5a%2F7ef2703643969360d56450a5e662%2Fbli-private-equity-investment.png",
+            "publishedAt": "2026-08-24T08:30:06Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -3420,78 +3492,6 @@
             "url": "https://www.reuters.com/world/americas/brazil-launches-ai-supercomputer-push-splits-projects-between-chinese-us-firms-2026-08-20/",
             "urlToImage": "https://www.reuters.com/resizer/v2/XZAB6W45Y5OAZD56STZWTO6HUI.jpg?auth=91315eff901d7290002b50dc0ef579c18922b0b2386db4d359ef9bc617fdaea4&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2026-08-20T21:07:31Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "No gold standard needed: Method ranks the precision of medical imaging measurements",
-            "url": "https://medicalxpress.com/news/2026-08-gold-standard-method-precision-medical.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/technique-evaluates-re.jpg",
-            "publishedAt": "2026-08-20T20:20:02Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "Artificial intelligence powered traffic lights are being trialled, but will it ease traffic congestion?",
-            "url": "https://www.abc.net.au/news/2026-08-21/artificial-intelligence-powered-traffic-lights-trial/107053756",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e5c10dc24f137a51ca1c34c10aa42398?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-08-20T19:35:22Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Wall Street loves these high-yielding AI bonds. What income investors should know",
-            "url": "https://www.cnbc.com/2026/08/20/wall-street-loves-these-high-yielding-ai-bonds-what-income-investors-should-know-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108352334-1787251382977-gettyimages-2289740244-AFP_C4JC7ZB.jpeg?v=1787251558&w=1920&h=1080",
-            "publishedAt": "2026-08-20T19:21:31Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "Meta expands vibe coding Pocket app to US users",
-            "url": "https://www.socialmediatoday.com/news/meta-expands-vibe-coding-pocket-app-to-us-users/828463/",
-            "urlToImage": "https://imgproxy.divecdn.com/eFG6tegZIMJXDTq9wudpzF8hSvoungGlYK419_K4Df0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2dpem1vLnBuZw==.webp",
-            "publishedAt": "2026-08-20T19:21:13Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "PM Modi Calls For Effective Use Of AI In Governance, Says 'Human Judgement' Must Be Ensured",
-            "url": "https://www.timesnownews.com/india/pm-modi-calls-for-effective-use-of-artificial-intelligence-in-governance-says-human-judgement-must-be-ensured-article-155910122",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-155912740,thumbsize-34670,width-1280,height-720,resizemode-75/155912740.jpg",
-            "publishedAt": "2026-08-20T18:37:31Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Trump embraces data centers as they mark U.S. midterms debates",
-            "url": "https://www.cp24.com/news/world/2026/08/20/trump-keeps-embracing-data-centres-even-as-they-become-toxic-in-midterm-races/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/ZXB77AYFZKYS2JF4OWUWIRKOOY.jpg?smart=true&auth=e722c940f5bcebd88b088c7aeee1bbfe47dba11e1829829472689ea4ba547cf0&width=1200&height=630",
-            "publishedAt": "2026-08-20T18:06:42Z"
         }
     ]
 }
