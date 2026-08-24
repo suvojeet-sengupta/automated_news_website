@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-08-24T16:30:36.225281Z",
+    "lastUpdatedAt": "2026-08-24T17:25:41.937915Z",
     "articles": [
+        {
+            "source": {
+                "id": "109f2b4a20da4fe1c2fd502b03c07243",
+                "name": "BBC News",
+                "url": "https://www.bbc.com",
+                "country": "gb"
+            },
+            "title": "Northern Ireland artist and business backlash against AI slop",
+            "url": "https://www.bbc.com/news/articles/cq89jpjeq7ko",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4072/live/6ff801d0-9ca4-11f1-a5a0-114ca9d4a1bc.jpg",
+            "publishedAt": "2026-08-24T05:20:47Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "Alibaba stock slumps in Hong Kong after $13 billion share placement to fund AI",
+            "url": "https://www.straitstimes.com/business/companies-markets/alibaba-stock-slumps-in-hong-kong-after-13-billion-share-placement-to-fund-ai",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/8a7d68c3bd56753c504b83cb645ac9d4abe33e91f9060c5ce6fc73bb72770e43",
+            "publishedAt": "2026-08-24T05:01:00Z"
+        },
+        {
+            "source": {
+                "id": "075fbabce69f64ecf3c8f28c83fdd6e0",
+                "name": "The National",
+                "url": "https://www.thenationalnews.com",
+                "country": "ae"
+            },
+            "title": "Esports diplomacy: Macron and Saudi Crown Prince attend Paris tournament",
+            "url": "https://www.thenationalnews.com/news/europe/2026/08/24/esports-diplomacy-macron-and-saudi-crown-prince-attend-paris-tournament/",
+            "urlToImage": "https://www.thenationalnews.com/resizer/v2/FBBKIG6SZ36BV7C7JSMWUBMEUQ.jpg?smart=true&auth=ab262666be81a92186259acf076919418fb83051a42a971c6b81da2341b29121&width=1200&height=630",
+            "publishedAt": "2026-08-24T05:00:01Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "AIMX Singapore 2026 Accelerates AI Deployment Through Catalysing Industry Innovation and Advancing Global Collaborations",
+            "url": "https://www.tribuneindia.com/news/business/aimx-singapore-2026-accelerates-ai-deployment-through-catalysing-industry-innovation-and-advancing-global-collaborations/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc3ODUxYmEwLTlmNzgtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+            "publishedAt": "2026-08-24T04:58:30Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "India negotiating FTAs with 8-9 more blocs, aims to cover 75% of global trade: Piyush Goyal",
+            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-negotiating-ftas-with-8-9-more-blocs-aims-to-cover-75-of-global-trade-piyush-goyal/articleshow/133451223.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133451590,width-1200,height-630,imgsize-49176,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-24T04:56:00Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "AIMX Singapore 2026 Accelerates AI Deployment Through Catalysing Industry Innovation and Advancing Global Collaborations",
+            "url": "https://www.aninews.in/news/business/aimx-singapore-2026-accelerates-ai-deployment-through-catalysing-industry-innovation-and-advancing-global-collaborations20260824102549/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260824045500-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-08-24T04:55:49Z"
+        },
+        {
+            "source": {
+                "id": "da182982e3ceb53c6eb8df72aa2030c3",
+                "name": "Indiatimes",
+                "url": "https://www.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI is changing the workplace faster than expected; But why are young workers taking the biggest hit? Details here",
+            "url": "https://www.indiatimes.com/trending/ai-is-changing-the-workplace-faster-than-expected-but-why-are-young-workers-taking-the-biggest-hit-details-here/articleshow/133441064.html",
+            "urlToImage": "https://staticimg.publishstory.co/thumb/133441076.cms?imgsize=98690&width=1280&height=720&resizemode=8",
+            "publishedAt": "2026-08-24T04:47:39Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -3414,90 +3498,6 @@
             "url": "https://phys.org/news/2026-08-3d-imaging-machine-noncontact-weight.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/3d-imaging-and-machine.jpg",
             "publishedAt": "2026-08-20T16:20:01Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence Replaces Natural Intelligence In Tech-Addict Teens",
-            "url": "https://www.freepressjournal.in/analysis/artificial-intelligence-replaces-natural-intelligence-in-tech-addict-teens",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-08-20/fxmnxzwi/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-08-20T214318.873.jpg",
-            "publishedAt": "2026-08-20T16:13:39Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Top global banks adopt AI forex tool",
-            "url": "https://www.manilatimes.net/2026/08/21/business/foreign-business/top-global-banks-adopt-ai-forex-tool/2409501",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/20/1184170.jpg",
-            "publishedAt": "2026-08-20T16:02:00Z"
-        },
-        {
-            "source": {
-                "id": "2b5db686603d0197d748f18d2dc01aec",
-                "name": "Bloomberg Tax News",
-                "url": "https://news.bloombergtax.com",
-                "country": "us"
-            },
-            "title": "Germany Flags AI Risk to Income Tax Bases, Public Finances",
-            "url": "https://news.bloombergtax.com/daily-tax-report/germany-flags-ai-risk-to-income-tax-bases-public-finances",
-            "urlToImage": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-            "publishedAt": "2026-08-20T15:32:06Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Meta stock reels as trillion-dollar child addiction trial collides with its huge AI spending",
-            "url": "https://www.latimes.com/business/story/2026-08-20/meta-stock-reels-as-trillion-dollar-child-addiction-trial-collides-with-its-huge-ai-spending",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/8762898/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8a%2F42%2F4b2c3052e3a6724342a83a770ae3%2F1x-1.jpg",
-            "publishedAt": "2026-08-20T15:29:47Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "Abhay Patil Moves Beyond Trading Education With an AI Fintech Currently Valued at $5 Million",
-            "url": "https://www.republicworld.com/initiatives/abhay-patil-moves-beyond-trading-education-with-an-ai-fintech-currently-valued-at-5-million-2026-08-20-135204",
-            "urlToImage": "https://img.republicworld.com/all_images/2026/08/abhay-patil-moves-beyond-trading-education-with-an-ai-fintech-currently-valued-at-5-million-1787239502883-1280x720.webp",
-            "publishedAt": "2026-08-20T15:25:08Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "AI, smart poles, 5G network: Delhi Master Plan 2047 charts digital infrastructure push",
-            "url": "https://theprint.in/india/ai-smart-poles-5g-network-delhi-master-plan-2047-charts-digital-infrastructure-push/3020753/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-08-20T15:22:10Z"
-        },
-        {
-            "source": {
-                "id": "31177620c1e6e610b5d2b67916ed3615",
-                "name": "PBS News",
-                "url": "https://www.pbs.org",
-                "country": "us"
-            },
-            "title": "Trump keeps embracing data centers, an unpopular topic in midterm races",
-            "url": "https://www.pbs.org/newshour/politics/trump-keeps-embracing-data-centers-an-unpopular-topic-in-midterm-races",
-            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-19T150847Z_1021175801_RC2R1NABWLPP_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-            "publishedAt": "2026-08-20T15:21:18Z"
         }
     ]
 }
