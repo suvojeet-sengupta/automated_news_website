@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2026-08-24T19:24:00.336389Z",
+    "lastUpdatedAt": "2026-08-24T20:23:42.507357Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Picture-perfect AI resumes push firms back to tests, referrals",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/24/picture-perfect-ai-resumes-push-firms-back-to-tests-referrals",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/24/4074993.jpg",
+            "publishedAt": "2026-08-24T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            },
+            "title": "Korea sets national principles for AI ethics",
+            "url": "https://www.koreatimes.co.kr/business/tech-science/20260824/korea-sets-national-principles-for-ai-ethics",
+            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/24/a6638a05-00f5-47f1-859e-41b43b501085.jpg",
+            "publishedAt": "2026-08-24T07:39:02Z"
+        },
+        {
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            },
+            "title": "Korea's AI ethics principles lack binding force, specificity",
+            "url": "https://www.koreatimes.co.kr/business/tech-science/20260824/koreas-ai-ethics-principles-lack-binding-force-specificity",
+            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/24/a6638a05-00f5-47f1-859e-41b43b501085.jpg",
+            "publishedAt": "2026-08-24T07:39:02Z"
+        },
         {
             "source": {
                 "id": "91120a92e0d24e24fbffb6d0affabfe6",
@@ -3456,42 +3492,6 @@
             "url": "https://www.cp24.com/news/world/2026/08/20/trump-keeps-embracing-data-centres-even-as-they-become-toxic-in-midterm-races/",
             "urlToImage": "https://www.cp24.com/resizer/v2/ZXB77AYFZKYS2JF4OWUWIRKOOY.jpg?smart=true&auth=e722c940f5bcebd88b088c7aeee1bbfe47dba11e1829829472689ea4ba547cf0&width=1200&height=630",
             "publishedAt": "2026-08-20T18:06:42Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Trump embraces data centers as they mark U.S. midterms debates",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/08/20/trump-keeps-embracing-data-centres-even-as-they-become-toxic-in-midterm-races/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/ZXB77AYFZKYS2JF4OWUWIRKOOY.jpg?smart=true&auth=e722c940f5bcebd88b088c7aeee1bbfe47dba11e1829829472689ea4ba547cf0&width=1200&height=630",
-            "publishedAt": "2026-08-20T18:06:42Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "PM Modi urges govt departments, universities to work with youth on policymaking",
-            "url": "https://www.cnbctv18.com/india/pm-modi-calls-govt-universities-youth-fresh-ideas-policymaking-19974057.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-26t205930336-2026-07-b0ab9a2c11879f763fae8bccca188b77.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-08-20T17:39:41Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-            "url": "https://www.europesays.com/3205495/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/plc.jpg",
-            "publishedAt": "2026-08-20T17:17:23Z"
         }
     ]
 }
