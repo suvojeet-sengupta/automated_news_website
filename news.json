@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-08-24T23:17:50.331584Z",
+    "lastUpdatedAt": "2026-08-25T00:59:25.095881Z",
     "articles": [
+        {
+            "source": {
+                "id": "214d496d625fc657723cf4da80cff8ce",
+                "name": "Deccan Chronicle",
+                "url": "https://www.deccanchronicle.com",
+                "country": "in"
+            },
+            "title": "Australian PM Wants To Ban Data Centres Near Schools",
+            "url": "https://www.deccanchronicle.com/world/australia-and-new-zealand/australian-pm-wants-to-ban-data-centres-near-schools-1981849",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/08/24/2080532-australian-pm-anthony-albanese.jpg",
+            "publishedAt": "2026-08-24T12:52:26Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "An AI job boom? Here's what the tedious, temporary work in data labeling is actually like",
+            "url": "https://phys.org/news/2026-08-ai-job-boom-tedious-temporary.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-job.jpg",
+            "publishedAt": "2026-08-24T12:40:01Z"
+        },
+        {
+            "source": {
+                "id": "63fec970d50112ee9b8bc1418d9c5872",
+                "name": "Scientific Computing World",
+                "url": "https://www.scientific-computing.com",
+                "country": "us"
+            },
+            "title": "General Atomics and SDSC use AI to advance fusion laser research",
+            "url": "https://www.scientific-computing.com/article/general-atomics-sdsc-use-ai-advance-fusion-laser-research",
+            "urlToImage": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
+            "publishedAt": "2026-08-24T12:30:30Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI is changing more than technology: Why the TOI AI Quotient Awards 2026 are also about the leaders behind the change",
+            "url": "https://timesofindia.indiatimes.com/life-style/spotlight/ai-is-changing-more-than-technology-why-the-toi-ai-quotient-awards-2026-are-also-about-the-leaders-behind-the-change/articleshow/133466029.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133466061,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-24T12:30:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Pasqal and Eleven Ventures Establish Commercial Joint Venture to Scale Quantum and AI Computing Across Saudi Arabia and the Broader MENA Region",
+            "url": "https://www.manilatimes.net/2026/08/24/tmt-newswire/globenewswire/pasqal-and-eleven-ventures-establish-commercial-joint-venture-to-scale-quantum-and-ai-computing-across-saudi-arabia-and-the-broader-mena-region/2410964",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1188051.jpg",
+            "publishedAt": "2026-08-24T12:28:58Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "This historian may have just agreed with Microsoft AI CEO Mustafa Suleyman’s warning on AI’s ability to manipulate human minds",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/this-historian-may-have-just-agreed-with-microsoft-ai-ceo-mustafa-suleymans-warning-on-ais-ability-to-manipulate-human-minds/articleshow/133465818.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133465842,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-24T12:16:00Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "SoftBank Plans Record $6.3 Billion Retail Bond Sale To Fund OpenAI, AI Investments",
+            "url": "https://www.freepressjournal.in/business/softbank-plans-record-63-billion-retail-bond-sale-to-fund-openai-ai-investments",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2020-11/52f8b77b-1ae4-4bb8-835b-a1d11dfedbc6/SoftBank.JPG",
+            "publishedAt": "2026-08-24T12:14:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "TCS to acquire Porsche IT unit MHP for €320 million",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tcs-to-acquire-porsche-it-unit-mhp-for-320-million/articleshow/133464672.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133465163,width-1200,height-630,imgsize-101338,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-24T12:02:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "TCS secures €1.25 billion five-year strategic deal with Porsche",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tcs-to-buy-porsche-it-unit-for-373-million-tata-news/articleshow/133463961.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133464153,width-1200,height-630,imgsize-48218,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-24T11:39:00Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Trump defends AI data centers, dismisses opposition as ‘mistake’-Touts tech infrastructure boom",
+            "url": "https://www.thenews.com.pk/latest/1413427-trump-defends-ai-data-centers-dismisses-opposition-as-mistaketouts-tech-infrastructure-boom",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-24/1413427_041807_updates.jpg",
+            "publishedAt": "2026-08-24T11:18:00Z"
+        },
         {
             "source": {
                 "id": "b1fa63410571207862faad9daf9b4527",
@@ -600,6 +720,42 @@
             "url": "https://www.europesays.com/3211882/",
             "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/Blackstone-private-equity-AI-1.jpg",
             "publishedAt": "2026-08-24T00:36:15Z"
+        },
+        {
+            "source": {
+                "name": "jewishpress"
+            },
+            "title": "Israeli AI Startup Decart Nears $7 Billion Sale to Anthropic",
+            "url": "https://jewishpress.com/israeli-ai-startup-decart-nears-7-billion-sale-to-anthropic/",
+            "urlToImage": "https://jewishpress.com/wp-content/uploads/2026/08/Decart-082426.jpg",
+            "publishedAt": "2026-08-24 12:57:00"
+        },
+        {
+            "source": {
+                "name": "techbooky"
+            },
+            "title": "Wolters Kluwer Turns Legal Content Into AI-Ready Intelligence",
+            "url": "https://www.techbooky.com/wolters-kluwer-legal-content-ai-ready-intelligence/",
+            "urlToImage": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/08/24135222/about-wolters-kluwer-legal-and-regulatory.jpg",
+            "publishedAt": "2026-08-24 12:53:23"
+        },
+        {
+            "source": {
+                "name": "news18"
+            },
+            "title": "Sam Altman Humbled? Admits He Was ‘Very Wrong’ About AI Changing The World Quickly",
+            "url": "https://www.news18.com/tech/sam-altman-humbled-admits-he-was-very-wrong-about-ai-changing-the-world-quickly-10290836.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/07/1-2026-07-04T185733.348-2026-07-5755ba3e9bf9a9305c2acc88f5af350d-1200x800.png",
+            "publishedAt": "2026-08-24 12:04:34"
+        },
+        {
+            "source": {
+                "name": "ndtv"
+            },
+            "title": "Alibaba Launches Wan3.0 AI Video Model After $10 Billion Share Sale",
+            "url": "https://www.ndtvprofit.com/technology/alibaba-unveils-newest-ai-video-generation-tool-wan3-0-after-fueling-10-billion-into-ai-war-chest-11951200",
+            "urlToImage": "https://c.ndtvimg.com/2026-02/l7nlf0g_alibaba_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+            "publishedAt": "2026-08-24 11:40:11"
         },
         {
             "source": {
@@ -3363,159 +3519,6 @@
             "url": "https://www.reuters.com/business/world-at-work/hyundai-motors-union-stages-first-full-strike-10-years-over-wage-talks-2026-08-21/",
             "urlToImage": "https://www.reuters.com/resizer/v2/TT7SPSHGNZJINOBGXIEHGCL2DQ.jpg?auth=217c9d9f31cb1b59adb37ba871cf66991909b72109c79fb51a17dc43e691a01f&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2026-08-21T02:22:15Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
-            "url": "https://www.europesays.com/3206234/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/2026-07-17T065124Z_993058877_RC2GFMARZ9BM_RTRMADP_3_CHINA-AI-1787272458.jpg",
-            "publishedAt": "2026-08-21T01:52:18Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "AI in corporate Australia is a mess. Your job is safe for a while yet",
-            "url": "https://www.afr.com/chanticleer/ai-in-corporate-australia-is-a-mess-your-job-is-safe-for-a-while-yet-20260821-p60qbm",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.3146%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_56/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/552b9819c8f5bb58fdc0bcb643d1b81361167755",
-            "publishedAt": "2026-08-21T01:20:04Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
-            "url": "https://www.breitbart.com/news/schools-are-starting-to-teach-ai-literacy-for-many-that-means-helping-kids-see-chatbots-flaws/",
-            "urlToImage": "https://media.breitbart.com/media/2026/08/wi/ap/education-ai-literacy-2475-education-ai-literacy-amanda-bickerstaff-ceo-of-ai-education-speaks-640x335.jpg",
-            "publishedAt": "2026-08-21T01:04:28Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI pioneer Fei-Fei Li warns of risks from growing tech backlash",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/21/ai-pioneer-fei-fei-li-warns-of-risks-from-growing-tech-backlash",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4069479.jpg",
-            "publishedAt": "2026-08-21T01:00:00Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Psilocybin may make the brain more organized than scientists expected",
-            "url": "https://www.news-medical.net/news/20260820/Psilocybin-may-make-the-brain-more-organized-than-scientists-expected.aspx",
-            "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_845308_17872726167614195.jpg",
-            "publishedAt": "2026-08-21T00:43:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Tourist sign translations made more culturally fluent by AI system",
-            "url": "https://phys.org/news/2026-08-tourist-culturally-fluent-ai.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2019/translate.jpg",
-            "publishedAt": "2026-08-21T00:40:01Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence and the lines I won’t cross",
-            "url": "https://www.thehindu.com/life-and-style/artificial-intelligence-ai-lines-i-wont-cross-sima-kumar-skill-set-creativity-critical-thinking/article71363873.ece",
-            "urlToImage": "https://th-i.thgim.com/public/life-and-style/178f09/article71368576.ece/alternates/LANDSCAPE_1200/AI%20and%20the%20lines%20I%20won%E2%80%99t%20cross.png",
-            "publishedAt": "2026-08-21T00:40:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Distinguishing common respiratory pathogens using machine learning of symptom profiles to prioritize diagnostic testing",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001656",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001656.g003&size=inline",
-            "publishedAt": "2026-08-21T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Radiomics-guided multimodal MRI fusion framework for non-enhanced glioblastoma noninvasive identification",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001662",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001662.g005&size=inline",
-            "publishedAt": "2026-08-21T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "brandiconimage"
-            },
-            "title": "Nvidia Backs Cloverleaf in Push to Expand U.S. AI Data Center Infrastructure",
-            "url": "http://www.brandiconimage.com/2026/08/nvidia-backs-cloverleaf-in-push-to.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6h2J05COGIhjzxnihBloVj-qA35onBzgQHb7Zmsaikaagt_jbEK4VvuTi_5Y-b2u7eFxqAVrnfacv9t70GHBMTI794ny72Y225rfp_Dv_QkIQXB7nlB6rxPrrAUoawl4ZGrEQAmzPgB9n152hP0SposfV7tf6biEcqlmzalvZV8zWoGQXZgbvILvVOT4/s72-c/1000974652.jpg",
-            "publishedAt": "2026-08-21 18:40:02"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "500 Blog Posts To Learn About Mobile App Development",
-            "url": "https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-mobile-app-development-12F8880B-5AE1-45F8-9FF0-2CC944A53BE2",
-            "urlToImage": "https://static.bundle.app/news/c1297417-fc0b-50dc-acb4-b02c0f3ef22a.jpg",
-            "publishedAt": "2026-08-21 17:31:31"
-        },
-        {
-            "source": {
-                "name": "berkeley"
-            },
-            "title": "Berkeley Talks: Leaping robots, AI companies and a NASA mission: Stories of Berkeley student innovation",
-            "url": "https://news.berkeley.edu/2026/08/21/berkeley-talks-pieter-abbeel/",
-            "urlToImage": "https://news.berkeley.edu/wp-content/uploads/2026/08/Covariant-founding-team_2017_by-Elena-Zhukova-2560-1024x585.jpg",
-            "publishedAt": "2026-08-21 16:59:17"
-        },
-        {
-            "source": {
-                "name": "infotechlead"
-            },
-            "title": "SAP, Progress and NetApp Race for AI Data Layer as Inference Spending Hits $23.3 Billion",
-            "url": "https://infotechlead.com/artificial-intelligence/sap-progress-and-netapp-race-for-ai-data-layer-as-inference-spending-hits-23-3-billion-97914",
-            "urlToImage": "https://infotechlead.com/wp-content/uploads/2021/01/Lenovo-Yoga-7i-laptop.jpg",
-            "publishedAt": "2026-08-21 16:50:42"
-        },
-        {
-            "source": {
-                "name": "pctablet"
-            },
-            "title": "Motorola Releases Two Fully AI Created Films for Edge 70 Max and Moto G Max in India",
-            "url": "https://pc-tablet.com/motorola-releases-two-fully-ai-created-films-for-edge-70-max-and-moto-g-max-in-india/193474/",
-            "urlToImage": "https://pc-tablet.com/wp-content/uploads/2026/08/Motorola-Releases-Two-Fully-AI-Created-Films-for-Edge-70-Max-and-Moto-G-Max-in-India.jpg",
-            "publishedAt": "2026-08-21 16:28:20"
         }
     ]
 }
