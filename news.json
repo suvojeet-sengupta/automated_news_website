@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-08-25T22:20:30.816789Z",
+    "lastUpdatedAt": "2026-08-25T23:20:21.160611Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI helps workers most when paired with experience, new study finds",
+            "url": "https://phys.org/news/2026-08-ai-workers-paired.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/instacart-1.jpg",
+            "publishedAt": "2026-08-25T11:20:05Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "SpaceX To Put Nvidia AI Chips In Orbit: Musk Sets 2027 Launch",
+            "url": "https://www.outlookbusiness.com/corporate/spacex-to-put-nvidia-ai-chips-in-orbit-musk-sets-2027-launch",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-08-25/ctieo95s/ew.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-08-25T11:11:47Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Scindia calls on C-DOT to lead India's 6G push, take indigenous telecom technologies global",
+            "url": "https://www.devdiscourse.com/article/business/3967582-scindia-calls-on-c-dot-to-lead-indias-6g-push-take-indigenous-telecom-technologies-global",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/25_08_2026_16_39_40_4037399.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-08-25T11:09:45Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "DOT to lead India's 6G push, take indigenous telecom technologies global",
+            "url": "https://www.tribuneindia.com/news/business/scindia-calls-on-c-dot-to-lead-indias-6g-push-take-indigenous-telecom-technologies-global/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTUwYzRmOTYwLWEwNzUtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+            "publishedAt": "2026-08-25T11:08:28Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Scindia calls on C-DOT to lead India's 6G push, take indigenous telecom technologies global",
+            "url": "https://www.aninews.in/news/business/scindia-calls-on-c-dot-to-lead-indias-6g-push-take-indigenous-telecom-technologies-global20260825163510/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260825110444-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-08-25T11:05:10Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI-powered hackers: The new cyberwar is faster, smarter & harder to stop",
+            "url": "https://timesofindia.indiatimes.com/defence/news/ai-powered-hackers-the-new-cyberwar-is-faster-smarter-harder-to-stop/articleshow/133505318.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133506216,width-1280,height-720,imgsize-195954,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-25T10:47:00Z"
+        },
         {
             "source": {
                 "id": "85b540771682043e2a9f294068f5345b",
@@ -648,6 +720,15 @@
             "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/25/australia039s-top-music-charts-ban-ai-songs",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/25/4076536.jpg",
             "publishedAt": "2026-08-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "mashable_me"
+            },
+            "title": "Xiaomi targets Apple and Qualcomm with custom XRING O3 chip: Check full specs",
+            "url": "https://me.mashable.com/tech/75312/xiaomi-targets-apple-and-qualcomm-with-custom-xring-o3-chip-check-full-specs",
+            "urlToImage": "https://sm.mashable.com/mashable_me/photo/default/image-2026-08-25-161017188_msu4.jpg",
+            "publishedAt": "2026-08-25 10:56:18"
         },
         {
             "source": {
@@ -3390,90 +3471,6 @@
             "url": "https://markets.businessinsider.com/news/stocks/ai-daily-meta-said-to-become-one-of-microsoft-s-biggest-ai-customers-1036483977",
             "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
             "publishedAt": "2026-08-21T18:35:27Z"
-        },
-        {
-            "source": {
-                "id": "9af43a2802617b590f4e74738cf61a47",
-                "name": "Press of Atlantic City",
-                "url": "https://pressofatlanticcity.com",
-                "country": "us"
-            },
-            "title": "Do you support AI in the classroom? Take our poll.",
-            "url": "https://pressofatlanticcity.com/news/local/education/article_4b5933eb-171b-42bb-85da-b29559c47643.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/4/b5/4b5933eb-171b-42bb-85da-b29559c47643/6a889f38bcdd6.preview.jpg?crop=1762%2C925%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2026-08-21T18:27:00Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "NYC surpasses San Francisco as biggest tech talent hub, study shows",
-            "url": "https://nypost.com/2026/08/21/business/nyc-surpasses-san-francisco-as-biggest-tech-talent-hub-study-shows/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138082477.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-08-21T17:24:35Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Bait 600,000 Fraudsters Monthly, Report Says – NaturalNews.com",
-            "url": "https://www.naturalnews.com/2026-08-21-ai-powered-decoys-scam-bait-fraudsters-monthly.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/artificial-intelligence-AI.jpg",
-            "publishedAt": "2026-08-21T17:22:09Z"
-        },
-        {
-            "source": {
-                "id": "d9acc08d8066fc3620da5e6b20b406ad",
-                "name": "Boulder Daily Camera",
-                "url": "https://www.dailycamera.com",
-                "country": "us"
-            },
-            "title": "MAHA activists criticize Trump for promoting coal for AI data centers",
-            "url": "https://www.dailycamera.com/2026/08/21/maha-data-centers/",
-            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2026/08/Trump_Data_Centers_5_777.jpg?w=1998&h=1332",
-            "publishedAt": "2026-08-21T17:19:18Z"
-        },
-        {
-            "source": {
-                "id": "9ab210a1da58b160b3d40bd353f54b38",
-                "name": "St. Paul Pioneer Press",
-                "url": "https://www.twincities.com",
-                "country": "us"
-            },
-            "title": "MAHA activists criticize Trump for promoting coal for AI data centers",
-            "url": "https://www.twincities.com/2026/08/21/maha-data-centers/",
-            "urlToImage": "https://www.twincities.com/wp-content/uploads/2026/08/Trump_Data_Centers_5_777.jpg?w=1998&h=1332",
-            "publishedAt": "2026-08-21T17:19:18Z"
-        },
-        {
-            "source": {
-                "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
-                "name": "Norfolk Virginian-Pilot",
-                "url": "https://www.pilotonline.com",
-                "country": "us"
-            },
-            "title": "MAHA activists criticize Trump for promoting coal for AI data centers",
-            "url": "https://www.pilotonline.com/2026/08/21/maha-data-centers/",
-            "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2026/08/Trump_Data_Centers_5_777.jpg?w=1998&h=1332",
-            "publishedAt": "2026-08-21T17:19:18Z"
-        },
-        {
-            "source": {
-                "id": "8fac888ae06647c3a7d6093c60c9d9b5",
-                "name": "San Diego Union-Tribune",
-                "url": "https://www.sandiegouniontribune.com",
-                "country": "us"
-            },
-            "title": "MAHA activists criticize Trump for promoting coal for AI data centers",
-            "url": "https://www.sandiegouniontribune.com/2026/08/21/maha-data-centers/",
-            "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/08/Trump_Data_Centers_5_777.jpg?w=1998&h=1332",
-            "publishedAt": "2026-08-21T17:19:18Z"
         }
     ]
 }
