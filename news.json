@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-08-25T05:26:07.697958Z",
+    "lastUpdatedAt": "2026-08-25T06:37:33.478315Z",
     "articles": [
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "Carnegie Mellon to lead national study on AI, arts education",
+            "url": "https://triblive.com/news/education-classroom/carnegie-mellon-to-lead-national-study-on-ai-arts-education/",
+            "urlToImage": "https://assets-varnish.triblive.com/2026/08/9877266_web1_ptr-CMUArtStudy1.jpg",
+            "publishedAt": "2026-08-24T18:14:11Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "This US company is repurposing old EV batteries in Nevada to power AI data centres. This could solve one of AI’s biggest problems",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/this-us-company-is-repurposing-old-ev-batteries-in-nevada-to-power-ai-data-centres-this-could-solve-one-of-ais-biggest-problems/articleshow/133475316.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133475779,width-1200,height-630,imgsize-249244,overlay-etpanache/articleshow.jpg",
+            "publishedAt": "2026-08-24T18:08:00Z"
+        },
+        {
+            "source": {
+                "id": "45feb5d82cbb4a21911b36edd4bb175a",
+                "name": "Greater Kashmir",
+                "url": "https://www.greaterkashmir.com",
+                "country": "in"
+            },
+            "title": "Amit Shah calls for AI-driven analysis of intelligence data to counter national-security challenges",
+            "url": "https://www.greaterkashmir.com/national/amit-shah-calls-for-ai-driven-analysis-of-intelligence-data-to-counter-national-security-challenges-12429228",
+            "urlToImage": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/08/24/amit-shah-2-2026-08-24-23-31-34.jpg",
+            "publishedAt": "2026-08-24T18:02:38Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "Power hungry: data centre energy use set to skyrocket",
+            "url": "https://www.canberratimes.com.au/story/9336615/power-hungry-data-centre-energy-use-set-to-skyrocket/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/af824de2-96b1-4153-a638-986a0b2b37dc.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-08-24T17:30:35Z"
+        },
         {
             "source": {
                 "id": "31177620c1e6e610b5d2b67916ed3615",
@@ -804,6 +852,24 @@
             "url": "https://www.europesays.com/3211882/",
             "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/Blackstone-private-equity-AI-1.jpg",
             "publishedAt": "2026-08-24T00:36:15Z"
+        },
+        {
+            "source": {
+                "name": "infotechlead"
+            },
+            "title": "IFA 2026: AI, Smart Glasses, Humanoid Robots, Smart Homes and Gaming Set to Dominate Berlin",
+            "url": "https://infotechlead.com/artificial-intelligence/ifa-2026-ai-smart-glasses-humanoid-robots-smart-homes-and-gaming-set-to-dominate-berlin-97924",
+            "urlToImage": "https://infotechlead.com/wp-content/uploads/2025/11/How-to-buy-best-laptop-online.jpg",
+            "publishedAt": "2026-08-24 18:02:18"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Physical AI’s moment has arrived – but moving from demo to deployment is the hard part. AWS wants to fix that",
+            "url": "https://siliconangle.com/2026/08/24/physical-ais-moment-has-arrived-but-moving-from-demo-to-deployment-is-the-hard-part-aws-wants-to-fix-that/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/physicalai-synopsys.png",
+            "publishedAt": "2026-08-24 17:46:02"
         },
         {
             "source": {
@@ -3426,78 +3492,6 @@
             "url": "https://www.rte.ie/news/business/2026/0821/1588734-hyundai-union-stages-first-full-strike-in-a-decade/",
             "urlToImage": "https://www.rte.ie/images/001f58c0-1600.jpg",
             "publishedAt": "2026-08-21T06:44:41Z"
-        },
-        {
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
-                "country": "in"
-            },
-            "title": "Tamil Nadu Plans 100 New Paddy Procurement Centres With AI, QR",
-            "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/govt-to-build-100-paddy-procurement-centres-15-godowns-1980992",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/06/16/2052586-paddy.jpg",
-            "publishedAt": "2026-08-21T06:41:22Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "IATA Cargo Conference Puts Practical Operations in the Spotlight",
-            "url": "https://www.devdiscourse.com/article/headlines/3966225-iata-cargo-conference-puts-practical-operations-in-the-spotlight",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/21_08_2026_11_13_42_9866444.png&width=920&format=jpeg",
-            "publishedAt": "2026-08-21T06:12:55Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Piyush Goyal, Check Point Software CEO Discuss Cybersecurity And AI-Driven Security For India’s Digital Infrastructure",
-            "url": "https://www.freepressjournal.in/business/piyush-goyal-check-point-software-ceo-discuss-cybersecurity-and-ai-driven-security-for-indias-digital-infrastructure",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-08-21/pxyacihx/piyush-goyal.jpg",
-            "publishedAt": "2026-08-21T06:00:03Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Hays shifts to hard-to-replace roles as AI reshapes hiring",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/21/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4070790.jpg",
-            "publishedAt": "2026-08-21T06:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Piyush Goyal, Check Point Software CEO discuss cybersecurity, AI",
-            "url": "https://www.lokmattimes.com/technology/piyush-goyal-check-point-software-ceo-discuss-cybersecurity-ai-driven-security-for-indias-digital-infrastructure-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260614419f_202608.jpg",
-            "publishedAt": "2026-08-21T05:45:56Z"
-        },
-        {
-            "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
-                "country": "us"
-            },
-            "title": "Apple Music will soon tell you which songs were made with AI",
-            "url": "https://www.digitaltrends.com/home-theater/apple-music-will-soon-tell-you-which-songs-were-made-with-ai/",
-            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/08/Apple-Music-open-on-iphone.jpg?resize=1200%2C630",
-            "publishedAt": "2026-08-21T05:39:44Z"
         }
     ]
 }
