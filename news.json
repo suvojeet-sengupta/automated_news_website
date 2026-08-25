@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2026-08-25T04:33:18.470418Z",
+    "lastUpdatedAt": "2026-08-25T05:26:07.697958Z",
     "articles": [
+        {
+            "source": {
+                "id": "31177620c1e6e610b5d2b67916ed3615",
+                "name": "PBS News",
+                "url": "https://www.pbs.org",
+                "country": "us"
+            },
+            "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
+            "url": "https://www.pbs.org/newshour/world/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-07-18T152522Z_416417339_RC26GMAK9V8F_RTRMADP_3_CHINA-AI-1024x683.jpg",
+            "publishedAt": "2026-08-24T17:23:40Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "UK, Ukraine sign AI defence partnership linked to battlefield technology",
+            "url": "https://www.straitstimes.com/world/europe/uk-ukraine-sign-ai-defence-partnership-linked-to-battlefield-technology",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/60a01781d2084a6c00fe329556e728affc399535c7246ee3c499d5104ad05a94",
+            "publishedAt": "2026-08-24T17:09:03Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Google app is getting this ‘Big’ Gemini update on Android",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-app-is-getting-this-big-gemini-update-on-android/articleshow/133474324.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133474339,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-24T17:08:00Z"
+        },
+        {
+            "source": {
+                "id": "63fec970d50112ee9b8bc1418d9c5872",
+                "name": "Scientific Computing World",
+                "url": "https://www.scientific-computing.com",
+                "country": "us"
+            },
+            "title": "Five AI will develop photorealistic simulation for faster and safer autonomous vehicle development",
+            "url": "https://www.scientific-computing.com/article/five-ai-will-develop-photorealistic-simulation-faster-safer-autonomous-vehicle-development",
+            "urlToImage": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
+            "publishedAt": "2026-08-24T16:55:11Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3450,54 +3498,6 @@
             "url": "https://www.digitaltrends.com/home-theater/apple-music-will-soon-tell-you-which-songs-were-made-with-ai/",
             "urlToImage": "https://www.digitaltrends.com/tachyon/2026/08/Apple-Music-open-on-iphone.jpg?resize=1200%2C630",
             "publishedAt": "2026-08-21T05:39:44Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Micron CEO Sanjay Mehrotra's 'reminder' to everyone investing in AI and calling it 'big': Right now, there is no AI without ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/micron-ceo-sanjay-mehrotras-reminder-to-everyone-investing-in-ai-and-calling-it-big-right-now-there-is-no-ai-without-/articleshow/133393929.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133393971,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-21T05:16:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Micron CEO Sanjay Mehrotra's 'reminder' to everyone investing in AI and calling it 'big': Right now, there is no AI without ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/micron-ceo-sanjay-mehrotra-to-reminder-everyone-investing-in-ai-and-calling-it-big-right-now-there-is-no-ai-without-/articleshow/133393929.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133393971,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-21T05:16:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "South Korea plans chip windfall fund to back youth, AI investment",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/21/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4070887.jpg",
-            "publishedAt": "2026-08-21T04:27:00Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "Four operators approved to expand data centres; 200MW of new capacity allocated",
-            "url": "https://www.straitstimes.com/tech/four-operators-approved-to-expand-data-centres-200mw-of-new-capacity-allocated",
-            "urlToImage": "https://www.straitstimes.com/favicon.ico",
-            "publishedAt": "2026-08-21T04:25:02Z"
         }
     ]
 }
