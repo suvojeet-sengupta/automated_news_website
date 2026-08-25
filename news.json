@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-25T06:37:33.478315Z",
+    "lastUpdatedAt": "2026-08-25T07:39:24.310499Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Fully AI-generated music to be banned from ARIA charts",
+            "url": "https://www.abc.net.au/news/2026-08-25/ai-generated-music-to-be-banned-from-aria-charts/107072642",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/4305c5850797519cf17b18a4de0148ab?impolicy=wcms_watermark_news&cropH=640&cropW=1138&xPos=33&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-08-24T19:07:55Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "How homebuyers are using AI-powered realtors to save tens of thousands in fees",
+            "url": "https://nypost.com/2026/08/24/business/how-homebuyers-are-using-ai-powered-realtors-to-save-tens-of-thousands-in-fees/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/i-saved-20k-using-ai-136757115.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-08-24T19:04:16Z"
+        },
         {
             "source": {
                 "id": "b1fa63410571207862faad9daf9b4527",
@@ -3468,30 +3492,6 @@
             "url": "https://www.newsbytesapp.com/news/science/apple-to-introduce-made-with-ai-label-for-ai-generated-songs/story",
             "urlToImage": "https://i.cdn.newsbytesapp.com/images/l271_36131787288153.jpg",
             "publishedAt": "2026-08-21T07:06:47Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI can never take over human relationships, craft: Sabyasachi Mukherjee",
-            "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/ai-can-never-take-over-human-relationships-craft-sabyasachi-mukherjee/articleshow/133395725.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-133395852,width-1200,height-630,imgsize-185532,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-08-21T07:04:00Z"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie",
-                "country": "ie"
-            },
-            "title": "Hyundai South Korean union stages first strike in decade",
-            "url": "https://www.rte.ie/news/business/2026/0821/1588734-hyundai-union-stages-first-full-strike-in-a-decade/",
-            "urlToImage": "https://www.rte.ie/images/001f58c0-1600.jpg",
-            "publishedAt": "2026-08-21T06:44:41Z"
         }
     ]
 }
