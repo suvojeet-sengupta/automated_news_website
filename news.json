@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2026-08-25T02:19:43.644659Z",
+    "lastUpdatedAt": "2026-08-25T03:43:12.098195Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Hohhot, Inner Mongolia: Converting Prairie Winds into Computing Power",
+            "url": "https://www.manilatimes.net/2026/08/24/tmt-newswire/media-outreach-newswire/hohhot-inner-mongolia-converting-prairie-winds-into-computing-power/2411164",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1188492.jpg",
+            "publishedAt": "2026-08-24T15:15:13Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Laid off for a bot, China’s workers face an AI jobs squeeze",
+            "url": "https://www.latimes.com/business/story/2026-08-24/laid-off-for-bot-chinas-workers-face-ai-jobs-squeeze",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/0a4da81/2147483647/strip/true/crop/7664x4024+0+543/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F56%2Ff70bafb34b639d43b38e2919807c%2F25bba0311d4740c48220f8bd0d32e5d8.jpg",
+            "publishedAt": "2026-08-24T14:26:28Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -732,6 +756,24 @@
             "url": "https://www.europesays.com/3211882/",
             "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/08/Blackstone-private-equity-AI-1.jpg",
             "publishedAt": "2026-08-24T00:36:15Z"
+        },
+        {
+            "source": {
+                "name": "nynewscast"
+            },
+            "title": "AI in Semiconductor Market Size to Worth $255.90 Billion by 2035, Due to AI Data Center Expansion, Advanced AI Silicon, and Edge Computing Adoption Globally | SNS Insider",
+            "url": "https://nynewscast.com/ai-in-semiconductor-market-size-to-worth-255-90-billion-by-2035-due-to-ai-data-center-expansion-advanced-ai-silicon-and-edge-computing-adoption-globally-sns-insider-249675/",
+            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+            "publishedAt": "2026-08-24 15:30:00"
+        },
+        {
+            "source": {
+                "name": "webwire"
+            },
+            "title": "STMicroelectronics and NUS launch Corporate Lab to power the future of Edge AI in Singapore",
+            "url": "https://www.webwire.com/ViewPressRel.asp?aId=359385",
+            "urlToImage": "https://photos.webwire.com/prmedia/6/359385/359385-1-m.jpg",
+            "publishedAt": "2026-08-24 15:22:43"
         },
         {
             "source": {
@@ -3468,54 +3510,6 @@
             "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260821/high-tech-guardians-korea-deploys-ai-patrol-robots-to-protect-historic-palaces",
             "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/21/c9c69ef8-77bd-4c40-ad7e-a26aa346125b.jpg",
             "publishedAt": "2026-08-21T03:49:02Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "Nvidia Says No China-Specific AI Chip Is On Its Roadmap, Denies Report",
-            "url": "https://www.timesnownews.com/technology-science/nvidia-says-no-china-specific-ai-chip-is-on-its-roadmap-denies-report-article-155929957",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-155929962,thumbsize-46158,width-1280,height-720,resizemode-75/155929962.jpg",
-            "publishedAt": "2026-08-21T03:43:34Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Machine learning creates a color wheel for complex odors",
-            "url": "https://www.news-medical.net/news/20260820/Machine-learning-creates-a-color-wheel-for-complex-odors.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2016/5/3d_rendered_illustration_-_molecules-Sebastian_Kaulitzki-2000_12b7886e43a74db8bd94fd774ce58a26-620x480.jpg",
-            "publishedAt": "2026-08-21T03:35:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Anthropic plans to change data retention policy for advanced AI",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/21/anthropic-plans-to-changedata-retention-policy-for-advanced-ai",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4070677.jpg",
-            "publishedAt": "2026-08-21T03:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "America’s top VC Chamath Palihapitiya may have just told Sam Altman and Dario Amodei: You have failed miserably; lists three ‘biggest mistakes’",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/americas-top-vc-chamath-palihapitiya-may-have-just-told-sam-altman-and-dario-amodei-you-have-failed-miserably-lists-three-biggest-mistakes/articleshow/133391273.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133391291,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-21T02:51:00Z"
         }
     ]
 }
