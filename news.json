@@ -1,6 +1,135 @@
 {
-    "lastUpdatedAt": "2026-08-27T02:49:52.442101Z",
+    "lastUpdatedAt": "2026-08-27T13:39:35.809292Z",
     "articles": [
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "US senator probes AI camera surveillance, raises concerns over misuse of location data",
+            "url": "https://www.lokmattimes.com/international/us-senator-probes-ai-camera-surveillance-raises-concerns-over-misuse-of-location-data/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608273919797_202608.jpg",
+            "publishedAt": "2026-08-27T01:38:27Z"
+        },
+        {
+            "source": {
+                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
+                "name": "7NEWS Australia",
+                "url": "https://7news.com.au",
+                "country": "au"
+            },
+            "title": "Hyundai to launch 100 models by 2030 amid company-wide AI transition",
+            "url": "https://7news.com.au/motoring/hyundai-to-launch-100-models-by-2030-amid-company-wide-ai-transition-c-22783912",
+            "urlToImage": "https://images.7news.com.au/publication/C-22783912/a71f2af559eaad6dd4eba45120276bec20071cca-16x9-x0y209w4000h2250.jpg?imwidth=1200",
+            "publishedAt": "2026-08-27T00:24:51Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Hyundai to launch 100 models by 2030 amid company-wide AI transition",
+            "url": "https://www.perthnow.com.au/lifestyle/motoring/hyundai-to-launch-100-models-by-2030-amid-company-wide-ai-transition-c-22783910",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-22783910/a71f2af559eaad6dd4eba45120276bec20071cca-16x9-x0y209w4000h2250.jpg?imwidth=1200",
+            "publishedAt": "2026-08-27T00:24:50Z"
+        },
+        {
+            "source": {
+                "id": "da182982e3ceb53c6eb8df72aa2030c3",
+                "name": "Indiatimes",
+                "url": "https://www.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence risks: Why Bill Gates has gone from AI cheerleader to one of its loudest critics today",
+            "url": "https://www.indiatimes.com/trending/artificial-intelligence-risks-why-bill-gates-has-gone-from-ai-cheerleader-to-one-of-its-loudest-critics-today/articleshow/133540749.html",
+            "urlToImage": "https://staticimg.publishstory.co/thumb/133540787.cms?imgsize=83667&width=1280&height=720&resizemode=8",
+            "publishedAt": "2026-08-27T00:18:16Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "Bill Gates is sounding the alarm about growing risks posed by AI",
+            "url": "https://www.nbcnews.com/tech/tech-news/bill-gates-sounding-alarm-growing-risks-posed-ai-rcna594631",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260826-bill-gates-vsb-1948-be9925.jpg",
+            "publishedAt": "2026-08-27T00:01:39Z"
+        },
+        {
+            "source": {
+                "id": "78289f4d19c868d072c67a84199f13c5",
+                "name": "The Conversation",
+                "url": "https://theconversation.com",
+                "country": "au"
+            },
+            "title": "I surveyed workers to see if AI had caused job losses and was surprised by the findings",
+            "url": "https://theconversation.com/i-surveyed-workers-to-see-if-ai-had-caused-job-losses-and-was-surprised-by-the-findings-290100",
+            "urlToImage": "https://images.theconversation.com/files/756270/original/file-20260826-50-w4h1v7.jpg?ixlib=rb-4.1.1&rect=0%2C490%2C4897%2C2448&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2026-08-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "businessworld"
+            },
+            "title": "AWS To Deploy Two Million More Nvidia GPUs Globally In 2027-28",
+            "url": "https://www.businessworld.in/article/aws-to-deploy-two-million-more-nvidia-gpus-globally-in-2027-28-620988",
+            "urlToImage": "https://static.businessworld.in/aws-nvidia_20260827080749_original_image_37.webp",
+            "publishedAt": "2026-08-27 00:00:00"
+        },
+        {
+            "source": {
+                "id": "321f3fa90dde0946a7b4a17731c0314d",
+                "name": "The New Zealand Herald",
+                "url": "https://www.nzherald.co.nz",
+                "country": "nz"
+            },
+            "title": "Economist Brad Olsen horrified at AI deep fake scam using his image",
+            "url": "https://www.nzherald.co.nz/nz/economist-brad-olsen-horrified-at-ai-deep-fake-scam-using-his-image/AEJ6PWKFHFDLLEVJR3G3ZQSNFM/",
+            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/6EITFIDQ5ZFJDGGRH76PFLALDI.jpg?auth=0e6acdfba41c092995f88e1187f8c6e1f9e994edd701ad3713b8753fbba5efd1&width=1200&height=675&quality=70&smart=true",
+            "publishedAt": "2026-08-26T23:30:00Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "OpenAI releases final report on AI hacking incident",
+            "url": "https://www.upi.com/Top_News/US/2026/08/26/open-ai-releases-report-on-hugging-face-hack/2421787784896/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi_com/2421787784896/2026/1/a73648ec6a9de3add134a88fb759b08a/v1.5/OpenAI-releases-final-report-on-AI-hacking-incident.jpg",
+            "publishedAt": "2026-08-26T23:04:50Z"
+        },
+        {
+            "source": {
+                "id": "2b5db686603d0197d748f18d2dc01aec",
+                "name": "Bloomberg Tax News",
+                "url": "https://news.bloombergtax.com",
+                "country": "us"
+            },
+            "title": "Nvidia Steps Back Into China Market With First H200 Chip Sales",
+            "url": "https://news.bloombergtax.com/daily-tax-report/nvidia-steps-back-into-china-market-with-first-h200-chip-sales",
+            "urlToImage": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+            "publishedAt": "2026-08-26T23:04:10Z"
+        },
+        {
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            },
+            "title": "Strong AI chip demand fuels Nvidia's Q2 results well beyond Wall Street's expectations",
+            "url": "https://www.ajc.com/news/2026/08/strong-ai-chip-demand-fuels-nvidias-q2-results-well-beyond-wall-streets-expectations/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/CNIJIENEWBE4RE677P4CE52ZVA.jpg?auth=4cc15527dfd51505485805cbbac030fbec4dbf3fe4663b357fc7416c804b6318&width=1200&height=630&smart=true",
+            "publishedAt": "2026-08-26T23:01:39Z"
+        },
         {
             "source": {
                 "id": "b1fa63410571207862faad9daf9b4527",
@@ -480,6 +609,69 @@
             "url": "https://www.koreatimes.co.kr/business/tech-science/20260826/wrtn-raises-72-mil-in-series-c-funding-round",
             "urlToImage": "https://newsimg.koreatimes.co.kr/2026/08/26/db2fb76d-a29d-4cbb-9104-55d910de1bac.png",
             "publishedAt": "2026-08-26T01:47:03Z"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "The AI Race Is Moving to Space -- Is the U.S. Ready?",
+            "url": "https://www.newswise.com/articles/the-ai-race-is-moving-to-space-is-the-u-s-ready/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/images/uploads/2026/08/26/6a8f0345a0439_2026-ai-space-news-4x3-shutterstock2738686557-768x576.jpg",
+            "publishedAt": "2026-08-26 22:15:53"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Why Kimberly-Clark’s CIO Says Operating Models Matter More Than AI",
+            "url": "https://www.forbes.com/sites/peterhigh/2026/08/26/why-kimberly-clarks-cio-says-operating-models-matter-more-than-ai/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a8f56f371d3868fc9504e0d/0x0.jpg",
+            "publishedAt": "2026-08-26 21:46:05"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Aravind Srinivas: From IIT Madras And OpenAI Researcher to AI Mogul and Perplexity Co-Founder",
+            "url": "https://www.analyticsinsight.net/photo/aravind-srinivas-from-iit-madras-and-openai-researcher-to-ai-mogul-and-perplexity-co-founder",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-08-26/89kxjx6v/Aravind-Srinivas-From-IIT-Madras-And-OpenAI-Researcher-to-AI-Mogul-and-Perplexity-Co-Founder.jpg",
+            "publishedAt": "2026-08-26 19:30:00"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "LibreOffice 26.8 adds plenty of nice features and refuses to shove AI in your face",
+            "url": "https://www.digitaltrends.com/computing/libreoffice-26-8-adds-plenty-of-nice-features-and-refuses-to-shove-ai-in-your-face/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/08/LibreOffice-26.8-featured-1.jpg?resize=440%2C292",
+            "publishedAt": "2026-08-26 18:57:00"
+        },
+        {
+            "source": {
+                "name": "computerworld_in"
+            },
+            "title": "Agentic AI – Ongoing coverage of its impact on the enterprise",
+            "url": "https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html",
+            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2026/08/3843138-0-78391900-1787770935-agentic-AI-2026-shutterstock_2715351033.jpg?quality=50&strip=all",
+            "publishedAt": "2026-08-26 18:33:01"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "Synopsys Says the AI Assistant Era Is Already Ending",
+            "url": "https://www.bundle.app/en/finance/synopsys-says-the-ai-assistant-era-is-already-ending-00152EAB-79F9-4F2B-9D8D-B6E597D982B1",
+            "urlToImage": "https://static.bundle.app/news/ff96cf02-55e9-5510-933d-85c630e88e8f.jpg",
+            "publishedAt": "2026-08-26 18:05:09"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Paying By The Token: Why The Unit Economics Of Clinical AI Matters",
+            "url": "https://us.headtopics.com/news/paying-by-the-token-why-the-unit-economics-of-clinical-ai-87061056",
+            "urlToImage": "https://i.headtopics.com/images/2026/8/26/forbestech/paying-by-the-token-why-the-unit-economics-of-clin-paying-by-the-token-why-the-unit-economics-of-clin-F3F174416FC958A93B2501ABE8DAE3B9-16x9.webp",
+            "publishedAt": "2026-08-26 17:42:52"
         },
         {
             "source": {
@@ -3222,174 +3414,6 @@
             "url": "https://nynewscast.com/ai-in-semiconductor-market-size-to-worth-255-90-billion-by-2035-due-to-ai-data-center-expansion-advanced-ai-silicon-and-edge-computing-adoption-globally-sns-insider-249675/",
             "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
             "publishedAt": "2026-08-24 15:30:00"
-        },
-        {
-            "source": {
-                "name": "webwire"
-            },
-            "title": "STMicroelectronics and NUS launch Corporate Lab to power the future of Edge AI in Singapore",
-            "url": "https://www.webwire.com/ViewPressRel.asp?aId=359385",
-            "urlToImage": "https://photos.webwire.com/prmedia/6/359385/359385-1-m.jpg",
-            "publishedAt": "2026-08-24 15:22:43"
-        },
-        {
-            "source": {
-                "name": "cioandleader"
-            },
-            "title": "Why Trustworthy AI Needs a Measurement Standard Too",
-            "url": "https://www.cioandleader.com/why-trustworthy-ai-needs-a-measurement-standard-too/",
-            "urlToImage": "https://www.cioandleader.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-6.43.19-PM.jpeg",
-            "publishedAt": "2026-08-24 13:13:19"
-        },
-        {
-            "source": {
-                "name": "jewishpress"
-            },
-            "title": "Israeli AI Startup Decart Nears $7 Billion Sale to Anthropic",
-            "url": "https://jewishpress.com/israeli-ai-startup-decart-nears-7-billion-sale-to-anthropic/",
-            "urlToImage": "https://jewishpress.com/wp-content/uploads/2026/08/Decart-082426.jpg",
-            "publishedAt": "2026-08-24 12:57:00"
-        },
-        {
-            "source": {
-                "name": "techbooky"
-            },
-            "title": "Wolters Kluwer Turns Legal Content Into AI-Ready Intelligence",
-            "url": "https://www.techbooky.com/wolters-kluwer-legal-content-ai-ready-intelligence/",
-            "urlToImage": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/08/24135222/about-wolters-kluwer-legal-and-regulatory.jpg",
-            "publishedAt": "2026-08-24 12:53:23"
-        },
-        {
-            "source": {
-                "name": "news18"
-            },
-            "title": "Sam Altman Humbled? Admits He Was ‘Very Wrong’ About AI Changing The World Quickly",
-            "url": "https://www.news18.com/tech/sam-altman-humbled-admits-he-was-very-wrong-about-ai-changing-the-world-quickly-10290836.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/07/1-2026-07-04T185733.348-2026-07-5755ba3e9bf9a9305c2acc88f5af350d-1200x800.png",
-            "publishedAt": "2026-08-24 12:04:34"
-        },
-        {
-            "source": {
-                "name": "ndtv"
-            },
-            "title": "Alibaba Launches Wan3.0 AI Video Model After $10 Billion Share Sale",
-            "url": "https://www.ndtvprofit.com/technology/alibaba-unveils-newest-ai-video-generation-tool-wan3-0-after-fueling-10-billion-into-ai-war-chest-11951200",
-            "urlToImage": "https://c.ndtvimg.com/2026-02/l7nlf0g_alibaba_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-            "publishedAt": "2026-08-24 11:40:11"
-        },
-        {
-            "source": {
-                "name": "nationalheraldindia"
-            },
-            "title": "AI is reshaping cyber warfare. Is India ready?",
-            "url": "https://www.nationalheraldindia.com/national/ai-is-reshaping-cyber-warfare-is-india-ready",
-            "urlToImage": "https://cf-images.assettype.com/nationalherald/2026-08-24/v50jxttr/Screenshot-2026-08-24-163315.jpg?w=280",
-            "publishedAt": "2026-08-24 11:06:57"
-        },
-        {
-            "source": {
-                "name": "aithority"
-            },
-            "title": "Btrack India Expands Cloud Infrastructure and AI-Ready Computing Solutions for Growing Businesses",
-            "url": "https://aithority.com/it-and-devops/cloud/btrack-india-expands-cloud-infrastructure-and-ai-ready-computing-solutions-for-growing-businesses/",
-            "urlToImage": "https://aithority.com/wp-content/uploads/2026/08/close-robotic-hand-using-laptop.jpg",
-            "publishedAt": "2026-08-24 10:24:03"
-        },
-        {
-            "source": {
-                "name": "brandiconimage"
-            },
-            "title": "Microsoft: Trust Will Determine Africa’s AI Economic Gains",
-            "url": "http://www.brandiconimage.com/2026/08/microsoft-trust-will-determine-africas.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoXZ270Ah4t3EiCYkyttPCJKxE1DUlEkV0aAR0FDbJDNZ14ktBDzzXIR2RXKOyWiKAvTCmKtofuPeTuCRHCVyuzxuFAo0Vx6qsEWv8oKUubHcC3rYdIMrjbd3hShzEhESe-8pSsBfFCgjWvPNE32cn5lpNkPvZgTs-naewN1VRKsdRXs4J1crbHP0qP1E/s72-c/1000978161.jpg",
-            "publishedAt": "2026-08-24 10:18:33"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "HP Executive Praises Gen Z as AI Natives Who Forge Better Work Habits",
-            "url": "https://www.webpronews.com/hp-executive-praises-gen-z-as-ai-natives-who-forge-better-work-habits/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/08/article-24233-1787542765.jpeg",
-            "publishedAt": "2026-08-24 10:12:06"
-        },
-        {
-            "source": {
-                "name": "sdxcentral"
-            },
-            "title": "Physical AI’s 3-computer problem",
-            "url": "https://www.sdxcentral.com/opinions/physical-ais-3-computer-problem/",
-            "urlToImage": "https://media.datacenterdynamics.com/media/images/agentic_AI.2e16d0ba.fill-750x500.jpg",
-            "publishedAt": "2026-08-24 06:00:39"
-        },
-        {
-            "source": {
-                "name": "nynewscast"
-            },
-            "title": "STMicroelectronics and NUS launch Corporate Lab to power the future of Edge AI in Singapore",
-            "url": "https://nynewscast.com/stmicroelectronics-and-nus-launch-corporate-lab-to-power-the-future-of-edge-ai-in-singapore-249545/",
-            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-            "publishedAt": "2026-08-24 06:00:00"
-        },
-        {
-            "source": {
-                "name": "securitybrief_in"
-            },
-            "title": "Akamai maps distributed cloud shift for APAC AI workloads",
-            "url": "https://securitybrief.in/story/akamai-maps-distributed-cloud-shift-for-apac-ai-workloads",
-            "urlToImage": "https://securitybrief.in/uploads/story/2026/08/24/compatible_Sean_Li__Jay_Jenkins__and_Reuben_Koh_-story-317296.jpg",
-            "publishedAt": "2026-08-24 03:15:00"
-        },
-        {
-            "source": {
-                "name": "itbrief_in"
-            },
-            "title": "Akamai maps distributed cloud shift for APAC AI workloads",
-            "url": "https://itbrief.in/story/akamai-maps-distributed-cloud-shift-for-apac-ai-workloads",
-            "urlToImage": "https://itbrief.in/uploads/story/2026/08/24/compatible_Sean_Li__Jay_Jenkins__and_Reuben_Koh_-story-317296.jpg",
-            "publishedAt": "2026-08-24 03:15:00"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "IIT Delhi programme focuses on technology leadership",
-            "url": "https://www.thehansindia.com/hans/young-hans/iit-delhi-programme-focuses-on-technology-leadership-1113206",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2026/08/24/1693312-leadership.webp",
-            "publishedAt": "2026-08-24 00:06:53"
-        },
-        {
-            "source": {
-                "name": "newsbreak"
-            },
-            "title": "Trane Technologies and Eaton Collaborate on AI Data Center Infrastructure Design",
-            "url": "https://www.newsbreak.com/news/4845863903991-trane-technologies-and-eaton-collaborate-on-ai-data-center-infrastructure-design",
-            "urlToImage": "https://img.particlenews.com/img/id/0QbdML_1EVo4DJX00",
-            "publishedAt": "2026-08-24 00:00:00"
-        },
-        {
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            },
-            "title": "Anthropic eyes US$100b-plus IPO, potentially eclipsing SpaceX",
-            "url": "https://www.malaymail.com/news/money/2026/08/24/anthropic-eyes-us100b-plus-ipo-potentially-eclipsing-spacex/232387",
-            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/08/23/358442.jpg",
-            "publishedAt": "2026-08-23T23:00:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Dr Dre admits he uses AI to produce music: 'I don't see it as a threat'",
-            "url": "https://www.livemint.com/entertainment/dr-dre-admits-he-uses-ai-to-produce-music-i-dont-see-it-as-a-threat-11787519115565.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/dr_dre_1787520088692_1787520098773_53a703f1-e83d-4417-b0e7-7014c1a71b23.jpg",
-            "publishedAt": "2026-08-23T21:38:16Z"
         }
     ]
 }
