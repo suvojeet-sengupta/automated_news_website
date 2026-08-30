@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-08-30T00:58:07.545155Z",
+    "lastUpdatedAt": "2026-08-30T06:20:02.876378Z",
     "articles": [
+        {
+            "source": {
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
+                "country": "us"
+            },
+            "title": "AI is taking a bigger role in short dramas, and actors are paying the price",
+            "url": "https://www.digitaltrends.com/computing/ai-is-taking-a-bigger-role-in-short-dramas-and-actors-are-paying-the-price/",
+            "urlToImage": "https://www.digitaltrends.com/tachyon/2026/03/Seedance-2.0-Bytedance-Official.jpg?resize=1200%2C630",
+            "publishedAt": "2026-08-29T17:54:04Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "US bill seeks 50 pc stake in AI companies",
+            "url": "https://www.lokmattimes.com/international/us-bill-seeks-50-pc-stake-in-ai-companies/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608293923097_202608.jpg",
+            "publishedAt": "2026-08-29T17:11:27Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Who is Anima Anandkumar? Meet the Indian AI scientist who's made it to TIME’s AI 100 list",
+            "url": "https://timesofindia.indiatimes.com/life-style/people/who-is-anima-anandkumar-meet-the-indian-ai-scientist-whos-made-it-to-times-ai-100-list/articleshow/133615653.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133615653,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-29T16:38:00Z"
+        },
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
+            "url": "https://www.cbc.ca/news/business/quantum-computing-xanadu-federal-support-9.7325434",
+            "urlToImage": "https://i.cbc.ca/ais/1.4502880,1516844853000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3BResize%3D620",
+            "publishedAt": "2026-08-29T16:30:53Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Thinking Machines, OpenAI and the impact gap",
+            "url": "https://www.manilatimes.net/2026/08/30/business/sunday-business-it/thinking-machines-openai-and-the-impact-gap/2414476",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/29/1194777.jpg",
+            "publishedAt": "2026-08-29T16:06:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Singapore eyes coalitions for safer AI use",
+            "url": "https://www.manilatimes.net/2026/08/30/business/sunday-business-it/singapore-eyes-coalitions-for-safer-ai-use/2414472",
+            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-08-29T16:02:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Nvidia CEO Jensen Huang missing from Time's 100 most influential people in AI list for 2026",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-missing-from-times-100-most-influential-people-in-ai-list-for-2026/articleshow/133610401.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133610431,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-29T14:49:00Z"
+        },
+        {
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+            },
+            "title": "The AI jobs shock: Why reskilling could become unavoidable by 2030, says report",
+            "url": "https://www.businesstoday.in/jobs/story/the-ai-jobs-shock-why-reskilling-could-become-unavoidable-by-2030-says-report-552061-2026-08-29",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a92eb71d00d1-the-report-highlights-ai-expertise--critical-thinking--human-verification--transdisciplinary-skills-292339933-16x9.jpg",
+            "publishedAt": "2026-08-29T14:24:23Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Accounting education and Artificial Intelligence",
+            "url": "https://www.thehindu.com/news/national/telangana/accounting-education-and-artificial-intelligence/article71404259.ece",
+            "urlToImage": "https://www.thehindu.com/theme/images/og-image.png",
+            "publishedAt": "2026-08-29T14:14:38Z"
+        },
+        {
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            },
+            "title": "Warsh raises stakes for Fed's next meeting and other takeaways from Jackson Hole conference",
+            "url": "https://www.ajc.com/news/2026/08/warsh-raises-stakes-for-feds-next-meeting-and-other-takeaways-from-jackson-hole-conference/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/X7STZ6T345CYLKOFDHVNSJIDHY.jpg?auth=027019628cca892653b532f73d5df7522b95999ba7af132d085c2c64202642f7&width=1200&height=630&smart=true",
+            "publishedAt": "2026-08-29T14:03:08Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -372,6 +492,24 @@
             "url": "https://phys.org/news/2026-08-aipowered-policing-endangering-police.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/canada-police.jpg",
             "publishedAt": "2026-08-29T00:40:02Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "The Device in a Worker’s Hand Is Now the Enterprise: Bass Pro Shops’ Chandra Kiran Movva on Building Retail’s Invisible Infrastructure",
+            "url": "https://www.analyticsinsight.net/interview/the-device-in-a-workers-hand-is-now-the-enterprise-bass-pro-shops-chandra-kiran-movva-on-building-retails-invisible-infrastructure",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-08-29/fjqcwk63/Chandra-2026-image.jpg-2.jpeg",
+            "publishedAt": "2026-08-29 15:37:48"
+        },
+        {
+            "source": {
+                "name": "techspot"
+            },
+            "title": "South Korea is giving its entire population free access to AI, no token limits",
+            "url": "https://www.techspot.com/news/113664-south-korea-giving-entire-population-free-access-ai.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-28-image-28.jpg",
+            "publishedAt": "2026-08-29 14:47:00"
         },
         {
             "source": {
@@ -3264,150 +3402,6 @@
             "url": "https://www.tribuneindia.com/news/business/india-seeks-deeper-japanese-investment-across-sectors-pitches-gift-city-as-gateway-for-cross-border-capital-flows/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZlZjU5NDgwLWEwNDktMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
             "publishedAt": "2026-08-25T05:58:21Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows",
-            "url": "https://www.aninews.in/news/business/india-seeks-deeper-japanese-investment-across-sectors-pitches-gift-city-as-gateway-for-cross-border-capital-flows20260825112359/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260825055348-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-25T05:53:59Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "TCS, Infosys, Wipro, HCLTech, TechM, Sonata Software, R Systems shares: Check ratings, outlook",
-            "url": "https://www.businesstoday.in/markets/stocks/story/tcs-infosys-wipro-hcltech-techm-sonata-software-r-systems-shares-check-ratings-outlook-551123-2026-08-25",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a8d2b14e2e43-among-large-cap-it-stocks--the-brokerage-has-a-hold-rating-on-tata-consultancy-services-ltd-tcs-254135565-16x9.jpg",
-            "publishedAt": "2026-08-25T05:41:47Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "US Senator calls for Congressional action over reports of Nvidia chips powering Russian drones",
-            "url": "https://www.lokmattimes.com/international/us-senator-calls-for-congressional-action-over-reports-of-nvidia-chips-powering-russian-drones/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608253917303_202608.jpg",
-            "publishedAt": "2026-08-25T05:28:47Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "The Tungsten Time Bomb: How China’s Stranglehold on a Critical Metal Threatens U.S. Military Superiority and the Global Semiconductor Industry",
-            "url": "https://www.naturalnews.com/2026-08-25-chinas-stranglehold-critical-metal-threatens-us-military-superiority.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/tungsten-tungsten-hexafluoride-wf6-artificial-intelligence-ai-3603-original.jpg",
-            "publishedAt": "2026-08-25T04:33:16Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Keep It Real: AI-Generated Songs Banned from Australian Music Charts",
-            "url": "https://www.breitbart.com/europe/2026/08/25/ai-generated-songs-banned-from-australian-music-charts/",
-            "urlToImage": "https://media.breitbart.com/media/2026/08/robots-will-sing-640x335.jpg",
-            "publishedAt": "2026-08-25T03:20:46Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Keep It Real: AI-Generated Songs Banned from Australian Music Charts",
-            "url": "https://www.breitbart.com/entertainment/2026/08/25/ai-generated-songs-banned-from-australian-music-charts/",
-            "urlToImage": "https://media.breitbart.com/media/2026/08/robots-will-sing-640x335.jpg",
-            "publishedAt": "2026-08-25T03:20:46Z"
-        },
-        {
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            },
-            "title": "BTS’ Jimin turns to Google Gemini to craft messages for fans (VIDEO)",
-            "url": "https://www.malaymail.com/news/showbiz/2026/08/25/bts-jimin-turns-to-google-gemini-to-craft-messages-for-fans-video/232558",
-            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/08/25/358695.jpg",
-            "publishedAt": "2026-08-25T03:04:14Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI cannot replace teachers, says US Education Secretary",
-            "url": "https://www.lokmattimes.com/international/ai-cannot-replace-teachers-says-us-education-secretary/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608253917205_202608.jpg",
-            "publishedAt": "2026-08-25T02:42:15Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Gujarat HC quashes GST cancellation order over AI-generated case laws, warns violation of AI rules will invite contempt",
-            "url": "https://www.moneycontrol.com/news/india/gujarat-hc-quashes-gst-cancellation-order-over-ai-generated-case-laws-warns-violation-of-ai-rules-will-invite-contempt-14014528.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2018/06/671480-gujarat-high-court-03.jpg",
-            "publishedAt": "2026-08-25T02:28:46Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Microsoft, Amazon, Google, Meta and Nvidia; Sam Altman is 'worried' about you; as may be one day ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-amazon-google-meta-and-nvidia-sam-altman-is-worried-about-you-as-may-be-one-day-/articleshow/133487163.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133487180,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-25T02:04:00Z"
-        },
-        {
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            },
-            "title": "Quote of the Day by Elon Musk: 'If something's important enough, you should try. Even if the probable outcome is failure'",
-            "url": "https://www.businesstoday.in/latest/world/story/quote-of-the-day-by-elon-musk-if-somethings-important-enough-you-should-try-even-if-the-probable-outcome-is-failure-550929-2026-08-25",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a8c07e778467-elon-musk-x-171102105-16x9.png",
-            "publishedAt": "2026-08-25T02:00:03Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Australia's top music charts ban AI songs",
-            "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3307580/australias-top-music-charts-ban-ai-songs",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260825/c1_6201225_700.jpg",
-            "publishedAt": "2026-08-25T01:52:00Z"
         }
     ]
 }
