@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2026-08-30T23:05:13.811027Z",
+    "lastUpdatedAt": "2026-08-31T03:12:09.334363Z",
     "articles": [
+        {
+            "source": {
+                "id": "494f687bd1dfaa9f7b4a705c860671d0",
+                "name": "Hartford Courant",
+                "url": "https://www.courant.com",
+                "country": "us"
+            },
+            "title": "Cities turn to AI to speed housing permitting",
+            "url": "https://www.courant.com/2026/08/30/cities-turn-to-ai-to-speed-housing-permitting-2/",
+            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/08/202608290445MCT_____PHOTO____US-NEWS-REAL-AI-HOUSING-PERMITTING-FILEPIC-MCT_f7640e.jpg?w=2000&h=1556",
+            "publishedAt": "2026-08-30T15:00:29Z"
+        },
+        {
+            "source": {
+                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+                "name": "SFGATE",
+                "url": "https://www.sfgate.com",
+                "country": "us"
+            },
+            "title": "Moulton says Sen. Markey, 80, is too old for another term. Young Massachusetts Democrats are divided",
+            "url": "https://www.sfgate.com/news/politics/article/moulton-says-sen-markey-80-is-too-old-for-22409778.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/67/15/44/31250741/3/rawImage.jpg",
+            "publishedAt": "2026-08-30T11:46:57Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Age difference between Markey and Moulton divides young voters",
+            "url": "https://apnews.com/article/markey-moulton-election-massachusetts-2281949ec2b785f62667d328b8a88f70",
+            "urlToImage": "https://dims.apnews.com/dims4/default/6552d1e/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F93%2F59%2F6c449bf907fff34ec83eba8e8de0%2Fdb2592924e5b4f068fd2ba8b848bf7cd",
+            "publishedAt": "2026-08-30T11:46:57Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Moulton says Sen. Markey, 80, is too old for another term. Young Massachusetts Democrats are divided",
+            "url": "https://www.clickondetroit.com/news/politics/2026/08/30/moulton-says-sen-markey-80-is-too-old-for-another-term-young-massachusetts-democrats-are-divided/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/YKDIXBIIDBCEDAS65XS6IAMG5U.jpg?_a=DATAg1kSZAA0",
+            "publishedAt": "2026-08-30T11:46:56Z"
+        },
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "This may be the first academic profession to see its work taken over by AI",
+            "url": "https://www.inquirer.com/business/math-ai-human-mathematicians-jobs-20260830.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/RWVBO6HGOF6A3ZXCFDEBILDAKQ.jpg?auth=f492c9d7e806a2251472a55c846497ca17d1aeae8d5c75f7e219391815ce63da&width=760&height=507&smart=true",
+            "publishedAt": "2026-08-30T11:30:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Elon Musk asks X AI chatbot Grok to 'roast' Billie Eilish but finds response boring: Here's what ‘unhappy’ Tesla CEO said next",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-asks-x-ai-chatbot-grok-to-roast-billie-eilish-but-finds-response-boring-heres-what-unhappy-tesla-ceo-said-next/articleshow/133627871.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133627968,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-30T11:16:00Z"
+        },
         {
             "source": {
                 "id": "6a3aad3dbb44ac873f72b594aaea22c4",
@@ -264,6 +336,33 @@
             "url": "https://www.nzherald.co.nz/nz/education/ai-in-schools-whangarei-teacher-warns-of-harm-to-students-critical-thinking/premium/JSMZCNHEJVFU5NJRQOY5WHHHGQ/",
             "urlToImage": "https://www.nzherald.co.nz/resizer/v2/LF4ARLYZDVB4RAXAZCE5HPYHPE.JPG?auth=1162041c24a4472c819133c571d2882d1198c4c9f7aa19cbdb5c57bd59190899&width=1200&height=675&quality=70&focal=5255%2C2137&smart=false",
             "publishedAt": "2026-08-30T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techcrunch"
+            },
+            "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+            "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg",
+            "publishedAt": "2026-08-30 15:00:00"
+        },
+        {
+            "source": {
+                "name": "nynewsly"
+            },
+            "title": "Global Times: How full-chain innovation, new production models power the rise of Chinese car brands",
+            "url": "https://nynewsly.com/global-times-how-full-chain-innovation-new-production-models-power-the-rise-of-chinese-car-brands/44317/",
+            "urlToImage": "https://nynewsly.com/wp-content/themes/publisher/images/default-thumb/large.png",
+            "publishedAt": "2026-08-30 12:02:00"
+        },
+        {
+            "source": {
+                "name": "nynewscast"
+            },
+            "title": "Global Times: How full-chain innovation, new production models power the rise of Chinese car brands",
+            "url": "https://nynewscast.com/global-times-how-full-chain-innovation-new-production-models-power-the-rise-of-chinese-car-brands-251490/",
+            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+            "publishedAt": "2026-08-30 12:02:00"
         },
         {
             "source": {
@@ -3288,114 +3387,6 @@
             "url": "https://www.tribuneindia.com/news/business/honble-minister-adv-ashish-shelar-calls-for-responsible-ai-to-drive-indias-next-digital-leap-at-the-india-summit-by-montran-2026/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTRjMTA0ZjIwLWEwNmUtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
             "publishedAt": "2026-08-25T10:18:14Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Hon'ble Minister Adv. Ashish Shelar Calls for Responsible AI to Drive India's Next Digital Leap at The India Summit by Montran 2026",
-            "url": "https://www.aninews.in/news/business/honble-minister-adv-ashish-shelar-calls-for-responsible-ai-to-drive-indias-next-digital-leap-at-the-india-summit-by-montran-202620260825154720/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260825101655-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-25T10:17:20Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Meta’s new Hatch AI agent: Features, launch date and price explained",
-            "url": "https://www.thenews.com.pk/latest/1413558-metas-new-hatch-ai-agent-features-launch-date-and-price-explained",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-08-25/1413558_030413_updates.jpg",
-            "publishedAt": "2026-08-25T10:04:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Watch Live - AI Is Here: What to Fear, What to Embrace",
-            "url": "https://www.breitbart.com/tech/2026/08/25/watch-live-ai-is-here-what-to-fear-what-to-embrace/",
-            "urlToImage": "https://media.breitbart.com/media/2026/08/breitbart-ai-event-1-640x335.jpg",
-            "publishedAt": "2026-08-25T10:02:51Z"
-        },
-        {
-            "source": {
-                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
-                "name": "The Philadelphia Inquirer",
-                "url": "https://www.inquirer.com",
-                "country": "us"
-            },
-            "title": "Philly-based start-up Kognition creates AI surveillance for 100 U.S. buildings",
-            "url": "https://www.inquirer.com/business/kognition-philadelphia-ai-surveillance-security-systems-20260825.html",
-            "urlToImage": "https://www.inquirer.com/resizer/v2/JCLPV5NQWREXTN6YE3I2J4QYZI.jpg?auth=dbd5bc0542365ac0e42c2eac7208b5b5fb4f09c61acf15fd368c3e7aea61a7db&width=760&height=507&smart=true",
-            "publishedAt": "2026-08-25T10:01:00Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "CEP, IIT Delhi Opens Admissions For Fourth Batch Of Certificate Programme In Applied Data Science And Artificial Intelligence",
-            "url": "https://www.outlookbusiness.com/spotlight/news-wire/cep-iit-delhi-opens-admissions-for-fourth-batch-of-certificate-programme-in-applied-data-science-and-artificial-intelligence",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-08-25/v6woy6sv/PNN_97_1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-08-25T09:54:23Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Australian music industry bans AI-generated tracks",
-            "url": "https://www.cp24.com/news/entertainment/2026/08/25/australias-music-industry-bans-ai-generated-tracks-from-official-charts/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/IS3RWOUM5M3MTO5AOTGKYPJJGQ.jpg?smart=true&auth=00c78d9c2f6c4dcce8cb1f2df19b2aea72f2341a996b754fb78d1bb5b80cff82&width=1200&height=630",
-            "publishedAt": "2026-08-25T09:42:23Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India targets $55 trillion economy by2047 through AI, manufacturing, FDI and sunrise sectors",
-            "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-targets-55-trillion-economy-by2047-through-ai-manufacturing-fdi-and-sunrise-sectors/articleshow/133503774.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-133503863,width-1200,height-630,imgsize-64486,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-08-25T09:40:00Z"
-        },
-        {
-            "source": {
-                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-                "name": "NewsX",
-                "url": "https://www.newsx.com",
-                "country": "in"
-            },
-            "title": "CEP, IIT Delhi Opens Admissions for Fourth Batch of Certificate Programme in Applied Data Science and Artificial Intelligence",
-            "url": "https://www.newsx.com/business/cep-iit-delhi-opens-admissions-for-fourth-batch-of-certificate-programme-in-applied-data-science-and-artificial-intelligence-264572/",
-            "urlToImage": "https://www.newsx.com/wp-content/uploads/2026/08/CEP-IIT-Delhi-Opens-Admissions-for-Fourth-Batch-of-Certificate.avif",
-            "publishedAt": "2026-08-25T09:30:08Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "New laws will impact CT schools this year. What to know",
-            "url": "https://www.courant.com/2026/08/25/several-new-laws-will-impact-ct-schools-this-year-what-to-know/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/07/BNON4TEHWYPZLZKEK3LENTNIYA_1068203801_1068114503.jpg?w=2000&h=1332",
-            "publishedAt": "2026-08-25T09:20:47Z"
         }
     ]
 }
