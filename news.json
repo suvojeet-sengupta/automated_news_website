@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-09-01T22:56:58.949116Z",
+    "lastUpdatedAt": "2026-09-02T00:50:40.759823Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "US pushes ‘hands-off’ AI regulation at G20 amid China rivalry",
+            "url": "https://www.thenews.com.pk/latest/1414461-us-pushes-hands-off-ai-regulation-at-g20-amid-china-rivalry",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-09-01/1414461_053148_updates.jpg",
+            "publishedAt": "2026-09-01T12:31:00Z"
+        },
+        {
+            "source": {
+                "id": "a4fe30e251f73415da82296e7ec36083",
+                "name": "Project Syndicate",
+                "url": "https://www.project-syndicate.org",
+                "country": "us"
+            },
+            "title": "Trump and Xi Should Align on AI",
+            "url": "https://www.project-syndicate.org/commentary/trump-xi-summit-should-begin-preparations-for-rise-of-ai-superintelligence-by-quan-zhao-2026-09",
+            "urlToImage": "https://webapi.project-syndicate.org/library/4528a6c9b47938b73d73f6c27e67406d.2-1-super.1.jpg",
+            "publishedAt": "2026-09-01T12:02:00Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "The ethical use of AI in medical practice",
+            "url": "https://medicalxpress.com/news/2026-09-ethical-ai-medical.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/medical-practice-1.jpg",
+            "publishedAt": "2026-09-01T12:00:01Z"
+        },
+        {
+            "source": {
+                "id": "6f68e6d7cd20b33baacb487a0e911008",
+                "name": "Santa Rosa Press Democrat",
+                "url": "https://www.pressdemocrat.com",
+                "country": "us"
+            },
+            "title": "California lawmakers try - again - to put restrictions on use of ‘robo bosses’",
+            "url": "https://www.pressdemocrat.com/2026/09/01/california-lawmakers-try-again-to-put-restrictions-on-use-of-robo-bosses/",
+            "urlToImage": "https://www.pressdemocrat.com/wp-content/uploads/2026/09/202609010817MCT_____PHOTO____US-NEWS-CALIFORNIA-LAWMAKERS-TRY-AGAIN-PUT-1-SA.jpg?w=1140&h=641",
+            "publishedAt": "2026-09-01T12:00:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Google Antigravity explained: How it differs from Gemini and what it means for software developers",
+            "url": "https://timesofindia.indiatimes.com/education/news/google-antigravity-explained-how-it-differs-from-gemini-and-what-it-means-for-software-developers/articleshow/133678929.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133680222,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-01T11:43:00Z"
+        },
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "Companies struggle to derive real value from AI: Wipro CTO Sandhya Arun",
+            "url": "https://www.business-standard.com/companies/news/companies-struggle-to-derive-real-value-from-ai-wipro-cto-sandhya-arun-126090101008_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-05/29/thumb/fitandfill/1200X628/1748524918-4974.jpg",
+            "publishedAt": "2026-09-01T11:37:57Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Gal Gadot defends AI use in 'Bitcoin', says \"you're going to work with it or be out of the game\"",
+            "url": "https://www.aninews.in/news/entertainment/hollywood/gal-gadot-defends-ai-use-in-bitcoin-says-youre-going-to-work-with-it-or-be-out-of-the-game20260901165836/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260901111818-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-09-01T11:28:36Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Ram Gopal Varma WARNS AI could ‘Kill’ film industry while transforming storytelling production and post-production forever: 'It will be felt'",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-warns-ai-could-kill-film-industry-while-transforming-storytelling-production-and-post-production-forever-it-will-be-felt/articleshow/133679834.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133679879,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-01T11:28:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "‘Frightening times to come!’ Harsh Goenka warns next war may be fought with drone swarms, autonomous vehicles and AI, not tanks or fighter jets",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/frightening-times-to-come-harsh-goenka-warns-next-war-may-be-fought-with-drone-swarms-autonomous-vehicles-and-ai-not-tanks-or-fighter-jets/articleshow/133679081.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133679549,width-1200,height-630,imgsize-94451,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-09-01T11:18:00Z"
+        },
+        {
+            "source": {
+                "id": "e98c4d2585c4c5661ffe60fed4d51930",
+                "name": "BOL News",
+                "url": "https://www.bolnews.com",
+                "country": "pk"
+            },
+            "title": "Tim Cook steps down as Apple CEO after 15 years",
+            "url": "https://www.bolnews.com/technology/tim-cook-steps-down-as-apple-ceo-after-15-years/",
+            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2026/09/Tim-Cook.webp",
+            "publishedAt": "2026-09-01T10:59:40Z"
+        },
         {
             "source": {
                 "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
@@ -360,6 +480,60 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/09/01/russia-wants-ai-digital-cooperation-with-china-putin-tells-xi",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/01/4086987.jpg",
             "publishedAt": "2026-09-01T04:00:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "'AI will Transform ERP into Intelligent Manufacturing Ecosystems': Enlight Metals' Dhananjay Goel",
+            "url": "https://www.analyticsinsight.net/interview/ai-will-transform-erp-into-intelligent-manufacturing-ecosystems-enlight-metals-dhananjay-goel",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-01/opmliyb8/Dhananjay-Goel-Managing-Director-of-Enlight-Metals.jpg",
+            "publishedAt": "2026-09-01 12:25:55"
+        },
+        {
+            "source": {
+                "name": "completeaitraining"
+            },
+            "title": "Boise State researchers secure NSF grant to cut AI energy use with light-based chip design",
+            "url": "https://completeaitraining.com/news/boise-state-researchers-secure-nsf-grant-to-cut-ai-energy/",
+            "urlToImage": "https://cdn.completeaitraining.com/news_images/boise-state-researchers-secure-nsf-grant-to-cut-ai-energy-use-with-light-based-c_2026-09-01.jpg",
+            "publishedAt": "2026-09-01 12:17:46"
+        },
+        {
+            "source": {
+                "name": "dqchannels"
+            },
+            "title": "NVIDIA Invests USD 3.5 Billion in MediaTek to Build Next-Gen Cloud",
+            "url": "https://www.dqchannels.com/news/nvidia-invests-usd-35-billion-in-mediatek-to-build-next-gen-cloud-12480504",
+            "urlToImage": "https://img-cdn.publive.online/dqc/media/media_files/2026/09/01/nvidia-invests-usd-3billion-in-mediatek-to-build-next-gen-cloud-2026-09-01-17-25-51.png",
+            "publishedAt": "2026-09-01 11:57:45"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Business News | AIRN Accelerates Global AI Resource Infrastructure Expansion, with India and South Africa Emerging as Key Markets",
+            "url": "https://www.latestly.com/agency-news/business-news-airn-accelerates-global-ai-resource-infrastructure-expansion-with-india-and-south-africa-emerging-as-key-markets-7585286.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/09/ANI-20260901104129.jpg",
+            "publishedAt": "2026-09-01 11:52:23"
+        },
+        {
+            "source": {
+                "name": "mashable_me"
+            },
+            "title": "Will robots replace IT technicians? Meta pilots Watney, ABB, and Kinova data center bots",
+            "url": "https://me.mashable.com/tech/75565/will-robots-replace-it-technicians-meta-pilots-watney-abb-and-kinova-data-center-bots",
+            "urlToImage": "https://sm.mashable.com/mashable_me/article/m/meta-is-bu/meta-is-building-ai-data-centers-in-tents_6jzc.jpg",
+            "publishedAt": "2026-09-01 11:45:50"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "Today Tim Cook steps down as Apple CEO — I've been an Apple computing journalist since 2004, here are the 5 ways that Cook changed Apple for the better",
+            "url": "https://www.techradar.com/computing/today-tim-cook-steps-down-as-apple-ceo-ive-been-an-apple-computing-journalist-since-2004-here-are-the-5-ways-that-cook-changed-apple-for-the-better",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ueKHYPFkbz4Uixqmo6vCTQ-1280-80.jpg",
+            "publishedAt": "2026-09-01 11:04:24"
         },
         {
             "source": {
@@ -3204,153 +3378,6 @@
             "url": "https://www.bundle.app/en/finance/dell-technologies-dell-q2-2027-preview-reports-on-september-1-6B0A570B-01A1-41EE-A902-4627B57F98BC",
             "urlToImage": "https://static.bundle.app/news/49658684-b332-534e-834b-c876ff6b94f0.jpg",
             "publishedAt": "2026-08-27 18:35:35"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "AWS and NVIDIA to Deliver 2M Additional GPUs and Next-Gen Infrastructure for Agentic and Physical AI",
-            "url": "https://www.hpcwire.com/off-the-wire/aws-and-nvidia-to-deliver-2m-additional-gpus-and-next-gen-infrastructure-for-agentic-and-physical-ai/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2025/12/NVIDIA-AWS.png",
-            "publishedAt": "2026-08-27 18:35:16"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "Nvidia Still Dominates AI Chips as Rivals Build Their Own",
-            "url": "https://www.bundle.app/en/finance/nvidia-still-dominates-ai-chips-as-rivals-build-their-own-CC1EBD33-0B13-445F-8B02-CE13CC8E5E7D",
-            "urlToImage": "https://static.bundle.app/news/229d71cd-4b4a-53f8-acc0-1419f01533d7.jpg",
-            "publishedAt": "2026-08-27 15:01:19"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Data Filtering Strategies for High-Quality AI Video Generation",
-            "url": "https://www.webpronews.com/data-filtering-strategies-for-high-quality-ai-video-generation/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/08/article-24592-1787803773.jpeg",
-            "publishedAt": "2026-08-27 14:42:16"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | Obox EDGE Expands Industry-Focused Technology Training with AI",
-            "url": "https://www.latestly.com/agency-news/business-news-obox-edge-expands-industry-focused-technology-training-with-ai-7578788.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/08/ANI-20260827123427.jpg",
-            "publishedAt": "2026-08-27 14:20:24"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "The Biggest AI Bottleneck Is Your Infrastructure",
-            "url": "https://www.forbes.com/sites/garydrenik/2026/08/27/the-biggest-ai-bottleneck-is-your-infrastructure/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a8c5229549a1da277852d0b/0x0.jpg",
-            "publishedAt": "2026-08-27 14:00:00"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Mark Zuckerberg is buying Meta a seat at the AI table. Does he know what to do with it?",
-            "url": "https://www.fastcompany.com/91587899/mark-zuckerberg-meta-ai-personal-superintelligence?partner=rss",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-2-91587899-mark-zuckerberg-meta-ai-second-act-legacy.jpg",
-            "publishedAt": "2026-08-27 11:00:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Why AI In Media And Entertainment Can Help Creatives Get Funded",
-            "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/27/why-ai-in-media-and-entertainment-can-help-creatives-get-funded/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a8df9e467155600c4bed9e3/0x0.jpg?width=960",
-            "publishedAt": "2026-08-27 11:00:00"
-        },
-        {
-            "source": {
-                "name": "blockchain_news"
-            },
-            "title": "Hong Kong Launches GenA.I. Sandbox++ with 36 AI Use Cases",
-            "url": "https://blockchain.news/news/hong-kong-genai-sandbox-2026",
-            "urlToImage": "https://image.blockchain.news/features/0173B13F2493F1687E8F1F6CD41A3B7B49FFCE35535D6E50ED96E1AC8F75B584.jpg",
-            "publishedAt": "2026-08-27 10:26:30"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "It’s time to stop sleeping on quantum computing: 48 experts on what to watch for next",
-            "url": "https://www.fastcompany.com/91581596/its-time-to-stop-sleeping-on-quantum-computing-48-experts-on-what-to-watch-for-next",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-2-91581596-its-time-to-stop-sleeping-on-quantum-computing-48-experts-on-what-to-watch-for-next.jpg",
-            "publishedAt": "2026-08-27 09:00:00"
-        },
-        {
-            "source": {
-                "name": "wccftech"
-            },
-            "title": "Tencent Games Central Tech Debuts at Gamescom 2026 With AI Tools Spanning Animation, Gameplay, and Testing",
-            "url": "https://wccftech.com/tencent-games-central-tech-debuts-at-gamescom-2026-with-ai-tools-spanning-animation-gameplay-and-testing/",
-            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Tencent-Games-Central-Tech-1456x819.jpg",
-            "publishedAt": "2026-08-27 07:30:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Tencent Games Central Tech Makes Its gamescom Debut, Accelerating Game Industry Innovation with Full-Pipeline Proprietary AI Technologies",
-            "url": "https://en.prnasia.com/story/545451-0.shtml",
-            "urlToImage": "https://mmx.prnewswire.com/media/MS1885219/MORFIUS.jpg?id=OA2769962&p=facebook",
-            "publishedAt": "2026-08-27 07:30:00"
-        },
-        {
-            "source": {
-                "name": "celebrityhint"
-            },
-            "title": "Tencent Games Central Tech Makes Its gamescom Debut, Accelerating Game Industry Innovation with Full-Pipeline Proprietary AI Technologies",
-            "url": "https://celebrityhint.com/tencent-games-central-tech-makes-its-gamescom-debut-accelerating-game-industry-innovation-with-full-pipeline-proprietary-ai-technologies/",
-            "urlToImage": "https://celebrityhint.com/wp-content/themes/publisher/images/default-thumb/large.png",
-            "publishedAt": "2026-08-27 07:30:00"
-        },
-        {
-            "source": {
-                "name": "simform"
-            },
-            "title": "Top 13 Agentic AI Development Companies for Building Production-Ready Enterprise AI Agents in 2026",
-            "url": "https://www.simform.com/blog/top-agentic-ai-development-companies/",
-            "urlToImage": "https://www.simform.com/wp-content/uploads/2026/06/Simform-og-logo.png",
-            "publishedAt": "2026-08-27 06:07:08"
-        },
-        {
-            "source": {
-                "name": "infotechlead"
-            },
-            "title": "Nvidia Revenue Jumps 106% to $96.2 Billion as AI Chip Demand Drives $108 Billion Outlook",
-            "url": "https://infotechlead.com/networking/nvidia-revenue-jumps-106-to-96-2-billion-as-ai-chip-demand-drives-108-billion-outlook-97990",
-            "urlToImage": "https://infotechlead.com/wp-content/uploads/2026/08/Nvidia-AI-chip-revenue-2027-fiscal-Q2.jpg",
-            "publishedAt": "2026-08-27 06:06:38"
-        },
-        {
-            "source": {
-                "name": "businessworld"
-            },
-            "title": "AWS To Deploy Two Million More Nvidia GPUs Globally In 2027-28",
-            "url": "https://www.businessworld.in/article/aws-to-deploy-two-million-more-nvidia-gpus-globally-in-2027-28-620988",
-            "urlToImage": "https://static.businessworld.in/aws-nvidia_20260827080749_original_image_37.webp",
-            "publishedAt": "2026-08-27 00:00:00"
-        },
-        {
-            "source": {
-                "id": "321f3fa90dde0946a7b4a17731c0314d",
-                "name": "The New Zealand Herald",
-                "url": "https://www.nzherald.co.nz",
-                "country": "nz"
-            },
-            "title": "Economist Brad Olsen horrified at AI deep fake scam using his image",
-            "url": "https://www.nzherald.co.nz/nz/economist-brad-olsen-horrified-at-ai-deep-fake-scam-using-his-image/AEJ6PWKFHFDLLEVJR3G3ZQSNFM/",
-            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/6EITFIDQ5ZFJDGGRH76PFLALDI.jpg?auth=0e6acdfba41c092995f88e1187f8c6e1f9e994edd701ad3713b8753fbba5efd1&width=1200&height=675&quality=70&smart=true",
-            "publishedAt": "2026-08-26T23:30:00Z"
         }
     ]
 }
