@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-09-03T07:41:09.618534Z",
+    "lastUpdatedAt": "2026-09-03T12:30:58.699897Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Tech bosses press G20 to build data centers, but split on risk",
+            "url": "https://www.bangkokpost.com/world/3313120/tech-bosses-press-g20-to-build-data-centers-but-split-on-risk",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260903/c1_6213210_700.jpg",
+            "publishedAt": "2026-09-02T23:53:00Z"
+        },
+        {
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            },
+            "title": "NYC, the nation's largest school system, bans AI for students through 8th grade",
+            "url": "https://www.ajc.com/news/2026/09/nyc-the-nations-largest-school-system-bans-ai-for-students-through-8th-grade/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/5J55PHECUVBP7H3ARRU3P6YVYI.jpg?auth=43baa55b97712d1d5ce5caf5bb55642b0fd7095c6fac3005da101899b4eb0bee&width=1200&height=630&smart=true",
+            "publishedAt": "2026-09-02T23:51:35Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Mamdani imposes one-year ban on AI for most NYC students",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/03/mamdani-imposes-one-year-ban-on-ai-for-most-nyc-students",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/03/4090545.jpg",
+            "publishedAt": "2026-09-02T23:49:00Z"
+        },
+        {
+            "source": {
+                "id": "c477009a98f37b19212d8ae20ce8c018",
+                "name": "POLITICO",
+                "url": "https://www.politico.com",
+                "country": "us"
+            },
+            "title": "NYC school system unveils aggressive restrictions on AI amid nationwide push",
+            "url": "https://www.politico.com/news/2026/09/02/nyc-schools-ai-ban-01062674",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F38%2F58%2F5e779bec4296b6a574f952406189%2F55393600214-5b4cafbd7e-o.jpg",
+            "publishedAt": "2026-09-02T23:29:00Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Mamdani announces AI ban in NYC schools this year — but there are some exemptions",
+            "url": "https://nypost.com/2026/09/02/us-news/mamdani-announces-ai-ban-in-nyc-schools-this-year-but-there-are-some-exemptions/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/new-york-ny-mayor-zohran-139355779.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-09-02T22:37:51Z"
+        },
+        {
+            "source": {
+                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+                "name": "Washington Examiner",
+                "url": "https://www.washingtonexaminer.com",
+                "country": "us"
+            },
+            "title": "Are you ready to have healthcare provided by a non-human?",
+            "url": "https://www.washingtonexaminer.com/in_focus/4709223/healthcare-provided-by-non-human/",
+            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/iStock-2158815743-e1786482321993.jpg?resize=1200,683",
+            "publishedAt": "2026-09-02T22:00:00Z"
+        },
+        {
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            },
+            "title": "NYC mayor moves to block generative AI in classrooms for young students",
+            "url": "https://foxbaltimore.com/news/nation-world/nyc-mayor-bans-student-facing-generative-ai-for-k-8-public-school-students-for-a-year",
+            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/5784/1320/0x303/90/bb15b4e2-2125-42b1-96cf-b09a1bf41d0b-GettyImages2287861132.jpg",
+            "publishedAt": "2026-09-02T21:42:49Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "NYC mayor moves to block generative AI in classrooms for young students",
+            "url": "https://wjla.com/news/nation-world/nyc-mayor-bans-student-facing-generative-ai-for-k-8-public-school-students-for-a-year",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/5784/1320/0x303/90/bb15b4e2-2125-42b1-96cf-b09a1bf41d0b-GettyImages2287861132.jpg",
+            "publishedAt": "2026-09-02T21:42:49Z"
+        },
+        {
+            "source": {
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Americans Love AI. They Don't Want the Data Centers That Power It.",
+            "url": "https://www.businessinsider.com/americans-love-ai-they-dont-want-the-data-centers-2026-9",
+            "urlToImage": "https://i.insider.com/6a9889483c906e69480d5896?width=1200&format=jpeg",
+            "publishedAt": "2026-09-02T21:13:24Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "AI to be 'greatest change since electricity': Keating",
+            "url": "https://www.perthnow.com.au/news/politics/ai-to-be-greatest-change-since-electricity-keating-c-22816349",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-22816349/885d4ce90119414f612f13536367821fe37fea75-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-09-02T21:02:39Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -792,6 +912,42 @@
             "url": "https://www.japantimes.co.jp/business/2026/09/02/tech/us-ai-regulation-g20/",
             "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/02/560717.JPG?v=3.1",
             "publishedAt": "2026-09-02T00:54:10Z"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "Vodafone’s new premier connectivity plan is designed for a future in which Meta Glasses are as ubiquitous as phones: ‘If you believe in the potential of AI, then you also believe in the potential of SuperMobile’",
+            "url": "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/d9QEcSoKNvwDX9Ju47DdJa-1280-80.jpg",
+            "publishedAt": "2026-09-02 23:01:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google CEO Sundar Pichai Faces Growing Pressure Over Slow AI Strategy",
+            "url": "https://www.webpronews.com/google-ceo-sundar-pichai-faces-growing-pressure-over-slow-ai-strategy/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/09/article-25004-1788374702.jpeg",
+            "publishedAt": "2026-09-02 22:12:15"
+        },
+        {
+            "source": {
+                "name": "natlawreview"
+            },
+            "title": "What Does the AWS Deal with OpenAI Mean for Competition?",
+            "url": "https://natlawreview.com/article/what-does-aws-deal-openai-mean-competition",
+            "urlToImage": "https://natlawreview.com/sites/default/files/2026-09/Artificial%20Intelligence%20AI%20Brain%20IP%20Tech-448974829_0.jpg",
+            "publishedAt": "2026-09-02 21:00:54"
+        },
+        {
+            "source": {
+                "name": "rutlandherald"
+            },
+            "title": "C3 AI Announces Fiscal First Quarter 2027 Results",
+            "url": "https://www.rutlandherald.com/news/business/c3-ai-announces-fiscal-first-quarter-2027-results/article_21dcdc82-2027-5c86-b48b-3ce8bd94f4f9.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/custom/image/21fa4cf2-cde4-11eb-949b-3b99a2a8f984.jpg?resize=600%2C600",
+            "publishedAt": "2026-09-02 20:06:39"
         },
         {
             "source": {
@@ -3192,162 +3348,6 @@
             "url": "https://timesofindia.indiatimes.com/business/india-business/shopping-with-ai-consumers-ask-artificial-intelligence-for-advice-but-less-than-half-trust-it/articleshow/133623425.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-133623785,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-08-30T05:43:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Apple may launch AI-powered smart glasses in 202: Here’s what to expect",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-may-launch-ai-powered-smart-glasses-in-202-heres-what-to-expect/articleshow/133623380.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133623393,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-30T04:53:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Trust levels for generative AI drops below 40%, yet consumers rely on AI product advice: McKinsey",
-            "url": "https://www.livemint.com/technology/trust-levels-for-generative-ai-drops-below-40-yet-consumers-rely-on-ai-product-advice-mckinsey-11788064906620.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
-            "publishedAt": "2026-08-30T04:41:46Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Trust levels for generative AI drops below 40%, yet consumers rely on AI product advice: McKinsey",
-            "url": "https://www.aninews.in/news/business/trust-levels-for-generative-ai-drops-below-40-yet-consumers-rely-on-ai-product-advice-mckinsey20260830100643/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260830040303-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-08-30T04:36:43Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/30/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/29/4082699.jpg",
-            "publishedAt": "2026-08-30T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "TN to introduce AI, machine learning courses in 50 govt ITIs",
-            "url": "https://www.lokmattimes.com/national/tn-to-introduce-ai-machine-learning-courses-in-50-govt-itis/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608303923230_202608.jpg",
-            "publishedAt": "2026-08-30T03:43:00Z"
-        },
-        {
-            "source": {
-                "id": "da182982e3ceb53c6eb8df72aa2030c3",
-                "name": "Indiatimes",
-                "url": "https://www.indiatimes.com",
-                "country": "in"
-            },
-            "title": "The AI shock is here: American Marketing Association 2026 career report shows why marketers may need to think very differently",
-            "url": "https://www.indiatimes.com/trending/the-ai-shock-is-here-american-marketing-association-2026-career-report-shows-why-marketers-may-need-to-think-very-differently/articleshow/133615251.html",
-            "urlToImage": "https://staticimg.publishstory.co/thumb/133615270.cms?imgsize=69695&width=1280&height=720&resizemode=8",
-            "publishedAt": "2026-08-30T02:47:33Z"
-        },
-        {
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            },
-            "title": "AI boom hits a political wall as US voters rage over data centre costs",
-            "url": "https://www.malaymail.com/news/world/2026/08/30/ai-boom-hits-a-political-wall-as-us-voters-rage-over-data-centre-costs/233247",
-            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/08/30/359704.jpg",
-            "publishedAt": "2026-08-30T02:31:01Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "How China’s AI policies avoid painful past tech crackdowns",
-            "url": "https://www.livemint.com/technology/how-china-s-ai-policies-avoid-painful-past-tech-crackdowns-11788054929514.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/30/1600x900/logo/China-AI-Job-Fears-4_1788055094163_1788055107595_7121e8c7-17db-45fd-a471-b9974bbf1c86.jpg",
-            "publishedAt": "2026-08-30T02:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8de9e028dd6b2658274a9cdbe23fd378",
-                "name": "Kalispell Inter Lake",
-                "url": "https://dailyinterlake.com",
-                "country": "us"
-            },
-            "title": "University of Montana to host AI summit",
-            "url": "https://dailyinterlake.com/news/2026/aug/30/university-of-montana-to-host-ai-summit/",
-            "urlToImage": "https://hagadone.media.clients.ellingtoncms.com/static-4/dailyinterlake/images/default-social.jpg?v=2",
-            "publishedAt": "2026-08-30T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "321f3fa90dde0946a7b4a17731c0314d",
-                "name": "The New Zealand Herald",
-                "url": "https://www.nzherald.co.nz",
-                "country": "nz"
-            },
-            "title": "AI in schools: Whangārei teacher warns of harm to students’ critical thinking",
-            "url": "https://www.nzherald.co.nz/nz/education/ai-in-schools-whangarei-teacher-warns-of-harm-to-students-critical-thinking/premium/JSMZCNHEJVFU5NJRQOY5WHHHGQ/",
-            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/LF4ARLYZDVB4RAXAZCE5HPYHPE.JPG?auth=1162041c24a4472c819133c571d2882d1198c4c9f7aa19cbdb5c57bd59190899&width=1200&height=675&quality=70&focal=5255%2C2137&smart=false",
-            "publishedAt": "2026-08-30T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Apple’s Hardware Insider Takes the Helm: John Ternus Succeeds Tim Cook",
-            "url": "https://www.webpronews.com/apples-hardware-insider-takes-the-helm-john-ternus-succeeds-tim-cook/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/08/article-24711-1788124853.jpeg",
-            "publishedAt": "2026-08-30 21:21:07"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "Meta acquires robotics AI startup Assured Robot Intelligence to boost humanoid development",
-            "url": "https://completeaitraining.com/news/meta-acquires-robotics-ai-startup-assured-robot/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/meta-acquires-robotics-ai-startup-assured-robot-intelligence-to-boost-humanoid-d_2026-08-30.jpg",
-            "publishedAt": "2026-08-30 20:13:49"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "11 Essential AI Courses for CIOs (Chief Information Officers) in 2026",
-            "url": "https://completeaitraining.com/blog/11-essential-ai-courses-for-cios-chief-information-officers-in-2026/",
-            "urlToImage": "https://cdn.completeaitraining.com/ai_course_images/all_ai_courses_for_cios__chief_information_officer_1751293695.jpg",
-            "publishedAt": "2026-08-30 18:50:00"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "LLM Moats Quickly Evaporating",
-            "url": "https://hackaday.com/2026/08/30/llm-moats-quickly-evaporating/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/08/mac-studio-main.jpg",
-            "publishedAt": "2026-08-30 17:00:35"
         }
     ]
 }
