@@ -1,6 +1,174 @@
 {
-    "lastUpdatedAt": "2026-09-04T14:43:32.977558Z",
+    "lastUpdatedAt": "2026-09-04T18:00:34.796483Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "OpenAI releases GPT-6 Astra: How the new AI model could help students learn, research and code",
+            "url": "https://timesofindia.indiatimes.com/education/news/openai-releases-gpt-6-astra-how-the-new-ai-model-could-help-students-learn-research-and-code/articleshow/133753476.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133753577,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-04T06:00:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "GPT-6 Astra is here: OpenAI’s new AI model can use computers, browse web and get work done",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/gpt-6-astra-is-here-openais-new-ai-model-can-use-computers-browse-web-and-get-work-done/articleshow/133752702.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-133752813,width-1200,height-630,imgsize-86476,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-09-04T05:27:00Z"
+        },
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "OpenAI launches 'most intelligent' model, says it beat Anthropic: Report",
+            "url": "https://www.business-standard.com/world-news/openai-new-ai-model-most-intelligent-chatgpt-astra-anthropic-cyber-breach-126090400321_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/23/thumb/fitandfill/1200X628/1784792433-2153.JPG",
+            "publishedAt": "2026-09-04T05:25:35Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Nvidia to buy AI platform Hugging Face for $12.9 billion",
+            "url": "https://www.thehindu.com/sci-tech/technology/nvidia-to-buy-ai-platform-hugging-face-for-129-billion/article71426882.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/v6tnla/article71426890.ece/alternates/LANDSCAPE_1200/2026-09-03T173029Z_895078105_RC2YEMA2W13D_RTRMADP_3_HUGGING-FACE-M-A-NVIDIA.JPG",
+            "publishedAt": "2026-09-04T04:43:10Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Agentic AI could automate 80% of routine treasury work, leave strategic decisions to humans: EY",
+            "url": "https://www.livemint.com/technology/agentic-ai-could-automate-80-of-routine-treasury-work-leave-strategic-decisions-to-humans-ey-11788496812034.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
+            "publishedAt": "2026-09-04T04:40:11Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "What happens when shadow AI goes unchecked in the workplace",
+            "url": "https://abc17news.com/stacker-ai/2026/09/03/what-happens-when-shadow-ai-goes-unchecked-in-the-workplace/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/09/Terminal-B-shadow-AI-goes-unchecked.jpg",
+            "publishedAt": "2026-09-04T04:39:37Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Agentic AI could automate 80% of routine treasury work, leave strategic decisions to humans: EY",
+            "url": "https://www.tribuneindia.com/news/business/agentic-ai-could-automate-80-of-routine-treasury-work-leave-strategic-decisions-to-humans-ey/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU5YzE0MzUwLWE4MWEtMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
+            "publishedAt": "2026-09-04T04:37:29Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Agentic AI could automate 80% of routine treasury work, leave strategic decisions to humans: EY",
+            "url": "https://www.aninews.in/news/business/agentic-ai-could-automate-80-of-routine-treasury-work-leave-strategic-decisions-to-humans-ey20260904100506/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260904042532-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-09-04T04:35:06Z"
+        },
+        {
+            "source": {
+                "id": "3d24c816061d69b2e23b8583aed9b447",
+                "name": "Euronews",
+                "url": "https://www.euronews.com",
+                "country": "fr"
+            },
+            "title": "AI is starting to see migraine as more than just a headache",
+            "url": "https://www.euronews.com/health/2026/09/04/ai-is-starting-to-see-migraine-as-more-than-just-a-headache",
+            "urlToImage": "https://images.euronews.com/articles/stories/09/90/06/13/1200x675_cmsv2_6515deb4-c1ec-5600-bc88-5b28a65a2802-9900613.jpg",
+            "publishedAt": "2026-09-04T04:28:57Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Democrat win could cost US AI race: Vance",
+            "url": "https://www.lokmattimes.com/international/democrat-win-could-cost-us-ai-race-vance/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260109117f_202609.jpg",
+            "publishedAt": "2026-09-04T04:23:52Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "NYC Mayor Zohran Mamdani bans AI for NYC students until high school: Why his decision is making so much noise online",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/nyc-mayor-zohran-mamdani-bans-ai-for-nyc-students-until-high-school-why-his-decision-is-making-so-much-noise-online/articleshow/133751691.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133751756,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-04T04:23:00Z"
+        },
+        {
+            "source": {
+                "id": "da182982e3ceb53c6eb8df72aa2030c3",
+                "name": "Indiatimes",
+                "url": "https://www.indiatimes.com",
+                "country": "in"
+            },
+            "title": "‘Most of the sport now is in pointing out where AI is wrong’: Workers explain why LLM can make skilled jobs feel less rewarding",
+            "url": "https://www.indiatimes.com/trending/most-of-the-sport-now-is-in-pointing-out-where-ai-is-wrong-workers-explain-why-llm-can-make-skilled-jobs-feel-less-rewarding/articleshow/133737937.html",
+            "urlToImage": "https://staticimg.publishstory.co/thumb/133737961.cms?imgsize=92223&width=1280&height=720&resizemode=8",
+            "publishedAt": "2026-09-04T04:22:34Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny/articleshow/133750116.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-65846,resizemode-75,msid-133750116/tech/artificial-intelligence/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny.jpg",
+            "publishedAt": "2026-09-04T02:44:49Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "6 Astra does anything you do on a computer, finds unseen security holes",
+            "url": "https://www.cnbctv18.com/technology/openai-claims-gpt-6-astra-does-anything-you-do-on-a-computer-finds-unseen-security-holes-19983856.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/09/openai-claims-gpt-6-astra-2026-09-a4b5e5e9396143d577ef925208ccb020.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-09-04T02:40:03Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -75,6 +243,18 @@
         },
         {
             "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/04/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/04/4092506.jpg",
+            "publishedAt": "2026-09-04T00:22:00Z"
+        },
+        {
+            "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
                 "name": "The Tribune",
                 "url": "https://www.tribuneindia.com",
@@ -96,6 +276,96 @@
             "url": "https://www.cbsnews.com/news/fbi-ai-identify-threats-faster-christopher-raia/",
             "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/03/3ea80b42-4138-47f0-82e5-47d1f7249884/thumbnail/1200x630g2/6f16c92d25a9e43dff69df1b7fd555e0/gettyimages-2242446046.jpg",
             "publishedAt": "2026-09-04T00:02:00Z"
+        },
+        {
+            "source": {
+                "name": "nynewscast"
+            },
+            "title": "MINISFORUM Unveils Next-Gen Edge AI Computing Solutions Powered by AMD Ryzen AI MAX+ PRO 495 at IFA 2026",
+            "url": "https://nynewscast.com/minisforum-unveils-next-gen-edge-ai-computing-solutions-powered-by-amd-ryzen-ai-max-pro-495-at-ifa-2026-253100/",
+            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+            "publishedAt": "2026-09-04 04:00:00"
+        },
+        {
+            "source": {
+                "name": "laconiadailysun"
+            },
+            "title": "MINISFORUM Unveils Next-Gen Edge AI Computing Solutions Powered by AMD Ryzen AI MAX+ PRO 495 at IFA 2026",
+            "url": "https://www.laconiadailysun.com/online_features/press_releases/minisforum-unveils-next-gen-edge-ai-computing-solutions-powered-by-amd-ryzen-ai-max-pro/article_50b89ac3-bfe0-5801-9340-0a2e3fd66b6b.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/laconiadailysun.com/content/tncms/assets/v3/editorial/3/d3/3d335db2-b0ea-503d-8a1c-e70d8b7e6c6a/6a9a68ef13caf.image.jpg?resize=300%2C200",
+            "publishedAt": "2026-09-04 04:00:00"
+        },
+        {
+            "source": {
+                "name": "ricentral"
+            },
+            "title": "MINISFORUM Unveils Next-Gen Edge AI Computing Solutions Powered by AMD Ryzen AI MAX+ PRO 495 at IFA 2026",
+            "url": "https://www.ricentral.com/online_features/press_releases/minisforum-unveils-next-gen-edge-ai-computing-solutions-powered-by-amd-ryzen-ai-max-pro/article_a367107c-57f4-56ab-9b1b-156b359f0772.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/ricentral.com/content/tncms/assets/v3/editorial/c/b4/cb4be0de-5350-588e-9c36-1cb8a86e1af2/6a9a681327458.image.jpg?resize=300%2C200",
+            "publishedAt": "2026-09-04 04:00:00"
+        },
+        {
+            "source": {
+                "name": "berkshireeagle"
+            },
+            "title": "MINISFORUM Unveils Next-Gen Edge AI Computing Solutions Powered by AMD Ryzen AI MAX+ PRO 495 at IFA 2026",
+            "url": "https://www.berkshireeagle.com/online_features/press_releases/minisforum-unveils-next-gen-edge-ai-computing-solutions-powered-by-amd-ryzen-ai-max-pro/article_c286fe37-f9a8-5e19-aac7-0ae034588ce1.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/0/47/047408e6-9fe5-57ca-8768-c3ec112605e5/6a9a6820d8475.image.jpg?resize=300%2C200",
+            "publishedAt": "2026-09-04 04:00:00"
+        },
+        {
+            "source": {
+                "name": "poststar"
+            },
+            "title": "MINISFORUM Unveils Next-Gen Edge AI Computing Solutions Powered by AMD Ryzen AI MAX+ PRO 495 at IFA 2026",
+            "url": "https://poststar.com/online_features/press_releases/article_11056576-42a6-52bc-aebb-eb583b42e232.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/b/f1/bf18b4d4-ac7e-5ee0-aa84-2fd0773a9a16/6a9a691904514.image.jpg?resize=300%2C200",
+            "publishedAt": "2026-09-04 04:00:00"
+        },
+        {
+            "source": {
+                "name": "thepilotnews"
+            },
+            "title": "MINISFORUM Unveils Next-Gen Edge AI Computing Solutions Powered by AMD Ryzen AI MAX+ PRO 495 at IFA 2026",
+            "url": "https://www.thepilotnews.com/online_features/press_releases/minisforum-unveils-next-gen-edge-ai-computing-solutions-powered-by-amd-ryzen-ai-max-pro/article_591750d1-74c0-5160-af89-9d6dc914918e.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thepilotnews.com/content/tncms/assets/v3/editorial/1/b0/1b0caeb7-0058-5d1b-91ba-7264a6bfa911/6a9a66b5294fb.image.jpg?resize=300%2C200",
+            "publishedAt": "2026-09-04 04:00:00"
+        },
+        {
+            "source": {
+                "name": "thewesterlysun"
+            },
+            "title": "MINISFORUM Unveils Next-Gen Edge AI Computing Solutions Powered by AMD Ryzen AI MAX+ PRO 495 at IFA 2026",
+            "url": "https://www.thewesterlysun.com/online_features/press_releases/minisforum-unveils-next-gen-edge-ai-computing-solutions-powered-by-amd-ryzen-ai-max-pro/article_337da0df-3271-5c03-a408-45612e646308.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thewesterlysun.com/content/tncms/assets/v3/editorial/a/f2/af2a2464-8036-5dd6-925f-b391a996c081/6a9a67c4a3096.image.jpg?resize=300%2C200",
+            "publishedAt": "2026-09-04 04:00:00"
+        },
+        {
+            "source": {
+                "name": "qchron"
+            },
+            "title": "MINISFORUM Unveils Next-Gen Edge AI Computing Solutions Powered by AMD Ryzen AI MAX+ PRO 495 at IFA 2026",
+            "url": "https://www.qchron.com/online_features/press_releases/minisforum-unveils-next-gen-edge-ai-computing-solutions-powered-by-amd-ryzen-ai-max-pro/article_d688299c-eead-5f2e-972a-01a0737c2a55.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/qchron.com/content/tncms/assets/v3/editorial/0/1a/01a75635-6a9c-506a-b2e4-60d61f78d7e7/6a9a68ff0d99d.image.jpg?resize=300%2C200",
+            "publishedAt": "2026-09-04 04:00:00"
+        },
+        {
+            "source": {
+                "name": "samessenger"
+            },
+            "title": "MINISFORUM Unveils Next-Gen Edge AI Computing Solutions Powered by AMD Ryzen AI MAX+ PRO 495 at IFA 2026",
+            "url": "https://www.samessenger.com/online_features/press_releases/minisforum-unveils-next-gen-edge-ai-computing-solutions-powered-by-amd-ryzen-ai-max-pro/article_b8edaeab-4a23-5108-a454-cd3c31ab4243.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/samessenger.com/content/tncms/assets/v3/editorial/4/c8/4c8f8419-cadf-53b5-82dc-330c010f4a09/6a9a670a94ec6.image.jpg?resize=300%2C200",
+            "publishedAt": "2026-09-04 04:00:00"
+        },
+        {
+            "source": {
+                "name": "nynewsly"
+            },
+            "title": "MINISFORUM Unveils Next-Gen Edge AI Computing Solutions Powered by AMD Ryzen AI MAX+ PRO 495 at IFA 2026",
+            "url": "https://nynewsly.com/minisforum-unveils-next-gen-edge-ai-computing-solutions-powered-by-amd-ryzen-ai-max-pro-495-at-ifa-2026/44926/",
+            "urlToImage": "https://nynewsly.com/wp-content/themes/publisher/images/default-thumb/large.png",
+            "publishedAt": "2026-09-04 04:00:00"
         },
         {
             "source": {
@@ -129,6 +399,54 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/09/04/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents039-safety",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/04/4092470.jpg",
             "publishedAt": "2026-09-03T23:43:00Z"
+        },
+        {
+            "source": {
+                "id": "751592b69e37c8f910e98bc421ccd54a",
+                "name": "Android Authority",
+                "url": "https://www.androidauthority.com",
+                "country": "us"
+            },
+            "title": "OpenAI launches GPT-6 Astra, and one founder thinks AGI is here",
+            "url": "https://www.androidauthority.com/openai-launches-gpt-6-astra-3707374/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-10.jpg",
+            "publishedAt": "2026-09-03T22:20:28Z"
+        },
+        {
+            "source": {
+                "id": "69a24b80e5bce5a07f808f5ea84c434b",
+                "name": "Arkansas Online",
+                "url": "https://www.arkansasonline.com",
+                "country": "us"
+            },
+            "title": "North Little Rock will host annual conference on cybersecurity, emerging technologies, global threats",
+            "url": "https://www.arkansasonline.com/news/2026/sep/03/north-little-rock-will-host-annual-conference-on/",
+            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/06/26/AP18157770452510_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+            "publishedAt": "2026-09-03T22:20:00Z"
+        },
+        {
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            },
+            "title": "Hackers stopped attacking passwords. They're attacking your consent instead.",
+            "url": "https://gizmodo.com/hackers-stopped-attacking-passwords-theyre-attacking-your-consent-instead-2000806814",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/scam-old-people-1200x675.jpg",
+            "publishedAt": "2026-09-03T22:11:25Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+            "url": "https://www.livemint.com/technology/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny-11788471790655.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
+            "publishedAt": "2026-09-03T21:43:10Z"
         },
         {
             "source": {
@@ -3084,267 +3402,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/09/01/russia-wants-ai-digital-cooperation-with-china-putin-tells-xi",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/01/4086987.jpg",
             "publishedAt": "2026-09-01T04:00:00Z"
-        },
-        {
-            "source": {
-                "name": "kqed_org"
-            },
-            "title": "Chatbots, Data Centers and Surveillance: 5 Silicon Valley Bills Land on Newsom’s Desk",
-            "url": "https://ww2.kqed.org/news/2026/09/01/chatbots-data-centers-and-surveillance-5-silicon-valley-bills-land-on-newsoms-desk/",
-            "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/09/GettyImages-183300309.jpg",
-            "publishedAt": "2026-09-01 20:26:26"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "What Happens Inside an LLM When You Type “Hello”?",
-            "url": "https://hackernoon.com/what-happens-inside-an-llm-when-you-type-hello",
-            "urlToImage": "https://cdn.hackernoon.com/images/M1LdrwWVXYhrfEqZIfC0z5sme8Q2-ts03bzt.png",
-            "publishedAt": "2026-09-01 20:01:06"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Search Now Prioritizes Site Speed Over Keywords and Backlinks",
-            "url": "https://www.webpronews.com/ai-search-now-prioritizes-site-speed-over-keywords-and-backlinks/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/09/article-24899-1788287790.jpeg",
-            "publishedAt": "2026-09-01 19:12:16"
-        },
-        {
-            "source": {
-                "name": "spiceworks"
-            },
-            "title": "Why quantum AI isn’t an IT priority yet",
-            "url": "https://www.spiceworks.com/it-spending/why-quantum-ai-isnt-an-it-priority-yet/",
-            "urlToImage": "https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2026/09/01110239/Quantum-AI-for-enterprise.jpg",
-            "publishedAt": "2026-09-01 19:00:05"
-        },
-        {
-            "source": {
-                "name": "indianchemicalnews"
-            },
-            "title": "Sumitomo Chemical rolls out InP wafer production to power next-gen AI data centers",
-            "url": "https://www.indianchemicalnews.com/chemical/sumitomo-chemical-rolls-out-inp-wafer-production-to-power-next-gen-ai-data-centers-31717",
-            "urlToImage": "https://www.indianchemicalnews.com/public/uploads/news/2026/09/31717/InP_epitaxial_wafer.png",
-            "publishedAt": "2026-09-01 18:30:00"
-        },
-        {
-            "source": {
-                "name": "quartz"
-            },
-            "title": "20 things about artificial intelligence that are true but rarely stated",
-            "url": "https://qz.com/artificial-intelligence-facts-rarely-stated",
-            "urlToImage": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/robot%2520hand%2520human%2520hand%2520touching.png",
-            "publishedAt": "2026-09-01 18:28:06"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "Amazon EC2 R9g and R9gd Instances Powered by AWS Graviton5 Now Generally Available",
-            "url": "https://www.hpcwire.com/off-the-wire/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-now-generally-available/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2020/06/shutterstock_aws-1.jpg",
-            "publishedAt": "2026-09-01 17:59:43"
-        },
-        {
-            "source": {
-                "name": "infotechlead"
-            },
-            "title": "VC funding deals: Tripo AI, Senticell, Visko, DataAgent",
-            "url": "https://infotechlead.com/tech/vc-funding-deals-tripo-ai-senticell-visko-dataagent-98126",
-            "urlToImage": "https://infotechlead.com/wp-content/uploads/2026/01/VC-funding-news-InfotechLead.com_.jpg",
-            "publishedAt": "2026-09-01 17:47:41"
-        },
-        {
-            "source": {
-                "name": "securitybrief_in"
-            },
-            "title": "Airrived launches sovereign AI platform for governments",
-            "url": "https://securitybrief.in/story/airrived-launches-sovereign-ai-platform-for-governments",
-            "urlToImage": "https://securitybrief.in/uploads/story/2026/09/02/compatible_secure-shielded-ai-agent-government-data-center-servers-cloud-compliance-documents-digital-illustration-story-318005.jpg",
-            "publishedAt": "2026-09-01 17:27:00"
-        },
-        {
-            "source": {
-                "name": "itbrief_in"
-            },
-            "title": "Airrived launches sovereign AI platform for governments",
-            "url": "https://itbrief.in/story/airrived-launches-sovereign-ai-platform-for-governments",
-            "urlToImage": "https://itbrief.in/uploads/story/2026/09/02/compatible_secure-shielded-ai-agent-government-data-center-servers-cloud-compliance-documents-digital-illustration-story-318005.jpg",
-            "publishedAt": "2026-09-01 17:27:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Inference Growth Drives Shift to Distributed Compute Continuum",
-            "url": "https://www.webpronews.com/ai-inference-growth-drives-shift-to-distributed-compute-continuum/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/09/article-24840-1788224320.jpeg",
-            "publishedAt": "2026-09-01 15:22:30"
-        },
-        {
-            "source": {
-                "name": "konexionetwork"
-            },
-            "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
-            "url": "https://konexionetwork.com/finance-economy/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms/",
-            "urlToImage": "https://konexionetwork.com/wp-content/uploads/2026/09/MediaTek-Logo.jpg",
-            "publishedAt": "2026-09-01 15:09:43"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud",
-            "url": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
-            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/5dDOCpRyaFusHgFd5h9h8a/4b634ce6049baafe49c72614ace3a8a8/Nuneybits_Vector_art_of_lone_figure_confronting_fragmented_clou_e6f1c924-f33c-4829-8924-c3ff7fdd95c1.webp?w=300&q=30",
-            "publishedAt": "2026-09-01 15:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "10 Ways Data Science Is Reshaping Industries in 2026",
-            "url": "https://www.analyticsinsight.net/ampstories/data-science/10-ways-data-science-is-reshaping-industries-in-2026",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-01/1yeqwp08/10-Ways-Data-Science-Is-Reshaping-Industries-in-2026.jpg",
-            "publishedAt": "2026-09-01 14:50:00"
-        },
-        {
-            "source": {
-                "name": "cioinfluence"
-            },
-            "title": "Fortanix and CrowdStrike Partner to Secure Enterprise AI by Reducing Active Threats and Protecting Proprietary Models & Data in Memory",
-            "url": "https://cioinfluence.com/data-management/fortanix-and-crowdstrike-partner-to-secure-enterprise-ai-by-reducing-active-threats-and-protecting-proprietary-models-data-in-memory/",
-            "urlToImage": "https://cioinfluence.com/wp-content/uploads/2026/08/double-exposure-fingerprint-hologram-over-new-600nw-2457419295-1.jpg",
-            "publishedAt": "2026-09-01 14:18:45"
-        },
-        {
-            "source": {
-                "name": "hoodline"
-            },
-            "title": "Pentagon Adds ChatGPT and Grok to GenAI.mil, Reaching 3 Million Users",
-            "url": "https://hoodline.com/2026/09/pentagon-adds-chatgpt-and-grok-to-genai-mil-reaching-3-million-users/",
-            "urlToImage": "https://img.hoodline.com/2026/9/pentagon-adds-chatgpt-and-grok-to-genaimil-reaching-3-million-users.webp",
-            "publishedAt": "2026-09-01 13:45:13"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Tripo AI Raises 3 Billion Yuan in Series B and Series B+ Funding",
-            "url": "https://www.prnewswire.com/news-releases/tripo-ai-raises-3-billion-yuan-in-series-b-and-series-b-funding-302866057.html",
-            "urlToImage": "https://mmx.prnewswire.com/media/MS1979308/TRIPO-AI-P2-0.jpg?id=OA2922746&p=original",
-            "publishedAt": "2026-09-01 13:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "'AI will Transform ERP into Intelligent Manufacturing Ecosystems': Enlight Metals' Dhananjay Goel",
-            "url": "https://www.analyticsinsight.net/interview/ai-will-transform-erp-into-intelligent-manufacturing-ecosystems-enlight-metals-dhananjay-goel",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-01/opmliyb8/Dhananjay-Goel-Managing-Director-of-Enlight-Metals.jpg",
-            "publishedAt": "2026-09-01 12:25:55"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "Did You Know The Term ‘Artificial Intelligence’ Was Coined 71 Years Ago?",
-            "url": "https://www.bundle.app/en/breaking-news/did-you-know-the-term-artificial-intelligence-was-coined-71-years-ago-74E4D03B-E2FA-40DF-B489-51D779B09521",
-            "urlToImage": "https://static.bundle.app/news/79b52706-6ac7-52b8-9a3f-76dcc8aede94.jpg",
-            "publishedAt": "2026-09-01 12:20:42"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "Boise State researchers secure NSF grant to cut AI energy use with light-based chip design",
-            "url": "https://completeaitraining.com/news/boise-state-researchers-secure-nsf-grant-to-cut-ai-energy/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/boise-state-researchers-secure-nsf-grant-to-cut-ai-energy-use-with-light-based-c_2026-09-01.jpg",
-            "publishedAt": "2026-09-01 12:17:46"
-        },
-        {
-            "source": {
-                "name": "dqchannels"
-            },
-            "title": "NVIDIA Invests USD 3.5 Billion in MediaTek to Build Next-Gen Cloud",
-            "url": "https://www.dqchannels.com/news/nvidia-invests-usd-35-billion-in-mediatek-to-build-next-gen-cloud-12480504",
-            "urlToImage": "https://img-cdn.publive.online/dqc/media/media_files/2026/09/01/nvidia-invests-usd-3billion-in-mediatek-to-build-next-gen-cloud-2026-09-01-17-25-51.png",
-            "publishedAt": "2026-09-01 11:57:45"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | AIRN Accelerates Global AI Resource Infrastructure Expansion, with India and South Africa Emerging as Key Markets",
-            "url": "https://www.latestly.com/agency-news/business-news-airn-accelerates-global-ai-resource-infrastructure-expansion-with-india-and-south-africa-emerging-as-key-markets-7585286.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/09/ANI-20260901104129.jpg",
-            "publishedAt": "2026-09-01 11:52:23"
-        },
-        {
-            "source": {
-                "name": "mashable_me"
-            },
-            "title": "Will robots replace IT technicians? Meta pilots Watney, ABB, and Kinova data center bots",
-            "url": "https://me.mashable.com/tech/75565/will-robots-replace-it-technicians-meta-pilots-watney-abb-and-kinova-data-center-bots",
-            "urlToImage": "https://sm.mashable.com/mashable_me/article/m/meta-is-bu/meta-is-building-ai-data-centers-in-tents_6jzc.jpg",
-            "publishedAt": "2026-09-01 11:45:50"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "Today Tim Cook steps down as Apple CEO — I've been an Apple computing journalist since 2004, here are the 5 ways that Cook changed Apple for the better",
-            "url": "https://www.techradar.com/computing/today-tim-cook-steps-down-as-apple-ceo-ive-been-an-apple-computing-journalist-since-2004-here-are-the-5-ways-that-cook-changed-apple-for-the-better",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ueKHYPFkbz4Uixqmo6vCTQ-1280-80.jpg",
-            "publishedAt": "2026-09-01 11:04:24"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Why LPWAN Is The Nervous System Powering AI’s Physical World",
-            "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/01/why-lpwan-is-the-nervous-system-powering-ais-physical-world/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a91c8e85b46ce9042862b9a/0x0.jpg?width=960",
-            "publishedAt": "2026-09-01 10:45:00"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | Trapped in Testing? 3 Intensive AI Programmes Designed to Help QA Engineers Pivot to AI Product Architects",
-            "url": "https://www.latestly.com/agency-news/business-news-trapped-in-testing-3-intensive-ai-programmes-designed-to-help-qa-engineers-pivot-to-ai-product-architects-7585027.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/09/ANI-20260901082356.jpg",
-            "publishedAt": "2026-09-01 09:26:26"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "Oil & Gas Automation & Digitalization Conference 2026 | Houston | 29 OCT | Startup Events",
-            "url": "https://startupnews.fyi/startup-events/oil-gas-automation-digitalization-conference-2026-houston-29-oct",
-            "urlToImage": "https://images.startupnews.fyi/startupnews-in/uploads/2026/09/admin-1788253481098-k0cks7w5x.png",
-            "publishedAt": "2026-09-01 09:06:45"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "10 AI Courses for EVP (Executive Vice Presidents) that You Should Know About in 2026",
-            "url": "https://completeaitraining.com/blog/10-ai-courses-for-evp-executive-vice-presidents-that-you-should-know-about-in-2026/",
-            "urlToImage": "https://cdn.completeaitraining.com/ai_course_images/all_ai_courses_for_evp__executive_vice_presidents__1751343605.jpg",
-            "publishedAt": "2026-09-01 07:45:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Anthropic Signs USD 35B Cloud Deal with Nvidia-Backed Lambda",
-            "url": "https://www.analyticsinsight.net/news/anthropic-signs-usd-35b-cloud-deal-with-nvidia-backed-lambda",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-01/nu4wxlpi/Anthropic-Signs-35-Billion-Cloud-Computing-Deal-With-Nvidia-Backed-Lambda.jpg",
-            "publishedAt": "2026-09-01 07:38:05"
         }
     ]
 }
