@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-09-05T14:27:40.011113Z",
+    "lastUpdatedAt": "2026-09-05T17:04:28.747053Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Anthropic pushes back IPO timeline, eyes mid-October launch",
+            "url": "https://www.devdiscourse.com/article/business/3972963-anthropic-pushes-back-ipo-timeline-eyes-mid-october-launch",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/05_09_2026_10_20_20_7380184.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-09-05T04:50:25Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "XCOTTON Joins the Conversation at IFA 2026: Why the Future of Commerce Goes Beyond Checkout",
+            "url": "https://www.manilatimes.net/2026/09/05/tmt-newswire/pr-newswire/xcotton-joins-the-conversation-at-ifa-2026-why-the-future-of-commerce-goes-beyond-checkout/2419111",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/09/05/1204160.jpg",
+            "publishedAt": "2026-09-05T04:31:22Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Anthropic IPO launch shifts toward mid",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-launch-shifts-toward-mid-october-sources-say/articleshow/133786749.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34338,resizemode-75,msid-133786749/tech/artificial-intelligence/anthropic-ipo-launch-shifts-toward-mid-october-sources-say.jpg",
+            "publishedAt": "2026-09-05T03:52:56Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Anthropic pushes back IPO timeline, eyes mid",
+            "url": "https://www.tribuneindia.com/news/business/anthropic-pushes-back-ipo-timeline-eyes-mid-october-launch/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ1ZTc1ZDkwLWE4ZGItMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
+            "publishedAt": "2026-09-05T03:42:29Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Anthropic pushes back IPO timeline, eyes mid-October launch",
+            "url": "https://www.aninews.in/news/business/anthropic-pushes-back-ipo-timeline-eyes-mid-october-launch20260905090706/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260905032359-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-09-05T03:37:06Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "The Seattle Times sues OpenAI, Microsoft over copyright infringement",
+            "url": "https://www.spokesman.com/stories/2026/sep/04/the-seattle-times-sues-openai-microsoft-over-copyr/",
+            "urlToImage": "https://thumb.spokesman.com/K2kuEELQVYJmNqMecqSUgqpGZ48=/2400x1260/smart/media.spokesman.com/graphics/2020/08/sr_placeholder.png",
+            "publishedAt": "2026-09-05T03:23:00Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Former Twitter team launches Twitter.now with AI fake-news checks",
+            "url": "https://www.bangkokpost.com/life/tech/3314469/former-twitter-team-launches-twitternow-with-ai-fakenews-checks",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260905/c2_3314469.jpg",
+            "publishedAt": "2026-09-05T02:33:00Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -993,6 +1077,15 @@
             "url": "https://blockchain.news/news/nvidia-jetson-local-ai-compact-models",
             "urlToImage": "https://image.blockchain.news/features/D8E08E86F8EDBDDCD68414CF49BDD8B1401B11A69515DFF98E6B2B03EE9CF9D7.jpg",
             "publishedAt": "2026-09-04 18:38:33"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "BigBear.ai vs. CoreWeave: Evaluating the Better Artificial Intelligence Stock to Buy for 2026",
+            "url": "https://www.bundle.app/en/finance/bigbearai-vs-coreweave-evaluating-the-better-artificial-intelligence-stock-to-buy-for-2026-4343DF3C-424D-47FF-9001-027EDDF8A284",
+            "urlToImage": "https://static.bundle.app/news/7eb227d9-2f48-5a1a-b233-33e07c363f6b.jpg",
+            "publishedAt": "2026-09-04 18:23:32"
         },
         {
             "source": {
@@ -3309,78 +3402,6 @@
             "url": "https://www.webpronews.com/mukesh-ambanis-jiopc-bet-turning-indias-aging-pcs-into-cloud-powered-ai-machines/",
             "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/09/article-24978-1788367486.jpeg",
             "publishedAt": "2026-09-02 17:52:15"
-        },
-        {
-            "source": {
-                "name": "thehawk_in"
-            },
-            "title": "Rejecting AI like rejecting electricity: Altman",
-            "url": "https://www.thehawk.in/news/science/rejecting-ai-like-rejecting-electricity-altman",
-            "urlToImage": "https://thehawk.sgp1.digitaloceanspaces.com/846dd0da-e15d-4976-b353-29b9d8489038/202609023928123-45cd2a24-7270-41b2-9ff0-9aa50d6e3367.jpg",
-            "publishedAt": "2026-09-02 17:49:10"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Caira’s Nano Banana Video Tool Anchors AI Edits in Real Footage",
-            "url": "https://www.webpronews.com/cairas-nano-banana-video-tool-anchors-ai-edits-in-real-footage/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/09/article-24977-1788367304.jpeg",
-            "publishedAt": "2026-09-02 17:42:15"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "Acer’s new RTX Spark small form factor PCs are giving me M6 Mac mini vibes: great-looking hardware, but who is it really for?",
-            "url": "https://www.techradar.com/computing/windows-pcs/acers-new-rtx-spark-small-form-factor-pcs-are-giving-me-m6-mac-mini-vibes-great-looking-hardware-but-who-is-it-really-for",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/963RGrroenvqoeK6QeuKP5-1280-80.png",
-            "publishedAt": "2026-09-02 17:27:30"
-        },
-        {
-            "source": {
-                "name": "socialnews"
-            },
-            "title": "Rejecting AI like rejecting electricity: Altman",
-            "url": "https://www.socialnews.xyz/2026/09/02/rejecting-ai-like-rejecting-electricity-altman/",
-            "urlToImage": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/09/02/202609023928123.jpg?fit=1288%2C618&quality=80&zoom=1&ssl=1",
-            "publishedAt": "2026-09-02 16:41:09"
-        },
-        {
-            "source": {
-                "name": "thehawk_in"
-            },
-            "title": "Friends' AI warning changed Anthropic CEO's career",
-            "url": "https://www.thehawk.in/news/world/friends-ai-warning-changed-anthropic-ceos-career",
-            "urlToImage": "https://thehawk.sgp1.digitaloceanspaces.com/676ced66-38b9-4e02-82b1-24f41ff8c605/202609023928037-5f0af71c-c2e7-4807-b889-6fb99d49d9da.jpg",
-            "publishedAt": "2026-09-02 16:14:09"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-            "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/jiopc.jpg",
-            "publishedAt": "2026-09-02 16:01:48"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Every AI Prompt Is A Procurement Decision: The Era Of Token-As-A-Service (TaaS)",
-            "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/02/every-ai-prompt-is-a-procurement-decision-the-era-of-token-as-a-service-taas/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a97051e249b43c0ef21fb8a/0x0.jpg?width=960",
-            "publishedAt": "2026-09-02 15:45:00"
-        },
-        {
-            "source": {
-                "name": "abajournal"
-            },
-            "title": "ILTACON 2026: The race to connect the dots—and the data",
-            "url": "https://www.abajournal.com/columns/article/iltacon-2026-and-the-race-to-connect-the-dots/",
-            "urlToImage": "https://www.abajournal.com/images/main_images/NicoleBlack2.jpg",
-            "publishedAt": "2026-09-02 14:20:00"
         }
     ]
 }
