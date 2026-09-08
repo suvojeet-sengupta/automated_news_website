@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2026-09-08T07:45:56.168006Z",
+    "lastUpdatedAt": "2026-09-08T12:34:13.309912Z",
     "articles": [
+        {
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            },
+            "title": "Korea's nominal GDP grows at fastest pace in 47 years in Q2; $40,000 per capita GNI on track",
+            "url": "https://www.koreatimes.co.kr/economy/20260908/koreas-nominal-gdp-grows-at-fastest-pace-in-47-years-in-q2-40000-per-capita-gni-on-track",
+            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/09/08/b69a568b-0e71-4e41-a432-2e61ac09aac1.jpg",
+            "publishedAt": "2026-09-07T23:23:03Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "Scientists Identify Six Previously Unknown Structures At Earth’s Core",
+            "url": "https://www.naturalnews.com/2026-09-07-scientists-identify-six-unknown-structures-earth-core.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/earths-core-mantle-boundary-seismic-waves-pkp-precursor-waves-3818-original.jpg",
+            "publishedAt": "2026-09-07T22:25:21Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Israel keen to step up cybersecurity ties with Thailand",
+            "url": "https://www.bangkokpost.com/thailand/general/3315743/israel-keen-to-step-up-cybersecurity-ties-with-thailand",
+            "urlToImage": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+            "publishedAt": "2026-09-07T21:58:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI governance model inspired by Pope Leo XIV aims to put ethics first",
+            "url": "https://phys.org/news/2026-09-ai-pope-leo-xiv-aims.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-use.jpg",
+            "publishedAt": "2026-09-07T21:40:02Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Science event takes students beyond AI, lays emphasis on critical thinking",
+            "url": "https://www.tribuneindia.com/news/amritsar/science-event-takes-students-beyond-ai-lays-emphasis-on-critical-thinking/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTRiMGM1NjIwLWFiMDItMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
+            "publishedAt": "2026-09-07T21:22:32Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Four in five businesses still on residential NBN plans",
+            "url": "https://www.perthnow.com.au/news/technology/four-in-five-businesses-still-on-residential-nbn-plans-c-22837728",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-22837728/07fa09e3e3886bbca77eb377a3cb63da7c9c61ff-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-09-07T20:03:24Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "Four in five businesses still on residential NBN plans",
+            "url": "https://www.canberratimes.com.au/story/9345690/four-in-five-businesses-still-on-residential-nbn-plans/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/fae7e87d-25e9-4bac-8848-9b1d7027767c.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-09-07T20:01:00Z"
+        },
         {
             "source": {
                 "id": "9f53afb019d44feb16bcc7da150e679a",
@@ -651,12 +735,30 @@
         },
         {
             "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "OpenAI vs Anthropic: The Key Differences Shaping the AI Race",
+            "url": "https://www.analyticsinsight.net/photo/openai-vs-anthropic-the-key-differences-shaping-the-ai-race",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-07/3et41xk2/OpenAI-vs-Anthropic-The-Key-Differences-Shaping-the-AI-Race.jpg",
+            "publishedAt": "2026-09-07 21:30:00"
+        },
+        {
+            "source": {
                 "name": "techcrunch"
             },
             "title": "Opaque recurrence, and other AI terms that you should probably know",
             "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
             "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png",
             "publishedAt": "2026-09-07 19:24:00"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "Opaque recurrence, and other AI terms that you should probably know",
+            "url": "https://www.bundle.app/en/technology/opaque-recurrence-and-other-ai-terms-that-you-should-probably-know-41C34074-B7A5-4EFC-A691-DC308E97AC99",
+            "urlToImage": "https://static.bundle.app/news/49e57252-366e-53c3-bc54-1592466a62dd.jpg",
+            "publishedAt": "2026-09-07 19:23:44"
         },
         {
             "source": {
@@ -3297,114 +3399,6 @@
             "url": "https://www.androidauthority.com/openai-launches-gpt-6-astra-3707374/",
             "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-10.jpg",
             "publishedAt": "2026-09-03T22:20:28Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "North Little Rock will host annual conference on cybersecurity, emerging technologies, global threats",
-            "url": "https://www.arkansasonline.com/news/2026/sep/03/north-little-rock-will-host-annual-conference-on/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/06/26/AP18157770452510_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-            "publishedAt": "2026-09-03T22:20:00Z"
-        },
-        {
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
-                "country": "us"
-            },
-            "title": "Hackers stopped attacking passwords. They're attacking your consent instead.",
-            "url": "https://gizmodo.com/hackers-stopped-attacking-passwords-theyre-attacking-your-consent-instead-2000806814",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/scam-old-people-1200x675.jpg",
-            "publishedAt": "2026-09-03T22:11:25Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
-            "url": "https://www.livemint.com/technology/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny-11788471790655.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
-            "publishedAt": "2026-09-03T21:43:10Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Nanoscale multiferroic materials open the path to efficient magnetic memory technology",
-            "url": "https://phys.org/news/2026-09-nanoscale-multiferroic-materials-path-efficient.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/nanoscale-multiferroic-1.jpg",
-            "publishedAt": "2026-09-03T21:40:01Z"
-        },
-        {
-            "source": {
-                "id": "321f3fa90dde0946a7b4a17731c0314d",
-                "name": "The New Zealand Herald",
-                "url": "https://www.nzherald.co.nz",
-                "country": "nz"
-            },
-            "title": "Hugging Face, the French start-up that became AI’s warehouse",
-            "url": "https://www.nzherald.co.nz/technology/hugging-face-the-french-start-up-that-became-ais-warehouse/LODSKZDCXFFWJNGDWYNDLHTXBE/",
-            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/T6O55KVBHNENTAMYBRLQ6U7MEM.jpg?auth=cf27b791d052b4833b2a6be984688414168316ed2e37453dae7f6cf75a29c409&width=1200&height=675&quality=70&focal=1821%2C1465&smart=false",
-            "publishedAt": "2026-09-03T21:00:41Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Guidelines needed as AI embraced by mental health practices",
-            "url": "https://medicalxpress.com/news/2026-09-guidelines-ai-embraced-mental-health.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/therapist-computer.jpg",
-            "publishedAt": "2026-09-03T21:00:08Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "New York bans AI use for students until high school",
-            "url": "https://www.manilatimes.net/2026/09/04/world/americas-emea/new-york-bans-ai-use-for-students-until-high-school/2418416",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/09/04/1202697.jpg",
-            "publishedAt": "2026-09-03T20:59:00Z"
-        },
-        {
-            "source": {
-                "id": "321f3fa90dde0946a7b4a17731c0314d",
-                "name": "The New Zealand Herald",
-                "url": "https://www.nzherald.co.nz",
-                "country": "nz"
-            },
-            "title": "Nvidia’s $22 billion Hugging Face deal is a bargain hedge",
-            "url": "https://www.nzherald.co.nz/business/nvidias-22-billion-hugging-face-deal-is-a-bargain-hedge/FHKAHT4R25D6XD6X4V5OEXBHOM/",
-            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/NAGVNNXE3ZDGFLQH7RLF524GOM.jpg?auth=84f8e82ba6226140947b90a9d012072f817855d55d2c162cada68432212981d7&width=1200&height=675&quality=70&focal=443%2C252&smart=false",
-            "publishedAt": "2026-09-03T20:57:01Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "OpenAI begins rollout of new powerful AI model GPT-6 Astra",
-            "url": "https://www.manilatimes.net/2026/09/04/business/sunday-business-it/openai-begins-rollout-of-new-powerful-ai-model-gpt-6-astra/2418346",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/09/04/1202612.jpg",
-            "publishedAt": "2026-09-03T20:18:00Z"
         }
     ]
 }
