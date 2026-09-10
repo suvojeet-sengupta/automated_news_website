@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-09-10T05:31:04.230194Z",
+    "lastUpdatedAt": "2026-09-10T10:28:18.179930Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "If alien civilizations use hyper-efficient computers, they will have a distinct energy signal we can detect",
+            "url": "https://phys.org/news/2026-09-alien-civilizations-hyper-efficient-distinct.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/if-alien-civilizations.jpg",
+            "publishedAt": "2026-09-09T21:20:04Z"
+        },
+        {
+            "source": {
+                "id": "2492bcb79914b2ce3d9867453dae22ac",
+                "name": "Financial Post",
+                "url": "https://financialpost.com",
+                "country": "ca"
+            },
+            "title": "Banks say AI lets them recover unpaid loans, save workdays",
+            "url": "https://financialpost.com/fp-finance/banking/banks-say-ai-allowing-them-recover-unpaid-loans-cut-call-centre-volumes-save-workdays",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/0910-mg-toronto-banking-district.jpg",
+            "publishedAt": "2026-09-09T21:01:06Z"
+        },
+        {
+            "source": {
+                "id": "321f3fa90dde0946a7b4a17731c0314d",
+                "name": "The New Zealand Herald",
+                "url": "https://www.nzherald.co.nz",
+                "country": "nz"
+            },
+            "title": "Karina Atkins says AI is ‘gatekeeping’ her after 331 job applications",
+            "url": "https://www.nzherald.co.nz/nz/karina-atkins-says-ai-is-gatekeeping-her-after-331-job-applications/3UWFM7GR5ZE33E4DM4XY5VAPP4/",
+            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/XQ4ULYCBGFEI7NSEREZNFAGSWA.JPG?auth=bc67bb3b0b86c2f90eea7f0ea27e19158a5436b5c81dac6c860ffc0914280421&width=1200&height=675&quality=70&focal=1563%2C860&smart=false",
+            "publishedAt": "2026-09-09T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Researchers chart new course for AI-powered biomedical discoveries",
+            "url": "https://phys.org/news/2026-09-ai-powered-biomedical-discoveries.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/researchers-chart-new.jpg",
+            "publishedAt": "2026-09-09T20:40:05Z"
+        },
+        {
+            "source": {
+                "id": "6b8b6fae575a37200ef9ef50109518f5",
+                "name": "Screen Rant",
+                "url": "https://screenrant.com",
+                "country": "us"
+            },
+            "title": "Fi Thriller Deserves Credit For Predicting The Future",
+            "url": "https://screenrant.com/person-of-interest-predicted-the-future-surveillance-ai/",
+            "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/person-of-interest_16l41v.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-09-09T20:30:15Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Rohan Arni, 17, used AI to analyse mysterious radio flashes from space; his model classified repeating and non-repeating bursts with 98% accuracy",
+            "url": "https://timesofindia.indiatimes.com/science/space/rohan-arni-17-used-ai-to-analyse-mysterious-radio-flashes-from-space-his-model-classified-repeating-and-non-repeating-bursts-with-98-accuracy/articleshow/133922309.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133922626,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-09T20:30:00Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "Apple’s AI bet is simple: make the iPhone smarter, not build another device",
+            "url": "https://www.cnbctv18.com/technology/john-ternus-apple-intelligence-siri-ai-strategy-september-2026-19988024.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/09/artificial-intelligence-21-2026-09-52fbe584e68b0d4e88aacf119daab24a.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-09-09T20:20:55Z"
+        },
+        {
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            },
+            "title": "AI privacy agreement reached between teachers union and Microsoft",
+            "url": "https://foxbaltimore.com/station/share/ai-privacy-agreement-reached-between-teachers-union-and-microsoft-artificial-intelligence-randi-weingarten",
+            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/6000/1320/0x313/90/3cb213db-abdc-4a71-9d9e-3fc6a89247eb-GettyImages2136341675.jpg",
+            "publishedAt": "2026-09-09T20:17:26Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "AI privacy agreement reached between teachers union and Microsoft",
+            "url": "https://wjla.com/news/nation-world/ai-privacy-agreement-reached-between-teachers-union-and-microsoft-artificial-intelligence-randi-weingarten",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/6000/1320/0x313/90/3cb213db-abdc-4a71-9d9e-3fc6a89247eb-GettyImages2136341675.jpg",
+            "publishedAt": "2026-09-09T20:17:26Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Apple Unveils Its First Foldable iPhone. Its Stock Remained Largely Flat.",
+            "url": "https://www.ibtimes.com/apple-unveils-its-first-foldable-iphone-its-stock-remained-largely-flat-3807313",
+            "urlToImage": "https://d.ibtimes.com/en/full/4652658/iphone-duo.jpg",
+            "publishedAt": "2026-09-09T20:04:18Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -624,6 +744,33 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2026/09/09/meta-launches-personal-ai-agent-muse-emphasises-safety-and-privacy",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/09/4100948.jpg",
             "publishedAt": "2026-09-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "progressive_org"
+            },
+            "title": "We Must Rise To Meet the AI Threat",
+            "url": "https://progressive.org/op-eds/we-must-rise-to-meet-the-ai-threat-rosenthal-derwinski-20260909/",
+            "urlToImage": "https://progressive.org/downloads/23201/download/ComputerCode.jpg?cb=de600baf03800c23e5fecc4c7e7c6f6f",
+            "publishedAt": "2026-09-09 22:25:38"
+        },
+        {
+            "source": {
+                "name": "news_clemson"
+            },
+            "title": "Turn ideas into action with this month’s AI workshops",
+            "url": "https://news.clemson.edu/turn-ideas-into-action-with-this-months-ai-workshops/",
+            "urlToImage": "https://news.clemson.edu/wp-content/uploads/2026/09/CCIT-Student-Stock-Photos_071526_AJ_242-scaled.jpg",
+            "publishedAt": "2026-09-09 19:07:08"
+        },
+        {
+            "source": {
+                "name": "hitconsultant"
+            },
+            "title": "Verily Secures Strategic Investment from NVIDIA to Accelerate Precision Health AI Platform",
+            "url": "https://hitconsultant.net/2026/09/09/verily-health-secures-nvidia-investment-precision-health-ai-pre-platform/",
+            "urlToImage": "https://hitconsultant.net/wp-content/uploads/2025/06/unifying-one-verily-hero.webp",
+            "publishedAt": "2026-09-09 18:19:19"
         },
         {
             "source": {
@@ -3204,141 +3351,6 @@
             "url": "https://navjeevanexpress.com/from-iit-mit-to-adobes-ai-frontier-anil-chakravarthy-takes-the-creative-tech-giant-into-its-next-act/",
             "urlToImage": "https://navjeevanexpress.com/wp-content/uploads/2026/09/Anil-Chakravarthy.jpg",
             "publishedAt": "2026-09-06 16:46:16"
-        },
-        {
-            "source": {
-                "name": "microwire_info"
-            },
-            "title": "China’s affordable AI, sovereign AI, and Nvidia’s ambitions reshaping APAC",
-            "url": "https://microwire.info/chinas-affordable-ai-sovereign-ai-and-nvidias-ambitions-reshaping-apac/",
-            "urlToImage": "https://microwire.info/wp-content/uploads/2026/05/pexels-markus-winkler-1430818-30869149-1200x800.jpg",
-            "publishedAt": "2026-09-06 16:34:32"
-        },
-        {
-            "source": {
-                "name": "infotechlead"
-            },
-            "title": "AWS, Microsoft and Google Face a $600 Billion AI Question: Where Is the Return on AI Capex?",
-            "url": "https://infotechlead.com/cloud/aws-microsoft-and-google-face-a-600-billion-ai-question-where-is-the-return-on-ai-capex-98190",
-            "urlToImage": "https://infotechlead.com/wp-content/uploads/2026/09/AI-Capex-scorecard-2026.jpg",
-            "publishedAt": "2026-09-06 16:26:00"
-        },
-        {
-            "source": {
-                "name": "ibcworldnews"
-            },
-            "title": "New advisory board charts Karnataka AI future",
-            "url": "https://ibcworldnews.com/2026/09/06/new-advisory-board-charts-karnataka-ai-future/",
-            "urlToImage": "https://ibcworldnews.com/wp-content/uploads/2026/09/332-1024x574.jpg",
-            "publishedAt": "2026-09-06 15:57:23"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Nvidia Releases Free Tool to Turn Idle GPUs into Private AI Clusters",
-            "url": "https://www.webpronews.com/nvidia-releases-free-tool-to-turn-idle-gpus-into-private-ai-clusters/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/09/article-25278-1788700620.jpeg",
-            "publishedAt": "2026-09-06 13:17:14"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "7 Best Open-Source AI Tools You Can Run Locally in 2026",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/7-best-open-source-ai-tools-you-can-run-locally-in-2026",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-06/j39437oq/7-Free-Open-Source-AI-Tools-That-Could-Replace-Your-Most-Used-AI-Apps.jpg",
-            "publishedAt": "2026-09-06 13:00:00"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
-            "url": "https://www.bundle.app/en/finance/im-a-father-of-three-who-studies-the-impact-of-artificial-intelligence-this-is-what-parents-need-to-know-about-ai-0EC8B1A6-66F6-4991-9B82-121A6F8C45CA",
-            "urlToImage": "https://static.bundle.app/news/d39a8389-e75a-5f85-8a01-609717ea53c5.jpg",
-            "publishedAt": "2026-09-06 11:41:17"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Microsoft Maia 300 AI Chip: How it Fares Against NVIDIA’s Dominance",
-            "url": "https://www.analyticsinsight.net/news/microsoft-maia-300-ai-chip-how-it-fares-against-nvidias-dominance",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-06/o5s7po8x/Microsoft-Maia-300-AI-Chip.jpg",
-            "publishedAt": "2026-09-06 07:49:32"
-        },
-        {
-            "source": {
-                "id": "3396ad417e0d2903accd5a027a93503e",
-                "name": "Evening Chronicle",
-                "url": "https://www.chroniclelive.co.uk",
-                "country": "gb"
-            },
-            "title": "I met a humanoid robot in Cramlington and witnessed the incredible technology in person",
-            "url": "https://www.chroniclelive.co.uk/news/news-opinion/met-humanoid-robot-cramlington-witnessed-34556672",
-            "urlToImage": "https://i2-prod.chroniclelive.co.uk/article34557772.ece/ALTERNATES/s1200d/1_We-meet-the-humanoid-robot-Zomet.jpg",
-            "publishedAt": "2026-09-05T23:22:00Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Quebec courts say generative AI cannot replace judges' reasoning",
-            "url": "https://www.cp24.com/news/canada/2026/09/05/quebec-courts-say-generative-ai-cannot-replace-judges-reasoning/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/QBR2WVEA677DNTAH23ITEACUUE.jpg?smart=true&auth=3a4d55cd7c52ec084438e16167f8af64004cbba99f791c779343fc3abfca7de8&width=1200&height=630",
-            "publishedAt": "2026-09-05T21:15:23Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Breaking through AlphaFold's limits to predict how proteins change shape",
-            "url": "https://phys.org/news/2026-09-alphafold-limits-proteins.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/breaking-through-alpha.jpg",
-            "publishedAt": "2026-09-05T21:00:05Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Global Film Industry Convenes at Lumiere Summit",
-            "url": "https://www.devdiscourse.com/article/entertainment/3973250-global-film-industry-convenes-at-lumiere-summit",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/14_05_2025_14_34_49_9352747.png&width=920&format=jpeg",
-            "publishedAt": "2026-09-05T20:59:35Z"
-        },
-        {
-            "source": {
-                "id": "0aab1d72ae666208d1824f73c0ea4209",
-                "name": "Kotaku",
-                "url": "https://kotaku.com",
-                "country": "au"
-            },
-            "title": "Epic Games CEO Tim Sweeney Says The Industry Is Crashing",
-            "url": "https://kotaku.com/epic-games-ceo-tim-sweeney-says-the-industry-is-crashing-and-ai-is-making-it-worse-2000731564",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/09/fortnitecollapse-1200x675.jpg",
-            "publishedAt": "2026-09-05T20:04:57Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "Quebec courts say generative AI cannot replace judges' reasoning",
-            "url": "https://www.sootoday.com/national-news/quebec-courts-say-generative-ai-cannot-replace-judges-reasoning-12748834",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/09/264cb064663a802c510e7722aa4dfe041737bbd23aaebcec3a92dbc7e90d2684.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-09-05T19:54:09Z"
         }
     ]
 }
