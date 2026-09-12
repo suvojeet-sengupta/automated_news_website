@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-09-12T00:50:53.197488Z",
+    "lastUpdatedAt": "2026-09-12T05:20:02.585039Z",
     "articles": [
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "Anthropic researcher’s resignation highlights governance concerns for AI firms’ IPOs",
+            "url": "https://www.europesays.com/3245671/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/09/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUxODkzMzI3LmpwZw.webp",
+            "publishedAt": "2026-09-11T17:19:16Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "AI may cut banks’ cost-to-serve by 20-30%: BCG",
+            "url": "https://www.financialexpress.com/business/news-ai-may-cut-banks-cost-to-serve-by-20-30-bcg-4337528/",
+            "urlToImage": "https://images.financialexpressdigital.com/2026/09/ai.ai_.jpg",
+            "publishedAt": "2026-09-11T17:07:02Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI-enabled analysis of pathology slides may help assess risk of pancreatic cancer recurrence",
+            "url": "https://medicalxpress.com/news/2026-09-ai-enabled-analysis-pathology-pancreatic.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/microscope.jpg",
+            "publishedAt": "2026-09-11T17:00:02Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "FM Sitharaman pushes RBI to sharpen digital rupee as tokenisation takes off",
+            "url": "https://economictimes.indiatimes.com/news/economy/finance/fm-sitharaman-pushes-rbi-to-sharpen-digital-rupee-as-tokenisation-takes-off/articleshow/134078943.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-134079635,width-1200,height-630,imgsize-80798,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-09-11T16:51:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Ireland sees fintech, AI convergence driving stronger India partnerships: Consul General Patrick Duffy",
+            "url": "https://www.tribuneindia.com/news/business/ireland-sees-fintech-ai-convergence-driving-stronger-india-partnerships-consul-general-patrick-duffy/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQyMjA2NDgwLWFkZmYtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+            "publishedAt": "2026-09-11T16:42:40Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "First Antarctic-wide map of grounded icebergs reveals 'picket fence effect' holding sea ice in place",
+            "url": "https://phys.org/news/2026-09-antarctic-wide-grounded-icebergs-reveals.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/iceberg.jpg",
+            "publishedAt": "2026-09-11T16:40:02Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Ireland sees fintech, AI convergence driving stronger India partnerships: Consul General Patrick Duffy",
+            "url": "https://www.aninews.in/news/business/ireland-sees-fintech-ai-convergence-driving-stronger-india-partnerships-consul-general-patrick-duffy20260911220837/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260911163826-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-09-11T16:38:37Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Sitharaman calls AI a ‘double-edged sword’, urges soft-touch regulation and faster digital rupee push",
+            "url": "https://economictimes.indiatimes.com/news/india/sitharaman-calls-ai-a-double-edged-sword-urges-soft-touch-regulation-and-faster-digital-rupee-push/articleshow/134079142.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-134079177,width-1200,height-630,imgsize-153674,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-09-11T16:38:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Sitharaman calls AI a ‘double-edged sword’, urges soft-touch regulation and faster digital rupee push",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/sitharaman-calls-ai-a-double-edged-sword-urges-soft-touch-regulation-and-faster-digital-rupee-push/articleshow/134103510.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-134079177,width-1200,height-630,imgsize-153674,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-09-11T16:38:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "FM Sitharaman calls for AI safeguards, industry platforms as technology expands globally",
+            "url": "https://www.tribuneindia.com/news/india/fm-sitharaman-calls-for-ai-safeguards-industry-platforms-as-technology-expands-globally/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU1MGM0MTAwLWFkZmUtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+            "publishedAt": "2026-09-11T16:36:04Z"
+        },
         {
             "source": {
                 "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
@@ -120,6 +240,18 @@
             "url": "https://www.tribuneindia.com/news/business/ai-led-payments-will-need-strong-risk-checks-as-trust-remains-critical-amazon-pay-india-ceo/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM0ZmJlYTAwLWFkZDUtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
             "publishedAt": "2026-09-11T11:37:37Z"
+        },
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "Bristol opens first overseas campus in Mumbai as foreign unis expand",
+            "url": "https://www.business-standard.com/education/news/bristol-opens-first-overseas-campus-in-mumbai-as-foreign-unis-expand-126091100770_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/11/thumb/fitandfill/1200X628/1789121677-9424.jpg",
+            "publishedAt": "2026-09-11T10:14:56Z"
         },
         {
             "source": {
@@ -368,6 +500,18 @@
                 "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             },
+            "title": "Mastercard’s AI Garage is building products for the world in India: Nitendra Rajput",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/gff-2026-mastercard-ai-garage-is-building-products-for-the-world-in-india-nitendra-rajput/articleshow/134047347.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-134047522,width-1200,height-630,imgsize-100502,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-09-11T05:25:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
             "title": "linking tech in AI servers",
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chip-startup-d-matrix-to-use-nvidia-chip-linking-tech-in-ai-servers/articleshow/134045944.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-105724,resizemode-75,msid-134045944/tech/artificial-intelligence/chip-startup-d-matrix-to-use-nvidia-chip-linking-tech-in-ai-servers.jpg",
@@ -540,6 +684,51 @@
             "url": "https://www.thehitavada.com//Encyc/2026/9/11/msedcl-detects-over-28000-power-theft-cases-in-3-months.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2026/9/11/Lokesh-Chandra_202609111312391381_H@@IGHT_533_W@@IDTH_355.jpg",
             "publishedAt": "2026-09-11T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cioinfluence"
+            },
+            "title": "The CIO Value Engine: Turning Technology Portfolios Into Measurable Business Performance",
+            "url": "https://cioinfluence.com/featured/the-cio-value-engine-turning-technology-portfolios-into-measurable-business-performance/",
+            "urlToImage": "https://cioinfluence.com/wp-content/uploads/2026/09/person-using-laptop-computer-tec-1.jpg",
+            "publishedAt": "2026-09-11 14:33:08"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "The hard physics and complex economics of AI’s insatiable hunger for power",
+            "url": "https://siliconangle.com/2026/09/11/the-hard-physics-and-complex-economics-of-ais-insatiable-hunger-for-power/",
+            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Industrial_data_center_with_pipes_202608281525.jpeg",
+            "publishedAt": "2026-09-11 14:30:29"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "10 reasons to choose the Dell Pro 5 for your business",
+            "url": "https://www.itpro.com/technology/artificial-intelligence/10-reasons-to-choose-the-dell-pro-5-for-your-business",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/X6D2ve8GY352SyBRjBVgsX-1280-80.jpg",
+            "publishedAt": "2026-09-11 14:00:00"
+        },
+        {
+            "source": {
+                "name": "btin_co_in"
+            },
+            "title": "Gemini Desktop App Windows Brings Ai Tools To The Pc",
+            "url": "https://www.btin.co.in/gemini-desktop-app-windows-brings-ai-119334",
+            "urlToImage": "https://data.btin.co.in/data/images/full/8518/technology.png",
+            "publishedAt": "2026-09-11 13:51:29"
+        },
+        {
+            "source": {
+                "name": "cxotoday"
+            },
+            "title": "The AI Jargon Everyone Should Know: Opaque Recurrence and Recurrent Depth",
+            "url": "https://cxotoday.com/ai/the-ai-jargon-everyone-should-know-opaque-recurrence-and-recurrent-depth/",
+            "urlToImage": "https://cxotoday.com/wp-content/uploads/2026/09/ai-glossary-of-terms.jpg",
+            "publishedAt": "2026-09-11 13:32:43"
         },
         {
             "source": {
@@ -996,6 +1185,18 @@
         },
         {
             "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Indian-origin couple donates $20M to US university for new AI college",
+            "url": "https://indianexpress.com/article/world/us-news/us-news-vikas-anuradha-sinha-20-million-donation-university-north-texas-ai-college-10871079/",
+            "urlToImage": "https://images.indianexpress.com/2026/09/Vikas-Sinha-and-anuradha.jpg",
+            "publishedAt": "2026-09-10T12:41:04Z"
+        },
+        {
+            "source": {
                 "id": "88e222cab209b86d787c4fdccf161c76",
                 "name": "The Spectator",
                 "url": "https://spectator.com",
@@ -1113,6 +1314,42 @@
             "url": "https://www.ajc.com/news/2026/09/travel-scams-are-getting-harder-to-spot-heres-how-to-stay-safe/",
             "urlToImage": "https://images.ajc.com/resizer/v2/C6HZRE4H7ZFULCEFAW2SC3DVLU.jpg?auth=3987e29209833aee04f149fe3ae01d12d0c3a78b3875bc1b10030710961cb9a7&width=1200&height=630&smart=true",
             "publishedAt": "2026-09-10T10:42:34Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Learnbay Updates AI Curriculum as India’s AI Hiring Increases by 33%, Driven by Enterprise Deployment",
+            "url": "https://www.tribuneindia.com/news/business/learnbay-updates-ai-curriculum-as-indias-ai-hiring-increases-by-33-driven-by-enterprise-deployment/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWFmOGJkNTAwLWFkMDMtMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
+            "publishedAt": "2026-09-10T10:37:49Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Learnbay Updates AI Curriculum as India’s AI Hiring Increases by 33%, Driven by Enterprise Deployment",
+            "url": "https://www.aninews.in/news/business/learnbay-updates-ai-curriculum-as-india8217s-ai-hiring-increases-by-33-driven-by-enterprise-deployment20260910160616/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260910103604-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-09-10T10:36:16Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "This Indian-origin couple gifted $20 million to Texas university. All about the new AI college they are helping to build",
+            "url": "https://www.livemint.com/ai/this-indian-origin-couple-gifted-20-million-to-texas-university-all-about-the-new-ai-college-they-are-helping-to-build-11789031479485.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/AI_1789031654665_74d66f80-9229-4a80-a4a3-8dae00da30c7_1789031659708_36fe2f24-720b-476a-b787-2cee5588cdd9_bef7b65d-8f84-4dfd-abaf-093414dd204f_de1c29f9-91cc-4ae5-bef3-07d59ed29fb4.png",
+            "publishedAt": "2026-09-10T10:00:25Z"
         },
         {
             "source": {
@@ -1236,6 +1473,18 @@
         },
         {
             "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "University Of North Texas Names New AI College After Indian-Origin Couple Anuradha And Vikas Sinha Following ₹190 Crore Donation",
+            "url": "https://www.freepressjournal.in/education/university-of-north-texas-names-new-ai-college-after-indian-origin-couple-anuradha-and-vikas-sinha-following-190-crore-donation",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-09-10/t7yw6mur/University-Of-North-Texas-President-and-Dean-with-Indian-Origin-Couple-Anuradha-And-Vikas-Sinha.jpg",
+            "publishedAt": "2026-09-10T06:22:33Z"
+        },
+        {
+            "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
                 "name": "The Star",
                 "url": "https://www.thestar.com.my",
@@ -1293,6 +1542,18 @@
             "url": "https://www.thenews.com.pk/latest/1415611-andrew-garfield-gives-shocking-opinion-on-ai",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-09-10/1415611_101310_updates.jpg",
             "publishedAt": "2026-09-10T05:23:00Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "NIH’s $50M Autism Data Initiative Faces Accusation of Avoiding Vaccine",
+            "url": "https://www.naturalnews.com/2026-09-10-nih-autism-data-initiative-avoids-vaccine-research.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/autism-research-vaccine-autism-link-nih-autism-data-initiative-3985-original.jpg",
+            "publishedAt": "2026-09-10T05:01:52Z"
         },
         {
             "source": {
@@ -1389,6 +1650,18 @@
             "url": "https://www.indiatoday.in/world/story/university-of-north-texas-ai-college-gets-usd-20-million-gift-from-indian-origin-couple-ptag-2991281-2026-09-10",
             "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/pti-international-2-original_114-sixteen_nine.png?VersionId=EYg6_WeeLYFom0hbAkKIGqtWd3w0ZszY",
             "publishedAt": "2026-09-10T02:20:33Z"
+        },
+        {
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            },
+            "title": "Indian-origin couple donates $20 million to US university, gets AI college named after them",
+            "url": "https://www.moneycontrol.com/world/indian-origin-couple-donates-20-million-to-us-university-gets-ai-college-named-after-them-article-14026593.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/09/20260910020622_UNT.jpg",
+            "publishedAt": "2026-09-10T02:07:31Z"
         },
         {
             "source": {
@@ -3057,294 +3330,6 @@
             "url": "https://foxbaltimore.com/station/share/private-ai-gathering-to-be-hosted-by-king-charles-report-artificial-intelligence-vatican",
             "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/5001/1320/0x292/90/050439e7-b579-4f7b-bc50-f05a1ab9a96a-GettyImages2287374041.jpg",
             "publishedAt": "2026-09-08T16:49:54Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "Private AI gathering to be hosted by King Charles: report",
-            "url": "https://wjla.com/news/nation-world/private-ai-gathering-to-be-hosted-by-king-charles-report-artificial-intelligence-vatican",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/5001/1320/0x292/90/050439e7-b579-4f7b-bc50-f05a1ab9a96a-GettyImages2287374041.jpg",
-            "publishedAt": "2026-09-08T16:49:54Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Tech CEO tells workers to stop using AI chatbots for ideas: ‘I’d rather see 5 bullet points than…’",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/tech-ceo-tells-workers-to-stop-using-ai-chatbots-for-ideas-id-rather-see-5-bullet-points-than/articleshow/133933403.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133933630,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-08T16:39:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Has AI surpassed human intelligence? What OpenAI’s GPT-6 Astra can actually do",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/has-ai-surpassed-human-intelligence-what-openais-gpt-6-astra-can-actually-do/articleshow/133928488.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133929311,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-08T14:19:00Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "Global Fintech Fest 2026: RBI Governor says fintech has taken banking from branch to hand",
-            "url": "https://www.cnbctv18.com/economy/global-fintech-fest-2026-rbi-governor-says-fintech-has-taken-banking-from-branch-to-hand-19986891.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/07/rbi-governor-2026-07-38a10d16a1448c979de94b68f8e16e0d.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-09-08T14:16:57Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI gives worse workplace advice to employees with less power: Report",
-            "url": "https://www.tribuneindia.com/news/business/ai-gives-worse-workplace-advice-to-employees-with-less-power-report/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY0NDhkYmIwLWFiOGQtMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
-            "publishedAt": "2026-09-08T14:02:32Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "AI gives worse workplace advice to employees with less power: Report",
-            "url": "https://www.aninews.in/news/business/ai-gives-worse-workplace-advice-to-employees-with-less-power-report16020260908192737/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260908134856-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-09-08T13:57:37Z"
-        },
-        {
-            "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            },
-            "title": "Meta ran hundreds of ads showing AI child sexual abuse, NGO says",
-            "url": "https://www.business-standard.com/companies/news/meta-ran-hundreds-of-ads-showing-ai-child-sexual-abuse-ngo-says-126090801264_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/07/thumb/fitandfill/1200X628/1786098455-2191.JPG",
-            "publishedAt": "2026-09-08T13:42:02Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India's leading high frequency trading firm turns to bonds for capital",
-            "url": "https://economictimes.indiatimes.com/markets/bonds/indias-leading-high-frequency-trading-firm-turns-to-bonds-for-capital/articleshow/133927903.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-133927961,width-1200,height-630,imgsize-97848,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-09-08T13:39:00Z"
-        },
-        {
-            "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            },
-            "title": "White-collar hiring rises 14% in August as non-IT sectors drive growth",
-            "url": "https://www.business-standard.com/industry/news/white-collar-hiring-rises-14-in-august-as-non-it-sectors-drive-growth-126090801337_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/14/thumb/fitandfill/1200X628/1784018184-7898.jpg",
-            "publishedAt": "2026-09-08T13:38:46Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Google Cloud, Accenture deploy 1,000 AI-engineers directly with customers",
-            "url": "https://www.thenews.com.pk/latest/1415405-google-cloud-accenture-deploy-1000-ai-engineers-directly-with-customers",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-09-08/1415405_063143_updates.jpg",
-            "publishedAt": "2026-09-08T13:31:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Meta's chief AI officer wants 13-year-olds spending \"all\" their time learning this one skill",
-            "url": "https://timesofindia.indiatimes.com/education/careers/news/metas-chief-ai-officer-wants-13-year-olds-spending-all-their-time-learning-this-one-skill/articleshow/133926199.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-133927320,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-08T13:20:00Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Ashley St. Clair and Alex Gibney on AI and the dangers of Elon Musk",
-            "url": "https://wtop.com/world/2026/09/ashley-st-clair-and-alex-gibney-on-ai-and-the-dangers-of-elon-musk/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/09/Italy_Venice_Film_Festival_Musk_Photo_Call_842_3-scaled.jpg",
-            "publishedAt": "2026-09-08T13:14:53Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Altura Energy’s strategy for helium security in a geopolitically fragile market",
-            "url": "https://www.bnnbloomberg.ca/investment-trends/2026/09/08/altura-energys-strategy-for-helium-security-in-a-geopolitically-fragile-market/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fbellmediainc%2F1717607291216.jpg?auth=ef34cf3f59642485b12f79845baaee98582b911ca4d3aeb27d8722b9c453587b&width=1200",
-            "publishedAt": "2026-09-08T13:14:42Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Xometry Unveils Its Next-Gen Workcenter Experience, Streamlining How Manufacturing Partners Find, Evaluate, and Accept Jobs",
-            "url": "https://www.manilatimes.net/2026/09/08/tmt-newswire/globenewswire/xometry-unveils-its-next-gen-workcenter-experience-streamlining-how-manufacturing-partners-find-evaluate-and-accept-jobs/2420730",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/09/08/1207796.png",
-            "publishedAt": "2026-09-08T13:11:42Z"
-        },
-        {
-            "source": {
-                "id": "c8c865ed042eb14694b8d596e22efe99",
-                "name": "Spokane Spokesman-Review",
-                "url": "https://www.spokesman.com",
-                "country": "us"
-            },
-            "title": "Meta ran hundreds of ads showing AI child sexual abuse, NGO says",
-            "url": "https://www.spokesman.com/stories/2026/sep/08/meta-ran-hundreds-of-ads-showing-ai-child-sexual-a/",
-            "urlToImage": "https://thumb.spokesman.com/K2kuEELQVYJmNqMecqSUgqpGZ48=/2400x1260/smart/media.spokesman.com/graphics/2020/08/sr_placeholder.png",
-            "publishedAt": "2026-09-08T13:05:00Z"
-        },
-        {
-            "source": {
-                "id": "72ea416416ab0eec8fe687d6262961e8",
-                "name": "Finbold",
-                "url": "https://finbold.com",
-                "country": "bg"
-            },
-            "title": "Machine learning algorithm sets Marvell stock price for September 30, 2026",
-            "url": "https://finbold.com/machine-learning-algorithm-sets-marvell-stock-price-for-september-30-2026/",
-            "urlToImage": "https://finbold.com/cdn-cgi/image/format=auto,quality=90,width=1600,height=900,fit=cover/https://assets.finbold.com/uploads/2026/09/Machine-learning-algorithm-sets-Marvell-stock-price-for-September-30-2026.jpg",
-            "publishedAt": "2026-09-08T11:39:02Z"
-        },
-        {
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            },
-            "title": "In the age of artificial intelligence, professors try to make cheating hard again",
-            "url": "https://www.theglobeandmail.com/canada/article-ai-in-the-classroom-western-university/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/XHKU23ENSJDWRMEOHJZRAGN43M.JPG?auth=abd5079483b287dd9d550f442214f10aa0e4312768dc24114b2cd9a8fec2d6ba&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2026-09-08T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI Can Detect Diseases, But Can It Understand the Patient? By Dr. Vikas Singhal",
-            "url": "https://www.lokmattimes.com/health/ai-can-detect-diseases-but-can-it-understand-the-patient-by-dr-vikas-singhal-a475/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/mother-and-sonrklkkkkkkggyydllkkllwwkkwwffkkl44llkp-eeeellllolllkkkkvfkkkkkkkxxjjkk-jp_2026091131806.jpg",
-            "publishedAt": "2026-09-08T10:59:40Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "France's Mistral AI raises record USD 3.49 billion Series D at over USD 24.4 billion valuation",
-            "url": "https://www.tribuneindia.com/news/business/frances-mistral-ai-raises-record-usd-3-49-billion-series-d-at-over-usd-24-4-billion-valuation/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJhYjFjNTMwLWFiNzItMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
-            "publishedAt": "2026-09-08T10:47:39Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "France's Mistral AI raises record USD 3.49 billion Series D at over USD 24.4 billion valuation",
-            "url": "https://www.aninews.in/news/business/frances-mistral-ai-raises-record-usd-349-billion-series-d-at-over-usd-244-billion-valuation20260908161153/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260908104134-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-09-08T10:41:53Z"
-        },
-        {
-            "source": {
-                "id": "8d71923b22fd94776aed4dd1c611fd91",
-                "name": "Yardbarker",
-                "url": "https://www.yardbarker.com",
-                "country": "us"
-            },
-            "title": "Only one team are better: supercomputer gives Bayern Munich a good chance of winning the Champions League",
-            "url": "https://www.yardbarker.com/soccer/articles/only_one_team_are_better_supercomputer_gives_bayern_munich_a_good_chance_of_winning_the_champions_league/s1_17790_44275298",
-            "urlToImage": "https://us-west-2-gw-2.yardbarker.com/images/yb_white_on_black_medium.jpg",
-            "publishedAt": "2026-09-08T10:35:49Z"
-        },
-        {
-            "source": {
-                "id": "35372d3d4abe03d569103d13af4c47ad",
-                "name": "Green Bay Press-Gazette",
-                "url": "https://www.greenbaypressgazette.com",
-                "country": "us"
-            },
-            "title": "Is there an AI bubble? And what could it mean for Wisconsin?",
-            "url": "https://www.greenbaypressgazette.com/story/money/business/2026/09/08/is-there-an-ai-bubble-and-what-could-it-mean-for-wisconsin/91444429007/",
-            "urlToImage": "https://www.greenbaypressgazette.com/gcdn/authoring/authoring-images/2025/09/18/PMJS/86222367007-microsoft-expansion-0340.jpg?crop=2399,1351,x0,y124&width=2399&height=1351&format=pjpg&auto=webp",
-            "publishedAt": "2026-09-08T10:00:56Z"
-        },
-        {
-            "source": {
-                "id": "0400d94d8eab0c64d3ee6eac8f8d2ca9",
-                "name": "The Intercept",
-                "url": "https://theintercept.com",
-                "country": "us"
-            },
-            "title": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
-            "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
-            "urlToImage": "https://theintercept.com/wp-content/uploads/2026/09/AP26065716370444-e1788464092412.jpg?fit=7986%2C3993&w=1200&h=800",
-            "publishedAt": "2026-09-08T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning",
-            "url": "https://www.europesays.com/3239769/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/09/urlhttps3A2F2Fcdn.content.foolcdn.com2Fimages2F1umn9qeh2Fproduction2F675eac1fa7c9a0dbfd9bb0.jpeg",
-            "publishedAt": "2026-09-08T09:52:29Z"
         }
     ]
 }
