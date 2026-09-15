@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-09-15T19:28:16.526935Z",
+    "lastUpdatedAt": "2026-09-15T22:40:01.393092Z",
     "articles": [
+        {
+            "source": {
+                "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
+                "name": "Proto Thema",
+                "url": "https://en.protothema.gr",
+                "country": "gr"
+            },
+            "title": "Bill Gates warns: No government in the world is prepared for the changes Artificial Intelligence will bring",
+            "url": "https://en.protothema.gr/2026/09/15/bill-gates-warns-no-government-in-the-world-is-prepared-for-the-changes-artificial-intelligence-will-bring/",
+            "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/09/bill_gates-1.jpg-1.jpg",
+            "publishedAt": "2026-09-15T10:37:00Z"
+        },
+        {
+            "source": {
+                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+                "name": "The Dallas Morning News",
+                "url": "https://www.dallasnews.com",
+                "country": "us"
+            },
+            "title": "AI-powered political ads aren’t just ugly; they threaten reality",
+            "url": "https://www.dallasnews.com/opinion/editorials/article/ai-politics-ads-guardrails-22431428.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/66/27/50/31029795/5/rawImage.jpg",
+            "publishedAt": "2026-09-15T10:30:00Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Global shares trade mostly lower",
+            "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/09/15/global-shares-trade-mostly-lower-after-ai-stocks-sink-on-wall-street/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/NCMQNHJM3DEUWKQJDS44EFDCG4.jpg?smart=true&auth=82206dd1f16d9d937a56650c333bb6409bbe361c73a6d493982e87249dfb2492&width=1200&height=630",
+            "publishedAt": "2026-09-15T10:19:11Z"
+        },
+        {
+            "source": {
+                "id": "31177620c1e6e610b5d2b67916ed3615",
+                "name": "PBS News",
+                "url": "https://www.pbs.org",
+                "country": "us"
+            },
+            "title": "WATCH LIVE: First lady Melania Trump visits North Carolina school to discuss tech in the classroom",
+            "url": "https://www.pbs.org/newshour/politics/watch-live-first-lady-melania-trump-visits-north-carolina-school-to-discuss-tech-in-the-classroom",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-08-20T200212Z_1677100355_RC2K2NAV9V8U_RTRMADP_3_USA-TRUMP-1024x689.jpg",
+            "publishedAt": "2026-09-15T10:12:13Z"
+        },
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "The EPA may deploy AI to regulate toxic chemicals. It's not telling the public.",
+            "url": "https://www.europesays.com/3252360/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/09/0915_NAIEPA_lede.jpg",
+            "publishedAt": "2026-09-15T10:11:22Z"
+        },
+        {
+            "source": {
+                "id": "35372d3d4abe03d569103d13af4c47ad",
+                "name": "Green Bay Press-Gazette",
+                "url": "https://www.greenbaypressgazette.com",
+                "country": "us"
+            },
+            "title": "GBAPS to launch two AI use, literacy lessons for K-12 students",
+            "url": "https://www.greenbaypressgazette.com/story/news/education/2026/09/15/gbaps-plans-lessons-on-artificial-intelligence-use-for-k-12-students/91769507007/",
+            "urlToImage": "https://www.greenbaypressgazette.com/gcdn/authoring/authoring-images/2026/01/26/NOKL/88362065007-getty-images-2214037517-scaled-1.jpg?crop=2047,1152,x0,y0&width=2047&height=1152&format=pjpg&auto=webp",
+            "publishedAt": "2026-09-15T10:08:29Z"
+        },
+        {
+            "source": {
+                "id": "f11e9506aaab942b5eafbb067eb85c51",
+                "name": "Modern Diplomacy",
+                "url": "https://moderndiplomacy.eu",
+                "country": "fr"
+            },
+            "title": "Could AI Self Improvement Turn Today’s Chatbots Into an Existential Risk?",
+            "url": "https://moderndiplomacy.eu/2026/09/15/could-ai-self-improvement-turn-todays-chatbots-into-an-existential-risk/",
+            "urlToImage": "https://moderndiplomacy.eu/wp-content/uploads/2026/07/Anthropic-AI.jpg",
+            "publishedAt": "2026-09-15T10:05:34Z"
+        },
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "Why are AI leaders calling for a slowdown?",
+            "url": "https://www.cbc.ca/radio/frontburner/why-are-ai-leaders-calling-for-a-slowdown-9.7343721",
+            "urlToImage": "https://i.cbc.ca/ais/2736be91-6742-402a-9632-ba17719d5ae6,1789419718226/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C372%2C7140%2C4016%29%3BResize%3D620",
+            "publishedAt": "2026-09-15T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Ex-Google researcher adds to warnings that AI could 'kill all humans'",
+            "url": "https://www.bangkokpost.com/life/tech/3320050/exgoogle-deepmind-researcher-adds-to-warnings-that-ai-could-kill-all-humans",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260915/c1_3320050_700.jpg",
+            "publishedAt": "2026-09-15T09:54:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Trump calls Nvidia's Jensen Huang live on stage, says AI safety concerns are a ‘hoax’",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/trump-calls-nvidias-jensen-huang-live-on-stage-says-ai-safety-concerns-are-a-hoax/articleshow/134256936.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-134258016,width-1200,height-630,imgsize-99544,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-09-15T09:50:00Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -240,6 +360,33 @@
             "url": "https://www.europesays.com/3251756/",
             "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/04/asiae_en_og.png",
             "publishedAt": "2026-09-15T02:36:27Z"
+        },
+        {
+            "source": {
+                "name": "mashable_me"
+            },
+            "title": "Claude Money feature spotted: Anthropic testing bank account integration in iOS app",
+            "url": "https://me.mashable.com/tech/76088/claude-money-feature-spotted-anthropic-testing-bank-account-integration-in-ios-app",
+            "urlToImage": "https://sm.mashable.com/mashable_me/article/a/anthropic-/anthropic-finally-officially-launches-claude-sonnet-5_txe4.jpg",
+            "publishedAt": "2026-09-15 09:06:04"
+        },
+        {
+            "source": {
+                "name": "gizmochina"
+            },
+            "title": "MediaTek announces Dimensity 9600 Pro built on 2nm process and ARM’s C2 cores",
+            "url": "https://www.gizmochina.com/2026/09/15/mediatek-announces-dimensity-9600-pro-built-on-2nm-process-and-arms-c2-cores/",
+            "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2026/09/MediaTek-Dimensity-9600-Pro-launched.jpg",
+            "publishedAt": "2026-09-15 09:03:41"
+        },
+        {
+            "source": {
+                "name": "greenstocknews"
+            },
+            "title": "Ambarella and ZEDEDA Partner to Bring Cloud-Orchestrated AI to Billions of Devices at the Physical Edge",
+            "url": "https://greenstocknews.com/news/nasdaq/amba/ambarella-and-zededa-partner-to-bring-cloud-orchestrated-ai-to-billions-of-devices-at-the-physical-edge",
+            "urlToImage": "https://greenstocknews.com/images/ogimage.jpg",
+            "publishedAt": "2026-09-15 09:00:01"
         },
         {
             "source": {
@@ -3318,123 +3465,6 @@
             "url": "https://www.bundle.app/en/technology/the-download-biotechs-future-and-cheaper-cleaner-steel-F5C08FE1-D7DD-41BC-91C9-85EDF7CE7A83",
             "urlToImage": "https://static.bundle.app/news/488f2669-7637-5d82-a012-6773701c61a6.jpg",
             "publishedAt": "2026-09-11 20:51:47"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
-            "url": "https://www.bundle.app/en/technology/kubernetes-v137-brings-67-enhancements-which-matter-for-operators-B677EEC3-C727-4666-BB86-F1F11B4A720A",
-            "urlToImage": "https://static.bundle.app/news/f02731fd-67e5-5381-a9d9-79e52b38e5d5.jpg",
-            "publishedAt": "2026-09-11 17:40:04"
-        },
-        {
-            "source": {
-                "name": "thenewstack_io"
-            },
-            "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
-            "url": "https://thenewstack.io/kubecon-kubernetes-updates-security/",
-            "urlToImage": "https://cdn.thenewstack.io/media/2026/09/cf894579-growtika-6isceqbipmo-unsplash-scaled.jpg",
-            "publishedAt": "2026-09-11 17:40:04"
-        },
-        {
-            "source": {
-                "name": "cioinfluence"
-            },
-            "title": "The CIO Value Engine: Turning Technology Portfolios Into Measurable Business Performance",
-            "url": "https://cioinfluence.com/featured/the-cio-value-engine-turning-technology-portfolios-into-measurable-business-performance/",
-            "urlToImage": "https://cioinfluence.com/wp-content/uploads/2026/09/person-using-laptop-computer-tec-1.jpg",
-            "publishedAt": "2026-09-11 14:33:08"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "The hard physics and complex economics of AI’s insatiable hunger for power",
-            "url": "https://siliconangle.com/2026/09/11/the-hard-physics-and-complex-economics-of-ais-insatiable-hunger-for-power/",
-            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Industrial_data_center_with_pipes_202608281525.jpeg",
-            "publishedAt": "2026-09-11 14:30:29"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "10 reasons to choose the Dell Pro 5 for your business",
-            "url": "https://www.itpro.com/technology/artificial-intelligence/10-reasons-to-choose-the-dell-pro-5-for-your-business",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/X6D2ve8GY352SyBRjBVgsX-1280-80.jpg",
-            "publishedAt": "2026-09-11 14:00:00"
-        },
-        {
-            "source": {
-                "name": "btin_co_in"
-            },
-            "title": "Gemini Desktop App Windows Brings Ai Tools To The Pc",
-            "url": "https://www.btin.co.in/gemini-desktop-app-windows-brings-ai-119334",
-            "urlToImage": "https://data.btin.co.in/data/images/full/8518/technology.png",
-            "publishedAt": "2026-09-11 13:51:29"
-        },
-        {
-            "source": {
-                "name": "cxotoday"
-            },
-            "title": "The AI Jargon Everyone Should Know: Opaque Recurrence and Recurrent Depth",
-            "url": "https://cxotoday.com/ai/the-ai-jargon-everyone-should-know-opaque-recurrence-and-recurrent-depth/",
-            "urlToImage": "https://cxotoday.com/wp-content/uploads/2026/09/ai-glossary-of-terms.jpg",
-            "publishedAt": "2026-09-11 13:32:43"
-        },
-        {
-            "source": {
-                "name": "kesq"
-            },
-            "title": "Ads have arrived in ChatGPT: What the future of AI search could mean for brands",
-            "url": "https://kesq.com/stacker-ai/2026/09/11/ads-have-arrived-in-chatgpt-what-the-future-of-ai-search-could-mean-for-brands/",
-            "urlToImage": "https://kesq.b-cdn.net/2026/09/elk-Ads-have-arrived-in-ChatGPT.jpg",
-            "publishedAt": "2026-09-11 12:15:24"
-        },
-        {
-            "source": {
-                "name": "technologyreview"
-            },
-            "title": "The Download: biotech’s future and cheaper, cleaner steel",
-            "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
-            "publishedAt": "2026-09-11 12:10:00"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Prompt: AI Governance Enters Its Verification Phase",
-            "url": "https://www.techtarget.com/ai/news/366650346/Prompt-AI-Governance-Enters-Its-Verification-Phase",
-            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a238006601.jpg",
-            "publishedAt": "2026-09-11 11:43:00"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "What happens when AI becomes your friend?",
-            "url": "https://us.headtopics.com/news/what-happens-when-ai-becomes-your-friend-87642539",
-            "urlToImage": "https://i.headtopics.com/images/2026/9/11/sciam/what-happens-when-ai-becomes-your-friend-what-happens-when-ai-becomes-your-friend-7A6188A52DD70B6E71D0DF0D93A9DD4F-16x9.webp",
-            "publishedAt": "2026-09-11 11:37:02"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "CIOs need to start accounting for AI carbon footprint",
-            "url": "https://www.techtarget.com/it-strategy/opinion/CIOs-need-to-start-accounting-for-AI-carbon-footprint",
-            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/esg_g1400218353.jpg",
-            "publishedAt": "2026-09-11 10:06:00"
-        },
-        {
-            "source": {
-                "name": "nynewscast"
-            },
-            "title": "Liberty Global Tech Ventures Invests in AI Inference Hardware and Software Company, Positron AI",
-            "url": "https://nynewscast.com/liberty-global-tech-ventures-invests-in-ai-inference-hardware-and-software-company-positron-ai-255311/",
-            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-            "publishedAt": "2026-09-11 10:04:00"
         }
     ]
 }
