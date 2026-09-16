@@ -1,6 +1,234 @@
 {
-    "lastUpdatedAt": "2026-09-15T22:40:01.393092Z",
+    "lastUpdatedAt": "2026-09-16T01:00:29.715577Z",
     "articles": [
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+            "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/AIUC-founders-Rune-Kvist-Rajiv-Dattani.jpg?resize=1200,845",
+            "publishedAt": "2026-09-15T13:00:00Z"
+        },
+        {
+            "source": {
+                "id": "cc589abcee543815a82a8b2856ebe9ed",
+                "name": "Malay Mail",
+                "url": "https://www.malaymail.com",
+                "country": "my"
+            },
+            "title": "Doomers versus boosters: Inside battle lines of Silicon Valley’s raging AI wars",
+            "url": "https://www.malaymail.com/news/tech-gadgets/2026/09/15/doomers-versus-boosters-inside-battle-lines-of-silicon-valleys-raging-ai-wars/235299",
+            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/09/15/362716.jpg",
+            "publishedAt": "2026-09-15T13:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "HCLTech, CrowdStrike expand partnership to help enterprises secure AI applications, agents and data",
+            "url": "https://www.tribuneindia.com/news/business/hcltech-crowdstrike-expand-partnership-to-help-enterprises-secure-ai-applications-agents-and-data/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTEwZWYzMTIwLWIxMDUtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+            "publishedAt": "2026-09-15T12:57:46Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "Limit AI now or humanity will lose its agency, says Nobel laureate Ressa",
+            "url": "https://www.straitstimes.com/asia/limit-ai-now-or-humanity-will-lose-its-agency-says-nobel-laureate-ressa",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/a6e955221d70a9bb528f3d37ab290131168a75d05de28864a8a8aa3d327d7331",
+            "publishedAt": "2026-09-15T12:56:59Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Maria Ressa Urges Immediate AI Regulation to Protect Democracy",
+            "url": "https://www.devdiscourse.com/article/technology/3977459-maria-ressa-urges-immediate-ai-regulation-to-protect-democracy",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_08_2025_13_06_21_889364.png&width=920&format=jpeg",
+            "publishedAt": "2026-09-15T12:56:07Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "HCLTech, CrowdStrike expand partnership to help enterprises secure AI applications, agents and data",
+            "url": "https://www.aninews.in/news/business/hcltech-crowdstrike-expand-partnership-to-help-enterprises-secure-ai-applications-agents-and-data20260915182212/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260915125201-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-09-15T12:52:12Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Netflix’s ‘The AI Doc’ sparks questions over its release timing",
+            "url": "https://www.thenews.com.pk/latest/1416331-netflix-s-the-ai-doc-sparks-questions-over-its-release-timing",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-09-15/1416331_055122_updates.jpg",
+            "publishedAt": "2026-09-15T12:51:00Z"
+        },
+        {
+            "source": {
+                "id": "97497c18f5cb431f5f324b3d8643c24f",
+                "name": "The Independent",
+                "url": "https://www.independent.co.uk",
+                "country": "gb"
+            },
+            "title": "Trump is ‘compromised’ over AI, Jon Ossoff warns in latest attack on president’s plans",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-jon-ossoff-attack-b3050479.html",
+            "urlToImage": "https://static.independent.co.uk/2026/09/15/12/30/Ossoff-AI.png?trim=0,221,0,220&width=1200&height=800&crop=1200:800",
+            "publishedAt": "2026-09-15T12:50:29Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Sanders, Bannon warn of AI dangers in rare US left",
+            "url": "https://www.breitbart.com/news/sanders-bannon-warn-of-ai-dangers-in-rare-us-left-right-alignment/",
+            "urlToImage": "https://media.breitbart.com/media/2026/09/wi/afp/us-senator-bernie-sanders-decisions-ais-development-by-handful-of-richest-people-640x335.jpg",
+            "publishedAt": "2026-09-15T12:49:30Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Chandigarh University Aerospace Students to Develop Unmanned Aerial Vehicles (UAVs) for Border Surveillance in Collaboration with Industry",
+            "url": "https://www.aninews.in/news/business/chandigarh-university-aerospace-students-to-develop-unmanned-aerial-vehicles-uavs-for-border-surveillance-in-collaboration-with-industry20260915180753/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260915123742-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-09-15T12:37:53Z"
+        },
+        {
+            "source": {
+                "id": "04c17c43a7507fac95fd9ba5d47715b5",
+                "name": "WIS10",
+                "url": "https://www.wistv.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity expert says ‘zero trust’ approach can help prevent scams, ransomware attacks",
+            "url": "https://www.wistv.com/2026/09/15/cybersecurity-expert-says-zero-trust-approach-can-help-prevent-scams-ransomware-attacks/",
+            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/MS7X6U6SUJG4LKMXKQ4QQWQBIU.png?auth=9feb599f85ce8450b4fb34e928fab8e744146d564f03bdbe5e5d1af15789b9b2&width=1200&height=600&smart=true",
+            "publishedAt": "2026-09-15T12:33:48Z"
+        },
+        {
+            "source": {
+                "id": "3f09ae62ee37a33ab191a698fec83f4b",
+                "name": "WEAU",
+                "url": "https://www.weau.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity expert says ‘zero trust’ approach can help prevent scams, ransomware attacks",
+            "url": "https://www.weau.com/2026/09/15/cybersecurity-expert-says-zero-trust-approach-can-help-prevent-scams-ransomware-attacks/",
+            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/MS7X6U6SUJG4LKMXKQ4QQWQBIU.png?auth=9feb599f85ce8450b4fb34e928fab8e744146d564f03bdbe5e5d1af15789b9b2&width=1200&height=600&smart=true",
+            "publishedAt": "2026-09-15T12:33:48Z"
+        },
+        {
+            "source": {
+                "id": "e7b4d14003cc89c64a689f1c38723ef5",
+                "name": "Live 5 News WCSC",
+                "url": "https://www.live5news.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity expert says ‘zero trust’ approach can help prevent scams, ransomware attacks",
+            "url": "https://www.live5news.com/2026/09/15/cybersecurity-expert-says-zero-trust-approach-can-help-prevent-scams-ransomware-attacks/",
+            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/MS7X6U6SUJG4LKMXKQ4QQWQBIU.png?auth=9feb599f85ce8450b4fb34e928fab8e744146d564f03bdbe5e5d1af15789b9b2&width=1200&height=600&smart=true",
+            "publishedAt": "2026-09-15T12:33:48Z"
+        },
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Nazi Germany",
+            "url": "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/15/70d66302-b344-41bb-8f78-caa150aeea83_9a9eaa9a.jpg?itok=FzRvij9p&v=1789466940",
+            "publishedAt": "2026-09-15T12:30:14Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "MIC Electronics sets up arm for Defence, aerospace business",
+            "url": "https://www.thehindubusinessline.com/info-tech/mic-electronics-sets-up-arm-for-defence-aerospace-business/article71468015.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/5yl9c/article71450331.ece/alternates/LANDSCAPE_1200/MIC%20Electronics.jpg",
+            "publishedAt": "2026-09-15T12:04:00Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Gujarat police to query Google over 500,000 fake Gmail IDs linked to bomb hoax",
+            "url": "https://www.thehindu.com/sci-tech/technology/gujarat-police-to-query-google-over-500000-fake-gmail-ids-linked-to-bomb-hoax/article71467988.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/30i022/article71468051.ece/alternates/LANDSCAPE_1200/iStock-1255079689.jpg",
+            "publishedAt": "2026-09-15T11:59:30Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Vietnam's Quang Ninh police bust US$38.4mil transnational cybercrime ring",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/15/vietnam039s-quang-ninh-police-bust-us384mil-transnational-cybercrime-ring",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/15/4112221.jpg",
+            "publishedAt": "2026-09-15T11:44:00Z"
+        },
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "Machine learning algorithm sets Micron stock price for October 1, 2026",
+            "url": "https://finbold.com/machine-learning-algorithm-sets-micron-stock-price-for-october-1-2026/",
+            "urlToImage": "https://finbold.com/cdn-cgi/image/format=auto,quality=90,width=1600,height=900,fit=cover/https://assets.finbold.com/uploads/2026/09/machine-learning-algorithm-sets-micron-stock-price-for-october-1-2026-b4fbe3.webp",
+            "publishedAt": "2026-09-15T11:28:26Z"
+        },
+        {
+            "source": {
+                "id": "214d496d625fc657723cf4da80cff8ce",
+                "name": "Deccan Chronicle",
+                "url": "https://www.deccanchronicle.com",
+                "country": "in"
+            },
+            "title": "Kochi to Host Cybersecurity Hackathon in October: Keralam Police Chief",
+            "url": "https://www.deccanchronicle.com/southern-states/kerala/kochi-to-host-cybersecurity-hackathon-in-october-keralam-police-chief-1987598",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2026/09/15/2089191-keralam-director-general-of-police-and-state-police-chief-ravada-a-chandrasekhar.jpg",
+            "publishedAt": "2026-09-15T11:04:29Z"
+        },
         {
             "source": {
                 "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
@@ -243,6 +471,30 @@
         },
         {
             "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "The art of engineering the everyday: Jake Dyson on Dyson’s next chapter",
+            "url": "https://www.hindustantimes.com/technology/the-art-of-engineering-the-everyday-jake-dyson-on-dyson-s-next-chapter-101789445450913.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/09/15/1600x900/logo/IMG_6779_1789446171318_15JO_1789446180378_vZo4_7d61c1af-80ec-4c9d-b49f-017f6f2d4968_MgNW.JPG",
+            "publishedAt": "2026-09-15T04:49:06Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "New AI methods make medical image analysis more reliable",
+            "url": "https://medicalxpress.com/news/2026-09-ai-methods-medical-image-analysis.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/medical-image-analysis.jpg",
+            "publishedAt": "2026-09-15T03:40:01Z"
+        },
+        {
+            "source": {
                 "id": "cc589abcee543815a82a8b2856ebe9ed",
                 "name": "Malay Mail",
                 "url": "https://www.malaymail.com",
@@ -363,6 +615,45 @@
         },
         {
             "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "Dynamic vibration-driven feedback shapes predator-prey interactions in an orb-weaving spider",
+            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014802",
+            "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014802.g005&size=inline",
+            "publishedAt": "2026-09-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "TRUSTA Redefines AI Scalability with AI Scaler Extended Memory Solution at AI Infra Summit 2026",
+            "url": "https://en.prnasia.com/story/547969-0.shtml",
+            "urlToImage": "https://mmx.prnasia.com/media/MS1988571/20260915050248EDT_image_1.jpg?id=OA2949261&p=medium600",
+            "publishedAt": "2026-09-15 13:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "TRUSTA Redefines AI Scalability with AI Scaler Extended Memory Solution at AI Infra Summit 2026",
+            "url": "https://www.prnewswire.com/news-releases/trusta-redefines-ai-scalability-with-ai-scaler-extended-memory-solution-at-ai-infra-summit-2026-302878912.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1988571/20260915050248EDT_image_1.jpg?id=OA2949261&p=original",
+            "publishedAt": "2026-09-15 13:00:00"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "A Single Industrial Simulation Would Take 10 Hours. AI is Cutting That Down to Seconds",
+            "url": "https://analyticsindiamag.com/ai-features/a-single-industrial-simulation-would-take-10-hours-ai-is-cutting-that-down-to-seconds",
+            "urlToImage": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1789472535436-szfurl.webp",
+            "publishedAt": "2026-09-15 11:42:38"
+        },
+        {
+            "source": {
                 "name": "mashable_me"
             },
             "title": "Claude Money feature spotted: Anthropic testing bank account integration in iOS app",
@@ -450,6 +741,18 @@
             "url": "https://en.prnasia.com/story/547835-0.shtml",
             "urlToImage": "https://mmx.prnasia.com/media/MS1987130/20260913222104EDT_image_1.jpg?id=OA2945101&p=medium600",
             "publishedAt": "2026-09-15 02:00:00"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "How researchers use machine learning to re-create chirps and trills produced by forest insects when Dinosaurs lived on Earth",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-researchers-use-machine-learning-to-re-create-chirps-and-trills-produced-by-forest-insects-when-dinosaurs-lived-on-earth/articleshow/134246482.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-134246628,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-14T18:35:00Z"
         },
         {
             "source": {
@@ -570,6 +873,42 @@
             "url": "https://www.news24.com/world/trump-slams-ai-regulation-as-sick-conspiracy-says-us-must-beat-china-20260914-1006",
             "urlToImage": "https://news24cobalt.24.co.za/resources/02a9-21973a7dced0-9fd1846893bb-1000/format/inline/gettyimages-2233757915.jpeg",
             "publishedAt": "2026-09-14T16:47:30Z"
+        },
+        {
+            "source": {
+                "id": "09dc1bda762f4f787cec10477a894d96",
+                "name": "Toronto Sun",
+                "url": "https://torontosun.com",
+                "country": "ca"
+            },
+            "title": "Google to snoop search, video history to spot underrage users",
+            "url": "https://torontosun.com/news/national/google-to-snoop-search-video-history-underrage-users",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/07/09a85ceec65cd83009c2c8323584823e6c05ce6c-e1782909065773.jpg",
+            "publishedAt": "2026-09-14T14:42:51Z"
+        },
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "Machine learning algorithm sets Nvidia stock price for September 30, 2026",
+            "url": "https://finbold.com/machine-learning-algorithm-sets-nvidia-stock-price-for-september-30-2026-2/",
+            "urlToImage": "https://finbold.com/cdn-cgi/image/format=auto,quality=90,width=1600,height=900,fit=cover/https://assets.finbold.com/uploads/2026/09/machine-learning-algorithm-sets-palantir-stock-price-for-september-30-2026-43ff65.webp",
+            "publishedAt": "2026-09-14T13:43:42Z"
+        },
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "Machine learning algorithm sets Bitcoin price for October 1, 2026",
+            "url": "https://finbold.com/machine-learning-algorithm-sets-bitcoin-price-for-october-1-2026/",
+            "urlToImage": "https://finbold.com/cdn-cgi/image/format=auto,quality=90,width=1600,height=900,fit=cover/https://assets.finbold.com/uploads/2026/09/machine-learning-algorithm-sets-bitcoin-price-for-october-1-2026-13acd6.jpg",
+            "publishedAt": "2026-09-14T13:26:37Z"
         },
         {
             "source": {
@@ -1116,6 +1455,18 @@
         },
         {
             "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The Evolution of Thematic Cryptos: How SPXIUM Redefines the Elon Musk Token Meta",
+            "url": "https://techbullion.com/the-evolution-of-thematic-cryptos-how-spxium-redefines-the-elon-musk-token-meta/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/12/images-6.jpeg",
+            "publishedAt": "2026-09-13T23:00:30Z"
+        },
+        {
+            "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
                 "name": "EUROPE SAYS",
                 "url": "https://www.europesays.com",
@@ -1329,6 +1680,18 @@
             "url": "https://www.devdiscourse.com/article/technology/3976571-ai-leadership-a-new-cold-war",
             "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_06_2025_08_55_02_6986837.png&width=920&format=jpeg",
             "publishedAt": "2026-09-13T15:34:30Z"
+        },
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "Machine learning algorithm sets XRP price for October 1, 2026",
+            "url": "https://finbold.com/machine-learning-algorithm-sets-xrp-price-for-october-1-2026/",
+            "urlToImage": "https://finbold.com/cdn-cgi/image/format=auto,quality=90,width=1600,height=900,fit=cover/https://assets.finbold.com/uploads/2026/09/machine-learning-algorithm-sets-xrp-price-for-october-1-2026-7fa329.webp",
+            "publishedAt": "2026-09-13T15:08:40Z"
         },
         {
             "source": {
@@ -1665,6 +2028,18 @@
             "url": "https://dailyinterlake.com/news/2026/sep/13/montana-state-conference-to-explore-possibilities-and-challenges-of-artificial-intelligence/",
             "urlToImage": "https://hagadone.media.clients.ellingtoncms.com/static-4/dailyinterlake/images/default-social.jpg?v=2",
             "publishedAt": "2026-09-13T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "University Of Bristol Opens First International Campus In Mumbai With Data Science & Finance Programmes",
+            "url": "https://www.freepressjournal.in/education/university-of-bristol-opens-first-international-campus-in-mumbai-with-data-science-finance-programmes",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-09-13/m2ua3sqw/HR7eyRtbMAArTBX.jpeg",
+            "publishedAt": "2026-09-13T05:21:51Z"
         },
         {
             "source": {
@@ -2346,6 +2721,18 @@
             "url": "https://timesofindia.indiatimes.com/world/china/china-rejects-anthropic-allegations-of-using-claude-to-train-their-models/articleshow/134118542.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-134119330,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
             "publishedAt": "2026-09-12T08:44:00Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "India has a railway university where students can study rail engineering and AI",
+            "url": "https://www.indiatoday.in/education-today/featurephilia/story/gati-shakti-vishwavidyalaya-courses-fees-admission-2026-rail-engineering-guide-2993018-2026-09-12",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/gati-shakti-vishwavidyalaya-courses--fees--admission-2026-rail-engineering-guide-123341476-16x9_0.png?VersionId=KvlvgxQQS3ot8I8adiwyEHNjhp6hE6yx",
+            "publishedAt": "2026-09-12T08:40:58Z"
         },
         {
             "source": {
@@ -3072,399 +3459,6 @@
             "url": "https://www.latimes.com/california/newsletter/2026-09-11/chabria-column-ai-regulation-jacob-coxon",
             "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/3585f93/2147483647/strip/true/crop/3600x1890+0+223/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff8%2Fe5%2F1247d10e4a8183db1b22211ff073%2Fgettyimages-2285098283.jpg",
             "publishedAt": "2026-09-11T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie",
-                "country": "ie"
-            },
-            "title": "Doomsday tech - could AI really kill us all?",
-            "url": "https://www.rte.ie/news/business/2026/0911/1591163-doomsday-tech-could-ai-really-kill-us-all/",
-            "urlToImage": "https://www.rte.ie/images/0024fccd-1600.jpg",
-            "publishedAt": "2026-09-11T09:55:04Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Doomsday tech: could AI really kill us all?",
-            "url": "https://www.bangkokpost.com/world/3318024/doomsday-tech-could-ai-really-kill-us-all",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260911/c1_6224134_700.jpg",
-            "publishedAt": "2026-09-11T09:45:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Anthropic Says It Disrupted Foreign Adversaries Using Its AI for Bioweapon Research, Guided Missile Targeting",
-            "url": "https://www.breitbart.com/tech/2026/09/11/anthropic-says-it-disrupted-foreign-adversaries-using-its-ai-for-bioweapon-research-guided-missile-targeting/",
-            "urlToImage": "https://media.breitbart.com/media/2026/09/Dario-Amodei-worries-about-Anthropic-AI-640x335.jpg",
-            "publishedAt": "2026-09-11T09:24:02Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Cybersecurity Is AI's Next Big Bet After Coding: Nvidia's Jensen Huang",
-            "url": "https://www.freepressjournal.in/tech/cybersecurity-is-ais-next-big-bet-after-coding-nvidias-jensen-huang",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-03-18/3ourvv13/14fe71594baa685f0e817d9b5291dad1.jpg",
-            "publishedAt": "2026-09-11T09:21:42Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI, Drones and Digital Tools Win IAEA Nuclear Innovation Awards",
-            "url": "https://www.devdiscourse.com/article/science-environment/3975840-ai-drones-and-digital-tools-win-iaea-nuclear-innovation-awards",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/11_09_2026_11_49_49_1837915.png&width=920&format=jpeg",
-            "publishedAt": "2026-09-11T09:09:11Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI Fuels Britain's Robust Economic Growth Amid Geopolitical Tensions",
-            "url": "https://www.devdiscourse.com/article/business/3975918-ai-fuels-britains-robust-economic-growth-amid-geopolitical-tensions",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2025_22_18_36_6667082.png&width=920&format=jpeg",
-            "publishedAt": "2026-09-11T08:48:18Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI-Driven Boost Fuels UK's Fastest Economic Growth Surge",
-            "url": "https://www.devdiscourse.com/article/business/3975874-ai-driven-boost-fuels-uks-fastest-economic-growth-surge",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/27_08_2024_07_59_31_0103645.png&width=920&format=jpeg",
-            "publishedAt": "2026-09-11T07:20:31Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Anthropic researcher Jacob Coxon warns AI could grow \"smart enough to kill us\"",
-            "url": "https://www.europesays.com/3245002/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/09/cbsn-fusion-former-anthropic-researcher-who-said-ai-could-kill-us-all-explains-his-reasoning-thumbna.jpeg",
-            "publishedAt": "2026-09-11T07:07:23Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "New Delhi’s BRICS presidency offers opportunity to turn South",
-            "url": "https://www.tribuneindia.com/news/world/new-delhis-brics-presidency-offers-opportunity-to-turn-south-south-cooperation-into-results-undp-india-chief/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJhOGY2MzMwLWFkYWUtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-            "publishedAt": "2026-09-11T07:02:13Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "UNDP India chief",
-            "url": "https://www.aninews.in/news/world/asia/new-delhi8217s-brics-presidency-offers-opportunity-to-turn-south-south-cooperation-into-results-undp-india-chief20260911122827/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260911065817-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-09-11T06:58:27Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI-assisted microdrama content share could rise to about 80% in 18 months: Experts",
-            "url": "https://economictimes.indiatimes.com/industry/media/entertainment/ai-assisted-microdrama-content-share-could-rise-to-about-80-in-18-months-experts/articleshow/134050600.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134050691,width-1200,height-630,imgsize-141916,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-11T06:39:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Palantir, Nvidia bring sovereign AI to Nvidia’s complex supply chain",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/palantir-nvidia-bring-sovereign-ai-to-nvidias-complex-supply-chain/articleshow/134049202.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134049340,width-1200,height-630,imgsize-60230,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-11T06:09:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "UK economy grows at fastest pace since February 2025 on possible AI boost",
-            "url": "https://www.reuters.com/world/uk/uk-economy-grew-04-july-2026-09-11/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/3IJUE2QIKVMW3I7H6JQZTLAD74.jpg?auth=35a5b02eab20bdff5e8576e54c2b950cb6c395c823e0db05ea04f1875043066b&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-09-11T06:03:44Z"
-        },
-        {
-            "source": {
-                "id": "f4967fce32bfc735983f0f39dcdba127",
-                "name": "pv magazine",
-                "url": "https://www.pv-magazine.com",
-                "country": "de"
-            },
-            "title": "scale energy project supports hotel and events venue operations",
-            "url": "https://www.pv-magazine.com/2026/09/11/ai-enabled-commercial-scale-energy-project-supports-hotel-and-events-venue-operations/",
-            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2026/09/a024ea89-7b2c-4002-8db5-ef03ad3cdfdd-scaled.jpg",
-            "publishedAt": "2026-09-11T06:03:11Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Anthropic tightens safeguards to prevent AI",
-            "url": "https://www.tribuneindia.com/news/business/anthropic-tightens-safeguards-to-prevent-ai-powered-phishing-and-data-theft-by-hackers/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTYwZGYwMTQwLWFkYTYtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5wbmc=",
-            "publishedAt": "2026-09-11T06:02:25Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Anthropic tightens safeguards to prevent AI-powered phishing and data theft by hackers",
-            "url": "https://www.aninews.in/news/business/anthropic-tightens-safeguards-to-prevent-ai-powered-phishing-and-data-theft-by-hackers20260911112941/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260911054155-thumbnail-320x180.png",
-            "publishedAt": "2026-09-11T05:59:41Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Mastercard’s AI Garage is building products for the world in India: Nitendra Rajput",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/gff-2026-mastercard-ai-garage-is-building-products-for-the-world-in-india-nitendra-rajput/articleshow/134047347.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134047522,width-1200,height-630,imgsize-100502,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-11T05:25:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "linking tech in AI servers",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chip-startup-d-matrix-to-use-nvidia-chip-linking-tech-in-ai-servers/articleshow/134045944.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-105724,resizemode-75,msid-134045944/tech/artificial-intelligence/chip-startup-d-matrix-to-use-nvidia-chip-linking-tech-in-ai-servers.jpg",
-            "publishedAt": "2026-09-11T04:43:37Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Russia’s SberBank unveils GigaDoc AI smart mirror for express health assessment in India",
-            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/russias-sberbank-unveils-gigadoc-ai-smart-mirror-for-express-health-assessment-in-india/articleshow/134045285.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134045615,width-1200,height-630,imgsize-94380,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-11T04:34:00Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Hawley Expands AI Surveillance Probe to Axon, Motorola and Verkada",
-            "url": "https://www.naturalnews.com/2026-09-11-hawley-expands-ai-surveillance-probe-three-companies.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/ai-surveillance-josh-hawley-privacy-3981-original.jpg",
-            "publishedAt": "2026-09-11T04:30:16Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "EU testing Mythos AI model after Anthropic grants access",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-testing-mythos-ai-model-after-anthropic-grants-access/articleshow/134045147.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34338,resizemode-75,msid-134045147/tech/artificial-intelligence/eu-testing-mythos-ai-model-after-anthropic-grants-access.jpg",
-            "publishedAt": "2026-09-11T04:21:37Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Anthropic says it caught China using Claude to develop an anti-torpedo weapon",
-            "url": "https://www.hindustantimes.com/world-news/anthropic-says-it-caught-china-using-claude-to-develop-an-anti-torpedo-weapon-ai-101789099095684.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/09/11/1600x900/logo/DECART-M-A-ANTHROPIC-1_1789099392404_50e429ca-79e7-4ca9-9037-adfa735ae8ed_1789099410180_a7b35ceb-5297-4020-95c7-11c4664fdca7_c7a5ba37-b3e6-47f4-bd62-19e43175c248_a036819e-e036-410a-b6ae-8d8eb9b7ecb0.JPG",
-            "publishedAt": "2026-09-11T04:07:25Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Study: Jobseekers writing their CVs for robots rather than humans",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/11/studyjobseekers-writing-their-cvs-for-robots-rather-than-humans",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/11/4104946.jpg",
-            "publishedAt": "2026-09-11T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
-                "name": "7NEWS Australia",
-                "url": "https://7news.com.au",
-                "country": "au"
-            },
-            "title": "Kevin Rudd calls for Australian car manufacturing revival",
-            "url": "https://7news.com.au/motoring/kevin-rudd-calls-for-australian-car-manufacturing-revival-c-22856056",
-            "urlToImage": "https://images.7news.com.au/publication/C-22856056/0f6bb135a99de00d19569be394cf4fa185f0458b-16x9-x0y116w2235h1257.jpg?imwidth=1200",
-            "publishedAt": "2026-09-11T03:43:46Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "Kevin Rudd calls for Australian car manufacturing revival",
-            "url": "https://www.perthnow.com.au/lifestyle/motoring/kevin-rudd-calls-for-australian-car-manufacturing-revival-c-22856060",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-22856060/4e588bc44d8158769dc4ed5f5ce8f9765e0ff862-16x9-x0y116w2235h1257.jpg?imwidth=1200",
-            "publishedAt": "2026-09-11T03:43:46Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI boom gives global growth lift: IMF",
-            "url": "https://www.lokmattimes.com/international/ai-boom-gives-global-growth-lift-imf/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609113937495_202609.jpg",
-            "publishedAt": "2026-09-11T03:22:44Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US Senators from both parties question OpenAI on breach of AI startup Hugging Face",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face/articleshow/134043010.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-103,resizemode-75,msid-134043010/tech/artificial-intelligence/us-senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face.jpg",
-            "publishedAt": "2026-09-11T03:20:31Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "‘Not selling my soul’: Why this Aussie maths professor took on OpenAI",
-            "url": "https://www.afr.com/world/north-america/not-selling-my-soul-why-this-aussie-maths-professor-took-on-openai-20260911-p60wf8",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.3309%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/7cea6bd31227c45b50fd9ccd0d53a97348b584d47733f4c46450fb35f276fea8",
-            "publishedAt": "2026-09-11T00:15:41Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Why the latest AI warning is hitting differently",
-            "url": "https://www.cp24.com/news/canada/2026/09/10/a-10-chance-ai-wipes-us-out-experts-weigh-in-on-the-warning-that-went-viral/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/5YFCQHURHZBYVGP276OJS7BRJU.jpg?smart=true&auth=c6dad68fcefe46c04546ec8bc825595c8e049cd7078e3fd21f06cbc73bcc2400&width=1200&height=630",
-            "publishedAt": "2026-09-11T00:02:59Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Scientists visualize proteins' hidden water architecture that may help define biological function",
-            "url": "https://phys.org/news/2026-09-scientists-visualize-proteins-hidden-architecture.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/scientists-directly-vi-1.jpg",
-            "publishedAt": "2026-09-11T00:00:01Z"
-        },
-        {
-            "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
-                "country": "in"
-            },
-            "title": "MSEDCL detects over 28,000 power theft cases in 3 months",
-            "url": "https://www.thehitavada.com/Encyc/2026/9/11/msedcl-detects-over-28000-power-theft-cases-in-3-months.html",
-            "urlToImage": "https://www.thehitavada.com/Encyc/2026/9/11/Lokesh-Chandra_202609111312391381_H@@IGHT_533_W@@IDTH_355.jpg",
-            "publishedAt": "2026-09-11T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
-                "country": "in"
-            },
-            "title": "MSEDCL detects over 28,000 power theft cases in 3 months",
-            "url": "https://www.thehitavada.com//Encyc/2026/9/11/msedcl-detects-over-28000-power-theft-cases-in-3-months.html",
-            "urlToImage": "https://www.thehitavada.com/Encyc/2026/9/11/Lokesh-Chandra_202609111312391381_H@@IGHT_533_W@@IDTH_355.jpg",
-            "publishedAt": "2026-09-11T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "The Download: biotech’s future and cheaper, cleaner steel",
-            "url": "https://www.bundle.app/en/technology/the-download-biotechs-future-and-cheaper-cleaner-steel-F5C08FE1-D7DD-41BC-91C9-85EDF7CE7A83",
-            "urlToImage": "https://static.bundle.app/news/488f2669-7637-5d82-a012-6773701c61a6.jpg",
-            "publishedAt": "2026-09-11 20:51:47"
         }
     ]
 }
