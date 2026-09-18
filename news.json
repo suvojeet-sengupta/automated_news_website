@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-09-18T02:54:12.566057Z",
+    "lastUpdatedAt": "2026-09-18T07:56:07.985231Z",
     "articles": [
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "‘Godfather of AI’ warns Congress has ‘maybe a year’ left to regulate AI",
+            "url": "https://www.nbcnews.com/politics/congress/godfather-ai-warns-congress-maybe-year-left-regulate-ai-rcna598330",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260917-Geoffrey-Hinton-ch-1028-47ae0d.jpg",
+            "publishedAt": "2026-09-17T19:45:09Z"
+        },
+        {
+            "source": {
+                "id": "3f09ae62ee37a33ab191a698fec83f4b",
+                "name": "WEAU",
+                "url": "https://www.weau.com",
+                "country": "us"
+            },
+            "title": "OpenAI flags more concerning new AI behavior, vows to track it more closely",
+            "url": "https://www.weau.com/2026/09/17/openai-flags-more-concerning-new-ai-behavior-vows-track-it-more-closely/",
+            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/YUS3366JWBDTHDRPRKDOO3LXNQ.jpg?auth=d9f4f87f4eac452d5380095b28c620b23273b504b021411677e33f44a753f839&width=1200&height=600&smart=true",
+            "publishedAt": "2026-09-17T19:25:25Z"
+        },
+        {
+            "source": {
+                "id": "04c17c43a7507fac95fd9ba5d47715b5",
+                "name": "WIS10",
+                "url": "https://www.wistv.com",
+                "country": "us"
+            },
+            "title": "OpenAI flags more concerning new AI behavior, vows to track it more closely",
+            "url": "https://www.wistv.com/2026/09/17/openai-flags-more-concerning-new-ai-behavior-vows-track-it-more-closely/",
+            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/YUS3366JWBDTHDRPRKDOO3LXNQ.jpg?auth=d9f4f87f4eac452d5380095b28c620b23273b504b021411677e33f44a753f839&width=1200&height=600&smart=true",
+            "publishedAt": "2026-09-17T19:25:25Z"
+        },
+        {
+            "source": {
+                "id": "e7b4d14003cc89c64a689f1c38723ef5",
+                "name": "Live 5 News WCSC",
+                "url": "https://www.live5news.com",
+                "country": "us"
+            },
+            "title": "OpenAI flags more concerning new AI behavior, vows to track it more closely",
+            "url": "https://www.live5news.com/2026/09/17/openai-flags-more-concerning-new-ai-behavior-vows-track-it-more-closely/",
+            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/YUS3366JWBDTHDRPRKDOO3LXNQ.jpg?auth=d9f4f87f4eac452d5380095b28c620b23273b504b021411677e33f44a753f839&width=1200&height=600&smart=true",
+            "publishedAt": "2026-09-17T19:25:25Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "'Narrow window' for security threats, AI company warns",
+            "url": "https://www.perthnow.com.au/news/politics/narrow-window-for-security-threats-ai-company-warns-c-22887565",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-22887565/7366c3dc65b316d435d93f586c409ed648d62d10-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-09-17T19:02:43Z"
+        },
+        {
+            "source": {
+                "id": "a9b75d29a22d0e3d5640bed825a22b93",
+                "name": "Chicago Sun-Times",
+                "url": "https://chicago.suntimes.com",
+                "country": "us"
+            },
+            "title": "Trump is on the wrong side of AI issue",
+            "url": "https://chicago.suntimes.com/columnists/2026/09/17/trump-is-on-the-wrong-side-of-ai-issue",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/bec4950/2147483647/strip/true/crop/7632x4357+0+366/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F68%2F68%2F5e75f4054f80a02f193a6e5bfbb1%2Fcupp-trump-20260916.jpg",
+            "publishedAt": "2026-09-17T19:01:05Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "'Narrow window' for security threats, AI company warns",
+            "url": "https://www.canberratimes.com.au/story/9352649/narrow-window-for-security-threats-ai-company-warns/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/d77b2b27-a221-40d1-a6ea-62db78ae94f9.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-09-17T19:00:28Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Appeals court warns about ‘AI slop’ in filings, weighs punishing lawyer",
+            "url": "https://www.reuters.com/legal/litigation/appeals-court-warns-about-ai-slop-filings-weighs-punishing-lawyer-2026-09-17/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/BGDCNZX44FK4LA574O6UUBCXPA.jpg?auth=8353068bfda2aefa1e1bbbcc76e4155a9f0c3afaf5eabe779b3b3a96458cf575&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-09-17T18:47:49Z"
+        },
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "The Irish Times view on Artificial Intelligence: time for a pause",
+            "url": "https://www.irishtimes.com/opinion/editorials/2026/09/17/the-irish-times-view-on-artificial-intelligence-time-for-a-pause/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/MEW6QDE47VILUFSF2ZGKOTIABI.jpg?smart=true&auth=7fbaca55f0252768c0c1ddda131385a3442928e6fc8a71e90201640add08666e&width=1200&height=630",
+            "publishedAt": "2026-09-17T18:39:00Z"
+        },
+        {
+            "source": {
+                "id": "49853ffafc28f405ff8ed06043290ae8",
+                "name": "Global News",
+                "url": "https://globalnews.ca",
+                "country": "ca"
+            },
+            "title": "Read a transcript of Carney’s speech to the European Parliament",
+            "url": "https://globalnews.ca/news/12063314/transcript-carney-speech-european-parliament/",
+            "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/09/Carney-EU-Parliament.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2026-09-17T18:21:30Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -564,6 +684,69 @@
             "url": "https://www.straitstimes.com/tech/ai-may-need-aviation-style-safety-regulations-to-gain-trust-josephine-teo",
             "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/5b2f3f66a92d20a0685af04107b5bbc301f405b5e2c0bcb8c3d8c8fa64e4157b",
             "publishedAt": "2026-09-17T00:41:49Z"
+        },
+        {
+            "source": {
+                "name": "newindianexpress"
+            },
+            "title": "Meta introduces ‘Meta One’ unified subscription model across apps: Key benefits explained",
+            "url": "https://www.newindianexpress.com/lifestyle/tech/2026/Sep/17/meta-introduces-meta-one-unified-subscription-model-across-apps-key-benefits-explained-2",
+            "urlToImage": "https://cf-images.assettype.com/newindianexpress/2026-05-28/26foam75/202605283805669.jpg?w=280",
+            "publishedAt": "2026-09-17 18:46:40"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "AI Crypto Explained: Decentralization, Data, How it Works",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/ai-crypto-explained-decentralization-data-how-it-works",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-17/t7oogikl/AI-Crypto-Explained-Decentralization-Data-and-How-It-Works-1.jpg",
+            "publishedAt": "2026-09-17 18:15:00"
+        },
+        {
+            "source": {
+                "name": "industrywired"
+            },
+            "title": "Apple May Need Nvidia's Help To Build AI Servers",
+            "url": "https://industrywired.com/artificial-intelligence/apple-may-need-nvidias-help-to-build-ai-servers-12546124",
+            "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/industry-wired/media/media_files/2026/09/17/apple-is-working-on-an-ai-server-for-businesses-and-it-may-2026-09-17-22-48-28.jpg",
+            "publishedAt": "2026-09-17 17:30:37"
+        },
+        {
+            "source": {
+                "name": "wallst_247"
+            },
+            "title": "IonQ Climbs 9% on Quantum Optimization Work With NVIDIA; D-Wave Rises 8%, Rigetti Gains 7%",
+            "url": "https://247wallst.com/investing/2026/09/17/ionq-climbs-9-on-quantum-optimization-work-with-nvidia-d-wave-rises-8-rigetti-gains-7/",
+            "urlToImage": "https://247wallst.com/wp-content/uploads/2026/04/shutterstock-2340550239-huge-licensed-scaled.jpg",
+            "publishedAt": "2026-09-17 15:50:57"
+        },
+        {
+            "source": {
+                "name": "webwire"
+            },
+            "title": "Salesforce Expands Missionforce with Purpose-Built AI and New Partnership with OpenAI to Advance Mission Intelligence",
+            "url": "https://www.webwire.com/ViewPressRel.asp?aId=360628",
+            "urlToImage": "https://photos.webwire.com/prmedia/6/360628/360628-1-m.jpg",
+            "publishedAt": "2026-09-17 15:24:38"
+        },
+        {
+            "source": {
+                "name": "webwire"
+            },
+            "title": "Siemens and Procter & Gamble roll out AI-based quality inspection worldwide",
+            "url": "https://www.webwire.com/ViewPressRel.asp?aId=360626",
+            "urlToImage": "https://photos.webwire.com/prmedia/6/360626/360626-1-m.jpg",
+            "publishedAt": "2026-09-17 15:19:06"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Salesforce CEO: AI Industry Must Self-Regulate or Face Lawsuits and Stagnation",
+            "url": "https://www.webpronews.com/salesforce-ceo-ai-industry-must-self-regulate-or-face-lawsuits-and-stagnation/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/09/article-25969-1789616520.jpeg",
+            "publishedAt": "2026-09-17 15:12:16"
         },
         {
             "source": {
@@ -3189,165 +3372,6 @@
             "url": "https://www.livemint.com/technology/openai-agents-not-proof-ai-is-out-of-control-need-stronger-guardrails-niti-aayog-s-debjani-ghosh-11789360925422.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
             "publishedAt": "2026-09-14T04:42:05Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "OpenAI agents not proof AI is 'out of control', need stronger guardrails: NITI Aayog’s Debjani Ghosh",
-            "url": "https://www.tribuneindia.com/news/business/openai-agents-not-proof-ai-is-out-of-control-need-stronger-guardrails-niti-aayogs-debjani-ghosh/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA4MzIzNjAwLWFmZjYtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-            "publishedAt": "2026-09-14T04:37:39Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "What Is the New Delhi Declaration? BRICS’ Big Power Move Explained",
-            "url": "https://www.moneycontrol.com/world/what-is-the-new-delhi-declaration-brics-big-power-move-explained-videoshow-14029171.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/09/20260914034432_Brics-1.jpg",
-            "publishedAt": "2026-09-14T04:22:53Z"
-        },
-        {
-            "source": {
-                "name": "bostoncbslocal"
-            },
-            "title": "Wentworth Institute of Technology in Boston launches new major for AI: \"The buzz is enormous\"",
-            "url": "https://www.cbsnews.com/boston/news/wentworth-institute-technology-ai-major-boston/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/14/3b2a6d38-5906-4265-a783-32b5d52d4c23/thumbnail/1024x576/4b912bf02dbd6ab331e57e378960fcbf/ww.jpg",
-            "publishedAt": "2026-09-14 22:16:23"
-        },
-        {
-            "source": {
-                "name": "brookings"
-            },
-            "title": "The AI revolution threatens a ‘token divide’",
-            "url": "https://www.brookings.edu/articles/the-ai-revolution-threatens-a-token-divide/",
-            "urlToImage": "https://www.brookings.edu/wp-content/uploads/2026/08/GettyImages-2158156591-1.jpg?quality=50",
-            "publishedAt": "2026-09-14 19:58:39"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "Fujitsu Sets November Launch for FUJITSU-MONAKA CPU and Server",
-            "url": "https://www.hpcwire.com/off-the-wire/fujitsu-sets-november-launch-for-fujitsu-monaka-cpu-and-server/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2026/01/Fujitsu-shutterstock-building.jpg",
-            "publishedAt": "2026-09-14 19:32:13"
-        },
-        {
-            "source": {
-                "name": "completeaitraining"
-            },
-            "title": "UCSB and Lawrence Livermore use AI to speed up nuclear fusion plasma simulations",
-            "url": "https://completeaitraining.com/news/ucsb-and-lawrence-livermore-use-ai-to-speed-up-nuclear/",
-            "urlToImage": "https://cdn.completeaitraining.com/news_images/ucsb-and-lawrence-livermore-use-ai-to-speed-up-nuclear-fusion-plasma-simulations_2026-09-14.jpg",
-            "publishedAt": "2026-09-14 19:07:58"
-        },
-        {
-            "source": {
-                "name": "hendersondispatch"
-            },
-            "title": "We must rise to meet the AI threat",
-            "url": "https://www.hendersondispatch.com/archives/we-must-rise-to-meet-the-ai-threat/article_99a1fa43-a34b-52c2-850a-b5abb83e486e.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hendersondispatch.com/content/tncms/custom/image/9aef42cc-e96d-11ea-9099-2b53bf5cb610.png?resize=600%2C315",
-            "publishedAt": "2026-09-14 19:00:00"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "Siri AI, a profoundly more capable and personal assistant, is here",
-            "url": "https://www.bundle.app/en/technology/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here-5E08EB38-1311-4B79-B571-8F3ABBDBCEEC",
-            "urlToImage": "https://static.bundle.app/news/cdd9af02-1756-5a7e-8e87-847ae4bb2fd4.jpg",
-            "publishedAt": "2026-09-14 17:13:46"
-        },
-        {
-            "source": {
-                "name": "applenewsroom"
-            },
-            "title": "Siri AI, a profoundly more capable and personal assistant, is here",
-            "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-            "urlToImage": "https://www.apple.com/newsroom/images/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/tile/Apple-Siri-AI-hero-video-lp.jpg.og.jpg",
-            "publishedAt": "2026-09-14 17:09:41"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "The Dell Pro 7 2-in-1: Your questions answered",
-            "url": "https://www.itpro.com/technology/artificial-intelligence/the-dell-pro-7-2-in-1-your-questions-answered",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/h2hvV4JXUaMzoQU5oEVcCo-1280-80.jpg",
-            "publishedAt": "2026-09-14 14:30:00"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "Ninth Wave's AI-Powered Compass with Amazon Bedrock Cuts API Integration Time Up to 95%",
-            "url": "https://www.postregister.com/businessreport/technology/ninth-waves-ai-powered-compass-with-amazon-bedrock-cuts-api-integration-time-up-to-95/article_68910427-83b2-5707-9251-34c9cdd94635.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2026-09-14 13:17:09"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Jensen Huang's Nvidia is building a digital twin of Earth; AI could help cities simulate floods, storms and future climate risks",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/jensen-huangs-nvidia-is-building-a-digital-twin-of-earth-ai-could-help-cities-simulate-floods-storms-and-future-climate-risks/articleshow/134240439.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134240677/134240677.jpg",
-            "publishedAt": "2026-09-14 12:02:59"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Mutual Empowerment Of Artificial Intelligence And Metasurfaces: Intelligent Nanophotonics And Optical Intelligence",
-            "url": "https://www.newswise.com/articles/mutual-empowerment-of-artificial-intelligence-and-metasurfaces-intelligent-nanophotonics-and-optical-intelligence/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/assets/new/img/Newswise-Logo.png",
-            "publishedAt": "2026-09-14 11:35:00"
-        },
-        {
-            "source": {
-                "name": "businesspress_in"
-            },
-            "title": "AI Safety Warnings: Major tech figures and AI CEOs have urged a slowdown in artificial intelligence development, causing a brief slide in AI-linked stocks.",
-            "url": "https://businesspress.in/ai-safety-warnings-major-tech-figures-and-ai-ceos-have-urged-a-slowdown-in-artificial-intelligence-development-causing-a-brief-slide-in-ai-linked-stocks/",
-            "urlToImage": "https://businesspress.in/wp-content/uploads/2026/09/Screenshot-2026-09-14-152409.png",
-            "publishedAt": "2026-09-14 09:51:58"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top 10 Modernization Engineering Services Companies",
-            "url": "https://www.analyticsinsight.net/career/top-10-modernization-engineering-services-companies",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-13/p8btkdyp/Top-10-Modernization-Engineering-Services-Companies.jpg",
-            "publishedAt": "2026-09-14 08:30:00"
-        },
-        {
-            "source": {
-                "name": "thederrick"
-            },
-            "title": "Commentary: We must rise to meet the AI threat",
-            "url": "https://www.thederrick.com/news/entertainment/commentary-we-must-rise-to-meet-the-ai-threat/article_c549761e-ac14-50d0-be73-39263efc826e.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thederrick.com/content/tncms/assets/v3/editorial/8/33/83343680-15d7-578b-92e3-a0e0fb847ef4/6aa7ab3496d77.image.jpg?resize=300%2C191",
-            "publishedAt": "2026-09-14 08:00:00"
-        },
-        {
-            "source": {
-                "name": "nynewscast"
-            },
-            "title": "Model Context Protocol (MCP) Market to Reach $28.36 Billion by 2035 as Secure AI Connectivity and Interoperability Accelerate | Research by SNS Insider",
-            "url": "https://nynewscast.com/model-context-protocol-mcp-market-to-reach-28-36-billion-by-2035-as-secure-ai-connectivity-and-interoperability-accelerate-research-by-sns-insider-255870/",
-            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-            "publishedAt": "2026-09-14 06:30:00"
         }
     ]
 }
