@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-09-19T22:11:10.739447Z",
+    "lastUpdatedAt": "2026-09-20T00:35:28.542266Z",
     "articles": [
+        {
+            "source": {
+                "id": "e3cad7a35669a0f5933fa172f5aa2e41",
+                "name": "Albuquerque Journal",
+                "url": "https://www.abqjournal.com",
+                "country": "us"
+            },
+            "title": "Santa Fe’s EnviTrace joins federal AI push to forecast water levels and floods",
+            "url": "https://www.abqjournal.com/business/can-ai-help-forecast-water-levels-and-floods-a-santa-fe-company-aims-to-find-out/3123676",
+            "urlToImage": "https://image.abqjournal.com/3122924.jpg?imageId=3122924&x=0&y=6.58&cropw=100&croph=67.89&panox=0&panoy=6.58&panow=100&panoh=67.89&width=1200&height=683",
+            "publishedAt": "2026-09-19T12:30:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Trump says will not tolerate attempts to slow AI growth",
+            "url": "https://www.breitbart.com/news/trump-says-will-not-tolerate-attempts-to-slow-ai-growth/",
+            "urlToImage": "https://media.breitbart.com/media/2026/09/wi/afp/us-president-donald-trump-is-adamant-growth-of-artificial-intelligence-be-hindered-multiple-640x335.jpg",
+            "publishedAt": "2026-09-19T12:19:28Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "BOOK BECOMES A MIRROR FOR ARTIFICIAL INTELLIGENCE",
+            "url": "https://www.tribuneindia.com/news/business/artprice-news-a-world-book-becomes-a-mirror-for-artificial-intelligence/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTYzNTQ0MWIwLWI0MjItMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+            "publishedAt": "2026-09-19T12:00:28Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Trump calls AI extinction doomsday warning a hoax as networks panic",
+            "url": "https://www.foxnews.com/opinion/broadcast-bias-networks-embrace-latest-form-panic-ai-apocalypse",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/broadcast-bias-image.jpg",
+            "publishedAt": "2026-09-19T12:00:23Z"
+        },
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            },
+            "title": "Can AI help you design a space? Yes - and no",
+            "url": "https://www.theglobeandmail.com/life/style/design/article-ai-interior-design-ali-budd/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/HXZFYOXP4VDWBNS53I42EUH5ZQ.JPG?auth=ba17b0e8ecb49b3ec1862dfc3cd1224552163b05fba2470f18490595194324e7&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2026-09-19T12:00:00Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "US, China trade teams set to huddle in New York on AI, Iran",
+            "url": "https://www.cnbctv18.com/world/us-china-trade-teams-set-to-huddle-in-new-york-on-ai-iran-19994096.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/08/thaad-8-2026-08-26d36fc5033c8385ddc11a31623fe676.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-09-19T11:51:01Z"
+        },
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "AI: 10 days that changed the course of artificial intelligence",
+            "url": "https://www.scmp.com/news/world/united-states-canada/article/3368117/ai-10-days-changed-course-artificial-intelligence",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/19/f60649ca-4d9f-40f1-a3c5-27db9074fd59_3fba0182.jpg?itok=PrQya1Nu&v=1789818025",
+            "publishedAt": "2026-09-19T11:40:38Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "IMF tells EU ministers AI could boost growth but increase economic strains",
+            "url": "https://www.reuters.com/business/imf-tells-eu-ministers-ai-could-boost-growth-increase-economic-strains-2026-09-19/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/B2APLTSTTJKGTHLIBI6AGQCEZA.jpg?auth=a502a34787f092c18e5101ed26b62c5bdb802c77b5daad1e1b97d4c1d5bee950&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-09-19T11:30:33Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "MP: Scindia holds ‘Yuva Samvad’ with students in Guna ahead of Rahul Gandhi’s ‘Chhatron ki Goonj’ event",
+            "url": "https://www.devdiscourse.com/article/headlines/3979380-mp-scindia-holds-yuva-samvad-with-students-in-guna-ahead-of-rahul-gandhis-chhatron-ki-goonj-event",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/19_09_2026_16_24_56_6085604.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-09-19T10:54:59Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "China central bank adviser says AI could deepen supply-demand imbalance",
+            "url": "https://www.reuters.com/world/asia-pacific/china-central-bank-adviser-says-ai-could-deepen-supply-demand-imbalance-2026-09-19/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/LVBZ5X3KCJPW3FQPUODSGIVV24.jpg?auth=acd8e2490771e8aeb831e63b098269a663844b9ecfdac69c67c387211649dafb&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-09-19T10:52:32Z"
+        },
         {
             "source": {
                 "id": "72bbcd9c095a3d51c97cdda7a97dba31",
@@ -3276,96 +3396,6 @@
             "url": "https://www.bundle.app/en/technology/generative-ai-automates-quantum-optimization-circuit-design-622B08E4-1A35-4F36-A404-97B2AA09E85E",
             "urlToImage": "https://static.bundle.app/news/11389f3f-12c1-56d6-a05c-31797b97df21.jpg",
             "publishedAt": "2026-09-16 22:33:52"
-        },
-        {
-            "source": {
-                "name": "healthtechmagazine_net"
-            },
-            "title": "Real-Time Analytics at the Edge: Enabling Faster Clinical Decisions at the Point of Care",
-            "url": "https://healthtechmagazine.net/article/2026/09/real-time-analytics-edge-enabling-faster-clinical-decisions-point-care",
-            "urlToImage": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/trending_thumb/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202609/GettyImages-1321691637-web.jpg?itok=7JTqtf8t",
-            "publishedAt": "2026-09-16 20:37:12"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Salesforce Arms Missionforce With OpenAI Models and NVIDIA Compute to Crack Pentagon’s Hardest Operational Knots",
-            "url": "https://www.webpronews.com/salesforce-arms-missionforce-with-openai-models-and-nvidia-compute-to-crack-pentagons-hardest-operational-knots/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/09/article-25904-1789588427.jpeg",
-            "publishedAt": "2026-09-16 20:32:17"
-        },
-        {
-            "source": {
-                "name": "techaeris"
-            },
-            "title": "Engineering Determinism in Generative AI with Seedance 2.0: Inside Coco Wu’s Multi-Agent Quality Evaluation Pipeline for Multimodal Synthesis",
-            "url": "https://techaeris.com/2026/09/16/seedance-2-0-engineering-generative-ai/",
-            "urlToImage": "https://techaeris.com/wp-content/uploads/2026/09/Seedance-2.0-article-feature.jpg",
-            "publishedAt": "2026-09-16 18:45:51"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Google Co-Founder Sergey Brin Returns to AI Research Frontline Now",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/google-co-founder-sergey-brin-returns-to-ai-research-frontline-now",
-            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-16/mgaxnqz9/How-Sergey-Brin-the-Co-Founder-of-Google-Is-Returning-to-the-Frontline-of-AI-Research.jpg",
-            "publishedAt": "2026-09-16 17:00:00"
-        },
-        {
-            "source": {
-                "name": "investing_us"
-            },
-            "title": "Nvidia’s Quantum Bet Could Extend Data Center Demand Into New Markets",
-            "url": "https://www.investing.com/analysis/nvidias-quantum-bet-could-extend-data-center-demand-into-new-markets-200687810",
-            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-            "publishedAt": "2026-09-16 16:27:00"
-        },
-        {
-            "source": {
-                "name": "hpcwire"
-            },
-            "title": "IonQ and Partners Report AI Method for Scaling Hybrid Quantum Optimization",
-            "url": "https://www.hpcwire.com/off-the-wire/ionq-and-partners-report-ai-method-for-scaling-hybrid-quantum-optimization/",
-            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2021/05/ionq-logo.jpeg",
-            "publishedAt": "2026-09-16 16:20:29"
-        },
-        {
-            "source": {
-                "name": "wkhm"
-            },
-            "title": "What are the top threats posed by AI and should you be worried?",
-            "url": "https://www.wkhm.com/2026/09/16/what-are-the-top-threats-posed-by-ai-and-should-you-be-worried/",
-            "urlToImage": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2705/2026/09/16161106/Getty_AIapps_091626785812-150x150.jpg",
-            "publishedAt": "2026-09-16 16:11:06"
-        },
-        {
-            "source": {
-                "name": "harvard"
-            },
-            "title": "Using AI to Model Wind, Aerosols and Combustion",
-            "url": "https://seas.harvard.edu/news/using-ai-model-wind-aerosols-and-combustion",
-            "urlToImage": "https://seas.harvard.edu/sites/default/files/2026-09/turbines_stock.jpeg",
-            "publishedAt": "2026-09-16 15:53:20"
-        },
-        {
-            "source": {
-                "name": "wmtv15news"
-            },
-            "title": "Ads have arrived in ChatGPT: What the future of AI search could mean for brands",
-            "url": "https://www.wmtv15news.com/2026/09/16/ads-have-arrived-chatgpt-what-future-ai-search-could-mean-brands/",
-            "urlToImage": "https://gray-wmtv-prod.gtv-cdn.com/resizer/v2/Z5ZBQQIZPZA2DDZCA7N3L72OLI.jpg?auth=2cb89587f043d226c9175252f9a1cc10783560b3b2b2b40ca90a3786476735e1&width=1200&height=600&smart=true",
-            "publishedAt": "2026-09-16 15:29:23"
-        },
-        {
-            "source": {
-                "name": "kotatv"
-            },
-            "title": "Ads have arrived in ChatGPT: What the future of AI search could mean for brands",
-            "url": "https://www.kotatv.com/2026/09/16/ads-have-arrived-chatgpt-what-future-ai-search-could-mean-brands/",
-            "urlToImage": "https://gray-kota-prod.gtv-cdn.com/resizer/v2/Z5ZBQQIZPZA2DDZCA7N3L72OLI.jpg?auth=2cb89587f043d226c9175252f9a1cc10783560b3b2b2b40ca90a3786476735e1&width=1200&height=600&smart=true",
-            "publishedAt": "2026-09-16 15:29:23"
         }
     ]
 }
