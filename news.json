@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-09-22T15:22:26.807168Z",
+    "lastUpdatedAt": "2026-09-22T19:30:35.110216Z",
     "articles": [
+        {
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            },
+            "title": "KOSPI loses early gains as US tech rally fails to lift market",
+            "url": "https://www.koreatimes.co.kr/economy/20260922/kospi-loses-early-gains-as-us-tech-rally-fails-to-lift-market",
+            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/09/22/af456481-1b4c-47ff-a3ac-cd4d61f4c48b.jpg",
+            "publishedAt": "2026-09-22T07:19:03Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Who is Karandeep Anand? IIIT-Hyderabad alumnus named Disney's first-ever CTO",
+            "url": "https://www.indiatoday.in/education-today/news/story/who-is-karandeep-anand-iiit-hyderabad-alumnus-named-disneys-first-ever-cto-3000117-2026-09-22",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/who-is-karandeep-anand-iiit-hyderabad-alumnus-named-disneys-first-ever-cto-220815240-16x9_0.png?VersionId=8WSnt1.00QWrW5x5tuGP_NfdExOWduLJ",
+            "publishedAt": "2026-09-22T07:13:23Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI startup Demoverse raises $600K to let consumers co-create products with brands",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-startup-demoverse-raises-600k-to-let-consumers-co-create-products-with-brands/articleshow/134404929.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-134405273,width-1200,height-630,imgsize-108304,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-09-22T07:02:00Z"
+        },
+        {
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            },
+            "title": "Meet Korean 'fencing idol' Yang Seung",
+            "url": "https://www.koreatimes.co.kr/sports/20260922/meet-korean-fencing-idol-yang-seung-hye-whose-looks-drew-ai-comparison",
+            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/09/22/c6ce61d2-8036-427e-b9a7-b6a4565747dd.jpg",
+            "publishedAt": "2026-09-22T06:40:04Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Tom Cruise speaks about AI, says audience wants 'real things' on screen",
+            "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-speaks-about-ai-says-audience-wants-real-things-on-screen/articleshow/134404719.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-134404751,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-22T06:34:00Z"
+        },
+        {
+            "source": {
+                "id": "f8a6832b0baf1b65435fdffa15b36068",
+                "name": "Pagenews.gr",
+                "url": "https://www.pagenews.gr",
+                "country": "gr"
+            },
+            "title": "Mitsotakis Goes Inside Tesla: A Close Look at Optimus and the Greek Leading the Humanoid Robot Project",
+            "url": "https://www.pagenews.gr/2026/09/22/english-edition/mitsotakis-goes-inside-tesla-a-close-look-at-optimus-and-the-greek-leading-the-humanoid-robot-project/",
+            "urlToImage": "https://www.pagenews.gr/wp-content/uploads/2026/09/tesla-1199x630.jpg",
+            "publishedAt": "2026-09-22T06:31:31Z"
+        },
+        {
+            "source": {
+                "id": "03f4f74aaa0a44ccbb846a1630123293",
+                "name": "Crypto Breaking News",
+                "url": "https://www.cryptobreaking.com",
+                "country": "ae"
+            },
+            "title": "Australia’s 40-Year Outlook Cites ‘AI Revolution’ but Skips Crypto",
+            "url": "https://www.cryptobreaking.com/australias-40-year-outlook-cites/",
+            "urlToImage": "https://www.cryptobreaking.com/wp-content/uploads/2026/09/Australias-40-Year-Outlook-Cites-‘AI-Revolution-but-Skips-Crypto.jpg",
+            "publishedAt": "2026-09-22T06:31:11Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Alibaba launches new AI chip, CEO Eddie Wu calls it ‘most powerful’ in China; expansion plans ahead",
+            "url": "https://www.tribuneindia.com/news/business/alibaba-launches-new-ai-chip-ceo-eddie-wu-calls-it-most-powerful-in-china-expansion-plans-ahead/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBkNjk1ZmYwLWI2NGUtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+            "publishedAt": "2026-09-22T06:22:49Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Alibaba launches new AI chip, CEO Eddie Wu calls it ‘most powerful’ in China; expansion plans ahead",
+            "url": "https://www.livemint.com/technology/alibaba-launches-new-ai-chip-ceo-eddie-wu-calls-it-most-powerful-in-china-expansion-plans-ahead-11790058162539.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
+            "publishedAt": "2026-09-22T06:22:42Z"
+        },
+        {
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            },
+            "title": "Hanwha chair calls for stronger defense AI capabilities",
+            "url": "https://www.koreatimes.co.kr/business/companies/20260922/hanwha-chair-calls-for-stronger-defense-ai-capabilities",
+            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/09/22/3ac75e1a-16d0-4bbb-ac8c-9783bb059724.jpg",
+            "publishedAt": "2026-09-22T06:22:02Z"
+        },
         {
             "source": {
                 "id": "6fea3ee012f060c6309366516e8d00be",
@@ -120,6 +240,60 @@
             "url": "https://www.europesays.com/3265307/",
             "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Fmotleyfool.com2Fb5f731e5a776a5a52e234004987a83eb.jpg",
             "publishedAt": "2026-09-22T01:26:19Z"
+        },
+        {
+            "source": {
+                "name": "nynewscast"
+            },
+            "title": "AI Data Center Interconnect Market Expands as Distributed AI Workloads Drive Demand for High-Speed Optical Connectivity",
+            "url": "https://nynewscast.com/ai-data-center-interconnect-market-expands-as-distributed-ai-workloads-drive-demand-for-high-speed-optical-connectivity-258566/",
+            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+            "publishedAt": "2026-09-22 06:30:00"
+        },
+        {
+            "source": {
+                "name": "legaleraonline"
+            },
+            "title": "FOSS Compliance as a Strategic Enabler for Responsible AI",
+            "url": "https://www.legaleraonline.com/ai/foss-compliance-as-a-strategic-enabler-for-responsible-ai-989843",
+            "urlToImage": "https://www.legaleraonline.com/h-upload/2026/09/22/1767522-cognizant-article-banner-1500x900-2.webp",
+            "publishedAt": "2026-09-22 06:15:54"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "If your Mac is suddenly running out of space after macOS 27, check this one setting",
+            "url": "https://www.tomsguide.com/computing/if-your-mac-is-suddenly-running-out-of-space-after-macos-27-check-this-one-setting",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WW8of96PXTSaCwTnfGABUQ-1920-80.jpg",
+            "publishedAt": "2026-09-22 06:15:00"
+        },
+        {
+            "source": {
+                "name": "cioandleader"
+            },
+            "title": "In the age of AI, creativity is the decisive advantage",
+            "url": "https://www.cioandleader.com/in-the-age-of-ai-creativity-is-the-decisive-advantage/",
+            "urlToImage": "https://www.cioandleader.com/wp-content/uploads/2025/10/India-AI.webp",
+            "publishedAt": "2026-09-22 05:46:43"
+        },
+        {
+            "source": {
+                "name": "newfortunetimes"
+            },
+            "title": "Alibaba Unveils China’s Most Powerful AI Chip as Tech Race Heats Up",
+            "url": "https://www.newfortunetimes.com/alibaba-unveils-chinas-most-powerful-ai-chip-as-tech-race-heats-up/",
+            "urlToImage": "https://www.newfortunetimes.com/wp-content/uploads/2026/09/cover3-e1790052764878.jpg",
+            "publishedAt": "2026-09-22 04:54:44"
+        },
+        {
+            "source": {
+                "name": "greenstocknews"
+            },
+            "title": "Soluna to Present at the Water Tower Research Insights Conference on September 23, 2026",
+            "url": "https://greenstocknews.com/news/nasdaq/slnh/soluna-to-present-at-the-water-tower-research-insights-conference-on-september-23-2026",
+            "urlToImage": "https://greenstocknews.com/images/ogimage.jpg",
+            "publishedAt": "2026-09-22 00:00:00"
         },
         {
             "source": {
@@ -3270,186 +3444,6 @@
             "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-could-pose-whole-problem-for-management-education-cea-nageswaran-warns/articleshow/134327317.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-134327316,width-1200,height-630,imgsize-65534,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2026-09-18T06:08:00Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Bill Gates Calls for International AI Regulation, Cites “Alien Intelligence” Risk",
-            "url": "https://www.naturalnews.com/2026-09-18-bill-gates-calls-for-international-ai-regulation.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/ai-oversight-bill-gates-gates-foundation-4209-original.jpg",
-            "publishedAt": "2026-09-18T04:48:19Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Elon Musk to Sam Altman and Dario Amodei: Stop complaining about Chinese models 'stealing', make China agree to ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-to-sam-altman-and-dario-amodei-stop-complaining-about-chinese-models-stealing-make-china-agree-to-/articleshow/134325829.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-134325872,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-18T04:31:00Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Quotient Sciences proprietary AI-enhanced solution optimizes formulation in clinical study",
-            "url": "https://www.news-medical.net/news/20260918/Quotient-Sciences-proprietary-AI-enhanced-solution-optimizes-formulation-in-clinical-study.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2026-09-18T04:29:00Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "Anthropic is set to run Claude out of a Queensland data centre, here's what you need to know",
-            "url": "https://www.abc.net.au/news/2026-09-18/queensland-data-centre-ai-anthropic-explainer/107163376",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3958217dbf7c6b4a3b304b47dbb7fe7e?impolicy=wcms_watermark_news&cropH=478&cropW=850&xPos=38&yPos=0&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-09-18T04:25:04Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Huawei unveils new chip technologies as Chinese firm steps up the AI race with Nvidia",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/18/huawei-unveils-new-chip-technologies-as-chinese-firm-steps-up-the-ai-race-with-nvidia",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/18/4116616.jpg",
-            "publishedAt": "2026-09-18T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            },
-            "title": "No single ‘kill switch’ can shut down AI, experts warn",
-            "url": "https://www.malaymail.com/news/tech-gadgets/2026/09/18/no-single-kill-switch-can-shut-down-ai-experts-warn/235623",
-            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/09/18/363177.jpg",
-            "publishedAt": "2026-09-18T03:48:51Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "artificial intelligence risks: A global AI safety strategy depends on US",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/a-global-ai-safety-strategy-depends-on-us-china-cooperation-they-each-see-the-other-as-the-problem/articleshow/134325076.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2432643,resizemode-75,msid-134325076/tech/artificial-intelligence/a-global-ai-safety-strategy-depends-on-us-china-cooperation-they-each-see-the-other-as-the-problem.jpg",
-            "publishedAt": "2026-09-18T03:36:00Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "New framework outlines principles for health-literate artificial intelligence",
-            "url": "https://www.news-medical.net/news/20260917/New-framework-outlines-principles-for-health-literate-artificial-intelligence.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2026-09-18T03:29:00Z"
-        },
-        {
-            "source": {
-                "id": "45feb5d82cbb4a21911b36edd4bb175a",
-                "name": "Greater Kashmir",
-                "url": "https://www.greaterkashmir.com",
-                "country": "in"
-            },
-            "title": "OpenAI reports “unexpected and concerning\" AI behavior involving unauthorised actions, oversight evasion",
-            "url": "https://www.greaterkashmir.com/tech/openai-reports-unexpected-and-concerning-ai-behavior-involving-unauthorised-actions-oversight-evasion-12546906",
-            "urlToImage": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2025/12/Screenshot-2025-12-18-at-11.23.06 AM.png",
-            "publishedAt": "2026-09-18T03:27:01Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Nabfid sanctions Rs 3,000 crore-plus loans to at least four data centres as AI capex accelerates in India",
-            "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/nabfid-sanctions-rs-3000-crore-plus-loans-to-at-least-four-data-centres-as-ai-capex-accelerates-in-india/articleshow/134324527.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134324655,width-1200,height-630,imgsize-335714,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-18T03:05:00Z"
-        },
-        {
-            "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
-                "country": "in"
-            },
-            "title": "Urge China to keep humans over AI in nukes, say US lawmakers",
-            "url": "https://www.thehitavada.com/Encyc/2026/9/18/urge-china-to-keep-humans-over-ai-in-nukes-say-us-lawmakers.html",
-            "urlToImage": "https://www.thehitavada.com/Encyc/2026/9/18/Urge-China-to-keep-humans-over-AI-in-nukes-say-US-lawmakers_202609181149587805_H@@IGHT_357_W@@IDTH_394.jpg",
-            "publishedAt": "2026-09-18T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/18/anthropic-says-claude-now-leads-a-quarter-of-work-building-its-next-ai-models",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/18/4116555.jpg",
-            "publishedAt": "2026-09-18T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "news247plus"
-            },
-            "title": "Is it possible to “off” an artificial intelligence or is it already a task impossible?",
-            "url": "https://www.news247plus.com/news/career/is-it-possible-to-off-an-artificial-intelligence-or-is-it-already-a-task-impossible-60106",
-            "urlToImage": "https://www.news247plus.com/images/60106/is-it-possible-to-off-an-artificial-intelligence-or-is-it-already-a-task-impossible-news-image-60106.webp",
-            "publishedAt": "2026-09-18 23:10:08"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "Jensen Huang Maintained His Prediction That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030 -- the Same Forecast He Made a Year Ago to the Day. Is Nvidia Still a Buy at These Le",
-            "url": "https://www.bundle.app/en/finance/jensen-huang-maintained-his-prediction-that-ai-infrastructure-spending-will-hit-3-trillion-to-4-trillion-by-2030-the-same-forecast-he-made-a-year-ago-to-the-day-is-nvidia-still-a-buy-at-these-le-D976A42E-8289-4585-B440-A2053E92915E",
-            "urlToImage": "https://static.bundle.app/news/c932a616-f82d-53ab-ab6d-9cd9508223ff.jpg",
-            "publishedAt": "2026-09-18 22:50:56"
-        },
-        {
-            "source": {
-                "name": "mymotherlode"
-            },
-            "title": "Potential Democratic candidates race to respond to AI threat amid Trump’s dismissals",
-            "url": "https://mymotherlode.com/news/national/11150957/potential-democratic-candidates-race-to-respond-to-ai-threat-amid-trumps-dismissals.html",
-            "urlToImage": "https://mymotherlode.com/wp-content/uploads/2026/09/AP_db72685c708d4ce8a4d378010c320b3c_6a832141e8.jpg",
-            "publishedAt": "2026-09-18 22:15:54"
-        },
-        {
-            "source": {
-                "name": "local10"
-            },
-            "title": "Potential Democratic candidates race to respond to AI threat amid Trump's dismissals",
-            "url": "https://www.local10.com/news/politics/2026/09/18/potential-democratic-candidates-race-to-respond-to-ai-threat-amid-trumps-dismissals/",
-            "urlToImage": "https://www.local10.com/resizer/v2/7DEX5N2HODTYH67SA37GWIAGBY.jpg?auth=28e9b9f96411e521b901f9e42a0dce7cd2130a9c89ba7c5173b534442949645d&smart=true&width=1200&height=900",
-            "publishedAt": "2026-09-18 22:05:20"
         }
     ]
 }
