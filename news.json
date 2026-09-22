@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-09-22T00:31:38.253015Z",
+    "lastUpdatedAt": "2026-09-22T05:46:58.960375Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Why AI resembles a charismatic religious leader",
+            "url": "https://phys.org/news/2026-09-ai-resembles-charismatic-religious-leader.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-as-god.jpg",
+            "publishedAt": "2026-09-21T17:40:07Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "US, Japan, South Korea boost tech ties",
+            "url": "https://www.lokmattimes.com/international/us-japan-south-korea-boost-tech-ties/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609213949605_202609.jpg",
+            "publishedAt": "2026-09-21T17:35:48Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Maharashtra Forms AI Governance Committee To Transform Higher & Technical Education System",
+            "url": "https://www.freepressjournal.in/education/maharashtra-forms-ai-governance-committee-to-transform-higher-technical-education-system",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-09-21/56ouhb7a/ChatGPT-Image-Sep-21-2026-105253-PM.png",
+            "publishedAt": "2026-09-21T17:23:24Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Can artificial intelligence spot domestic violence before it turns fatal?",
+            "url": "https://www.hindustantimes.com/ht-insight/future-tech/can-artificial-intelligence-spot-domestic-violence-before-it-turns-fatal-101790010574661.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/09/21/1600x900/logo/photo-1770233621425-5d9ee7a0a700_1785344700032_1790010876827_WLZV_ea125041-d6e2-47d4-a6b7-812e94d4d84e_HVef.jpg",
+            "publishedAt": "2026-09-21T17:19:13Z"
+        },
+        {
+            "source": {
+                "id": "5d57a4bf494b772aa2d7d0cd3ed9d7c0",
+                "name": "AM New York",
+                "url": "https://www.amny.com",
+                "country": "us"
+            },
+            "title": "Hochul floats ‘AI kill switches’ as New York prepares to enforce frontier AI law",
+            "url": "https://www.amny.com/politics/hochul-floats-ai-kill-switches-new-york-law/",
+            "urlToImage": "https://www.amny.com/wp-content/uploads/2026/09/55542430855_deeea6588b_o.jpg?quality=51&w=1200&p=q",
+            "publishedAt": "2026-09-21T17:15:46Z"
+        },
+        {
+            "source": {
+                "id": "139ea14d31bea8e5980978d60a9ca088",
+                "name": "White Plains Journal News",
+                "url": "https://www.lohud.com",
+                "country": "us"
+            },
+            "title": "New AI protections coming to NY as Hochul eyes 'kill switch'",
+            "url": "https://www.lohud.com/story/news/politics/2026/09/21/ny-leaders-kathy-hochul-say-raise-act-will-strengthen-ai-protections/91872143007/",
+            "urlToImage": "https://www.lohud.com/gcdn/authoring/authoring-images/2026/08/25/PROC/91458285007-img-3581.JPG?crop=4031,2269,x0,y377&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2026-09-21T17:13:03Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "OpenAI calls for US to take lead in global efforts to develop technical standards",
+            "url": "https://www.reuters.com/legal/government/openai-calls-us-take-lead-global-efforts-develop-technical-standards-2026-09-21/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/KE4423OKPBOWNO7ZZSE6O5CKZA.jpg?auth=3d43a410bf71f527b941dc709cb90d5fd65245683cf4df830159581647fa4292&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-09-21T17:02:28Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "OpenAI calls for US to take lead in global efforts to develop technical standards",
+            "url": "https://www.spokesman.com/stories/2026/sep/21/openai-calls-for-us-to-take-lead-in-global-efforts/",
+            "urlToImage": "https://thumb.spokesman.com/3Pah0pZXcCBqEm0SWPozbG0HSLc=/2400x1260/smart/media.spokesman.com/photos/2026/09/21/6ab1b9be93408.image.jpg",
+            "publishedAt": "2026-09-21T17:02:00Z"
+        },
+        {
+            "source": {
+                "id": "bc49d994b41ac710f5c89f6e6adeece4",
+                "name": "The Boston Herald",
+                "url": "https://www.bostonherald.com",
+                "country": "us"
+            },
+            "title": "He’s Congress’ top AI expert. Is he worried about artificial intelligence?",
+            "url": "https://www.bostonherald.com/2026/09/21/hes-congress-top-ai-expert-is-jay-obernolte-of-hesperia-worried-about-artificial-intelligence/",
+            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/09/SBS-L-OBERNOLTE-0918-01.jpg?w=2000&h=1333",
+            "publishedAt": "2026-09-21T16:52:56Z"
+        },
+        {
+            "source": {
+                "id": "b864cc599bc4ba1ff99463aba17ae502",
+                "name": "Reading Eagle",
+                "url": "https://www.readingeagle.com",
+                "country": "us"
+            },
+            "title": "He’s Congress’ top AI expert. Is he worried about artificial intelligence?",
+            "url": "https://www.readingeagle.com/2026/09/21/hes-congress-top-ai-expert-is-jay-obernolte-of-hesperia-worried-about-artificial-intelligence/",
+            "urlToImage": "https://www.readingeagle.com/wp-content/uploads/2026/09/SBS-L-OBERNOLTE-0918-01.jpg?w=2000&h=1333",
+            "publishedAt": "2026-09-21T16:52:56Z"
+        },
         {
             "source": {
                 "id": "34cc62608b4607dc3a776802caadb7bd",
@@ -360,6 +480,87 @@
             "url": "https://www.tribuneindia.com/news/world/us-proposes-ai-incident-alert-system-in-talks-with-china-treasury-secretary-bessent/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFiODEzZGIwLWI1NzItMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
             "publishedAt": "2026-09-21T04:05:18Z"
+        },
+        {
+            "source": {
+                "name": "infotechlead"
+            },
+            "title": "Googlebook Laptop Starts at $899: Gemini AI, Android Integration, OLED Display and 14-Hour Battery",
+            "url": "https://infotechlead.com/devices/googlebook-laptop-starts-at-899-gemini-ai-android-integration-oled-display-and-14-hour-battery-98396",
+            "urlToImage": "https://infotechlead.com/wp-content/uploads/2026/09/Googlebook.png",
+            "publishedAt": "2026-09-21 17:43:47"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "Diraq and Dell Work on Orchestration for Hybrid Quantum-HPC Workflows",
+            "url": "https://www.hpcwire.com/off-the-wire/diraq-and-dell-work-on-orchestration-for-hybrid-quantum-hpc-workflows/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2026/09/2026-07-14-diraq-S1-107-1024x683.png",
+            "publishedAt": "2026-09-21 17:12:44"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "KDE Plasma Turns 30 With Bold AI-Native Desktop Proposal",
+            "url": "https://www.webpronews.com/kde-plasma-turns-30-with-bold-ai-native-desktop-proposal/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/09/article-26209-1789951504.jpeg",
+            "publishedAt": "2026-09-21 16:32:24"
+        },
+        {
+            "source": {
+                "name": "fastcompany"
+            },
+            "title": "Despite the hype, innovation isn’t getting any faster. Here’s why",
+            "url": "https://www.fastcompany.com/91607597/despite-hype-innovation-isnt-getting-faster-heres-why",
+            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91607597-Work-Life-CN-Despite-the-hype-innovation-isnt-getting-any-faster.jpg",
+            "publishedAt": "2026-09-21 16:23:29"
+        },
+        {
+            "source": {
+                "name": "techbooky"
+            },
+            "title": "Qwen-Image 2.1 Makes Transparent AI Art Easier",
+            "url": "https://www.techbooky.com/qwen-image-2-1-makes-transparent-ai-art-easier/",
+            "urlToImage": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/09/21165716/01KV7BK8Q6YKD0P089S7AVXN62.webp",
+            "publishedAt": "2026-09-21 15:57:50"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Can Nvidia's physical AI strategy replicate its AI dominance?",
+            "url": "https://www.techtarget.com/ai/feature/Can-Nvidias-physical-AI-strategy-replicate-its-AI-dominance",
+            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a205627811.jpg",
+            "publishedAt": "2026-09-21 15:20:00"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "The quiet rise of AI technical debt",
+            "url": "https://www.techtarget.com/it-strategy/opinion/The-quiet-rise-of-AI-technical-debt",
+            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/maze_g685007409.jpg",
+            "publishedAt": "2026-09-21 14:49:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Schools’ Recurring Tech Romance: Why History Keeps Repeating With AI",
+            "url": "https://www.webpronews.com/schools-recurring-tech-romance-why-history-keeps-repeating-with-ai/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/09/article-26189-1789947713.jpeg",
+            "publishedAt": "2026-09-21 13:12:16"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "AI Video Flips The Economics Of Inference: Compute Once, Earn Forever",
+            "url": "https://us.headtopics.com/news/ai-video-flips-the-economics-of-inference-compute-once-87971914",
+            "urlToImage": "https://i.headtopics.com/images/2026/9/21/forbestech/ai-video-flips-the-economics-of-inference-compute--ai-video-flips-the-economics-of-inference-compute--9C619CF584BC2185186BAF1C3EEDAE8F-16x9.webp",
+            "publishedAt": "2026-09-21 13:07:21"
         },
         {
             "source": {
@@ -3189,204 +3390,6 @@
             "url": "https://www.rdrnews.com/online_features/press_releases/hidream-unveils-hidream-o1-video-1-0-a-native-omnimodal-video-model-built-for-physical/article_0c7be76b-2231-510f-9416-08e06578ed9f.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/2/65/265421a9-e7d4-546c-94c4-e353fa4097ab/6aacf7984fd5d.image.jpg?resize=300%2C128",
             "publishedAt": "2026-09-18 01:45:03"
-        },
-        {
-            "source": {
-                "name": "ricentral"
-            },
-            "title": "HiDream Unveils HiDream-O1-Video-1.0, a Native Omnimodal Video Model Built for Physical Consistency",
-            "url": "https://www.ricentral.com/online_features/press_releases/hidream-unveils-hidream-o1-video-1-0-a-native-omnimodal-video-model-built-for-physical/article_05ebc7e5-69b9-5b2d-882e-e51741000c1f.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/ricentral.com/content/tncms/assets/v3/editorial/9/85/98507d46-d31e-5b54-9b04-34501502a6c0/6aacded4e0fbb.image.jpg?resize=300%2C128",
-            "publishedAt": "2026-09-18 01:45:03"
-        },
-        {
-            "source": {
-                "name": "poteaudailynews"
-            },
-            "title": "HiDream Unveils HiDream-O1-Video-1.0, a Native Omnimodal Video Model Built for Physical Consistency",
-            "url": "https://www.poteaudailynews.com/online_features/press_releases/hidream-unveils-hidream-o1-video-1-0-a-native-omnimodal-video-model-built-for-physical/article_a0f255e5-558c-5e50-ae79-c6fdb2edd084.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/poteaudailynews.com/content/tncms/assets/v3/editorial/3/b1/3b141a16-0607-57bc-8a5b-758b91907502/6aace9c5c7dd3.image.jpg?resize=300%2C128",
-            "publishedAt": "2026-09-18 01:45:03"
-        },
-        {
-            "source": {
-                "name": "recorderonline"
-            },
-            "title": "HiDream Unveils HiDream-O1-Video-1.0, a Native Omnimodal Video Model Built for Physical Consistency",
-            "url": "https://www.recorderonline.com/online_features/press_releases/hidream-unveils-hidream-o1-video-1-0-a-native-omnimodal-video-model-built-for-physical/article_1789cefa-b9e3-5fdd-94c5-b395d08f30dd.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/recorderonline.com/content/tncms/assets/v3/editorial/0/4b/04be6fb4-435b-5b95-a538-e1e6f76e304f/6aad0555205a9.image.jpg?resize=300%2C128",
-            "publishedAt": "2026-09-18 01:45:03"
-        },
-        {
-            "source": {
-                "name": "laconiadailysun"
-            },
-            "title": "HiDream Unveils HiDream-O1-Video-1.0, a Native Omnimodal Video Model Built for Physical Consistency",
-            "url": "https://www.laconiadailysun.com/online_features/press_releases/hidream-unveils-hidream-o1-video-1-0-a-native-omnimodal-video-model-built-for-physical/article_9fc87bca-97e7-51ee-a4fd-ec326e87839e.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/laconiadailysun.com/content/tncms/assets/v3/editorial/a/c7/ac75984e-cd3a-561f-8317-01b2a9fca1b8/6aacdda3b85ed.image.jpg?resize=300%2C128",
-            "publishedAt": "2026-09-18 01:45:03"
-        },
-        {
-            "source": {
-                "name": "dailytimesleader"
-            },
-            "title": "HiDream Unveils HiDream-O1-Video-1.0, a Native Omnimodal Video Model Built for Physical Consistency",
-            "url": "https://www.dailytimesleader.com/online_features/press_releases/hidream-unveils-hidream-o1-video-1-0-a-native-omnimodal-video-model-built-for-physical/article_11ca0278-6120-5524-b1b7-572918ab580f.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dailytimesleader.com/content/tncms/assets/v3/editorial/7/9a/79a41a26-9e4d-5392-8b04-d705a2b3d0d0/6aace93443289.image.jpg?resize=300%2C128",
-            "publishedAt": "2026-09-18 01:45:03"
-        },
-        {
-            "source": {
-                "name": "mtdemocrat"
-            },
-            "title": "HiDream Unveils HiDream-O1-Video-1.0, a Native Omnimodal Video Model Built for Physical Consistency",
-            "url": "https://www.mtdemocrat.com/online_features/press_releases/hidream-unveils-hidream-o1-video-1-0-a-native-omnimodal-video-model-built-for-physical/article_321e1264-b3e9-55ff-994c-2902a076f586.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtdemocrat.com/content/tncms/assets/v3/editorial/6/f3/6f3d25b9-b6eb-578d-b241-a8972f721eae/6aad0a9d60d49.image.jpg?resize=300%2C128",
-            "publishedAt": "2026-09-18 01:45:03"
-        },
-        {
-            "source": {
-                "name": "kinston"
-            },
-            "title": "HiDream Unveils HiDream-O1-Video-1.0, a Native Omnimodal Video Model Built for Physical Consistency",
-            "url": "https://www.kinston.com/online_features/press_releases/hidream-unveils-hidream-o1-video-1-0-a-native-omnimodal-video-model-built-for-physical/article_7d48a0d0-021e-50f3-a895-ff219f61a907.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/kinston.com/content/tncms/assets/v3/editorial/0/04/004073b3-de55-5623-8407-492cdd30f547/6aacdc8a65b60.image.jpg?resize=300%2C128",
-            "publishedAt": "2026-09-18 01:45:03"
-        },
-        {
-            "source": {
-                "name": "the_dispatch"
-            },
-            "title": "HiDream Unveils HiDream-O1-Video-1.0, a Native Omnimodal Video Model Built for Physical Consistency",
-            "url": "https://www.the-dispatch.com/online_features/press_releases/hidream-unveils-hidream-o1-video-1-0-a-native-omnimodal-video-model-built-for-physical/article_3ac5343c-19e5-5221-8b3e-2f040641af16.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/the-dispatch.com/content/tncms/assets/v3/editorial/8/19/819afaa3-a885-5ace-bdad-886a876c37e3/6aacdd0bc6010.image.jpg?resize=300%2C128",
-            "publishedAt": "2026-09-18 01:45:03"
-        },
-        {
-            "source": {
-                "name": "biospace"
-            },
-            "title": "Insilico Medicine Opens AI Longevity Discovery Toolkit to Researchers Worldwide in Cell Cover Study",
-            "url": "https://www.biospace.com/press-releases/insilico-medicine-opens-ai-longevity-discovery-toolkit-to-researchers-worldwide-in-cell-cover-study",
-            "urlToImage": "https://static.biospace.com/dims4/default/d32393a/2147483647/strip/true/crop/1120x630+40+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-biospace.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fcc%2F88%2Fa9fddaf440db946b77e1d45d2e26%2Fbiospace-5.png",
-            "publishedAt": "2026-09-18 00:29:14"
-        },
-        {
-            "source": {
-                "name": "ng_shotoe"
-            },
-            "title": "Apple event live updates: New iPhone 16 announcement, features",
-            "url": "https://ng.shotoe.com/iphone-16-release-date-st_540728/news/apple-event-live-updates-new-iphone-16-announcement-features-sn_4912403/",
-            "urlToImage": "https://ng.shotoe.com/uploads/news/49/4912/4/4912403-apple-event-live-updates-new-iphone-16-announcement-features.jpg",
-            "publishedAt": "2026-09-18 00:00:00"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "Josh Shapiro wades into AI debate with call for ‘strict guardrails’",
-            "url": "https://edition.cnn.com/2026/09/17/politics/josh-shapiro-ai-debate-strict-guardrails",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2295188226.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-09-17T23:05:42Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "Josh Shapiro wades into AI debate with call for ‘strict guardrails’",
-            "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/09/17/josh-shapiro-wades-into-ai-debate-with-call-for-strict-guardrails/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/09/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXU2NGZ3dWwwMDFqM2I2cXJ4dnp3cDlr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdTYzMjg4eDAwMnYyOG56Yzg0cDlkZDU.jpg",
-            "publishedAt": "2026-09-17T23:05:42Z"
-        },
-        {
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            },
-            "title": "Math’s midlife crisis: AI solves in four days what stumped mathematicians for a century",
-            "url": "https://www.malaymail.com/news/life/2026/09/18/maths-midlife-crisis-ai-solves-in-four-days-what-stumped-mathematicians-for-a-century/235502",
-            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/09/17/363039.jpg",
-            "publishedAt": "2026-09-17T23:00:00Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "OpenAi knew it was stealing news content",
-            "url": "https://www.cp24.com/news/world/2026/09/17/nyt-alleges-microsoft-openai-knew-using-news-content-was-theft/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/KY3W7S66JOFLNYWDDPDZEK4GF4.jpg?smart=true&auth=1ad72e00eea80d9ee914cc3880b7e40fb589ef5527aa4d8afda58a9804b1290f&width=1200&height=630",
-            "publishedAt": "2026-09-17T22:59:35Z"
-        },
-        {
-            "source": {
-                "id": "31177620c1e6e610b5d2b67916ed3615",
-                "name": "PBS News",
-                "url": "https://www.pbs.org",
-                "country": "us"
-            },
-            "title": "As AI behavior raises concerns, ex-researcher Jacob Coxon warns what may lie ahead",
-            "url": "https://www.pbs.org/newshour/show/as-ai-behavior-raises-concerns-ex-researcher-jacob-coxon-warns-what-may-lie-ahead",
-            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/aifears-1-1024x576.jpg",
-            "publishedAt": "2026-09-17T22:55:25Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "XMax signs letter of cooperation with Korean fashion group for AI models",
-            "url": "https://markets.businessinsider.com/news/stocks/xmax-signs-letter-of-cooperation-with-korean-fashion-group-for-ai-models-1036555512",
-            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
-            "publishedAt": "2026-09-17T22:45:12Z"
-        },
-        {
-            "source": {
-                "id": "09dc1bda762f4f787cec10477a894d96",
-                "name": "Toronto Sun",
-                "url": "https://torontosun.com",
-                "country": "ca"
-            },
-            "title": "OpenAI says it found 'concerning' behaviour from AI models",
-            "url": "https://torontosun.com/news/world/openai-unexpected-concerning-behaviour-ai-models",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/09/chatgpt.jpg",
-            "publishedAt": "2026-09-17T22:37:45Z"
-        },
-        {
-            "source": {
-                "id": "04c17c43a7507fac95fd9ba5d47715b5",
-                "name": "WIS10",
-                "url": "https://www.wistv.com",
-                "country": "us"
-            },
-            "title": "AI reshapes political campaigns as South Carolina weighs whether new rules are needed",
-            "url": "https://www.wistv.com/2026/09/17/ai-reshapes-political-campaigns-south-carolina-weighs-whether-new-rules-are-needed/",
-            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/5Y6C6HMAX5HVFMDVWYZLKQRV5Q.png?auth=12e360119109f15e9a8a26b6f5257c16ea3be07f19e2dec91ca44715c5461f25&width=1200&height=600&smart=true",
-            "publishedAt": "2026-09-17T22:24:56Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "‘Godfather of AI’ warns Congress has ‘maybe a year’ left to regulate AI",
-            "url": "https://www.nbcnews.com/politics/congress/godfather-ai-warns-congress-maybe-year-left-regulate-ai-rcna598330",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260917-Geoffrey-Hinton-ch-1028-47ae0d.jpg",
-            "publishedAt": "2026-09-17T19:45:09Z"
         }
     ]
 }
