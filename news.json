@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-09-26T21:45:47.800913Z",
+    "lastUpdatedAt": "2026-09-27T00:08:37.142593Z",
     "articles": [
+        {
+            "source": {
+                "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
+                "name": "cleveland.com",
+                "url": "https://www.cleveland.com",
+                "country": "us"
+            },
+            "title": "Why I’m talking about coffee in a column about artificial intelligence: Letter from the Editor",
+            "url": "https://www.cleveland.com/news/2026/09/why-im-talking-about-coffee-in-a-column-about-artificial-intelligence-letter-from-the-editor.html",
+            "urlToImage": "https://www.cleveland.com/resizer/v2/XEZNED2VBVEFBNX7U6J74W56QU.jpeg?auth=12ef83cab1aeff4da30fc3d4c890354586fb1e78d7529bff61f368e7c2cf49ef&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-09-26T12:07:00Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "AI, semiconductors, quantum to drive India’s next infrastructure push: FM Sitharaman",
+            "url": "https://www.tribuneindia.com/news/business/ai-semiconductors-quantum-to-drive-indias-next-infrastructure-push-fm-sitharaman/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM5MjIyNGMwLWI5YTAtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+            "publishedAt": "2026-09-26T11:52:38Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "AI, semiconductors, quantum to drive India’s next infrastructure push: FM Sitharaman",
+            "url": "https://www.aninews.in/news/business/ai-semiconductors-quantum-to-drive-india8217s-next-infrastructure-push-fm-sitharaman20260926172157/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260926115146-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-09-26T11:51:57Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "OpenAI says its models engaged with U.S. govt. websites",
+            "url": "https://www.cp24.com/news/world/2026/09/26/openai-says-its-agents-engaged-with-us-government-websites-in-model-misbehaviour-disclosure/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/KY3W7S66JOFLNYWDDPDZEK4GF4.jpg?smart=true&auth=1ad72e00eea80d9ee914cc3880b7e40fb589ef5527aa4d8afda58a9804b1290f&width=1200&height=630",
+            "publishedAt": "2026-09-26T11:49:17Z"
+        },
+        {
+            "source": {
+                "id": "cc589abcee543815a82a8b2856ebe9ed",
+                "name": "Malay Mail",
+                "url": "https://www.malaymail.com",
+                "country": "my"
+            },
+            "title": "China says it ‘respects’ Trump’s calling AI ‘super intelligence’",
+            "url": "https://www.malaymail.com/news/world/2026/09/26/china-says-it-respects-trumps-super-intelligence-switch-from-ai/236655",
+            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/09/26/364783.jpg",
+            "publishedAt": "2026-09-26T11:45:11Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "China and US agree on $30bn tariff cuts, Beijing says",
+            "url": "https://www.bangkokpost.com/world/3326613/china-and-us-agree-on-30bn-tariff-cuts-beijing-says",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20260926/c1_3326613_260926184348_700.jpg",
+            "publishedAt": "2026-09-26T11:41:00Z"
+        },
+        {
+            "source": {
+                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
+                "name": "7NEWS Australia",
+                "url": "https://7news.com.au",
+                "country": "au"
+            },
+            "title": "Medicare breach just the tip of the iceberg, OpenAI reveals",
+            "url": "https://7news.com.au/technology/medicare-breach-just-the-tip-of-the-iceberg-openai-reveals-c-22930653",
+            "urlToImage": "https://images.7news.com.au/publication/C-22930653/aaf74c6236afe56d754e2445ee3db42965e47208-16x9-x0y0w1280h720.png?imwidth=1200",
+            "publishedAt": "2026-09-26T11:37:59Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "OpenAI tools post ChatGPT user images online: What to know",
+            "url": "https://www.thenews.com.pk/latest/1417720-openai-tools-post-chatgpt-user-images-online-what-to-know",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-09-26/1417720_042647_updates.jpg",
+            "publishedAt": "2026-09-26T11:26:00Z"
+        },
+        {
+            "source": {
+                "id": "97497c18f5cb431f5f324b3d8643c24f",
+                "name": "The Independent",
+                "url": "https://www.independent.co.uk",
+                "country": "gb"
+            },
+            "title": "‘Whoever wins AI, wins’: How artificial intelligence is transforming the future of war",
+            "url": "https://www.independent.co.uk/news/world/ai-nuclear-war-anthropic-trump-b3051011.html",
+            "urlToImage": "https://static.independent.co.uk/2022/08/15/18/iStock-1369204459.jpg?width=1200&height=800&crop=1200:800",
+            "publishedAt": "2026-09-26T11:00:23Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "Some lawmakers doubt a Congress that’s ‘barely capable of email’ can regulate AI",
+            "url": "https://www.nbcnews.com/politics/congress/lawmakers-doubt-congress-s-barely-capable-email-can-regulate-ai-rcna599824",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260925-capitol-ai-mn-1025-7dbfa5.jpg",
+            "publishedAt": "2026-09-26T11:00:00Z"
+        },
         {
             "source": {
                 "id": "1b97b25c0ec482f85326378f82f7f815",
@@ -300,6 +420,15 @@
             "url": "https://www.thestar.com.my/starpicks/2026/09/26/trust-as-the-new-competitive-advantage-in-malaysia039s-ai-economy",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/26/4130581.jpg",
             "publishedAt": "2026-09-26T00:13:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Debian Launches ml.debian.net for Stable Machine Learning Inference",
+            "url": "https://www.webpronews.com/debian-launches-ml-debian-net-for-stable-machine-learning-inference/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/09/article-26630-1790324462.jpeg",
+            "publishedAt": "2026-09-26 10:02:16"
         },
         {
             "source": {
@@ -3258,138 +3387,6 @@
             "url": "https://www.africanews.com/2026/09/22/ruto-pushes-for-global-finance-reforms-at-summit-for-multilateralism/",
             "urlToImage": "https://images.euronews.com/articles/stories/09/92/31/26/1024x538_cmsv2_c80f14dc-b331-5699-81e8-06996ae97e48-9923126.jpg",
             "publishedAt": "2026-09-22T10:39:29Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Era Leap Talent Development Program Welcomes Inaugural Class of 'AI Natives'",
-            "url": "https://www.tribuneindia.com/news/business/geely-and-xinwei-backed-cross-era-leap-talent-development-program-welcomes-inaugural-class-of-ai-natives/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM5N2ZiZmMwLWI2NmQtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-            "publishedAt": "2026-09-22T10:04:40Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Alibaba shares jump 5% as it debuts 'most powerful' AI chip and 10-trillion-parameter model",
-            "url": "https://www.thenews.com.pk/latest/1417165-alibaba-shares-jump-5-as-it-debuts-most-powerful-ai-chip-and-10-trillion-parameter-model",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-09-22/1417165_025813_updates.jpg",
-            "publishedAt": "2026-09-22T09:58:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Trump rejects international regulation of AI",
-            "url": "https://www.breitbart.com/news/trump-rejects-international-regulation-of-ai/",
-            "urlToImage": "https://media.breitbart.com/media/2026/09/wi/afp/trump-dismissed-warnings-ai-safety-advocates-comparing-warnings-climate-change-trump-dismissed-640x335.jpg",
-            "publishedAt": "2026-09-22T09:34:28Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "DeepSeek to brief UN Security Council on AI this week, sources say",
-            "url": "https://www.straitstimes.com/asia/deepseek-to-brief-un-security-council-on-ai-this-week-sources-say",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/84d07c7e492cdb137e17b82ba56c1e6d7bffbae0cee8d796dfe72e00fa2322b7",
-            "publishedAt": "2026-09-22T09:24:13Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Sridhar Vembu has a big warning for software engineers amid AI layoffs: 'Nobody knows anything here'",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/sridhar-vembu-has-a-big-warning-for-software-engineers-amid-ai-layoffs-nobody-knows-anything-here/articleshow/134407878.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134408188,width-1200,height-630,imgsize-39296,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-22T09:15:00Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Tom Cruise shares his thoughts on AI use in filmmaking: 'People want to see real things'",
-            "url": "https://www.thenews.com.pk/latest/1417159-tom-cruise-shares-his-thoughts-on-ai-use-in-filmmaking",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-09-22/1417159_021049_updates.jpg",
-            "publishedAt": "2026-09-22T09:13:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI adoption is driving hiring, but mostly for senior roles",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/22/ai-adoption-is-driving-hiring-but-mostly-for-senior-roles",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/22/4123076.jpg",
-            "publishedAt": "2026-09-22T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Illinois Tech Mumbai Begins Academic Operations As First US University With Independent Degree-Granting Campus In India",
-            "url": "https://www.freepressjournal.in/education/illinois-tech-mumbai-begins-academic-operations-as-first-us-university-with-independent-degree-granting-campus-in-india",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-09-22/tnsab05n/Illinois-Tech-Mumbai.JPG",
-            "publishedAt": "2026-09-22T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "WHO Calls for AI Research Safeguards to Protect Patients and Public Trust",
-            "url": "https://www.devdiscourse.com/article/health/3980374-who-calls-for-ai-research-safeguards-to-protect-patients-and-public-trust",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/22_09_2026_12_12_35_3114118.png&width=920&format=jpeg",
-            "publishedAt": "2026-09-22T07:54:43Z"
-        },
-        {
-            "source": {
-                "id": "9f2e79f0f9194d0d88f0074def064e60",
-                "name": "The Korea Times",
-                "url": "https://www.koreatimes.co.kr",
-                "country": "kr"
-            },
-            "title": "KOSPI loses early gains as US tech rally fails to lift market",
-            "url": "https://www.koreatimes.co.kr/economy/20260922/kospi-loses-early-gains-as-us-tech-rally-fails-to-lift-market",
-            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/09/22/af456481-1b4c-47ff-a3ac-cd4d61f4c48b.jpg",
-            "publishedAt": "2026-09-22T07:19:03Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Who is Karandeep Anand? IIIT-Hyderabad alumnus named Disney's first-ever CTO",
-            "url": "https://www.indiatoday.in/education-today/news/story/who-is-karandeep-anand-iiit-hyderabad-alumnus-named-disneys-first-ever-cto-3000117-2026-09-22",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/who-is-karandeep-anand-iiit-hyderabad-alumnus-named-disneys-first-ever-cto-220815240-16x9_0.png?VersionId=8WSnt1.00QWrW5x5tuGP_NfdExOWduLJ",
-            "publishedAt": "2026-09-22T07:13:23Z"
         }
     ]
 }
