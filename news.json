@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-09-27T20:45:50.311223Z",
+    "lastUpdatedAt": "2026-09-27T23:34:07.462033Z",
     "articles": [
+        {
+            "source": {
+                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
+                "name": "7NEWS Australia",
+                "url": "https://7news.com.au",
+                "country": "au"
+            },
+            "title": "Sydney scientists develop world-first cooling technology for artificial intelligence",
+            "url": "https://7news.com.au/technology/sydney-scientists-develop-world-first-cooling-technology-for-artificial-intelligence-c-22934168",
+            "urlToImage": "https://images.7news.com.au/publication/C-22934168/32af369a44c21cc31eb096b462d3e4248d958a10-16x9-x0y0w1920h1080.png?imwidth=1200",
+            "publishedAt": "2026-09-27T11:19:43Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI startup Black Forest Labs urges optimism from Europe despite safety fears",
+            "url": "https://economictimes.indiatimes.com/tech/startups/ai-startup-urges-optimism-from-europe-despite-safety-fears/articleshow/134518987.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-89054,resizemode-75,msid-134518987/tech/startups/ai-startup-urges-optimism-from-europe-despite-safety-fears.jpg",
+            "publishedAt": "2026-09-27T11:11:14Z"
+        },
+        {
+            "source": {
+                "id": "69a24b80e5bce5a07f808f5ea84c434b",
+                "name": "Arkansas Online",
+                "url": "https://www.arkansasonline.com",
+                "country": "us"
+            },
+            "title": "OpenAI reports unusual access of government sites by models",
+            "url": "https://www.arkansasonline.com/news/2026/sep/27/openai-reports-unusual-access-of-government-sites/",
+            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213738832_213737924-bb07084d1ba54a11b3a7f1a021cb7a85_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+            "publishedAt": "2026-09-27T10:37:00Z"
+        },
+        {
+            "source": {
+                "id": "69a24b80e5bce5a07f808f5ea84c434b",
+                "name": "Arkansas Online",
+                "url": "https://www.arkansasonline.com",
+                "country": "us"
+            },
+            "title": "UN drafts document to plan for pandemic",
+            "url": "https://www.arkansasonline.com/news/2026/sep/27/un-drafts-document-to-plan-for-pandemic/",
+            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213738515_213737660-ca1d3ba04b884f58b3672bd8e0136a2f_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+            "publishedAt": "2026-09-27T10:18:00Z"
+        },
+        {
+            "source": {
+                "id": "eba2f6a49db29efc8343807ba675665f",
+                "name": "NewsBytes",
+                "url": "https://www.newsbytesapp.com",
+                "country": "in"
+            },
+            "title": "Pope Leo XIV warns AI could erode our humanity",
+            "url": "https://www.newsbytesapp.com/news/science/why-pope-leo-xiv-is-skeptical-of-ai/story",
+            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l5920260927134741.jpeg",
+            "publishedAt": "2026-09-27T10:13:44Z"
+        },
+        {
+            "source": {
+                "id": "dcb757ba5480d7edec9ca152d58b7d3d",
+                "name": "Swissinfo (EN)",
+                "url": "https://www.swissinfo.ch",
+                "country": "ch"
+            },
+            "title": "Citizen assemblies and AI on the agenda for Geneva Democracy Week",
+            "url": "https://www.swissinfo.ch/eng/digital-democracy/citizen-assemblies-and-ai-on-the-agenda-for-geneva-democracy-week/92126202",
+            "urlToImage": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/09/a97aa56896c9bd6ce026d4ccce2ff6175844bf80-92125878.jpg?ver=92be66e4&fit=1200,900",
+            "publishedAt": "2026-09-27T10:03:28Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "use of top AI models after agent bypasses internet curbs",
+            "url": "https://www.dailyexcelsior.com/openai-pauses-training-tool-use-of-top-ai-models-after-agent-bypasses-internet-curbs/",
+            "urlToImage": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTc1ODEzMTIwLWJhNWEtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+            "publishedAt": "2026-09-27T10:01:49Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "OpenAI pauses training of models after agents probed U.S. government sites",
+            "url": "https://www.latimes.com/world-nation/story/2026-09-27/openai-pauses-training-of-models-after-agents-probed-u-s-government-sites",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/94736ef/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2c%2Fc4%2Fcf8f4410446f8b4ad0304112bc94%2Fbb07084d1ba54a11b3a7f1a021cb7a85.jpg",
+            "publishedAt": "2026-09-27T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "494f687bd1dfaa9f7b4a705c860671d0",
+                "name": "Hartford Courant",
+                "url": "https://www.courant.com",
+                "country": "us"
+            },
+            "title": "Nearly 100 CT new laws",
+            "url": "https://www.courant.com/2026/09/27/nearly-100-new-laws-take-effect-this-week-guns-artificial-intelligence-facial-recognition-ice-and-more/",
+            "urlToImage": "https://www.courant.com/wp-content/uploads/2023/03/HC_news_Capitol_05.jpg?w=3800&h=2778",
+            "publishedAt": "2026-09-27T09:10:50Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
+            "url": "https://www.manilatimes.net/2026/09/27/world/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways/2433586",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/09/27/1235010.jpg",
+            "publishedAt": "2026-09-27T09:02:00Z"
+        },
         {
             "source": {
                 "id": "f282f77e41f55d72f00fefcaccc92954",
@@ -288,6 +408,42 @@
             "url": "https://www.morningstar.com/economy/is-ai-really-fueling-inflation-its-not-that-simple",
             "urlToImage": "https://media.morningstar.com/resizer/v2/URPDX3MK3BHQFHC4XGTLDOOUMY.png?auth=fba80d49da2e680b11b0c31ea55ddc89b9aa4811fb2db69079f6a3d3de0d3c78&quality=80&height=1350&width=2400&crop=0,0:2400,1350",
             "publishedAt": "2026-09-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "What Businesses Can Learn from Microsoft's AI Transformation",
+            "url": "https://www.analyticsinsight.net/business/what-businesses-can-learn-from-microsofts-ai-transformation",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-27/5w6l53yu/What-Businesses-Can-Learn-From-Microsoft%E2%80%99s-AI-Transformation.jpg",
+            "publishedAt": "2026-09-27 11:30:00"
+        },
+        {
+            "source": {
+                "name": "mashable_me"
+            },
+            "title": "Why Saudi Arabia joined top four fastest-growing AI data centre markets",
+            "url": "https://me.mashable.com/tech/76526/why-saudi-arabia-joined-top-four-fastest-growing-ai-data-centre-markets",
+            "urlToImage": "https://sm.mashable.com/mashable_me/article/o/oregons-da/oregons-data-centers-use-almost-25-of-the-states-power-repor_985f.jpg",
+            "publishedAt": "2026-09-27 09:58:21"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Rebuilding Data Engineering with Harness Engineering: A New Paradigm for the Agent Era",
+            "url": "https://hackernoon.com/rebuilding-data-engineering-with-harness-engineering-a-new-paradigm-for-the-agent-era",
+            "urlToImage": "https://cdn.hackernoon.com/images/RKnfD4aLe5OFmpcNHgQsKezUltl2-2w83fue.jpeg",
+            "publishedAt": "2026-09-27 09:37:36"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "15 Essential Data Science Tools for Data Analysis, Machine Learning in 2026",
+            "url": "https://www.analyticsinsight.net/data-science/15-essential-data-science-tools-for-data-analysis-machine-learning-in-2026",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-27/z2wzqjpa/15-Essential-Data-Science-Tools-for-Data-Analysis-and-Machine-Learning-in-2026-1.jpg",
+            "publishedAt": "2026-09-27 09:00:00"
         },
         {
             "source": {
@@ -3282,165 +3438,6 @@
             "url": "https://www.bangkokpost.com/world/3324715/ai-risks-iran-war-to-take-centre-stage-at-un",
             "urlToImage": "https://static.bangkokpost.com/media/content/20260923/c1_6238780_700.jpg",
             "publishedAt": "2026-09-23T05:45:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Anwar holds roundtable discussion with leading Chinese companies on AI, robotics",
-            "url": "https://www.thestar.com.my/news/nation/2026/09/23/anwar-holds-roundtable-discussion-with-leading-chinese-companies-on-ai-robotics",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/23/4124901.jpg",
-            "publishedAt": "2026-09-23T05:32:00Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "Trump Gets AI Right: Don’t Let Anthropic Regulate Away Its Competition",
-            "url": "https://www.naturalnews.com/2026-09-23-dont-let-anthropic-regulate-away-its-competition.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/ai-regulation-regulatory-capture-open-source-ai-4377-original_126074549.jpg",
-            "publishedAt": "2026-09-23T05:30:38Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "US bill seeks AI safety pact with China",
-            "url": "https://www.lokmattimes.com/international/us-bill-seeks-ai-safety-pact-with-china/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/d7252a87a2d0f45ce52c32ee8875cfe9_202609.jpg",
-            "publishedAt": "2026-09-23T01:15:48Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "China's Alibaba unveils new powerful chip and ambitious AI model plans",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/23/china039s-alibaba-unveils-new-powerful-chip-and-ambitious-ai-model-plans",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/23/4123243.jpg",
-            "publishedAt": "2026-09-23T01:00:00Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "Turkey’s environment minister lays out agenda for COP31 summit",
-            "url": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/turkey-cop31-summit/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/23/564513.jpg?v=3.1",
-            "publishedAt": "2026-09-23T00:56:13Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Malta Gaming Authority launches AI Gaming Charter",
-            "url": "https://www.europesays.com/3267221/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/09/34b0d95f-84c8-4869-bd27-037eb258003c-1200x630.jpg",
-            "publishedAt": "2026-09-23T00:45:21Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "OpenAI Recruits External Watchdogs to Police AI Risk",
-            "url": "https://www.europesays.com/3267210/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/09/OpenAI-assessments-1.jpg",
-            "publishedAt": "2026-09-23T00:39:20Z"
-        },
-        {
-            "source": {
-                "id": "19d1f502a5658ccbfaaa50f77b89993f",
-                "name": "The Motley Fool Canada",
-                "url": "https://www.fool.ca",
-                "country": "ca"
-            },
-            "title": "AI ETFs for Canadian Investors Who Don't Want to Miss Out",
-            "url": "https://www.fool.ca/2026/09/22/ai-etfs-for-canadian-investors-who-dont-want-to-miss-out-2/",
-            "urlToImage": "https://www.fool.ca/wp-content/uploads/2026/07/GettyImages-2149224996-1200x675.jpg",
-            "publishedAt": "2026-09-23T00:15:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Exclusive-Anthropic, OpenEvidence partner to bring medical AI worldwide",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/23/exclusive-anthropic-openevidence-partner-to-bring-medical-ai-worldwide",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/23/4124470.jpg",
-            "publishedAt": "2026-09-23T00:03:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Trump renames AI 'super intelligence' as leaders jostle over dangers",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/23/trump-renames-ai-039super-intelligence039-as-leaders-jostle-over-dangers",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/23/4124491.jpg",
-            "publishedAt": "2026-09-23T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "'Doomsday narratives': Nvidia boss says AI won't end the world",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/23/039doomsday-narratives039nvidia-boss-says-ai-won039t-end-the-world",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/23/4124642.jpg",
-            "publishedAt": "2026-09-23T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Meta's Charm gadget carries CEO Mark Zuckerberg's big AI ambitions",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/metas-charm-gadget-carries-ceo-mark-zuckerbergs-big-ai-ambitions/articleshow/134451753.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2879970,resizemode-75,msid-134451753/tech/artificial-intelligence/metas-charm-gadget-carries-ceo-mark-zuckerbergs-big-ai-ambitions.jpg",
-            "publishedAt": "2026-09-23 23:35:59"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "The AI factory is becoming the computer and it’s changing the semiconductor race",
-            "url": "https://siliconangle.com/2026/09/23/the-ai-factory-is-becoming-the-computer-and-its-changing-the-semiconductor-race/",
-            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/silicon-ai-factories.png",
-            "publishedAt": "2026-09-23 22:38:12"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "The Transformation Edge: Why AI is forcing the CFO and CHRO to rewrite the enterprise together",
-            "url": "https://siliconangle.com/2026/09/23/workforce-economics-ai-csuite-ibm-ibmtransformationedgeseries/",
-            "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/John-Furrier-with-Jim-Kavanaugh-CFO-of-IBM-and-Nickle-LaMoreaux-SVP-and-CHRO-of-IBM-IBMs-Transformation-Edge-2026.png",
-            "publishedAt": "2026-09-23 22:18:27"
         }
     ]
 }
