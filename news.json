@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-09-28T03:17:42.230071Z",
+    "lastUpdatedAt": "2026-09-28T10:27:10.111652Z",
     "articles": [
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways",
+            "url": "https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-sam-altman-unga-ww-1431-9a5b8b.jpg",
+            "publishedAt": "2026-09-27T21:57:53Z"
+        },
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "Bill Gates warns AI could be used to trigger 'a billion deaths,' urges regulation",
+            "url": "https://www.europesays.com/3276177/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/09/8becbf6c-4663-4149-98fa-a37290910ebd-GettyImages1678320043.jpg",
+            "publishedAt": "2026-09-27T21:14:19Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Bill Gates warns AI could cause 'a billion deaths' without safeguards",
+            "url": "https://www.foxnews.com/media/bill-gates-warns-artificial-intelligence-powerful-enough-cause-billion-deaths-unchecked",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/bill-gates-epstein-interview.jpg",
+            "publishedAt": "2026-09-27T21:06:36Z"
+        },
+        {
+            "source": {
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
+                "country": "in"
+            },
+            "title": "Trump to discuss AI with Anthropic CEO, urges Zelensky to ease refinery strikes",
+            "url": "https://scanx.trade/stock-market-news/global/trump-discuss-ai-anthropic-ceo-urges-zelensky-ease-refinery-strikes/52088550",
+            "urlToImage": "https://news-images.dhan.co/trump-discuss-ai-anthropic-ceo-urges-zelensky-ease-refinery-strikes.jpg",
+            "publishedAt": "2026-09-27T21:02:38Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Worries about an AI internet takeover gain new urgency among doomsday scenarios",
+            "url": "https://japantoday.com/category/tech/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2026-09-27T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "Anthropic, OpenAI sound alarm on AI safety",
+            "url": "https://www.cnbctv18.com/technology/anthropic-openai-sound-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled-19999526.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2026/09/openai-and-anthropic-22-2026-09-9a5b678d9bdee855e978a4c2c51c96e1.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-09-27T20:52:21Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "BB 20 Episode 22: Salman Khan demands prison sentence for fake AI video creators",
+            "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-episode-22-salman-khan-demands-prison-sentence-for-fake-ai-video-creators-3004441-2026-09-28",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/bb-20-episode-22-salman-khan-demands-prison-sentence-for-fake-ai-video-creators-274604148-16x9_0.png?VersionId=nGQM6JMJyqELs17sc0CNp9nh_nrvHvVr",
+            "publishedAt": "2026-09-27T20:46:27Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "Trump's AI Power Play: Private Dinner With Anthropic CEO Before Top CEO Meet",
+            "url": "https://www.timesnownews.com/world/us/us-news/anthropic-ceo-dario-amodei-donald-trump-white-house-dinner-ai-warnings-article-156237619",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-156237620,thumbsize-110585,width-1280,height-720,resizemode-75/156237620.jpg",
+            "publishedAt": "2026-09-27T20:38:49Z"
+        },
+        {
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            },
+            "title": "Bill Gates warns AI could be used to trigger 'a billion deaths,' urges regulation",
+            "url": "https://foxbaltimore.com/news/nation-world/bill-gates-warns-ai-could-be-used-to-trigger-a-billion-deaths-urges-regulation",
+            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/3989/1320/0x209/90/8becbf6c-4663-4149-98fa-a37290910ebd-GettyImages1678320043.jpg",
+            "publishedAt": "2026-09-27T20:21:28Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "Bill Gates warns AI could be used to trigger 'a billion deaths,' urges regulation",
+            "url": "https://wjla.com/news/nation-world/bill-gates-warns-ai-could-be-used-to-trigger-a-billion-deaths-urges-regulation",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/3989/1320/0x209/90/8becbf6c-4663-4149-98fa-a37290910ebd-GettyImages1678320043.jpg",
+            "publishedAt": "2026-09-27T20:21:28Z"
+        },
         {
             "source": {
                 "id": "6b5614f288c2ce8fcedc9909a3e2696b",
@@ -528,6 +648,78 @@
             "url": "https://www.morningstar.com/economy/is-ai-really-fueling-inflation-its-not-that-simple",
             "urlToImage": "https://media.morningstar.com/resizer/v2/URPDX3MK3BHQFHC4XGTLDOOUMY.png?auth=fba80d49da2e680b11b0c31ea55ddc89b9aa4811fb2db69079f6a3d3de0d3c78&quality=80&height=1350&width=2400&crop=0,0:2400,1350",
             "publishedAt": "2026-09-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techbooky"
+            },
+            "title": "UK Games Expo Bans AI-Made Games And Artwork",
+            "url": "https://www.techbooky.com/uk-games-expo-bans-ai-made-games-and-artwork/",
+            "urlToImage": "https://d1s6vdzy36jczj.cloudfront.net/wp-content/uploads/2026/09/27183526/1790256585877.png",
+            "publishedAt": "2026-09-27 17:36:16"
+        },
+        {
+            "source": {
+                "name": "nynewscast"
+            },
+            "title": "How Can Everyday People Participate in the AI Infrastructure Boom? 51AIpower Explains the AI Token Economy",
+            "url": "https://nynewscast.com/how-can-everyday-people-participate-in-the-ai-infrastructure-boom-51aipower-explains-the-ai-token-economy-260257/",
+            "urlToImage": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+            "publishedAt": "2026-09-27 17:30:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Arthur Mensch: Why AI Should Be Regulated Like Any Other Software",
+            "url": "https://www.webpronews.com/arthur-mensch-why-ai-should-be-regulated-like-any-other-software/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2026/09/article-26763-1790483314.jpeg",
+            "publishedAt": "2026-09-27 16:12:18"
+        },
+        {
+            "source": {
+                "name": "thewesterlysun"
+            },
+            "title": "AI Memory & Storage: The 5th GMIF2026 Innovation Summit Successfully Concludes in Shenzhen",
+            "url": "https://www.thewesterlysun.com/online_features/press_releases/ai-memory-storage-the-5th-gmif2026-innovation-summit-successfully-concludes-in-shenzhen/article_f8ea32f9-4e8a-53af-90e0-783ebf3be30f.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thewesterlysun.com/content/tncms/assets/v3/editorial/b/e4/be46a98a-add2-5747-9a30-5b7adf2f61f5/6aba09cdb2306.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-09-27 15:59:00"
+        },
+        {
+            "source": {
+                "name": "berkshireeagle"
+            },
+            "title": "AI Memory & Storage: The 5th GMIF2026 Innovation Summit Successfully Concludes in Shenzhen",
+            "url": "https://www.berkshireeagle.com/online_features/press_releases/ai-memory-storage-the-5th-gmif2026-innovation-summit-successfully-concludes-in-shenzhen/article_35c5bff7-8cb0-5ebe-8dc3-e296d996ced1.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/b/e0/be0a8625-d9bb-54b3-b683-508279907132/6aba0b7b76cc2.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-09-27 15:59:00"
+        },
+        {
+            "source": {
+                "name": "ricentral"
+            },
+            "title": "AI Memory & Storage: The 5th GMIF2026 Innovation Summit Successfully Concludes in Shenzhen",
+            "url": "https://www.ricentral.com/online_features/press_releases/ai-memory-storage-the-5th-gmif2026-innovation-summit-successfully-concludes-in-shenzhen/article_3b98e254-5ed5-51a0-8866-d174aa4e6915.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/ricentral.com/content/tncms/assets/v3/editorial/1/47/147fbfbe-509a-5e0d-8de6-c2121173142f/6aba0b2a74422.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-09-27 15:59:00"
+        },
+        {
+            "source": {
+                "name": "starkvilledailynews"
+            },
+            "title": "AI Memory & Storage: The 5th GMIF2026 Innovation Summit Successfully Concludes in Shenzhen",
+            "url": "https://www.starkvilledailynews.com/online_features/press_releases/ai-memory-storage-the-5th-gmif2026-innovation-summit-successfully-concludes-in-shenzhen/article_6a8054a5-212b-5140-9a52-ac55bc5fb631.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/starkvilledailynews.com/content/tncms/assets/v3/editorial/0/c3/0c30dfac-785c-5ae6-b368-6d70fe954b36/6aba1984d20ab.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-09-27 15:59:00"
+        },
+        {
+            "source": {
+                "name": "sentinelsource"
+            },
+            "title": "AI Memory & Storage: The 5th GMIF2026 Innovation Summit Successfully Concludes in Shenzhen",
+            "url": "https://www.keenesentinel.com/online_features/press_releases/ai-memory-storage-the-5th-gmif2026-innovation-summit-successfully-concludes-in-shenzhen/article_a6d4e3b9-3eb5-5ccf-b485-d5719314c198.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/keenesentinel.com/content/tncms/assets/v3/editorial/5/65/5651ec6e-4e8a-5be4-ae1f-5a5f6e0394ae/6aba09ff08608.image.jpg?resize=300%2C169",
+            "publishedAt": "2026-09-27 15:59:00"
         },
         {
             "source": {
@@ -3219,222 +3411,6 @@
             "url": "https://www.pressdemocrat.com/2026/09/23/ai-internet-takeover-explained/",
             "urlToImage": "https://www.pressdemocrat.com/wp-content/uploads/2026/09/Anthropic_Researcher_Resignation_85781_1591d3-1.jpg?w=2000&h=1334",
             "publishedAt": "2026-09-23T17:27:28Z"
-        },
-        {
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com",
-                "country": "us"
-            },
-            "title": "Worries about an AI internet takeover gain urgency among scenarios",
-            "url": "https://www.baltimoresun.com/2026/09/23/ai-internet-takeover-explained/",
-            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2026/09/Anthropic_Researcher_Resignation_85781_1591d3-1.jpg?w=2000&h=1334",
-            "publishedAt": "2026-09-23T17:27:28Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Tech Mahindra, CoRover.ai partner to drive global sovereign AI push for global markets",
-            "url": "https://www.tribuneindia.com/news/business/tech-mahindra-corover-ai-partner-to-drive-global-sovereign-ai-push-for-global-markets/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY3NTg0NjYwLWI3NDUtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-            "publishedAt": "2026-09-23T11:57:28Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Gautam Adani Regains Top Spot On Hurun India Rich List 2026 As India Adds Record Billionaires",
-            "url": "https://www.freepressjournal.in/business/gautam-adani-regains-top-spot-on-hurun-india-rich-list-2026-as-india-adds-record-billionaires",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-06-23/bl18r6al/Gautam-Adani-Birthday.jpg",
-            "publishedAt": "2026-09-23T11:40:38Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "AI leaders set to brief UN amid intensifying concerns that technology could slip beyond human control",
-            "url": "https://www.thenews.com.pk/latest/1417305-ai-leaders-set-to-brief-un-amid-intensifying-concerns-that-technology-could-slip-beyond-human-control",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-09-23/1417305_043224_updates.jpg",
-            "publishedAt": "2026-09-23T11:32:00Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "TD announces collaboration with Cohere to facilitate AI adoption",
-            "url": "https://www.cp24.com/news/money/2026/09/23/td-bank-announces-25m-collaboration-with-cohere-to-facilitate-ai-adoption/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/6ERPDFD6SGV3BK7LPCH6VAXMHA.jpg?smart=true&auth=8a16903622de50a7cafd7cea2654bc8ca6d275439712bb73e2d9280667e3d08a&width=1200&height=630",
-            "publishedAt": "2026-09-23T11:29:52Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "TD announces collaboration with Cohere to facilitate AI adoption",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/23/td-bank-announces-25m-collaboration-with-cohere-to-facilitate-ai-adoption/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/6ERPDFD6SGV3BK7LPCH6VAXMHA.jpg?smart=true&auth=8a16903622de50a7cafd7cea2654bc8ca6d275439712bb73e2d9280667e3d08a&width=1200&height=630",
-            "publishedAt": "2026-09-23T11:29:52Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "FIR against man for allegedly creating obscene AI video of Class 12 student in Ballia",
-            "url": "https://theprint.in/india/fir-against-man-for-allegedly-creating-obscene-ai-video-of-class-12-student-in-ballia/3051123/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-09-23T11:23:46Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Deloitte India, CAST form strategic alliance for AI",
-            "url": "https://www.tribuneindia.com/news/business/deloitte-india-cast-form-strategic-alliance-for-ai-led-application-modernisation-across-asia-pacific-and-japan/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMzMTk0ZjUwLWI3NDEtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-            "publishedAt": "2026-09-23T11:23:18Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US treasury chief Scott Bessent could be Trump's new AI adviser amid US-China talks: Report",
-            "url": "https://timesofindia.indiatimes.com/world/us/us-treasury-chief-scott-bessent-could-be-trumps-new-ai-adviser-amid-us-china-talks-report/articleshow/134433838.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-134434388,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-23T11:17:00Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Deloitte India, CAST form strategic alliance for AI-led application modernisation across Asia-Pacific and Japan",
-            "url": "https://www.aninews.in/news/business/deloitte-india-cast-form-strategic-alliance-for-ai-led-application-modernisation-across-asia-pacific-and-japan20260923164631/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260923111011-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-09-23T11:16:31Z"
-        },
-        {
-            "source": {
-                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
-                "name": "The Philadelphia Inquirer",
-                "url": "https://www.inquirer.com",
-                "country": "us"
-            },
-            "title": "Sen. Bernie Sanders unveils bill to create Department of Artificial Intelligence",
-            "url": "https://www.inquirer.com/politics/nation/bernie-sanders-artificial-superintelligence-ban-20260923.html",
-            "urlToImage": "https://www.inquirer.com/resizer/v2/664OG7GQZIBPQIUFCVD7Q2CZSE.jpg?auth=0ad7967484ec3757d02b0331f802fc6839732f6faa995c8ef6323073af7d1023&width=760&height=507&smart=true",
-            "publishedAt": "2026-09-23T11:01:38Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Bernie Sanders introduces bill to ban superintelligent AI, create federal AI agency",
-            "url": "https://www.thenews.com.pk/latest/1417294-bernie-sanders-introduces-bill-to-ban-superintelligent-ai-create-federal-ai-agency",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-09-23/1417294_025644_updates.jpg",
-            "publishedAt": "2026-09-23T09:56:00Z"
-        },
-        {
-            "source": {
-                "id": "e185a9e522f5881b82bc4bd40cbea8e0",
-                "name": "MassLive",
-                "url": "https://www.masslive.com",
-                "country": "us"
-            },
-            "title": "As AI concerns grow, these Mass. lawmakers are pushing for tougher oversight",
-            "url": "https://www.masslive.com/politics/2026/09/as-washington-dithers-massachusetts-looks-to-chart-its-own-ai-future.html",
-            "urlToImage": "https://www.masslive.com/resizer/v2/Y7ZNDDX5ARBN7JKBJGWBKN7IME.jpg?auth=b34107e664c418386e086f76f6379b2a938c55dee466b87555983677db63b5a6&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-09-23T09:50:00Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "UN meeting opens with plea for cooperation",
-            "url": "https://www.arkansasonline.com/news/2026/sep/23/un-meeting-opens-with-plea-for-cooperation/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213709790_213708679-4bc812e470394941afb1296274a1edd8_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-            "publishedAt": "2026-09-23T09:48:00Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Opinion: AI models are the good, the bad and the ugly, all at once",
-            "url": "https://www.mercurynews.com/2026/09/23/commentary-ai-models-are-the-good-the-bad-and-the-ugly-all-at-once-2/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/09/202609170515MCT_____PHOTO____OPED-AI-MODELS-COMMENTARY-FILEPIC-GET.jpg?w=2000&h=1333",
-            "publishedAt": "2026-09-23T09:45:28Z"
-        },
-        {
-            "source": {
-                "id": "c477009a98f37b19212d8ae20ce8c018",
-                "name": "POLITICO",
-                "url": "https://www.politico.com",
-                "country": "us"
-            },
-            "title": "Ted Lieu: AI risks are ‘no longer in the realm of science fiction’",
-            "url": "https://www.politico.com/news/2026/09/23/ted-lieu-ai-democrats-01087182",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F21%2Fbb%2Fb1208c8e4b5ab52dfc07ba39f4ed%2F2026-0915-lieu-francis-8.jpg",
-            "publishedAt": "2026-09-23T09:45:00Z"
-        },
-        {
-            "source": {
-                "id": "6330fe7e7b8cfc9b8540c05881fcc289",
-                "name": "U.Today",
-                "url": "https://u.today",
-                "country": "ae"
-            },
-            "title": "BlackRock: AI Boom Could Fuel New Crypto Demand",
-            "url": "https://u.today/blackrock-ai-boom-could-fuel-new-crypto-demand",
-            "urlToImage": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2026-09/Depositphotos_719946998_S.jpg",
-            "publishedAt": "2026-09-23T09:29:46Z"
-        },
-        {
-            "source": {
-                "id": "75ca59dd354694befc1cf6038cf9ca33",
-                "name": "CoinDesk",
-                "url": "https://www.coindesk.com",
-                "country": "us"
-            },
-            "title": "Why Wall Street’s biggest asset manager thinks artificial intelligence will supercharge digital assets",
-            "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
-            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/42b96dc1a724b07b78b9639f25ea772c627e0e00-1500x801.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-            "publishedAt": "2026-09-23T09:17:53Z"
         }
     ]
 }
