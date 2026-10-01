@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-10-01T01:46:07.388231Z",
+    "lastUpdatedAt": "2026-10-01T08:12:50.450010Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Meta stock enjoys best month since 2022 on AI momentum",
+            "url": "https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108367421-1790256222248-gettyimages-2296215846-META_CONNECT.jpeg?v=1790256353&w=1920&h=1080",
+            "publishedAt": "2026-09-30T20:08:47Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Bill Gates has a plan for AI taking human jobs: Tax robots",
+            "url": "https://www.thenews.com.pk/latest/1418269-bill-gates-has-a-plan-for-ai-taking-human-jobs-tax-robots",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-10-01/1418269_010959_updates.jpg",
+            "publishedAt": "2026-09-30T20:07:15Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Google announces Gemini 4 flagship AI model after months of delays",
+            "url": "https://www.marketscreener.com/news/google-announces-gemini-4-flagship-ai-model-after-months-of-delays-ce785ad3d881f727",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-07/2026-07-16T185955Z_1_LYNXMPEM6F1EA_RTROPTP_4_TECH-USA-GERMANY-GOOGLE.JPG",
+            "publishedAt": "2026-09-30T20:02:16Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "‘There is nothing wrong with using AI, provided it is used responsibly’: Shankar Mahadevan",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/there-is-nothing-wrong-with-using-ai-provided-it-is-used-responsibly-shankar-mahadevan/articleshow/134595409.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-134595409,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-30T19:41:00Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers",
+            "url": "https://wtop.com/news/2026/09/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/09/Open_AI_Conference_24563-scaled.jpg",
+            "publishedAt": "2026-09-30T19:28:21Z"
+        },
+        {
+            "source": {
+                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+                "name": "SFGATE",
+                "url": "https://www.sfgate.com",
+                "country": "us"
+            },
+            "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers",
+            "url": "https://www.sfgate.com/news/politics/article/ftc-is-investigating-openai-and-anthropic-over-22456687.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/67/33/30/31307308/6/rawImage.jpg",
+            "publishedAt": "2026-09-30T19:27:51Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers",
+            "url": "https://www.clickondetroit.com/news/politics/2026/09/30/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/",
+            "urlToImage": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/WVVCSUECXNGFLMXK3VYQQPT43U.jpg?api_key=clickondetroit_06f87fefb2123598",
+            "publishedAt": "2026-09-30T19:27:51Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "FTC Is Investigating OpenAI and Anthropic Over Possible Risks to Consumers",
+            "url": "https://www.usnews.com/news/technology/articles/2026-09-30/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/1c0ce64/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F3b%2F50a7f648e3480a203652e1a465ad5d%2F53a86a5b3f6c4890a81dd0043a0f5187Open_AI_Conference_24563.jpg",
+            "publishedAt": "2026-09-30T19:27:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "At U.N., developing nations call for bigger say in shaping AI future",
+            "url": "https://japantoday.com/category/tech/at-un-developing-nations-call-for-bigger-say-in-shaping-ai-future",
+            "urlToImage": "https://media.japantoday.com/img/store/a1/5e/c1cb4f49d4f00db132d46ba1af3254a6e2ab/tag-reuters/_w1700.jpg",
+            "publishedAt": "2026-09-30T18:45:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Firefly Aerospace Shares Rise After Signing Starcloud Lunar AI Computing Deal",
+            "url": "https://www.marketscreener.com/news/firefly-aerospace-shares-rise-after-signing-starcloud-lunar-ai-computing-deal-ce785ad3d88af427",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-09-30T18:14:34Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -480,6 +600,87 @@
             "url": "https://www.deccanherald.com/technology/google-pixel-11-review-premium-smart-ai-features-without-pro-pricing-4164295",
             "urlToImage": "https://media.assettype.com/deccanherald%2F2026-09-29%2Fjv7ff75d%2FGoogle-Pixel-11-Cover-Photos-Selected-1.jpg?rect=0%2C0%2C1023%2C537&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
             "publishedAt": "2026-09-30T00:30:00Z"
+        },
+        {
+            "source": {
+                "name": "ijr"
+            },
+            "title": "Google Unveils Gemini 4 Argon AI Model",
+            "url": "https://ijr.com/discover/tech-2026-09-30-google-unveils-gemini-4-argon-ai-model-160758d4",
+            "urlToImage": "https://6pwlv5vzvfnbrzqk.public.blob.vercel-storage.com/ijrcom/story-images/50e8201b03301122c84e.webp",
+            "publishedAt": "2026-09-30 20:08:43"
+        },
+        {
+            "source": {
+                "name": "cio_in"
+            },
+            "title": "Trump and Xi set up an AI hotline and no AI limits. Here’s what that means for CIOs",
+            "url": "https://www.cio.com/article/4229029/trump-and-xi-set-up-an-ai-hotline-and-no-ai-limits-heres-what-that-means-for-cios.html",
+            "urlToImage": "https://www.cio.com/wp-content/uploads/2026/09/4229029-0-99296800-1790798569-Trump.jpg?quality=50&strip=all",
+            "publishedAt": "2026-09-30 20:00:00"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "Trump and Xi set up an AI hotline and no AI limits. Here's what that means for CIOs",
+            "url": "https://www.bundle.app/en/technology/trump-and-xi-set-up-an-ai-hotline-and-no-ai-limits-heres-what-that-means-for-cios-BE5A58FF-71A8-5072-AC7D-81325933387E",
+            "urlToImage": "https://static.bundle.app/news/ccbb34d4-0ff6-5c45-96d4-0f4a43ee9a19.jpg",
+            "publishedAt": "2026-09-30 19:29:50"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Nikhil Goyal: Driving Innovation and Enabling Adoption of AI",
+            "url": "https://www.analyticsinsight.net/interview/nikhil-goyal-driving-innovation-and-enabling-adoption-of-ai",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-30/5mreqxx6/Nikhil-Goyal.jpg",
+            "publishedAt": "2026-09-30 18:25:00"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "How AI is becoming Hollywood’s newest star, changing work on and off camera",
+            "url": "https://fortune.com/2026/09/30/cio-intelligence-sept-30/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/image-2-e1790787532768.jpeg?w=2048",
+            "publishedAt": "2026-09-30 16:59:20"
+        },
+        {
+            "source": {
+                "name": "fedscoop"
+            },
+            "title": "SBA gets another push to step up its AI game",
+            "url": "https://fedscoop.com/sba-ai-use-case-inventory-watchdog-report/",
+            "urlToImage": "https://fedscoop.com/wp-content/uploads/sites/5/2026/09/GettyImages-2196636066.jpg",
+            "publishedAt": "2026-09-30 16:41:04"
+        },
+        {
+            "source": {
+                "name": "industrywired"
+            },
+            "title": "India’s Emerging Industries: 6 Sectors Shaping the Economy through 2030",
+            "url": "https://industrywired.com/business/indias-emerging-industries-6-sectors-shaping-the-economy-through-2030-12594382",
+            "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/industry-wired/media/media_files/2026/09/30/indias-emerging-industries6-sectors-shaping-the-economy-through-2030-pillar-2026-09-30-18-22-14.jpg",
+            "publishedAt": "2026-09-30 16:00:37"
+        },
+        {
+            "source": {
+                "name": "infotechlead"
+            },
+            "title": "CISO Strategy 2026: How Enterprises Are Tackling AI Agents, Cyberattacks and Quantum Risks",
+            "url": "https://infotechlead.com/security/ciso-strategy-2026-how-enterprises-are-tackling-ai-agents-cyberattacks-and-quantum-risks-98550",
+            "urlToImage": "https://infotechlead.com/wp-content/uploads/2022/11/Business-laptop-customers.jpg",
+            "publishedAt": "2026-09-30 15:45:27"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Why AI Companies Face Rising Costs & Safety Challenges?",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/why-ai-companies-face-rising-costs-safety-challenges",
+            "urlToImage": "https://media.assettype.com/analyticsinsight/2026-09-30/3rkaj0bn/Why-AI-Companies-Face-Rising-Costs-and-Safety-Challenges.jpg",
+            "publishedAt": "2026-09-30 15:00:00"
         },
         {
             "source": {
@@ -3147,234 +3348,6 @@
             "url": "https://economictimes.indiatimes.com/news/india/men-doing-household-chores-ais-impact-andhras-education-reforms-erase-gender-stereotypes-focus-on-tech/articleshow/134499572.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-134499733,width-1200,height-630,imgsize-139736,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2026-09-26T07:23:00Z"
-        },
-        {
-            "source": {
-                "id": "b41851fb2662ea502db29f71ec4d1583",
-                "name": "NPR",
-                "url": "https://www.npr.org",
-                "country": "us"
-            },
-            "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
-            "url": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6177x3475+0+322/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2F6f%2Fea296ca441689fb4d8f64f62c5f6%2Fap26268410442066.jpg",
-            "publishedAt": "2026-09-26T06:59:45Z"
-        },
-        {
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            },
-            "title": "Trump, Xi keep talks going as US, China agree to AI incident channel",
-            "url": "https://www.malaymail.com/news/world/2026/09/26/trump-xi-keep-talks-going-as-us-china-agree-to-ai-incident-channel/236603",
-            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/09/26/364715.jpg",
-            "publishedAt": "2026-09-26T06:22:18Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "FIIs unlikely to return in large numbers without new growth engines in India: Bernstein",
-            "url": "https://www.tribuneindia.com/news/business/fiis-unlikely-to-return-in-large-numbers-without-new-growth-engines-in-india-bernstein/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY3OTRlNzkwLWI5NzEtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-            "publishedAt": "2026-09-26T06:17:29Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "China and U.S. to open AI ‘communication channel’ after summit",
-            "url": "https://www.japantimes.co.jp/news/2026/09/26/world/us-china-ai-communication-line/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/565198.jpg?v=3.1",
-            "publishedAt": "2026-09-26T06:17:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "OpenAI says its models interacted with US government websites in unexpected ways",
-            "url": "https://www.tribuneindia.com/news/world/openai-says-its-models-interacted-with-us-government-websites-in-unexpected-ways/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThlNGU3YzIwLWI5NzAtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-            "publishedAt": "2026-09-26T06:06:59Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "AI goes rogue: OpenAI's systems meddled with US government websites on their own: Report",
-            "url": "https://www.firstpost.com/tech/ai-goes-rogue-openais-systems-meddled-with-us-government-websites-on-their-own-report-14048489.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/08/OpenAI-1-2026-08-4c4f533072c5c14645765b0fe1bc6cc7-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-09-26T06:02:30Z"
-        },
-        {
-            "source": {
-                "id": "c97ef3cad273a1993c998ca7ddcc5212",
-                "name": "Daily Express",
-                "url": "https://www.express.co.uk",
-                "country": "gb"
-            },
-            "title": "Virgin Media confirms smart free broadband upgrade for millions of use",
-            "url": "https://www.express.co.uk/life-style/science-technology/2251577/virgin-media-AI-update-broadband",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/59/1200x630/7158072.jpg",
-            "publishedAt": "2026-09-26T06:01:00Z"
-        },
-        {
-            "source": {
-                "id": "93a4f054e09bde095cda5265e575a952",
-                "name": "Telegraph India",
-                "url": "https://www.telegraphindia.com",
-                "country": "in"
-            },
-            "title": "OpenAI says its agents accessed US government sites, tried to hack Education Department",
-            "url": "https://www.telegraphindia.com/world/openai-agents-accessed-us-government-sites-unexpectedly-attempted-education-department-hack/cid/2181780",
-            "urlToImage": "https://assets.telegraphindia.com/telegraph/2026/Apr/1777092441_new-openai-gpt.jpg",
-            "publishedAt": "2026-09-26T06:00:30Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Jaishankar meets Russia, Iran foreign ministers at UNGA days after Trump signs sanctions law",
-            "url": "https://economictimes.indiatimes.com/news/india/jaishankar-meets-russia-iran-foreign-ministers-at-unga-days-after-trump-signs-sanctions-law/articleshow/134498326.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134498348,width-1200,height-630,imgsize-79680,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-26T05:57:00Z"
-        },
-        {
-            "source": {
-                "id": "eba2f6a49db29efc8343807ba675665f",
-                "name": "NewsBytes",
-                "url": "https://www.newsbytesapp.com",
-                "country": "in"
-            },
-            "title": "AI could boost labor productivity by 3.8%, says IMF",
-            "url": "https://www.newsbytesapp.com/news/business/imf-thinks-ai-may-boost-labor-productivity-by-3-8/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l11420260926100739.jpeg",
-            "publishedAt": "2026-09-26T05:50:30Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "OpenAI agents hacked US government websites",
-            "url": "https://www.livemint.com/global/openai-agents-hacked-us-government-websites-11790401643556.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/im-41806676_1790401647944_fNKE_1790401662369_ejsH_baa7d191-64c3-43d6-b38b-3a2582957a5e_2oKA.jpg",
-            "publishedAt": "2026-09-26T05:48:20Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Google engineer quits his \"amazing\" job over AI, and says the doomers have it wrong: I am not convinced the chance of ASI doom is…",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-engineer-quits-his-amazing-job-over-ai-and-says-the-doomers-have-it-wrong-i-am-not-convinced-the-chance-of-asi-doom-is/articleshow/134498144.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-134498152,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-26T05:29:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "UN General Assembly: Iran talks, Ukraine ceasefire and AI among key takeaways",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/un-general-assembly-iran-talks-ukraine-ceasefire-and-ai-among-key-takeaways/articleshow/134497680.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134498030,width-1200,height-630,imgsize-163264,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-26T05:20:00Z"
-        },
-        {
-            "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
-            },
-            "title": "OpenAI, Anthropic Brief UN Security Council On AI Risks",
-            "url": "https://www.naturalnews.com/2026-09-26-openai-anthropic-brief-unsc-on-ai-risks.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/artificial-intelligence-un-security-council-ai-risks-4426-original.jpg",
-            "publishedAt": "2026-09-26T04:49:27Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Google lets engineers use Anthropic's Claude for coding work",
-            "url": "https://www.bangkokpost.com/life/tech/3326519/google-lets-engineers-use-anthropics-claude-for-coding-work",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20260926/c2_3326519.jpg",
-            "publishedAt": "2026-09-26T02:39:00Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "AI correction tone influences effectiveness in combating medical misinformation",
-            "url": "https://www.news-medical.net/news/20260925/AI-correction-tone-influences-effectiveness-in-combating-medical-misinformation.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2026-09-26T02:10:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI could lift productivity 3.8 per cent: IMF",
-            "url": "https://www.lokmattimes.com/international/ai-could-lift-productivity-38-per-cent-imf/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/4d60de99b7a52224658706d85b869407_202609.jpg",
-            "publishedAt": "2026-09-26T00:52:26Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Trump-Xi summit ends with pomp and show but no major deal on AI",
-            "url": "https://www.firstpost.com/world/trump-xi-summit-ends-with-pomp-and-show-but-no-major-deal-on-ai-14048481.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/09/Firstpost-1920x1080-2026-09-25T160835.389-2026-09-d63cbf162c58211237f869254f241970-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-09-26T00:35:20Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "TRUST AS THE NEW COMPETITIVE ADVANTAGE IN MALAYSIA'S AI ECONOMY",
-            "url": "https://www.thestar.com.my/starpicks/2026/09/26/trust-as-the-new-competitive-advantage-in-malaysia039s-ai-economy",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/26/4130581.jpg",
-            "publishedAt": "2026-09-26T00:13:00Z"
         }
     ]
 }
