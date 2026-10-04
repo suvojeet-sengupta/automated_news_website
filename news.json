@@ -1,6 +1,123 @@
 {
-    "lastUpdatedAt": "2026-10-04T10:51:37.455509Z",
+    "lastUpdatedAt": "2026-10-04T15:37:31.410827Z",
     "articles": [
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "Trump defends data centers in Ohio as he rallies to boost Jon Husted in a tight Senate race",
+            "url": "https://www.europesays.com/3288721/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/10/ITCDPREUCRARZPUBMARZAZEDYE.jpg",
+            "publishedAt": "2026-10-04T03:30:30Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "Human-centred AI laboratory to be inaugurated at Punjab University",
+            "url": "https://www.nation.com.pk/04-Oct-2026/human-centred-ai-laboratory-inaugurated-punjab-university",
+            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "publishedAt": "2026-10-04T03:25:00Z"
+        },
+        {
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            },
+            "title": "AI in customer experience has an orchestration problem, not an adoption problem",
+            "url": "https://www.europesays.com/3288663/",
+            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/10/aiagent-cx-gemini-scaled-768x419.jpeg",
+            "publishedAt": "2026-10-04T02:46:22Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "OpenAI's Sam Altman criticises Anthropic’s push to explore AI consciousness and religion",
+            "url": "https://timesofindia.indiatimes.com/world/us/openais-sam-altman-criticizes-anthropics-push-to-explore-ai-consciousness-and-religion/articleshow/134668887.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-134668906,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-04T02:16:00Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "Trump defends data centers in Ohio as he rallies to boost Jon Husted in a tight Senate race",
+            "url": "https://www.baytoday.ca/world-news/trump-defends-data-centers-in-ohio-as-he-rallies-to-boost-jon-husted-in-a-tight-senate-race-12854460",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/10/1aa6055ed4c6c3c4feced674957818daa2a81af5ae42165c72a14d6a77a9db7c.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-10-04T00:38:12Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "Trump defends data centers in Ohio as he rallies to boost Jon Husted in a tight Senate race",
+            "url": "https://www.sootoday.com/world-news/trump-defends-data-centers-in-ohio-as-he-rallies-to-boost-jon-husted-in-a-tight-senate-race-12854460",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/10/1aa6055ed4c6c3c4feced674957818daa2a81af5ae42165c72a14d6a77a9db7c.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-10-04T00:38:12Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "OpenAI safety leader resigns, warns culture of developing the technology is 'broken'",
+            "url": "https://www.firstpost.com/tech/openai-safety-leader-resigns-warns-culture-of-developing-the-technology-is-broken-14050222.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2026/08/OpenAI-1-2026-08-4c4f533072c5c14645765b0fe1bc6cc7-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-10-04T00:36:56Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Anthropic says its AI models could manipulate, blackmail and harm humans",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/04/anthropic-says-its-ai-models-could-manipulate-blackmail-and-harm-humans",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/10/02/4141020.jpg",
+            "publishedAt": "2026-10-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "133 Blog Posts To Learn About Ar",
+            "url": "https://hackernoon.com/133-blog-posts-to-learn-about-ar",
+            "urlToImage": "https://cdn.hackernoon.com/images/github/ar-460.png",
+            "publishedAt": "2026-10-04 02:00:47"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "CM Mohan Yadav Lays Foundation Stone For IISER Bhopal-ATRI Campus On 52 Acres, Focus On AI, Quantum Tech & Drones",
+            "url": "https://www.freepressjournal.in/bhopal/cm-mohan-yadav-lays-foundation-stone-for-iiser-bhopal-atri-campus-on-52-acres-focus-on-ai-quantum-tech-drones",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-10-03/3f41gdep/8pic03-Chief-Minister-Mohan-Yadav-laid-the-foundation-stone-for-the-Advanced-Technology-and-Research-Innovation-ATRI-campus-of-IISR-at-Bhauri.jpg",
+            "publishedAt": "2026-10-03T23:30:00Z"
+        },
         {
             "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
@@ -3237,126 +3354,6 @@
             "url": "https://www.thestar.com.my/business/business-news/2026/09/29/china039s-ai-agents-can-lie-and-scheme---just-like-their-us-rivals",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/09/29/4136371.jpg",
             "publishedAt": "2026-09-29T12:09:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "10 Terms to Know Ahead of India Mobile Congress 2026, as AI-led evolution of telecom networks continues",
-            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/10-terms-to-know-ahead-of-india-mobile-congress-2026-as-ai-led-evolution-of-telecom-networks-continues/articleshow/134565416.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134565470,width-1200,height-630,imgsize-3415649,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-29T12:05:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AMD pays $8.2 billion for AI lab led by Fei-Fei Li; why her work on teaching AI to understand the real world matters",
-            "url": "https://timesofindia.indiatimes.com/education/news/amd-pays-8-2-billion-for-ai-lab-led-by-fei-fei-li-why-her-work-on-teaching-ai-to-understand-the-real-world-matters/articleshow/134564148.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-134564190,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-29T12:04:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "China's AI agents can lie and scheme - just like their US rivals",
-            "url": "https://www.marketscreener.com/news/china-s-ai-agents-can-lie-and-scheme-just-like-their-us-rivals-ce785adddc8ffe2d",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-29T120408Z_1_LYNXMPEM8S10U_RTROPTP_4_AI-SAFETY-CHINA.JPG",
-            "publishedAt": "2026-09-29T12:03:55Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "China's AI agents can lie and scheme - just like their US rivals",
-            "url": "https://www.reuters.com/business/retail-consumer/chinas-ai-agents-can-lie-scheme-just-like-their-us-rivals-2026-09-29/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/IY44LQPU75IZPBBQW5KIFSDJFQ.jpg?auth=5af630849c0977d7c7ac7b490497ffd3678f20edf5613dd8fcb2162cab3853fc&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-09-29T12:02:01Z"
-        },
-        {
-            "source": {
-                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
-                "name": "Deadline",
-                "url": "https://deadline.com",
-                "country": "us"
-            },
-            "title": "Amazon's Kelly Day Says AI Can Help Creatives On The Next 'Fleabag'",
-            "url": "https://deadline.com/2026/09/amazon-prime-video-kelly-day-ai-fleabag-spend-in-uk-1237115997/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2020/12/fleabag-phoebe-t-1200x642-1569198068.jpg?w=980",
-            "publishedAt": "2026-09-29T08:53:28Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "AI pioneers warn governments to prepare for a possible ‘intelligence explosion’",
-            "url": "https://www.firstpost.com/tech/ai-pioneers-warn-governments-to-prepare-for-a-possible-intelligence-explosion-14049103.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2026/07/Artificial-Intelligence-1-2026-07-4e7f0568983fb1b3b491160023585347-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-09-29T08:51:29Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Samsung Electronics, Five Affiliates to Invest $1 Billion in Helix Digital",
-            "url": "https://www.marketscreener.com/news/samsung-electronics-five-affiliates-to-invest-1-billion-in-helix-digital-ce785addda8afe21",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-09-29T08:39:38Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Google Appeals EU Antitrust Orders Over Data Sharing, AI Services",
-            "url": "https://www.marketscreener.com/news/google-appeals-eu-antitrust-orders-over-data-sharing-ai-services-ce785addda8af321",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-09-29T08:32:29Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Bharat Renewable Energy Hackathon: Prize, Application Deadline, Final Showcase And More",
-            "url": "https://www.ndtvprofit.com/india/bharat-renewable-energy-hackathon-prize-application-deadline-final-showcase-and-more-12113352",
-            "urlToImage": "https://c.ndtvimg.com/2026-09/31657vis_bharat-renewable-energy-hackathon-_625x300_29_September_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-09-29T08:26:03Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India Mobile Congress 2026 launches 'Viksit Tech 47' platform to build Indian technology brands for global markets",
-            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/india-mobile-congress-2026-launches-viksit-tech-47-platform-to-build-indian-technology-brands-for-global-markets/articleshow/134560795.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134560794,width-1200,height-630,imgsize-20330,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-29T08:22:00Z"
         }
     ]
 }
