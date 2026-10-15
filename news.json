@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-10-15T17:57:52.967546Z",
+    "lastUpdatedAt": "2026-10-15T21:03:46.165729Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Behind AI's carbon footprint, a potential climate tool",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/15/behind-ai039s-carbon-footprint-a-potential-climate-tool",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/10/15/4163254.jpg",
+            "publishedAt": "2026-10-15T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Who is Tejas Parthasarathi Sudarshan? The Chennai founder who pitched two AI ideas to PM Modi in just 90 seconds",
+            "url": "https://timesofindia.indiatimes.com/education/news/who-is-tejas-parthasarathi-sudarshan-the-chennai-founder-who-pitched-two-ai-ideas-to-pm-modi-in-just-90-seconds/articleshow/134961717.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-134962613,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-15T08:54:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "TSMC profit jumps 69%, sixth consecutive quarterly record",
+            "url": "https://www.marketscreener.com/news/tsmc-profit-jumps-69-sixth-consecutive-quarterly-record-ce785dd3db8efe25",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3863877_800.png",
+            "publishedAt": "2026-10-15T08:48:14Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nasdaq Futures Slide as Global AI Selloff Gathers Pace",
+            "url": "https://www.marketscreener.com/news/nasdaq-futures-slide-as-global-ai-selloff-gathers-pace-ce785dd3db8eff20",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-12-30T115658Z_1006950001_LYNXMPECBT0EX_RTROPTP_2_CBUSINESS-US-GLOBAL-FOREX.JPG",
+            "publishedAt": "2026-10-15T08:47:22Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Artificial intelligence may create more jobs than it replaces in India: Piyush Goyal",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/artificial-intelligence-may-create-more-jobs-than-it-replaces-in-india-piyush-goyal/articleshow/134962440.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-124843,resizemode-75,msid-134962440/tech/artificial-intelligence/artificial-intelligence-may-create-more-jobs-than-it-replaces-in-india-piyush-goyal.jpg",
+            "publishedAt": "2026-10-15T08:44:45Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Artificial intelligence may create more jobs than it replaces in India: Piyush Goyal",
+            "url": "https://www.devdiscourse.com/article/business/3992823-artificial-intelligence-may-create-more-jobs-than-it-replaces-in-india-piyush-goyal",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/15_10_2026_14_12_59_9334509.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-10-15T08:43:03Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Digital India BHASHINI division, Manipur Government sign MoU to advance multilingual AI",
+            "url": "https://www.aninews.in/news/business/digital-india-bhashini-division-manipur-government-sign-mou-to-advance-multilingual-ai20261015141151/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261015083757-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-10-15T08:41:51Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Artificial intelligence may create more jobs than it replaces in India: Piyush Goyal",
+            "url": "https://www.tribuneindia.com/news/business/artificial-intelligence-may-create-more-jobs-than-it-replaces-in-india-piyush-goyal/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM4ZTQzZjAwLWM4NzQtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+            "publishedAt": "2026-10-15T08:41:25Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "Artificial intelligence may create more jobs than it replaces in India: Piyush Goyal",
+            "url": "https://www.aninews.in/news/business/artificial-intelligence-may-create-more-jobs-than-it-replaces-in-india-piyush-goyal20261015140614/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261015083856-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-10-15T08:36:14Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Europe largely higher but AI worry lingers",
+            "url": "https://www.marketscreener.com/news/europe-largely-higher-but-ai-worry-lingers-ce785dd3db8cf020",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-05-11T090122Z_1_LYNXNPEC4A0GI_RTROPTP_2_MARKETS-STOCKS-FTSE.JPG",
+            "publishedAt": "2026-10-15T08:18:36Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -3240,126 +3360,6 @@
             "url": "https://deadline.com/2026/10/joseph-gordon-levitt-artificial-intelligence-1237153993/",
             "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2259894120-e1791639808963.jpg?w=1024",
             "publishedAt": "2026-10-10T14:24:32Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "\"Must not bow our heads in face of bullying and unfair treatment\": Pezeshkian",
-            "url": "https://www.tribuneindia.com/news/world/must-not-bow-our-heads-in-face-of-bullying-and-unfair-treatment-pezeshkian/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI5Y2JkNzUwLWM0YjMtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-            "publishedAt": "2026-10-10T14:05:55Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "\"Must not bow our heads in face of bullying and unfair treatment\": Pezeshkian",
-            "url": "https://www.aninews.in/news/world/middle-east/must-not-bow-our-heads-in-face-of-bullying-and-unfair-treatment-pezeshkian20261010193306/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261010134711-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-10-10T14:03:06Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Hollywood takes aim at Zuckerberg, Musk and Altman over AI fears",
-            "url": "https://www.thenews.com.pk/latest/1419417-hollywood-takes-aim-at-zuckerberg-musk-and-altman-over-ai-fears",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-10-10/1419417_063446_updates.jpg",
-            "publishedAt": "2026-10-10T13:34:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Exclusive-Aiden Buzzetti: Don’t Let China Wire America’s Data Centers",
-            "url": "https://www.breitbart.com/tech/2026/10/10/exclusive-aiden-buzzetti-dont-let-china-wire-americas-data-centers/",
-            "urlToImage": "https://media.breitbart.com/media/2026/10/china-ai-chip-getty-640x335.png",
-            "publishedAt": "2026-10-10T12:00:13Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "Rob Cherry and Michelle Cheang: Hiring for tomorrow starts with reaching young people today",
-            "url": "https://triblive.com/opinion/rob-cherry-and-michelle-cheang-hiring-for-tomorrow-starts-with-reaching-young-people-today/",
-            "urlToImage": "https://assets-varnish.triblive.com/2026/10/10015710_web1_AP22291065311486.jpg",
-            "publishedAt": "2026-10-10T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites",
-            "url": "https://www.livemint.com/technology/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites-11791628683049.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
-            "publishedAt": "2026-10-10T10:38:02Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites",
-            "url": "https://www.tribuneindia.com/news/business/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZmZmJhZmEwLWM0OTYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-            "publishedAt": "2026-10-10T10:36:15Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites",
-            "url": "https://www.aninews.in/news/business/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites20261010160200/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261010102122-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-10-10T10:32:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "The Week in Breakingviews: For whom the bell rings",
-            "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-10-10/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/LR56A2JHYJMCFB3MJ6YMJY3XBU.jpg?auth=c1af3f34110775126d3a693d1da4a42f4b5ce4cf9a1772ec36b360e733a69d4a&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-10-10T10:00:33Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "A timeline of developments in AI safety since the attack on Hugging Face",
-            "url": "https://www.breitbart.com/news/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face-2/",
-            "urlToImage": "https://media.breitbart.com/media/2026/09/wi/ap/ai-conference-16571-ai-conference-ai-ceo-sam-altman-speaks-at-openai-devday-2026-conference-tuesday-640x335.jpg",
-            "publishedAt": "2026-10-10T09:45:51Z"
         }
     ]
 }
