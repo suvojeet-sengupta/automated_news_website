@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-10-16T05:21:42.433870Z",
+    "lastUpdatedAt": "2026-10-16T10:33:29.797536Z",
     "articles": [
+        {
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            },
+            "title": "New Amazon Bee Personal AI Devices Will Listen and Record You",
+            "url": "https://www.cnet.com/tech/mobile/amazon-bee-personal-ai-device-always-listening-and-recording-2/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Bee-Eclipse-phone-16x9-1.jpg",
+            "publishedAt": "2026-10-15T22:14:16Z"
+        },
+        {
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            },
+            "title": "Farm raising beef for tables around the world faces threat from data center construction",
+            "url": "https://www.koreatimes.co.kr/southkorea/20261016/farm-raising-beef-for-tables-around-the-world-faces-threat-from-data-center-construction",
+            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/10/06/0a11daf9-553a-42c1-a319-72f2a3c7b540.jpeg",
+            "publishedAt": "2026-10-15T22:05:04Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "‘AI lowers the capital needed’: India’s drug discovery push faces test of human trials",
+            "url": "https://www.channelnewsasia.com/asia/ai-lowers-capital-needed-indias-drug-discovery-push-faces-test-human-trials-6462176",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--vxjMcuNU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/15/indian_pharma_vaccine_-_afp.jpg?itok=lwq2nrs-",
+            "publishedAt": "2026-10-15T22:00:00Z"
+        },
+        {
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            },
+            "title": "New Amazon Bee Personal AI Devices Will Listen and Record You",
+            "url": "https://www.cnet.com/tech/mobile/amazon-bee-personal-ai-device-always-listening-and-recording/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Bee-Eclipse-phone-16x9-1.jpg",
+            "publishedAt": "2026-10-15T21:52:44Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Tech Down on AI Credit Fears -- Tech Roundup",
+            "url": "https://www.marketscreener.com/news/tech-down-on-ai-credit-fears-tech-roundup-ce785dd3d089f52d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-10-15T21:52:21Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Meta Releases Open-Weight Muse Spark Model For Coding, Agentic Tasks",
+            "url": "https://www.ndtv.com/artificial-intelligence/meta-releases-open-weight-muse-spark-model-for-coding-agentic-tasks-12192439",
+            "urlToImage": "https://c.ndtvimg.com/2025-01/biu6opgg_meta-generic_625x300_10_January_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-10-15T21:20:15Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
+            "url": "https://www.breitbart.com/news/states-sue-ai-giant-openai-saying-its-popular-chatbot-is-hurting-children-and-deceiving-adults/",
+            "urlToImage": "https://media.breitbart.com/media/2026/10/wi/ap/openai-lawsuit-244-openai-lawsuit-chat-gpt-app-icon-is-smartphone-screen-aug-2025-chicago-640x335.jpg",
+            "publishedAt": "2026-10-15T21:00:55Z"
+        },
+        {
+            "source": {
+                "id": "3f09ae62ee37a33ab191a698fec83f4b",
+                "name": "WEAU",
+                "url": "https://www.weau.com",
+                "country": "us"
+            },
+            "title": "States sue AI giant OpenAI, saying ChatGPT is hurting children and deceiving adults",
+            "url": "https://www.weau.com/2026/10/15/states-sue-ai-giant-openai-saying-chatgpt-is-hurting-children-deceiving-adults/",
+            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/5GK2MOHZLZHHRGERTURNE6WYRA.jpg?auth=ead6af567ec454d2825483dffe7e523d971131b1166f4c66d7d24453d7cf9e52&width=1200&height=600&smart=true",
+            "publishedAt": "2026-10-15T21:00:37Z"
+        },
+        {
+            "source": {
+                "id": "e7b4d14003cc89c64a689f1c38723ef5",
+                "name": "Live 5 News WCSC",
+                "url": "https://www.live5news.com",
+                "country": "us"
+            },
+            "title": "States sue AI giant OpenAI, saying ChatGPT is hurting children and deceiving adults",
+            "url": "https://www.live5news.com/2026/10/15/states-sue-ai-giant-openai-saying-chatgpt-is-hurting-children-deceiving-adults/",
+            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/5GK2MOHZLZHHRGERTURNE6WYRA.jpg?auth=ead6af567ec454d2825483dffe7e523d971131b1166f4c66d7d24453d7cf9e52&width=1200&height=600&smart=true",
+            "publishedAt": "2026-10-15T21:00:37Z"
+        },
+        {
+            "source": {
+                "id": "04c17c43a7507fac95fd9ba5d47715b5",
+                "name": "WIS10",
+                "url": "https://www.wistv.com",
+                "country": "us"
+            },
+            "title": "States sue AI giant OpenAI, saying ChatGPT is hurting children and deceiving adults",
+            "url": "https://www.wistv.com/2026/10/15/states-sue-ai-giant-openai-saying-chatgpt-is-hurting-children-deceiving-adults/",
+            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/5GK2MOHZLZHHRGERTURNE6WYRA.jpg?auth=ead6af567ec454d2825483dffe7e523d971131b1166f4c66d7d24453d7cf9e52&width=1200&height=600&smart=true",
+            "publishedAt": "2026-10-15T21:00:37Z"
+        },
         {
             "source": {
                 "id": "79e9a45376a66fd7e1a4e68bba928c39",
@@ -696,6 +816,33 @@
             "url": "https://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1012322",
             "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1012322.g006&size=inline",
             "publishedAt": "2026-10-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "ucsd"
+            },
+            "title": "Finding the Hidden Shape of Data: Prof. Yusu Wang",
+            "url": "https://today.ucsd.edu/story/finding-the-hidden-shape-of-data",
+            "urlToImage": "https://today.ucsd.edu/teaser_uploads/_social/YusuWang_new.png",
+            "publishedAt": "2026-10-15 20:38:30"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Regulation Should Target AI’s Current Harms, Not Superintelligence Possibilities",
+            "url": "https://us.headtopics.com/news/regulation-should-target-ai-s-current-harms-not-88855347",
+            "urlToImage": "https://i.headtopics.com/images/2026/10/15/truthout/regulation-should-target-ai-s-current-harms-not-regulation-should-target-ai-s-current-harms-not-7CAA3CE2C8887BE6C0E83FD2256925E3-16x9.webp",
+            "publishedAt": "2026-10-15 19:52:00"
+        },
+        {
+            "source": {
+                "name": "indianpharmapost"
+            },
+            "title": "India’s pharma tech leaders to convene at 15th Pharma IT Summit in Mumbai",
+            "url": "https://www.indianpharmapost.com/news/indias-pharma-tech-leaders-to-convene-at-15th-pharma-it-summit-in-mumbai-22168",
+            "urlToImage": "https://www.indianpharmapost.com/public/uploads/news/2026/10/22168/Pharma_Photo_PR.jpg",
+            "publishedAt": "2026-10-15 18:30:00"
         },
         {
             "source": {
@@ -3189,159 +3336,6 @@
             "url": "https://mitsloanindia.com/article/amazon-in-talks-to-buy-ai-startup-decart-for-7-billion-report-says",
             "urlToImage": "https://mitsloanindia.com/wp-content/uploads/2025/12/Merger.jpg",
             "publishedAt": "2026-10-12 06:05:24"
-        },
-        {
-            "source": {
-                "name": "techachievemedia"
-            },
-            "title": "Motorola Signature 27 Unveiled at Snapdragon Day, India Launch Expected Soon",
-            "url": "https://techachievemedia.com/latest-news/motorola-signature-27-unveiled-at-snapdragon-day-india-launch-expected-soon/",
-            "urlToImage": "https://techachievemedia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-12-at-11.12.01-3.jpeg",
-            "publishedAt": "2026-10-12 05:53:43"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Bill Gates warns AI-enabled cyberattacks will surge within a year",
-            "url": "https://www.foxnews.com/media/bill-gates-sounds-alarm-ai-powered-cyberattacks-warns-negative-surprises-within-year",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/gates-climate-change.jpg",
-            "publishedAt": "2026-10-11T18:51:45Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "DBS Chief sees overseas confidence in India despite capital outflow concerns",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/dbs-chief-sees-overseas-confidence-in-india-despite-capital-outflow-concerns/articleshow/134880062.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134876167,width-1200,height-900,imgsize-105722,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-10-11T18:31:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "DBS Chief sees overseas confidence in India despite capital outflow concerns",
-            "url": "https://economictimes.indiatimes.com/industry/banking/finance/dbs-chief-sees-overseas-confidence-in-india-despite-capital-outflow-concerns/articleshow/134876168.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134876167,width-1200,height-900,imgsize-105722,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-10-11T18:31:00Z"
-        },
-        {
-            "source": {
-                "id": "869aa6d4178b4cc8a4cd0af3276979c5",
-                "name": "TMZ",
-                "url": "https://www.tmz.com",
-                "country": "us"
-            },
-            "title": "Bill Gates Warns A.I. Is Most Dangerous Technology Ever, Wants Trump Meeting",
-            "url": "https://www.tmz.com/2026/10/11/bill-gates-warning-about-artificial-intelligence/",
-            "urlToImage": "https://imagez.tmz.com/image/01/16by9/2026/10/11/0120196b3e824157a84d2c2d817f620f_xl.png",
-            "publishedAt": "2026-10-11T18:15:07Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Canadian ransomware negotiator arrested on federal extortion charges amid FBI hacking probe",
-            "url": "https://www.europesays.com/3304499/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/10/1791742412.jpeg",
-            "publishedAt": "2026-10-11T18:13:29Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Nirmala Sitharaman holds talks with global financial leaders in Singapore, pitches for boosting investment in India",
-            "url": "https://economictimes.indiatimes.com/news/india/fm-holds-talks-with-global-financial-leaders-in-singapore-pitches-for-boosting-investment-in-india/articleshow/134874693.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-134874791,width-1200,height-900,imgsize-75296,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-10-11T17:27:00Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in",
-                "country": "in"
-            },
-            "title": "FM holds talks with global financial leaders in Singapore, pitches for boosting investment in India",
-            "url": "https://theprint.in/india/fm-holds-talks-with-global-financial-leaders-in-singapore-pitches-for-boosting-investment-in-india/3068743/",
-            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-            "publishedAt": "2026-10-11T17:18:14Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "There is no viable case for widespread generative AI access",
-            "url": "https://www.socialmediatoday.com/news/there-is-no-viable-case-for-widespread-generative-ai-access/832681/",
-            "urlToImage": "https://imgproxy.divecdn.com/xU0IgmFJ6LsVhBXcVdMKX0ZXTjTs0eVdNfRdXlk6CvA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0Mzg4NDgwX1ZDajFpZzguanBn.webp",
-            "publishedAt": "2026-10-11T16:42:04Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Preparing Filipino workers for the AI age",
-            "url": "https://www.manilatimes.net/2026/10/12/tmt-anniversary/preparing-filipino-workers-for-the-ai-age/2440824",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/10/07/1249899.jpg",
-            "publishedAt": "2026-10-11T16:13:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Pax Silica: A curse or a blessing?",
-            "url": "https://www.manilatimes.net/2026/10/12/tmt-anniversary/pax-silica-a-curse-or-a-blessing/2439972",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/10/06/1248202.jpg",
-            "publishedAt": "2026-10-11T16:08:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Khushbu Sundar slams AI misuse against women: ‘Try using AI to wrongly alter pictures of the women in your own homes’",
-            "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/khushbu-sundar-slams-ai-misuse-against-women-try-using-ai-to-wrongly-alter-pictures-of-the-women-in-your-own-homes/articleshow/134869772.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-134869776,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-10-11T11:38:00Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "AI, Nuclear War, Bioweapons May Trigger End Of Humanity By 2100: Report",
-            "url": "https://www.ndtv.com/world-news/ai-nuclear-war-bioweapons-may-trigger-end-of-humanity-by-2100-report-12169794",
-            "urlToImage": "https://i.ndtvimg.com/i/2016-05/nuclear-explosion-atom-bomb-generic_650x400_71462870420.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-10-11T11:22:32Z"
         }
     ]
 }
