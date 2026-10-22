@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-10-22T05:41:33.080261Z",
+    "lastUpdatedAt": "2026-10-22T11:02:17.879433Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "AI and jobs: The hot new topic for central bankers",
+            "url": "https://www.cnbc.com/2026/10/21/ai-and-jobs-why-central-bankers-are-paying-attention.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108440474-1792559189185-gettyimages-2267051635-porzycki-dailylif260320_npzKY.jpeg?v=1792559557&w=1920&h=1080",
+            "publishedAt": "2026-10-21T23:00:01Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Tech Up After SpaceX Earnings - Tech Roundup",
+            "url": "https://www.marketscreener.com/news/tech-up-after-spacex-earnings-tech-roundup-ce785cd9dc8af522",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-10-21T21:43:24Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Financials Up After Strong Earnings - Financials Roundup",
+            "url": "https://www.marketscreener.com/news/financials-up-after-strong-earnings-financials-roundup-ce785cd9dc8af62c",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-09-28T200946Z_1_LYNXNPEC8R1I8_RTROPTP_2_USA-STOCKS.JPG",
+            "publishedAt": "2026-10-21T21:42:38Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI identifies tumor aging patterns to predict immunotherapy response across multiple cancer types",
+            "url": "https://medicalxpress.com/news/2026-10-ai-tumor-aging-patterns-immunotherapy.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/ai-identifies-tumor-ag.jpg",
+            "publishedAt": "2026-10-21T21:40:22Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Walmart launches tools for AI agents to shop for customers",
+            "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/FNV7BWA2URPP7CUWSZPAGTU2AQ.jpg?auth=86b3f41341c84252369b29d6e50bfd18dd5d40b5d85b233f7490b8ec51392d48&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-10-21T21:14:06Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Stocks to Watch : Meta Platforms, Tesla, IBM, Lam Research",
+            "url": "https://www.marketscreener.com/news/stocks-to-watch-meta-platforms-tesla-ibm-lam-research-ce785cd9dc8cf12c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-10-21T21:07:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment",
+            "url": "https://www.marketscreener.com/news/nasdaq-leads-wall-street-gains-as-spacex-super-micro-boost-ai-sentiment-ce785cd9dd80f624",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-15T102808Z_1_LYNXMPEM9E0YI_RTROPTP_4_GLOBAL-MARKETS.JPG",
+            "publishedAt": "2026-10-21T20:39:10Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "IBM Q3 earnings report 2026",
+            "url": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108325138-1782164165730-gettyimages-2282302427-2282815859.jpeg?v=1792611121&w=1920&h=1080",
+            "publishedAt": "2026-10-21T20:28:53Z"
+        },
+        {
+            "source": {
+                "id": "2b5db686603d0197d748f18d2dc01aec",
+                "name": "Bloomberg Tax News",
+                "url": "https://news.bloombergtax.com",
+                "country": "us"
+            },
+            "title": "Meta Boosts Bet on AI With Spending Outlook, New Stock Class (1)",
+            "url": "https://news.bloombergtax.com/daily-tax-report/meta-boosts-bet-on-ai-with-spending-outlook-new-stock-class-1",
+            "urlToImage": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+            "publishedAt": "2026-10-21T20:22:23Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US stocks today: Nasdaq leads Wall Street higher as SpaceX, Super Micro lift AI sentiment",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-higher-as-spacex-super-micro-lift-ai-sentiment/articleshow/135100483.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-135100483,width-1200,height-900,imgsize-180348,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-10-21T20:15:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -480,6 +600,15 @@
             "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-opens-with-a-bang-issue-booked-over-90-as-qibs-drive-demand-check-gmp/articleshow/135082741.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-135082765,width-1200,height-900,imgsize-2865066,overlay-etmarkets/articleshow.jpg",
             "publishedAt": "2026-10-21T05:10:00Z"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "Is SpaceX a Buy After Its Monster Earnings Report?",
+            "url": "https://www.bundle.app/en/finance/is-spacex-a-buy-after-its-monster-earnings-report-9199C901-8181-52AD-9257-74F51D34011C",
+            "urlToImage": "https://static.bundle.app/news/334da1e2-eddf-5f3a-abff-cc8a1fa8a64e.jpg",
+            "publishedAt": "2026-10-21 19:07:28"
         },
         {
             "source": {
@@ -3228,138 +3357,6 @@
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/central-bankers-eye-higher-rates-as-ai-boom-fuels-scramble-for-cash/articleshow/135011870.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-77076,resizemode-75,msid-135011870/tech/artificial-intelligence/central-bankers-eye-higher-rates-as-ai-boom-fuels-scramble-for-cash.jpg",
             "publishedAt": "2026-10-17T10:34:29Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
-            "url": "https://www.livemint.com/technology/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley-11792231459245.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
-            "publishedAt": "2026-10-17T10:04:18Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
-            "url": "https://www.tribuneindia.com/news/business/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIwODA3NzYwLWNhMTEtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-            "publishedAt": "2026-10-17T10:01:07Z"
-        },
-        {
-            "source": {
-                "id": "d9acc08d8066fc3620da5e6b20b406ad",
-                "name": "Boulder Daily Camera",
-                "url": "https://www.dailycamera.com",
-                "country": "us"
-            },
-            "title": "AI’s risks are no reason for panic (Editorial)",
-            "url": "https://www.dailycamera.com/2026/10/17/openai-ai-risks-no-reason-panic/",
-            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2026/09/OpenAI_Government_Websites__4766_8b6e3a.jpg?w=2000&h=1333",
-            "publishedAt": "2026-10-17T10:00:30Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
-            "url": "https://www.aninews.in/news/business/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley20261017152759/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261017095132-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-10-17T09:57:59Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Rising borrowing costs signal funding risks for global AI expansion: Report",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-report/articleshow/135011447.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-74242,resizemode-75,msid-135011447/tech/artificial-intelligence/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-report.jpg",
-            "publishedAt": "2026-10-17T09:44:55Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Nvidia CEO Jensen Huang Shrugs Off AI Stock Market Crash, Says Technology's Long-Term Growth Remains Strong",
-            "url": "https://www.freepressjournal.in/topnews/nvidia-ceo-jensen-huang-shrugs-off-ai-stock-market-crash-says-technologys-long-term-growth-remains-strong",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2026-03-18/3ourvv13/14fe71594baa685f0e817d9b5291dad1.jpg",
-            "publishedAt": "2026-10-17T09:44:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Rising borrowing costs signal funding risks for global AI expansion: Report",
-            "url": "https://www.devdiscourse.com/article/business/3994089-rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-report",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_10_2026_15_06_51_2013165.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-10-17T09:36:54Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Rising borrowing costs signal funding risks for global AI expansion: Report",
-            "url": "https://www.tribuneindia.com/news/business/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-report/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMxZTRiMGUwLWNhMGUtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-            "publishedAt": "2026-10-17T09:36:07Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Rising borrowing costs signal funding risks for global AI expansion: Report",
-            "url": "https://www.aninews.in/news/business/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-report20261017150243/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261017092638-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-10-17T09:32:43Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Not just Amazon, top banks across America are also 'banning' AI agents from accessing customer accounts",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/not-just-amazon-top-banks-across-america-are-also-banning-ai-agents-from-accessing-customer-accounts/articleshow/135011085.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-135011093,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-10-17T09:21:00Z"
-        },
-        {
-            "source": {
-                "id": "eba2f6a49db29efc8343807ba675665f",
-                "name": "NewsBytes",
-                "url": "https://www.newsbytesapp.com",
-                "country": "in"
-            },
-            "title": "AI risks could outweigh benefits, need ethical framework: IMF chief",
-            "url": "https://www.newsbytesapp.com/news/business/imf-chief-is-worried-about-ai-risks/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l46420261017124550.jpeg",
-            "publishedAt": "2026-10-17T07:40:13Z"
         }
     ]
 }
