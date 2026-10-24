@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-10-24T00:12:08.293094Z",
+    "lastUpdatedAt": "2026-10-24T05:19:14.444286Z",
     "articles": [
+        {
+            "source": {
+                "id": "ceee1b7ca6044e41fdbb011eb325f73d",
+                "name": "Bleacher Report",
+                "url": "https://bleacherreport.com",
+                "country": "us"
+            },
+            "title": "Steve Sarkisian, Texas Used New AI Platform 'Bevo Lab' for Crucial 4th Down Decision vs. Florida",
+            "url": "https://bleacherreport.com/articles/25519396-steve-sarkisian-texas-used-new-ai-platform-bevo-lab-crucial-4th-down-decision-vs-florida",
+            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2301054841_large_cropped.jpg?w=1120&h=630",
+            "publishedAt": "2026-10-23T17:16:47Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Barclays is latest to redirect spending toward AI as it trims its workforce",
+            "url": "https://www.breitbart.com/news/barclays-is-latest-to-redirect-spending-toward-ai-as-it-trims-its-workforce/",
+            "urlToImage": "https://media.breitbart.com/media/2026/10/wi/ap/ai-layoffs-3528-ai-layoffs-people-attend-showcase-event-of-company-ai-assistant-copilot-of-640x335.jpg",
+            "publishedAt": "2026-10-23T17:15:41Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Who Gets a Say When AI Runs the Workplace? ILO Puts Workers' Rights Under the Spotlight",
+            "url": "https://www.devdiscourse.com/article/technology/3996941-who-gets-a-say-when-ai-runs-the-workplace-ilo-puts-workers-rights-under-the-spotlight",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/23_10_2026_14_59_25_1808709.png&width=920&format=jpeg",
+            "publishedAt": "2026-10-23T17:11:15Z"
+        },
+        {
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            },
+            "title": "Fastenal, Stock Of The Day, Goes From Nuts And Bolts To Artificial Intelligence",
+            "url": "https://www.investors.com/research/ibd-stock-of-the-day/fastenal-stock-ai-data-centers/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2026/10/sotd-for-10-23-2026-desktop.png",
+            "publishedAt": "2026-10-23T16:55:49Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Infosys caps dull second quarter for Indian IT",
+            "url": "https://www.livemint.com/companies/company-results/infosys-caps-dull-second-quarter-for-indian-it-11792759961165.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2026/10/23/1600x900/logo/INDIA-ECONOMY-IT-INFOSYS-Q2-RESULTS-5_176665460412_1792767590761_Jvpq_1792767590906_xemR_f46abb8b-8c66-45ff-83e9-5d0731856664_0mYc.jpg",
+            "publishedAt": "2026-10-23T16:28:31Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "EU, PH launch AI lab to boost productivity",
+            "url": "https://www.manilatimes.net/2026/10/24/business/top-business/eu-ph-launch-ai-lab-to-boost-productivity/2453022",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/10/24/1274430.jpg",
+            "publishedAt": "2026-10-23T16:11:00Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Barclays is latest to redirect spending toward AI as it trims its workforce",
+            "url": "https://wtop.com/national/2026/10/layoffs-linked-to-changes-in-corporate-ai-spending/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/10/AI-Related-Layoffs_3528_-scaled.jpg",
+            "publishedAt": "2026-10-23T16:09:56Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "FTSE 100 slips as oil price hits five-month high",
+            "url": "https://www.marketscreener.com/news/ftse-100-slips-as-oil-price-hits-five-month-high-ce785cdfdd8bf724",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-01-17T104232Z_1_LYNXMPED0G0MX_RTROPTP_2_BRITAIN-EU-BOE-DECISION.JPG",
+            "publishedAt": "2026-10-23T16:09:43Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Layoffs linked to changes in corporate AI spending",
+            "url": "https://www.clickondetroit.com/business/2026/10/23/layoffs-linked-to-changes-in-corporate-ai-spending/",
+            "urlToImage": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/IKKQG5HM65FOBKII2T45AKEW2E.jpg?api_key=clickondetroit_06f87fefb2123598",
+            "publishedAt": "2026-10-23T16:05:04Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Layoffs Linked to Changes in Corporate AI Spending",
+            "url": "https://www.usnews.com/news/technology/articles/2026-10-23/layoffs-linked-to-changes-in-corporate-ai-spending",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/268762e/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ff2%2Fa11fb6ba28e0a51661a6b8d272a310%2Fc34bba5fae2545d8bd43840104ebaca8AI-Related-Layoffs_3528_.jpg",
+            "publishedAt": "2026-10-23T16:05:00Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -480,6 +600,78 @@
             "url": "https://indianexpress.com/article/opinion/editorials/ai-written-books-literary-awards-10932899/",
             "urlToImage": "https://images.indianexpress.com/2026/10/Express-view-Copy-3-15.jpeg",
             "publishedAt": "2026-10-23T00:45:20Z"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+            "url": "https://www.bundle.app/en/finance/experts-cast-doubt-on-anthropic-report-detailing-how-ai-has-altered-work-at-the-company-5A575892-8ABD-5E9B-8B56-99A944FB5E22",
+            "urlToImage": "https://static.bundle.app/news/fbf66efe-9037-5935-9b9a-beb827dda56f.jpg",
+            "publishedAt": "2026-10-23 17:08:09"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Q&A: How AI came to model the 'messy' human mind",
+            "url": "https://techxplore.com/news/2026-10-qa-ai-messy-human-mind.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-hallucination-1.jpg",
+            "publishedAt": "2026-10-23 16:30:01"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The High-Stakes Paddock: Why Enterprise Giants Are Gathering in Austin to Tame Agentic AI",
+            "url": "https://hackernoon.com/the-high-stakes-paddock-why-enterprise-giants-are-gathering-in-austin-to-tame-agentic-ai",
+            "urlToImage": "https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-gm83jgt.jpeg",
+            "publishedAt": "2026-10-23 16:19:10"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Manipal University Jaipur Hosts Second International Conference On AI And Computing Researchers From 16 Countries Participate",
+            "url": "https://menafn.com/1111856548/Manipal-University-Jaipur-Hosts-Second-International-Conference-On-AI-And-Computing-Researchers-From-16-Countries-Participate",
+            "urlToImage": "https://menafn.com/images/Menafn_SmallLogo.jpg",
+            "publishedAt": "2026-10-23 14:03:44"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "500 Blog Posts To Learn About Hackernoon Vi",
+            "url": "https://hackernoon.com/500-blog-posts-to-learn-about-hackernoon-vi",
+            "urlToImage": "https://cdn.hackernoon.com/images/github/hackernoon-vi-100.png",
+            "publishedAt": "2026-10-23 14:02:13"
+        },
+        {
+            "source": {
+                "name": "theguardian"
+            },
+            "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+            "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+            "urlToImage": "https://i.guim.co.uk/img/media/7f1d891b55886b1bfb45b0cdd3e7df3e842cbdce/0_31_3364_2691/master/3364.jpg?width=140&quality=85&auto=format&fit=max&s=52de23b160d36f35c5482fa021f2448e",
+            "publishedAt": "2026-10-23 14:00:28"
+        },
+        {
+            "source": {
+                "name": "quartz"
+            },
+            "title": "The countries where the most people use AI, ranked",
+            "url": "https://qz.com/ai-adoption-by-country-2026",
+            "urlToImage": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/ai-apps-folder-smartphone-NOrCov89Xm0-unsplash.jpg",
+            "publishedAt": "2026-10-23 13:46:36"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Business News | Manipal University Jaipur Hosts Second International Conference on AI and Computing; Researchers from 16 Countries Participate",
+            "url": "https://www.latestly.com/agency-news/business-news-manipal-university-jaipur-hosts-second-international-conference-on-ai-and-computing-researchers-from-16-countries-participate-7654788.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/10/ANI-20261023122801.jpg",
+            "publishedAt": "2026-10-23 13:42:24"
         },
         {
             "source": {
@@ -3141,222 +3333,6 @@
             "url": "https://www.sandiegouniontribune.com/2026/10/19/servicenow-cuts-san-diego-sales-jobs-in-third-round-of-layoffs-this-year/",
             "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/10/SUT-L-SERVICENOW-4.jpg?w=1632&h=976",
             "publishedAt": "2026-10-19T18:55:02Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "US orders immediate removal of DeepSeek AI from federal systems over national security risks",
-            "url": "https://www.thenews.com.pk/latest/1420568-us-orders-immediate-removal-of-deepseek-ai-from-federal-systems-over-national-security-risks",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-10-19/1420568_115007_updates.jpg",
-            "publishedAt": "2026-10-19T18:50:00Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "Pinterest adds Barbie pink to Restyle",
-            "url": "https://www.socialmediatoday.com/news/pinterest-adds-barbie-pink-to-restyle/833419/",
-            "urlToImage": "https://imgproxy.divecdn.com/1TAwKi60bk6ZxT2gu0xFmaM4VEZouTxenOF-Tt9i4vc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfeF9iYXJiaWVfMS5wbmc=.webp",
-            "publishedAt": "2026-10-19T18:36:37Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "ASML's Fiscal Q3 Results Show AI Infrastructure Demand Strengthening, Citrini Research Says",
-            "url": "https://www.marketscreener.com/news/asml-s-fiscal-q3-results-show-ai-infrastructure-demand-strengthening-citrini-research-says-ce785cdbdc8af623",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-10-19T18:23:22Z"
-        },
-        {
-            "source": {
-                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-                "name": "Social Media Today",
-                "url": "https://www.socialmediatoday.com",
-                "country": "us"
-            },
-            "title": "Instagram chief says stronger AI slop prevention is needed",
-            "url": "https://www.socialmediatoday.com/news/instagram-chief-says-stronger-ai-slop-prevention-is-needed/833416/",
-            "urlToImage": "https://imgproxy.divecdn.com/xYKhDbY0emAyzw8_Rxx_HELslVWhWdnAo05B16beD0g/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbnN0YV9sb2dvX3VwZGF0ZS5wbmc=.webp",
-            "publishedAt": "2026-10-19T18:02:00Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Jump and FMG Link Platforms to Boost Advisor Follow",
-            "url": "https://www.europesays.com/3320108/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/10/1792431019.jpeg",
-            "publishedAt": "2026-10-19T17:30:17Z"
-        },
-        {
-            "source": {
-                "id": "8de9e028dd6b2658274a9cdbe23fd378",
-                "name": "Kalispell Inter Lake",
-                "url": "https://dailyinterlake.com",
-                "country": "us"
-            },
-            "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
-            "url": "https://dailyinterlake.com/news/2026/oct/19/consumer-apprehension-grows-as-us-retailers-adopt-ai-assisted-pricing-tools/",
-            "urlToImage": "https://hagadone.media.clients.ellingtoncms.com/img/photos/2026/10/19/AP26290814001366_jbjOMlF_r1200x630.jpg?b7d505e466ff31ef2a911eceee85296b69915698",
-            "publishedAt": "2026-10-19T17:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI agents can pose insider security risks even without being hacked: Microsoft",
-            "url": "https://www.tribuneindia.com/news/business/ai-agents-can-pose-insider-security-risks-even-without-being-hacked-microsoft/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE3NTY1MWUwLWNiZGQtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5wbmc=",
-            "publishedAt": "2026-10-19T16:49:38Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AI agents can pose insider security risks even without being hacked: Microsoft",
-            "url": "https://www.livemint.com/technology/ai-agents-can-pose-insider-security-risks-even-without-being-hacked-microsoft-11792428341042.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
-            "publishedAt": "2026-10-19T16:45:40Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI agents can pose insider security risks even without being hacked: Microsoft",
-            "url": "https://www.devdiscourse.com/article/business/3994892-ai-agents-can-pose-insider-security-risks-even-without-being-hacked-microsoft",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/19_10_2026_22_14_53_122593.png&width=920&format=jpeg",
-            "publishedAt": "2026-10-19T16:44:55Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Why this bull market is unlike any we've seen before",
-            "url": "https://www.cnbc.com/2026/10/19/sp-500-bull-market-four-year-streak.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108323409-1781720878679-gettyimages-2281457845-WARSH_FOMC_NYSE.jpeg?v=1781720917&w=1920&h=1080",
-            "publishedAt": "2026-10-19T13:28:34Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Space, tech, and people-to-people ties to highlight Polish PM Donald Tusk's India visit: Envoy Piotr Antoni Świtalski",
-            "url": "https://www.devdiscourse.com/article/international/3994786-space-tech-and-people-to-people-ties-to-highlight-polish-pm-donald-tusks-india-visit-envoy-piotr-antoni-witalski",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/19_10_2026_18_43_01_9600941.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-10-19T13:13:06Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "people ties to highlight Polish PM Donald Tusk's India visit: Envoy Piotr Antoni Świtalski",
-            "url": "https://www.tribuneindia.com/news/world/space-tech-and-people-to-people-ties-to-highlight-polish-pm-donald-tusks-india-visit-envoy-piotr-antoni-switalski/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ5Y2I0OGMwLWNiYmUtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-            "publishedAt": "2026-10-19T13:09:09Z"
-        },
-        {
-            "source": {
-                "id": "0efa652ad857b0970d5f941368f29ba0",
-                "name": "DefenseNews.com",
-                "url": "https://www.defensenews.com",
-                "country": "us"
-            },
-            "title": "US Army Cyber Command charts course for human-AI equilibrium",
-            "url": "https://www.defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium/",
-            "urlToImage": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/NVRELBJBZVA3TERV4VRBUM32O4.jpg?width=1200&auth=38d2da6820f6fead3455bb3b905755ac15d3ccefd6c59e626d3dcd2dedb657bb",
-            "publishedAt": "2026-10-19T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Stock Futures Rise as Investors Make Cautious Return to Risk -- Update",
-            "url": "https://www.marketscreener.com/news/stock-futures-rise-as-investors-make-cautious-return-to-risk-update-ce785cdbdb81f42d",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-01-13T193745Z_1006950001_LYNXMPED0C16X_RTROPTP_2_CBUSINESS-US-GLOBAL-MARKETS.JPG",
-            "publishedAt": "2026-10-19T12:42:49Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "A California developer proposed a nearly 1 million-square-foot AI data centre beside homes, promising 1,600 construction jobs; residents fought back, and a judge has now required a full environmental",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/a-california-developer-proposed-a-nearly-1-million-square-foot-ai-data-centre-beside-homes-promising-1600-construction-jobs-residents-fought-back-and-a-judge-has-now-required-a-full-environmental-review/articleshow/135049227.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-135049241,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-10-19T12:42:00Z"
-        },
-        {
-            "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
-                "country": "in"
-            },
-            "title": "Elon Musk pledges a share of his SpaceX company to 'every kid in America'",
-            "url": "https://www.newindianexpress.com/business/2026/Oct/19/elon-musk-pledges-a-share-of-his-spacex-company-to-every-kid-in-america",
-            "urlToImage": "https://cf-images.assettype.com/newindianexpress%2F2026-10-19%2Fdhcrkn8h%2FAP26285585160174.jpg?rect=0%2C0%2C4398%2C2309&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-10-19T12:37:46Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Microsoft exits UK’s largest AI data centre project over power supply concerns",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-exits-uks-largest-ai-data-centre-project-over-power-supply-concerns/articleshow/135048576.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-135048642,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-10-19T12:17:00Z"
-        },
-        {
-            "source": {
-                "id": "1e4cbb871b871f67ec707e4362224d42",
-                "name": "World Health Organization (WHO)",
-                "url": "https://www.who.int",
-                "country": "ch"
-            },
-            "title": "Traditional medicine, resilience and well-being at World Health Summit 2026",
-            "url": "https://www.who.int/news/item/19-10-2026-traditional-medicine--resilience-and-well-being-at-world-health-summit-2026",
-            "urlToImage": "https://cdn.who.int/media/images/default-source/headquarters/initiatives/global-centre-for-traditional-medicine/ghana-traditional-medicine-herbal-medicine-mixing-plants416ee2c0-3b73-446b-bda6-0b09127afed7.tmb-1200v.jpg?sfvrsn=a8426596_1",
-            "publishedAt": "2026-10-19T12:00:00Z"
         }
     ]
 }
