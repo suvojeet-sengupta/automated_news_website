@@ -1,6 +1,87 @@
 {
-    "lastUpdatedAt": "2026-10-24T10:10:32.175116Z",
+    "lastUpdatedAt": "2026-10-24T14:12:12.687298Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Nuclear power could more than triple by 2060, UN agency says",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/nuclear-power-could-more-than-triple-by-2060-un-agency-says/articleshow/135159329.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-135159394,width-1200,height-900,imgsize-113166,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-10-24T01:03:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "UK government sets out $800 million of AI security funding",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/24/uk-government-sets-out-800-million-of-ai-security-funding",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/10/24/4178466.jpg",
+            "publishedAt": "2026-10-24T00:48:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Shalaan Umar is America’s Top Young Innovator 2026 as Young Inventors Earn Global Recognition for Breakthrough Innovations",
+            "url": "https://www.manilatimes.net/2026/10/24/tmt-newswire/globenewswire/shalaan-umar-is-americas-top-young-innovator-2026-as-young-inventors-earn-global-recognition-for-breakthrough-innovations/2453137",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/10/24/1274615.png",
+            "publishedAt": "2026-10-24T00:47:46Z"
+        },
+        {
+            "source": {
+                "name": "springer"
+            },
+            "title": "ADBrainNet: a deep neural network for Autism Spectrum Disorder (ASD) and Attention Deficit and Hyperactivity Disorder (ADHD) classification using resting-state fMRI images based on explainable artificial intelligence",
+            "url": "https://link.springer.com/article/10.1007/s11517-026-03530-2",
+            "urlToImage": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs11517-026-03530-2/MediaObjects/11517_2026_3530_Figa_HTML.png",
+            "publishedAt": "2026-10-24 00:00:00"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "UK government sets out $800 million of AI security funding",
+            "url": "https://www.marketscreener.com/news/uk-government-sets-out-800-million-of-ai-security-funding-ce785cdfdc81f326",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-23T230317Z_1_LYNXMPEM9M1Y2_RTROPTP_4_TECH-AI.JPG",
+            "publishedAt": "2026-10-23T23:02:44Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "A timeline of developments in AI safety since the attack on Hugging Face",
+            "url": "https://wtop.com/national/2026/10/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face-2/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/09/Open_AI_Conference_16571-scaled.jpg",
+            "publishedAt": "2026-10-23T22:44:16Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "Deciding with fake images: More candidates are using AI in political ads to get your vote",
+            "url": "https://www.nbcnews.com/tech/tech-news/deciding-fake-images-candidates-are-using-ai-political-ads-get-vote-rcna605243",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261023-ai-political-ads-ww-1412-867c9d.jpg",
+            "publishedAt": "2026-10-23T22:10:40Z"
+        },
         {
             "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
@@ -720,6 +801,15 @@
             "url": "https://indianexpress.com/article/opinion/editorials/ai-written-books-literary-awards-10932899/",
             "urlToImage": "https://images.indianexpress.com/2026/10/Express-view-Copy-3-15.jpeg",
             "publishedAt": "2026-10-23T00:45:20Z"
+        },
+        {
+            "source": {
+                "name": "bundle_app"
+            },
+            "title": "The High-Stakes Paddock: Why Enterprise Giants Are Gathering in Austin to Tame Agentic AI",
+            "url": "https://www.bundle.app/en/technology/the-high-stakes-paddock-why-enterprise-giants-are-gathering-in-austin-to-tame-agentic-ai-BE209B4C-422D-5E21-A01F-D3D24B441423",
+            "urlToImage": "https://static.bundle.app/news/1ca1efe8-1577-58c2-91df-73bdbe369fe0.jpg",
+            "publishedAt": "2026-10-23 23:02:41"
         },
         {
             "source": {
@@ -3276,78 +3366,6 @@
             "url": "https://hackernoon.com/500-blog-posts-to-learn-about-hackernoon-hi",
             "urlToImage": "https://cdn.hackernoon.com/images/github/hackernoon-hi-962.png",
             "publishedAt": "2026-10-20 20:02:42"
-        },
-        {
-            "source": {
-                "name": "morningstar_com"
-            },
-            "title": "The Best AI Stocks to Buy Now",
-            "url": "https://www.morningstar.com/stocks/best-ai-stocks-buy-now",
-            "urlToImage": "https://media.morningstar.com/resizer/v2/MJ3FSXZXVFDYPHHGXT7LMKSZD4.png?auth=f0627bb4be6cf5be15df15e2979d98bf47c7c1869ed355e423d6f5495eb2cfc1&smart=true&height=500",
-            "publishedAt": "2026-10-20 19:16:40"
-        },
-        {
-            "source": {
-                "name": "krdo"
-            },
-            "title": "Tech companies need more data centers. So why are nearly half of all planned projects delayed or canceled?",
-            "url": "https://krdo.com/stacker-technology/2026/10/20/tech-companies-need-more-data-centers-so-why-are-nearly-half-of-all-planned-projects-delayed-or-canceled/",
-            "urlToImage": "https://krdo.com/wp-content/uploads/2026/10/ProLift-Tech-companies-need-more-data-centers.jpg",
-            "publishedAt": "2026-10-20 17:49:52"
-        },
-        {
-            "source": {
-                "name": "cnbc"
-            },
-            "title": "What Amazon must do to get its stumbling stock back to record highs and beyond",
-            "url": "https://www.cnbc.com/investingclub/2026/10/20/what-amazon-must-do-to-get-its-stumbling-stock-back-to-record-highs-and-beyond.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217788-1761657947456-gettyimages-2201505685-ALEXA_AI_UNVEILING.jpeg?v=1770336524&w=1200&h=675",
-            "publishedAt": "2026-10-20 16:49:28"
-        },
-        {
-            "source": {
-                "name": "financialexpress"
-            },
-            "title": "Bridging AI’s chasm",
-            "url": "https://www.financialexpress.com/opinion/bridging-ais-chasm/4365675/",
-            "urlToImage": "https://images.financialexpressdigital.com/2026/10/ArtificialIntelligenceReuters_20260909184405_20260910160556_20260920191418_20261004180015_20261020164132.jpg",
-            "publishedAt": "2026-10-20 16:43:00"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "500 Blog Posts To Learn About Hackernoon Fr",
-            "url": "https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-hackernoon-fr-219B3D43-E016-573A-939F-A28D1C053199",
-            "urlToImage": "https://static.bundle.app/news/7382d6c7-da37-5b19-91cd-d8d9f39f663f.jpg",
-            "publishedAt": "2026-10-20 16:31:32"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "AGI Is Almost Ready. Is Your Portfolio?",
-            "url": "https://www.bundle.app/en/finance/agi-is-almost-ready-is-your-portfolio-8722F36B-CF30-53EB-B755-53AAB185CD37",
-            "urlToImage": "https://static.bundle.app/news/0bc0c7d5-7261-585d-adf2-2db5b526f075.jpg",
-            "publishedAt": "2026-10-20 16:07:29"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "500 Blog Posts To Learn About Hackernoon Fr",
-            "url": "https://hackernoon.com/500-blog-posts-to-learn-about-hackernoon-fr",
-            "urlToImage": "https://cdn.hackernoon.com/images/github/hackernoon-fr-642.png",
-            "publishedAt": "2026-10-20 14:02:03"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "The Lucy AI Studio brings AI agents, local models, and private storage together",
-            "url": "https://www.xda-developers.com/cephalon-lucy-ai-studio/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/image3-1.jpg",
-            "publishedAt": "2026-10-20 14:00:04"
         }
     ]
 }
