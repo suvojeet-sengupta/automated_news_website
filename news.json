@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-10-28T00:55:13.625117Z",
+    "lastUpdatedAt": "2026-10-28T06:34:16.535109Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Australian book publishing in 'crisis' over rise of AI",
+            "url": "https://www.abc.net.au/news/2026-10-28/can-australian-publishing-survive-rise-of-ai/107251850",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0a4aa2cdb2db411aea1d5b35f6dfe711?impolicy=wcms_watermark_news&cropH=2755&cropW=4897&xPos=0&yPos=138&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-10-27T18:30:00Z"
+        },
+        {
+            "source": {
+                "id": "88e222cab209b86d787c4fdccf161c76",
+                "name": "The Spectator",
+                "url": "https://spectator.com",
+                "country": "gb"
+            },
+            "title": "Did Liz Truss use AI for her new book?",
+            "url": "https://spectator.com/article/did-liz-truss-use-ai-for-her-new-book/",
+            "urlToImage": "https://spectator.com/wp-content/uploads/2026/10/gettyimages-2301318776-594x594-1.jpg",
+            "publishedAt": "2026-10-27T18:22:14Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "'Ban The Term AI': Trump Vows To Strike 'Artificial Intelligence' From Govt Records, Demands Switch To 'SI'",
+            "url": "https://www.ndtvprofit.com/technology/ban-the-term-ai-trump-vows-to-strike-artificial-intelligence-from-govt-records-demands-switch-to-si-12245220",
+            "urlToImage": "https://c.ndtvimg.com/2026-10/na9gbs7s_artificial-intelligence_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-10-27T18:13:49Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Google DeepMind launches Genie 4, CEO Sundar Pichai calls it ‘our most realistic and interactive world model’",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-deepmind-launches-genie-4-ceo-sundar-pichai-calls-it-our-most-realistic-and-interactive-world-model/articleshow/135243519.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-135243589,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-27T18:13:00Z"
+        },
+        {
+            "source": {
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
+                "country": "us"
+            },
+            "title": "SSA Commissioner Frank Bisignano says fraud fix protects Social Security",
+            "url": "https://www.foxbusiness.com/media/social-security-chief-reveals-first-solution-program-faces-funding-concerns",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/social-security-frank-bisignano.png?ve=1&tl=1",
+            "publishedAt": "2026-10-27T18:12:22Z"
+        },
+        {
+            "source": {
+                "id": "35372d3d4abe03d569103d13af4c47ad",
+                "name": "Green Bay Press-Gazette",
+                "url": "https://www.greenbaypressgazette.com",
+                "country": "us"
+            },
+            "title": "How three possible UW system presidents would tackle enrollment, AI",
+            "url": "https://www.greenbaypressgazette.com/story/news/education/2026/10/27/at-public-forums-uw-system-president-finalists-share-visions-for-job/92442759007/",
+            "urlToImage": "https://www.greenbaypressgazette.com/gcdn/authoring/authoring-images/2025/09/29/PMJS/86419886007-mjs-bucky-badger-filer.jpg?crop=4028,2267,x0,y39&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2026-10-27T18:10:16Z"
+        },
+        {
+            "source": {
+                "id": "9290338c23f31e3f547a2dbfa1c52c03",
+                "name": "Scientific American",
+                "url": "https://www.scientificamerican.com",
+                "country": "us"
+            },
+            "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
+            "url": "https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem/",
+            "urlToImage": "https://static.scientificamerican.com/dam/asset/be949c97-6aba-446d-bd3a-f2e111fa9566/Quantum-AI-math-blob.jpeg?m=1793125613.1&w=1200",
+            "publishedAt": "2026-10-27T18:10:00Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "U.P. approves robotics park and AI hub in Greater Noida",
+            "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-approves-robotics-park-and-ai-hub-in-greater-noida/article71632226.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/jj3r1w/article71633139.ece/alternates/LANDSCAPE_1200/20261026563L.jpg",
+            "publishedAt": "2026-10-27T18:00:52Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI kids need adult eyes in the lab",
+            "url": "https://economictimes.indiatimes.com/opinion/et-editorial/ai-kids-need-adult-eyes-in-the-lab/articleshow/135243191.cms",
+            "urlToImage": "https://img.etimg.com/photo/42031747.cms",
+            "publishedAt": "2026-10-27T17:59:50Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Donald Trump Announces Plan To Ban 'Artificial Intelligence' Term In Federal Documents, Replace It With 'Super Intelligence'",
+            "url": "https://www.freepressjournal.in/tech/donald-trump-announces-plan-to-ban-artificial-intelligence-term-in-federal-documents-replace-it-with-super-intelligence",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2026-10-27/aq6htfns/nCLL-Vrk.jpeg",
+            "publishedAt": "2026-10-27T17:47:39Z"
+        },
         {
             "source": {
                 "id": "2492bcb79914b2ce3d9867453dae22ac",
@@ -360,6 +480,69 @@
             "url": "https://www.ajc.com/news/2026/10/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
             "urlToImage": "https://images.ajc.com/resizer/v2/6RGHVQGVXJEXFPYLWUL3EWSOGI.jpg?auth=89a6805c3fe529493d3eb0fa24ae6c43d3e74ea31a11f6d11b2415d7f2fef31b&width=1200&height=630&smart=true",
             "publishedAt": "2026-10-27T04:02:32Z"
+        },
+        {
+            "source": {
+                "name": "nvdaily"
+            },
+            "title": "HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and More",
+            "url": "https://www.nvdaily.com/associated_press_national/hitpaw-vikpea-v6-0-0-update-unveils-ai-enhancement-agent-gemini-omni-integration-and-more/article_77d575a4-8e5c-5802-b998-cc1f5d13295c.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/a/e4/ae452a8a-cbdf-5dd1-b9ee-3e42b0885f33/6ae0cebbd4bee.image.jpg?resize=300%2C225",
+            "publishedAt": "2026-10-27 16:08:13"
+        },
+        {
+            "source": {
+                "name": "yourvalley_net"
+            },
+            "title": "HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and More",
+            "url": "https://www.yourvalley.net/stories/hitpaw-vikpea-v600-update-unveils-ai-enhancement-agent-gemini-omni-integration-and-more,735384",
+            "urlToImage": "https://mapi.associatedpress.com/v2/items/b607a4b08abdd07a68ceacd5b2d79c16.0/preview/preview.jpg?nfe=true&wm=false&app=MPK&tag=iid~b607a4b08abdd07a68ceacd5b2d79c16!rsn~0!cid~459e02d54a30481ab7142f7f8e271278!orgId~46611!qt~0mjbtbK_1eI!orgNm~Daily%20Independent%20News%20-%20Sun%20(API%20Production%20Key)!role~Preview!mt~photo!fmt~JPEG%20Baseline",
+            "publishedAt": "2026-10-27 16:08:13"
+        },
+        {
+            "source": {
+                "name": "timesargus"
+            },
+            "title": "HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and More",
+            "url": "https://www.timesargus.com/news/national/hitpaw-vikpea-v6-0-0-update-unveils-ai-enhancement-agent-gemini-omni-integration-and-more/article_a0f4d62b-008e-5db4-910c-79498604654d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/timesargus.com/content/tncms/assets/v3/editorial/d/7f/d7fab925-f97b-57a8-9533-c0088b26f352/6ae0ce9068eaa.image.jpg?resize=300%2C225",
+            "publishedAt": "2026-10-27 16:08:13"
+        },
+        {
+            "source": {
+                "name": "mankatofreepress"
+            },
+            "title": "HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and More",
+            "url": "https://www.mankatofreepress.com/news/state_national_news/hitpaw-vikpea-v6-0-0-update-unveils-ai-enhancement-agent-gemini-omni-integration-and-more/article_320d28f7-f9c1-5172-99ae-39c58395d179.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/0/26/02601ed2-a297-58bc-b42e-974a86c94d98/6ae0cd1da053b.image.jpg?resize=300%2C225",
+            "publishedAt": "2026-10-27 16:08:13"
+        },
+        {
+            "source": {
+                "name": "santamariatimes"
+            },
+            "title": "HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and More",
+            "url": "https://santamariatimes.com/ap/national/hitpaw-vikpea-v6-0-0-update-unveils-ai-enhancement-agent-gemini-omni-integration-and-more/article_07be4de4-99fd-5b68-90a3-1a9e6f7526b4.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/5/fe/5fe9ced7-5616-5930-844c-81dfe22b835b/6ae0cfad0a6c1.image.jpg?resize=300%2C225",
+            "publishedAt": "2026-10-27 16:08:13"
+        },
+        {
+            "source": {
+                "name": "send2press"
+            },
+            "title": "HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and More",
+            "url": "https://www.send2press.com/wire/hitpaw-vikpea-v6-0-0-update-unveils-ai-enhancement-agent-gemini-omni-integration-and-more/",
+            "urlToImage": "https://www.send2press.com/wire/images/26-1027-s2p-hitpaw-vikpea-800x600.jpg",
+            "publishedAt": "2026-10-27 16:05:53"
+        },
+        {
+            "source": {
+                "name": "quartz"
+            },
+            "title": "The most game-changing inventions of 2026, according to TIME",
+            "url": "https://qz.com/inventions-time-2026-list",
+            "urlToImage": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/quartz-run-1152-hero-0-8843.jpg",
+            "publishedAt": "2026-10-27 14:41:47"
         },
         {
             "source": {
@@ -3189,210 +3372,6 @@
             "url": "https://www.thestar.com.my/business/business-news/2026/10/23/ringgit-ends-easier-vs-us-dollar-amid-ai-related-share-price-concerns",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/10/23/4177575.jpg",
             "publishedAt": "2026-10-23T11:06:00Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Appeals court rips federal judge over AI errors in Mississippi DEI law ruling",
-            "url": "https://www.foxnews.com/live-news/ai-hallucination-appeals-court-mississippi-dei-law",
-            "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/c9507c0650a746472fc51bb301bbbb55.jpg",
-            "publishedAt": "2026-10-23T11:03:36Z"
-        },
-        {
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            },
-            "title": "Ringgit ends easier against US dollar, mixed versus major currencies amid AI, bond yield concerns",
-            "url": "https://www.malaymail.com/news/money/2026/10/23/ringgit-ends-easier-against-us-dollar-mixed-versus-major-currencies-amid-ai-bond-yield-concerns/240354",
-            "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/10/23/370124.jpg",
-            "publishedAt": "2026-10-23T10:57:22Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "N.S. weighs data centre's promised economic benefits",
-            "url": "https://www.cp24.com/news/canada/2026/10/23/boon-or-boondoggle-ns-weighs-10b-data-centres-promised-economic-benefits/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/GOU6FORAGFGLDHIMQLKBLUPPQM.jpg?smart=true&auth=365bd10494108dfdb7a631db5d4eb0decb3374e58c7e2aad8d0dea86723940e8&width=1200&height=630",
-            "publishedAt": "2026-10-23T09:46:42Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "N.S. weighs data centre's promised economic benefits",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/23/boon-or-boondoggle-ns-weighs-10b-data-centres-promised-economic-benefits/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/GOU6FORAGFGLDHIMQLKBLUPPQM.jpg?smart=true&auth=365bd10494108dfdb7a631db5d4eb0decb3374e58c7e2aad8d0dea86723940e8&width=1200&height=630",
-            "publishedAt": "2026-10-23T09:46:42Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Advocate Jatin Sharma Examines Emerging Legal Questions as Businesses Adopt AI",
-            "url": "https://www.tribuneindia.com/news/business/advocate-jatin-sharma-examines-emerging-legal-questions-as-businesses-adopt-ai/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIyOGMwYTMwLWNlYzQtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-            "publishedAt": "2026-10-23T09:32:34Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Advocate Jatin Sharma Examines Emerging Legal Questions as Businesses Adopt AI",
-            "url": "https://www.aninews.in/news/business/advocate-jatin-sharma-examines-emerging-legal-questions-as-businesses-adopt-ai20261023150200/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261023092518-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-10-23T09:32:00Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "In CT's 2nd District, young Republican challenges veteran congressman",
-            "url": "https://www.courant.com/2026/10/23/in-cts-most-rural-district-young-republican-challenges-veteran-congressman/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2026/10/COURTNEY_AUSTIN-1200x800-1.jpg?w=1200&h=800",
-            "publishedAt": "2026-10-23T09:30:07Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "A New ETF to Bet on Big AI Companies' Debt",
-            "url": "https://www.marketscreener.com/news/a-new-etf-to-bet-on-big-ai-companies-debt-ce785cded08af425",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0/https://img.zonebourse.com/reuters/2026-06-22T100901Z_1_LYNXMPEM5L0M9_RTROPTP_4_FINTECH-CRYPTO-ETF.JPG",
-            "publishedAt": "2026-10-23T09:12:14Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "ET Wealth Expo 2026: Day 2 to explore alternative investments, financial freedom and the changing face of wealth",
-            "url": "https://economictimes.indiatimes.com/wealth/personal-finance-news/et-wealth-expo-2026-day-2-to-explore-alternative-investments-financial-freedom-and-the-changing-face-of-wealth/articleshow/135141318.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-73710,resizemode-75,msid-135141318/wealth/personal-finance-news/et-wealth-expo-2026-day-2-to-explore-alternative-investments-financial-freedom-and-the-changing-face-of-wealth.jpg",
-            "publishedAt": "2026-10-23T09:11:48Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Technology Integrated into Travel Life: JETOUR Maps Out a New Vision for Future Mobility",
-            "url": "https://www.tribuneindia.com/news/business/technology-integrated-into-travel-life-jetour-maps-out-a-new-vision-for-future-mobility/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ1OTc1OTQwLWNlYzItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-            "publishedAt": "2026-10-23T09:11:28Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Debt bomb threatens booming AI trade, $155b data centre roll-out",
-            "url": "https://www.afr.com/companies/infrastructure/debt-bomb-threatens-booming-ai-trade-155b-data-centre-roll-out-20261023-p61810",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/c6d344b3b7079d4e5ab453abd680180c1abdbae2",
-            "publishedAt": "2026-10-23T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c477009a98f37b19212d8ae20ce8c018",
-                "name": "POLITICO",
-                "url": "https://www.politico.com",
-                "country": "us"
-            },
-            "title": "Tech giants target spending on Florida’s state-level elections",
-            "url": "https://www.politico.com/news/2026/10/23/florida-midterms-big-tech-spending-legislature-01132207",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa4%2Fe8%2F122448284472864b26040889be68%2Fflorida-legislature-10744.jpg",
-            "publishedAt": "2026-10-23T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Asian shares slip as sharp drops for AI stocks overwhelm markets worldwide and oil prices jump",
-            "url": "https://www.dailyexcelsior.com/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump/",
-            "urlToImage": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWViMGY1MjcwLWNlYWQtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-            "publishedAt": "2026-10-23T06:49:38Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "Google offer to pay others to help data center power",
-            "url": "https://www.arkansasonline.com/news/2026/oct/23/google-offer-to-pay-others-to-help-data-center/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
-            "publishedAt": "2026-10-23T06:41:00Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "AI-Written Books Can Now Win Awards As France Launches New Literary Prize",
-            "url": "https://www.ndtv.com/feature/ai-written-books-can-now-win-awards-as-france-launches-new-literary-prize-12224012",
-            "urlToImage": "https://c.ndtvimg.com/2026-10/dqa5kkgo_aiwritten-books-can-now-win-awards-as-france-launches-new-literary-prize_625x300_23_October_26.jpeg",
-            "publishedAt": "2026-10-23T06:37:29Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "NEC Develops Vision-Language AI Model for Real-Time Early Disaster Detection",
-            "url": "https://www.marketscreener.com/news/nec-develops-vision-language-ai-model-for-real-time-early-disaster-detection-ce785cded181f22c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-10-23T06:35:26Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Jensen Huang highlights strong demand for neoclouds despite financial constraints",
-            "url": "https://www.marketscreener.com/news/jensen-huang-highlights-strong-demand-for-neoclouds-despite-financial-constraints-ce785cdedd8df023",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-08-27T103151Z_1_LYNXMPEM7Q0RW_RTROPTP_4_NVIDIA-STOCKS.JPG",
-            "publishedAt": "2026-10-23T06:26:05Z"
         }
     ]
 }
