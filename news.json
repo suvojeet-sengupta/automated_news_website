@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-10-30T16:29:02.075495Z",
+    "lastUpdatedAt": "2026-10-30T21:20:01.897575Z",
     "articles": [
+        {
+            "source": {
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            },
+            "title": "How Hedge Funds Are Adapting to Choppier Markets",
+            "url": "https://www.businessinsider.com/hedge-funds-adapting-choppier-markets-shorts-fundamental-stockpicking-2026-10",
+            "urlToImage": "https://i.insider.com/6ae38e02f48fadd1d8881f38?width=1200&format=jpeg",
+            "publishedAt": "2026-10-30T09:13:01Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Alphabet loses $467bn in the cloud",
+            "url": "https://www.marketscreener.com/news/alphabet-loses-467bn-in-the-cloud-ce785fdad880f52d",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-06-20T163157Z_1_LYNXMPEL5J0U3_RTROPTP_4_EU-ALPHABET-ANTITRUST.JPG",
+            "publishedAt": "2026-10-30T09:12:26Z"
+        },
+        {
+            "source": {
+                "id": "dcb757ba5480d7edec9ca152d58b7d3d",
+                "name": "Swissinfo (EN)",
+                "url": "https://www.swissinfo.ch",
+                "country": "ch"
+            },
+            "title": "How Can the Public Shape the Future of AI?",
+            "url": "https://www.swissinfo.ch/eng/research-frontiers/science-podcast-how-to-open-up-public-debate-on-ai/92192218",
+            "urlToImage": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/12/sc_3x2_plain.jpg?ver=b5408725&fit=1200,800",
+            "publishedAt": "2026-10-30T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "Chief Justice Sundaresh Menon Highlights the Importance of Human Judgment in the Age of Artificial Intelligence",
+            "url": "https://www.prnewswire.co.uk/news-releases/chief-justice-sundaresh-menon-highlights-the-importance-of-human-judgment-in-the-age-of-artificial-intelligence-302924768.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS2024153/20261029230112EDT_image_1.jpg?id=OA3049331&p=facebook",
+            "publishedAt": "2026-10-30T08:57:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "AI robotics may need 10 million hours of interaction data to reach production-level capabilities: Goldman Sachs",
+            "url": "https://www.livemint.com/technology/ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs-11793350566224.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
+            "publishedAt": "2026-10-30T08:56:05Z"
+        },
+        {
+            "source": {
+                "id": "c1903669db0b115cc673ce9c333a70dd",
+                "name": "Charleston Post and Courier",
+                "url": "https://www.postandcourier.com",
+                "country": "us"
+            },
+            "title": "A Space Odyssey wins our Golden Pen",
+            "url": "https://www.postandcourier.com/opinion/ai-hal-2001-letter-golden-pen/article_a338cd6c-1886-4943-b820-0fdebf7ab312.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/c/4b/c4b85b3e-69ac-4364-a3b9-8a1cd6a8e5de/6a64193d898e3.image.jpg?crop=1756%2C922%2C0%2C128&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-10-30T08:55:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI robotics may need 10 million hours of interaction data to reach production-level capabilities: Goldman Sachs",
+            "url": "https://www.devdiscourse.com/article/business/3999456-ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/30_10_2026_14_24_47_3239142.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-10-30T08:54:50Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "AI robotics may need 10 million hours of interaction data to reach production",
+            "url": "https://www.tribuneindia.com/news/business/ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQwMzNhMmIwLWQ0M2YtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+            "publishedAt": "2026-10-30T08:52:26Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/30/foxconn-working-on-a-new-tie-up-with-openai-says-there-is-no-ai-bubble",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/10/30/4188546.jpg",
+            "publishedAt": "2026-10-30T08:52:00Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "AI robotics may need 10 million hours of interaction data to reach production-level capabilities: Goldman Sachs",
+            "url": "https://www.aninews.in/news/business/ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs20261030141934/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261030084824-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-10-30T08:49:34Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -3180,96 +3300,6 @@
             "url": "https://www.channelnewsasia.com/asia/india-it-ai-reshapes-entry-level-jobs-6485426",
             "urlToImage": "https://dam.mediacorp.sg/image/upload/s--_eGlm_2j--/c_crop,h_1125,w_2000,x_0,y_161/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/10/23/000_1ad8vw.jpg?itok=-yQGjVBP",
             "publishedAt": "2026-10-26 22:00:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Anthropic's S-1 Shows $16.3B in Half-Year Revenue, a 900% NRR, and an $80.7B Loss That Mostly Isn't",
-            "url": "https://hackernoon.com/anthropics-s-1-shows-$163b-in-half-year-revenue-a-900percent-nrr-and-an-$807b-loss-that-mostly-isnt",
-            "urlToImage": "https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-q583af1.png",
-            "publishedAt": "2026-10-26 21:53:15"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "Anthropic’s IPO Reveals The Biggest Risk To The AI Boom",
-            "url": "https://www.bundle.app/en/finance/anthropics-ipo-reveals-the-biggest-risk-to-the-ai-boom-5832FB4E-6911-5440-902C-842DCCF8D6D6",
-            "urlToImage": "https://static.bundle.app/news/4125239c-7cfe-5235-805c-412963a3d9dc.jpg",
-            "publishedAt": "2026-10-26 21:28:37"
-        },
-        {
-            "source": {
-                "name": "devto"
-            },
-            "title": "The Real Cost of AI: What Anthropic’s Explosive Growth Reveals About the Future of Software",
-            "url": "https://dev.to/mona_d_4222dda374567263b/the-real-cost-of-ai-what-anthropics-explosive-growth-reveals-about-the-future-of-software-2p76",
-            "urlToImage": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe9npux5g4z59pdze5lt3.png",
-            "publishedAt": "2026-10-26 19:26:04"
-        },
-        {
-            "source": {
-                "name": "itbrief_in"
-            },
-            "title": "AWS reveals Prime Day 2026's vast infrastructure load",
-            "url": "https://itbrief.in/story/aws-reveals-prime-day-2026-s-vast-infrastructure-load",
-            "urlToImage": "https://itbrief.in/uploads/story/2026/10/26/compatible_cloud-infrastructure-server-racks-data-streams-resilience-story-322415.jpg",
-            "publishedAt": "2026-10-26 19:15:00"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Anthropic’s IPO filing is the start of the put-up-or-shut-up era of AI",
-            "url": "https://www.fastcompany.com/91629897/anthropics-ipo-filing-is-the-start-of-the-put-up-or-shut-up-era-of-ai?partner=rss",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91629897-were-now-in-put-up-or-shut-up-time-between-torsten-slok-talking-about-ais-lack-of-economic-impact-and-the-anthropic-s-1-today.jpg",
-            "publishedAt": "2026-10-26 18:08:03"
-        },
-        {
-            "source": {
-                "name": "enterpriseitworld"
-            },
-            "title": "How Technology Media Platforms Are Shaping Enterprise IT News in India",
-            "url": "https://enterpriseitworld.com/how-technology-media-platforms-are-shaping-enterprise-it-news-in-india/",
-            "urlToImage": "https://enterpriseitworld.com/wp-content/uploads/2017/11/Ent-IT-Worl-Blue-Color-PNG-1536x362-1.png",
-            "publishedAt": "2026-10-26 17:59:40"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "TypeSafe Jev and Open Decision Models Outperform Hosted Frontiers in Enterprise and Local Benchmarks",
-            "url": "https://us.headtopics.com/news/typesafe-jev-and-open-decision-models-outperform-hosted-89221334",
-            "urlToImage": "https://i.headtopics.com/images/2026/10/26/hackernoon/typesafe-jev-and-open-decision-models-outperform-h-typesafe-jev-and-open-decision-models-outperform-h-82A443E1CB942E52386CE1B95C0E77C4-16x9.webp",
-            "publishedAt": "2026-10-26 17:47:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Tracing Contextual Token Representations Through Transformer Layers",
-            "url": "https://hackernoon.com/tracing-contextual-token-representations-through-transformer-layers",
-            "urlToImage": "https://cdn.hackernoon.com/images/4USpXc7dnZb1NcOq14kVdgH2Xla2-hn03c11.png",
-            "publishedAt": "2026-10-26 17:22:30"
-        },
-        {
-            "source": {
-                "name": "bundle_app"
-            },
-            "title": "GRAPHIC-Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-            "url": "https://www.bundle.app/en/breaking-news/graphic-anthropics-ipo-a-close-look-at-ai-frontrunners-rapid-growth-spiraling-costs-CE26FA55-C1AE-56EC-82DF-30C995D45A1C",
-            "urlToImage": "https://static.bundle.app/news/999a94c6-4d52-5f4a-9e86-f5a368e55f45.jpg",
-            "publishedAt": "2026-10-26 16:53:07"
-        },
-        {
-            "source": {
-                "name": "lufkindailynews"
-            },
-            "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-            "url": "https://lufkindailynews.com/news_reuters/top_news/anthropics-ipo-a-close-look-at-ai-frontrunners-rapid-growth-spiraling-costs/article_889178bc-018f-51a7-97db-190c67fbab8d.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/4/8f/48fdac28-2717-5a96-9430-2aad138a2bc4/6adf573b55868.image.jpg?resize=300%2C200",
-            "publishedAt": "2026-10-26 16:52:45"
         }
     ]
 }
