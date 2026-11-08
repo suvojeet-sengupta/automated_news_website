@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2026-11-08T04:03:45.825602Z",
+    "lastUpdatedAt": "2026-11-08T11:39:04.523178Z",
     "articles": [
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            },
+            "title": "AI platform reproduced Michigan music publishers' copyrighted works without authorization, lawsuit says",
+            "url": "https://www.cbsnews.com/detroit/news/suno-eminem-eight-mile-music-copyright-lawsuit/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/07/b9fd3762-2cbd-4996-99e0-04a64e965c57/thumbnail/1200x630/a944faeb533f00156dc80d874f267489/gettyimages-2278960510.jpg",
+            "publishedAt": "2026-11-07T22:15:34Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Openai President Greg Brockman Death Will Become Optional Thanks to AI",
+            "url": "https://www.breitbart.com/tech/2026/11/07/openai-president-greg-brockman-death-will-become-optional-thanks-to-ai/",
+            "urlToImage": "https://media.breitbart.com/media/2026/11/Greg-Brockman-of-OpenAI-640x335.jpg",
+            "publishedAt": "2026-11-07T21:05:19Z"
+        },
+        {
+            "source": {
+                "id": "bc49d994b41ac710f5c89f6e6adeece4",
+                "name": "The Boston Herald",
+                "url": "https://www.bostonherald.com",
+                "country": "us"
+            },
+            "title": "How Wall Street responded to the midterms",
+            "url": "https://www.bostonherald.com/2026/11/07/how-wall-street-responded-to-the-midterms/",
+            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/11/data-center-protests.jpg?w=8256&h=5504",
+            "publishedAt": "2026-11-07T19:52:34Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Protests against proposed AI data centre held across the province",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/07/protests-against-nova-scotias-proposed-ai-data-centre-held-across-the-province/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/46N3GPDVERCVPPBWJJ7EDTTQ64.jpeg?smart=true&auth=180315271913fc7eeaeffc0aae70932416ce907280dcb5234059ef92cf30091a&width=1200&height=630",
+            "publishedAt": "2026-11-07T19:46:10Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Anthropic paper reveals Sci-Fi’s role in AI self-preservation behaviors",
+            "url": "https://www.thenews.com.pk/latest/1422858-anthropic-paper-reveals-sci-fis-role-in-ai-self-preservation-behaviors",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/2026-11-07/1422858_103913_updates.jpg",
+            "publishedAt": "2026-11-07T17:39:00Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "AI nerves reinforce age-old investing lesson: Get diversified",
+            "url": "https://edition.cnn.com/2026/11/07/investing/ai-nerves-diversify-portfolio",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26310669206189.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-11-07T17:00:16Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "AI nerves reinforce age-old investing lesson: Get diversified",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2026/11/07/ai-nerves-reinforce-age-old-investing-lesson-get-diversified/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
+            "publishedAt": "2026-11-07T17:00:16Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Job market dark reality: Man attends 55 interviews after applying for over 175 roles, gets no offers, says, 'Doesn't know what else to do...'",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/job-market-dark-reality-man-attends-55-interviews-after-applying-for-over-175-roles-gets-no-offers-says-doesnt-know-what-else-to-do-/articleshow/135641544.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-135642216,width-1200,height-900,imgsize-1115349,overlay-etpanache/articleshow.jpg",
+            "publishedAt": "2026-11-07T16:51:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3291,78 +3387,6 @@
             "url": "https://home.dartmouth.edu/news/2026/11/short-takes-ai-70-conference",
             "urlToImage": "https://home.dartmouth.edu/sites/home/files/styles/16_9_lg/public/2026-11/11.jpg.webp?h=c6980913&itok=4iZ1-srR",
             "publishedAt": "2026-11-03 21:42:56"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "WhiteFiber Completes Acquisition of Two North Carolina Data Center Development Sites and Provides NC-1 Update",
-            "url": "https://www.prnewswire.com/news-releases/whitefiber-completes-acquisition-of-two-north-carolina-data-center-development-sites-and-provides-nc-1-update-302928336.html",
-            "urlToImage": "https://mmx.prnewswire.com/media/MS1700748/WhiteFiber-Logo.jpg?id=OA3055969&p=original",
-            "publishedAt": "2026-11-03 21:30:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Google is making schools choose between AI and access to its Search engine",
-            "url": "https://www.digitaltrends.com/computing/google-is-making-schools-choose-between-ai-and-access-to-its-search-engine/",
-            "urlToImage": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/DT-2026-11-04T022347.992.jpg?resize=440%2C292&ssl=1",
-            "publishedAt": "2026-11-03 21:02:29"
-        },
-        {
-            "source": {
-                "name": "businessworld"
-            },
-            "title": "ASUS Brings Nvidia RTX Spark-powered ProArt P16 and ProArt P14",
-            "url": "https://www.businessworld.in/article/asus-brings-nvidia-rtx-spark-powered-proart-p16-and-proart-p14-631956",
-            "urlToImage": "https://static.businessworld.in/ProArt-P14-P16_KV_ASUS_20261104002137_original_image_29.webp",
-            "publishedAt": "2026-11-03 19:06:09"
-        },
-        {
-            "source": {
-                "name": "devto"
-            },
-            "title": "The Speed Dilemma: Why AI Coding Agents Are Outpacing Your Test Suites",
-            "url": "https://dev.to/tamizuddin/the-speed-dilemma-why-ai-coding-agents-are-outpacing-your-test-suites-1ke1",
-            "urlToImage": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp8zkga9t0ujht9gbi13z.png",
-            "publishedAt": "2026-11-03 18:28:31"
-        },
-        {
-            "source": {
-                "name": "nautil"
-            },
-            "title": "Want to Use AI to Improve Your Work? Have It Disagree with You",
-            "url": "https://nautil.us/want-to-use-ai-to-improve-your-work-have-it-disagree-with-you-1286295/",
-            "urlToImage": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_2028131260.jpeg?w=564",
-            "publishedAt": "2026-11-03 17:00:00"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Palantir’s AI-fueled growth faces a test as investors question its staying power",
-            "url": "https://us.headtopics.com/news/palantir-s-ai-fueled-growth-faces-a-test-as-investors-89504410",
-            "urlToImage": "https://i.headtopics.com/images/2026/11/3/latimes/palantir-s-ai-fueled-growth-faces-a-test-as-invest-palantir-s-ai-fueled-growth-faces-a-test-as-invest-F420670120E4C421BCD5DE133ABE53E7-16x9.webp",
-            "publishedAt": "2026-11-03 16:46:00"
-        },
-        {
-            "source": {
-                "name": "cnbctv18"
-            },
-            "title": "India's data centre capacity set for 5x surge by 2030",
-            "url": "https://www.cnbctv18.com/business/indias-data-centre-capacity-set-for-5x-surge-by-2030-20026273.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2026/10/ai-data-center-2026-10-58829aa6dedada8b8ce3f02e532425dc.jpg",
-            "publishedAt": "2026-11-03 16:31:27"
-        },
-        {
-            "source": {
-                "name": "scroll"
-            },
-            "title": "As energy needs of data centres draw scrutiny, their hardware deserves the same attention",
-            "url": "https://scroll.in/article/1096586/as-energy-needs-of-data-centres-draw-scrutiny-their-hardware-deserves-the-same-attention",
-            "urlToImage": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/216235-rfbwdxuqko-1792691807.jpg",
-            "publishedAt": "2026-11-03 16:30:00"
         }
     ]
 }
