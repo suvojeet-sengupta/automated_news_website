@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-11-09T01:23:15.336394Z",
+    "lastUpdatedAt": "2026-11-09T08:59:28.372851Z",
     "articles": [
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "Pope wraps up Uruguay visit and arrives in Milei's Argentina for most fraught stop of his tour",
+            "url": "https://www.inquirer.com/news/nation-world/pope-leo-latin-america-tour-uruguay-argentina-milei-social-justice-poor-ai-20261108.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/MRHPYG3EHSMDEHQJKCX7QFUGOM.jpg?auth=15c6adbf4578e7ade9f8a537b23cc3f34b4894471663fb6f4ea1f21b77301dfd&width=760&height=507&smart=true",
+            "publishedAt": "2026-11-08T20:18:40Z"
+        },
+        {
+            "source": {
+                "id": "0c047612bc7bc0113342d2651f47b208",
+                "name": "GB News",
+                "url": "https://www.gbnews.com",
+                "country": "gb"
+            },
+            "title": "China's AI plot to 'rewrite history' and threaten Western democracy exposed",
+            "url": "https://www.gbnews.com/news/world/chinas-ai-plot-rewrite-history",
+            "urlToImage": "https://www.gbnews.com/media-library/china-s-ai-plot.png?id=68634057&width=1200&height=600&coordinates=69%2C257%2C0%2C110",
+            "publishedAt": "2026-11-08T19:01:39Z"
+        },
+        {
+            "source": {
+                "id": "04c17c43a7507fac95fd9ba5d47715b5",
+                "name": "WIS10",
+                "url": "https://www.wistv.com",
+                "country": "us"
+            },
+            "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+            "url": "https://www.wistv.com/2026/11/08/staff-us-center-ai-safety-are-reporting-white-house-raising-independence-concerns/",
+            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/BR4SG4ZEPNAWLP4XRCJBKTK4UU.jpg?auth=a64e43a54fb32f0cf026c0673422e6300c6f365d8564dd2935e5bb7ff7ee02d7&width=1200&height=600&smart=true",
+            "publishedAt": "2026-11-08T18:50:58Z"
+        },
+        {
+            "source": {
+                "id": "e7b4d14003cc89c64a689f1c38723ef5",
+                "name": "Live 5 News WCSC",
+                "url": "https://www.live5news.com",
+                "country": "us"
+            },
+            "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+            "url": "https://www.live5news.com/2026/11/08/staff-us-center-ai-safety-are-reporting-white-house-raising-independence-concerns/",
+            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/BR4SG4ZEPNAWLP4XRCJBKTK4UU.jpg?auth=a64e43a54fb32f0cf026c0673422e6300c6f365d8564dd2935e5bb7ff7ee02d7&width=1200&height=600&smart=true",
+            "publishedAt": "2026-11-08T18:50:58Z"
+        },
+        {
+            "source": {
+                "id": "3f09ae62ee37a33ab191a698fec83f4b",
+                "name": "WEAU",
+                "url": "https://www.weau.com",
+                "country": "us"
+            },
+            "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+            "url": "https://www.weau.com/2026/11/08/staff-us-center-ai-safety-are-reporting-white-house-raising-independence-concerns/",
+            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/BR4SG4ZEPNAWLP4XRCJBKTK4UU.jpg?auth=a64e43a54fb32f0cf026c0673422e6300c6f365d8564dd2935e5bb7ff7ee02d7&width=1200&height=600&smart=true",
+            "publishedAt": "2026-11-08T18:50:58Z"
+        },
+        {
+            "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+            },
+            "title": "Trending Ngayon: First bionic humanoid robot news anchors",
+            "url": "https://www.sbs.com.au/language/filipino/en/podcast-episode/trending-ngayon-first-bionic-humanoid-robot-news-anchors/qc1a2rsc9",
+            "urlToImage": "https://assets.sbs.com.au/dims4/default/8f0bcee/2147483647/strip/true/crop/1331x749+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F58%2F9e%2Fd36711524c4dbf1cd82795237e3f%2Frobot-news-anchors.jpg",
+            "publishedAt": "2026-11-08T18:40:00Z"
+        },
+        {
+            "source": {
+                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
+                "name": "Social Media Today",
+                "url": "https://www.socialmediatoday.com",
+                "country": "us"
+            },
+            "title": "Meta adds mini app creation option to Muse",
+            "url": "https://www.socialmediatoday.com/news/meta-adds-mini-app-creation-option-to-muse/874070/",
+            "urlToImage": "https://imgproxy.divecdn.com/6BTKGiz-L7eEn0YK0uQsGK7oj5NuwoMyuHxitRWYA5Y/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX211c2Vfc3BhY2VzLnBuZw==.webp",
+            "publishedAt": "2026-11-08T17:39:33Z"
+        },
+        {
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
+                "country": "us"
+            },
+            "title": "AI Race and Existential Risk: Anthropic’s Initial Public Offering Filing, Pentagon Directives Put Focus on Safety Gaps",
+            "url": "https://www.naturalnews.com/2026-11-08-anthropic-ipo-pentagon-ai-focus-safety-gaps.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/ai-existential-risk-ai-safety-gaps-pentagon-ai-directives-6258-5c372aad-original.jpg",
+            "publishedAt": "2026-11-08T16:55:22Z"
+        },
+        {
+            "source": {
+                "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
+                "name": "Social Media Today",
+                "url": "https://www.socialmediatoday.com",
+                "country": "us"
+            },
+            "title": "YouTube expands custom feeds and offers new partnership options",
+            "url": "https://www.socialmediatoday.com/news/youtube-expands-custom-feeds-and-offers-new-partnership-options/874068/",
+            "urlToImage": "https://imgproxy.divecdn.com/hI1R75sEO9Xm-WdHqtkz4mFK23_N_PafDi_mH2-63nw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS95b3V0dWJlX2N1c3RvbV9mZWVzLnBuZw==.webp",
+            "publishedAt": "2026-11-08T16:14:53Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Bill protecting workers from layoffs filed",
+            "url": "https://www.manilatimes.net/2026/11/09/news/bill-protecting-workers-from-layoffs-filed/2464763",
+            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/11/08/1297618.jpg",
+            "publishedAt": "2026-11-08T16:04:00Z"
+        },
         {
             "source": {
                 "id": "63361c66f51ee0c82a5325ba1c7b8d06",
@@ -336,6 +456,15 @@
             "url": "https://www.tribuneindia.com/news/business/top-ai-adopters-in-customer-service-gain-over-50-kpi-improvements-but-value-realization-remains-uneven-ey-report/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIzZTgyNTYwLWRiMjctMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
             "publishedAt": "2026-11-08T03:47:31Z"
+        },
+        {
+            "source": {
+                "name": "infotechlead"
+            },
+            "title": "India IT Channel Partner Outlook 2027: AI, Cybersecurity, Cloud and Data Centers Offer Biggest Revenue and Profit Opportunities",
+            "url": "https://infotechlead.com/channels/india-it-channel-partner-outlook-2027-ai-cybersecurity-cloud-and-data-centers-offer-biggest-revenue-and-profit-opportunities-99467",
+            "urlToImage": "https://infotechlead.com/wp-content/uploads/2026/11/India-IT-channel-partner-network-2027.jpg",
+            "publishedAt": "2026-11-08 14:47:38"
         },
         {
             "source": {
@@ -3249,138 +3378,6 @@
             "url": "https://techstartups.com/2026/11/03/oracle-to-raise-20-billion-in-stock-and-debt-sales-to-fund-ai-expansion-as-shares-plunge-nearly-9/",
             "urlToImage": "https://techstartups.com/wp-content/uploads/2025/12/Data-Centers.jpg",
             "publishedAt": "2026-11-03T12:59:31Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "UK will face AI cyberattacks on critical infrastructure by 2028, official says",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028-official-says/articleshow/135500303.cms",
-            "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-            "publishedAt": "2026-11-03T12:49:00Z"
-        },
-        {
-            "source": {
-                "id": "49853ffafc28f405ff8ed06043290ae8",
-                "name": "Global News",
-                "url": "https://globalnews.ca",
-                "country": "ca"
-            },
-            "title": "AI data centre proponent in Nova Scotia makes its pitch to Cape Breton communities",
-            "url": "https://globalnews.ca/news/12134210/ai-data-centre-proponent-in-nova-scotia-makes-its-pitch-to-cape-breton-communities/",
-            "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/fbef2b24c36f321154b28aea130715d01be8e2e85e80e5894b3534e47fe50a23.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-            "publishedAt": "2026-11-03T12:45:32Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Singapore warns of risks and cyber threats from emerging maritime technologies",
-            "url": "https://www.europesays.com/3350156/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/11/1793709438.jpeg",
-            "publishedAt": "2026-11-03T12:37:16Z"
-        },
-        {
-            "source": {
-                "id": "9a68172fefded1b86fc9a95d43faf501",
-                "name": "Wccftech",
-                "url": "https://wccftech.com",
-                "country": "us"
-            },
-            "title": "Microsoft AI Chief Says AI Development Should Stop If Artificial Intelligence Begins Showing Signs Of Consciousness",
-            "url": "https://wccftech.com/microsoft-ai-chief-says-ai-development-should-stop-if-artificial-intelligence-begins-showing-signs-of-consciousness/",
-            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-5-1920x1277.jpg",
-            "publishedAt": "2026-11-03T12:20:38Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Queensland tests AI cameras trained on 800 hours of footage to detect crocodiles swimming in murky waterways, with the technology being assessed for real-time monitoring near boat ramps and marinas",
-            "url": "https://timesofindia.indiatimes.com/science/wildlife/queensland-tests-ai-cameras-trained-on-800-hours-of-footage-to-detect-crocodiles-swimming-in-murky-waterways-with-the-technology-being-assessed-for-real-time-monitoring-near-boat-ramps-and-marinas/articleshow/135493488.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-135493725,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-11-03T12:20:00Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "Cyber Law Expert Puneet Bhasin’s New Book Examines How AI, Algorithms Could Influence Human Choices",
-            "url": "https://www.outlookbusiness.com/spotlight/news-wire/cyber-law-expert-puneet-bhasins-new-book-examines-how-ai-algorithms-could-influence-human-choices",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2026-11-03/nn2x2zih/Book-cover-Who-Controls-Your-Mind-by-Puneet-Bhasin.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-11-03T12:11:15Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "From Indian Enterprise to Global Ambition: Dr. Sachidanand Upadhyay Marks Third Consecutive Year in TIME Magazine",
-            "url": "https://www.tribuneindia.com/news/business/from-indian-enterprise-to-global-ambition-dr-sachidanand-upadhyay-marks-third-consecutive-year-in-time-magazine/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI5OWVmMzUwLWQ3N2UtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
-            "publishedAt": "2026-11-03T11:58:08Z"
-        },
-        {
-            "source": {
-                "id": "082db83a15e0797aa722d2f3124da28d",
-                "name": "IFLScience",
-                "url": "https://www.iflscience.com",
-                "country": "gb"
-            },
-            "title": "Artificial Intelligence Resurrections Are Becoming Big Business, But Who Really Benefits From Bringing Back The Dead?",
-            "url": "https://www.iflscience.com/artificial-intelligence-resurrections-are-becoming-big-business-but-who-really-benefits-from-bringing-back-the-dead-85040",
-            "urlToImage": "https://assets.iflscience.com/assets/articleNo/85040/aImg/93350/ai-resurrections-meta.png",
-            "publishedAt": "2026-11-03T11:44:00Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "What a Democratic sweep means for stocks",
-            "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108475287-1793203213214-108475287-17932031442026-10-28t155338z_471645677_rc2zboa6dy3a_rtrmadp_0_usa-dailylife.jpg?v=1793203220&w=1920&h=1080",
-            "publishedAt": "2026-11-03T11:37:27Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "IIT Madras student chases world record across 6 continents after Kona Ironman",
-            "url": "https://indianexpress.com/article/lifestyle/fitness/iit-madras-student-renee-noronha-world-record-across-continents-kona-ironman-interview-milind-soman-10947222/",
-            "urlToImage": "https://images.indianexpress.com/2026/11/renee_1600_.jpg",
-            "publishedAt": "2026-11-03T10:30:15Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "From AI To Maths To Management: 8 Govt Websites Offering Free Online Learning Resources",
-            "url": "https://www.news18.com/education-career/from-ai-to-maths-to-management-8-govt-websites-offering-free-online-learning-resources-ws-e-10410765.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/11/image-2026-11-eb42cd1816f873744a705ba38734e8dd-1200x675.jpg",
-            "publishedAt": "2026-11-03T10:28:25Z"
         }
     ]
 }
