@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2026-11-17T01:28:30.256091Z",
+    "lastUpdatedAt": "2026-11-17T10:02:56.328113Z",
     "articles": [
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Stocks slide to kick off major week for Wall Street",
+            "url": "https://edition.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2304940639.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-11-16T21:57:57Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Trump moves to block China from indirect access to U.S.'s AI technology",
+            "url": "https://www.cp24.com/news/world/2026/11/16/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/5PNUSFW2ULWTLULNJUR2ILHFNA.jpg?smart=true&auth=f71931bee310421c7042a9aeb92c9f18a692e840707f06626b2b19886d20ad2a&width=1200&height=630",
+            "publishedAt": "2026-11-16T20:42:22Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "OpenAI Hit With Lawsuit by California AG Over Alleged Inadequate Safeguards, Monitoring of AI Models",
+            "url": "https://www.marketscreener.com/news/openai-hit-with-lawsuit-by-california-ag-over-alleged-inadequate-safeguards-monitoring-of-ai-models-ce785edfdd8efe23",
+            "urlToImage": "https://cdn.zonebourse.com/static/web-assets/images/editorial/fallback/twitter_ms_fdnoir.png",
+            "publishedAt": "2026-11-16T20:11:29Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "AI and 24-Hour Trading Test Rules Governing Currency Markets",
+            "url": "https://www.livemint.com/market/ai-and-24-hour-trading-test-rules-governing-currency-markets-11794859627930.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+            "publishedAt": "2026-11-16T20:07:07Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "AI Could Boost US Economy Or Cost Americans Jobs. Fed Chair Outlines Three Scenarios.",
+            "url": "https://www.ibtimes.com/fed-warsh-three-ai-economic-scenarios-3809829",
+            "urlToImage": "https://d.ibtimes.com/en/full/4654516/federal-reserve-chair-kevin-warsh.jpg",
+            "publishedAt": "2026-11-16T20:04:00Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk",
+            "url": "https://www.latimes.com/business/story/2026-11-16/warsh-grapples-with-ais-potential-economic-impact-steers-clear-of-its-inflation-risk",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/9b85701/2147483647/strip/true/crop/5041x2647+0+357/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7d%2F34%2F12a8d8dc478c85fa534124810216%2F92b3891cd97d4ba9a3750bee197baf87.jpg",
+            "publishedAt": "2026-11-16T19:50:10Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "AI declaration : It’s vital to secure global supply chains",
+            "url": "https://www.tribuneindia.com/news/editorials/ai-declaration-its-vital-to-secure-global-supply-chains/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI3MmQ2YTQwLWUxZjUtMTFmMS1hYTg1LTE1YmZkNzI5NzYyMi5qcGc=",
+            "publishedAt": "2026-11-16T19:41:25Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "From supply chains to cancer research: How causal AI is opening new research paths",
+            "url": "https://medicalxpress.com/news/2026-11-chains-cancer-causal-ai-paths.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-causal-ai-is-openi.jpg",
+            "publishedAt": "2026-11-16T19:40:12Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI and experiments reveal impurities hindering waste plastic pyrolysis oil recycling",
+            "url": "https://phys.org/news/2026-11-ai-reveal-impurities-hindering-plastic.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/ai-and-experiments-rev-2.jpg",
+            "publishedAt": "2026-11-16T19:40:07Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "In China, the party",
+            "url": "https://www.tribuneindia.com/news/comment/in-china-the-party-state-controls-ai/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRkMjhlMjcwLWUxZjQtMTFmMS1hYTg1LTE1YmZkNzI5NzYyMi5qcGc=",
+            "publishedAt": "2026-11-16T19:35:20Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -240,6 +360,96 @@
             "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-6-key-themes-investors-are-watching-this-week/slideshow/135873448.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-135873448,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
             "publishedAt": "2026-11-16T04:56:00Z"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "PFN and SEMIFIVE Collaborate to Develop the MN-Core L2000 Series of Next-Generation AI Inference Chips",
+            "url": "https://en.prnasia.com/story/556625-0.shtml",
+            "urlToImage": "https://mmx.prnasia.com/media/MS2035280/20261116003716EST_image_1.jpg?id=OA3079405&p=medium600",
+            "publishedAt": "2026-11-16 22:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "PFN and SEMIFIVE Collaborate to Develop the MN-Core L2000 Series of Next-Generation AI Inference Chips",
+            "url": "https://www.prnewswire.com/news-releases/pfn-and-semifive-collaborate-to-develop-the-mn-core-l2000-series-of-next-generation-ai-inference-chips-302940559.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS2035280/20261116003716EST_image_1.jpg?id=OA3079405&p=original",
+            "publishedAt": "2026-11-16 22:00:00"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "MSI Powers the Next Era of AI Infrastructure at SC26",
+            "url": "https://www.hpcwire.com/off-the-wire/msi-powers-the-next-era-of-ai-infrastructure-at-sc26/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2026/11/20261115213016EST_image_1.jpg",
+            "publishedAt": "2026-11-16 20:17:07"
+        },
+        {
+            "source": {
+                "name": "extremetech"
+            },
+            "title": "Does AI Music 'Count' as Real Music? Yes, Says Inaugural AI Music Awards",
+            "url": "https://www.extremetech.com/computing/does-ai-music-count-as-real-music-yes-says-inaugural-ai-music-awards",
+            "urlToImage": "https://i.extremetech.com/imagery/content-types/00kfFfFy9oiVknhIcpDY4Ue/hero-image.fill.size_400x225.png",
+            "publishedAt": "2026-11-16 17:57:13"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "MSI Powers the Next Era of AI Infrastructure at SC26",
+            "url": "https://www.prnewswire.com/news-releases/msi-powers-the-next-era-of-ai-infrastructure-at-sc26-302939882.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS2035182/20261115213016EST_image_1.jpg?id=OA3079184&p=original",
+            "publishedAt": "2026-11-16 16:00:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "MSI Powers the Next Era of AI Infrastructure at SC26",
+            "url": "https://en.prnasia.com/story/556610-0.shtml",
+            "urlToImage": "https://mmx.prnasia.com/media/MS2035182/20261115213016EST_image_1.jpg?id=OA3079184&p=medium600",
+            "publishedAt": "2026-11-16 16:00:00"
+        },
+        {
+            "source": {
+                "name": "cnbc"
+            },
+            "title": "Anthropic IPO guide: Everything you need to know",
+            "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108551332-1794597964771-gettyimages-2304545537-vcg111681342025.jpeg?v=1794597984&w=1200&h=675",
+            "publishedAt": "2026-11-16 14:55:17"
+        },
+        {
+            "source": {
+                "name": "pace_edu"
+            },
+            "title": "Top 10 Trends in Cybersecurity",
+            "url": "https://www.pace.edu/news/cybersecurity-trends",
+            "urlToImage": "https://www.pace.edu/sites/default/files/2026-11/academics-article-teaser-top-10-trends-cybersecurity.jpg",
+            "publishedAt": "2026-11-16 14:44:56"
+        },
+        {
+            "source": {
+                "name": "thelowdownblog"
+            },
+            "title": "Jensen Huang Was Accomplice, Not Dupe As China Got $12 Billion In Nvidia Chips",
+            "url": "http://www.thelowdownblog.com/2026/11/jensen-huang-was-accomplice-not-dupe-as.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUK_ORK2764B9SLofxhIyOLIAv3-Jrd2wgtfgFXdJIsvssQb36cHe48eDQiTbese7vuuvfgsEuhZqNpVbao2Yf4H4A5y00W3B-26rs074ZteAkoHSccKMYG04H-BQd1wYLKri9CaIjYv46fXIhoE3Ha1rrorMXIjXDQTcUTCj1crmml6X-9s-5KHQP6lCp/s72-w400-h266-c/Image%20-%20money.jpg",
+            "publishedAt": "2026-11-16 14:10:46"
+        },
+        {
+            "source": {
+                "name": "hpcwire"
+            },
+            "title": "Hyperion Research Announces Availability of New AI-for-Science Metrics and Assessments Study",
+            "url": "https://www.hpcwire.com/off-the-wire/hyperion-research-announces-the-availability-of-a-new-ai-for-science-metrics-and-assessments-study/",
+            "urlToImage": "https://www.hpcwire.com/wp-content/uploads/2025/12/hyperion-research.png",
+            "publishedAt": "2026-11-16 13:35:43"
         },
         {
             "source": {
@@ -3087,246 +3297,6 @@
             "url": "https://wjla.com/news/nation-world/inflation-spreads-across-economy-putting-pressure-on-fed-to-accelerate-rate-hikes",
             "urlToImage": "https://wjla.com/resources/media2/16x9/3026/1320/0x158/90/b65c7321-9ee1-48d2-a527-e738918d04cc-GettyImages2302420292.jpg",
             "publishedAt": "2026-11-11T18:55:33Z"
-        },
-        {
-            "source": {
-                "id": "1b97b25c0ec482f85326378f82f7f815",
-                "name": "Fox Business",
-                "url": "https://www.foxbusiness.com",
-                "country": "us"
-            },
-            "title": "Nvidia espionage probe shows Silicon Valley is a target for spies",
-            "url": "https://www.foxbusiness.com/economy/silicon-valley-center-espionage-former-fbi-agent-warns-nvidia-spy-scandal",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/san-francisco-city-view-golden-gate-bridge-01.jpg?ve=1&tl=1",
-            "publishedAt": "2026-11-11T18:53:26Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Safe Pro Awarded Artificial Intelligence Powered Demining Contract by Ukrainian Deminers Association Under United Nations Mine Action Service (UNMAS) Program",
-            "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/globenewswire/safe-pro-awarded-artificial-intelligence-powered-demining-contract-by-ukrainian-deminers-association-under-united-nations-mine-action-service-unmas-program/2467555",
-            "urlToImage": "https://manilatimes.net/manilatimes/uploads/images/2026/11/11/1302972.png",
-            "publishedAt": "2026-11-11T13:05:37Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "ZJK Establishes Six-Series Precision Component Product Matrix to Expand Robotics Opportunities",
-            "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/globenewswire/zjk-establishes-six-series-precision-component-product-matrix-to-expand-robotics-opportunities/2467524",
-            "urlToImage": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
-            "publishedAt": "2026-11-11T13:04:50Z"
-        },
-        {
-            "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
-                "country": "in"
-            },
-            "title": "AI to bring medical breakthrough? Anthropic CEO promises cancer, Alzheimer's will be history in 10 years",
-            "url": "https://www.indiatvnews.com/news/world/ai-to-bring-medical-breakthrough-anthropic-ceo-promises-cancer-alzheimer-s-will-be-history-in-10-years-2026-11-11-1059191",
-            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/11/anthropic-ceo-amodei-on-cancer-cure-1794400037.jpg",
-            "publishedAt": "2026-11-11T12:36:37Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India ranked an 'AI Rising Contender' by BCG, built on talent rather than compute",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/india-ranked-an-ai-rising-contender-by-bcg-built-on-talent-rather-than-compute/articleshow/135736932.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-135737014,width-1200,height-900,imgsize-109760,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-11-11T12:11:00Z"
-        },
-        {
-            "source": {
-                "id": "d889fcdc98f3dab0a934bbe252002562",
-                "name": "Morningstar",
-                "url": "https://www.morningstar.com",
-                "country": "us"
-            },
-            "title": "How AI Stocks Are Creeping Into Dividend ETFs",
-            "url": "https://www.morningstar.com/funds/how-ai-stocks-are-creeping-into-dividend-etfs",
-            "urlToImage": "https://media.morningstar.com/resizer/v2/556NQB3HCJCN7J5LZMHT6L2GQI.png?auth=c5c75a3ccdc75f58e03752dd3f878411fbba3af842fa39edbe16090b7a21a3b1&quality=80&height=1350&width=2400&crop=0,0:2400,1350",
-            "publishedAt": "2026-11-11T12:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Trump, Xi to discuss AI risks as US-China tech rivalry intensifies",
-            "url": "https://www.foxnews.com/live-news/ai-news-china-super-intelligence-safety-11-11-26",
-            "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/11/3efd7895325174e7eaeaef5cba4f4c15.jpg",
-            "publishedAt": "2026-11-11T11:55:07Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "The next phishing attack won’t be an email. It could be a voice you trust.",
-            "url": "https://timesofindia.indiatimes.com/toi-blogs/digital-life/the-next-phishing-attack-wont-be-an-email-it-could-be-a-voice-you-trust-/articleshow/135735956.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-135736089,width-1280,height-720,resizemode-6,overlay-toiblogs,pt-32,x_pad-1045,y_pad-670/photo.jpg",
-            "publishedAt": "2026-11-11T11:43:00Z"
-        },
-        {
-            "source": {
-                "id": "88e222cab209b86d787c4fdccf161c76",
-                "name": "The Spectator",
-                "url": "https://spectator.com",
-                "country": "gb"
-            },
-            "title": "The too-cosy arrangement between Donald Trump and Nvidia",
-            "url": "https://spectator.com/article/the-too-cosy-arrangement-between-donald-trump-and-nvidia/",
-            "urlToImage": "https://spectator.com/wp-content/uploads/2026/11/Geoff-Cain-GettyImages-2297774940.jpg",
-            "publishedAt": "2026-11-11T11:25:08Z"
-        },
-        {
-            "source": {
-                "id": "659e39ed77b0de2e30593ae3d0f9b0f5",
-                "name": "TheJournal.ie",
-                "url": "https://www.thejournal.ie",
-                "country": "ie"
-            },
-            "title": "'Smart glasses' that can secretly record people could be banned under a Dáil committee proposal",
-            "url": "https://www.thejournal.ie/oireachtas-ai-committee-ban-smart-glasses-ban-7222155-Nov2026/",
-            "urlToImage": "https://img2.thejournal.ie/article/7222155/river/?height=400&version=7222200",
-            "publishedAt": "2026-11-11T11:24:04Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Kazakh-linked hackers use AI to steal over 2,000 sensitive files from Tajik govt",
-            "url": "https://timesofindia.indiatimes.com/world/rest-of-world/kazakh-linked-hackers-use-ai-to-steal-over-2000-sensitive-files-from-tajik-govt/articleshow/135734925.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-135735070,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-11-11T11:12:00Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Alice Huang, Who Reportedly Had an Affair With Nvidia CEO, Is a Chinese Banker Turned Tech Exec",
-            "url": "https://www.usnews.com/news/business/articles/2026-11-11/alice-huang-who-reportedly-had-an-affair-with-nvidia-ceo-is-a-chinese-banker-turned-tech-exec",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/9669224/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fad%2F36778131be184c12ff372b7c7527dc%2F5cd75340cdb4452285b1d96184fa1ed6Nvidia_Alice_Huang_837_8.jpg",
-            "publishedAt": "2026-11-11T07:57:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Google's expanding AI chip business opens new opportunities for Samsung, SK hynix beyond Nvidia",
-            "url": "https://www.devdiscourse.com/article/business/4005034-googles-expanding-ai-chip-business-opens-new-opportunities-for-samsung-sk-hynix-beyond-nvidia",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/11_11_2026_13_25_12_8599488.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-11-11T07:55:17Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Google's expanding AI chip business opens new opportunities for Samsung, SK hynix beyond Nvidia",
-            "url": "https://www.tribuneindia.com/news/business/googles-expanding-ai-chip-business-opens-new-opportunities-for-samsung-sk-hynix-beyond-nvidia/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRlNTFiZGIwLWRkYTQtMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
-            "publishedAt": "2026-11-11T07:52:32Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "Google's expanding AI chip business opens new opportunities for Samsung, SK hynix beyond Nvidia",
-            "url": "https://www.aninews.in/news/business/googles-expanding-ai-chip-business-opens-new-opportunities-for-samsung-sk-hynix-beyond-nvidia20261111131938/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261111074607-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-11-11T07:49:38Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "CoreWeave beats expectations and raises its AI ambitions",
-            "url": "https://www.marketscreener.com/news/coreweave-beats-expectations-and-raises-its-ai-ambitions-ce785edbdb8ef426",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-09-17T132949Z_1_LYNXMPEM8G1EU_RTROPTP_4_COREWEAVE-MEMORY.JPG",
-            "publishedAt": "2026-11-11T07:43:42Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "US-blacklisted Chinese university buys Nvidia H200 AI chips through domestic suppliers: Report",
-            "url": "https://www.livemint.com/technology/usblacklisted-chinese-university-buys-nvidia-h200-ai-chips-through-domestic-suppliers-report-11794382318946.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
-            "publishedAt": "2026-11-11T07:31:58Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "US-blacklisted Chinese university buys Nvidia H200 AI chips through domestic suppliers: Report",
-            "url": "https://www.devdiscourse.com/article/business/4005021-us-blacklisted-chinese-university-buys-nvidia-h200-ai-chips-through-domestic-suppliers-report",
-            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/11_11_2026_13_01_14_1642411.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-11-11T07:31:21Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "blacklisted Chinese university buys Nvidia H200 AI chips through domestic suppliers: Report",
-            "url": "https://www.tribuneindia.com/news/business/us-blacklisted-chinese-university-buys-nvidia-h200-ai-chips-through-domestic-suppliers-report/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVjZDlkOTUwLWRkYTEtMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
-            "publishedAt": "2026-11-11T07:27:25Z"
-        },
-        {
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            },
-            "title": "US-blacklisted Chinese university buys Nvidia H200 AI chips through domestic suppliers: Report",
-            "url": "https://www.aninews.in/news/business/us-blacklisted-chinese-university-buys-nvidia-h200-ai-chips-through-domestic-suppliers-report20261111125644/",
-            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261111071329-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-11-11T07:26:44Z"
         }
     ]
 }
