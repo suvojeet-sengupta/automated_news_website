@@ -1,6 +1,207 @@
 {
-    "lastUpdatedAt": "2026-11-24T08:05:09.842796Z",
+    "lastUpdatedAt": "2026-11-24T19:52:54.978872Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Signal joins United Airlines, banks in limiting AI agents",
+            "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108121787-1743022694548-gettyimages-2206472434-porzycki-signalan250326_npuvO.jpeg?v=1743022732&w=1920&h=1080",
+            "publishedAt": "2026-11-24T07:25:41Z"
+        },
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "Trump’s intervention on behalf of Jensen Huang gives Democrats another 2028 target",
+            "url": "https://triblive.com/news/world/trumps-intervention-on-behalf-of-jensen-huang-gives-democrats-another-2028-target/",
+            "urlToImage": "https://assets-varnish.triblive.com/2026/11/10158910_web1_10158910-0c4e8e2d99e64904a872afc2ee472bf2.jpg",
+            "publishedAt": "2026-11-24T07:01:20Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Anthropic rolls out zero data retention policy for advanced AI",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/11/24/anthropic-rolls-out-zero-data-retention-policy-for-advanced-ai",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/11/24/4228759.jpg",
+            "publishedAt": "2026-11-24T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "AI adoption to sustain demand for Indian IT services firms; labour-based models face pressure: Report",
+            "url": "https://www.livemint.com/technology/ai-adoption-to-sustain-demand-for-indian-it-services-firms-labour-based-models-face-pressure-report-11795503561451.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
+            "publishedAt": "2026-11-24T06:59:20Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI adoption to sustain demand for Indian IT services firms; labour-based models face pressure: Report",
+            "url": "https://www.devdiscourse.com/article/business/4011203-ai-adoption-to-sustain-demand-for-indian-it-services-firms-labour-based-models-face-pressure-report",
+            "urlToImage": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/24_11_2026_12_28_51_9943186.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-11-24T06:58:57Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "AI adoption to sustain demand for Indian IT services firms; labour",
+            "url": "https://www.tribuneindia.com/news/business/ai-adoption-to-sustain-demand-for-indian-it-services-firms-labour-based-models-face-pressure-report/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZiYWUzY2UwLWU3ZDQtMTFmMS05NjM3LTViY2YwYzFjMTk4YS5qcGc=",
+            "publishedAt": "2026-11-24T06:58:07Z"
+        },
+        {
+            "source": {
+                "id": "6330fe7e7b8cfc9b8540c05881fcc289",
+                "name": "U.Today",
+                "url": "https://u.today",
+                "country": "ae"
+            },
+            "title": "Ethereum Foundation Sounds Alarm Over AI Threats",
+            "url": "https://u.today/ethereum-foundation-sounds-alarm-over-ai-threats",
+            "urlToImage": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2026-11/IMG_0340.jpeg",
+            "publishedAt": "2026-11-24T06:54:22Z"
+        },
+        {
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            },
+            "title": "AI adoption to sustain demand for Indian IT services firms; labour-based models face pressure: Report",
+            "url": "https://www.aninews.in/news/business/ai-adoption-to-sustain-demand-for-indian-it-services-firms-labour-based-models-face-pressure-report20261124122411/",
+            "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261124065054-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-11-24T06:54:11Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Push to hold companies legally liable for their AI agents",
+            "url": "https://www.afr.com/politics/federal/push-to-hold-companies-legally-liable-for-their-ai-agents-20261124-p61gt3",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2613%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_156%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/01f615915711c3f271f002ce8b106b6937aee241",
+            "publishedAt": "2026-11-24T06:47:01Z"
+        },
+        {
+            "source": {
+                "id": "628299239469ffa8b7dbb809aabbcc2e",
+                "name": "Analytics India Magazine",
+                "url": "https://analyticsindiamag.com",
+                "country": "in"
+            },
+            "title": "How Will AI Change Jobs in India? The Roles at Risk & Those on the Rise",
+            "url": "https://analyticsindiamag.com/ai-features/how-will-ai-change-jobs-in-india-the-skills-roles-and-workers-at-risk",
+            "urlToImage": "https://analyticsindiamag.com/cdn-cgi/image/width=1200,height=675,fit=cover,quality=70,format=jpeg/https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1795498386379-56lcde.webp",
+            "publishedAt": "2026-11-24T06:46:31Z"
+        },
+        {
+            "source": {
+                "name": "theprint"
+            },
+            "title": "Jensen Huang’s return added $1 trillion to Nvidia’s value. How can one man do that?",
+            "url": "https://theprint.in/theprint-essential/jensen-huangs-return-added-1-trillion-to-nvidias-value-how-can-one-man-do-that/3107263/",
+            "urlToImage": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/Jensen-Huang.jpg",
+            "publishedAt": "2026-11-24 07:33:26"
+        },
+        {
+            "source": {
+                "name": "aithority"
+            },
+            "title": "Sunway Group Accelerates Secure and Sovereign Enterprise-wide Artificial Intelligence With HPE",
+            "url": "https://aithority.com/it-and-devops/cloud/sunway-group-accelerates-secure-and-sovereign-enterprise-wide-artificial-intelligence-with-hpe/",
+            "urlToImage": "https://aithority.com/wp-content/uploads/2026/11/7xm.xyz122199-1.jpg",
+            "publishedAt": "2026-11-24 07:32:03"
+        },
+        {
+            "source": {
+                "name": "business-standard"
+            },
+            "title": "AI infrastructure spending set to jump 53% to $2.4 trn in 2027: Gartner",
+            "url": "https://www.business-standard.com/technology/artificial-intelligence/ai-infrastructure-spending-set-to-jump-53-to-2-4-trn-in-2027-gartner-126112400377_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/05/full/1793899527-9698.jpg",
+            "publishedAt": "2026-11-24 07:25:08"
+        },
+        {
+            "source": {
+                "name": "helpnetsecurity"
+            },
+            "title": "AWS European Sovereign Cloud: Architecture, assurance, and compliance",
+            "url": "https://www.helpnetsecurity.com/2026/11/24/aws-european-sovereign-cloud-details/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/08/18175341/aws-1500.webp",
+            "publishedAt": "2026-11-24 06:15:37"
+        },
+        {
+            "source": {
+                "name": "news18"
+            },
+            "title": "AI Data Centres Are Consuming Electricity On The Scale Of US States",
+            "url": "https://www.news18.com/tech/ai-data-centres-are-consuming-electricity-on-the-scale-of-us-states-10438396.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/11/AI-data-centres-US-2026-11-d07b03b8f976ad1d2f7e96a7fcce9371-1200x800.jpg",
+            "publishedAt": "2026-11-24 06:01:10"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Head to Head Comparison: QuoteMedia (OTCMKTS:QMCI) vs. Baidu (NASDAQ:BIDU)",
+            "url": "https://www.thelincolnianonline.com/2026/11/24/head-to-head-comparison-quotemedia-otcmktsqmci-vs-baidu-nasdaqbidu.html",
+            "urlToImage": "https://www.marketbeat.com/logos/quotemedia-inc-logo-1200x675.png?v=20230113075645",
+            "publishedAt": "2026-11-24 05:14:42"
+        },
+        {
+            "source": {
+                "name": "cfotech_in"
+            },
+            "title": "SAS named leader in Asia-Pacific sovereign AI platforms",
+            "url": "https://cfotech.in/story/sas-named-leader-in-asia-pacific-sovereign-ai-platforms",
+            "urlToImage": "https://cfotech.in/uploads/story/2026/11/24/compatible_asia-pacific-office-dashboard-secure-cloud-server-data-locks-story-325782.jpg",
+            "publishedAt": "2026-11-24 02:49:00"
+        },
+        {
+            "source": {
+                "name": "itbrief_in"
+            },
+            "title": "SAS named leader in Asia-Pacific sovereign AI platforms",
+            "url": "https://itbrief.in/story/sas-named-leader-in-asia-pacific-sovereign-ai-platforms",
+            "urlToImage": "https://itbrief.in/uploads/story/2026/11/24/compatible_asia-pacific-office-dashboard-secure-cloud-server-data-locks-story-325782.jpg",
+            "publishedAt": "2026-11-24 02:49:00"
+        },
+        {
+            "source": {
+                "name": "businessworld"
+            },
+            "title": "Nearly 60% Of AI Spending in 2027 Will Go To AI Infrastructure: Gartner",
+            "url": "https://www.businessworld.in/article/nearly-60-of-ai-spending-in-2027-will-go-to-ai-infrastructure-gartner-634944",
+            "urlToImage": "https://static.businessworld.in/1711474853_y0HSJ9_data_centres_1_.jpg",
+            "publishedAt": "2026-11-24 00:00:00"
+        },
         {
             "source": {
                 "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
@@ -3099,213 +3300,6 @@
             "url": "https://www.exhibitionshowcase.com/bengaluru-tech-summit-2026-showcases-six-innovation-initiatives-in-karnataka/",
             "urlToImage": "https://www.exhibitionshowcase.com/wp-content/uploads/2026/11/btss.jpg",
             "publishedAt": "2026-11-18 06:41:39"
-        },
-        {
-            "source": {
-                "name": "enterpriseitworld"
-            },
-            "title": "Cloud.in’s OpenAI Select Partner Status Signals a New Push into Enterprise AI Engineering",
-            "url": "https://enterpriseitworld.com/cloud-ins-openai-select-partner-status-signals-a-new-push-into-enterprise-ai-engineering/",
-            "urlToImage": "https://enterpriseitworld.com/wp-content/uploads/2026/11/Rahul-Kurkure.png",
-            "publishedAt": "2026-11-18 06:14:47"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Neysa deploys AMD's MI350X GPU cluster in Mumbai to expand AI compute capacity",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/neysa-deploys-amds-mi350x-gpu-cluster-in-mumbai-to-expand-ai-compute-capacity/articleshow/135960177.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-113920,resizemode-75,msid-135960177/ai/ai-insights/neysa-deploys-amds-mi350x-gpu-cluster-in-mumbai-to-expand-ai-compute-capacity.jpg",
-            "publishedAt": "2026-11-18 05:16:55"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Humanoid Robot Market 2026 (New Report) by Top Prominent Players, Market Size, Share, Growth Trends and Industry Analysis - USD 47.49 Billion Forecast by 2035",
-            "url": "https://www.prnewswire.com/news-releases/humanoid-robot-market-2026-new-report-by-top-prominent-players-market-size-share-growth-trends-and-industry-analysis--usd-47-49-billion-forecast-by-2035--302943209.html",
-            "urlToImage": "https://mmx.prnewswire.com/media/MS2026226/Global-Growth-Insights.jpg?id=OA3084375&p=original",
-            "publishedAt": "2026-11-18 05:02:00"
-        },
-        {
-            "source": {
-                "name": "nynewsly"
-            },
-            "title": "Humanoid Robot Market 2026 (New Report) by Top Prominent Players, Market Size, Share, Growth Trends and Industry Analysis – USD 47.49 Billion Forecast by 2035",
-            "url": "https://nynewsly.com/humanoid-robot-market-2026-new-report-by-top-prominent-players-market-size-share-growth-trends-and-industry-analysis-usd-47-49-billion-forecast-by-2035/65849/",
-            "urlToImage": "https://nynewsly.com/wp-content/themes/publisher/images/default-thumb/large.png",
-            "publishedAt": "2026-11-18 05:02:00"
-        },
-        {
-            "source": {
-                "name": "nynewscast"
-            },
-            "title": "Humanoid Robot Market 2026 (New Report) by Top Prominent Players, Market Size, Share, Growth Trends and Industry Analysis – USD 47.49 Billion Forecast by 2035",
-            "url": "https://nynewscast.com/humanoid-robot-market-2026-new-report-by-top-prominent-players-market-size-share-growth-trends-and-industry-analysis-usd-47-49-billion-forecast-by-2035-301454/",
-            "urlToImage": "https://nynewscast.com/wp-content/uploads/2026/11/Global-Growth-Insights.jpg",
-            "publishedAt": "2026-11-18 05:02:00"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "Visa Brings the Future of Commerce to Life at Singapore FinTech Festival 2026",
-            "url": "https://www.prnewswire.com/apac/news-releases/visa-brings-the-future-of-commerce-to-life-at-singapore-fintech-festival-2026-302942996.html",
-            "urlToImage": "https://mmx.prnewswire.com/media/MS1126985/visa-Logo.jpg?id=OA3084702&p=original",
-            "publishedAt": "2026-11-18 04:30:00"
-        },
-        {
-            "source": {
-                "name": "mckinsey"
-            },
-            "title": "What is cloud computing? -test",
-            "url": "https://www.mckinsey.com/what-is-cloud-computing--test",
-            "urlToImage": "https://www.mckinsey.com/~/media/images/global/seoimageplaceholder.jpg",
-            "publishedAt": "2026-11-18 00:00:00"
-        },
-        {
-            "source": {
-                "id": "e382ce4dfbd3358e338d63782000b7df",
-                "name": "HuffPost",
-                "url": "https://www.huffpost.com",
-                "country": "us"
-            },
-            "title": "The Funniest Tweets About The Cybersecurity Failures",
-            "url": "https://www.huffpost.com/entry/cybersecurity-failures-best-reaction-tweets_l_6afcba7fe4b076227f02393b",
-            "urlToImage": "https://img.huffingtonpost.com/asset/6afcc740150000c5dd13bfb9.jpg?cache=GH6GSbMoGh&ops=1200_630",
-            "publishedAt": "2026-11-17T22:56:42Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Securing agentic AI harnesses: five controls to reduce enterprise risk",
-            "url": "https://itwire.com/guest-articles/guest-opinion/securing-agentic-ai-harnesses-five-controls-to-reduce-enterprise-risk",
-            "urlToImage": "https://media.itwire.com/2026/11/17/securing-agentic-ai-harnesses-five-controls-to-reduce-enterprise-risk-e0547119df67.webp",
-            "publishedAt": "2026-11-17T22:55:36Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Quad announces new maritime exercise; unveils major initiatives on AI, cyber security",
-            "url": "https://www.dailyexcelsior.com/quad-announces-new-maritime-exercise-unveils-major-initiatives-on-ai-cyber-security-2/",
-            "urlToImage": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWVjMDcwNjYwLWUyZDktMTFmMS1hMTc4LTA3OWEzYTA3ZTExMS5qcGc=",
-            "publishedAt": "2026-11-17T22:55:01Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "AI discovers critical Java security flaw threatening enterprise systems used by Fortune 500 companies",
-            "url": "https://techstartups.com/2026/11/17/ai-discovers-critical-java-security-flaw-threatening-enterprise-systems-used-by-fortune-500-companies/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2026/11/AI-discovers-critical-Java-security-flaw-threatening-enterprise-systems-used-by-Fortune-500-companies.jpg",
-            "publishedAt": "2026-11-17T22:48:18Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Forgetful neural networks could shed light on how humans learn",
-            "url": "https://medicalxpress.com/news/2026-11-neural-networks-humans.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/forgetful-neural-netwo.jpg",
-            "publishedAt": "2026-11-17T22:40:12Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "What is causing the many widespread outages? Michigan cybersecurity experts weigh in.",
-            "url": "https://www.cbsnews.com/detroit/news/michigan-cybersecurity-experts-weigh-in-on-multiple-outages/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/37dd1ace-1d5d-4e1c-9322-d1a49618a116/thumbnail/1200x630/3cddcc1b13bb458479ad8db5926edd38/snapshot-2026-11-17t173911-526.jpg",
-            "publishedAt": "2026-11-17T22:40:06Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Big Splash of Dollars, Cool Oil Invigorate Rupee",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/nov/18/et-front/big-splash-of-dollars-cool-oil-invigorate-re/articleshow/135941385.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-135943453,width-1200,height-900,imgsize-91238,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-11-17T22:20:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Quad Sets Up Business Forum,Spurs Maritime Intel Ties",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/nov/18/et-front/quad-sets-up-biz-forumspurs-maritime-intel-ties/articleshow/135941389.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-135943466,width-1200,height-900,imgsize-193836,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-11-17T22:20:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Quad Sets Up Business Forum,Spurs Maritime Intel Ties",
-            "url": "https://economictimes.indiatimes.com/et-front/quad-sets-up-biz-forumspurs-maritime-intel-ties/articleshow/135941389.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-135943466,width-1200,height-900,imgsize-193836,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-11-17T22:20:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Big Splash of Dollars, Cool Oil Invigorate Rupee",
-            "url": "https://economictimes.indiatimes.com/et-front/big-splash-of-dollars-cool-oil-invigorate-re/articleshow/135941385.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-135943453,width-1200,height-900,imgsize-91238,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-11-17T22:20:00Z"
-        },
-        {
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            },
-            "title": "Gottheimer Pushes Mandatory AI Reviews, CISA Resources - MeriTalk",
-            "url": "https://www.europesays.com/3382277/",
-            "urlToImage": "https://www.europesays.com/wp-content/uploads/2026/02/Adobe-Express-file-3-1.jpg",
-            "publishedAt": "2026-11-17T22:10:06Z"
-        },
-        {
-            "source": {
-                "id": "9f2e79f0f9194d0d88f0074def064e60",
-                "name": "The Korea Times",
-                "url": "https://www.koreatimes.co.kr",
-                "country": "kr"
-            },
-            "title": "Growing distrust on AI glasses poses dilemma for device makers",
-            "url": "https://www.koreatimes.co.kr/business/tech-science/20261118/growing-distrust-on-ai-glasses-poses-dilemma-for-device-makers",
-            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/11/17/cf433444-b66a-47ab-bb0a-44d7bafcc810.jpg",
-            "publishedAt": "2026-11-17T22:00:18Z"
         }
     ]
 }
